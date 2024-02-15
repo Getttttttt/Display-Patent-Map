@@ -1,0 +1,205 @@
+ID
+    WO2017082768A1
+citation_exist
+    Patent Citations (5)
+citation_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20080067862A1                      *,2006-09-19,2008-03-20,Thomas Parrott,Trailer brake system
+    US20100151980A1                      *,2008-12-16,2010-06-17,Timothy James Bowman,Flywheel drive control arrangement
+    RU2439391C1                      *,2010-07-02,2012-01-10,Государственное образовательное учреждение высшего профессионального образования Северо-Кавказский горно-металлургический институт (государственный технологический университет) (СКГМИ (ГТУ),Рекуперативный тормоз
+    RU2509241C1                      *,2012-10-01,2014-03-10,Федеральное государственное бюджетное образовательное учреждение высшего профессионального образования "Кубанский государственный технологический университет" (ФГБОУ ВПО "КубГТУ"),Маховик переменного момента инерции
+    US20150087476A1                      *,2013-09-24,2015-03-26,Volvo Car Corporation,Rear drive unit for a hybrid electric motor vehicle
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    WO2019183678A1                      *,2018-03-28,2019-10-03,Gajic Alan,A drive system and method for driving a trailer
+    Family To Family Citations,,,,
+    RU2653221C1                      *,2017-05-29,2018-05-07,Федеральное государственное бюджетное образовательное учреждение высшего образования "Кубанский государственный технологический университет" (ФГБОУ ВО "КубГТУ"),Рекуператор транспортного средства с упругими элементами
+    DE102022104073A1                      *,2022-02-22,2023-08-24,Zf Cv Systems Global Gmbh,Bremssystem, Verfahren zum Betreiben des Bremssystems und Fahrzeug
+
+abstract
+    ﻿Способ управления n-осным прицепом тягача заключается в том, что определяют скорость вращения колес n-осного прицепа, которую передают в блок управления, в который также передают сигналы от тормозной системы тягача, и вычисляют тормозное усилие для каждого из колес n-осного прицепа, которое передают на тормозной привод n-осного прицепа, в котором формируют управляющее воздействие и направляют на соответствующие тормоза n-осного прицепа. При торможении производят накопление механической энергии на m осях n-осного прицепа, где m≤n, при движении осуществляют регулируемую передачу накопленной механической энергии на m осей n-осного прицепа, а управление тормозами n-осного прицепа осуществляют с учетом текущего значения уровня накопленной механической энергии. Устройство управления n-осным прицепом тягача содержит блок (8) управления, датчик (11) педали тормоза тягача, датчики 71-7n скорости вращения колес n-осного прицепа, тормозной привод 6 n-осного прицепа, вход которого соединен с устройством (14) управления тормозной системой тягача, а выход подключен к тормозным механизмам 51-5n n-осного прицепа. Устройство также содержит m рекуператоров 91-9m механической энергии, закрепленных на m осях 31-3m n-осного прицепа, где m≤n, индикатор (15) зарядки рекуператоров механической энергии, регулятор (16) разрядки рекуператоров механической энергии, датчик (17) скорости вращения колес тягача, и контроллер (10).
+title
+    Способ управления n-осным прицепом тягача и устройство для его осуществления
+similar_document
+26
+    Publication,Publication Date,Title
+    CN102218988B,2016-05-25,在车辆中分配驱动力的系统及方法
+    CN102481860B,2014-07-09,用于控制电驱动机械的驾驶方向的方法和系统
+    US20200062239A1,2020-02-27,Method and apparatus for an active convertor dolly
+    US6516925B1,2003-02-11,System and method for braking a towed conveyance
+    CN103029596B,2015-07-08,电动汽车蠕动控制方法、装置及电动汽车
+    US9738265B2,2017-08-22,System and method for determining engine disconnect clutch torque
+    CN114454866A,2022-05-10,用于重型车辆的基于车轮滑移的车辆运动管理
+    US20120283928A1,2012-11-08,Method and system for controlling a vehicle cruise control
+    CN102159439B,2015-06-17,发动机驱动装置、用于调节该装置的方法及调节或控制器
+    US11007894B2,2021-05-18,Electrified vehicle control during towing
+    JP2003063265A,2003-03-05,ハイブリッド車両の駆動力分配装置
+    DE102019202784A1,2019-11-07,Anhänger für ein Fahrzeug
+    CN101795888B,2013-08-21,车辆的制动驱动力控制装置
+    EA007823B1,2007-02-27,Система управления сельскохозяйственного или промышленного транспортного средства и способ эксплуатации системы управления
+    WO2017082768A1,2017-05-18,Способ управления n-осным прицепом тягача и устройство для его осуществления
+    CN100515815C,2009-07-22,电动车空调电机驱动系统及该系统的控制方法
+    WO2020107125A1,2020-06-04,Anti-jackknifing control apparatus and method for active converter dolly
+    GB2428755A,2007-02-07,Vehicle traction control using an active limited slip differential
+    KR101801836B1,2017-11-28,차량 주행 시의 에너지 소비량을 결정하기 위한 방법 및 장치
+    WO2019053025A1,2019-03-21,SYSTEM AND METHOD FOR A TRAILER REMORABLE BY A VEHICLE
+    EP3383716A1,2018-10-10,Method and device for determining a measure of brake system usage during operation of a vehicle
+    CN107933282B,2019-12-06,一种半挂汽车列车液压辅助驱动控制方法、装置及系统
+    US20170159593A1,2017-06-08,Control of preparatory measures in a vehicle
+    CN102555758A,2012-07-11,公交汽车液电混合动力系统
+    US20230112013A1,2023-04-13,Methods for controlling a power level in an energy source of a vehicle unit
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    DE112016005158.1T,2015-11-11,2016-10-27,Verfahren zur Steuerung eines n-achsigen Anhängers einer Zugmaschine und Vorrichtung zu seiner Durchführung
+
+inventor_number
+    3
+classfication_nums
+    15
+classfication_items
+96
+    B
+    B,6,2
+    B,6,2,D
+    B,6,2,D,5,3,/,0,0
+    B,6,2,D,5,3,/,0,0,5
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,1,/,0,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,0,8
+    B,6,0,K,6,/,1,0
+    B,6,0,K,6,/,1,0,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,0,2
+    B,6,0,T,1,3,/,0,6
+    B,6,0,T,1,3,/,0,6,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,2,4
+    B,6,0,T,1,3,/,2,6
+    B,6,0,T,1,3,/,2,6,1
+    B,6,0,T,1,3,/,2,6,3
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,2,4
+    B,6,0,T,1,3,/,2,6
+    B,6,0,T,1,3,/,2,6,1
+    B,6,0,T,1,3,/,2,6,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,1,2
+    B,6,0,T,7,/,2,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,0,1
+    B,6,0,T,8,/,1,7,0,8
+    B
+    B,6,1
+    B,6,1,H
+    B,6,1,H,1,/,0,0
+    B
+    B,6,2
+    B,6,2,D
+    B,6,2,D,5,3,/,0,0
+    B,6,2,D,5,3,/,0,4
+    B,6,2,D,5,3,/,0,8
+    B,6,2,D,5,3,/,0,8,9,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,0,2
+    B,6,0,T,1,3,/,0,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,2,1
+    B,6,0,T,8,/,3,2,3
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,4
+    B,6,0,T,8,/,3,4,9
+
+application_events
+3
+    2016-10-27,Application filed by Денис Валентинович НИКИШИН
+    2016-10-27,Priority to DE112016005158.1T
+    2017-05-18,Publication of WO2017082768A1
+
+active_area
+1
+    W,O
+
+not_active_area
+2
+    R,U
+    D,E
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    RU2015148463,2015-11-11,
+    RU2015148463A,2015-11-11,СПОСОБ УПРАВЛЕНИЯ n-ОСНЫМ ПРИЦЕПОМ ТЯГАЧА И УСТРОЙСТВО ДЛЯ ЕГО ОСУЩЕСТВЛЕНИЯ
+
+legal_event
+4
+    Date,Code,Title,Description
+    2017-07-12,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 16864654Country of ref document: EPKind code of ref document: A1
+    2018-05-11,WWE,Wipo information: entry into national phase,Ref document number: 112016005158Country of ref document: DE
+    2018-12-05,122,Ep: pct application non-entry in european phase,Ref document number: 16864654Country of ref document: EPKind code of ref document: A1
+

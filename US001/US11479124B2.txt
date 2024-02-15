@@ -1,0 +1,246 @@
+ID
+    US11479124B2
+citation_exist
+    Patent Citations (32)
+citation_infor
+34
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5915801A                      *,1995-07-18,1999-06-29,Toyota Jidosha Kabushiki Kaisha,Regenerative brake controller for controlling value of regenerative braking torque simulating engine braking torque
+    US20020024306A1                      *,2000-08-11,2002-02-28,Honda Giken Kogyo Kabushiki Kaisha,Power transmitting apparatus for hybrid vehicle and method of controlling power transmitting apparatus
+    CN101024397A,2006-02-22,2007-08-29,三菱扶桑卡客车株式会社,Control device for hybrid electric vehicle
+    US20090051304A1                      *,2006-01-31,2009-02-26,Koichiro Muta,Vehicle, control method thereof and braking device
+    CN102166961A,2011-03-31,2011-08-31,北京汽车新能源汽车有限公司,AT (automatic transmission)-based pure electric automobile brake energy recovery control system and method thereof
+    US8567547B2,2010-03-23,2013-10-29,Purdue Research Foundation,Regenerative braking method
+    US20140210383A1,2013-01-30,2014-07-31,Nidec Motor Corporation,Sensorless motor braking system
+    US20150084576A1,2013-05-03,2015-03-26,Texas Instruments Incorporated,Low Speed and High Speed Controller Architecture for Electric Motors
+    US9026296B1,2013-11-08,2015-05-05,Ford Global Technologies, Llc,System for controlling overall coasting torque in a hybrid electric vehicle
+    US20150232097A1,2006-03-20,2015-08-20,General Electric Company,Energy management system and method for vehicle systems
+    US20150236632A1,2014-02-19,2015-08-20,Deere & Company,Methods of controlling a machine using a torque command limit derived from a current limit and systems thereof
+    US20160294314A1,2015-03-31,2016-10-06,Texas Instruments Incorporated,Fractional Delay Adjustment in a Field-Oriented Control Architecture
+    US9692336B2,2015-10-09,2017-06-27,Texas Instruments Incoporated,Asynchronous state estimation and control in a field-oriented control architecture
+    US9783063B2,2015-08-27,2017-10-10,Texas Instruments Incorporated,Regenerative braking controller for electric motors
+    US20180244157A1,2015-07-29,2018-08-30,Nissan Motor Co., Ltd.,Control device for electric vehicle and control method for electric vehicle
+    Family To Family Citations,,,,
+    JP3365301B2                      *,1998-03-19,2003-01-08,トヨタ自動車株式会社,Vehicle braking energy control apparatus and control method thereof
+    US6909200B2                      *,2002-02-28,2005-06-21,Azure Dynamics Inc.,Methods of supplying energy to an energy bus in a hybrid electric vehicle, and apparatuses, media and signals for the same
+    JP4134706B2                      *,2002-12-10,2008-08-20,日産自動車株式会社,Braking device for vehicle
+    JP4370775B2                      *,2002-12-17,2009-11-25,日産自動車株式会社,Combined brake coordination controller
+    JP2007246011A                      *,2006-03-17,2007-09-27,Mitsubishi Fuso Truck & Bus Corp,Controller for hybrid electric car
+    JP5052265B2                      *,2007-09-06,2012-10-17,トヨタ自動車株式会社,Travel path determination device and vehicle travel control device
+    US8596390B2                      *,2007-12-05,2013-12-03,Ford Global Technologies, Llc,Torque control for hybrid electric vehicle speed control operation
+    JP5676907B2                      *,2010-02-17,2015-02-25,石原産業株式会社,Method for treating lithium titanate particles
+    US20110246012A1                      *,2010-04-05,2011-10-06,Continental Automotive Systems, Inc.,Intelligent regenerative braking utilizing environmental data
+    US20120133202A1                      *,2010-11-29,2012-05-31,Gm Global Technology Operations, Inc.,Dynamic regenerative braking torque control
+    JP5808923B2                      *,2011-03-18,2015-11-10,Ntn株式会社,Motor drive device and electric vehicle
+    US8849538B2                      *,2011-04-21,2014-09-30,Pioneer Corporation,Torque distribution apparatus, torque distribution method, torque distribution value generation method, and program
+    WO2013175556A1                      *,2012-05-21,2013-11-28,トヨタ自動車株式会社,Vehicle brake system and pressure regulator used therein
+    GB2512287B                      *,2013-03-22,2015-06-03,Jaguar Land Rover Ltd,Improvements in vehicle steering
+    JP6187268B2                      *,2014-01-10,2017-08-30,トヨタ自動車株式会社,Electric vehicle
+    CN103991384B                      *,2014-05-26,2016-04-20,北京理工大学,A kind of composite braking system of elec. vehicle and composite brakig method thereof
+    US9669835B2                      *,2015-10-27,2017-06-06,GM Global Technology Operations LLC,Method and apparatus for controlling a powertrain system during deceleration
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (7)
+              
+
+
+citedBy_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    CN113346821B                      *,2020-03-02,2022-07-12,广东威灵电机制造有限公司,Motor control method, motor control device, motor system, and storage medium
+    WO2021234738A2                      *,2020-05-21,2021-11-25,Sedemac Mechatronics Pvt Ltd,A method for controlling a rotary electric machine and a system thereof
+    US20220416694A1                      *,2021-06-24,2022-12-29,Infineon Technologies Austria Ag,Estimating motor speed and position
+    CN113556065A                      *,2021-07-02,2021-10-26,中国科学院长春光学精密机械与物理研究所,Safety protection system for large-aperture telescope
+    US20230026306A1                      *,2021-07-21,2023-01-26,Microchip Technology Incorporated,Control of a regenerative brake for a motor system and related systems, methods, and devices
+    CN113799614B                      *,2021-09-13,2023-04-21,的卢技术有限公司,Brake energy recovery control method and system for four-wheel independent drive electric vehicle
+    WO2023076942A1                      *,2021-10-28,2023-05-04,Atieva, Inc.,Rotor angle limit for static heating of electric motor
+
+abstract
+    A regenerative braking controller for an AC motor. To determine an electromagnetic torque for slowing or stopping the motor, the regenerative braking controller accesses a lookup table to retrieve a braking torque value corresponding to a current estimate of rotor velocity. The retrieved braking torque may correspond to a maximum or minimum torque level at which regenerative braking will occur at the current rotor velocity, or to a torque level at which charging current during regenerative braking will be maximized. If an external mechanical brake is present, the regenerative braking controller can forward an external braking torque signal to a controller so that the mechanical brake can apply the remainder of the braking force beyond that indicated by the regenerative braking torque. A method for establishing the braking torques to be stored in the lookup table is also disclosed.
+title
+    Optimized regenerative braking control of electric motors using look-up tables
+similar_document
+26
+    Publication,Publication Date,Title
+    US11479124B2,2022-10-25,Optimized regenerative braking control of electric motors using look-up tables
+    US8497645B2,2013-07-30,Control device for electric motor drive device
+    JP5120670B2,2013-01-16,Control device for motor drive device
+    JP5120669B2,2013-01-16,Control device for motor drive device
+    EP3002872B1,2020-04-01,Methods of estimating rotor magnet temperature and systems thereof
+    JP2000032799A,2000-01-28,Controller and control method for electric rotating machine
+    JP5803559B2,2015-11-04,Rotating electrical machine control device
+    JP2002095300A,2002-03-29,Method of controlling permanent magnet synchronous motor
+    US8754603B2,2014-06-17,Methods, systems and apparatus for reducing power loss in an electric motor drive system
+    US20130249457A1,2013-09-26,Methods, systems and apparatus for generating voltage command signals for controlling operation of an electric machine
+    JP2014150655A,2014-08-21,Inverter device and control method therefor, and motor drive system
+    JP4522273B2,2010-08-11,Motor control device and motor drive system having the same
+    JP6998717B2,2022-01-18,Variable magnetic force motor control method and control device
+    JP5948266B2,2016-07-06,Inverter device, construction machine, electric motor control method
+    JP2018057077A,2018-04-05,Motor control device and drive system
+    US8729847B2,2014-05-20,Methods, systems and apparatus for generating current commands used to control operation of an electric machine
+    Zhang et al.,2006,A new scheme to direct torque control of interior permanent magnet synchronous machine drives for constant inverter switching frequency and low torque ripple
+    JP6937211B2,2021-09-22,Variable magnetic field motor control method and control device
+    JP5991577B2,2016-09-14,Drive control method for permanent magnet synchronous motor
+    JP5800933B2,2015-10-28,Motor control device for controlling synchronous motor
+    Kari et al.,2018,Super-twisting strategy based indirect field oriented control without using the currents sensor: application to IM
+    JP7162685B2,2022-10-28,AC rotary electric machine control device
+    JP2022121778A,2022-08-22,Control device for high efficiency operation and control method for high efficiency operation of permanent magnet synchronous motor
+    CN116472666A,2023-07-21,Control device for rotating electric machine and electric power steering device
+    Kadjoudj et al.,2006,Modified direct torque control of PMSM drives using dither signal injection and non-hysteresis controllers
+
+patent_application
+2
+    Application,Priority date,Filing date,Relation,Title
+    US14/938,602,2015-11-11,2015-11-11,Continuation,Optimized regenerative braking control of electric motors using look-up tables
+
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    US17/352,436,2015-11-11,2021-06-21,Optimized regenerative braking control of electric motors using look-up tables
+    US18/049,319,2015-11-11,2022-10-25,Optimized regenerative braking control of electric motors using look-up tables
+
+inventor_number
+    3
+classfication_nums
+    15
+classfication_items
+93
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,1,/,0,0
+    H,0,2,P,2,1,/,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,6,/,0,0
+    H,0,2,P,6,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,2
+    B,6,0,L,1,5,/,0,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,1,/,0,0
+    H,0,2,P,2,1,/,2,2
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,7,/,0,0
+    H,0,2,P,2,7,/,0,4
+    H,0,2,P,2,7,/,0,6
+    H,0,2,P,2,7,/,0,8
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,3,/,0,0
+    H,0,2,P,3,/,0,6
+    H,0,2,P,3,/,0,8
+    H,0,2,P,3,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,9
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+8
+    2021-06-21,Application filed by Texas Instruments Inc
+    2021-06-21,Priority to US17/352,436
+    2021-10-07,Publication of US20210309112A1
+    2022-10-25,Application granted
+    2022-10-25,Priority to US18/049,319
+    2022-10-25,Publication of US11479124B2
+    Status,Active
+    2035-11-11,Anticipated expiration
+
+active_area
+4
+    U,S
+    C,N
+    U,S
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    US14/938,602,2015-11-11,Optimized regenerative braking control of electric motors using look-up tables
+    US17/352,436,2021-06-21,Optimized regenerative braking control of electric motors using look-up tables
+
+legal_event
+7
+    Date,Code,Title,Description
+    2021-06-21,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2021-08-23,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2022-06-27,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2022-09-08,STPP,Information on status: patent application and granting procedure in general,Free format text: AWAITING TC RESP, ISSUE FEE PAYMENT VERIFIED
+    2022-09-09,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2022-10-05,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

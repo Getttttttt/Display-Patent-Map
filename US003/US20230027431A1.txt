@@ -1,0 +1,221 @@
+ID
+    US20230027431A1
+citation_exist
+    Patent Citations (4)
+citation_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP6600850B2                      *,2015-03-23,2019-11-06,日立オートモティブシステムズ株式会社,Vehicle control apparatus and vehicle control method
+    JP6304157B2                      *,2015-07-15,2018-04-04,トヨタ自動車株式会社,Vehicle control device
+    JP6985645B2                      *,2018-02-02,2021-12-22,マツダ株式会社,Vehicle control method, vehicle system and vehicle control device
+    JP2020003570A,2018-06-26,2020-01-09,シャープ株式会社,Display device
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    An electric vehicle control device, an electric vehicle control method, and an electric vehicle control system according to one embodiment of the present invention are configured to: obtain, based on operation information on release of an accelerator pedal of a vehicle and turn information on a turn of the vehicle, change rate information on a temporal change amount of a regenerative braking force with respect to an operation amount of the accelerator pedal; and output a regenerative braking control command for applying the regenerative braking force to a wheel based on the change rate information.
+title
+    Electric Vehicle Control Device, Electric Vehicle Control Method, And Electric Vehicle Control System
+similar_document
+24
+    Publication,Publication Date,Title
+    KR101360038B1,2014-02-07,Control method of vehicle using in-wheel motor
+    EP3375656B1,2023-02-22,Braking/driving force control method and braking/driving force control device
+    US11584225B2,2023-02-21,One-pedal speed control for off-road driving
+    JP5263405B2,2013-08-14,Drive control device for standby four-wheel drive vehicle
+    US20160236672A1,2016-08-18,Running control device for vehicles
+    EP3028893B1,2019-06-19,Vehicle
+    US20230192064A1,2023-06-22,Estimation of vehicle speed in all-wheel-drive vehicle
+    KR20180058322A,2018-06-01,Brake control system and method for electric vehicle
+    US20220080971A1,2022-03-17,Uphill vehicle launch in one-pedal driving mode
+    CN101795908A,2010-08-04,Vehicle behavior control apparatus
+    US11161499B2,2021-11-02,Vehicle driving assistance device
+    US11505195B2,2022-11-22,One-pedal drive filters and rate limits of powertrain torque
+    US20220063626A1,2022-03-03,Electric Vehicle Control Device, Control Method, and Control System
+    JP2007325372A,2007-12-13,Electric vehicle controller
+    JP6443258B2,2018-12-26,Braking / driving force control device and braking / driving force control method
+    US20230027431A1,2023-01-26,Electric Vehicle Control Device, Electric Vehicle Control Method, And Electric Vehicle Control System
+    US10752288B2,2020-08-25,Lateral motion control for cornering and regenerative braking energy capture
+    US11584224B2,2023-02-21,Manual torque vectoring
+    EP3529113B1,2023-03-08,Lateral dynamic control for regenerative and friction brake blending
+    WO2022024753A1,2022-02-03,Drive control device for electric vehicle
+    JP2023016554A,2023-02-02,Electrically-operated all-wheel drive vehicle
+    KR20050048009A,2005-05-24,Braking control method for 4 wheel hybrid electric vehicle
+    KR20180019441A,2018-02-26,Method for controlling rear wheel of electric vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    21
+classfication_items
+128
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,0,2
+    B,6,0,W,3,0,/,0,4,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,2,0,5,0,/,0,0,0,1
+    B,6,0,W,2,0,5,0,/,0,0,1,9
+    B,6,0,W,2,0,5,0,/,0,0,2,2
+    B,6,0,W,2,0,5,0,/,0,0,2,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    B,6,0,W,2,7,1,0,/,0,8,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,2,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+4
+    2021-01-12,Application filed by Hitachi Astemo Ltd
+    2022-09-09,Assigned to HITACHI ASTEMO, LTD.
+    2023-01-26,Publication of US20230027431A1
+    Status,Pending
+
+active_area
+4
+    J,P
+    E,P
+    U,S
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2020-003570,2020-01-14,
+    JP2020003570A,2020-01-14,Control device for electric vehicle, method for controlling electric vehicle and control system for electric vehicle
+    PCT/JP2021/000628,2021-01-12,Electric vehicle control device, electric vehicle control method, and electric vehicle control system
+
+legal_event
+3
+    Date,Code,Title,Description
+    2022-09-09,AS,Assignment,Owner name: HITACHI ASTEMO, LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:KANEKO, SATOSHI;SUZUKI, KEISUKE;REEL/FRAME:061039/0592Effective date: 20220622
+    2022-11-09,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+

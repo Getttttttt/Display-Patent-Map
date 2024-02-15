@@ -1,0 +1,172 @@
+ID
+    US20130015796A1
+citation_exist
+    Patent Citations (16)
+citation_infor
+18
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5347443A                      *,1992-03-19,1994-09-13,Hitachi, Ltd.,Inverter apparatus and a restarting method at an instantaneous power failure
+    US6121736A                      *,1998-07-10,2000-09-19,Matsushita Electric Industrial Co., Ltd.,Control apparatus for motor, and motor unit having the control apparatus
+    US6153993A                      *,1994-06-14,2000-11-28,Kabushiki Kaisha Toshiba,Method and apparatus for controlling a brushless DC motor that indicates a motor failure
+    US20090096394A1                      *,2007-10-10,2009-04-16,Denso Corporation,Rotary electric system with star-connected multiphase stator windings
+    US20090195199A1                      *,2006-08-24,2009-08-06,Toyota Jidosha Kabushiki Kaisha,Motor drive device
+    US20100185350A1                      *,2008-01-17,2010-07-22,Toyota Jidosha Kabushiki Kaisha,Control device for electric-powered vehicle, and electric-powered vehicle with control device as well as control method for electric-powered vehicle, and computer-readable recording medium bearing program for causing computer to execute control method
+    US20110310644A1                      *,2010-06-16,2011-12-22,Hitachi Automotive Systems, Ltd.,Power Conversion Device
+    Family To Family Citations,,,,
+    EP0933858A1,1998-01-28,1999-08-04,Gec Alsthom Acec Transport S.A.,Method of protection by means of short-circuiting
+    JP4689905B2                      *,2001-08-29,2011-06-01,サンデン株式会社,Brushless motor drive control method and apparatus
+    DE10233873B4                      *,2002-07-25,2006-05-24,Siemens Ag,Control for a crane system, in particular a container crane
+    US6949908B2                      *,2003-10-06,2005-09-27,Wavecrest Laboratories, Llc,Fault-tolerant electric motor control system
+    JP4614820B2,2005-05-16,2011-01-19,日立オートモティブシステムズ株式会社,Rotating electrical machine control device
+    AT9241U3,2007-02-05,2007-12-15,Avl List Gmbh,METHOD AND DEVICE FOR CONTINUOUS MEASUREMENT OF DYNAMIC FLUID CONSUMPTION
+    JP4333751B2                      *,2007-02-15,2009-09-16,株式会社デンソー,Brushless motor drive device
+    KR101349851B1                      *,2007-10-18,2014-01-09,엘지전자 주식회사,Motor controller and method of controlling motor
+    DE102008043315A1,2008-10-30,2010-05-06,Robert Bosch Gmbh,Method for operating internal combustion engine, particularly for motor vehicle, involves detecting combustion chamber pressure within combustion chamber of combustion engine
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (10)
+              
+
+
+citedBy_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    EP2884653A1                      *,2013-12-12,2015-06-17,Alstom Technology Ltd,Improvements in or relating to the control of converters
+    WO2015197630A1                      *,2014-06-25,2015-12-30,Avl List Gmbh,Electrical driving and/or loading machine
+    US20170264183A1                      *,2014-08-19,2017-09-14,General Electric Technology Gmbh,Improvements in or relating to the control of converters
+    Family To Family Citations,,,,
+    DE112016000520T5                      *,2015-01-29,2017-12-28,Mitsubishi Electric Corporation,Energy conversion device
+    DE102016202169A1                      *,2015-02-18,2016-08-18,Robert Bosch Gmbh,Operating an arrangement of generator-operated electrical machine and active bridge rectifier
+    CN106468757B                      *,2015-08-21,2019-09-17,三垦电气株式会社,The test method and semiconductor module of semiconductor module
+    WO2017037945A1                      *,2015-09-04,2017-03-09,三菱電機株式会社,Power conversion device and heat pump device
+    DE102018123207A1                      *,2018-09-20,2020-03-26,Valeo Siemens Eautomotive Germany Gmbh,Control device for an inverter, inverter for a vehicle, vehicle and method for operating an inverter
+    CN111769780B                      *,2019-03-29,2022-02-08,北京新能源汽车股份有限公司,Control method and device of motor controller and automobile
+    CN113479065B                      *,2021-07-29,2023-01-10,中国第一汽车股份有限公司,Motor active short circuit control circuit and driving method thereof
+
+abstract
+    A converter for an electrical machine having a plurality of phase lines for connecting the electrical machine. For each phase line the converter has a half-bridge with a first first semiconductor switch is configured to electrically connect at least one of the phase lines intermittently to a first supply line of the converter, and a second semiconductor switch configured to electrically connect the phase line intermittently to a second supply line of the converter. The converter is configured for operation in a first energy recovery limiting mode in which at least two of the first semiconductor switches are at least intermittently on simultaneously.
+title
+    Converter for an electrical machine, controller and method for operating a converter
+similar_document
+26
+    Publication,Publication Date,Title
+    US9242564B2,2016-01-26,Converter for an electrical machine, controller and method for operating a converter
+    US9154051B2,2015-10-06,Operating state circuit for an inverter and method for setting operating states of an inverter
+    CN102237849B,2014-12-31,Motor drive device
+    JP6169203B1,2017-07-26,Electric motor control apparatus and electric motor control method
+    US6239566B1,2001-05-29,Drive system for a permanently excited electric motor having at least one phase winding
+    US9673744B2,2017-06-06,Operating state circuit for inverter and method for setting operating states of an inverter
+    US9667169B2,2017-05-30,Power conversion apparatus
+    JP5716715B2,2015-05-13,Rotating electric machine for vehicles
+    JP5641448B2,2014-12-17,Rotating electric machine for vehicles
+    CN110383677B,2023-02-17,Motor drive device and refrigeration cycle applicable equipment
+    EP2924873B1,2022-02-23,Alternating current electric power generator for vehicle
+    JP4772104B2,2011-09-14,Power converter
+    EP3051648B1,2021-06-02,Inrush current limiting circuit and power conversion device
+    JP6289597B1,2018-03-07,VEHICLE POWER DEVICE AND CONTROL METHOD FOR VEHICLE POWER DEVICE
+    JP2013511249A,2013-03-28,Power switch device for inverter
+    JP2013511247A,2013-03-28,Inverter
+    US20120217918A1,2012-08-30,Inverter
+    EP3473483B1,2022-11-02,Inverter for an electric machine, electric machine for a vehicle, vehicle and method for operating an inverter
+    WO2019021128A1,2019-01-31,A load dump
+    JP5017529B2,2012-09-05,Power converter for magnet synchronous motor
+    CN111095766B,2023-10-17,Intermediate circuit coupling in a driver bank
+    JP2010246281A,2010-10-28,Control device of rotating electric machine
+    JP2006314184A,2006-11-16,Motor device
+    US8598835B2,2013-12-03,Protection circuit for a drive circuit of a permanent magnet motor and corresponding system
+    CN114389236A,2022-04-22,Power conversion device
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US13/546,031,2011-07-11,2012-07-11,Converter for an electrical machine, controller and method for operating a converter
+
+inventor_number
+    5
+classfication_nums
+    6
+classfication_items
+38
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,9,/,0,0
+    H,0,2,P,2,9,/,0,2
+    H,0,2,P,2,9,/,0,2,4
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,9,/,0,0
+    H,0,2,P,2,9,/,0,2
+    H,0,2,P,2,9,/,0,2,4
+    H,0,2,P,2,9,/,0,2,4,1
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,3,/,0,0
+    H,0,2,P,3,/,0,6
+    H,0,2,P,3,/,1,8
+    H,0,2,P,3,/,2,2
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,7,/,0,0
+    H,0,2,P,2,7,/,0,4
+    H,0,2,P,2,7,/,0,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+
+application_events
+7
+    2012-07-11,Application filed by Magna E Car Systems GmbH and Co OG
+    2012-07-11,Priority to US13/546,031
+    2013-01-17,Publication of US20130015796A1
+    2016-01-26,Application granted
+    2016-01-26,Publication of US9242564B2
+    Status,Active
+    2033-06-02,Adjusted expiration
+
+active_area
+1
+    U,S
+
+not_active_area
+1
+    C,N
+
+patent_application_claiming_priority
+6
+    Application,Filing date,Title
+    US201161506401P,2011-07-11,
+    EP12151414.5A,2012-01-17,Control  for operating a converter for an electric machine
+    EPEP12151414.5,2012-01-17,
+    EP12151414,2012-01-17,
+    US13/546,031,2012-07-11,Converter for an electrical machine, controller and method for operating a converter
+
+legal_event
+7
+    Date,Code,Title,Description
+    2012-09-27,AS,Assignment,Owner name: MAGNA E-CAR SYSTEMS GMBH & CO. OG, AUSTRIAFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:FEICHTINGER, THOMAS;PAUL, WOLFGANG;SPINDELBERGER, CHRISTIAN;AND OTHERS;SIGNING DATES FROM 20120912 TO 20120917;REEL/FRAME:029040/0292
+    2014-12-03,AS,Assignment,Owner name: MAGNA STEYR BATTERY SYSTEMS GMBH & CO OG, AUSTRIAFree format text: CHANGE OF NAME;ASSIGNOR:MAGNA E-CAR SYSTEMS GMBH & CO OG;REEL/FRAME:034365/0207Effective date: 20130326
+    2015-12-05,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2016-01-06,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2019-07-16,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+    2023-09-18,FEPP,Fee payment procedure,Free format text: MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+

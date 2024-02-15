@@ -1,0 +1,171 @@
+ID
+    US20230090923A1
+citation_exist
+    NoCitation
+citation_infor
+    NoCitation
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    A vehicle control system may be provided for controlling adhesion of wheels to a route surface. The control system includes one or more processors configured to determine adhesion values representative of adhesion between the wheels of a vehicle and the route surface based on angular speeds of the wheels. An artificial intelligence neural network may generate a target slip value for the wheels that are coupled with at least two different axles of the vehicle by processing the adhesion values and modifying the target slip value to increase an average value of the adhesion values of the wheels. The one or more processors may control a torque applied to at least one of the axles based on the target slip value.
+title
+    Vehicle control system
+similar_document
+26
+    Publication,Publication Date,Title
+    US10780904B2,2020-09-22,Method for controlling and possibly recovering the adhesion of the wheels of a controlled axle of a railway vehicle
+    Tran et al.,2019,Safety verification of cyber-physical systems with reinforcement learning control
+    Shan et al.,2020,A reinforcement learning-based adaptive path tracking approach for autonomous driving
+    Mauer,1995,A fuzzy logic controller for an ABS braking system
+    John et al.,2013,Neural network-based adaptive feedback linearization control of antilock braking system
+    Noori et al.,2012,Fuzzy reliability-based traction control model for intelligent transportation systems
+    Farag et al.,2018,Tuning of PID track followers for autonomous driving
+    US11529982B2,2022-12-20,Vehicle control system
+    Hermansdorfer et al.,2021,End-to-end neural network for vehicle dynamics modeling
+    Liu et al.,2020,A time-delay neural network of sideslip angle estimation for in-wheel motor drive electric vehicles
+    EP3538861B1,2022-01-12,Method for determining a parameter of a wheel of an observed railway vehicle and evaluation unit
+    US20230090923A1,2023-03-23,Vehicle control system
+    Kim et al.,2019,A comparative study of estimating road surface condition using support vector machine and deep neural networ
+    WO2018088366A1,2018-05-17,Automatic train operation device
+    US20230001940A1,2023-01-05,Method and Device for Optimum Parameterization of a Driving Dynamics Control System for Vehicles
+    John et al.,2013,A comparative study of two control schemes for anti-lock braking systems
+    CN112298189A,2021-02-02,Method for training a neural network, method and device for estimating a friction coefficient, and machine-readable storage medium
+    Subiantoro et al.,2018,Adaptive cruise control based on multistage predictive control approach
+    Németh et al.,2016,LPV-based integrated vehicle control design considering the nonlinear characteristics of the tire
+    US20210039691A1,2021-02-11,System and method for calculating advance speed of a vehicle
+    Radac et al.,2008,Linear and fuzzy control solutions for a laboratory anti-lock braking system
+    Zhu et al.,2020,Autonomous driving vehicle control auto-calibration system: An industry-level, data-driven and learning-based vehicle longitudinal dynamic calibrating algorithm
+    Li et al.,2020,Model predictive controller-based optimal slip ratio control system for distributed driver electric vehicle
+    US20230041638A1,2023-02-09,Weight profile determination system
+    US11673475B2,2023-06-13,Direct current traction motor control system
+
+patent_application
+2
+    Application,Priority date,Filing date,Relation,Title
+    US16/990,191,2016-04-05,2020-08-11,Continuation-In-Part,Vehicle control system
+
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US18/072,638,2016-04-05,2022-11-30,Vehicle control system
+
+inventor_number
+    2
+classfication_nums
+    13
+classfication_items
+74
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,1,5,/,0,0
+    B,6,1,L,1,5,/,0,0,8,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,1,7,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,5
+    B,6,0,T,1,3,/,5,8,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,2,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,0,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,6
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,1,/,0,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,1,0,/,0,0
+    B,6,0,T,2,2,1,0,/,1,0
+    B,6,0,T,2,2,1,0,/,1,2
+    B,6,0,T,2,2,1,0,/,1,2,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,2,8
+
+application_events
+7
+    2016-04-05,Priority claimed from ITUA2016A002295A
+    2020-08-11,Priority claimed from US16/990,191
+    2022-11-30,Application filed by Faiveley Transport Italia SpA
+    2022-11-30,Priority to US18/072,638
+    2022-11-30,Assigned to FAIVELEY TRANSPORT ITALIA S.P.A.
+    2023-03-23,Publication of US20230090923A1
+    Status,Pending
+
+active_area
+1
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+7
+    Application,Filing date,Title
+    IT102016000034535,2016-04-05,
+    ITUA2016A002295A,2016-04-05,Procedure for the control and possible recovery of the adherence of the wheels of controlled axles of a railway vehicle.
+    PCT/IB2017/051887,2017-04-03,Method for controlling and possibly recovering the adhesion of the wheels of a controlled axle of a railway vehicle
+    US201816090362A,2018-10-01,
+    US16/990,191,2020-08-11,Vehicle control system
+    US18/072,638,2022-11-30,Vehicle control system
+
+legal_event
+3
+    Date,Code,Title,Description
+    2022-11-30,AS,Assignment,Owner name: FAIVELEY TRANSPORT ITALIA S.P.A., ITALYFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:TIONE, ROBERTO;REEL/FRAME:061930/0626Effective date: 20201104
+    2023-01-11,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+

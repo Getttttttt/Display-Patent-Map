@@ -1,0 +1,216 @@
+ID
+    JP2013240230A
+citation_exist
+    Patent Citations (6)
+citation_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2000217206A                      *,1999-01-21,2000-08-04,Toyota Motor Corp,電気自動車の充電制御装置
+    JP2003032804A                      *,2001-07-19,2003-01-31,Nissan Motor Co Ltd,２次電池の昇温制御装置
+    JP2006034053A                      *,2004-07-20,2006-02-02,Toyota Motor Corp,ブレーキ制御装置
+    JP2007060761A                      *,2005-08-23,2007-03-08,Nissan Motor Co Ltd,ハイブリッド車の減速度制御装置
+    JP2011062014A                      *,2009-09-11,2011-03-24,Denso Corp,車載充放電制御装置およびそれに含まれる部分制御装置
+    WO2011092858A1                      *,2010-01-30,2011-08-04,トヨタ自動車株式会社,車両用駆動装置の制御装置
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (13)
+              
+
+
+citedBy_infor
+15
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2015110378A                      *,2013-12-06,2015-06-18,本田技研工業株式会社,車両用制動装置
+    JP2015131559A                      *,2014-01-13,2015-07-23,本田技研工業株式会社,電動車両の制動制御装置
+    JP2015162947A                      *,2014-02-27,2015-09-07,ダイハツ工業株式会社,車両用制御装置
+    JP2016068703A                      *,2014-09-29,2016-05-09,富士重工業株式会社,車両の走行制御装置
+    JP2017100573A                      *,2015-12-02,2017-06-08,いすゞ自動車株式会社,ハイブリッド車両及びその制御方法
+    JP2017189051A                      *,2016-04-07,2017-10-12,株式会社デンソー,モータの制御装置
+    KR20200021610A                      *,2018-08-21,2020-03-02,주식회사 두산,배터리 온도에 따른 차량 모터 제어장치 및 방법
+    JP2020110021A                      *,2019-01-04,2020-07-16,株式会社ミツバ,モータ制御システム
+    JP2020179853A                      *,2015-02-10,2020-11-05,ロベルト・ボッシュ・ゲゼルシャフト・ミト・ベシュレンクテル・ハフツングＲｏｂｅｒｔ Ｂｏｓｃｈ Ｇｍｂｈ,制御装置および車両のブレーキシステムを作動させる方法
+    JP2021517875A                      *,2018-04-19,2021-07-29,ロベルト・ボッシュ・ゲゼルシャフト・ミト・ベシュレンクテル・ハフツングＲｏｂｅｒｔ Ｂｏｓｃｈ Ｇｍｂｈ,少なくとも１つの車両減速装置を動作させるための制御装置および方法
+    WO2023280876A1                      *,2021-07-06,2023-01-12,Robert Bosch Gmbh,Bremssteuerungseinrichtung für ein fahrzeug und verfahren zum betreiben einer bremssteuerungseinrichtung für ein fahrzeug
+    WO2023127363A1                      *,2021-12-28,2023-07-06,株式会社クボタ,電動作業車
+    JP7343435B2,2020-03-30,2023-09-12,株式会社デンソーテン,車両制御装置
+    Family To Family Citations,,,,
+
+abstract
+    【課題】複数の摩擦ブレーキ系統のうち、一部のブレーキ系統に異常が発生した際の、回生ブレーキによるバックアップ機能の信頼性を向上させる。【解決手段】摩擦ブレーキにおける一部のブレーキ系統の異常を検出したときに、充電許容条件を満たすように充電系統の状態を制御する。充電許容条件とは、リチウムイオンバッテリの充電量が充電量許容上限値を下回っていることである。そして、充電量許容上限値よりも小さな充電量余裕閾値を設定し、バッテリの充電量が充電量余裕閾値以上であるときには、Ｓ１０９で運転者のアクセル操作に応じたモータの力行トルクを大きくし、且つモータの力行トルクを大きくした分だけＳ１１２で制動トルクを大きくする。【選択図】図４
+title
+    車両用ブレーキ制御装置、車両用ブレーキ制御方法
+similar_document
+26
+    Publication,Publication Date,Title
+    JP5970953B2,2016-08-17,車両用ブレーキ制御装置、車両用ブレーキ制御方法
+    JP5351256B2,2013-11-27,自動車用ブレーキ装置およびその作動方法並びに油圧装置
+    US8886375B2,2014-11-11,Control apparatus for electric vehicle
+    EP2330007B1,2013-10-16,Vehicle braking
+    US9233676B2,2016-01-12,Method for operating a brake system, brake systems in which the method is carried out and motor vehicles comprising said brakes systems
+    CN103180188B,2016-08-17,用于运行配有电驱动装置和/或发电机装置的制动系统的方法和控制设备
+    KR102480768B1,2022-12-23,차량의 회생 브레이크 시스템의 작동 방법, 및 차량의 회생 브레이크 시스템용 제어 장치
+    JP5863954B2,2016-02-17,車両のブレーキシステムのための制御装置、および車両のブレーキシステムを作動させる方法
+    US20110266106A1,2011-11-03,Brake control apparatus and brake control method
+    KR101931835B1,2018-12-21,차량 브레이크 시스템용 제어 장치 및 차량 브레이크 시스템의 작동 방법
+    WO2010109525A1,2010-09-30,ブレーキ制御装置
+    US8794719B2,2014-08-05,Brake device for vehicle
+    JP2014051285A,2014-03-20,自動車のブレーキ装置およびそのための油圧装置、並びにブレーキ装置の操作方法
+    US11597367B2,2023-03-07,Hydraulic brake system
+    JP2012130092A,2012-07-05,車両制御システム
+    WO2015028858A1,2015-03-05,Vehicle
+    AU2014313900A1,2016-03-17,Vehicle
+    JP6036251B2,2016-11-30,制動制御装置
+    CN112550254A,2021-03-26,电子机械制动系统及其控制方法
+    US20230211762A1,2023-07-06,Bypass energy storage device for electronically controlled hydraulic braking system and control method thereof
+    JP4978603B2,2012-07-18,車両制御装置
+    JP5652168B2,2015-01-14,液圧ブレーキシステム
+    WO2019142628A1,2019-07-25,電子制御ユニットおよび制動制御装置
+    JP2021097574A,2021-06-24,電動車両
+    JP7353337B2,2023-09-29,車両の制動制御装置および制動制御可能な車両
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    JP2012112897A,2012-05-16,2012-05-16,車両用ブレーキ制御装置、車両用ブレーキ制御方法
+
+inventor_number
+    4
+classfication_nums
+    14
+classfication_items
+90
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,7,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,0
+    B,6,0,L,3,/,1,0,6
+    B,6,0,L,3,/,1,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2012-05-16,Application filed by Nissan Motor Co Ltd
+    2012-05-16,Priority to JP2012112897A
+    2013-11-28,Publication of JP2013240230A
+    2016-08-17,Application granted
+    2016-08-17,Publication of JP5970953B2
+    Status,Active
+    2032-05-16,Anticipated expiration
+
+active_area
+1
+    J,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2012112897A,2012-05-16,車両用ブレーキ制御装置、車両用ブレーキ制御方法
+
+legal_event
+11
+    Date,Code,Title,Description
+    2015-03-25,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20150325
+    2015-12-14,A977,Report on retrieval,Free format text: JAPANESE INTERMEDIATE CODE: A971007Effective date: 20151214
+    2015-12-24,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20151222
+    2016-02-22,A521,Written amendment,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20160222
+    2016-04-05,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20160405
+    2016-04-26,A521,Written amendment,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20160426
+    2016-06-06,TRDD,Decision of grant or rejection written,
+    2016-06-14,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20160614
+    2016-07-21,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20160627
+    2016-07-22,R151,Written notification of patent or utility model registration,Ref document number: 5970953Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R151
+

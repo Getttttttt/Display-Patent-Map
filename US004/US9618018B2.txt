@@ -1,0 +1,324 @@
+ID
+    US9618018B2
+citation_exist
+    Patent Citations (17)
+citation_infor
+19
+    Publication number,Priority date,Publication date,Assignee,Title
+    US4410057A                      *,1980-05-09,1983-10-18,Clark Equipment Company,Emergency hydraulic system
+    US5299420A                      *,1992-01-15,1994-04-05,Caterpillar Inc.,Redundant control system for a work vehicle
+    JP2002174202A,2000-09-29,2002-06-21,Kobelco Contstruction Machinery Ltd,Hydraulic circuit and construction equipment provided with the hydraulic circuit
+    US6886332B2                      *,2002-02-05,2005-05-03,Parker-Hannifin Corporation,Bi-rotational, two-stage hydraulic system
+    US20070205026A1                      *,2005-08-02,2007-09-06,Volvo Construction Equipment Holding Sweden Ab.,Traveling system for heavy construction equipment
+    KR100790364B1,2006-07-04,2008-01-02,울산대학교 산학협력단,The active load simulator
+    JP2010101446A,2008-10-24,2010-05-06,Ube Machinery Corporation Ltd,Control method for hydraulic operation system
+    JP2011231823A,2010-04-26,2011-11-17,Hitachi Constr Mach Co Ltd,Hybrid drive circuit of hydraulic work machine
+    KR20120072731A,2010-12-24,2012-07-04,두산인프라코어 주식회사,Hydraulic system of construction machinery comprising emergency controller for electro-hydraulic pump
+    US20120260641A1                      *,2011-04-18,2012-10-18,Caterpillar Inc.,Overrunning pump protection for flow-controlled actuators
+    Family To Family Citations,,,,
+    WO1990000683A1                      *,1988-07-08,1990-01-25,Hitachi Construction Machinery Co., Ltd.,Hydraulic driving apparatus
+    US6109030A                      *,1998-02-13,2000-08-29,Sauer Inc.,Apparatus and method for ganging multiple open circuit pumps
+    DE10332120A1                      *,2003-07-15,2005-02-03,Bosch Rexroth Ag,Control arrangement and method for controlling at least two hydraulic consumers
+    JP2006183413A                      *,2004-12-28,2006-07-13,Shin Caterpillar Mitsubishi Ltd,Control circuit of construction machine
+    US7302797B2                      *,2005-05-31,2007-12-04,Caterpillar Inc.,Hydraulic system having a post-pressure compensator
+    KR101652112B1                      *,2009-12-23,2016-08-29,두산인프라코어 주식회사,Hybrid Excavator Boom Actuator System and its Control Method
+    KR20140072835A                      *,2011-05-11,2014-06-13,볼보 컨스트럭션 이큅먼트 에이비,Hybrid excavator including a fast-stopping apparatus for a hybrid actuator
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (12)
+              
+
+
+citedBy_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20170107691A1                      *,2014-03-24,2017-04-20,Doosan Infracore Co., Ltd.,Method for controlling swing motor in hydraulic system and hydraulic system
+    US20220307524A1                      *,2019-05-28,2022-09-29,Danfoss Power Solutions Ii Technology A/S,Optimizing mode transitions between dual power electro-hydrostatic control systems
+    Family To Family Citations,,,,
+    KR101977112B1                      *,2015-01-14,2019-08-28,두산인프라코어 주식회사,Closed circuit type hydraulic system of a construction machine
+    US9611619B1                      *,2015-10-22,2017-04-04,Cnh Industrial America Llc,Hydraulic hybrid circuit with energy storage for excavators or other heavy equipment
+    US10434835B2                      *,2016-02-24,2019-10-08,Tenneco Automotive Operating Company Inc.,Monotube active suspension system having different system layouts for controlling pump flow distribution
+    CN106759621B                      *,2017-01-04,2018-12-14,浙江高宇液压机电有限公司,Load-sensitive formula loading machine determines variable delivery hydraulic system
+    GB2566543B                      *,2017-09-19,2020-02-05,Jaguar Land Rover Ltd,An actuator system
+    GB2566545B                      *,2017-09-19,2020-01-01,Jaguar Land Rover Ltd,An actuator system
+    GB2566546B                      *,2017-09-19,2019-12-18,Jaguar Land Rover Ltd,An actuator system
+    DE102018131226A1                      *,2018-12-06,2020-06-10,Liebherr-Werk Nenzing Gmbh,Special civil engineering machine, especially trench cutter
+    NL2027457B1                      *,2021-01-29,2022-09-02,Lepotech B V,A system comprising differential hydraulic cylinders and a hydraulic machine comprising the system.
+    CN114606995B                      *,2022-03-30,2022-11-11,徐工集团工程机械股份有限公司科技分公司,Electric hydraulic system and loader
+
+abstract
+    The present disclosure relates to a hydraulic system for construction equipment, and more particularly, to a hydraulic system, in which an actuator is controlled by a pump/motor. The hydraulic system for construction equipment according to the present disclosure includes logic valves in first and second hydraulic lines provided to an actuator, respectively, and when it is desired to operate the actuator in a state where an operation of the actuator is stopped by closing the logic valves, a pressure difference may be resolved by increasing pressure in sections of a pump/motor and the logic valves in advance even if a load is applied to the actuator, and thus the actuator may implement a desired operation without being affected by the load. That is, it is possible to improve operation controllability of the actuator.
+title
+    Hydraulic system for construction equipment
+similar_document
+26
+    Publication,Publication Date,Title
+    US9618018B2,2017-04-11,Hydraulic system for construction equipment
+    DE112011100693B4,2015-11-19,Control system for a construction machine
+    WO2014017475A1,2014-01-30,Hydraulic drive circuit
+    Ding et al.,2019,Energy efficiency improvement of heavy-load mobile hydraulic manipulator with electronically tunable operating modes
+    KR20130137173A,2013-12-16,Hydraulic drive circuit with parallel architectured accumulator
+    CN102042273B,2013-03-27,Hydraulic control loop and method
+    EP2786024B1,2015-10-07,Hydraulic hybrid system for rotatory applications
+    CN102720710A,2012-10-10,Hydraulic system, method for controlling hydraulic system and engineering machinery
+    JP5513535B2,2014-06-04,Circuit pressure control device, hydraulic control circuit using this circuit pressure control device, and hydraulic control circuit for construction machine
+    DE112011100649B4,2015-12-24,Control system for a hybrid construction machine
+    JP2012082953A,2012-04-26,Hybrid type hydraulic device
+    KR102067838B1,2020-01-17,Hydraulic system of Construction machinery
+    JP6899627B2,2021-07-07,Fluid circuits and machines with fluid circuits
+    BUSQUETS et al.,2014,A Multi-Actuator Displacement-Controlled System with Pump Switching–A Study of the Architecture and Actuator-Level Control
+    Pedersen et al.,2014,Investigation of new servo drive concept utilizing two fixed displacement units
+    Busquets et al.,2014,The world's first displacement controlled excavator prototype with pump switching-A study of the architecture and control
+    JP6244475B1,2017-12-06,Control system, work machine, and control method
+    KR102594745B1,2023-10-30,Hydrostatic driving unit
+    DE102010014071B4,2012-12-06,Hydraulic system
+    JPWO2017022866A1,2017-08-03,Control system, work machine, and control method
+    JP5840681B2,2016-01-06,Method and apparatus for operating a driven shaft in a machine tool
+    US11186967B2,2021-11-30,Hydraulic systems for construction machinery
+    Busquets et al.,2015,Priority-based supervisory controller for a displacement-controlled excavator with pump switching
+    KR102010592B1,2019-10-21,hydraulic system of Construction machinery
+    EP3112697B1,2018-09-19,Hydrostatic systems with shuttle valve for compensating differential flow rate of single-rod actuators
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    7
+classfication_nums
+    26
+classfication_items
+190
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F,1,5,B,1,1,/,0,8
+    F,1,5,B,1,1,/,1,0
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,1,7
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,2,1
+    E,0,2,F,9,/,2,2,2,5
+    E,0,2,F,9,/,2,2,2,8
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,7,8
+    E,0,2,F,9,/,2,2,8,9
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,7,8
+    E,0,2,F,9,/,2,2,9,2
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,7,8
+    E,0,2,F,9,/,2,2,9,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F,1,5,B,1,1,/,1,6
+    F,1,5,B,1,1,/,1,7
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,3,/,0,0
+    F,1,5,B,1,3,/,0,2
+    F,1,5,B,1,3,/,0,4
+    F,1,5,B,1,3,/,0,4,2
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,1,/,0,0
+    F,1,5,B,2,1,/,1,4
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,0,7
+    F,1,5,B,2,2,1,1,/,2,0,5,2,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,3
+    F,1,5,B,2,2,1,1,/,2,0,5,4,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,3
+    F,1,5,B,2,2,1,1,/,2,0,5,6,1
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,3
+    F,1,5,B,2,2,1,1,/,2,0,5,6,9
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,7,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,7
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,3,0
+    F,1,5,B,2,2,1,1,/,3,0,5
+    F,1,5,B,2,2,1,1,/,3,0,5,0,5
+    F,1,5,B,2,2,1,1,/,3,0,5,1,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,3,0
+    F,1,5,B,2,2,1,1,/,3,0,5
+    F,1,5,B,2,2,1,1,/,3,0,5,6
+    F,1,5,B,2,2,1,1,/,3,0,5,6,5
+    F,1,5,B,2,2,1,1,/,3,0,5,7
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,3,0
+    F,1,5,B,2,2,1,1,/,3,0,5
+    F,1,5,B,2,2,1,1,/,3,0,5,6
+    F,1,5,B,2,2,1,1,/,3,0,5,9
+    F,1,5,B,2,2,1,1,/,3,0,5,9,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,3,0
+    F,1,5,B,2,2,1,1,/,3,1,5
+    F,1,5,B,2,2,1,1,/,3,1,5,2,3
+    F,1,5,B,2,2,1,1,/,3,1,5,2,9
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,3,0
+    F,1,5,B,2,2,1,1,/,3,2
+    F,1,5,B,2,2,1,1,/,3,2,7
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,1
+    F,1,5,B,2,2,1,1,/,6,1,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,2,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,4,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,1
+    F,1,5,B,2,2,1,1,/,7,1,4,2
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,8,0
+    F,1,5,B,2,2,1,1,/,8,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,7,/,0,0
+    F,1,5,B,7,/,0,0,5
+    F,1,5,B,7,/,0,0,6
+
+application_events
+7
+    2014-03-26,Application filed by Doosan Infracore Co Ltd
+    2015-09-16,Assigned to DOOSAN INFRACORE CO., LTD.
+    2016-04-14,Publication of US20160102686A1
+    2017-04-11,Application granted
+    2017-04-11,Publication of US9618018B2
+    Status,Active
+    2034-06-24,Adjusted expiration
+
+active_area
+5
+    C,N
+    W,O
+    E,P
+    K,R
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    KR10-2013-0032079,2013-03-26,
+    KR20130032079,2013-03-26,
+    PCT/KR2014/002562,2014-03-26,Hydraulic system for construction equipment
+
+legal_event
+4
+    Date,Code,Title,Description
+    2015-09-16,AS,Assignment,Owner name: DOOSAN INFRACORE CO., LTD., KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:AN, MIN HA;JUNG, WOO YONG;CHO, YONG LAK;AND OTHERS;SIGNING DATES FROM 20150902 TO 20150908;REEL/FRAME:036580/0652
+    2017-03-22,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2020-09-25,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

@@ -1,0 +1,310 @@
+ID
+    US10173614B2
+citation_exist
+    Patent Citations (14)
+citation_infor
+16
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH0715807A,1993-06-25,1995-01-17,Sanden Corp,Power source unit for electric vehicle
+    JP2001128378A,1999-10-29,2001-05-11,Nippon Soken Inc,Emergency power supply unit for vehicle
+    JP2006050779A,2004-08-04,2006-02-16,Toyota Motor Corp,Motor driving device
+    JP2008206300A,2007-02-20,2008-09-04,Toyota Motor Corp,Electric vehicle, vehicle charging device, and vehicle charging system
+    JP2010200530A,2009-02-26,2010-09-09,Omron Corp,Charging controller and method, charger and method, and program
+    JP2011055682A,2009-09-04,2011-03-17,Autonetworks Technologies Ltd,Auxiliary battery power-feed system and auxiliary battery power-feed method
+    JP2011072069A,2009-09-24,2011-04-07,Toyota Motor Corp,Power system for vehicle
+    US20110187184A1                      *,2008-03-17,2011-08-04,Toyota Jidosha Kabushiki Kaisha,Electrically powered vehicle
+    JP2011223834A,2010-04-14,2011-11-04,Toyota Motor Corp,Power supply system and vehicle with the same
+    US20120299377A1,2010-02-09,2012-11-29,Toyota Jidosha Kabushiki Kaisha,Power source system for electric powered vehicle and control method thereof
+    JP2012244875A,2011-05-24,2012-12-10,Toyota Motor Corp,Vehicular power supply system and vehicle with the same
+    JP2012249384A,2011-05-26,2012-12-13,Toyota Motor Corp,Vehicle
+    US20130314041A1,2011-02-03,2013-11-28,Bayerische Motoren Werke Aktiengesellschaft,Motor Vehicle Having a Jump-Start Device
+    US20140203634A1                      *,2011-04-13,2014-07-24,Toyota Jidosha Kabushiki Kaisha,Power source apparatus for electrically powered vehicle and control method therefor
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (12)
+              
+
+
+citedBy_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20190106005A1                      *,2015-03-31,2019-04-11,Audi Ag,Motor vehicle comprising an electrical energy store and two charging interfaces, charging system and method
+    Family To Family Citations,,,,
+    DE102011003564A1                      *,2011-02-03,2012-08-09,Bayerische Motoren Werke Aktiengesellschaft,Motor vehicle with a Fremdstartvorrichtung
+    JP6183411B2                      *,2015-05-26,2017-08-23,トヨタ自動車株式会社,vehicle
+    WO2016194271A1                      *,2015-06-05,2016-12-08,パナソニックＩｐマネジメント株式会社,Auxiliary battery status determination device and auxiliary battery status determination method
+    DE102016104541B4                      *,2016-03-11,2023-05-11,Avl Software And Functions Gmbh,Charging system for electric and hybrid vehicles and a method for charging with a charging system
+    KR101866063B1                      *,2016-10-07,2018-06-08,현대자동차주식회사,System for controlling relay of an auxiliary battery and method thereof
+    JP7053360B2                      *,2018-04-24,2022-04-12,ヤンマーパワーテクノロジー株式会社,Electric work machine
+    CN108973903B                      *,2018-08-02,2020-09-11,北京新能源汽车股份有限公司,Vehicle-mounted power supply system and vehicle
+    JP2020043727A                      *,2018-09-13,2020-03-19,矢崎総業株式会社,Vehicle power supply device
+    CN110696648A                      *,2018-11-14,2020-01-17,湖南海博瑞德电智控制技术有限公司,Low-speed electric vehicle power supply system
+    US20210370795A1                      *,2019-09-06,2021-12-02,Paul H. Kydd,Minimum Cost Demand Charge Management by Electric Vehicles
+    CN114290927A                      *,2021-03-31,2022-04-08,华为数字能源技术有限公司,Energy conversion device, power system and vehicle
+
+abstract
+    A vehicle mounted charger converts external power into drive power, and supplies the power to a drive battery. A first converter supplies the power to an auxiliary device battery by converting the external power into the power for an auxiliary device. A second converter supplies the power to the auxiliary device battery by converting the drive power which is stored in the drive battery into the power for the auxiliary device. In a normal charging mode, the auxiliary device battery is charged by the first converter. Moreover, in a travelling mode or a rapid charging mode, the auxiliary device battery is charged by the second converter.
+title
+    Power supply device for auxiliary device battery
+similar_document
+25
+    Publication,Publication Date,Title
+    US10173614B2,2019-01-08,Power supply device for auxiliary device battery
+    US8860363B2,2014-10-14,Power supply system for electric powered vehicle, control method thereof, and electric powered vehicle
+    US8736101B2,2014-05-27,Power source system for electric powered vehicle and control method thereof
+    JP5134904B2,2013-01-30,Electric vehicle charging device
+    US20150336523A1,2015-11-26,Vehicle power supply apparatus and vehicle power regeneration system
+    JP5382238B2,2014-01-08,Hybrid vehicle and control method thereof
+    US10000137B2,2018-06-19,Hybrid vehicle with means for disconnection of a depleted auxiliary battery in order to allow for more rapid main battery charging
+    JP5201273B2,2013-06-05,Power management device
+    US20150336474A1,2015-11-26,Vehicle power supply apparatus and vehicle power regeneration system
+    KR101679161B1,2016-11-23,Vehicle power supply device
+    JP5749423B2,2015-07-15,Vehicle power supply
+    EP3020591B1,2020-05-06,Power source device for vehicle
+    JP2011205840A,2011-10-13,Charger for vehicle
+    JP2013112303A,2013-06-10,Power supply device for hybrid vehicle
+    JP2019088140A,2019-06-06,Electrical power system for vehicle
+    US20180254653A1,2018-09-06,Charge control device
+    JP2014193082A,2014-10-06,Power feed system
+    JP2018129936A,2018-08-16,Power supply system
+    JP6149540B2,2017-06-21,Charge control device
+    JP6515492B2,2019-05-22,Power supply device
+    KR20140065208A,2014-05-29,Electric vehicle and control method thereof
+    JP5478696B1,2014-04-23,Electric vehicle and charge / discharge control method for electric vehicle
+    CN114391205A,2022-04-22,Power supply system
+    JP2015186364A,2015-10-22,Vehicular power apparatus
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    48
+classfication_items
+181
+    B
+    B,6,0
+    B,6,0,R
+    B,6,0,R,1,6,/,0,0
+    B,6,0,R,1,6,/,0,2
+    B,6,0,R,1,6,/,0,3
+    B,6,0,R,1,6,/,0,3,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,1,0
+    B,6,0,L,5,3,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B,6,0,L,1,1,/,1,4
+    B,6,0,L,1,1,/,1,8,0,5
+    B,6,0,L,1,1,/,1,8,1,1
+    B,6,0,L,1,1,/,1,8,1,6
+    B,6,0,L,1,1,/,1,8,3,8
+    B,6,0,L,1,1,/,1,8,5
+    B,6,0,L,1,1,/,1,8,5,9
+    B,6,0,L,1,1,/,1,8,6,1
+    B,6,0,L,1,1,/,1,8,6,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,1,0
+    B,6,0,L,5,3,/,1,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,1,0
+    B,6,0,L,5,3,/,1,4
+    B,6,0,L,5,3,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,6,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,5,/,0,0
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,3,0
+    B,6,0,L,2,2,3,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,0,5
+    Y,0,2,T,1,0,/,7,0,4,4
+    Y,0,2,T,1,0,/,7,0,6,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y,0,2,T,1,0,/,7,0,7,7
+    Y,0,2,T,1,0,/,7,0,8,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,1,6
+    Y,0,2,T,1,0,/,7,2,4,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,2
+    Y,0,2,T,9,0,/,1,2,1
+    Y,0,2,T,9,0,/,1,2,7
+    Y,0,2,T,9,0,/,1,2,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+
+application_events
+8
+    2014-01-27,Application filed by Mitsubishi Motors Corp
+    2015-12-17,Assigned to MITSUBISHI JIDOSHA KOGYO KABUSHIKI KAISHA
+    2016-05-19,Publication of US20160137149A1
+    2019-01-08,Application granted
+    2019-01-08,Publication of US10173614B2
+    2021-03-01,Assigned to MITSUBISHI JIDOSHA KOGYO KABUSHIKI KAISHA
+    Status,Active
+    2034-12-29,Adjusted expiration
+
+active_area
+4
+    J,P
+    E,P
+    U,S
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2013126351A,2013-06-17,Auxiliary battery power supply device
+    JP2013-126351,2013-06-17,
+    PCT/JP2014/051705,2014-01-27,Power supply device for auxiliary device battery
+
+legal_event
+5
+    Date,Code,Title,Description
+    2015-12-17,AS,Assignment,Owner name: MITSUBISHI JIDOSHA KOGYO KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:KAMACHI, MAKOTO;REEL/FRAME:037311/0989Effective date: 20151125
+    2018-12-19,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2021-03-01,AS,Assignment,Owner name: MITSUBISHI JIDOSHA KOGYO KABUSHIKI KAISHA, JAPANFree format text: CHANGE OF ADDRESS;ASSIGNOR:MITSUBISHI JIDOSHA KOGYO KABUSHIKI KAISHA;REEL/FRAME:055472/0944Effective date: 20190104
+    2022-06-22,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

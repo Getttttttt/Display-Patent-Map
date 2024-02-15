@@ -1,0 +1,210 @@
+ID
+    US20130151104A1
+citation_exist
+    Patent Citations (12)
+citation_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP2000217209A                      *,1999-01-22,2000-08-04,Toyota Motor Corp,Damping device for vehicle using motor as source of drive force
+    EP1065076A1,1999-07-02,2001-01-03,Denso Corporation,Tire air pressure estimating device
+    JP2001105813A                      *,1999-10-04,2001-04-17,Nippon Soken Inc,Tire air-pressure detection device
+    JP3508742B2                      *,2001-06-18,2004-03-22,日産自動車株式会社,Vehicle vibration suppression control device using electric motor
+    CN1325298C                      *,2002-05-07,2007-07-11,株式会社普利司通,Method and device for controlling vehicle
+    JP2005075189A,2003-09-01,2005-03-24,Bridgestone Corp,In-wheel motor system
+    JP4471103B2                      *,2004-10-07,2010-06-02,トヨタ自動車株式会社,Vehicle braking / driving force control device
+    JP2006131137A                      *,2004-11-08,2006-05-25,Denso Corp,Signal processing device for vehicle
+    JP4876534B2                      *,2005-10-31,2012-02-15,トヨタ自動車株式会社,Vehicle braking / driving force control device
+    CN101622141B                      *,2007-04-04,2011-07-13,日产自动车株式会社,Suspension device for a wheel
+    JP5151307B2                      *,2007-08-10,2013-02-27,トヨタ自動車株式会社,suspension
+    JP5056367B2                      *,2007-11-20,2012-10-24,トヨタ自動車株式会社,Vehicle vibration suppression control device
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (9)
+              
+
+
+citedBy_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20160377132A1                      *,2014-02-12,2016-12-29,Toyota Jidosha Kabushiki Kaisha,Disc brake vibration estimating device
+    US9956891B2,2015-07-30,2018-05-01,Toyota Jidosha Kabushiki Kaisha,Electric vehicle
+    CN112606702A                      *,2020-11-30,2021-04-06,江铃汽车股份有限公司,Energy recovery control method and system, storage medium and computer equipment
+    DE112012006994B4                      *,2012-10-10,2021-05-20,Toyota Jidosha Kabushiki Kaisha,Wheel control device, vehicle, and wheel control method
+    CN114347805A                      *,2022-01-27,2022-04-15,奇瑞商用车（安徽）有限公司,Double-motor driving system for integrated vehicle control of electric automobile and control method thereof
+    Family To Family Citations,,,,
+    JP2017034816A                      *,2015-07-30,2017-02-09,トヨタ自動車株式会社,Electric vehicle
+    JP2017043290A                      *,2015-08-28,2017-03-02,トヨタ自動車株式会社,Vehicular steering control apparatus
+    JP6708562B2                      *,2017-01-16,2020-06-10,トヨタ自動車株式会社,Automobile
+    JP2019161794A                      *,2018-03-09,2019-09-19,本田技研工業株式会社,Electric power conversion device
+
+abstract
+    When a vehicle travels, due to an input from a road surface to the front wheels and rear wheels of the vehicle, unsprung vertical accelerations are generated in unsprung portions of the vehicle. An electronic control unit detects such unsprung vertical accelerations. The electronic control unit calculates a front-back force generated at each of the wheels by use of the detected unsprung vertical acceleration, and estimates a front-back vibration generated in each of the wheels. The electronic control unit calculates a front-back vibration suppressing force for absorbing the front-back vibration by use of the detected unsprung vertical acceleration. The electronic control unit subtracts the calculated front-back vibration suppressing force from the calculated front-back force, and operates the in-wheel motors via an inverter, while controlling the output torques of the in-wheel motors. Thus, the front-back vibrations of the unsprung portions of the vehicle can be suppressed.
+title
+    Braking-driving force control device of vehicle
+similar_document
+23
+    Publication,Publication Date,Title
+    US9008934B2,2015-04-14,Braking-driving force control device of vehicle
+    US8983723B2,2015-03-17,Vehicle braking/driving force control system and vehicle braking/driving force control method
+    EP2778006B1,2019-02-27,Vehicle behavior control device
+    US11021068B2,2021-06-01,Vehicle control device and control method
+    US9457804B2,2016-10-04,Vehicle braking/driving force control apparatus
+    JP5533405B2,2014-06-25,Vehicle braking / driving force control device
+    JP4911111B2,2012-04-04,Vehicle control device
+    JP6252455B2,2017-12-27,Vehicle control device
+    JP5736725B2,2015-06-17,Vehicle braking / driving force control device
+    JP2009273275A,2009-11-19,Controller for vehicle
+    US20170106755A1,2017-04-20,Vehicle control apparatus
+    JP4655895B2,2011-03-23,Vehicle control device
+    JP4887719B2,2012-02-29,Vehicle control device
+    JP5862273B2,2016-02-16,Vehicle behavior control device
+    US20140288745A1,2014-09-25,Vehicle behavior control apparatus
+    JP2009184522A,2009-08-20,Vehicular vibration suppression device
+    JP5738734B2,2015-06-24,Vehicle driving force control device
+    JP5650087B2,2015-01-07,Vehicle driving force control device
+    JP2007053859A,2007-03-01,Controller for vehicle
+    JP2018047760A,2018-03-29,Vehicular attitude control apparatus
+    JP2007153127A,2007-06-21,Controller of vehicle
+    JP2016037159A,2016-03-22,Vehicle roll control device
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    14
+classfication_items
+86
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,0,2
+    B,6,0,W,3,0,/,0,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,3,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B,6,0,W,1,0,/,1,9,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B,6,0,L,2,2,4,0,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,1,0
+    B,6,0,L,2,2,7,0,/,1,4
+    B,6,0,L,2,2,7,0,/,1,4,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,4,0,/,0,0
+    B,6,0,T,2,2,4,0,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,4,0,/,0,0
+    B,6,0,T,2,2,4,0,/,0,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2010-08-31,Application filed by Toyota Motor Corp
+    2013-02-06,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2013-06-13,Publication of US20130151104A1
+    2015-04-14,Application granted
+    2015-04-14,Publication of US9008934B2
+    Status,Expired - Fee Related
+    2030-10-09,Adjusted expiration
+
+active_area
+1
+    W,O
+
+not_active_area
+4
+    E,P
+    C,N
+    U,S
+    J,P
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2010/064834,2010-08-31,Braking-driving force control device of vehicle
+
+legal_event
+9
+    Date,Code,Title,Description
+    2013-02-06,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:FUJII, DAIGO;KOUMURA, SHINGO;REEL/FRAME:029769/0066Effective date: 20130108
+    2015-03-25,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2015-12-04,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2018-09-27,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+    2022-12-05,FEPP,Fee payment procedure,Free format text: MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2023-05-22,LAPS,Lapse for failure to pay maintenance fees,Free format text: PATENT EXPIRED FOR FAILURE TO PAY MAINTENANCE FEES (ORIGINAL EVENT CODE: EXP.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2023-05-22,STCH,Information on status: patent discontinuation,Free format text: PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362
+    2023-06-13,FP,Lapsed due to failure to pay maintenance fee,Effective date: 20230414
+

@@ -1,0 +1,203 @@
+ID
+    JP2016165165A
+citation_exist
+    Patent Citations (7)
+citation_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JPH05284611A                      *,1992-03-30,1993-10-29,Toyota Motor Corp,電気自動車の制御装置
+    JPH0923508A                      *,1995-07-07,1997-01-21,Honda Motor Co Ltd,電動車両の制御装置
+    JP3554798B2                      *,1997-11-05,2004-08-18,株式会社日立製作所,電気車の制御装置
+    JP3547117B2                      *,1999-07-13,2004-07-28,トヨタ自動車株式会社,交流電動機のトルク検出装置及び駆動制御装置
+    JP2010173610A                      *,2009-02-02,2010-08-12,Toyota Motor Corp,電動車両
+    JP2013031257A                      *,2011-07-27,2013-02-07,Aisin Aw Co Ltd,回転電機制御装置
+    JP5532032B2                      *,2011-09-07,2014-06-25,トヨタ自動車株式会社,車両の制動制御装置
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN113765443A                      *,2021-08-30,2021-12-07,武汉理工大学,电动助力制动控制方法及其设计仿真方法、设备及介质
+    Family To Family Citations,,,,
+    EP3144175B1                      *,2015-09-17,2022-12-14,ALSTOM Transport Technologies,Method for controlling an electric vehicle, in particular a railway vehicle, control device for an electric vehicle, and railway vehicle
+
+abstract
+    【課題】回生制動に関わるモータの実トルクを検知しておらず、モータ等の誤差要因に応じて実トルクを補償していない。【解決手段】バッテリから供給される電力を制御するインバータ制御部と、インバータ制御部によって駆動輪を駆動或いは制動させるトルクを制御するモータと、制動時にモータからバッテリに回生する回生電力による制動トルクと、電子制御式摩擦ブレーキによる制動トルクの分担を制御する制動制御部９とを備えた電動車両の制動制御装置において、インバータ制御部は、更に、モータへ回生する回生電力からモータの実トルクを推定するトルク推定部５７，５８，５９，６０と、制動制御部９がモータに指示した制動トルク指令値と、トルク推定部５７，５８，５９，６０が推定した実トルク値との差から、モータが出力する制動トルクをフィードバックするフィードバック制御部とを備えたことを特徴とする電動車両の制動制御装置。【選択図】 図２
+title
+    電動車両の制動制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    US8791716B2,2014-07-29,Anomaly detector of permanent magnet synchronous electric motor
+    JP3695342B2,2005-09-14,電動機の制御装置
+    US9787230B2,2017-10-10,Synchronous motor control device for electric automobile
+    US6914408B2,2005-07-05,Motor control apparatus and electric vehicle using same
+    EP2426814B1,2014-04-16,Power conversion device
+    JP5055836B2,2012-10-24,同期モーター用磁極位置センサーの位相ズレ検出装置および検出方法
+    KR101622011B1,2016-05-17,3상 교류 모터 제어 방법 및 장치
+    US9590551B2,2017-03-07,Control apparatus for AC motor
+    US9050895B2,2015-06-09,Control apparatus of rotating electrical machine
+    JP2015091168A,2015-05-11,交流電動機の制御装置
+    US9252699B2,2016-02-02,Control device and control method for vehicular rotating electric machine
+    JP6589492B2,2019-10-16,インバータ制御装置
+    JPH1169900A,1999-03-09,電気車の制御装置
+    JP6217299B2,2017-10-25,モータ制御システム
+    WO2015001849A1,2015-01-08,電動車両の制動制御装置
+    JP4256238B2,2009-04-22,電力変換装置
+    KR101171914B1,2012-08-07,친환경 자동차의 모터온도 추정방법 및 장치
+    JP5884747B2,2016-03-15,交流電動機の制御装置
+    JP6983305B2,2021-12-17,車両制御装置
+    JP2014030356A,2014-02-13,回転電機の制御装置
+    JP2005065349A,2005-03-10,同期モータ制御装置
+    JP2012114974A,2012-06-14,電気車制御装置
+    JP6269328B2,2018-01-31,同期モータの制御装置、及び、これを備える車両制御システム
+    US20220077795A1,2022-03-10,Motor control device
+    JP3742582B2,2006-02-08,電気自動車の制御装置
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    JP2013141671A,2013-07-05,2013-07-05,電動車両の制動制御装置
+    PCT/JP2014/063014,2013-07-05,2014-05-16,電動車両の制動制御装置
+
+inventor_number
+    5
+classfication_nums
+    16
+classfication_items
+99
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,7,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,5
+    B,6,0,T,1,3,/,5,8,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,0,2
+    B,6,0,T,7,/,0,4
+    B,6,0,T,7,/,0,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+5
+    2013-07-05,Application filed by Hitachi Automotive Systems Ltd
+    2013-07-05,Priority to JP2013141671A
+    2014-05-16,Priority to PCT/JP2014/063014
+    2016-09-08,Publication of JP2016165165A
+    Status,Pending
+
+active_area
+2
+    J,P
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2013141671A,2013-07-05,電動車両の制動制御装置
+
+legal_event
+    NoExist

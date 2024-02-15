@@ -1,0 +1,145 @@
+ID
+    WO2022222035A1
+citation_exist
+    Patent Citations (5)
+citation_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN102343824A                      *,2010-07-30,2012-02-08,北汽福田汽车股份有限公司,电动车制动能量回收控制方法及其装置
+    JP2015030427A                      *,2013-08-06,2015-02-16,本田技研工業株式会社,車両の制動装置
+    CN109532817A                      *,2019-01-04,2019-03-29,大连民族大学,混合动力电动汽车基于soc的再生制动力矩分配方法
+    CN109703375A                      *,2019-01-30,2019-05-03,吉林大学,电动汽车再生制动能量协调回收控制方法
+    CN111942160A                      *,2020-08-27,2020-11-17,吉林大学,一种基于电机铁损模型的电动汽车制动优化控制方法
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    一种车辆制动方法、装置（800；1100）和电子设备。获取车辆上动力电池（B1）的荷电状态SOC；若荷电状态SOC大于预设的荷电状态阈值，控制车辆进行制动；若荷电状态SOC小于等于荷电状态阈值，控制车辆进行制动且开启制动能量回收。能够根据车辆上动力电池（B1）的荷电状态SOC确定控制车辆仅进行制动，或者控制车辆进行制动且开启制动能量回收。
+title
+    车辆制动方法、装置和电子设备
+similar_document
+26
+    Publication,Publication Date,Title
+    Heydari et al.,2019,Maximizing regenerative braking energy recovery of electric vehicles through dynamic low-speed cutoff point detection
+    CN100475596C,2009-04-08,车辆再生制动控制设备及方法
+    JP4965751B1,2012-07-04,トルク配分装置、トルク配分方法、トルク配分値生成方法およびプログラム
+    Tao et al.,2017,A regenerative braking system for electric vehicle with four in-wheel motors based on fuzzy control
+    CN104175891B,2016-07-13,纯电动汽车能量回收再生制动控制方法
+    CN111553024A,2020-08-18,一种分布式驱动电动汽车驱动系统多目标优化方法和系统
+    Wang et al.,2014,Powertrain matching and optimization of dual-motor hybrid driving system for electric vehicle based on quantum genetic intelligent algorithm
+    JP2012228163A,2012-11-15,トルク配分装置およびトルク配分方法
+    Grandone et al.,2016,Development of a regenerative braking control strategy for hybridized solar vehicle
+    de Carvalho Pinheiro et al.,2020,All-wheel drive electric vehicle modeling and performance optimization
+    Athari et al.,2013,Optimal torque control for an electric-drive vehicle with in-wheel motors: implementation and experiments
+    CN113547928B,2022-11-25,一种考虑轮胎滑移的双电机四驱电动汽车转矩分配方法
+    Dingel et al.,2011,Model-based assessment of hybrid powertrain solutions
+    Gao et al.,2022,Torque allocation of four-wheel drive EVs considering tire slip energy
+    CN111688497B,2022-04-15,电动汽车电池高荷电状态下回馈制动系统及控制方法
+    WO2022222035A1,2022-10-27,车辆制动方法、装置和电子设备
+    JP2021037941A,2021-03-11,車両用補助電気牽引モータ
+    Mineeshma et al.,2016,Component sizing of electric vehicle/hybrid electric vehicle subsystems using backward modelling approach
+    Yu et al.,2010,Regenerative braking torque estimation and control approaches for a hybrid electric truck
+    Xie et al.,2018,Research on regenerative braking control strategy and Simulink simulation for 4WD electric vehicle
+    Silva et al.,2015,A study of battery power for a different electric vehicle propulsion system
+    CN108583293A,2018-09-28,新能源汽车的制动回馈扭矩分配方法及其四驱控制系统
+    Sehab et al.,2012,An online estimation of energy recovery in an electric vehicle using ARTEMIS mission profiles
+    Ta et al.,2022,Four-wheel Independently Driven Formula: Experimental EV for Motion Control Studies
+    Peng et al.,2015,Hierarchical control strategy for the cooperative braking system of electric vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    CN202180001165.9A,2021-04-20,2021-04-20,车辆制动方法、装置和电子设备
+    PCT/CN2021/088430,2021-04-20,2021-04-20,车辆制动方法、装置和电子设备
+
+inventor_number
+    6
+classfication_nums
+    8
+classfication_items
+51
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,9
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+4
+    2021-04-20,Application filed by 华为技术有限公司
+    2021-04-20,Priority to CN202180001165.9A
+    2021-04-20,Priority to PCT/CN2021/088430
+    2022-10-27,Publication of WO2022222035A1
+
+active_area
+1
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/CN2021/088430,2021-04-20,车辆制动方法、装置和电子设备
+
+legal_event
+2
+    Date,Code,Title,Description
+    2022-12-07,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 21937280Country of ref document: EPKind code of ref document: A1
+

@@ -1,0 +1,235 @@
+ID
+    JP2019043480A
+citation_exist
+    Patent Citations (8)
+citation_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US7568773B2                      *,2005-07-19,2009-08-04,Nissin Kogyo Co., Ltd.,Brake fluid pressure controller for vehicle
+    JP4830600B2,2006-04-13,2011-12-07,株式会社アドヴィックス,車両用制動装置
+    JP5217472B2                      *,2007-04-13,2013-06-19,株式会社アドヴィックス,車両用制動制御装置
+    DE112010005215B4                      *,2010-02-02,2020-07-30,Toyota Jidosha Kabushiki Kaisha,Bremssystem
+    JP2012101676A                      *,2010-11-10,2012-05-31,Hitachi Automotive Systems Ltd,ブレーキ制御装置
+    JP2013060031A,2011-09-12,2013-04-04,Hitachi Automotive Systems Ltd,ブレーキ制御装置
+    KR101324995B1                      *,2012-04-30,2013-11-04,주식회사 만도,전자제어 브레이크 시스템
+    JP6699622B2                      *,2017-05-29,2020-05-27,株式会社アドヴィックス,車両の制動制御装置
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    【課題】ポンプモータの良好な応答性と劣化の抑制とを両立させる車両用制動装置を提供すること。【解決手段】車両用制動装置は、ブレーキＥＣＵ６０によってポンプモータＭの回転数Ｎｄの減少が開始された時点から所定時間経過後までの期間内においてポンプ３７，４７によるブレーキ液の吐出が必要となる蓋然性が高いほど、ポンプモータＭの回転数の減少量が小さくなるように、制御差圧の保持状態又は減圧状態における回転数の減少量を設定する減少量設定部６２を備える。【選択図】図４
+title
+    車両用制動装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP4830600B2,2011-12-07,車両用制動装置
+    JP5866817B2,2016-02-24,車両用ブレーキ装置
+    JP4830588B2,2011-12-07,車両用制動装置
+    KR101884959B1,2018-08-02,브레이크 시스템의 작동 방법, 상기 작동 방법이 수행되는 브레이크 시스템 및 상기 브레이크 시스템을 포함하는 모터 차량
+    JP5278552B2,2013-09-04,車両制御装置
+    JP2006311791A,2006-11-09,車両用ブレーキ制御装置
+    US20130138316A1,2013-05-30,Brake Control Apparatus
+    US9061672B2,2015-06-23,Vehicle brake device and method of controlling vehicle brake device
+    EP2724905B1,2016-03-30,Vehicle brake control device
+    US20100174430A1,2010-07-08,Automotive braking control apparatus and method thereof
+    WO2011125757A1,2011-10-13,車両用ブレーキ装置
+    JP5895916B2,2016-03-30,車両の制動制御装置
+    JP2009179265A,2009-08-13,制動装置
+    JP5776153B2,2015-09-09,車両の制御装置及び車両の制御方法
+    KR20160060653A,2016-05-30,브레이크 시스템을 제어하기 위한 방법, 및 그 방법이 실행되는 브레이크 시스템
+    US11376967B2,2022-07-05,Vehicle brake device
+    JP6544335B2,2019-07-17,車両用制動装置
+    JP4830602B2,2011-12-07,車両用制動装置
+    JP2009292176A,2009-12-17,ブレーキ制御装置
+    JP2007276655A,2007-10-25,車両用ブレーキ制御装置
+    JP2015110361A,2015-06-18,車両のブレーキ装置
+    JP2015095966A,2015-05-18,車両用制動制御装置
+    JP2007276683A,2007-10-25,車両用ブレーキ制御装置
+    JP2012025389A,2012-02-09,車両用ブレーキ制御装置
+    JP5853682B2,2016-02-09,車両のブレーキ制御装置
+
+patent_application
+    NoExist
+patent_priority_application
+5
+    Application,Priority date,Filing date,Title
+    JP2017171471A,2017-09-06,2017-09-06,車両用制動装置
+    PCT/JP2018/032942,2017-09-06,2018-09-05,車両用制動装置
+    US16/636,656,2017-09-06,2018-09-05,Braking device for vehicles
+    CN201880057679.4A,2017-09-06,2018-09-05,车辆用制动装置
+
+inventor_number
+    14
+classfication_nums
+    19
+classfication_items
+122
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,1,/,0,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,1,2
+    B,6,0,T,1,3,/,1,4
+    B,6,0,T,1,3,/,1,4,2
+    B,6,0,T,1,3,/,1,4,5
+    B,6,0,T,1,3,/,1,4,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,1,2
+    B,6,0,T,1,3,/,1,6
+    B,6,0,T,1,3,/,1,6,1
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,1,2
+    B,6,0,T,1,3,/,1,6
+    B,6,0,T,1,3,/,2,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,5
+    B,6,0,T,1,3,/,5,8,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,6,6
+    B,6,0,T,1,3,/,6,6,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,6,6
+    B,6,0,T,1,3,/,6,8
+    B,6,0,T,1,3,/,6,8,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,7,/,0,0
+    B,6,0,T,1,7,/,0,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,0,2
+    B,6,0,T,7,/,0,4
+    B,6,0,T,7,/,0,4,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,2,1
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,4
+    B,6,0,T,8,/,4,0
+    B,6,0,T,8,/,4,0,7,2
+    B,6,0,T,8,/,4,0,8,1
+    B,6,0,T,8,/,4,0,9
+    F
+    F,0,4
+    F,0,4,B
+    F,0,4,B,4,9,/,0,0
+    F,0,4,B,4,9,/,0,6
+    F
+    F,0,4
+    F,0,4,B
+    F,0,4,B,4,9,/,0,0
+    F,0,4,B,4,9,/,2,0
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,9,/,0,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,4,0,/,0,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,5,0,/,0,0
+    B,6,0,T,2,2,5,0,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+
+application_events
+7
+    2017-09-06,Application filed by Advics Co Ltd
+    2017-09-06,Priority to JP2017171471A
+    2019-03-22,Publication of JP2019043480A
+    2021-09-22,Application granted
+    2021-09-22,Publication of JP6939286B2
+    Status,Active
+    2037-09-06,Anticipated expiration
+
+active_area
+4
+    J,P
+    W,O
+    C,N
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2017171471A,2017-09-06,車両用制動装置
+
+legal_event
+10
+    Date,Code,Title,Description
+    2020-08-17,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20200817
+    2021-02-22,RD04,Notification of resignation of power of attorney,Free format text: JAPANESE INTERMEDIATE CODE: A7424Effective date: 20210222
+    2021-03-03,RD02,Notification of acceptance of power of attorney,Free format text: JAPANESE INTERMEDIATE CODE: A7422Effective date: 20210303
+    2021-03-30,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20210330
+    2021-05-26,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20210526
+    2021-07-29,TRDD,Decision of grant or rejection written,
+    2021-08-03,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20210803
+    2021-09-06,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20210816
+    2021-09-06,R150,Certificate of patent or registration of utility model,Ref document number: 6939286Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R150
+

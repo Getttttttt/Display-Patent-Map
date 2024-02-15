@@ -1,0 +1,384 @@
+ID
+    WO2011128410A1
+citation_exist
+    Patent Citations (5)
+citation_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    DE19831487C1,1998-07-14,2000-03-16,Daimler Chrysler Ag,Verfahren zum Betrieb eines eine Batterie aufweisenden Hybridantriebes eines Kraftfahrzeuges
+    DE10005581A1                      *,1999-02-09,2000-10-26,Hitachi Ltd,Verfahren zum Steuern eines Hybridfahrzeuges
+    US6314347B1                      *,1999-05-20,2001-11-06,Nissan Motor Co., Ltd.,Driving control apparatus of hybrid vehicle and method thereof
+    EP1270303A2                      *,2001-06-11,2003-01-02,Siemens Aktiengesellschaft,Verfahren zum Steuern eines Antriebsstrangs eines Hybridfahrzeugs
+    WO2007103840A2                      *,2006-03-06,2007-09-13,Gm Global Technology Operations, Inc.,Hybrid vehicle powertrain control method and apparatus
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (12)
+              
+
+
+citedBy_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    WO2013110709A1                      *,2012-01-25,2013-08-01,Jaguar Land Rover Limited,Hybrid vehicle controller and method of controlling a hybrid vehicle
+    EP2703209A1                      *,2012-08-31,2014-03-05,IFP Energies nouvelles,Verfahren zur Bestimmung eines Energieindikators für die Bewegung eines Fahrzeugs
+    WO2014090820A1                      *,2012-12-10,2014-06-19,Jaguar Land Rover Limited,Hybrid electric vehicle control system and method
+    DE102013009279A1                      *,2013-06-04,2014-12-04,Daimler Ag,Verfahren und Vorrichtung zum Betrieb eines Hybridantriebsstrangs eines Fahrzeugs
+    DE102014205252A1,2014-03-20,2015-09-24,Continental Automotive Gmbh,Verfahren zum Steuern eines Hybridantriebs eines Fahrzeugs, fahrzeugseitige Vorrichtung und Zentralrechner
+    DE102014205246A1,2014-03-20,2015-09-24,Continental Automotive Gmbh,Verfahren zum Steuern eines Hybridantriebs eines Fahrzeugs
+    DE102015009567A1,2015-07-23,2017-01-26,Audi Ag,Prädiktion der benötigten Antriebsleistung im Kraftfahrzeug
+    FR3074104A1                      *,2017-11-30,2019-05-31,Orange,Moteur a reglage predictif, controleur de moteur et procede de reglage automatique de moteur
+    KR20190077516A                      *,2016-11-09,2019-07-03,후아웨이 테크놀러지 컴퍼니 리미티드,차량 제동 에너지 회수 방법 및 장치
+    US10525965B2,2014-08-19,2020-01-07,Audi Ag,Method for predicting the consumption of a motor vehicle, motor vehicle and computer program
+    CN113085582A                      *,2021-04-23,2021-07-09,联合汽车电子有限公司,新能源汽车双驱动电机实时控制方法、存储介质、控制器和系统
+    DE102014102819B4,2013-03-15,2022-04-07,GM Global Technology Operations, LLC (n.d. Ges. d. Staates Delaware),Verfahren zum Betreiben eines Hybridfahrzeugs
+    Family To Family Citations,,,,
+
+abstract
+    Zur Antriebssteuerung eines Hybridfahrzeugs wird eine vorausliegende, zu absolvierende Fahrtroute (FR1, FR2) zwischen einer aktuellen, geographischen Anfangsposition (AP) des Hybridfahrzeugs (FZ) und einer zu erreichenden, geographischen Zielposition (ZP) des Hybridfahrzeugs (FZ) berechnet. Zu der vorausliegenden, zu absolvierenden Fahrtroute (FR1, FR2) werden strassen- und verkehrslagebezogene Informationen ermittelt. Abhängig von diesen Informationen wird aus der vorausliegenden, zu absolvierenden Fahrtroute (FR1, FR2) ein unmittelbar voraus liegendes Streckensegment (S1, S2,..., S8) bestimmt. Zu diesem aktuell ermittelten, unmittelbar voraus liegenden Streckensegment (S1, S2,..., S8) wird fahrer-, fahrzeug-, Strassen - und/oder verkehrslagebezogene Informationen ermittelt. Abhängig von diesen Informationen werden der Verbrennungsmotor (VM) und der Elektromotor (EM) beim Befahren dieses Streckensegments (S1, S2,..., S8) gesteuert.
+title
+    Verfahren und vorrichtung zur antriebssteuerung für ein hybridfahrzeug
+similar_document
+26
+    Publication,Publication Date,Title
+    WO2011128410A1,2011-10-20,Verfahren und vorrichtung zur antriebssteuerung für ein hybridfahrzeug
+    EP2139739B1,2012-02-01,Verfahren und vorrichtung zur prädiktiven steuerung und/oder regelung eines hybridantriebs in einem kraftfahrzeug sowie hybridfahrzeug
+    EP1270303B1,2007-07-11,Verfahren zum Steuern eines Antriebsstrangs eines Hybridfahrzeugs
+    DE102006034933B4,2016-10-06,Verfahren und Vorrichtung zur Steuerung eines Hybrid-Fahrzeugantriebs
+    DE10226143B4,2006-02-16,Verfahren zum Steuern eines Hybridantriebs bei einem Kraftfahrzeug
+    EP2692604B1,2015-04-08,Verfahren zum Steuern des Ladezustands eines Energiespeichers eines Hybridfahrzeugs
+    DE102016103888A1,2016-09-08,Systeme und Verfahren zum Anpassen kinetischer Energie bei einem Hybridfahrzeug vor und während einer Strassenneigungsänderung
+    DE102011084606A1,2013-04-18,Bestimmung einer Fahrstrategie für ein Fahrzeug
+    DE112017004027T5,2019-05-02,Autonomes fahren mit dynamischem skip fire
+    DE102010023198A1,2011-12-15,Vorrichtung und Verfahren zum Steuern des Fahrverhaltens eines Fahrzeugs bei Annäherung an einen Haltepunkt
+    DE102014014851B4,2018-11-15,Verfahren zum Betrieb eines Navigationssystems eines Hybridkraftfahrzeugs und Hybridkraftfahrzeug
+    DE102008019174A1,2009-10-22,Verfahren und Vorrichtung zum Betreiben eines Fahrzeuges
+    DE102010027730B4,2022-10-20,Hybridfahrzeug und Verfahren zum Betreiben eines Hybridfahrzeugs
+    DE102019100798A1,2019-07-18,Verfahren und System zur aktiven Lenkung bei Start-Stopp-Ereignissen
+    WO2013071990A1,2013-05-23,Verfahren und vorrichtung zur steuerung eines hybridantriebsstrangs eines fahrzeugs mit einer nebenabtriebsfunktion
+    DE102006033930A1,2008-01-24,Verfahren zum Betreiben eines Hybridantriebs
+    DE102015008423B4,2018-11-22,Verfahren zum Betrieb eines Fahrzeugeffizenzsystems eines Kraftfahrzeugs und Kraftfahrzeug
+    WO2011107125A1,2011-09-09,Kraftfahrzeugantriebsvorrichtung
+    DE102017204224A1,2018-09-20,Verfahren zum Betreiben eines Kraftfahrzeugs
+    WO2008092757A1,2008-08-07,Verfahren für die steuerung eines fahrzeugs mit hybridantrieb
+    DE102022100295A1,2022-07-07,Nutzbremssteuersystem für ein hybrid- oder elektrofahrzeug
+    EP3717326A1,2020-10-07,Verfahren zum betreiben einer steuervorrichtung eines kraftfahrzeugs, um einen nächsten anhaltevorgang vorauszusagen, sowie steuervorrichtung und kraftfahrzeug
+    EP3541676A1,2019-09-25,Verfahren, computer-lesbares medium, system, und fahrzeug umfassend das system zum unterstützen einer energieeffizienten verzögerung des fahrzeugs
+    DE102017100671A1,2018-07-19,Verfahren zur Optimierung einer Schaltstrategie
+    DE102016206727A1,2017-10-26,Verfahren zum vorausschauenden Betrieb eines Hybrid-Fahrzeugs
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    DE112011101345T,2010-04-16,2011-04-14,Verfahren und Vorrichtung zur Antriebssteuerung für ein Hybridfahrzeug
+
+inventor_number
+    6
+classfication_nums
+    42
+classfication_items
+268
+    G
+    G,0,8
+    G,0,8,G
+    G,0,8,G,1,/,0,0
+    G,0,8,G,1,/,0,9
+    G,0,8,G,1,/,0,9,6,2
+    G,0,8,G,1,/,0,9,6,8
+    G,0,8,G,1,/,0,9,6,8,0,5
+    G,0,8,G,1,/,0,9,6,8,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,2
+    B,6,0,L,1,/,0,4
+    B,6,0,L,1,/,0,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,0,2
+    B,6,0,W,4,0,/,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,0,9,7
+    G
+    G,0,1
+    G,0,1,C
+    G,0,1,C,2,1,/,0,0
+    G,0,1,C,2,1,/,2,6
+    G,0,1,C,2,1,/,3,4
+    G,0,1,C,2,1,/,3,4,5,3
+    G,0,1,C,2,1,/,3,4,9,2
+    G
+    G,0,8
+    G,0,8,G
+    G,0,8,G,1,/,0,0
+    G,0,8,G,1,/,0,9
+    G,0,8,G,1,/,0,9,6,2
+    G,0,8,G,1,/,0,9,6,8
+    G,0,8,G,1,/,0,9,6,8,3,3
+    G,0,8,G,1,/,0,9,6,8,4,4
+    G
+    G,0,8
+    G,0,8,G
+    G,0,8,G,1,/,0,0
+    G,0,8,G,1,/,0,9
+    G,0,8,G,1,/,0,9,6,2
+    G,0,8,G,1,/,0,9,6,8
+    G,0,8,G,1,/,0,9,6,8,5,5
+    G,0,8,G,1,/,0,9,6,8,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,2
+    B,6,0,L,2,2,4,0,/,6,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B,6,0,L,2,2,4,0,/,6,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,4,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,5,0
+    B,6,0,L,2,2,6,0,/,5,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,5,0
+    B,6,0,L,2,2,6,0,/,5,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,4,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,6,/,0,0
+    B,6,0,W,2,5,5,6,/,4,5
+    B,6,0,W,2,5,5,6,/,5,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,2,4
+    B,6,0,W,2,7,1,0,/,2,4,2
+    B,6,0,W,2,7,1,0,/,2,4,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+3
+    2011-04-14,Application filed by Continental Automotive Gmbh
+    2011-04-14,Priority to DE112011101345T
+    2011-10-20,Publication of WO2011128410A1
+
+active_area
+2
+    D,E
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    DE102010015521.7,2010-04-16,
+    DE102010015521,2010-04-16,
+
+legal_event
+5
+    Date,Code,Title,Description
+    2011-12-07,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 11716201Country of ref document: EPKind code of ref document: A1
+    2012-10-16,WWE,Wipo information: entry into national phase,Ref document number: 112011101345Country of ref document: DERef document number: 1120111013450Country of ref document: DE
+    2013-01-24,REG,Reference to national code,Ref country code: DERef legal event code: R225Ref document number: 112011101345Country of ref document: DEEffective date: 20130124
+    2013-05-22,122,Ep: pct application non-entry in european phase,Ref document number: 11716201Country of ref document: EPKind code of ref document: A1
+

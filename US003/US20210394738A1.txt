@@ -1,0 +1,357 @@
+ID
+    US20210394738A1
+citation_exist
+    Patent Citations (3)
+citation_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    US6549840B1                      *,1999-10-08,2003-04-15,Toyota Jidosha Kabushiki Kaisha,Vehicle control apparatus for front and rear drive ratio on the basis of operator's desired vehicle drive force and static and dynamic vehicle states
+    US20060231310A1                      *,2003-11-20,2006-10-19,Toshihiro Suzuki,Vehicle running control appartus and vehicle running control method
+    US20150032335A1                      *,2013-07-23,2015-01-29,Jtekt Corporation,Driving force transmission controller and vehicle control method
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20220250634A1                      *,2021-02-08,2022-08-11,Ford Global Technologies, Llc,Energy saving traction and stability control
+    US20230022383A1                      *,2021-07-20,2023-01-26,Rivian Ip Holdings, Llc,Systems, vehicles, and methods for engaging a disconnected axle
+    Family To Family Citations,,,,
+    CN114537160B                      *,2022-03-11,2022-12-06,浙江极氪智能科技有限公司,Motor drive switching method and device
+
+abstract
+    A disconnector control device and method for an electric vehicle are provided. The disconnector control device includes a disconnector that switches wheel driving manners and a processor that recognizes a driving condition of the vehicle. The processor also acquires at least one factor related to operation of the disconnector and operates the disconnector based on the acquired at least one factor.
+title
+    Apparatus and method for controlling disconnector of electric vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US20210394738A1,2021-12-23,Apparatus and method for controlling disconnector of electric vehicle
+    US20200043254A1,2020-02-06,Data storage device of vehicle
+    JP5071018B2,2012-11-14,Vehicle consumption energy estimation device, vehicle consumption energy estimation method, and computer program
+    US10836377B2,2020-11-17,Vehicle control system and controlling method thereof
+    US9527502B1,2016-12-27,Method and apparatus for controlling plug-in hybrid electric vehicle
+    JP4325626B2,2009-09-02,Hybrid vehicle operation control system
+    KR102563005B1,2023-08-04,Vehicle and control method for the same
+    US20200073408A1,2020-03-05,Platooning controller, system including the same, and method thereof
+    US9020676B2,2015-04-28,Method and system for controlling drive torque of vehicle
+    US10814874B2,2020-10-27,Apparatus and method for controlling creep torque in environmentally-friendly vehicle
+    US11493936B2,2022-11-08,Platooning management device, system including the same, and method thereof
+    US11352001B2,2022-06-07,Method for controlling deceleration of environmentally friendly vehicle
+    US9199664B2,2015-12-01,Steering apparatus for HEV and method of controlling the same
+    US10933861B2,2021-03-02,Method for controlling driving of hybrid vehicle using dynamic traffic information
+    US20210101584A1,2021-04-08,Hybrid vehicle and method of calibrating traveling direction for the same
+    CN108973984B,2023-08-29,Traction and Stability Control System
+    CN110893770A,2020-03-20,Vehicle power management failure
+    US11433911B2,2022-09-06,Controller for vehicle
+    CN112744194A,2021-05-04,Environment-friendly vehicle and brake control method thereof
+    US20190202456A1,2019-07-04,Inertial driving guide apparatus and control method
+    US20230117473A1,2023-04-20,Electrified vehicle and method of braking control for the same
+    US20210370781A1,2021-12-02,Eco-friendly vehicle and method for providing distance to empty thereof
+    JP2015074373A,2015-04-20,On-vehicle display device
+    US10920874B2,2021-02-16,Vehicle
+    US11709064B2,2023-07-25,Device and method for displaying a distance to empty of an electric vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    6
+classfication_nums
+    43
+classfication_items
+250
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,5,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,5
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,7,/,0,0
+    B,6,0,K,1,7,/,3,4
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,7,/,0,0
+    B,6,0,K,1,7,/,3,4
+    B,6,0,K,1,7,/,3,5,4
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,7,/,0,0
+    B,6,0,K,1,7,/,3,4
+    B,6,0,K,1,7,/,3,5,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,2,3,/,0,0
+    B,6,0,K,2,3,/,0,8
+    B,6,0,K,2,3,/,0,8,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,0,2
+    B,6,0,W,4,0,/,0,6
+    B,6,0,W,4,0,/,0,7,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,1,0
+    B,6,0,W,4,0,/,1,0,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,1,0
+    B,6,0,W,4,0,/,1,1,4
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,/,0,0
+    B,6,0,K,2,0,0,1,/,0,0,1
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,2,3,/,0,0
+    B,6,0,K,2,3,/,0,8
+    B,6,0,K,2,3,/,0,8,0,8
+    B,6,0,K,2,0,2,3,/,0,8,1,6
+    B,6,0,K,2,0,2,3,/,0,8,2,5
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,2,3,/,0,0
+    B,6,0,K,2,3,/,0,8
+    B,6,0,K,2,0,2,3,/,0,8,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B,6,0,L,2,2,4,0,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B,6,0,L,2,2,4,0,/,6,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,8
+    B,6,0,W,2,5,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,2,6
+    B,6,0,W,2,5,2,0,/,2,6,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,2,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,4,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,2,/,0,0
+    B,6,0,W,2,5,5,2,/,1,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,5,/,0,0
+    B,6,0,W,2,5,5,5,/,2,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,4,0
+    B,6,0,W,2,7,2,0,/,4,0,3
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,1
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,4,0,0,/,0,0
+    B,6,0,Y,2,4,0,0,/,8,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+4
+    2020-11-24,Application filed by Hyundai Motor Co, Kia Motors Corp
+    2020-11-24,Assigned to HYUNDAI MOTOR COMPANY, KIA MOTORS CORPORATION
+    2021-12-23,Publication of US20210394738A1
+    Status,Pending
+
+active_area
+4
+    E,P
+    J,P
+    U,S
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    KR10-2020-0075887,2020-06-22,
+    KR1020200075887A,2020-06-22,Apparatus and method for controlling disconnector of electric vehicle
+
+legal_event
+7
+    Date,Code,Title,Description
+    2020-11-24,AS,Assignment,Owner name: KIA MOTORS CORPORATION, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:CHO, WOO CHEOL;CHOI, WON SEOK;LEE, KYUNG HYUN;AND OTHERS;REEL/FRAME:054459/0870Effective date: 20201020Owner name: HYUNDAI MOTOR COMPANY, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:CHO, WOO CHEOL;CHOI, WON SEOK;LEE, KYUNG HYUN;AND OTHERS;REEL/FRAME:054459/0870Effective date: 20201020
+    2021-08-21,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2022-12-20,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2023-05-04,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2023-07-25,STCB,Information on status: application discontinuation,Free format text: FINAL REJECTION MAILED
+    2023-07-25,STPP,Information on status: patent application and granting procedure in general,Free format text: FINAL REJECTION MAILED
+

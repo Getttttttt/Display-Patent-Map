@@ -1,0 +1,225 @@
+ID
+    US20190061715A1
+citation_exist
+    Patent Citations (10)
+citation_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    US1222213A                      *,1916-11-27,1917-04-10,Z A Douglas,Railroad-track sand-remover.
+    US20090125170A1                      *,2007-04-25,2009-05-14,Joseph Forrest Noffsinger,System and method for optimizing a braking schedule of a powered system traveling along a route
+    US20160001756A1                      *,2013-02-19,2016-01-07,Mitsubishi Electric Corporation,Brake control device, and brake control method
+    US20180215270A1                      *,2015-07-09,2018-08-02,Kabushiki Kaisha Toshiba,Train control device
+    Family To Family Citations,,,,
+    JPS6252521B2                      *,1980-09-12,1987-11-05,Hitachi Ltd,
+    JPS5932305A                      *,1982-08-12,1984-02-21,Japanese National Railways<Jnr>,Control method for alternating current electric motor coach
+    JP4955493B2,2006-09-22,2012-06-20,東海旅客鉄道株式会社,Vehicle travel control system
+    JP4886643B2                      *,2006-10-04,2012-02-29,川崎重工業株式会社,Railway vehicle power control device
+    JP5430872B2                      *,2008-03-31,2014-03-05,株式会社東芝,Train control system
+    US8000873B2                      *,2008-05-12,2011-08-16,Wabtec Holding Corp.,Braking system
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN111560911A                      *,2020-06-08,2020-08-21,中车青岛四方机车车辆股份有限公司,Control method and device of tread cleaning device and train
+    CN111806510A                      *,2020-07-24,2020-10-23,中车青岛四方机车车辆股份有限公司,Rail vehicle brake control method and system and rail vehicle
+    WO2020193033A3                      *,2019-03-22,2020-11-19,Siemens Mobility GmbH,Method for operating a driver assistance system for a track guided vehicle
+    Family To Family Citations,,,,
+    CN114604211B                      *,2022-03-11,2023-01-20,中车株洲电力机车有限公司,Urban rail vehicle and tread cleaning control method and system thereof
+
+abstract
+    Provided is a brake control system that can reduce use of a mechanical braking in a railway vehicle using an automatic train control (ATC). The present disclosure is a brake control system for a railway vehicle using an ATC. The brake control system includes: a main electric motor, a main conversion device, a brake controller, and an ATC device. The main electric motor generates a braking force by converting kinetic energy of a wheel of the railway vehicle to electrical energy. The main conversion device actuates the main electric motor. The brake controller outputs a braking signal to the main conversion device. The ATC device outputs a braking command to the brake controller based on the ATC. In addition, the ATC device outputs a preliminary braking signal for energizing the main electric motor prior to output of the braking command.
+title
+    Brake control system
+similar_document
+26
+    Publication,Publication Date,Title
+    US10906516B2,2021-02-02,Brake control system
+    US7061131B2,2006-06-13,Method and system for optimizing energy storage in hybrid off-highway vehicle systems and trolley connected OHV systems
+    EP2886406B1,2017-03-15,Train-information management device and device control method
+    CA2588165C,2011-05-31,Quasi-autonomous energy storage and electric drive system
+    CN102689603B,2017-03-01,For supplying system and its manufacture method of promotion energy from process auxiliary drive
+    US20040035656A1,2004-02-26,Method and apparatus for power management of a regenerative braking system
+    JP5983885B2,2016-09-06,Vehicle regenerative braking control device
+    JP2008296908A,2008-12-11,Vehicle equipped with super-capacitor for recovery of energy on braking
+    RU2701898C1,2019-10-02,Vehicle with braking system
+    KR101776008B1,2017-09-19,Electric railway vehicle system between stations using a rapid charge system
+    US10828989B2,2020-11-10,Method for operating a hybrid vehicle
+    JP5128705B2,2013-01-23,Vehicle system control device
+    JP6737878B2,2020-08-12,Electric railway vehicle drive system and vehicle drive method
+    CN102133894A,2011-07-27,Control method of feeding and braking of electric vehicle driving motor system
+    US6871919B2,2005-03-29,Method and apparatus for power management of a braking system
+    JP2009119963A,2009-06-04,Electric railway vehicle
+    JP4830448B2,2011-12-07,Vehicle drive system
+    EP2623361A1,2013-08-07,Brake control apparatus for vehicle, and brake control apparatus for multi-car train
+    KR101396199B1,2014-05-19,Method and system for braking a railway vehicle
+    KR101584325B1,2016-01-14,Hydro-pneumatic brake system for monorail vehicle
+    KR101082001B1,2011-11-09,Control method of hybrid eletric railway car
+    JP2002369304A,2002-12-20,Controller electric rolling stock
+    Paredes et al.,2013,Combined regenerative and mechanical braking in electric vehicle
+    CN210437178U,2020-05-01,Hybrid power electric transmission system and rail engineering vehicle
+    CN112203904A,2021-01-08,Power supply management of the power grid of a hybrid motor vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    19
+classfication_items
+108
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,0,1
+    B,6,0,T,8,/,1,7,0,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,6
+    B,6,0,T,8,/,1,7,6,1
+    B,6,0,T,8,/,1,7,6,1,6
+    B
+    B,6,1
+    B,6,1,H
+    B,6,1,H,1,1,/,0,0
+    B,6,1,H,1,1,/,0,0,5
+    B
+    B,6,1
+    B,6,1,H
+    B,6,1,H,1,1,/,0,0
+    B,6,1,H,1,1,/,1,4
+    B
+    B,6,1
+    B,6,1,H
+    B,6,1,H,1,3,/,0,0
+    B,6,1,H,1,3,/,3,4
+    B
+    B,6,1
+    B,6,1,H
+    B,6,1,H,9,/,0,0
+    B,6,1,H,9,/,0,6
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,1,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+7
+    2018-08-29,Application filed by Central Japan Railway Co
+    2018-08-29,Assigned to CENTRAL JAPAN RAILWAY COMPANY
+    2019-02-28,Publication of US20190061715A1
+    2021-02-02,Application granted
+    2021-02-02,Publication of US10906516B2
+    Status,Active
+    2039-01-01,Adjusted expiration
+
+active_area
+3
+    J,P
+    T,W
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2017-165683,2017-08-30,
+    JP2017165683A,2017-08-30,Brake control system
+
+legal_event
+7
+    Date,Code,Title,Description
+    2018-08-29,AS,Assignment,Owner name: CENTRAL JAPAN RAILWAY COMPANY, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:KATO, HIROKAZU;KOBAYASHI, GAKUJI;KATO, TOMOYA;REEL/FRAME:046739/0208Effective date: 20180802
+    2018-08-29,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2018-10-30,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2020-06-04,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2020-12-30,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT RECEIVED
+    2021-01-13,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

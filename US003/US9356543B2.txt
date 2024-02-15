@@ -1,0 +1,249 @@
+ID
+    US9356543B2
+citation_exist
+    Patent Citations (8)
+citation_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH0746721A,1993-08-03,1995-02-14,Nissan Motor Co Ltd,Method and apparatus for controlling motor for electric vehicle
+    JP2007325397A,2006-05-31,2007-12-13,Honda Motor Co Ltd,Controller of motor
+    JP2008206339A,2007-02-21,2008-09-04,Toyota Motor Corp,Drive controller of rotary electric machine and vehicle
+    JP2010035386A,2008-07-31,2010-02-12,Toyota Motor Corp,System operation controller
+    CN101951217A,2010-08-13,2011-01-19,株洲南车时代电气股份有限公司,Diesel locomotive auxiliary engine control device
+    JP2012110189A,2010-11-19,2012-06-07,Toyota Motor Corp,Electric system for motor-driven vehicle and control method therefor
+    US20150233975A1                      *,2012-11-26,2015-08-20,Mitsubishi Electric Corporation,Voltage monitoring control device, voltage control device, and voltage monitoring control method
+    Family To Family Citations,,,,
+    JP4571480B2                      *,2004-11-04,2010-10-27,本田技研工業株式会社,Electric motor control device
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (2)
+              
+
+
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20150120120A1                      *,2013-10-29,2015-04-30,Toyota Jidosha Kabushiki Kaisha,Electric drive vehicle
+    Family To Family Citations,,,,
+    JP6315622B2                      *,2016-03-04,2018-04-25,本田技研工業株式会社,vehicle
+    FR3075513B1                      *,2017-12-18,2019-12-20,Renault S.A.S.,STEERING METHOD OF A VOLTAGE MODULATION DEVICE USED IN A HYBRID MOTOR VEHICLE GROUP
+
+abstract
+    A power source control apparatus for a rotating electrical machine includes a TRC optimum voltage output portion (21) and a GEN optimum voltage output portion (22) that acquire a TRC optimum voltage and a GEN optimum voltage; a normal target voltage output portion (23) that sets a normal target voltage commonly applied to a traveling motor system and a power generating motor system using a DC/DC converter, based on a highest optimum voltage out of the TRC optimum voltage and the GEN optimum voltage; and a temperature protecting target voltage output portion (24) and a target voltage output portion (25) that limit the voltage commonly applied to the traveling motor system and the power generating motor system to a value lower than the normal target voltage.
+title
+    Power source control apparatus for rotating electrical machine
+similar_document
+25
+    Publication,Publication Date,Title
+    US10500965B2,2019-12-10,Dithering a pulse width modulated base frequency to reduce EV noise
+    EP1858152B1,2011-06-01,Load drive device, vehicle, and abnormality processing method in load drive device
+    JP4793237B2,2011-10-12,Secondary battery charge / discharge control device and vehicle equipped with the same
+    US9902270B2,2018-02-27,Motor-driven vehicle
+    US8860348B2,2014-10-14,Method and apparatus for controlling a high-voltage battery connection for hybrid powertrain system
+    KR101052603B1,2011-07-29,A computer-readable recording medium storing a power supply system and a vehicle having the same, a method for controlling temperature rise of a power storage device, and a program for causing the computer to perform temperature rise control of a power storage device.
+    US10189358B2,2019-01-29,Power supply device
+    EP1639696A1,2006-03-29,Power supply apparatus, motor drive control method using the same and motor vehicle having the same mounted thereon
+    US9731605B2,2017-08-15,Method and apparatus for controlling an electrified powertrain system of a vehicle
+    CN104924919A,2015-09-23,Apparatus for controlling motor in electric vehicle and method for preventing overheating of traction motor
+    JP5358622B2,2013-12-04,Rotating electrical machine control device
+    US9356543B2,2016-05-31,Power source control apparatus for rotating electrical machine
+    JP5411237B2,2014-02-12,Control device for hybrid vehicle
+    CN109130881B,2022-02-01,Truck and method for controlling driving motor mounted on truck for traveling
+    JP4710545B2,2011-06-29,Motor drive device
+    JP2010022123A,2010-01-28,Drive control device for electric vehicle
+    JP2013133062A,2013-07-08,Hybrid vehicle
+    US10967743B2,2021-04-06,Hybrid drive system
+    US11791758B2,2023-10-17,Inverter device and motor device comprising same
+    CN104272582B,2016-11-30,The power control of electric rotating machine
+    JP2014183662A,2014-09-29,Vehicle control device
+    US20150137593A1,2015-05-21,Voltage control in an electric vehicle
+    JP2014045557A,2014-03-13,Motor-driven load driver
+    JP2014045587A,2014-03-13,Electric vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    29
+classfication_items
+134
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,6,/,0,0
+    H,0,2,P,6,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,6,1
+    B,6,0,L,1,1,/,1,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B,6,0,L,5,0,/,6,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,3,/,0,0
+    H,0,2,P,2,3,/,1,4
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,7,/,0,0
+    H,0,2,P,2,7,/,0,4
+    H,0,2,P,2,7,/,0,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y,0,2,T,1,0,/,6,2,1,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,4
+    Y,0,2,T,1,0,/,6,4,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y,0,2,T,1,0,/,7,0,7,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,1,6
+    Y,0,2,T,1,0,/,7,2,4,1
+    Y,0,2,T,1,0,/,7,2,7,5
+
+application_events
+7
+    2013-04-18,Application filed by Honda Motor Co Ltd
+    2014-11-07,Assigned to HONDA MOTOR CO., LTD.
+    2015-05-14,Publication of US20150130392A1
+    2016-05-31,Application granted
+    2016-05-31,Publication of US9356543B2
+    Status,Active
+    2033-04-26,Adjusted expiration
+
+active_area
+3
+    W,O
+    U,S
+    J,P
+
+not_active_area
+1
+    E,P
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2012109544,2012-05-11,
+    JP2012-109544,2012-05-11,
+    PCT/JP2013/061483,2013-04-18,Power source control device for rotating electrical machine
+
+legal_event
+5
+    Date,Code,Title,Description
+    2014-11-07,AS,Assignment,Owner name: HONDA MOTOR CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:KIKUCHI, KENJI;ITO, YOSHIHIRO;REEL/FRAME:034129/0299Effective date: 20141105
+    2016-05-11,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2016-12-02,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2019-11-15,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

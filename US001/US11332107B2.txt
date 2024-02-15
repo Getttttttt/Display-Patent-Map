@@ -1,0 +1,230 @@
+ID
+    US11332107B2
+citation_exist
+    Patent Citations (7)
+citation_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    KR20130037751A,2011-10-07,2013-04-17,주식회사 만도,Brake system for a vehicle and control method the same
+    US20130253793A1                      *,2011-05-05,2013-09-26,GM Global Technology Operations LLC,Optimal Fusion Of Electric Park Brake And Hydraulic Brake Sub-System Functions To Control Vehicle Direction
+    US20140015310A1                      *,2011-09-27,2014-01-16,Advics Co ., Ltd.,Parking brake control device
+    KR101527614B1,2009-09-08,2015-06-09,현대모비스 주식회사,Electronic Control Breaking Method of of a Vehicle
+    KR20170109006A,2015-03-02,2017-09-27,콘티넨탈 테베스 아게 운트 코. 오하게,Motor vehicle brake system controller and method
+    US20180345923A1                      *,2017-06-05,2018-12-06,Mando Corporation,Vehicle control apparatus and method for controlling the same
+    US20190001941A1,2017-06-29,2019-01-03,Volvo Car Corporation,Method and vehicle for activating an autonomous braking maneuver
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (10)
+              
+
+
+citedBy_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    DE102017201982A1                      *,2017-02-08,2018-08-09,Robert Bosch Gmbh,Brake motor control unit and brake system for a vehicle with an electric brake motor
+    WO2019065380A1                      *,2017-09-27,2019-04-04,日立オートモティブシステムズ株式会社,Brake device, control device for vehicle, and electric brake control device
+    EP3741634B1                      *,2019-05-23,2022-07-06,Robert Bosch GmbH,Distributed electric park brake control
+    KR20210148633A                      *,2020-06-01,2021-12-08,현대모비스 주식회사,Electrohydraulic Brake
+    WO2022077195A1                      *,2020-10-13,2022-04-21,华为技术有限公司,Electromechanical braking method and electromechanical braking device
+    CN113044063B                      *,2021-03-31,2022-09-06,重庆长安汽车股份有限公司,Functional redundancy control system for advanced autopilot
+    CN113682288B                      *,2021-08-20,2022-11-25,岚图汽车科技有限公司,Redundant braking system for automatic driving of vehicle and braking method thereof
+    CN114348020B                      *,2021-12-22,2023-09-19,东风悦享科技有限公司,5G remote and automatic driving safety redundancy system and control method
+    CN115042761B                      *,2022-07-08,2023-07-28,东风越野车有限公司,Failure backup system for automobile braking
+    CN115158277A                      *,2022-09-07,2022-10-11,万向钱潮股份公司,Redundancy control method and redundancy control system for multi-brake system
+
+abstract
+    The present disclosure relates to a system and method for operating a main brake in case of a failure of an autonomous driving function of an autonomous vehicle. the system for operating the main brake in case of a failure of the autonomous driving function of the autonomous vehicle includes an autonomous driving control unit configured to perform control such that the autonomous vehicle travels in the autonomous driving mode, a main brake control unit configured to perform first communication with the autonomous driving control unit and to output a first control signal so that a frictional braking force is generated to a main brake by hydraulic pressure, and a regenerative braking control unit configured to perform second communication with the main brake control unit and to output a second control signal so that a regenerative braking force is generated to a motor.
+title
+    System and method for operating redundancy braking in case of breakdown of main brake for autonomous vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US11332107B2,2022-05-17,System and method for operating redundancy braking in case of breakdown of main brake for autonomous vehicle
+    US11161491B2,2021-11-02,Automatic deceleration control device
+    CA2988074C,2018-06-19,Vehicle control device and vehicle control method
+    US9081387B2,2015-07-14,Method and device for the prediction and adaptation of movement trajectories of motor vehicles
+    CN103303279B,2018-10-26,Automatic braking method and apparatus after motor vehicle initial collision
+    US10246090B2,2019-04-02,Vehicle collision severity mitigation
+    US8483925B2,2013-07-09,Device for determining a driving state and method for the driving-state-dependent operation of a combined vehicle brake system
+    US11560156B2,2023-01-24,Vehicle control interface, vehicle system, and automated-driving platform
+    US20210229667A1,2021-07-29,Vehicle control apparatus and vehicle control method
+    CN113291317A,2021-08-24,Vehicle control device and vehicle control method
+    CN111806362A,2020-10-23,Vehicle control interface and vehicle system
+    US20220219656A1,2022-07-14,Vehicle control device
+    JP2019206258A,2019-12-05,Vehicle control system
+    JP7140092B2,2022-09-21,Driving support device
+    CN113859258A,2021-12-31,Method and apparatus for controlling automatic driving
+    JP6391395B2,2018-09-19,Vehicle travel control device
+    CN112714730A,2021-04-27,Method and device for operating an at least partially automatically operated first vehicle
+    US11760366B2,2023-09-19,Vehicle control apparatus, vehicle, vehicle control method, and non transitory computer readable storage medium
+    CN113264063B,2022-04-08,Vehicle control device, vehicle control method, and computer-readable storage medium
+    US11364921B2,2022-06-21,Object recognition apparatus, object recognition method, and vehicle
+    JP4052279B2,2008-02-27,Deceleration control device
+    CN113276851A,2021-08-20,Vehicle control method and device, controller and vehicle
+    KR20220040491A,2022-03-30,How to manage autonomous emergency braking
+    US11047317B2,2021-06-29,Method and device for influencing the engine control of a single-track motor vehicle
+    US11535272B2,2022-12-27,Vehicle system for autonomous control in response to abnormality
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    19
+classfication_items
+107
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,2
+    B,6,0,W,5,0,/,0,2,9
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,7,/,0,0
+    B,6,0,T,1,7,/,1,8
+    B,6,0,T,1,7,/,2,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,5,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,8
+    B,6,0,T,8,/,1,8,8,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,2
+    B,6,0,W,5,0,/,0,2,0,5
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,1,/,0,0
+    G
+    G,0,5
+    G,0,5,D
+    G,0,5,D,1,/,0,0
+    G,0,5,D,1,/,0,2
+    G,0,5,D,1,/,0,2,1
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,4,0
+    B,6,0,T,2,2,7,0,/,4,0,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,4,0
+    B,6,0,T,2,2,7,0,/,4,1,3
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,1,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,2
+    B,6,0,W,5,0,/,0,2,0,5
+    B,6,0,W,2,0,5,0,/,0,2,1
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,6,/,0,0
+    B,6,0,Y,2,3,0,6,/,1,5
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,4,0,0,/,0,0
+    B,6,0,Y,2,4,0,0,/,8,1
+
+application_events
+7
+    2019-10-10,Application filed by Hyundai Motor Co, Kia Motors Corp
+    2019-10-16,Assigned to KIA MOTORS CORPORATION, HYUNDAI MOTOR COMPANY
+    2021-01-14,Publication of US20210009095A1
+    2022-05-17,Application granted
+    2022-05-17,Publication of US11332107B2
+    Status,Active
+    2040-05-01,Adjusted expiration
+
+active_area
+3
+    K,R
+    U,S
+    D,E
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    KR1020190084111A,2019-07-11,Redundancy brake operating system and method for breakdown of main brake of autonomous vehicle
+    KR10-2019-0084111,2019-07-11,
+
+legal_event
+10
+    Date,Code,Title,Description
+    2019-10-10,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2019-10-16,AS,Assignment,Owner name: KIA MOTORS CORPORATION, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:KIM, IN-SU;REEL/FRAME:050728/0250Effective date: 20190926Owner name: HYUNDAI MOTOR COMPANY, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:KIM, IN-SU;REEL/FRAME:050728/0250Effective date: 20190926
+    2020-06-26,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2021-06-23,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2021-09-27,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2022-01-28,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2022-04-15,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT RECEIVED
+    2022-04-18,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2022-04-27,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

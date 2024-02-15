@@ -1,0 +1,198 @@
+ID
+    JP2012154203A
+citation_exist
+    Patent Citations (20)
+citation_infor
+22
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH0854156A                      *,1993-12-27,1996-02-27,Ebara Corp,エンジン排熱を利用する冷暖房装置とその運転方法
+    JPH0926226A                      *,1995-07-11,1997-01-28,Nkk Corp,冷凍装置
+    JPH10288089A                      *,1997-04-10,1998-10-27,Kawasaki Heavy Ind Ltd,熱源設備の運転制御方法
+    JP2001216001A                      *,1995-03-15,2001-08-10,Mitsubishi Electric Corp,エネルギー設備の設備運用方法及びその装置
+    JP2002256970A                      *,2001-02-26,2002-09-11,Kubota Corp,コージェネレーションシステム
+    JP2003113739A                      *,2001-10-02,2003-04-18,Toshiba Corp,エネルギ供給設備の運転計画システム
+    Family To Family Citations,,,,
+    US4380909A                      *,1981-07-17,1983-04-26,Chevron Research Company,Method and apparatus for co-generation of electrical power and absorption-type heat pump air conditioning
+    US4802100A                      *,1986-08-18,1989-01-31,Gas Research Institute,Advanced cogeneration control system
+    US4813242A                      *,1987-11-17,1989-03-21,Wicks Frank E,Efficient heater and air conditioner
+    JP3640686B2,1994-06-27,2005-04-20,東京瓦斯株式会社,コージェネレーションシステム
+    JPH0886533A,1994-09-16,1996-04-02,Toshiba Corp,空気調和装置
+    JP4186245B2,1998-02-04,2008-11-26,ダイキン工業株式会社,冷凍装置
+    FI107183B                      *,1999-02-24,2001-06-15,Goeran Vilhelm Vikstroem,Optimitoiminen aluelämpövoiman tuotantomenetelmä yhdistettyä sähkön ja lämmön tuotantoa varten ja optimitoiminen aluelämpövoimalaitos
+    JP4089187B2                      *,2001-08-31,2008-05-28,株式会社日立製作所,熱電供給システム
+    JP2003075017A                      *,2001-09-04,2003-03-12,Sanyo Electric Co Ltd,排熱利用冷凍システム
+    JP3719592B2,2001-10-10,2005-11-24,東京瓦斯株式会社,複合冷暖房装置
+    US7037360B2                      *,2002-08-15,2006-05-02,Mitsubishi Chemical Corporation,Adsorbent for heat utilization system, adsorbent for regenerator system, regenerator system comprising the adsorbent, ferroaluminophosphate and method for production thereof
+    KR100550575B1                      *,2004-08-17,2006-02-10,엘지전자 주식회사,제습기를 갖는 발전 공조 시스템
+    KR100649596B1                      *,2004-12-10,2006-11-28,엘지전자 주식회사,열병합 발전 시스템
+    KR100644826B1                      *,2004-12-10,2006-11-10,엘지전자 주식회사,열병합 발전 시스템
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (9)
+              
+
+
+citedBy_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2015068333A                      *,2013-10-01,2015-04-13,ヤンマー株式会社,コージェネレーション装置
+    CN114061173A                      *,2022-01-13,2022-02-18,华电电力科学研究院有限公司,一种多能互补分布式能源系统能量梯级利用系统及方法
+    Family To Family Citations,,,,
+    US9630474B2                      *,2013-10-29,2017-04-25,Denso International America, Inc.,Thermostatic controlled heat pump water circuit
+    ITUA20161730A1,2016-03-16,2017-09-16,Stefano Briola,Impianto e metodo per la fornitura all’utenza di potenza elettrica e/o potenza meccanica, potenza termica e/o potenza frigorifera
+    US11041636B2                      *,2017-06-27,2021-06-22,Imby Energy, Inc.,Cogeneration systems and methods for generating heating and electricity
+    CN108387029A                      *,2018-04-04,2018-08-10,山东大学,一种热电比灵活可控的新型冷热电联供系统及控制方法
+    FR3086039B1                      *,2018-09-18,2021-02-26,Commissariat Energie Atomique,Systeme de production et de gestion de froid par une machine a absorption a partir d'energie fatale d'un moteur a combustion
+    AT522615A1                      *,2019-05-29,2020-12-15,Ait Austrian Inst Tech Gmbh,Verfahren zur Dampferzeugung
+    FR3111185B1                      *,2020-06-03,2022-07-08,Commissariat Energie Atomique,Systeme thermique comportant au moins un circuit de machine a absorption présentant des performances ameliorées
+
+abstract
+    【課題】従来の原動機により電力と熱の供給を行うコジェネレーションシステムでは、システム内だけでは、電力需要と高品位熱需要を含む熱需要とを最大限に過不足なく賄うことができず、エネルギーコストが増加する、という問題があった。【解決手段】熱駆動ヒートポンプ３と熱駆動ヒートポンプアシステッド電気駆動ヒートポンプ４とを備え、ガスエンジン５による発電電力ｅが、コジェネレーションシステム１の熱需要Ｄｈを補う熱駆動ヒートポンプアシステッド電気駆動ヒートポンプ４の駆動のための要求電力Ｄｅ２と、コジェネレーションシステム１の電力需要Ｄｅ１との和であるバランス電力ｅｂとなるように電力制御を行うコントローラ４４を設けた。【選択図】  図３
+title
+    コジェネレーションシステム
+similar_document
+26
+    Publication,Publication Date,Title
+    JP5636297B2,2014-12-03,コジェネレーションシステム
+    US10094577B2,2018-10-09,Solar energy system
+    US10598392B2,2020-03-24,Solar energy system
+    JP5730028B2,2015-06-03,熱源システム
+    EP2762802B1,2019-07-03,Chilled water system and method of operating chilled water system
+    JP2010223439A,2010-10-07,太陽熱利用蒸気発生システムとそれを利用した太陽熱利用吸収冷凍機
+    JP5808105B2,2015-11-10,熱源システムおよびその制御方法
+    US11788776B2,2023-10-17,Refrigeration unit
+    KR100814615B1,2008-03-18,흡수식 및 압축식 사이클을 이용한 열 병합발전시스템
+    JP5571978B2,2014-08-13,ヒートポンプシステム
+    JP5907812B2,2016-04-26,ヒートポンプシステム及びその運転方法
+    JP6490924B2,2019-03-27,冷熱源システム
+    JP4152140B2,2008-09-17,排熱吸収冷凍機
+    JP6327544B2,2018-05-23,排熱利用ヒートポンプシステム
+    JP2013068409A,2013-04-18,ヒートポンプ
+    Jeong et al.,2018,Start-up behaviour of a combined air-conditioning system in cooling and heating operating modes
+    WO2013136606A1,2013-09-19,蒸気発生システム
+    KR20150095756A,2015-08-21,열 펌프의 에너지 공급을 최적화하기 위한 방법과 시스템
+    JP2003207223A,2003-07-25,排熱回収式冷凍装置
+    JP2005195184A,2005-07-21,エンジン駆動式ヒートポンプ装置
+    CN219283662U,2023-06-30,一种高效节能型双温变频激光冷水机
+    JP2013076554A,2013-04-25,ヒートポンプ
+    CN114440493A,2022-05-06,耦合机组、耦合机组的控制方法及控制系统
+    JP3986633B2,2007-10-03,熱利用システム
+    JP3197464U,2015-05-21,複合ヒートポンプシステム
+
+patent_application
+    NoExist
+patent_priority_application
+5
+    Application,Priority date,Filing date,Title
+    JP2011012157A,2011-01-24,2011-01-24,コジェネレーションシステム
+    EP12738955.9A,2011-01-24,2012-01-20,cogeneration
+    US13/981,255,2011-01-24,2012-01-20,Cogeneration system
+    PCT/JP2012/051181,2011-01-24,2012-01-20,コジェネレーションシステム
+
+inventor_number
+    10
+classfication_nums
+    11
+classfication_items
+58
+    F
+    F,2,5
+    F,2,5,B
+    F,2,5,B,3,0,/,0,0
+    F,2,5,B,3,0,/,0,2
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,1,3,/,0,0
+    F,0,1,K,1,3,/,0,2
+    F
+    F,0,2
+    F,0,2,G
+    F,0,2,G,5,/,0,0
+    F,0,2,G,5,/,0,2
+    F,0,2,G,5,/,0,4
+    F
+    F,2,5
+    F,2,5,B
+    F,2,5,B,1,5,/,0,0
+    F
+    F,2,5
+    F,2,5,B
+    F,2,5,B,2,5,/,0,0
+    F,2,5,B,2,5,/,0,2
+    F
+    F,2,5
+    F,2,5,B
+    F,2,5,B,2,7,/,0,0
+    F,2,5,B,2,7,/,0,2
+    Y
+    Y,0,2
+    Y,0,2,A
+    Y,0,2,A,3,0,/,0,0
+    Y,0,2,A,3,0,/,2,7
+    Y,0,2,A,3,0,/,2,7,4
+    Y
+    Y,0,2
+    Y,0,2,B
+    Y,0,2,B,3,0,/,0,0
+    Y,0,2,B,3,0,/,5,2
+    Y
+    Y,0,2
+    Y,0,2,B
+    Y,0,2,B,3,0,/,0,0
+    Y,0,2,B,3,0,/,6,2
+    Y,0,2,B,3,0,/,6,2,5
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,2,0,/,0,0
+    Y,0,2,E,2,0,/,1,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,1,0
+    Y,0,2,T,1,0,/,1,2
+
+application_events
+7
+    2011-01-24,Application filed by Yanmar Co Ltd
+    2011-01-24,Priority to JP2011012157A
+    2012-08-16,Publication of JP2012154203A
+    2014-12-03,Application granted
+    2014-12-03,Publication of JP5636297B2
+    Status,Expired - Fee Related
+    2031-01-24,Anticipated expiration
+
+active_area
+1
+    W,O
+
+not_active_area
+3
+    J,P
+    E,P
+    U,S
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2011012157A,2011-01-24,コジェネレーションシステム
+
+legal_event
+9
+    Date,Code,Title,Description
+    2013-11-20,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20131119
+    2014-07-16,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20140715
+    2014-08-22,A521,Written amendment,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20140821
+    2014-10-08,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20141007
+    2014-10-23,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20141020
+    2015-06-09,S531,Written request for registration of change of domicile,Free format text: JAPANESE INTERMEDIATE CODE: R313531
+    2015-06-17,R350,Written notification of registration of transfer,Free format text: JAPANESE INTERMEDIATE CODE: R350
+    2017-10-24,LAPS,Cancellation because of no payment of annual fees,
+

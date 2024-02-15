@@ -1,0 +1,256 @@
+ID
+    US10195945B2
+citation_exist
+    Patent Citations (28)
+citation_infor
+30
+    Publication number,Priority date,Publication date,Assignee,Title
+    EP0704337A2,1994-09-29,1996-04-03,Seiko Epson Corporation,A control apparatus for an electric automobile
+    JP2001238303A,2000-02-24,2001-08-31,Mitsubishi Motors Corp,Regenerative controller of hybrid electric vehicle
+    JP2002238105A,2001-02-07,2002-08-23,Isuzu Motors Ltd,Hybrid electric vehicle
+    US20060102394A1,2004-11-16,2006-05-18,Eaton Corporation,Regeneration and brake management system
+    JP2009196404A,2008-02-19,2009-09-03,Fujitsu Ten Ltd,Hybrid control device, air-conditioning control device, and control method of hybrid vehicle
+    US20120022735A1,2010-07-23,2012-01-26,Naoyuki Tashiro,Drive control device for electric vehicle, and electric vehicle
+    JP2012195263A,2011-03-18,2012-10-11,Denso Corp,Fuel cell system
+    JP2015047923A,2013-08-30,2015-03-16,マツダ株式会社,Vehicular brake system
+    US20150094926A1,2012-02-29,2015-04-02,Bentley Motors Limited,Braking system for a vehcile
+    JP2015085820A,2013-10-31,2015-05-07,マツダ株式会社,Behavior control device for vehicle
+    WO2015080027A1,2013-11-29,2015-06-04,日産自動車株式会社,Control device for electric vehicle and control method for electric vehicle
+    US20160347202A1                      *,2014-01-10,2016-12-01,Nissan Motor Co., Ltd.,Control device for electric motor vehicle and control method for electric motor vehicle
+    US20170021731A1                      *,2014-04-04,2017-01-26,Hitachi Automotive Systems, Ltd.,Vehicle control apparatus and vehicle control method
+    Family To Family Citations,,,,
+    JPS52102511A                      *,1976-02-25,1977-08-27,Hitachi Ltd,Regenerative braking controller
+    JP3774790B2                      *,1998-09-18,2006-05-17,本田技研工業株式会社,Regenerative control device for hybrid vehicle
+    US6488345B1                      *,2001-08-16,2002-12-03,General Motors Corporation,Regenerative braking system for a batteriless fuel cell vehicle
+    JP4839864B2                      *,2006-01-31,2011-12-21,トヨタ自動車株式会社,VEHICLE, ITS CONTROL METHOD, AND BRAKE DEVICE
+    WO2007132515A1                      *,2006-05-15,2007-11-22,Mitsubishi Denki Kabushiki Kaisha,Electric car control apparatus
+    US8062169B2                      *,2007-04-30,2011-11-22,Caterpillar Inc.,System for controlling a hybrid energy system
+    FR2923422B1                      *,2007-11-14,2010-05-14,Renault Sas,METHOD FOR CONTROLLING RECOVERY BRAKING OF A VEHICLE COMPRISING AT LEAST ONE ELECTRIC MOTOR
+    EP2474437B1                      *,2009-09-02,2018-05-16,Toyota Jidosha Kabushiki Kaisha,Brake control device
+    CN102343824B                      *,2010-07-30,2013-07-10,北汽福田汽车股份有限公司,Braking energy recovery control method of electric car and device thereof
+    WO2012046271A1                      *,2010-10-05,2012-04-12,トヨタ自動車株式会社,Load-driving device and inverted movable body equipped with same
+    WO2012140746A1                      *,2011-04-13,2012-10-18,トヨタ自動車株式会社,Power supply device for electric vehicle and method for controlling same
+    US9233613B2                      *,2011-06-07,2016-01-12,Toyota Jidosha Kabushiki Kaisha,Electrically powered vehicle and method for controlling electrically powered vehicle
+    JP5754346B2                      *,2011-10-31,2015-07-29,株式会社デンソー,Fuel cell system
+    CN104112036B                      *,2014-06-12,2017-03-01,湖南文理学院,The emulation mode of series parallel hybrid power electric automobile
+    CN104494462B                      *,2014-12-12,2016-11-30,山东理工大学,Electric automobile driving electric motor control
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (9)
+              
+
+
+citedBy_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    DE102014210559A1                      *,2014-06-04,2015-12-17,Robert Bosch Gmbh,Control device for a recuperative braking system and method for operating a recuperative braking system
+    US11040625B2,2015-11-11,2021-06-22,Texas Instruments Incorporated,Optimized regenerative braking control of electric motors using look-up tables
+    CN107813805A                      *,2016-09-09,2018-03-20,比亚迪股份有限公司,Abrupt slope slow-descending system and its control method
+    US10322688B2                      *,2016-12-30,2019-06-18,Textron Innovations Inc.,Controlling electrical access to a lithium battery on a utility vehicle
+    JP7026452B2                      *,2017-05-12,2022-02-28,株式会社クボタ,Electric work platform
+    WO2021176731A1                      *,2020-03-06,2021-09-10,日産自動車株式会社,Electric vehicle control method and electric vehicle control device
+    CN111439129A                      *,2020-04-14,2020-07-24,江西精骏电控技术有限公司,Sliding energy recovery control method for electric automobile
+    WO2021254706A1                      *,2020-06-16,2021-12-23,Robert Bosch Gmbh,Method for operating a braking device for electrically driven motor vehicles
+    CN113895239B                      *,2021-09-22,2023-07-04,三一汽车制造有限公司,Electric work machine and energy recovery method and device thereof
+
+abstract
+    A control device is provided for an electric vehicle that generates a braking force corresponding to an opening degree of an accelerator pedal to decelerate the electric vehicle. The control device for the electric vehicle includes a motor configured to generate a driving force or a regenerative braking force of the electric vehicle, a friction braking unit configured to generate a friction braking force, and a controller configured to control at least one of the motor and the friction braking unit corresponding to the opening degree of the accelerator pedal. The controller determines whether all of regenerative electric power generated by the motor is consumed in the electric vehicle when the motor is caused to perform a regenerative braking. The controller causes the motor to perform the regenerative braking when the regenerative electric power is determined to be consumed in the electric vehicle.
+title
+    Control device for electric vehicle and control method for electric vehicle
+similar_document
+14
+    Publication,Publication Date,Title
+    US10195945B2,2019-02-05,Control device for electric vehicle and control method for electric vehicle
+    US9845022B2,2017-12-19,Control device for electric motor vehicle and control method for electric motor vehicle
+    US9902272B2,2018-02-27,Control device for electric motor vehicle and control method for electric motor vehicle
+    EP3305582B1,2021-07-14,Control device for electric motor vehicle and control method for electric motor vehicle
+    US9919617B2,2018-03-20,Control device for electric motor vehicle and control method for electric motor vehicle
+    US10328803B2,2019-06-25,Control method and control device for electric vehicle
+    JP6540716B2,2019-07-10,Vehicle control apparatus and vehicle control method
+    JP6729002B2,2020-07-22,Electric vehicle control method and control device
+    JP6237789B2,2017-11-29,Electric vehicle control device and electric vehicle control method
+    JP6589554B2,2019-10-16,Control method and control apparatus for electric vehicle
+    CN114599544A,2022-06-07,Method for controlling electric vehicle and device for controlling electric vehicle
+    JP7056219B2,2022-04-19,Motor vehicle control method and motor vehicle control device
+    WO2015079574A1,2015-06-04,Control device for electric vehicle and control method for electric vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    5
+classfication_nums
+    22
+classfication_items
+125
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,1,1,/,1,8,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B,6,0,L,2,2,4,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,3,0
+    B,6,0,W,2,5,1,0,/,3,0,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2015-07-29,Application filed by Nissan Motor Co Ltd
+    2018-03-06,Assigned to NISSAN MOTOR CO., LTD.
+    2018-08-30,Publication of US20180244157A1
+    2019-02-05,Application granted
+    2019-02-05,Publication of US10195945B2
+    Status,Active
+    2035-07-29,Anticipated expiration
+
+active_area
+9
+    K,R
+    W,O
+    J,P
+    E,P
+    U,S
+    C,N
+    C,A
+    B,R
+    R,U
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2015/071539,2015-07-29,Electric vehicle control device and electric vehicle control method
+
+legal_event
+5
+    Date,Code,Title,Description
+    2018-01-26,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2018-03-06,AS,Assignment,Owner name: NISSAN MOTOR CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:HIRAKAWA, YOICHI;ITOU, KEN;KATSUMATA, YUJI;AND OTHERS;SIGNING DATES FROM 20171222 TO 20180110;REEL/FRAME:045115/0524
+    2019-01-16,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2022-07-20,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

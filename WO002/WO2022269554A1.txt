@@ -1,0 +1,145 @@
+ID
+    WO2022269554A1
+citation_exist
+    Patent Citations (4)
+citation_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2005274123A                      *,2004-02-27,2005-10-06,Ecomeet Solutions Co Ltd,Power generation system and control method thereof
+    US20060089516A1                      *,2004-10-25,2006-04-27,Giercke Ronald K,Biomass conversion by combustion
+    US20090078176A1                      *,2006-01-11,2009-03-26,Eckhart Weber,Wood-Pellet Cogeneration Unit With Stirling Engine in Condensing Technology
+    EP2522708A2                      *,2011-05-11,2012-11-14,Anglia Ruskin University,Gasifier
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    The present invention relates to a process of cogeneration of electrical energy and heat starting from biomass (6) in a micro-cogenerator (1), said process comprising: i) feeding the biomass (6) to a pyrolytic gasifier (2) where it reacts thus generating syngas (8); ii) feeding the syngas (8) to a burner (3) where it is burned thus generating combustion gases (32); iii) subjecting the combustion gases (32) to heat exchange in the hot exchanger of a Stirling engine (4), with exhaust fumes (34) being obtained, during said step ii) the air-syngas ratio is adjusted based on a signal provided by a lambda probe (57) crossed by a flow of said exhaust fumes (34), said process comprising a start-up phase the micro-cogenerator (1) which comprises, in turn, a step a) of detecting the presence of syngas (8) inside the burner (3) and a subsequent step b) of ignition of the burner (3), wherein: said first step a) comprises calculating the integral over time of the temperature of the reaction chamber (17) of the pyrolytic gasifier (2) and calculating the integral over time of the value read by said lambda probe (57), during said step a) the value of the integral over time of the temperature is compared with a preset threshold value of said integral and, when said threshold value is exceeded, the value of the integral over time of the value read by the lambda probe (57) is, in turn, compared with a corresponding threshold value until it is exceeded, said second step b) is started when the latter threshold value is exceeded.
+title
+    Cogeneration process and related apparatus
+similar_document
+26
+    Publication,Publication Date,Title
+    JP5120823B1,2013-01-16,Waste gasification melting furnace
+    CN102345861B,2014-02-26,Combustion apparatus with improved thermal efficiency
+    WO1999031202A1,1999-06-24,Fuel gasifying system
+    KR100794914B1,2008-01-14,Method and apparatus of gasification under IGCC system
+    EP3324116B1,2020-02-12,Smokeless incinerator and system using same
+    KR101689917B1,2016-12-26,Gasification cooling system having seal
+    KR101921225B1,2018-11-22,Waste material melting furnace
+    JP4504337B2,2010-07-14,Gasifier and gasifier system
+    CN106338068A,2017-01-18,Household garbage pyrolysis and gasification processing system
+    RU92147U1,2010-03-10,GAS GENERATOR OF REFINED GASIFICATION PROCESS
+    JP2012001649A,2012-01-05,Method for regenerating filter, and gasification power generation plant using the same
+    WO2022269554A1,2022-12-29,Cogeneration process and related apparatus
+    FR2531944A1,1984-02-24,HYDROCARBON FUEL REFORMING APPARATUS IN A HYDROGEN-RICH GAS
+    WO2022269555A1,2022-12-29,Micro-cogenerator
+    JP2004144403A,2004-05-20,Gasified fused waste disposing device
+    Zhuikov et al.,2021,Experience of Using Synthetic Gas as the Main Fuel in an Industrial Heating Boiler House
+    CN107120680B,2023-09-29,Ignition device and ignition method under high-pressure inert atmosphere
+    TW201418444A,2014-05-16,Contrivance and method for the creation of a plurality of steam or hot water streams in a bank of coke ovens
+    JP2018173245A,2018-11-08,Waste treatment plant and method for starting waste treatment plant
+    JP6824685B2,2021-02-03,Burner device, cooling medium control method for burner device
+    CN108929720A,2018-12-04,A kind of autopneumatolysis pyrolytic tar gasification furnace
+    JPS61233083A,1986-10-17,Compound generating device by coal gasification
+    GB2492791A,2013-01-16,Annular gasification inlet
+    WO2011013017A1,2011-02-03,A plant for molecular dissociation of waste material
+    RU206434U1,2021-09-13,Solid fuel combustion plant
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    11
+classfication_items
+58
+    F
+    F,0,1
+    F,0,1,N
+    F,0,1,N,5,/,0,0
+    F,0,1,N,5,/,0,2
+    F
+    F,2,3
+    F,2,3,B
+    F,2,3,B,5,0,/,0,0
+    F,2,3,B,5,0,/,0,2
+    F,2,3,B,5,0,/,0,6
+    F
+    F,2,3
+    F,2,3,B
+    F,2,3,B,9,0,/,0,0
+    F,2,3,B,9,0,/,0,4
+    F,2,3,B,9,0,/,0,6
+    F
+    F,2,3
+    F,2,3,G
+    F,2,3,G,5,/,0,0
+    F,2,3,G,5,/,0,2
+    F,2,3,G,5,/,0,2,7
+    F
+    F,2,3
+    F,2,3,G
+    F,2,3,G,5,/,0,0
+    F,2,3,G,5,/,4,4
+    F,2,3,G,5,/,4,6
+    F
+    F,2,3
+    F,2,3,G
+    F,2,3,G,7,/,0,0
+    F,2,3,G,7,/,1,0
+    F
+    F,0,2
+    F,0,2,G
+    F,0,2,G,2,2,4,3,/,0,0
+    F
+    F,2,3
+    F,2,3,G
+    F,2,3,G,2,2,0,6,/,0,0
+    F,2,3,G,2,2,0,6,/,2,0
+    F
+    F,2,3
+    F,2,3,G
+    F,2,3,G,2,9,0,0,/,0,0
+    F,2,3,G,2,9,0,0,/,5,0,2,0,4
+    F
+    F,2,3
+    F,2,3,N
+    F,2,3,N,2,2,2,3,/,0,0
+    F,2,3,N,2,2,2,3,/,1,2
+    F
+    F,2,3
+    F,2,3,N
+    F,2,3,N,2,2,2,7,/,0,0
+    F,2,3,N,2,2,2,7,/,0,2
+
+application_events
+2
+    2022-06-24,Application filed by Kira Technology S.R.L.
+    2022-12-29,Publication of WO2022269554A1
+
+active_area
+0
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    IT102021000016703A,2021-06-25,COGENERATION PROCESS AND RELATED EQUIPMENT
+    IT102021000016703,2021-06-25,
+
+legal_event
+2
+    Date,Code,Title,Description
+    2023-02-08,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 22741848Country of ref document: EPKind code of ref document: A1
+

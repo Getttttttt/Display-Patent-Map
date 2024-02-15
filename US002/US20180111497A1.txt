@@ -1,0 +1,232 @@
+ID
+    US20180111497A1
+citation_exist
+    Patent Citations (18)
+citation_infor
+20
+    Publication number,Priority date,Publication date,Assignee,Title
+    US6404163B1                      *,2001-06-25,2002-06-11,General Motors Corporation,Method and system for regulating a charge voltage delivered to a battery
+    US20060206276A1                      *,2005-03-04,2006-09-14,Kim Do Y,Method of estimating maximum output of battery for hybrid electric vehicle
+    US20080156551A1                      *,2006-10-19,2008-07-03,Hitachi, Ltd.,Storage battery managing apparatus and vehicle controlling apparatus providing the same
+    US20100250041A1                      *,2007-12-29,2010-09-30,Chery Automobile Co., Ltd.,Protection method for limited charging/discharging current of hybrid electric vehicle battery and a device and a system thereof
+    US20130141045A1                      *,2011-12-02,2013-06-06,Nad KARIM,Electrically rechargeable, dual chemistry, battery system for use in plug-in or hybrid electric vehicles
+    US20150217641A1                      *,2012-09-11,2015-08-06,Jaguar Land Rover Limited,Method for controlling an electrical system in a vehicle
+    US20170166076A1                      *,2015-12-14,2017-06-15,Hyundai Motor Company,Auxiliary battery recharging control method and apparatus
+    Family To Family Citations,,,,
+    CN101141015B                      *,2007-09-03,2011-04-06,奇瑞汽车股份有限公司,Power generation mode control method of mix power vehicle
+    WO2011055937A2                      *,2009-11-03,2011-05-12,(주)브이이엔에스,Electric car and control method thereof
+    JP5520578B2                      *,2009-11-19,2014-06-11,富士重工業株式会社,Electric vehicle control device
+    CN103158570B                      *,2011-12-16,2016-07-13,北汽福田汽车股份有限公司,The High voltage accessory energy management of pure electric automobile
+    CN102951027A                      *,2012-11-27,2013-03-06,东南（福建）汽车工业有限公司,Braking energy recovery self-adaptive control method of electric automobile
+    CN104345198B                      *,2013-07-26,2017-09-29,上海汽车集团股份有限公司,The evaluation method and device of battery-operated electric current in shutdown process
+    CN104393636B                      *,2014-11-07,2017-05-24,惠州市亿能电子有限公司,Battery system usable charge or discharge power estimating method
+    CN104494595B                      *,2014-12-11,2018-09-18,中联重科股份有限公司,The Poewr control method and device of hybrid vehicle, dynamical system
+    CN104842796B                      *,2015-04-29,2018-05-01,上汽通用五菱汽车股份有限公司,The energy management method and system of a kind of pure electric automobile
+    CN105244947B                      *,2015-10-14,2017-12-12,奇瑞汽车股份有限公司,A kind of batteries of electric automobile charge-discharge electric power guard method
+    CN105633488B                      *,2016-02-03,2019-06-11,惠州市蓝微新源技术有限公司,A kind of method and system of battery power self adaptive control
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (18)
+              
+
+
+citedBy_infor
+20
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN109649183A                      *,2018-11-23,2019-04-19,江苏敏安电动汽车有限公司,A kind of pure electric automobile energy management and energy reclaiming method
+    US10377500B2                      *,2014-03-26,2019-08-13,Japan Aerospace Exploration Agency,Electrified aircraft and method of controlling regenerative electric power of electrified aircraft
+    CN110978937A                      *,2018-10-02,2020-04-10,株式会社斯巴鲁,Power control device and power control method for vehicle
+    CN111731152A                      *,2020-06-28,2020-10-02,中国第一汽车股份有限公司,Power control method, device, vehicle and storage medium
+    CN112026584A                      *,2020-09-08,2020-12-04,中国第一汽车股份有限公司,Electric automobile energy distribution method, device, vehicle and medium
+    US11059385B2                      *,2018-10-02,2021-07-13,Subaru Corporation,Electric power supply control apparatus for vehicle and electric power supply control method for vehicle
+    US11247684B2                      *,2018-10-02,2022-02-15,Subaru Corporation,Electric power supply control apparatus for vehicle and electric power supply control method for vehicle
+    US20220063419A1                      *,2020-08-26,2022-03-03,Hyundai Motor Company,Method and system for controlling high voltage power of electric vehicle
+    EP4056404A1                      *,2021-03-12,2022-09-14,Toyota Jidosha Kabushiki Kaisha,Vehicle
+    Family To Family Citations,,,,
+    CN109080461A                      *,2018-07-06,2018-12-25,联合汽车电子有限公司,The distribution system and distribution method of automobile electrical power
+    CN109278568B                      *,2018-10-26,2020-04-17,北京新能源汽车股份有限公司,Method and device for adjusting automobile driving force and automobile
+    CN109878375B                      *,2019-01-31,2021-10-15,上海蔚来汽车有限公司,Vehicle power distribution method, device and system, vehicle and vehicle-mounted controller
+    CN111823880A                      *,2020-07-03,2020-10-27,上海元城汽车技术有限公司,Torque distribution method, device, equipment and storage medium
+    CN111923684A                      *,2020-07-23,2020-11-13,中通客车控股股份有限公司,New energy bus air conditioning system and energy-saving control method
+    CN111942366B                      *,2020-07-27,2021-12-21,广州汽车集团股份有限公司,Energy distribution method and system for high-voltage battery of hybrid vehicle
+    CN112224157B                      *,2020-09-09,2022-08-02,吉利汽车研究院（宁波）有限公司,Low-voltage system power management method and device and vehicle
+    CN112606690A                      *,2020-12-04,2021-04-06,北京车和家信息技术有限公司,Vehicle power distribution method and device, vehicle control system and vehicle
+    CN113276726B                      *,2021-05-18,2022-09-02,江铃汽车股份有限公司,Electric truck energy management method and system
+
+abstract
+    The present invention provides a power allocation method for an electric vehicle, which comprises: obtaining parameters for estimation from a power management system of the vehicle; b) estimating an available discharge power of the battery based on the obtained parameters for estimation; c) based on the available discharge power and power demands from a plurality of electric power demanding components of the vehicle, determining the power to be allocated for each of the plurality of power demanding components; d) outputting the allocated power to the electric power demanding components, and in the case the power is required to be converted into a torque, converting the allocated power into a torque and outputting the torque. A power allocation system is also provided.
+title
+    Power allocation method and system for an electric vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US20180111497A1,2018-04-26,Power allocation method and system for an electric vehicle
+    JP6380435B2,2018-08-29,Vehicle solar cell system
+    US8148952B2,2012-04-03,Control strategy for HV battery equalization charge during driving operation in fuel cell hybrid vehicles
+    US8686591B2,2014-04-01,Electrically-driven vehicle and charge control system which enable simultaneous performance of driving of an accessory unit and a charging process of a battery
+    US9190831B2,2015-11-17,Power supply system, vehicle incorporating the same and method for controlling power supply system
+    US8682517B2,2014-03-25,Power supply system, vehicle with the same and charge/discharge control method
+    CN105429238B,2020-02-18,Flexible charging system and charging method for hybrid electric vehicle
+    US20120049806A1,2012-03-01,Generation control device
+    JP2018061372A,2018-04-12,vehicle
+    JP2015228714A,2015-12-17,Charger for motor car
+    US11539228B2,2022-12-27,Charging control device
+    JP2009201170A,2009-09-03,Charge control system
+    US20210261018A1,2021-08-26,Vehicle power supply device
+    US20180198175A1,2018-07-12,Storage Battery Control Device
+    CN111301219A,2020-06-19,Electric vehicle battery control method, system, device and readable storage medium
+    CN104835988A,2015-08-12,Battery system and correcting method of state of charge (SOC) of the battery system
+    CN109149679B,2021-11-23,Method for improving endurance mileage of electric automobile, power management controller and automobile
+    US9812871B2,2017-11-07,Regulating device control system, regulating device control method, and recording medium for regulating the balance between power supply and demand
+    CN113022360A,2021-06-25,Energy distribution method and device for charging station
+    US20170093186A1,2017-03-30,Energy storage device, transport apparatus, and control method
+    US20220250499A1,2022-08-11,Control apparatus for vehicle
+    JP2020103006A,2020-07-02,Vehicular charging control system
+    JP2020068568A,2020-04-30,Secondary battery system and charge control method of secondary battery
+    CN111391665B,2023-06-20,Charging system
+    KR20180013576A,2018-02-07,Low-voltage power supply apparatus and method utilizing battery cell
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    18
+classfication_items
+98
+    B,6,0,L,1,1,/,1,8,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,1,/,1,8,5,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,8,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,4,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,5,0
+    B,6,0,L,2,2,6,0,/,5,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+4
+    2017-10-20,Application filed by NIO Nextev Ltd
+    2018-04-26,Publication of US20180111497A1
+    2018-06-05,Assigned to NIO NEXTEV LIMITED
+    Status,Abandoned
+
+active_area
+2
+    C,N
+    W,O
+
+not_active_area
+1
+    U,S
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    CN201610917442.1,2016-10-21,
+    CN201610917442.1A,2016-10-21,Power distribution method and system for electric vehicle
+
+legal_event
+5
+    Date,Code,Title,Description
+    2018-01-26,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2018-06-05,AS,Assignment,Owner name: NIO NEXTEV LIMITED, CHINAFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:LI, JUNHUA;HE, BIN;ZHANG, JIANYONG;REEL/FRAME:045993/0500Effective date: 20180330
+    2019-11-27,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2020-07-17,STCB,Information on status: application discontinuation,Free format text: ABANDONED  --  FAILURE TO RESPOND TO AN OFFICE ACTION
+

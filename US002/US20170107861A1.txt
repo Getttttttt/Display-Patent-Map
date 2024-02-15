@@ -1,0 +1,172 @@
+ID
+    US20170107861A1
+citation_exist
+    Patent Citations (10)
+citation_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2012193690A                      *,2011-03-17,2012-10-11,Sanden Corp,System for utilizing waste heat for automobile
+    Family To Family Citations,,,,
+    JP2010174848A                      *,2009-02-02,2010-08-12,Mitsubishi Electric Corp,Waste heat regeneration system
+    JP5143056B2                      *,2009-03-02,2013-02-13,日産自動車株式会社,Waste heat regeneration system
+    JP5201227B2                      *,2011-02-17,2013-06-05,トヨタ自動車株式会社,Rankine cycle system abnormality detection device
+    JP5621721B2                      *,2011-06-30,2014-11-12,株式会社豊田自動織機,Rankine cycle
+    JP2014231738A                      *,2011-09-26,2014-12-11,株式会社豊田自動織機,Waste heat regeneration system
+    JP5804879B2                      *,2011-09-30,2015-11-04,日産自動車株式会社,Waste heat utilization equipment
+    JP5741524B2                      *,2011-10-19,2015-07-01,株式会社豊田自動織機,Rankine cycle
+    JP2013133752A,2011-12-27,2013-07-08,Toyota Industries Corp,Waste heat utilization device
+    JP5999651B2                      *,2012-05-09,2016-09-28,サンデンホールディングス株式会社,Waste heat recovery device
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20220136457A1                      *,2019-03-20,2022-05-05,Scania Cv Ab,Control unit, waste heat recovery system, vehicle comprising such a system, and method for starting an expansion device of a waste heat recovery system
+    Family To Family Citations,,,,
+    JP6738228B2                      *,2016-07-26,2020-08-12,株式会社Ｓｕｂａｒｕ,Vehicle control device
+    JP7187942B2                      *,2018-09-28,2022-12-13,いすゞ自動車株式会社,Rankine cycle system
+    DE102021206214A1,2021-06-17,2022-12-22,Mahle International Gmbh,Method for operating a waste heat utilization device
+
+abstract
+    Apparatus for utilizing heat wasted from an engine includes first pressure detecting means (73) and first temperature detecting means (81) for detecting a pressure and a temperature in a refrigerant passage extending from a condenser (38) to a refrigerant pump (32), second pressure detecting means (72) and second temperature detecting means (82) for detecting a pressure and a temperature in a refrigerant passage extending from a heat exchanger (36) to an expansion device (37), and control means (71) responsive to these four detecting means when operating a Rankine cycle (31). Means (71) is for diagnosing whether or not an electromagnetic clutch (35) is stuck responsive to either the first pressure detecting means (73) and the first temperature detecting means (81), or the second pressure detecting means (72) and the second temperature detecting means (82).
+title
+    Apparatus for Utilizing Heat Wasted from Engine
+similar_document
+17
+    Publication,Publication Date,Title
+    JP5804879B2,2015-11-04,Waste heat utilization equipment
+    US9957845B2,2018-05-01,Exhaust heat recovery device
+    WO2010029905A1,2010-03-18,Waste heat utilization apparatus
+    US20150096297A1,2015-04-09,Exhaust Heat Recovery Device
+    JP6143755B2,2017-06-07,Engine waste heat utilization device
+    US9988945B2,2018-06-05,Apparatus for utilizing heat wasted from engine
+    US20140174087A1,2014-06-26,Rankine cycle system
+    JP5829409B2,2015-12-09,Waste heat utilization system for automobiles
+    JP2010174848A,2010-08-12,Waste heat regeneration system
+    US9518480B2,2016-12-13,Exhaust heat recovery device
+    US10138842B2,2018-11-27,Apparatus for utilizing heat wasted from engine
+    JP2013119831A,2013-06-17,Power recovery device
+    JP2013076372A,2013-04-25,Waste heat utilization device
+    WO2014157298A1,2014-10-02,Exhaust heat recovery device
+    JP2018150873A,2018-09-27,Ranking cycle system and control method of ranking cycle system
+    JP6408249B2,2018-10-17,Engine waste heat utilization device
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    11
+classfication_items
+62
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,1,3,/,0,0
+    F,0,1,K,1,3,/,0,0,3
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,1,1,/,0,0
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,2,3,/,0,0
+    F,0,1,K,2,3,/,0,2
+    F,0,1,K,2,3,/,0,6
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,2,3,/,0,0
+    F,0,1,K,2,3,/,0,2
+    F,0,1,K,2,3,/,0,6
+    F,0,1,K,2,3,/,0,6,5
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,2,3,/,0,0
+    F,0,1,K,2,3,/,0,2
+    F,0,1,K,2,3,/,0,6
+    F,0,1,K,2,3,/,1,0
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,2,3,/,0,0
+    F,0,1,K,2,3,/,1,2
+    F,0,1,K,2,3,/,1,4
+    F
+    F,0,2
+    F,0,2,G
+    F,0,2,G,5,/,0,0
+    F,0,2,G,5,/,0,2
+    G
+    G,0,7
+    G,0,7,C
+    G,0,7,C,5,/,0,0
+    G,0,7,C,5,/,0,8
+    G,0,7,C,5,/,0,8,0,8
+    F
+    F,0,2
+    F,0,2,G
+    F,0,2,G,5,/,0,0
+    F,0,2,G,5,/,0,2
+    F,0,2,G,5,/,0,4
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,2,7,/,0,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,1,0
+    Y,0,2,T,1,0,/,1,2
+
+application_events
+8
+    2015-05-14,Application filed by Sanden Holdings Corp
+    2016-11-16,Assigned to SANDEN HOLDINGS CORPORATION
+    2017-04-20,Publication of US20170107861A1
+    2018-06-05,Application granted
+    2018-06-05,Publication of US9988945B2
+    2022-08-22,Assigned to SANDEN CORPORATION
+    Status,Active
+    2035-06-21,Adjusted expiration
+
+active_area
+4
+    J,P
+    U,S
+    C,N
+    W,O
+
+not_active_area
+1
+    D,E
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2014101768A,2014-05-15,Engine waste heat utilization device
+    JP2014-101768,2014-05-15,
+    PCT/JP2015/063924,2015-05-14,Engine waste-heat utilization device
+
+legal_event
+5
+    Date,Code,Title,Description
+    2016-11-16,AS,Assignment,Owner name: SANDEN HOLDINGS CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:MIZOGUCHI, SHINICHIRO;NAGAI, HIROYUKI;HARAGUCHI, TOMONORI;SIGNING DATES FROM 20161021 TO 20161028;REEL/FRAME:040342/0736
+    2018-05-16,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2021-11-17,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+    2022-08-22,AS,Assignment,Owner name: SANDEN CORPORATION, JAPANFree format text: CHANGE OF NAME;ASSIGNOR:SANDEN HOLDINGS CORPORATION;REEL/FRAME:061296/0529Effective date: 20220101
+

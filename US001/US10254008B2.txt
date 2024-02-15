@@ -1,0 +1,181 @@
+ID
+    US10254008B2
+citation_exist
+    Patent Citations (23)
+citation_infor
+25
+    Publication number,Priority date,Publication date,Assignee,Title
+    US4638942A,1985-12-02,1987-01-27,Carrier Corporation,Adaptive microprocessor control system and method for providing high and low heating modes in a furnace
+    US5337952A,1993-07-28,1994-08-16,Carrier Corporation,Adaptive microprocessor control system and method for providing multiple heating modes in twinned furnaces
+    US5340028A                      *,1993-07-12,1994-08-23,Carrier Corporation,Adaptive microprocessor control system and method for providing high and low heating modes in a furnace
+    US5860411A,1997-03-03,1999-01-19,Carrier Corporation,Modulating gas valve furnace control method
+    US6244515B1                      *,1999-11-08,2001-06-12,Texas Instruments Incorporated,Universal two stage gas furnace ignition control apparatus and method
+    US6257870B1                      *,1998-12-21,2001-07-10,American Standard International Inc.,Gas furnace with variable speed draft inducer
+    US6283115B1                      *,1999-09-27,2001-09-04,Carrier Corporation,Modulating furnace having improved low stage characteristics
+    US6321744B1,1999-09-27,2001-11-27,Carrier Corporation,Modulating furnace having a low stage with an improved fuel utilization efficiency
+    US6370894B1,2001-03-08,2002-04-16,Carrier Corporation,Method and apparatus for using single-stage thermostat to control two-stage cooling system
+    US6464000B1,2000-09-29,2002-10-15,Atwood Mobile Products,Microprocessor controlled two stage furnace
+    US20020155405A1,2001-04-20,2002-10-24,Steven Casey,Digital modulation for a gas-fired heater
+    US6705533B2,2001-04-20,2004-03-16,Gas Research Institute,Digital modulation for a gas-fired heater
+    US6866202B2,2001-09-10,2005-03-15,Varidigm Corporation,Variable output heating and cooling control
+    US20050092317A1                      *,2003-11-03,2005-05-05,American Standard International, Inc.,Multistage warm air furnace with single stage thermostat and return air sensor and method of operating same
+    US20060199121A1,2005-03-04,2006-09-07,York International Corporation,Limited modulation furnace and method for controlling the same
+    US20070063059A1                      *,2005-09-14,2007-03-22,Arzel Zoning Technology, Inc.,System and method for heat pump oriented zone control
+    US20070095520A1                      *,2005-11-02,2007-05-03,Emerson Electric Co.,Controller for two-stage heat source usable with single and two stage thermostats
+    US20080124667A1                      *,2006-10-18,2008-05-29,Honeywell International Inc.,Gas pressure control for warm air furnaces
+    US7455238B2,2005-10-25,2008-11-25,Trane International Inc.,Control system and method for multistage air conditioning system
+    US20090044794A1,2007-08-15,2009-02-19,American Standard International Inc.,Inducer speed control method for combustion furnace
+    US20110100349A1                      *,2009-11-03,2011-05-05,Trane International Inc.,Modulating Gas Furnace
+    US7985066B2                      *,2008-05-27,2011-07-26,Honeywell International Inc.,Combustion blower control for modulating furnace
+    US8123518B2                      *,2008-07-10,2012-02-28,Honeywell International Inc.,Burner firing rate determination for modulating furnace
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (7)
+              
+
+
+citedBy_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    US11421915B2,2020-01-31,2022-08-23,Rinnai America Corporation,Vent attachment for a tankless water heater
+    US11486576B2,2019-08-23,2022-11-01,Regal Beloit America, Inc.,System and method for burner ignition using sensorless constant mass flow draft inducers
+    Family To Family Citations,,,,
+    US10310475B2,2015-10-09,2019-06-04,Carrier Corporation,System and method of operating a variable speed HVAC system
+    CN106403283B                      *,2016-11-11,2021-12-28,珠海格力电器股份有限公司,Hot water type heat pump system
+    US10935238B2,2018-05-23,2021-03-02,Carrier Corporation,Furnace with premix ultra-low NOx (ULN) burner
+    CN109357413A                      *,2018-12-05,2019-02-19,江苏恒创软件有限公司,A kind of hot-blast stove control device that flue gas flow equalizing can be carried out to layering high/low temperature flue
+    US11644213B2,2021-03-26,2023-05-09,Johnson Controls Tyco IP Holdings LLP,Systems and methods to operate HVAC system in variable operating mode
+
+abstract
+    A method and system for operating a modulating furnace from a single-stage thermostat. The furnace control system may include a processor, a gas valve, a variable-speed motor, and a thermostat. The furnace control may execute a thermostat algorithm comprising the steps of: determining if a heating load needs to be satisfied; running burners at an intermediate input rate, a modulated input rate, and a maximum input rate for each respective first, second, and third time intervals until the heating load is satisfied; calculating a heating load requirement as function of the time intervals; and determining an initial input rate for a next cycle based on the calculated heating load requirement.
+title
+    Thermos at algorithm for fully modulating furnaces
+similar_document
+26
+    Publication,Publication Date,Title
+    US10254008B2,2019-04-09,Thermos at algorithm for fully modulating furnaces
+    US5340028A,1994-08-23,Adaptive microprocessor control system and method for providing high and low heating modes in a furnace
+    US5337952A,1994-08-16,Adaptive microprocessor control system and method for providing multiple heating modes in twinned furnaces
+    US7085626B2,2006-08-01,Method and apparatus to prevent low temperature damage using an HVAC control
+    US9182159B2,2015-11-10,Water heater and control method therefor
+    JP6427553B2,2018-11-21,Electronic controller device, HVAC &amp; R system, automatic control system and load unit operation control method
+    US7500453B2,2009-03-10,Boiler control unit
+    JP4815281B2,2011-11-16,Air conditioner
+    US20190032961A1,2019-01-31,Furnace accessory
+    JP2010002078A,2010-01-07,Hot water supply device, control device of hot water supply device, and control device of device having a plurality of electrically-driven elements
+    KR101514896B1,2015-04-23,Heat pump heating system
+    JP6399113B2,2018-10-03,Heat supply system
+    US10865997B2,2020-12-15,Zone control with modulating boiler
+    JP2005140439A,2005-06-02,Heat pump water heater
+    CN113007767A,2021-06-22,Gas water heating equipment, preheating circulation control method thereof and readable storage medium
+    CN111520918A,2020-08-11,Zero-cold-water control method for wall-mounted boiler
+    KR102014071B1,2019-08-26,A method for automatic hot water heating switching control of a heating-only boiler having a hot water storage tank
+    CN111981697A,2020-11-24,Water heater outlet water temperature control method and device and water heater
+    JP6421880B2,2018-11-14,Heat medium circulation system
+    US11543142B1,2023-01-03,Systems and methods for operation of a climate control system
+    CN114909699B,2023-06-27,Defrosting control method, central controller and heating system
+    CN112032921B,2022-01-04,Air conditioner control method, air conditioner and storage medium
+    JP7287809B2,2023-06-06,heating system
+    KR200238978Y1,2001-10-12,A boiler for heating utilizing midnight-electricity and the oil in an lantern or gas
+    CN112747456A,2021-05-04,Gas water heater and control method thereof
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US13/114,205,2010-06-22,2011-05-24,Thermos at algorithm for fully modulating furnaces
+
+inventor_number
+    2
+classfication_nums
+    9
+classfication_items
+49
+    F
+    F,2,4
+    F,2,4,H
+    F,2,4,H,8,/,0,0
+    F
+    F,2,3
+    F,2,3,N
+    F,2,3,N,5,/,0,0
+    F,2,3,N,5,/,2,0
+    F,2,3,N,5,/,2,0,3
+    F
+    F,2,4
+    F,2,4,H
+    F,2,4,H,1,5,/,0,0
+    F,2,4,H,1,5,/,3,0
+    F,2,4,H,1,5,/,3,0,5
+    F,2,4,H,1,5,/,3,1
+    F
+    F,2,4
+    F,2,4,H
+    F,2,4,H,1,5,/,0,0
+    F,2,4,H,1,5,/,3,0
+    F,2,4,H,1,5,/,3,5,5
+    F,2,4,H,1,5,/,3,6
+    F
+    F,2,4
+    F,2,4,H
+    F,2,4,H,3,/,0,0
+    F,2,4,H,3,/,0,2
+    F,2,4,H,3,/,0,2,5
+    F
+    F,2,4
+    F,2,4,H
+    F,2,4,H,3,/,0,0
+    F,2,4,H,3,/,0,2
+    F,2,4,H,3,/,0,6
+    F,2,4,H,3,/,0,6,5
+    F
+    F,2,4
+    F,2,4,H
+    F,2,4,H,9,/,0,0
+    F,2,4,H,9,/,2,0
+    F,2,4,H,9,/,2,0,6,4
+    F,2,4,H,9,/,2,0,8,5
+    Y
+    Y,0,2
+    Y,0,2,B
+    Y,0,2,B,3,0,/,0,0
+    Y,0,2,B,3,0,/,1,0,2
+
+application_events
+8
+    2011-05-24,Application filed by Carrier Corp
+    2011-05-24,Priority to US13/114,205
+    2011-05-24,Assigned to CARRIER CORPORATION
+    2011-12-22,Publication of US20110309155A1
+    2019-04-09,Application granted
+    2019-04-09,Publication of US10254008B2
+    Status,Active
+    2035-10-04,Adjusted expiration
+
+active_area
+1
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    US35738510P,2010-06-22,
+    US13/114,205,2011-05-24,Thermos at algorithm for fully modulating furnaces
+
+legal_event
+4
+    Date,Code,Title,Description
+    2011-05-24,AS,Assignment,Owner name: CARRIER CORPORATION, CONNECTICUTFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:THOMPSON, KEVIN D.;REEL/FRAME:026330/0252Effective date: 20110524
+    2019-03-20,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2022-09-20,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

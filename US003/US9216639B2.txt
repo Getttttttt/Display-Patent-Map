@@ -1,0 +1,386 @@
+ID
+    US9216639B2
+citation_exist
+    Patent Citations (17)
+citation_infor
+19
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2001233088A,2000-02-21,2001-08-28,Nissan Motor Co Ltd,Device for automatically stopping and restarting engine of vehicle
+    US6358180B1                      *,1999-08-16,2002-03-19,Honda Giken Kogyo Kabushiki Kaisha,Engine control system and method
+    US6504259B1                      *,1999-08-16,2003-01-07,Honda Giken Kogyo Kabushiki Kaisha,Engine automatic start stop control apparatus
+    US6532926B1                      *,1999-08-06,2003-03-18,Honda Giken Kogyo Kabushiki Kaisha,Engine automatic start stop control apparatus
+    JP2004092623A,2002-09-04,2004-03-25,Hitachi Unisia Automotive Ltd,Start control device of vehicle with automatic transmission
+    JP2007023919A,2005-07-19,2007-02-01,Denso Corp,Engine start control system
+    JP2007216833A,2006-02-16,2007-08-30,Toyota Motor Corp,Hybrid control unit
+    JP2010018174A,2008-07-11,2010-01-28,Toyota Motor Corp,Hybrid vehicle and control method thereof
+    JP2010179882A,2009-02-09,2010-08-19,Nissan Motor Co Ltd,Restart control device and method for vehicle
+    US20130138328A1                      *,2011-11-25,2013-05-30,Mazda Motor Corporation,Start control device of compression self-ignition engine
+    US20140107910A1                      *,2012-10-11,2014-04-17,Toyota Jidosha Kabushiki Kaisha,Hybrid vehicle and method of controlling hybrid vehicle
+    US20140316628A1                      *,2011-11-18,2014-10-23,Toyota Jidosha Kabushiki Kaisha,Driving environment prediction device, vehicle control device and methods thereof
+    US8955494B2                      *,2010-03-16,2015-02-17,Hitachi Automotive Systems, Ltd.,Control apparatus for and control method of controlling variable valve mechanism in hybrid vehicle
+    Family To Family Citations,,,,
+    JP3633282B2                      *,1998-06-04,2005-03-30,トヨタ自動車株式会社,Vehicle engine stop control device
+    JP3536844B2                      *,2002-08-27,2004-06-14,日産自動車株式会社,Vehicle driving force control device
+    US7261669B2                      *,2005-03-28,2007-08-28,Ford Global Technologies, Llc,Vehicle and method for controlling an engine in a vehicle
+    CN103906913B                      *,2011-10-27,2017-03-29,丰田自动车株式会社,The control device of vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (22)
+              
+
+
+citedBy_infor
+24
+    Publication number,Priority date,Publication date,Assignee,Title
+    US9774279B1                      *,2017-03-02,2017-09-26,Borgwarner Inc.,Brushless DC motor control and method
+    US10077043B2                      *,2016-04-25,2018-09-18,Hyundai Motor Company,Method and apparatus for controlling mild hybrid electric vehicle
+    US10086824B2                      *,2016-07-19,2018-10-02,Hyundai Motor Company,Method and apparatus of determining performance for battery for mild hybrid electric vehicle
+    US10124698B2                      *,2015-08-21,2018-11-13,Magna Steyr Fahrzeugtechnik Ag & Co Kg,Operating strategy for an electrically driven all-wheel-drive vehicle
+    US10589737B2                      *,2017-10-23,2020-03-17,Hyundai Motor Company,Method and device for controlling mild hybrid vehicle
+    US10675985B2                      *,2018-03-07,2020-06-09,Toyota Jidosha Kabushiki Kaisha,Fuel cell system mounted on vehicle and control method thereof
+    Family To Family Citations,,,,
+    US11161403B2,2012-02-03,2021-11-02,Ge Hybrid Technologies, Llc,Apparatus and method for delivering power in a hybrid vehicle
+    CN104203627B                      *,2012-02-03,2020-02-07,通用电气混合动力技术公司,Apparatus and method for transmitting power in hybrid vehicle
+    JP5767157B2                      *,2012-04-25,2015-08-19,トヨタ自動車株式会社,Vehicle and vehicle control method
+    CN107709116B                      *,2015-06-11,2020-06-19,本田技研工业株式会社,Starting device for internal combustion engine, vehicle, and starting method for internal combustion engine
+    JP6292215B2                      *,2015-12-09,2018-03-14,トヨタ自動車株式会社,Control device for internal combustion engine
+    US10112613B2                      *,2016-02-12,2018-10-30,Ford Global Technologies, Llc,Systems and methods for managing torque
+    JP6731264B2                      *,2016-03-18,2020-07-29,本田技研工業株式会社,Shift control device
+    DE102016207037A1                      *,2016-04-26,2017-10-26,Bayerische Motoren Werke Aktiengesellschaft,Method and device for operating a vehicle having an electrical energy storage hybrid vehicle with an electric motor and with an internal combustion engine
+    US10421457B2                      *,2016-05-03,2019-09-24,Ford Global Technologies, Llc,Method for operating an automatic start/stop system in a vehicle utilizing a torque converter
+    US20180058353A1                      *,2016-08-23,2018-03-01,Ford Global Technologies, Llc,Method and system for operating an engine stop-start system in a vehicle
+    JP6756630B2                      *,2017-01-17,2020-09-16,トヨタ自動車株式会社,Automobile
+    JP6827364B2                      *,2017-05-01,2021-02-10,株式会社クボタ,Multipurpose vehicle
+    JP6844466B2                      *,2017-08-08,2021-03-17,トヨタ自動車株式会社,Vehicle control device
+    CN111542464B                      *,2018-01-22,2021-09-07,日产自动车株式会社,Vehicle control method and vehicle control device
+    JP6744598B1                      *,2019-10-18,2020-08-19,トヨタ自動車株式会社,Vehicle control system, vehicle control device, and vehicle learning device
+    JP2022015044A                      *,2020-07-08,2022-01-21,愛三工業株式会社,Control device
+
+abstract
+    If the accelerator is on upon restarting a driving force source in travel mode by the time when the vehicle comes to a standstill after the driving force source is manually operated to stop while the vehicle is traveling, a control device for the vehicle implements first control in which the driving force output to the drive wheels is gradually increased. If the accelerator is on upon switching to the travel mode following restarting of the driving force source in the neutral mode and by the time the vehicle comes to a standstill after the driving force source is manually operated to stop while the vehicle is traveling, the control device implements second control in which the driving force output to the drive wheels is increased. The first control increases the driving force not as much as the second control increases the driving force.
+title
+    Control device for vehicle
+similar_document
+24
+    Publication,Publication Date,Title
+    US9216639B2,2015-12-22,Control device for vehicle
+    US9132831B2,2015-09-15,Control apparatus for vehicle
+    US8849486B2,2014-09-30,Vehicle and method of controlling the same
+    JP2011239605A,2011-11-24,Controller of vehicle
+    JP5598555B2,2014-10-01,Vehicle and vehicle control method
+    US20130297132A1,2013-11-07,Vehicle and control method for vehicle
+    JP2008168720A,2008-07-24,Automobile and control method therefor
+    US20150006065A1,2015-01-01,Control device of vehicle
+    JP2013141858A,2013-07-22,Controller for hybrid vehicle
+    JP2006226354A,2006-08-31,Automobile and control method thereof
+    JP2011097666A,2011-05-12,Vehicle and control method therefor
+    US9457796B2,2016-10-04,Vehicle and control method for vehicle
+    JP2009107554A,2009-05-21,Power output apparatus, vehicle equipped with the same, and method for controlling the power output apparatus
+    JP2004143957A,2004-05-20,Starting control device of automobile and internal combustion engine and starting method of internal combustion engine
+    JP2004346781A,2004-12-09,Power output device, its control method, and automobile
+    US20130175809A1,2013-07-11,Vehicle
+    US10406936B2,2019-09-10,Motor vehicle including a controller for applying a braking force according to an accelerator operation amount
+    JP2004343935A,2004-12-02,Power output device and its controlling method, and motor car
+    JPWO2014087474A1,2017-01-05,Vehicle control system
+    JP2013132945A,2013-07-08,Control device of hybrid vehicle
+    JP2017132280A,2017-08-03,Hybrid vehicle
+    JP2015071367A,2015-04-16,Hybrid vehicle
+    JP2012096647A,2012-05-24,Hybrid vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    5
+classfication_nums
+    50
+classfication_items
+245
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,4
+    B,6,0,K,6,/,4,4,5
+    B,6,0,L,1,1,/,1,2,3
+    B,6,0,L,1,1,/,1,4
+    B,6,0,L,1,1,/,1,8,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,4,0
+    F
+    F,0,2
+    F,0,2,D
+    F,0,2,D,1,1,/,0,0
+    F,0,2,D,1,1,/,0,6
+    F,0,2,D,1,1,/,1,0
+    F,0,2,D,1,1,/,1,0,5
+    F
+    F,0,2
+    F,0,2,D
+    F,0,2,D,4,1,/,0,0
+    F,0,2,D,4,1,/,0,2
+    F,0,2,D,4,1,/,0,4
+    F,0,2,D,4,1,/,0,6
+    F,0,2,D,4,1,/,0,6,2
+    F,0,2,D,4,1,/,0,6,5
+    F
+    F,0,2
+    F,0,2,N
+    F,0,2,N,1,1,/,0,0
+    F,0,2,N,1,1,/,0,8
+    F,0,2,N,1,1,/,0,8,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,1,0
+    B,6,0,L,2,2,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,8
+    B,6,0,L,2,2,4,0,/,4,8,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,0
+    B,6,0,L,2,2,4,0,/,5,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,0
+    F
+    F,0,2
+    F,0,2,D
+    F,0,2,D,2,2,0,0,/,0,0
+    F,0,2,D,2,2,0,0,/,6,0
+    F,0,2,D,2,2,0,0,/,6,0,2
+    F
+    F,0,2
+    F,0,2,D
+    F,0,2,D,2,2,5,0,/,0,0
+    F,0,2,D,2,2,5,0,/,1,8
+    F,0,2,D,2,2,5,0,/,2,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,1,0
+    Y,0,2,T,1,0,/,4,0
+    Y,0,2,T,1,0,/,4,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y,0,2,T,1,0,/,6,2,1,7
+    Y,0,2,T,1,0,/,6,2,3,9
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,0,5
+    Y,0,2,T,1,0,/,7,0,4,4
+    Y,0,2,T,1,0,/,7,0,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y,0,2,T,1,0,/,7,0,7,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,4,1
+    Y,0,2,T,1,0,/,7,2,7,5
+
+application_events
+7
+    2012-12-25,Application filed by Toyota Motor Corp
+    2014-06-17,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2014-12-11,Publication of US20140365054A1
+    2015-12-22,Application granted
+    2015-12-22,Publication of US9216639B2
+    Status,Active
+    2033-01-30,Adjusted expiration
+
+active_area
+5
+    J,P
+    U,S
+    W,O
+    C,N
+    E,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2012000764A,2012-01-05,Vehicle control device
+    JP2012-000764,2012-01-05,
+    PCT/JP2012/083410,2012-12-25,Vehicle control device
+
+legal_event
+5
+    Date,Code,Title,Description
+    2014-06-17,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:YAMAMOTO, KOJI;OKUDA, TAKAYOSHI;YAGUCHI, HIDEAKI;AND OTHERS;REEL/FRAME:033188/0682Effective date: 20140417
+    2015-12-02,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2019-06-06,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+    2023-06-07,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+

@@ -1,0 +1,358 @@
+ID
+    EP2666691A1
+citation_exist
+    Patent Citations (15)
+citation_infor
+17
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JPH11236829A                      *,1998-02-23,1999-08-31,Isuzu Motors Ltd,Method and device for warming up engine
+    US6422001B1                      *,2000-10-10,2002-07-23,Bae Systems Controls Inc.,Regeneration control of particulate filter, particularly in a hybrid electric vehicle
+    FR2816662B1                      *,2000-11-14,2003-06-20,Peugeot Citroen Automobiles Sa,SYSTEM FOR AIDING THE REGENERATION OF A PARTICULATE FILTER INTEGRATED IN AN EXHAUST LINE OF A VEHICLE ENGINE
+    JP4311253B2                      *,2004-03-30,2009-08-12,いすゞ自動車株式会社,Exhaust gas purification system control method and exhaust gas purification system
+    US7373917B2                      *,2004-09-02,2008-05-20,Avl List Gmbh,Method for operating a hybrid vehicle
+    JP4293153B2,2005-03-30,2009-07-08,三菱ふそうトラック・バス株式会社,Motor controller for hybrid vehicle
+    JP4293182B2                      *,2005-12-16,2009-07-08,トヨタ自動車株式会社,Hybrid vehicle and control method thereof
+    JP2007230475A                      *,2006-03-03,2007-09-13,Nissan Motor Co Ltd,Exhaust gas purification system for hybrid vehicle
+    US20070204594A1                      *,2006-03-02,2007-09-06,Nissan Motor Co., Ltd.,Exhaust purification system for hybrid vehicle
+    US7748214B2                      *,2006-03-03,2010-07-06,Nissan Motor Co., Ltd.,Exhaust gas purification system for hybrid vehicle
+    JP4100440B2                      *,2006-09-26,2008-06-11,トヨタ自動車株式会社,Control device for hybrid vehicle
+    JP4758391B2                      *,2007-05-09,2011-08-24,トヨタ自動車株式会社,Exhaust gas purification catalyst regeneration device and regeneration method
+    JP4183013B1                      *,2007-05-15,2008-11-19,トヨタ自動車株式会社,Vehicle and control method thereof
+    US20090033095A1                      *,2007-08-01,2009-02-05,Deepak Aswani,Regenerating an engine exhaust gas particulate filter in a hybrid electric vehicle
+    JP2010125906A                      *,2008-11-26,2010-06-10,Toyota Motor Corp,Controller for vehicle
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (20)
+              
+
+
+citedBy_infor
+22
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP5073875B2                      *,2010-10-22,2012-11-14,日野自動車株式会社,Vehicle, control method, and program
+    AU2011356934B2                      *,2011-01-25,2016-01-07,Hino Motors, Ltd.,Control device, hybrid vehicle, control method, and program
+    US8784263B2                      *,2011-08-31,2014-07-22,Aisin Seiki Kabushiki Kaisha,Vehicle drive apparatus with momentary switch-activated exhaust brake
+    JP2014190198A                      *,2013-03-26,2014-10-06,Yanmar Co Ltd,Agricultural work vehicle
+    US9145133B2                      *,2013-11-08,2015-09-29,Ford Global Technologies, Llc,Method and system for selecting an engine operating point for a hybrid vehicle
+    KR101909403B1                      *,2015-03-13,2018-10-17,히다찌 겐끼 가부시키가이샤,Control device for hybrid construction machine
+    JP2016203940A                      *,2015-04-28,2016-12-08,いすゞ自動車株式会社,Hybrid vehicle
+    JP6946618B2                      *,2016-02-08,2021-10-06,いすゞ自動車株式会社,Hybrid vehicle and hybrid vehicle control method
+    JP2018062199A                      *,2016-10-11,2018-04-19,トヨタ自動車株式会社,Hybrid vehicle
+    JP2018105142A                      *,2016-12-22,2018-07-05,トヨタ自動車株式会社,Hybrid automobile
+    JP7005389B2                      *,2018-03-02,2022-01-21,三菱重工業株式会社,Vehicle exhaust gas treatment equipment
+    JP6900929B2                      *,2018-04-11,2021-07-14,トヨタ自動車株式会社,vehicle
+    CN112849120A                      *,2019-11-28,2021-05-28,比亚迪股份有限公司,Method and system for controlling regeneration of particulate matter trap of hybrid vehicle and vehicle
+    CN111042943A                      *,2019-12-26,2020-04-21,潍柴动力股份有限公司,Protection method for particulate matter trap DPF and vehicle
+    JP2021112949A                      *,2020-01-17,2021-08-05,トヨタ自動車株式会社,Control device
+    CN113464253B                      *,2020-03-31,2023-07-21,北京福田康明斯发动机有限公司,Device and method for DPF regeneration control of extended-range diesel engine
+    CN111636953B                      *,2020-06-02,2021-07-20,潍柴动力股份有限公司,Control device and control method of power system
+    CN112193235B                      *,2020-09-21,2022-02-08,联合汽车电子有限公司,Control method, device and equipment of extended range electric vehicle and storage medium
+    CN114475568B                      *,2020-11-12,2023-07-21,宇通客车股份有限公司,Control method and system for DPF regeneration device of new energy hybrid electric vehicle
+    CN115891966B                      *,2023-02-15,2023-08-18,潍柴动力股份有限公司,DPF parking regeneration control method for hybrid electric vehicle and vehicle
+
+abstract
+    The present invention effectively uses engine output in a "regeneration" process when an automobile is stopped. The automobile includes a regeneration control unit for, when regenerating a post-treatment device (20) while a hybrid automobile (1) is stopped, performing a high-load operation of an engine (10) by operating an electric motor (13) as a generator by the engine (10). A memory of a hybrid ECU (18) retains a power generation map in which are recorded the rotational speed of the engine (10) and/or a power generating torque when regenerating the post-treatment device (20), which correspond to the amount of particulate accumulation of the post-treatment device (20). The regeneration control unit constitutes a regeneration control device for determining, on the basis of the power generation map, the rotational speed and/or the power generating torque of the engine (10) when the engine (10) operates the electric motor (13) as a generator, which are corresponding to the amount of particular accumulation of the post-treatment device (20), when regenerating the post-treatment device (20) while the hybrid automobile (1) is stopping.
+title
+    Regeneration control device, hybrid automobile, regeneration control method, and program
+similar_document
+16
+    Publication,Publication Date,Title
+    EP2666691A1,2013-11-27,Regeneration control device, hybrid automobile, regeneration control method, and program
+    US9139196B2,2015-09-22,Regenerative control device, hybrid vehicle, regenerative control method, and computer program
+    JP5362107B2,2013-12-11,Start control method, start control device, hybrid vehicle, and program
+    JP5073875B2,2012-11-14,Vehicle, control method, and program
+    EP2666689A1,2013-11-27,Regenerative control device, hybrid automobile, regenerative control method, and program
+    JP5001475B1,2012-08-15,Regenerative control device, hybrid vehicle, regenerative control method, and program
+    JP5059247B2,2012-10-24,Shift control device, hybrid vehicle, shift control method, and program
+    US20130131902A1,2013-05-23,Engine start control device, hybrid vehicle and engine start method, and program
+    US8818578B2,2014-08-26,Control device, hybrid vehicle, control method, and computer program
+    US20130184921A1,2013-07-18,Driving mode control device, hybrid vehicle, driving mode control method, and computer program
+    US20130179022A1,2013-07-11,Regeneration control device, hybrid vehicle, regeneration control method, and program
+    US20130158768A1,2013-06-20,Vehicle, control method, and computer program
+    US8989934B2,2015-03-24,Regeneration control device, hybrid vehicle, regeneration control method, and computer program
+    EP2631146A1,2013-08-28,Vehicle, control method, and program
+    JP2012236564A,2012-12-06,Control device of hybrid vehicle, hybrid vehicle, control method of the hybrid vehicle, and program
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    37
+classfication_items
+229
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,5
+    B,6,0,W,2,0,/,1,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,4,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,0,5,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    F
+    F,0,1
+    F,0,1,N
+    F,0,1,N,3,/,0,0
+    F,0,1,N,3,/,0,2
+    F,0,1,N,3,/,0,2,1
+    F,0,1,N,3,/,0,2,3
+    F,0,1,N,3,/,0,2,3,8
+    F
+    F,0,1
+    F,0,1,N
+    F,0,1,N,9,/,0,0
+    F,0,1,N,9,/,0,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,0
+    B,6,0,L,2,2,4,0,/,5,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,6
+    B,6,0,W,2,7,1,0,/,0,6,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,6
+    B,6,0,W,2,7,1,0,/,0,6,7,7
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,4,7
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,4,7
+    B,6,0,Y,2,3,0,0,/,4,7,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,1,0
+    Y,0,2,T,1,0,/,4,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,3
+
+application_events
+3
+    2011-10-20,Application filed by Hino Motors Ltd
+    2013-11-27,Publication of EP2666691A1
+    Status,Withdrawn
+
+active_area
+3
+    J,P
+    W,O
+    C,N
+
+not_active_area
+3
+    E,P
+    A,U
+    U,S
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2011010564,2011-01-21,
+    PCT/JP2011/074133,2011-10-20,Regeneration control device, hybrid automobile, regeneration control method, and program
+
+legal_event
+7
+    Date,Code,Title,Description
+    2013-10-25,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2013-11-27,17P,Request for examination filed,Effective date: 20130327
+    2013-11-27,AK,Designated contracting states,Kind code of ref document: A1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2014-04-30,DAX,Request for extension of the european patent (deleted),
+    2016-09-16,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE APPLICATION IS DEEMED TO BE WITHDRAWN
+    2016-10-19,18D,Application deemed to be withdrawn,Effective date: 20160503
+

@@ -1,0 +1,241 @@
+ID
+    US20200079348A1
+citation_exist
+    NoCitation
+citation_infor
+    NoCitation
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (5)
+              
+
+
+citedBy_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN114475262A                      *,2022-03-14,2022-05-13,万向钱潮股份有限公司,Braking energy recovery control system and method for electric automobile
+    CN114475260A                      *,2020-11-13,2022-05-13,比亚迪股份有限公司,Energy recovery method and device, electric vehicle and storage medium
+    US11352001B2                      *,2018-10-26,2022-06-07,Hyundai Motor Company,Method for controlling deceleration of environmentally friendly vehicle
+    WO2022193137A1                      *,2021-03-16,2022-09-22,华为技术有限公司,Vehicle control method and device
+    Family To Family Citations,,,,
+    KR102360170B1                      *,2020-05-19,2022-02-10,현대자동차주식회사,Apparatus and method for drive controlling of hybrid vehicle
+
+abstract
+    A method for controlling deceleration of a vehicle using front driving environment information includes: receiving, by a controller, the driving environment information in front of the vehicle; determining, by the controller, deceleration target speed of the vehicle based on the driving environment information; determining, by the controller, predicted deceleration energy based on the deceleration target speed; determining, by the controller, predicted charging energy that is charged by a driving motor of the vehicle to a battery supplying electric power to the driving motor based on the deceleration target speed; determining, by the controller, whether predicted hydraulic braking energy of the vehicle is generated based on the predicted deceleration energy and the predicted charging energy; and when the predicted deceleration energy is determined to exceed the predicted charging energy, controlling, by the controller, the driving motor to perform regenerative braking based on the predicted charging energy.
+title
+    Method for controlling deceleration of vehicle using front driving environment information
+similar_document
+26
+    Publication,Publication Date,Title
+    US20200079348A1,2020-03-12,Method for controlling deceleration of vehicle using front driving environment information
+    US9834199B2,2017-12-05,Apparatus and method for controlling battery state of charge in hybrid electric vehicle
+    US10532727B2,2020-01-14,Method and device for controlling full load mode of hybrid vehicle
+    KR101684542B1,2016-12-08,System and method for engine stop control of hybrid vehicle
+    US10384538B2,2019-08-20,Method for controlling E-4WD hybrid vehicle
+    KR101836250B1,2018-03-08,Method and apparatus of controlling output voltage of dc converter for vehicle including driving motor
+    US9868436B2,2018-01-16,Method and device for controlling start time of engine in hybrid vehicle
+    JP2002171603A,2002-06-14,Control device for hybrid vehicle
+    US20190185004A1,2019-06-20,Method for controlling driving of environmentally friendly vehicle using front driving environment information
+    CN103465790A,2013-12-25,Apparatus and method of controlling motor torque for environment friendly vehicle
+    US11097718B2,2021-08-24,Hybrid vehicle
+    US10703353B2,2020-07-07,System and method for controlling driving of hybrid vehicle
+    US9849773B2,2017-12-26,Generation control apparatus
+    US9522674B2,2016-12-20,Internal combustion engine control device and internal combustion engine control method
+    US10933861B2,2021-03-02,Method for controlling driving of hybrid vehicle using dynamic traffic information
+    KR102518600B1,2023-04-06,Method for controlling deceleration of environmentally friendly vehicle
+    JP6435789B2,2018-12-12,Output control device for hybrid drive vehicle
+    JP2015000685A,2015-01-05,Control device and control method for hybrid vehicle
+    US10449946B2,2019-10-22,Method for controlling driving of a hybrid vehicle
+    KR101526430B1,2015-06-05,Regenerative braking apparatus for vehicle and method of the same
+    WO2017086471A1,2017-05-26,Hybrid vehicle and control method therefor
+    KR101525730B1,2015-06-03,Method for engine generation controlling of hybrid electric vehicle
+    KR102019045B1,2019-09-06,Method for controlling coasting drive of environmentally friendly vehicle
+    KR20230039812A,2023-03-22,Method and device for controlling inertia driving of environmentally friendly vehicle
+    JP2017094835A,2017-06-01,Hybrid-vehicular regenerative electric power volume control system, hybrid vehicle, and hybrid-vehicular regenerative electric power volume control method
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    24
+classfication_items
+141
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B,6,0,W,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,6,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,0,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,1,0
+    B,6,0,W,4,0,/,1,0,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,5,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,1,0
+    B,6,0,W,2,5,1,0,/,1,0,0,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,2,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,1,0
+    B,6,0,W,2,7,2,0,/,1,0,6
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,8,9
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+4
+    2018-11-29,Application filed by Hyundai Motor Co, Kia Motors Corp
+    2018-11-29,Assigned to KIA MOTORS CORPORATION, HYUNDAI MOTOR COMPANY
+    2020-03-12,Publication of US20200079348A1
+    Status,Abandoned
+
+active_area
+0
+
+not_active_area
+2
+    K,R
+    U,S
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    KR1020180108264A,2018-09-11,Method for controlling deceleration of environmentally friendly vehicle using front driving environment information
+    KR10-2018-0108264,2018-09-11,
+
+legal_event
+6
+    Date,Code,Title,Description
+    2018-11-29,AS,Assignment,Owner name: HYUNDAI MOTOR COMPANY, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:KIM, DO HEE;REEL/FRAME:048176/0688Effective date: 20181127Owner name: KIA MOTORS CORPORATION, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:KIM, DO HEE;REEL/FRAME:048176/0688Effective date: 20181127
+    2020-09-09,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2020-12-12,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2020-12-23,STPP,Information on status: patent application and granting procedure in general,Free format text: FINAL REJECTION MAILED
+    2021-07-16,STCB,Information on status: application discontinuation,Free format text: ABANDONED  --  FAILURE TO RESPOND TO AN OFFICE ACTION
+

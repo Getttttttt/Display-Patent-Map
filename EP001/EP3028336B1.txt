@@ -1,0 +1,464 @@
+ID
+    EP3028336B1
+citation_exist
+    Patent Citations (12)
+citation_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP2884942B2                      *,1992-09-17,1999-04-19,株式会社日立製作所,Electric car control device
+    JP2002025630A                      *,2000-07-11,2002-01-25,Shin Kobe Electric Mach Co Ltd,Power supply system of running vehicle
+    CA2380957A1                      *,2002-04-08,2003-10-08,Jeffrey Phillips,Dual chemistry hybrid battery systems
+    US20070029124A1                      *,2005-06-02,2007-02-08,Sankar Dasgupta,Battery powered vehicle overvoltage protection circuitry
+    JP5471083B2                      *,2009-07-01,2014-04-16,株式会社デンソー,In-vehicle power supply
+    EP2272722B1                      *,2009-07-01,2015-04-08,Denso Corporation,Power source apparatus for vehicle
+    CN101888001B                      *,2010-06-21,2012-07-04,韩福忠,Composite battery, preparation method and application thereof
+    EP2589129B1                      *,2010-06-30,2019-09-18,Vestas Wind Systems A/S,Wind turbine
+    DE102010041029A1                      *,2010-09-20,2012-03-22,Sb Limotive Company Ltd.,Method for starting up a battery system with a DC intermediate circuit
+    TWI537860B                      *,2011-07-26,2016-06-11,英屬開曼群島商睿能創意公司,Apparatus, method and article for reserving power storage devices at reserving power storage device collection, charging and distribution machines
+    EP2570291B1                      *,2011-09-16,2014-06-25,Siemens Aktiengesellschaft,Drive system of a battery-operated vehicle with a frequency converter fed permanently excited synchronous machine
+    DE102012217190A1                      *,2012-09-24,2014-06-12,Bayerische Motoren Werke Aktiengesellschaft,A coupling storage device for a motor vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (13)
+              
+
+
+citedBy_infor
+15
+    Publication number,Priority date,Publication date,Assignee,Title
+    WO2022248280A1                      *,2021-05-25,2022-12-01,Robert Bosch Gmbh,Electrical energy storage system
+    Family To Family Citations,,,,
+    DE102015007405A1                      *,2015-06-08,2016-12-08,ASD Automatic Storage Device GmbH,Energy storage system
+    US10547089B2,2015-11-04,2020-01-28,Cps Technology Holdings Llc,Optimization of cruising voltage for life and fuel economy performance in advanced start-stop systems
+    US20170136914A1                      *,2015-11-17,2017-05-18,Johnson Controls Technology Company,Systems and methods for visualizing battery data
+    WO2017201031A1                      *,2016-05-16,2017-11-23,Johnson Controls Technology Company,Dual energy storage system and starter battery module
+    IT201800002823A1                      *,2018-02-19,2019-08-19,Fiat Ricerche,OPERATION MANAGEMENT OF A DOUBLE BATTERY AUTOMOTIVE ELECTRIC SYSTEM WITH KINETIC ENERGY RECOVERY DURING BRAKING
+    FR3078175B1                      *,2018-02-22,2020-09-18,Alstom Transp Tech,ENERGY STORAGE SYSTEMS MANAGEMENT DEVICE, ESPECIALLY FOR RAILWAY VEHICLES
+    CN110350573B                      *,2018-04-03,2021-12-07,中国石油化工股份有限公司,Self-healing power supply system and control method
+    WO2019237122A1                      *,2018-06-08,2019-12-12,Nextracker Inc.,Battery management architectures for flow batteries
+    DE102019214407A1                      *,2019-09-20,2021-03-25,Robert Bosch Gmbh,Method for determining a first voltage characteristic curve of a first electrical energy storage unit
+    WO2021258172A1                      *,2020-06-22,2021-12-30,Fca Fiat Chrysler Automoveis Brasil Ltda,Method for managing an automotive alternator and system
+    KR20230022342A                      *,2021-08-06,2023-02-15,현대자동차주식회사,Method for control dual batteries in hybrid electric vehicle
+    CN115832591A                      *,2021-10-21,2023-03-21,宁德时代新能源科技股份有限公司,Battery pack and electric device
+
+abstract
+    
+title
+    Passive architectures for batteries having two different chemistries
+similar_document
+10
+    Publication,Publication Date,Title
+    US11437686B2,2022-09-06,Architectures for batteries having two different chemistries
+    US9718375B2,2017-08-01,Passive architectures for batteries having two different chemistries
+    US9527401B2,2016-12-27,Semi-active architectures for batteries having two different chemistries
+    EP3028336B1,2018-03-21,Passive architectures for batteries having two different chemistries
+    US11731530B2,2023-08-22,Architectures for batteries having two different chemistries
+    US11190026B2,2021-11-30,Battery system to be deployed in a vehicle having a first battery and a second battery, battery control unit to be deployed in a battery system of a vehicle, and method related to the same
+    US10766368B2,2020-09-08,Dual function battery system and method
+    CN107710548B,2022-02-15,Battery system and method for bi-directional current control
+    EP3028338B1,2018-07-11,Semi-active architectures for batteries having two different chemistries
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    7
+classfication_nums
+    50
+classfication_items
+302
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B,6,0,L,5,8,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,0,5
+    H,0,1,M,1,0,/,0,5,2
+    H,0,1,M,1,0,/,0,5,2,5
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,0,6
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,4
+    H,0,1,M,1,0,/,4,4,1
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,6,/,0,0
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,5,0,/,0,0
+    H,0,1,M,5,0,/,2,0
+    H,0,1,M,5,0,/,2,0,4
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,5,0,/,0,0
+    H,0,1,M,5,0,/,2,0
+    H,0,1,M,5,0,/,2,4,9
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,5,0,/,0,0
+    H,0,1,M,5,0,/,2,0
+    H,0,1,M,5,0,/,2,9,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B,6,0,L,2,2,1,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B,6,0,L,2,2,1,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,3,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,8,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,6
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,2,5
+    H,0,1,M,1,0,/,4,2,5,7
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,2,2,2,0,/,0,0
+    H,0,1,M,2,2,2,0,/,2,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2014-01-23,Priority claimed from US14/161,889
+    2014-01-24,Application filed by Johnson Controls Technology Co
+    2016-06-08,Publication of EP3028336A1
+    2018-03-21,Application granted
+    2018-03-21,Publication of EP3028336B1
+    Status,Active
+    2034-01-24,Anticipated expiration
+
+active_area
+4
+    C,N
+    E,P
+    C,N
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    US201361860448P,2013-07-31,
+    US14/161,889,2014-01-23,Passive architectures for batteries having two different chemistries
+    PCT/US2014/012994,2014-01-24,Passive architectures for batteries having two different chemistries
+
+legal_event
+55
+    Date,Code,Title,Description
+    2016-05-06,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2016-06-08,17P,Request for examination filed,Effective date: 20160205
+    2016-06-08,AK,Designated contracting states,Kind code of ref document: A1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2016-06-08,AX,Request for extension of the european patent,Extension  state: BA ME
+    2016-11-09,DAX,Request for extension of the european patent (deleted),
+    2017-08-23,RAP1,Party data changed (applicant data changed or rights of an application transferred),Owner name: JOHNSON CONTROLS TECHNOLOGY COMPANY
+    2017-09-11,REG,Reference to a national code,Ref country code: DERef legal event code: R079Ref document number: 602014022575Country of ref document: DEFree format text: PREVIOUS MAIN CLASS: H01M0016000000Ipc: H01M0002100000
+    2017-09-27,GRAP,Despatch of communication of intention to grant a patent,Free format text: ORIGINAL CODE: EPIDOSNIGR1
+    2017-09-27,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: GRANT OF PATENT IS INTENDED
+    2017-10-18,RIC1,Information provided on ipc code assigned before grant,Ipc: H01M  16/00        20060101ALI20170911BHEPIpc: B60L  11/18        20060101ALI20170911BHEPIpc: B60L   1/14        20060101ALI20170911BHEPIpc: H01M  10/0525      20100101ALI20170911BHEPIpc: B60L  15/00        20060101ALI20170911BHEPIpc: B60L   1/00        20060101ALI20170911BHEPIpc: B60L   7/14        20060101ALI20170911BHEPIpc: B60L   7/18        20060101ALI20170911BHEPIpc: B60L  11/14        20060101ALI20170911BHEPIpc: H01M  10/44        20060101ALI20170911BHEPIpc: H01M  10/06        20060101ALI20170911BHEPIpc: B60L   3/00        20060101ALI20170911BHEPIpc: B60L  15/20        20060101ALI20170911BHEPIpc: B60L   1/02        20060101ALI20170911BHEPIpc: H01M  10/42        20060101ALN20170911BHEPIpc: H01M   2/10        20060101AFI20170911BHEPIpc: B60L  11/12        20060101ALI20170911BHEP
+    2017-10-25,INTG,Intention to grant announced,Effective date: 20170928
+    2018-02-06,GRAS,Grant fee paid,Free format text: ORIGINAL CODE: EPIDOSNIGR3
+    2018-02-16,GRAA,(expected) grant,Free format text: ORIGINAL CODE: 0009210
+    2018-02-16,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE PATENT HAS BEEN GRANTED
+    2018-03-21,AK,Designated contracting states,Kind code of ref document: B1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2018-03-21,REG,Reference to a national code,Ref country code: GBRef legal event code: FG4D
+    2018-03-29,REG,Reference to a national code,Ref country code: CHRef legal event code: EP
+    2018-04-15,REG,Reference to a national code,Ref country code: ATRef legal event code: REFRef document number: 981985Country of ref document: ATKind code of ref document: TEffective date: 20180415
+    2018-04-18,REG,Reference to a national code,Ref country code: IERef legal event code: FG4D
+    2018-04-19,REG,Reference to a national code,Ref country code: DERef legal event code: R096Ref document number: 602014022575Country of ref document: DE
+    2018-06-18,REG,Reference to a national code,Ref country code: DERef legal event code: R082Ref document number: 602014022575Country of ref document: DERepresentative=s name: MEISSNER BOLTE PATENTANWAELTE RECHTSANWAELTE P, DE
+    2018-07-25,REG,Reference to a national code,Ref country code: NLRef legal event code: MPEffective date: 20180321
+    2018-07-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: NOFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180621Ref country code: HRFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180321Ref country code: CYFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180321Ref country code: LTFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180321Ref country code: FIFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180321
+    2018-08-10,REG,Reference to a national code,Ref country code: LTRef legal event code: MG4D
+    2018-08-15,REG,Reference to a national code,Ref country code: ATRef legal event code: MK05Ref document number: 981985Country of ref document: ATKind code of ref document: TEffective date: 20180321
+    2018-08-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: RSFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180321Ref country code: LVFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180321Ref country code: SEFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180321Ref country code: GRFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180622Ref country code: BGFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180621
+    2018-10-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: ESFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180321Ref country code: ALFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180321Ref country code: PLFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180321Ref country code: EEFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180321Ref country code: NLFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180321Ref country code: ROFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180321
+    2018-11-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: SMFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180321Ref country code: CZFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180321Ref country code: ATFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180321Ref country code: SKFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180321
+    2018-12-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: PTFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180723
+    2019-01-02,REG,Reference to a national code,Ref country code: DERef legal event code: R097Ref document number: 602014022575Country of ref document: DE
+    2019-01-25,PLBE,No opposition filed within time limit,Free format text: ORIGINAL CODE: 0009261
+    2019-01-25,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: NO OPPOSITION FILED WITHIN TIME LIMIT
+    2019-01-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: DKFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180321
+    2019-02-27,26N,No opposition filed,Effective date: 20190102
+    2019-05-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: SIFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180321
+    2019-07-19,REG,Reference to a national code,Ref country code: DERef legal event code: R082Ref document number: 602014022575Country of ref document: DERepresentative=s name: MEISSNER BOLTE PATENTANWAELTE RECHTSANWAELTE P, DE
+    2019-08-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: MCFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180321
+    2019-08-30,REG,Reference to a national code,Ref country code: CHRef legal event code: PL
+    2019-09-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: LUFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20190124
+    2019-10-17,REG,Reference to a national code,Ref country code: BERef legal event code: MMEffective date: 20190131
+    2019-10-30,REG,Reference to a national code,Ref country code: IERef legal event code: MM4A
+    2019-11-29,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: BEFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20190131
+    2019-12-20,REG,Reference to a national code,Ref country code: DERef legal event code: R082Ref document number: 602014022575Country of ref document: DERepresentative=s name: MEISSNER BOLTE PATENTANWAELTE RECHTSANWAELTE P, DERef country code: DERef legal event code: R081Ref document number: 602014022575Country of ref document: DEOwner name: CPS TECHNOLOGY HOLDINGS LLC, NEW YORK, USFree format text: FORMER OWNER: JOHNSON CONTROLS TECHNOLOGY COMPANY, MILWAUKEE, WIS., US
+    2019-12-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: CHFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20190131Ref country code: LIFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20190131
+    2020-01-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: IEFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20190124
+    2020-03-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: TRFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180321
+    2020-06-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: MTFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20190124
+    2020-11-27,REG,Reference to a national code,Ref country code: DERef legal event code: R079Ref document number: 602014022575Country of ref document: DEFree format text: PREVIOUS MAIN CLASS: H01M0002100000Ipc: H01M0050200000
+    2021-03-24,REG,Reference to a national code,Ref country code: GBRef legal event code: 732EFree format text: REGISTERED BETWEEN 20210225 AND 20210303
+    2021-06-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: ISFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180721
+    2021-07-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: HUFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT; INVALID AB INITIOEffective date: 20140124
+    2022-06-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: MKFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180321
+    2023-04-28,PGFP,Annual fee paid to national office [announced via postgrant information from national office to epo],Ref country code: FRPayment date: 20230125Year of fee payment: 10
+    2023-05-31,PGFP,Annual fee paid to national office [announced via postgrant information from national office to epo],Ref country code: ITPayment date: 20230120Year of fee payment: 10Ref country code: GBPayment date: 20230127Year of fee payment: 10Ref country code: DEPayment date: 20230127Year of fee payment: 10
+

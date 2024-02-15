@@ -1,0 +1,168 @@
+ID
+    WO2015141235A1
+citation_exist
+    Patent Citations (7)
+citation_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH01297568A                      *,1988-05-25,1989-11-30,Mitsubishi Cable Ind Ltd,Measuring method for partial electric discharge
+    US6037763A                      *,1995-03-16,2000-03-14,Horstmann Timers & Controls Limited,Electricity measurement apparatus using hall effect sensor having rectified bias current
+    JP2004088862A                      *,2002-08-26,2004-03-18,Toshiba Corp,自励式電力変換装置
+    JP2009168586A                      *,2008-01-16,2009-07-30,Meidensha Corp,電力量計測装置
+    JP2010261909A                      *,2009-05-11,2010-11-18,Nippon Soken Inc,電力検知装置
+    JP2013205120A                      *,2012-03-27,2013-10-07,Osaka City Univ,電力計測装置
+    JP2013238434A                      *,2012-05-11,2013-11-28,Osaka City Univ,力率計測装置
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2017068916A                      *,2015-09-28,2017-04-06,公立大学法人大阪市立大学,二次電池ユニット及びそれを備える二次電池システム
+    WO2023061854A1                      *,2021-10-11,2023-04-20,Robert Bosch Gmbh,Inverter für eine elektrische maschine
+    Family To Family Citations,,,,
+
+abstract
+    電力センサは、導体で斜め方向にパターンニングされた磁性膜と、導体の一端部と接続された第１の素子端子と、導体の他端部と接続された第２の素子端子と、を有し、計測時に第１の素子端子が電力計測の対象となる対象装置に接続される磁性素子を有する。電力センサは、一端が磁性素子の第２の素子端子に接続された計測抵抗と、第１の素子端子と第２の素子端子との間の電圧の直流成分を検出する検出器と、を有する。磁性素子は、計測時に第１の素子端子から第２の素子端子への方向が、対象装置に接続された電線と略平行になるように配置される。
+title
+    電力センサ、電力センサシステム、及び回生電力検出装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP5699301B2,2015-04-08,電流センサ
+    JP5531213B2,2014-06-25,電流センサ
+    US8164298B2,2012-04-24,System and method for detecting loss of isolation while an AC motor is operating
+    JP5577544B2,2014-08-27,電流センサ
+    US8465859B2,2013-06-18,Current sensor
+    JP5686146B2,2015-03-18,温度異常検知機能付き電圧計測装置及び電力変換装置
+    JP2009162670A,2009-07-23,レゾルバ異常検出回路
+    JP2015049184A,2015-03-16,インバータ装置
+    JP2009229112A,2009-10-08,電圧検出回路
+    JP6210606B2,2017-10-11,電力センサシステム、回生電力検出装置、及び電動機システム
+    US10120001B2,2018-11-06,Power factor measurement device
+    JP2013068452A,2013-04-18,電流センサの故障診断装置
+    JP5979413B2,2016-08-24,電力計測装置
+    JP2018040632A,2018-03-15,ノイズの影響を受けない電流検出回路
+    JP5678287B2,2015-02-25,電流センサ
+    US20120229134A1,2012-09-13,Current detection device
+    JP3590679B2,2004-11-17,浮動直流電源の異常検出装置
+    JP5560232B2,2014-07-23,電流検出装置
+    JP6411540B2,2018-10-24,駆動制御装置およびそれを有する駆動制御システム
+    JP2008109836A,2008-05-08,インバータの電流測定装置
+    JP2006345683A,2006-12-21,電流検出装置
+    JP2014079048A,2014-05-01,電力変換装置
+    JP5537360B2,2014-07-02,電気車制御装置
+    JP2007089277A,2007-04-05,電気自動車のリーク検出装置
+    JP2002048849A,2002-02-15,電気自動車用バッテリシステムの電流検出方式
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    JP2016508547A,2014-03-20,2015-03-20,電力センサシステム、回生電力検出装置、及び電動機システム
+
+inventor_number
+    3
+classfication_nums
+    10
+classfication_items
+60
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    G
+    G,0,1
+    G,0,1,R
+    G,0,1,R,2,1,/,0,0
+    G,0,1,R,2,1,/,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,9
+    G
+    G,0,1
+    G,0,1,R
+    G,0,1,R,1,5,/,0,0
+    G,0,1,R,1,5,/,1,4
+    G,0,1,R,1,5,/,2,0
+    G,0,1,R,1,5,/,2,0,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+3
+    2015-03-20,Application filed by 公立大学法人大阪市立大学
+    2015-03-20,Priority to JP2016508547A
+    2015-09-24,Publication of WO2015141235A1
+
+active_area
+2
+    J,P
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2014059173,2014-03-20,
+    JP2014-059173,2014-03-20,
+
+legal_event
+5
+    Date,Code,Title,Description
+    2015-11-11,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 15765360Country of ref document: EPKind code of ref document: A1
+    2016-07-28,ENP,Entry into the national phase,Ref document number: 2016508547Country of ref document: JPKind code of ref document: A
+    2016-09-20,NENP,Non-entry into the national phase,Ref country code: DE
+    2017-04-12,122,Ep: pct application non-entry in european phase,Ref document number: 15765360Country of ref document: EPKind code of ref document: A1
+

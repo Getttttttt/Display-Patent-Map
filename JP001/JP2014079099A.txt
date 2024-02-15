@@ -1,0 +1,187 @@
+ID
+    JP2014079099A
+citation_exist
+    Patent Citations (4)
+citation_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JPH10322803A                      *,1997-05-12,1998-12-04,Toyota Motor Corp,車両用制動装置
+    JP4765487B2                      *,2005-08-29,2011-09-07,株式会社アドヴィックス,車両用ブレーキ装置
+    JP5338390B2                      *,2009-03-06,2013-11-13,日産自動車株式会社,電動車両のモータ制御装置
+    JP5808923B2                      *,2011-03-18,2015-11-10,Ntn株式会社,モータ駆動装置及び電気自動車
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (12)
+              
+
+
+citedBy_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2016037225A                      *,2014-08-08,2016-03-22,本田技研工業株式会社,車両用制動システム
+    WO2016042668A1                      *,2014-09-19,2016-03-24,株式会社安川電機,車両用ブレーキシステム、車両
+    JP2016043822A                      *,2014-08-22,2016-04-04,本田技研工業株式会社,車両用ブレーキシステム
+    JP2016210215A                      *,2015-04-30,2016-12-15,いすゞ自動車株式会社,ハイブリッド車両及びハイブリッド車両の制御方法
+    CN108725254A                      *,2017-04-18,2018-11-02,湖南中车时代电动汽车股份有限公司,一种控制电动汽车驱动防滑和制动防抱死的方法及系统
+    CN109808501A                      *,2017-11-22,2019-05-28,河南森源重工有限公司,一种电动汽车制动能量回收的方法及其系统
+    EP3407482A4                      *,2016-01-20,2019-08-21,Yamaha Hatsudoki Kabushiki Kaisha,VEHICLE EQUIPPED WITH A MOTOR
+    CN110654356A                      *,2018-06-28,2020-01-07,比亚迪股份有限公司,制动电机的控制方法和装置，车辆
+    CN111731105A                      *,2019-03-25,2020-10-02,长城汽车股份有限公司,车辆防抱死能量回收控制方法及装置
+    EP3812225A1,2019-10-23,2021-04-28,Toyota Jidosha Kabushiki Kaisha,Braking control device
+    US11654875B2,2020-01-21,2023-05-23,Ford Global Technologies, Llc,Regenerative braking and anti-lock braking control system
+    JP7353733B2,2018-05-07,2023-10-02,ロベルト・ボッシュ・ゲゼルシャフト・ミト・ベシュレンクテル・ハフツング,液圧制御ユニット
+    Family To Family Citations,,,,
+
+abstract
+    【課題】アンチロックブレーキ動作時に、回生によるエネルギー回収が効率良く行えて、車両の制動性能も向上させることができ、また摩擦ブレーキの小型化が可能になるモータ搭載自動車のアンチロックブレーキ制御システムを提供する。【解決手段】左右の駆動輪を個別に駆動するモータ６と、回生ブレーキ手段５４とを備えたモータ搭載自動車に適用する。車輪のスリップ率およびこのスリップ率の変化率のいずれか一方または両方から、車輪がロック傾向にあると判定するロック判定手段５０を設ける。ロック判定手段５０により車輪がロック傾向であると判定された場合に、前記回生ブレーキ手段５４による回生制動を、前記制動指令値に応じた回生制動トルクより小さく、かつ車輪がロックしないように回生制動トルクを制御する回生制動アンチロック制御手段４８ａを設ける。【選択図】図３
+title
+    モータ搭載自動車のアンチロックブレーキ制御システム
+similar_document
+26
+    Publication,Publication Date,Title
+    WO2014057838A1,2014-04-17,モータ搭載自動車のアンチロックブレーキ制御システム
+    US10654369B2,2020-05-19,Motor vehicle accessory to increase power supply and reduce fuel requirements
+    JP4380700B2,2009-12-09,電動車両
+    JP4576434B2,2010-11-10,車両の左右輪差動トルク発生装置
+    CN102325675B,2014-11-05,用于车辆的防抱死刹车系统
+    US8395335B2,2013-03-12,Method and system for eliminating fuel consumption during dynamic braking of electric drive machines
+    US8857542B2,2014-10-14,Method and apparatus to eliminate fuel use for electric drive machines during trolley operation
+    JP5840464B2,2016-01-06,電気自動車
+    US20120191281A1,2012-07-26,Electric vehicle
+    AU2012348038A1,2014-06-05,Method and apparatus to eliminate fuel use for electric drive machines during trolley operation
+    KR20180026179A,2018-03-12,Ｅｃｍ 시스템의 페일세이프 장치 및 그 방법
+    KR101541711B1,2015-08-06,차량 및 그것의 제동 제어 방법
+    JP4710299B2,2011-06-29,車両のモータトラクション制御装置
+    JP4569266B2,2010-10-27,車両のモータトラクション制御装置
+    CN109476297A,2019-03-15,电动制动装置和电动制动系统
+    JP2011031698A,2011-02-17,ハイブリッド四輪駆動車の回生制動力制御装置
+    CN104494462B,2016-11-30,电动汽车驱动电机控制方法
+    JP4765877B2,2011-09-07,車両のモータトラクション制御装置
+    JP2015154632A,2015-08-24,電動車両
+    JP2006136174A,2006-05-25,車両のモータトラクション制御装置
+    JP2000274270A5,2006-06-08,
+    JP3747858B2,2006-02-22,車両用インバータの制御方法およびインバータ制御器
+    JP2002514880A,2002-05-21,電気駆動装置を備えた自動車を制御する方法
+    JP2013183502A,2013-09-12,後輪電動駆動車の制動制御装置
+    JP5902041B2,2016-04-13,電気自動車の速度制御装置
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    JP2012225615A,2012-10-11,2012-10-11,モータ搭載自動車のアンチロックブレーキ制御システム
+    PCT/JP2013/076658,2012-10-11,2013-10-01,モータ搭載自動車のアンチロックブレーキ制御システム
+
+inventor_number
+    6
+classfication_nums
+    12
+classfication_items
+76
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,0
+    B,6,0,L,3,/,1,0,6
+    B,6,0,L,3,/,1,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,6
+    B,6,0,T,8,/,1,7,6,1
+    B,6,0,T,8,/,1,7,6,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+5
+    2012-10-11,Application filed by NTN Corp, NTN Toyo Bearing Co Ltd
+    2012-10-11,Priority to JP2012225615A
+    2013-10-01,Priority to PCT/JP2013/076658
+    2014-05-01,Publication of JP2014079099A
+    Status,Pending
+
+active_area
+2
+    J,P
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2012225615A,2012-10-11,モータ搭載自動車のアンチロックブレーキ制御システム
+
+legal_event
+    NoExist

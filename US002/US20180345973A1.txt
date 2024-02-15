@@ -1,0 +1,318 @@
+ID
+    US20180345973A1
+citation_exist
+    Patent Citations (12)
+citation_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH07179167A                      *,1993-12-24,1995-07-18,Toyota Motor Corp,Limited slip differential of driving wheel for vehicle
+    US6305506B1                      *,1996-10-03,2001-10-23,Toyota Jidosha Kabushiki Kaisha,Braking system including motor-driven disc brake equipped with self-servo mechanism
+    US6834225B1                      *,2004-02-09,2004-12-21,Ford Global Technologies, Llc,Method and system for controlling a transfer case clutch to avoid wheel slip
+    US20080164106A1                      *,2007-01-04,2008-07-10,Textron Inc.,Electric Brake for Utility Vehicles
+    US20120129645A1                      *,2010-11-19,2012-05-24,Remy Technologies, L.L.C.,Gear lash control member for a differential gear set and method of establishing gear lash
+    US20120293316A1                      *,2011-05-19,2012-11-22,David August Johnson,Collaborative vehicle control using both human operator and automated controller input
+    US8459386B2                      *,2007-05-18,2013-06-11,Materialwerks Llc,Road wheel propulsion apparatus and method of making
+    US20130282247A1                      *,2012-04-20,2013-10-24,GM Global Technology Operations LLC,Adaptable thermal management of a vehicle dual-clutch transmission
+    Family To Family Citations,,,,
+    WO2002090158A1                      *,2001-05-08,2002-11-14,Continental Teves Ag & Co. Ohg,Method for assisting a vehicle to start on a slope
+    US7543670B2                      *,2005-10-31,2009-06-09,Gm Global Technology Operations, Inc.,Wheel slip control system
+    JP5119768B2                      *,2007-07-05,2013-01-16,トヨタ自動車株式会社,Vehicle braking / driving control device for controlling braking and starting of vehicle
+    GB2506589B                      *,2012-09-25,2017-02-15,Jaguar Land Rover Ltd,Launch control
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (15)
+              
+
+
+citedBy_infor
+17
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20190255895A1                      *,2018-02-19,2019-08-22,Ford Global Technologies, Llc,All-wheel drive line lock for warming tires during track usage
+    US20200039503A1                      *,2018-08-02,2020-02-06,GM Global Technology Operations LLC,Vehicle and method of coordinated lash management
+    US20210078577A1                      *,2018-02-26,2021-03-18,Jaguar Land Rover Limited,Control of vehicle traction motor torque before stall launch
+    US11143285B2                      *,2017-08-07,2021-10-12,Team Industries, Inc.,Launch assist mechanism for a continuously variable transmission
+    US11142201B2                      *,2016-07-08,2021-10-12,Jaguar Land Rover Limited,Vehicle launch control system
+    US11220177B2                      *,2019-07-25,2022-01-11,Ford Global Technologies, Llc,Vehicle torque shaping
+    US20220194377A1                      *,2020-12-18,2022-06-23,GM Global Technology Operations LLC,Method and system for controlling vehicle operation
+    US11453390B2                      *,2017-02-01,2022-09-27,Denso Corporation,Driving support apparatus
+    Family To Family Citations,,,,
+    DE102017210075A1                      *,2017-06-14,2018-12-20,Bayerische Motoren Werke Aktiengesellschaft,A method of driving a vehicle driveline
+    US10589746B1                      *,2018-08-27,2020-03-17,GM Global Technology Operations LLC,Declutch clunk mitigation through torque intervention
+    US20200166126A1                      *,2018-11-27,2020-05-28,GM Global Technology Operations LLC,Real time supervised machine learning torque converter model
+    DE112020002563T5                      *,2019-06-03,2022-03-17,Transmission Cvtcorp Inc.,CLUTCH TEMPERATURE MANAGEMENT IN A METHOD AND ARRANGEMENT FOR SLIP CONTROL FOR A DRIVELINE WITH A CONTINUOUSLY VARIABLE TRANSMISSION
+    IT201900017522A1                      *,2019-09-30,2021-03-30,Ferrari Spa,METHOD OF CHECKING A ROAD VEHICLE FOR THE PERFORMANCE OF A STATIONARY START
+    EP4188761A1                      *,2020-07-29,2023-06-07,Piëch Ip Ag,Methods for the drive control of a motor vehicle with individual wheel drive, drive control device, drive train and motor vehicle
+    CN111997471B                      *,2020-09-02,2022-03-15,北京经纬恒润科技股份有限公司,Anti-pinch detection method and device for vehicle body closing system
+
+abstract
+    A vehicle and method is provided. The vehicle includes systems and method for limiting the slip of the wheels. In an embodiment, the system holds the brakes based on an acceleration characteristic measured by a sensor. In another embodiment, the system includes a transmission controller that applies an adjustment to limit an amount of clutch slip as the clutch temperature to change in clutch performance to reduce wheel slip. In another embodiment, the system monitors wheel slip signal from a sensor and compares the wheel slip to a target slip value and controls clutch slip of the transmission clutch based to maintain engine output torque during acceleration. In another embodiment, in response to an anticipated vehicle launch event, a drive motor applies a first torque to the input shaft to adjust a gear lash of the differential unit.
+title
+    Vehicle having controlled start
+similar_document
+26
+    Publication,Publication Date,Title
+    US20180345973A1,2018-12-06,Vehicle having controlled start
+    US9682705B2,2017-06-20,Vehicle having ACC stop and go with braking auto-hold to increase engine autostop availability
+    US8061464B2,2011-11-22,Traction and stability control system and method for a vehicle with mechanically independent front and rear traction wheels
+    EP3036138B1,2019-11-20,Dynamic deceleration control for hybrid vehicle to achieve a consistent overrun response
+    CN111688495A,2020-09-22,Regenerative braking control system
+    CN101795888B,2013-08-21,Vehicular braking force control device
+    US20130211640A1,2013-08-15,Propulsion device for an all-wheel-drive vehicle and method for distributing the drive torque to a front axle drive and a rear axle drive
+    US20110256978A1,2011-10-20,Method and Device for Starting a Hybrid Vehicle
+    US8275529B2,2012-09-25,Apparatus and method for controlling a hybrid vehicle
+    CN106553632B,2022-02-25,Method for controlling vehicle to start from rest
+    US9242649B2,2016-01-26,Vehicle control system
+    US10279799B2,2019-05-07,Dynamic torque profiles based on drive mode selection
+    JP2013541933A,2013-11-14,System and method for controlling wheel motor torque in an electric drive system
+    CN110901625B,2022-11-08,Method and device for controlling a vehicle in a coasting mode
+    US11358586B2,2022-06-14,Methods and system for launching a hybrid vehicle
+    JP2013543368A,2013-11-28,System and method for controlling traction force
+    GB2571330A,2019-08-28,Control of vehicle traction motor torque before stall launch
+    US8965658B2,2015-02-24,Vehicle controller and method for controlling vehicle
+    US9227630B2,2016-01-05,Smoothing hybrid vehicle engine shutdown
+    GB2566494A,2019-03-20,System and method for a trailer towable by a vehicle
+    US8419591B2,2013-04-16,Vehicle drive system
+    US10752288B2,2020-08-25,Lateral motion control for cornering and regenerative braking energy capture
+    US20220281472A1,2022-09-08,Driving force control system for vehicle
+    JP5817931B2,2015-11-18,Vehicle control device
+    CN111819100A,2020-10-23,Method for controlling a drive torque and drive train assembly for carrying out the method
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US15/757,811,2015-09-11,2016-09-09,Vehicle having controlled start
+
+inventor_number
+    8
+classfication_nums
+    33
+classfication_items
+184
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,0,2,7
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,2,3,/,0,0
+    B,6,0,K,2,3,/,0,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,2,3,/,0,0
+    B,6,0,K,2,3,/,0,4
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,2,6,/,0,0
+    B,6,0,K,2,6,/,0,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,5
+    B,6,0,T,1,3,/,5,8,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,6,6
+    B,6,0,T,1,3,/,6,6,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,0,2
+    B,6,0,T,7,/,0,4
+    B,6,0,T,7,/,0,4,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,1
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,0,1,/,0,0
+    B,6,0,T,2,2,0,1,/,1,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,4,0,/,0,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,5,0,/,0,0
+    B,6,0,T,2,2,5,0,/,0,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,6,0,/,0,0
+    B,6,0,T,2,2,6,0,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,2,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,2,0,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,6
+    B,6,0,W,2,5,1,0,/,0,6,5,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,2,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,3,0,/,0,0
+    B,6,0,W,2,5,3,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,2,/,0,0
+    B,6,0,W,2,5,5,2,/,4,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,2
+    B,6,0,W,2,7,1,0,/,0,2,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,6
+    B,6,0,W,2,7,1,0,/,0,6,6,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,2,6
+
+application_events
+5
+    2016-09-09,Application filed by GM Global Technology Operations LLC
+    2016-09-09,Priority to US15/757,811
+    2018-05-17,Assigned to GM Global Technology Operations LLC
+    2018-12-06,Publication of US20180345973A1
+    Status,Abandoned
+
+active_area
+2
+    C,N
+    W,O
+
+not_active_area
+2
+    E,P
+    U,S
+
+patent_application_claiming_priority
+7
+    Application,Filing date,Title
+    US201562217499P,2015-09-11,
+    US201562217830P,2015-09-12,
+    US201562217915P,2015-09-13,
+    US201562217905P,2015-09-13,
+    US15/757,811,2016-09-09,Vehicle having controlled start
+    PCT/US2016/050943,2016-09-09,Vehicle having controlled start
+
+legal_event
+5
+    Date,Code,Title,Description
+    2018-05-17,AS,Assignment,Owner name: GM GLOBAL TECHNOLOGY OPERATIONS LLC, MICHIGANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:KRUEGER, ERIC E.;MACDONALD, ALEXANDER;PETRUCCI, MICHAEL G.;AND OTHERS;SIGNING DATES FROM 20180427 TO 20180508;REEL/FRAME:045835/0035
+    2018-09-05,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2020-02-04,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2020-08-16,STCB,Information on status: application discontinuation,Free format text: ABANDONED  --  FAILURE TO RESPOND TO AN OFFICE ACTION
+

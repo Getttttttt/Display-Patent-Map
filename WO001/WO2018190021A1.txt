@@ -1,0 +1,159 @@
+ID
+    WO2018190021A1
+citation_exist
+    Patent Citations (2)
+citation_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2008104306A                      *,2006-10-20,2008-05-01,Nissan Motor Co Ltd,車両の制御装置
+    JP2014073709A                      *,2012-10-03,2014-04-24,Nissan Motor Co Ltd,制動制御装置
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN109572448A                      *,2018-12-29,2019-04-05,中国重汽集团济南动力有限公司,一种基于坡道传感器的纯电动汽车辅助控制方法及其控制系统
+    CN110696812A                      *,2019-10-30,2020-01-17,一汽解放青岛汽车有限公司,混合动力汽车防溜坡控制方法、混合动力汽车及存储介质
+    CN113844423A                      *,2021-11-09,2021-12-28,盐城工学院,一种新能源汽车电机制动系统
+    JP7326813B2,2019-03-28,2023-08-16,三菱自動車工業株式会社,電動車両の回生制御装置
+    Family To Family Citations,,,,
+
+abstract
+    ブレーキ減速要求時に回生ブレーキ力が増減変化するとき、運転性の向上を達成すること。　駆動源にモータ/ジェネレータ（３）を有するＦＦハイブリッド車両の制御方法において、ブレーキ減速要求時、目標減速駆動力をコースト回生・ブレーキ協調回生・メカブレーキにて実現し、回生ブレーキ力を、コースト回生量とブレーキ協調回生量の和とする。回生ブレーキ力が増減変化するとき、メカブレーキ力応答速度＞回生ブレーキ力変化速度になるように、回生ブレーキ力の変化勾配を制限する。そして、ブレーキ減速中、制動スリップの発生に基づいて回生ブレーキ力を低下させる低μ路制御が開始されると、回生ブレーキ力の低下勾配を制限勾配（Ｋ）に保つ制御とする。
+title
+    電動車両の制御方法及び制御装置
+similar_document
+23
+    Publication,Publication Date,Title
+    US9637108B2,2017-05-02,Vehicle driving-torque control device
+    EP3273102B1,2019-09-25,Vehicle regenerative speed control device
+    JP6747584B2,2020-09-02,電動車両の制御方法及び制御装置
+    WO2012056857A1,2012-05-03,ハイブリッド車両のエンジン始動制御装置
+    WO2013062124A1,2013-05-02,ハイブリッド車両の制御装置
+    RU2658614C1,2018-06-21,Устройство рекуперативного управления скоростью транспортного средства
+    JP6292239B2,2018-03-14,４輪駆動電動車両の制御装置
+    WO2018185848A1,2018-10-11,車両の制御方法及び車両の制御装置
+    WO2015045643A1,2015-04-02,ハイブリッド車両の制御装置
+    JP5918464B2,2016-05-18,ハイブリッド車両の制御装置
+    JP6683290B2,2020-04-15,ハイブリッド車両の制御方法
+    JP2012157213A,2012-08-16,車両の制御装置
+    JP6741151B2,2020-08-19,ハイブリッド車両の制御方法及び制御装置
+    JP6702505B2,2020-06-03,電動車両の制御装置および電動車両の制御方法
+    WO2018189907A1,2018-10-18,４輪駆動電動車両の制御方法及び制御装置
+    JP5760378B2,2015-08-12,電動車両の制御装置
+    WO2016021018A1,2016-02-11,電動車両の発進制御装置
+    JP5958649B2,2016-08-02,ハイブリッド車両の制御装置
+    JP6488788B2,2019-03-27,ハイブリッド車両の制御装置
+    JP5900633B2,2016-04-06,車両用制御装置及び車両の制御方法
+    JP6488798B2,2019-03-27,ハイブリッド車両の制御装置
+    WO2018189904A1,2018-10-18,電動車両の制御方法及び電動車両の制御装置
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    JP2019512377A,2017-04-14,2018-03-02,電動車両の制御方法及び制御装置
+
+inventor_number
+    5
+classfication_nums
+    10
+classfication_items
+57
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,5,0
+    B,6,0,K,6,/,5,4
+    B,6,0,K,6,/,5,4,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+3
+    2018-03-02,Application filed by 日産自動車株式会社
+    2018-03-02,Priority to JP2019512377A
+    2018-10-18,Publication of WO2018190021A1
+
+active_area
+2
+    J,P
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2017-080605,2017-04-14,
+    JP2017080605,2017-04-14,
+
+legal_event
+5
+    Date,Code,Title,Description
+    2018-11-28,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 18783824Country of ref document: EPKind code of ref document: A1
+    2019-09-13,ENP,Entry into the national phase,Ref document number: 2019512377Country of ref document: JPKind code of ref document: A
+    2019-10-15,NENP,Non-entry into the national phase,Ref country code: DE
+    2020-04-22,122,Ep: pct application non-entry in european phase,Ref document number: 18783824Country of ref document: EPKind code of ref document: A1
+

@@ -1,0 +1,210 @@
+ID
+    US20200318851A1
+citation_exist
+    Patent Citations (30)
+citation_infor
+32
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US4404815A,1981-11-23,1983-09-20,Carrier Corporation,Air conditioning economizer control method and apparatus
+    US5544809A,1993-12-28,1996-08-13,Senercomm, Inc.,Hvac control system and method
+    US5447037A,1994-03-31,1995-09-05,American Standard Inc.,Economizer preferred cooling control
+    DE19615239C1                      *,1996-04-18,1997-03-20,Daimler Benz Ag,Heating and/or air-conditioning system operating method for motor vehicle
+    US6070660A,1997-02-18,2000-06-06,Hoffman Controls Corp.,Variable speed fan motor control for forced air heating/cooling system
+    US6695046B1,1997-02-18,2004-02-24,Hoffman Controls Corp.,Variable speed fan motor control for forced air heating/cooling system
+    US5996898A,1998-04-07,1999-12-07,University Of Central Florida,Automatic occupancy and temperature control for ceiling fan operation
+    US6223544B1,1999-08-05,2001-05-01,Johnson Controls Technology Co.,Integrated control and fault detection of HVAC equipment
+    US6415617B1,2001-01-10,2002-07-09,Johnson Controls Technology Company,Model based economizer control of an air handling unit
+    US7469550B2,2004-01-08,2008-12-30,Robertshaw Controls Company,System and method for controlling appliances and thermostat for use therewith
+    US7500368B2,2004-09-17,2009-03-10,Robert James Mowris,System and method for verifying proper refrigerant and airflow for air conditioners and heat pumps in cooling mode
+    US8066558B2,2004-11-24,2011-11-29,Honeywell International Inc.,Demand control ventilation sensor failure
+    US7632178B2                      *,2005-01-10,2009-12-15,William Meneely,Ventilation blower controls employing air quality sensors
+    US7798418B1                      *,2005-06-01,2010-09-21,ABT Systems, LLC,Ventilation system control
+    US7444251B2,2006-08-01,2008-10-28,Mitsubishi Electric Research Laboratories, Inc.,Detecting and diagnosing faults in HVAC equipment
+    US9013059B2                      *,2009-07-30,2015-04-21,Lutron Electronics Co., Inc.,Load control system having an energy savings mode
+    US20110160914A1,2009-12-08,2011-06-30,Sequest Systems Corp,Tilt sensor apparatus and method
+    US8195335B2,2010-01-12,2012-06-05,Honeywell International Inc.,Economizer control
+    US20110190910A1,2010-02-03,2011-08-04,Ecobee Inc.,System and method for web-enabled enterprise environment control and energy management
+    US9500382B2,2010-04-21,2016-11-22,Honeywell International Inc.,Automatic calibration of a demand control ventilation system
+    US9255720B2,2010-04-21,2016-02-09,Honeywell International Inc.,Demand control ventilation system with commissioning and checkout sequence control
+    US20120036878A1                      *,2010-08-11,2012-02-16,Mitsubishi Electric & Electronics Usa, Inc.,Low ambient cooling kit for variable refrigerant flow heat pump
+    US9109830B2                      *,2010-08-11,2015-08-18,Mitsubishi Electric Corporation,Low ambient cooling kit for variable refrigerant flow heat pump
+    US20120111430A1                      *,2010-11-04,2012-05-10,Edwards John B,Integrated self-contained zoning plenum
+    US8588983B2,2011-11-09,2013-11-19,Honeywell International Inc.,Actuator with diagnostics
+    US8965585B2,2012-01-10,2015-02-24,Ecobee Inc.,HVAC controller with device scheduling program
+    US9435557B2,2013-01-24,2016-09-06,Belimo Holding Ag,Control unit for an HVAC system comprising an economizer and method for operating such control unit
+    US9874364B2,2014-04-28,2018-01-23,Carrier Corporation,Economizer damper fault detection
+    US10060642B2,2014-10-22,2018-08-28,Honeywell International Inc.,Damper fault detection
+    WO2019130426A1                      *,2017-12-26,2019-07-04,三菱電機株式会社,Controller, radiant air conditioning equipment, control method, and control program
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    KR20220131598A                      *,2021-03-22,2022-09-29,현대자동차주식회사,Apparatus and method for controlling compressor of air conditioner
+
+abstract
+    An economizer controller calibration method, comprising: sealing an economizer perimeter gap between the economizer frame and a Heating, Ventilating Air Conditioning (HVAC) system cabinet to reduce an uncontrolled outdoor airflow; determining a functional relationship between an economizer actuator voltage (x) and a damper position Outdoor Airflow Fraction (OAF) (y); monitoring the economizer actuator voltage (x) and measuring at least one airflow characteristic to calculate the damper position OAF (y) and obtain a set of x-versus-y data for at least two damper positions: closed, intermediate, and fully-open; calculating at least two coefficients of the functional relationship using the x-versus-y data; calculating a target economizer actuator voltage (xt) as a function of a required OAFr (yr) using the functional relationship; and positioning the damper using the target economizer actuator voltage (xt) to provide the target damper position OAFr (yr) within a tolerance of the required OAFr (yr).
+title
+    Economizer Controller Calibration
+similar_document
+26
+    Publication,Publication Date,Title
+    US11175060B2,2021-11-16,Fan-on detection and correction
+    US10712036B2,2020-07-14,Fault detection diagnostic variable differential variable delay thermostat
+    US10001289B2,2018-06-19,Apparatus and methods to measure economizer outdoor air fractions and fault detection diagnostics of airflow, cooling capacity, and heating capacity
+    US10663186B2,2020-05-26,Apparatus and methods to determine economizer faults
+    AU2010284375B2,2014-10-02,Energy reducing retrofit method and apparatus for a constant volume HVAC system
+    US9765986B2,2017-09-19,Demand control ventilation system with commissioning and checkout sequence control
+    US8918218B2,2014-12-23,Demand control ventilation system with remote monitoring
+    US9500382B2,2016-11-22,Automatic calibration of a demand control ventilation system
+    US11732916B2,2023-08-22,Refrigeration leak detection
+    WO2016158938A1,2016-10-06,Air conditioner
+    US11029061B2,2021-06-08,Economizer perimeter gap sealing
+    Katipamula et al.,2015,Rooftop unit embedded diagnostics: Automated fault detection and diagnostics (AFDD) development, field testing and validation
+    US11029057B2,2021-06-08,Economizer controller calibration
+    US11022335B2,2021-06-01,Economizer cooling delay correction
+    Wang et al.,2019,Energy performance evaluation of variable-speed packaged rooftop units using field measurements and building energy simulation
+    CN106765973A,2017-05-31,The control method and air-conditioning of a kind of lack of fluorine of air-conditioners detection
+    Hart et al.,2011,Unitary HVAC Premium Ventilation Upgrade.
+    Patil,2018,Development and Evaluation of Automated Virtual Refrigerant Charge Sensor Training Kit
+    US11281201B2,2022-03-22,Air conditioner and methods of operation having a learning event
+    US20200363088A1,2020-11-19,Single-package air conditioner and methods of operation
+    Cummings et al.,2015,Cooling and Heating Season Impacts of Right-Sizing of Fixed-and Variable-Capacity Heat Pumps With Attic and Indoor Ductwork
+    Metzger et al.,2017,Review of Residential Comfort Control Products and Opportunities
+    US20230213235A1,2023-07-06,Air conditioner with thermostat setpoint estimation
+    Mowris et al.,2015,Laboratory Test Results of Commercial Packaged HVAC Maintenance Faults. Prepared for the California Public Utilities Commission. Prepared by Robert Mowris & Associates, Inc.(RMA)
+    Gorin et al.,2018,RM12-2798 High-Efficiency Rooftop Unit Replacement: Hawaii and Guam Energy Improvement Technology Demonstration Project
+
+patent_application
+2
+    Application,Priority date,Filing date,Relation,Title
+    US16/882,222,2016-05-31,2020-05-22,Continuation-In-Part,Economizer perimeter gap sealing
+
+patent_priority_application
+5
+    Application,Priority date,Filing date,Title
+    US16/897,634,2016-05-31,2020-06-10,Economizer controller calibration
+    US16/909,752,2016-05-31,2020-06-23,Fan-on detection and correction
+    US17/526,725,2016-05-31,2021-11-15,Smart thermostat fan controller
+    US17/958,069,2016-05-31,2022-09-30,Occupancy-based Fan Control
+
+inventor_number
+    2
+classfication_nums
+    9
+classfication_items
+55
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,1,2,/,0,0
+    F,2,4,F,1,2,/,0,0,1
+    F,2,4,F,1,2,/,0,0,6
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,1,1,/,0,0
+    F,2,4,F,1,1,/,0,0,0,1
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,1,1,/,0,0
+    F,2,4,F,1,1,/,6,2
+    F,2,4,F,1,1,/,6,3
+    F,2,4,F,1,1,/,6,5
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,1,1,/,0,0
+    F,2,4,F,1,1,/,7,0
+    F,2,4,F,1,1,/,7,2
+    F,2,4,F,1,1,/,7,4
+    F,2,4,F,1,1,/,7,6
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,1,1,/,0,0
+    F,2,4,F,1,1,/,7,0
+    F,2,4,F,1,1,/,8,0
+    F,2,4,F,1,1,/,8,1
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,1,3,/,0,0
+    F,2,4,F,1,3,/,0,8
+    F,2,4,F,1,3,/,1,0
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,7,/,0,0
+    F,2,4,F,2,0,0,7,/,0,0,5
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,2,1,1,0,/,0,0
+    F,2,4,F,2,1,1,0,/,1,0
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,2,1,1,0,/,0,0
+    F,2,4,F,2,1,1,0,/,1,0
+    F,2,4,F,2,1,1,0,/,1,2
+
+application_events
+8
+    2020-06-10,Priority to US16/897,634
+    2020-06-10,Application filed by Individual
+    2020-10-08,Publication of US20200318851A1
+    2021-06-08,Publication of US11029057B2
+    2021-06-08,Application granted
+    2021-07-01,Publication of US20210199335A9
+    Status,Active
+    2036-05-31,Anticipated expiration
+
+active_area
+1
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+11
+    Application,Filing date,Title
+    US15/169,586,2016-05-31,Apparatus and methods to measure economizer outdoor air fractions and fault detection diagnostics of airflow, cooling capacity, and heating capacity
+    US15/358,131,2016-11-22,Fan controller
+    US15/614,600,2017-06-05,Method for a variable differential variable delay thermostat
+    US16/011,120,2018-06-18,Apparatus and methods to determine economizer faults
+    US201862728518P,2018-09-07,
+    US16/289,313,2019-02-28,Fault detection diagnostic variable differential variable delay thermostat
+    US16/565,464,2019-09-09,Thermostat variable fan-off delay
+    US16/869,396,2020-05-07,Economizer cooling delay correction
+    US16/882,222,2020-05-22,Economizer perimeter gap sealing
+    US16/897,634,2020-06-10,Economizer controller calibration
+
+legal_event
+12
+    Date,Code,Title,Description
+    2020-06-10,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY
+    2020-06-17,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO SMALL (ORIGINAL EVENT CODE: SMAL); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY
+    2020-11-23,FEPP,Fee payment procedure,Free format text: PETITION RELATED TO MAINTENANCE FEES GRANTED (ORIGINAL EVENT CODE: PTGR); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY
+    2020-12-14,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2021-03-18,FEPP,Fee payment procedure,Free format text: PETITION RELATED TO MAINTENANCE FEES GRANTED (ORIGINAL EVENT CODE: PTGR); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY
+    2021-03-19,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2021-04-09,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2021-04-22,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT RECEIVED
+    2021-04-26,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2021-05-19,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2022-12-22,AS,Assignment,Owner name: LAU, JAMES, CALIFORNIAFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:WALSH, JOHN;REEL/FRAME:062191/0616Effective date: 20221027
+

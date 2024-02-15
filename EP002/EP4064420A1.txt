@@ -1,0 +1,275 @@
+ID
+    EP4064420A1
+citation_exist
+    Patent Citations (10)
+citation_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    TWM394640U                      *,2010-07-23,2010-12-11,Exa Energy Technology Co Ltd,On-board battery with heating device
+    CN103887578B                      *,2014-03-25,2016-03-30,东风汽车公司,Improve electrokinetic cell heating means and the system of electric automobile low temperature course continuation mileage
+    CN105818708B                      *,2016-04-21,2019-04-26,东软集团股份有限公司,A kind of batter-charghing system and method
+    CN107512179A                      *,2016-06-15,2017-12-26,北京科易动力科技有限公司,A kind of electrokinetic cell system and the control method for the system
+    CN110549912A                      *,2018-03-29,2019-12-10,比亚迪股份有限公司,Vehicle battery temperature adjusting method and system and vehicle
+    CN109572482A                      *,2018-11-27,2019-04-05,北汽福田汽车股份有限公司,Charge control system, method and the vehicle of power battery
+    CN111169324B                      *,2019-12-31,2021-05-18,潍柴动力股份有限公司,Lithium battery system, control method of lithium battery system and vehicle
+    CN111559278B                      *,2020-05-09,2021-10-26,中国重汽集团济南动力有限公司,Low-temperature cold start system and method for series hybrid electric vehicle
+    CN112259829B                      *,2020-09-27,2022-01-28,湖南中联重科智能高空作业机械有限公司,Lithium battery system and aerial working vehicle
+    CN112260342B                      *,2020-09-27,2022-01-28,湖南中联重科智能高空作业机械有限公司,Lithium battery system and aerial working vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    A lithium battery system and an overhead working truck. The lithium battery system comprises a battery (30) and a feedback current control apparatus (10). The feedback current control apparatus (10) comprises a first current capture device (40) that comprises: a first feedback current capture module (42) used for capturing feedback current; a first switch module (5, 6, 50) used for conducting or unidirectionally cutting off a main circuit; and a control module used for receiving a first voltage of one end of a driver (20) on the main circuit, a second voltage of one end of the battery (30), and the temperature of the battery (30), and when a difference value between the first voltage and the second voltage is greater than a preset voltage and the temperature of the battery (30) is less than or equal to a preset temperature, controlling the first switch module (5, 6, 50) to unidirectionally cut off the main circuit, so as to capture the feedback current by the first feedback current capture module (42) on a first current capture circuit. The technical solution can greatly reduce the probability of lithium precipitation of the battery (30) and the risk of thermal runaway of the battery (30).
+title
+    Lithium battery system and overhead working truck
+similar_document
+26
+    Publication,Publication Date,Title
+    EP4063173A1,2022-09-28,Feedback current control device and aerial platform truck
+    CN101746247B,2016-01-06,Auxiliary drive apparatus and manufacture method thereof
+    US8084988B2,2011-12-27,Power supply system
+    US7923866B2,2011-04-12,Power supply system and vehicle including the same, and method of controlling the same
+    US8673514B2,2014-03-18,Fuel cell system and boost converter for fuel cell
+    US10759303B2,2020-09-01,Autonomous vehicle route planning
+    US9221345B2,2015-12-29,Battery charging device for motor vehicle
+    US20060125319A1,2006-06-15,System and method for providing power control of an energy storage system
+    CN112259829B,2022-01-28,Lithium battery system and aerial working vehicle
+    CN112260342B,2022-01-28,Lithium battery system and aerial working vehicle
+    US9948217B2,2018-04-17,Synchronous energy source switching controller and method of operation thereof
+    JP2015149818A,2015-08-20,Electric power control device for vehicle
+    CN104242435A,2014-12-24,Unmanned aerial vehicle power supply system and unmanned aerial vehicle
+    JPH089511A,1996-01-12,Hybrid power source for motor-driven vehicle
+    US7843713B2,2010-11-30,Method of driving DC/DC converter, and DC/DC converter
+    EP4064420A1,2022-09-28,Lithium battery system and overhead working truck
+    CN105083268B,2017-12-26,A kind of control method of fuel cell hybrid car control system
+    EP3971014A1,2022-03-23,Method and apparatus for distributing electric braking power of hybrid electric tram, and medium
+    CN213367428U,2021-06-04,Circuit device for controlling feedback current and overhead working truck
+    JP2018133147A,2018-08-23,Fuel cell system
+    CN213305000U,2021-05-28,Circuit device for capturing feedback current and overhead working truck
+    KR20100051510A,2010-05-17,Method for charging and discharging current limit of fuel cell-super capacitor hybrid electric vehicle
+    CN213304999U,2021-05-28,Circuit device for intercepting feedback current and overhead working truck
+    JP2018019504A,2018-02-01,Power supply system for electric vehicle
+    JP2004080907A,2004-03-11,Motor drive unit
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    8
+classfication_nums
+    26
+classfication_items
+167
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,7
+    H,0,2,J,7,/,0,0,7,1,2
+    H,0,2,J,7,/,0,0,7,1,4
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,6,0
+    H,0,1,M,1,0,/,6,1
+    H,0,1,M,1,0,/,6,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B,6,0,L,5,8,/,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,0,5
+    H,0,1,M,1,0,/,0,5,2
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,0,5
+    H,0,1,M,1,0,/,0,5,2
+    H,0,1,M,1,0,/,0,5,2,5
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,2,5
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,4
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,4
+    H,0,1,M,1,0,/,4,4,1
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,4
+    H,0,1,M,1,0,/,4,4,3
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,8
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,8
+    H,0,1,M,1,0,/,4,8,2
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,8
+    H,0,1,M,1,0,/,4,8,6
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,6,0
+    H,0,1,M,1,0,/,6,2
+    H,0,1,M,1,0,/,6,2,5
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,6,0
+    H,0,1,M,1,0,/,6,3
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,6,0
+    H,0,1,M,1,0,/,6,5
+    H,0,1,M,1,0,/,6,5,7
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,2,9
+    H,0,2,J,7,/,0,0,3,1
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,4,7
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,7
+    H,0,2,J,7,/,0,0,7,1,2
+    H,0,2,J,7,/,0,0,7,1,8,2
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,7
+    H,0,2,J,7,/,0,0,7,1,8,8
+    H,0,2,J,7,/,0,0,7,1,9,2
+    H,0,2,J,7,/,0,0,7,1,9,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,2,5
+    H,0,1,M,2,0,1,0,/,4,2,7,1
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,2,2,2,0,/,0,0
+    H,0,1,M,2,2,2,0,/,2,0
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,1,0
+
+application_events
+6
+    2020-09-27,Priority claimed from CN202011033069.6A
+    2020-09-27,Priority claimed from CN202011034939.1A
+    2021-03-30,Application filed by Zoomlion Intelligent Access Machinery Co Ltd
+    2022-09-28,Publication of EP4064420A1
+    2023-07-26,Publication of EP4064420A4
+    Status,Pending
+
+active_area
+4
+    E,P
+    U,S
+    A,U
+    C,A
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    CN202011033069.6A,2020-09-27,Lithium battery system and aerial working vehicle
+    CN202011034939.1A,2020-09-27,Lithium battery system and aerial working vehicle
+    PCT/CN2021/084024,2021-03-30,Lithium battery system and overhead working truck
+
+legal_event
+8
+    Date,Code,Title,Description
+    2022-04-02,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE INTERNATIONAL PUBLICATION HAS BEEN MADE
+    2022-08-26,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2022-08-26,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+    2022-09-28,17P,Request for examination filed,Effective date: 20220623
+    2022-09-28,AK,Designated contracting states,Kind code of ref document: A1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2023-07-26,A4,Supplementary search report drawn up and despatched,Effective date: 20230623
+    2023-07-26,RIC1,Information provided on ipc code assigned before grant,Ipc: H02J   7/00        20060101ALI20230619BHEPIpc: H01M  10/615       20140101AFI20230619BHEP
+

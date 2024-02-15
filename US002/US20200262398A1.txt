@@ -1,0 +1,377 @@
+ID
+    US20200262398A1
+citation_exist
+    Patent Citations (25)
+citation_infor
+27
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US4566067A                      *,1983-04-29,1986-01-21,Westinghouse Electric Corp.,Speed control apparatus and method for rapid transit vehicles
+    US5721473A                      *,1996-04-18,1998-02-24,Devries; Leroy Milo,Electric motorized vehicular wheel with adjuncts
+    JPH10280990A,1997-04-04,1998-10-20,Toyota Motor Corp,Fuel cut controller for internal combustion engine
+    DE19905604A1                      *,1999-02-11,2000-08-17,Bosch Gmbh Robert,Method and device for damping jerky vehicle movements
+    JP2004137702A                      *,2002-10-16,2004-05-13,Kobelco Contstruction Machinery Ltd,Actuator controller of working machine
+    US7222011B2                      *,2004-07-23,2007-05-22,General Motors Corporation,Engine and driveline torque transfer device control
+    DE102005015485A1                      *,2005-04-05,2006-11-30,Daimlerchrysler Ag,Drive train of a vehicle and method for controlling a drive train
+    JP4385986B2,2005-04-15,2009-12-16,トヨタ自動車株式会社,Vehicle integrated control device
+    JP4458004B2                      *,2005-08-29,2010-04-28,日産自動車株式会社,Vehicle braking force control device
+    JP4640224B2                      *,2006-03-15,2011-03-02,日産自動車株式会社,VEHICLE TRAVEL BENDING DETECTING DEVICE AND VEHICLE ACTION RESPONSE
+    JP5092540B2                      *,2007-05-24,2012-12-05,トヨタ自動車株式会社,Control device for vehicle power transmission device
+    JP5192306B2                      *,2008-07-14,2013-05-08,株式会社デンソー,Vehicle control device
+    US20100152950A1                      *,2008-12-15,2010-06-17,Gm Global Technology Operations, Inc.,Adaptive vehicle control system with driving style recognition based on vehicle stopping
+    DE102010031036A1                      *,2010-07-07,2012-01-12,Robert Bosch Gmbh,Method and device for clutch control in sailing operation of a motor vehicle
+    JP5497598B2                      *,2010-09-15,2014-05-21,トヨタ自動車株式会社,Vehicle control device
+    JP5747525B2                      *,2011-01-28,2015-07-15,日産自動車株式会社,Vehicle control device
+    DE102011102332B3                      *,2011-05-25,2012-10-25,Audi Ag,Method for operating a longitudinal driver assistance system in a motor vehicle and motor vehicle
+    CN103764431B                      *,2011-08-29,2016-02-17,丰田自动车株式会社,The gradual braking device of vehicle
+    JP5764103B2                      *,2012-09-07,2015-08-12,株式会社アドヴィックス,Brake control device for vehicle
+    JP5741551B2                      *,2012-10-24,2015-07-01,トヨタ自動車株式会社,Vehicle travel control device
+    JP6209028B2                      *,2013-09-12,2017-10-04,株式会社Ｓｕｂａｒｕ,Control device for four-wheel drive vehicle
+    JP6458324B2                      *,2015-03-23,2019-01-30,日立オートモティブシステムズ株式会社,Braking control device for vehicle
+    JP6292214B2                      *,2015-12-01,2018-03-14,トヨタ自動車株式会社,Hybrid vehicle
+    US20210213941A1                      *,2018-09-27,2021-07-15,Hitachi Automotive Systems, Ltd.,Vehicle Control Device
+    JP7135929B2                      *,2019-02-20,2022-09-13,トヨタ自動車株式会社,Braking force controller
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (13)
+              
+
+
+citedBy_infor
+15
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN112092612A                      *,2020-09-18,2020-12-18,中国第一汽车股份有限公司,Four-wheel drive pure electric vehicle power system
+    US11088644B1                      *,2020-05-05,2021-08-10,Tula eTechnology, Inc.,Pulsed electric machine control
+    US11485363B2                      *,2019-04-26,2022-11-01,Toyota Jidosha Kabushiki Kaisha,Braking force control device
+    US11557996B1,2021-07-08,2023-01-17,Tula eTechnology, Inc.,Methods of reducing vibrations for electric motors
+    US11623529B2,2018-03-19,2023-04-11,Tula eTechnology, Inc.,Pulse modulated control with field weakening for improved motor efficiency
+    US11626827B2,2018-03-19,2023-04-11,Tula eTechnology, Inc.,Pulsed electric machine control
+    US11628730B2,2021-01-26,2023-04-18,Tula eTechnology, Inc.,Pulsed electric machine control
+    US11637513B2,2021-03-15,2023-04-25,Tula eTechnology, Inc.,Methods of optimizing waveforms for electric motors
+    US11637466B1,2021-10-18,2023-04-25,Tula Etechnology Inc.,Mechanical and electromechanical arrangements for field-weakening of an electric machine that utilizes permanent magnets
+    US11673476B2,2021-08-12,2023-06-13,Tula eTechnology, Inc.,Method of optimizing system efficiency for battery powered electric motors
+    US11695361B2,2021-06-14,2023-07-04,Tula eTechnology, Inc.,Electric machines with efficient torque transitions
+    Family To Family Citations,,,,
+    JP7135929B2                      *,2019-02-20,2022-09-13,トヨタ自動車株式会社,Braking force controller
+    CN112622844B                      *,2020-12-18,2022-03-29,东风越野车有限公司,Multi-axis EPB peak shifting area clamping control method
+
+abstract
+    A braking force controller causes a first actuator unit to generate a target jerk when the target jerk is equal to or larger than a first jerk, causes the first actuator unit to generate the first jerk and a second actuator unit to generate a jerk obtained by subtracting the first jerk from the target jerk as an additional jerk when the target jerk is smaller than the first jerk and equal to or larger than the sum of the first jerk and a second jerk, and causes the first actuator unit to generate the first jerk and the second actuator unit to generate the second jerk as the additional jerk when the target jerk is smaller than the sum of the first jerk and the second jerk.
+title
+    Braking force controller and vehicle
+similar_document
+24
+    Publication,Publication Date,Title
+    US11338779B2,2022-05-24,Braking force controller and vehicle
+    US9216731B2,2015-12-22,Control device for hybrid vehicle
+    US7328096B2,2008-02-05,Driving force switching control apparatus
+    US11001263B2,2021-05-11,Braking force control system, device, and method
+    KR100829311B1,2008-05-13,Control of torque reduction during gear shifting in auto-transmission hev system
+    JP2012116272A,2012-06-21,Regenerative control device for hybrid electric vehicle
+    KR20190136353A,2019-12-10,Brake system and controlling method thereof
+    JP5673145B2,2015-02-18,Vehicle control device
+    JP4935797B2,2012-05-23,Electric vehicle control device
+    JP5919434B2,2016-05-18,Internal combustion engine control device and internal combustion engine control method
+    WO2013151104A1,2013-10-10,Hybrid vehicle control apparatus
+    CN110386126B,2022-07-26,Control system for hybrid vehicle
+    US20230018675A1,2023-01-19,Braking force control device
+    JP7140292B2,2022-09-21,Series hybrid vehicle control method and series hybrid vehicle
+    US11453377B2,2022-09-27,Braking force control apparatus
+    JP2021030986A,2021-03-01,Vehicle control device
+    JP2019189202A,2019-10-31,Control system for hybrid vehicle
+    JP2020157984A,2020-10-01,Vehicle driving system
+    KR102226870B1,2021-03-11,Breaking force control system, device, and method
+    JP2023023020A,2023-02-16,Manual transmission simulation control device of electric automobile
+    JP2020180603A,2020-11-05,Brake force control apparatus
+    JP2005080377A,2005-03-24,Controller for vehicle
+    JP2004011486A,2004-01-15,Hybrid vehicle and its control device
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US17/721,084,2019-02-20,2022-04-14,Braking force controller and vehicle
+
+inventor_number
+    8
+classfication_nums
+    40
+classfication_items
+228
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,1,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,7,4
+    B,6,0,T,1,3,/,7,4,1
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,7,/,0,0
+    B,6,0,K,7,/,0,0,0,7
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,7,/,0,0
+    B,6,0,T,1,7,/,1,8
+    B,6,0,T,1,7,/,2,2
+    B,6,0,T,1,7,/,2,2,1
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,0,2
+    B,6,0,T,7,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,1
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,5,5
+    B,6,0,T,8,/,1,7,5,5,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,2,1
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,2,1
+    B,6,0,T,8,/,3,2,1,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,2,1
+    B,6,0,T,8,/,3,2,5,5
+    B,6,0,T,8,/,3,2,7,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,0,7,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,1,0
+    B,6,0,W,4,0,/,1,0,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,0,1,/,0,0
+    B,6,0,T,2,2,0,1,/,0,3
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,0,1,/,0,0
+    B,6,0,T,2,2,0,1,/,1,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,2,0,/,0,0
+    B,6,0,T,2,2,2,0,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,3,0,/,0,0
+    B,6,0,T,2,2,3,0,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,5,0,/,0,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,5,0,/,0,0
+    B,6,0,T,2,2,5,0,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,6
+    B,6,0,W,2,5,1,0,/,0,6,3,8
+    B,6,0,W,2,5,1,0,/,0,6,4,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,2,/,0,0
+    B,6,0,W,2,5,5,2,/,1,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,1
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,2
+    F
+    F,0,2
+    F,0,2,D
+    F,0,2,D,2,2,0,0,/,0,0
+    F,0,2,D,2,2,0,0,/,0,2
+    F,0,2,D,2,2,0,0,/,0,2,3
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+
+application_events
+8
+    2020-01-15,Application filed by Toyota Motor Corp
+    2020-01-15,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2020-08-20,Publication of US20200262398A1
+    2022-04-14,Priority to US17/721,084
+    2022-05-24,Application granted
+    2022-05-24,Publication of US11338779B2
+    Status,Active
+    2040-12-19,Adjusted expiration
+
+active_area
+7
+    J,P
+    K,R
+    U,S
+    E,P
+    C,N
+    U,S
+    J,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2019028622A,2019-02-20,Braking force controller
+    JP2019-028622,2019-02-20,
+    JPJP2019-028622,2019-02-20,
+
+legal_event
+8
+    Date,Code,Title,Description
+    2020-01-15,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:SATO, SHUN;MIYAKE, KAZUKI;YAMADA, YOSHIHISA;AND OTHERS;SIGNING DATES FROM 20191107 TO 20191119;REEL/FRAME:051525/0798
+    2020-01-15,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2020-10-02,STPP,Information on status: patent application and granting procedure in general,Free format text: APPLICATION DISPATCHED FROM PREEXAM, NOT YET DOCKETED
+    2021-08-20,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2022-02-15,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2022-04-25,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2022-05-04,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

@@ -1,0 +1,327 @@
+ID
+    US9190831B2
+citation_exist
+    Patent Citations (13)
+citation_infor
+15
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20030081440A1                      *,2001-10-25,2003-05-01,Toyota Jidosha Kabushiki Kaisha,Load driver and control method for safely driving DC load and computer-readable recording medium with program recorded thereon for allowing computer to execute the control
+    JP2008182779A,2007-01-23,2008-08-07,Matsushita Electric Ind Co Ltd,Power supply device
+    JP2008234903A,2007-03-19,2008-10-02,Gs Yuasa Corporation:Kk,Battery and battery system
+    JP2009148139A,2007-12-18,2009-07-02,Toyota Motor Corp,Vehicle power supply apparatus
+    JP2009171644A,2008-01-10,2009-07-30,Toyota Motor Corp,Power supply unit of vehicle and its control method
+    JP2009189209A,2008-02-08,2009-08-20,Toyota Motor Corp,Power supply device of vehicle and method of controlling the same
+    JP2009278705A,2008-05-12,2009-11-26,Toyota Motor Corp,Power system for electric vehicle and its control method
+    JP2010051072A,2008-08-20,2010-03-04,Toyota Motor Corp,Abnormality monitoring device of power supply system and abnormality monitoring method of power supply system
+    US20110140665A1                      *,2009-12-16,2011-06-16,Shigeto Tamezane,Power supply device capable of forcedly discharging battery cell
+    US20110148361A1                      *,2009-12-22,2011-06-23,Kazunobu Yokotani,Battery system and method for detecting current restriction state in a battery system
+    US20120242144A1                      *,2011-03-24,2012-09-27,Ford Global Technologies Llc,Vehicle battery cell with integral control circuit
+    US8508067B2                      *,2009-12-03,2013-08-13,Hyundai Motor Company,Motor drive system for hybrid vehicle and method for controlling the same in the event of failure
+    US20130271086A1                      *,2010-12-24,2013-10-17,Toyota Jidosha Kabushiki Kaisha,Electric Power Supply System and Vehicle Having the Same Mounted Therein, and Method of Controlling Electric Power Storage Device
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (19)
+              
+
+
+citedBy_infor
+21
+    Publication number,Priority date,Publication date,Assignee,Title
+    US9806512B2                      *,2012-08-29,2017-10-31,Kabushiki Kaisha Toyota Jidoshokki,Protective device for LC filter
+    US11130405B2                      *,2018-10-11,2021-09-28,Keith Johnson,System and method of powering an external device with a vehicular battery system
+    US11642965B2,2018-10-11,2023-05-09,Keith Johnson,System and method of powering an external device with a vehicular battery system
+    Family To Family Citations,,,,
+    JP5556902B2                      *,2010-12-24,2014-07-23,トヨタ自動車株式会社,Power supply system, vehicle equipped with the same, and method for controlling power storage device
+    CN104833933B                      *,2014-08-29,2017-11-03,北汽福田汽车股份有限公司,The method for diagnosing faults of electrokinetic cell voltage sensor
+    US9751427B2                      *,2014-09-03,2017-09-05,Ford Global Technologies, Llc,Vehicle traction battery thermal conditioning
+    CN109311396B                      *,2016-06-14,2022-05-13,沃尔沃卡车集团,Method and apparatus for controlling operation of an energy storage system in a vehicle
+    DE102016218814B4                      *,2016-09-29,2018-06-14,Audi Ag,Motor vehicle and method for operating a motor vehicle
+    JP6891963B2                      *,2017-08-14,2021-06-18,日産自動車株式会社,Power supply system and its control method
+    JP6554151B2,2017-08-31,2019-07-31,本田技研工業株式会社,Vehicle power system
+    US20220048391A1                      *,2018-09-18,2022-02-17,Gs Yuasa International Ltd.,Control method for mobile power supply system, and power supply system for moving body
+    KR102576684B1                      *,2018-11-15,2023-09-11,에스케이하이닉스 주식회사,Storage device and operating method thereof
+    JP7252807B2                      *,2019-03-27,2023-04-05,株式会社Subaru,power system
+    KR20210039705A                      *,2019-10-02,2021-04-12,주식회사 엘지화학,Method and system for detecting connection failure in parallel connection cell
+    JP2021058058A                      *,2019-10-02,2021-04-08,株式会社ケーヒン,Power conversion device
+    KR20210039706A                      *,2019-10-02,2021-04-12,주식회사 엘지화학,Method and system for detecting connection failure in parallel connection cell
+    CN110635534B                      *,2019-10-10,2021-02-23,国网江苏综合能源服务有限公司,Self-diagnosis off-grid current limiting control method for mobile electrochemical energy storage system
+    JP7256480B2                      *,2020-05-13,2023-04-12,トヨタ自動車株式会社,Power supply circuit control device and power supply circuit control program
+    CN114362629B                      *,2021-12-30,2023-08-29,上海电机学院,Cage type asynchronous motor energy-saving control system
+
+abstract
+    A power supply system has a power storage device and an ECU, and supplies driving electric power to a load device. The power storage device includes an interrupting device configured to interrupt a conduction path of the power storage device. The load device includes a voltage sensor for detecting a voltage applied to the load device, and supply of electric power from the load device to the power storage device is stopped in response to a failure of the voltage sensor. Where the voltage sensor has failed, the ECU determines presence or absence of activation of the interrupting device, based on a variation length of an actual current that is input to or output from the power storage device and a variation length of a command current set in accordance with requested electric power requested based on a user's operation.
+title
+    Power supply system, vehicle incorporating the same and method for controlling power supply system
+similar_document
+26
+    Publication,Publication Date,Title
+    US9190831B2,2015-11-17,Power supply system, vehicle incorporating the same and method for controlling power supply system
+    US9043066B2,2015-05-26,Vehicle and control method of vehicle
+    US9421867B2,2016-08-23,Electric vehicle
+    US9929674B2,2018-03-27,Power supply system for vehicle
+    EP2481624B1,2018-07-25,Vehicle charging system and electrically powered vehicle provided with the same
+    US9136783B2,2015-09-15,Vehicle, power supply system, and method for controlling power supply system
+    US9862286B2,2018-01-09,Power supply system, and vehicle and management device used therein
+    US9018866B2,2015-04-28,Electrical storage system and processing method
+    US20120039100A1,2012-02-16,Power conversion device, method of controlling power conversion device, and vehicle with the same mounted thereon
+    US20150298568A1,2015-10-22,Power supply system for vehicle
+    US20150097501A1,2015-04-09,Electric vehicle power conversion system
+    US9197085B2,2015-11-24,Control device for vehicle
+    JP2011259517A,2011-12-22,Power converter of vehicle and vehicle equipped with power converter
+    CN107428254B,2020-03-17,Power supply device for vehicle
+    US8501360B2,2013-08-06,Fuel cell output control device
+    US20140103883A1,2014-04-17,Power supply device of vehicle
+    JP2017085810A,2017-05-18,Vehicular power supply system
+    US20160276823A1,2016-09-22,Power supply system
+    GB2514979A,2014-12-10,Power supply control device for vehicle, and vehicle
+    JP5780107B2,2015-09-16,Power storage system and method for detecting current sensor abnormality
+    JP2017229132A,2017-12-28,Power supply unit for vehicle and power supply controller
+    JP5556902B2,2014-07-23,Power supply system, vehicle equipped with the same, and method for controlling power storage device
+    JP5699930B2,2015-04-15,Power supply system, vehicle equipped with the same, and control method of power supply system
+    JP6701976B2,2020-05-27,Electric vehicle
+    US10024925B2,2018-07-17,Control system for battery
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    36
+classfication_items
+193
+    H
+    H,0,2
+    H,0,2,H
+    H,0,2,H,3,/,0,0
+    H,0,2,H,3,/,2,6
+    H,0,2,H,3,/,2,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B,6,0,L,1,1,/,1,2,3
+    B,6,0,L,1,1,/,1,4
+    B,6,0,L,1,1,/,1,8,5,9
+    B,6,0,L,1,1,/,1,8,6,1
+    B,6,0,L,1,1,/,1,8,6,4
+    B,6,0,L,1,1,/,1,8,6,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,3,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B,6,0,L,2,2,1,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B,6,0,L,2,2,1,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2011-03-29,Application filed by Toyota Motor Corp
+    2013-09-25,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2014-01-23,Publication of US20140022681A1
+    2015-11-17,Application granted
+    2015-11-17,Publication of US9190831B2
+    Status,Active
+    2031-09-18,Adjusted expiration
+
+active_area
+4
+    W,O
+    U,S
+    J,P
+    C,N
+
+not_active_area
+1
+    E,P
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2011/057779,2011-03-29,Power supply system, vehicle mounted therewith, and method of controlling power supply system
+
+legal_event
+5
+    Date,Code,Title,Description
+    2013-09-25,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:MITSUTANI, NORITAKE;REEL/FRAME:031280/0022Effective date: 20130328
+    2015-10-28,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2019-05-02,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+    2023-05-03,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+

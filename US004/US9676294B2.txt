@@ -1,0 +1,344 @@
+ID
+    US9676294B2
+citation_exist
+    Patent Citations (13)
+citation_infor
+15
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20090118921A1                      *,2007-11-03,2009-05-07,Gm Global Technology Operations, Inc.,Method for stabilization of mode and fixed gear for a hybrid powertrain system
+    US7988594B2                      *,2007-11-04,2011-08-02,GM Global Technology Operations LLC,Method for load-based stabilization of mode and fixed gear operation of a hybrid powertrain system
+    US8095282B2                      *,2007-11-04,2012-01-10,GM Global Technology Operations LLC,Method and apparatus for soft costing input speed and output speed in mode and fixed gear as function of system temperatures for cold and hot operation for a hybrid powertrain system
+    US8126624B2                      *,2007-11-04,2012-02-28,GM Global Technology Operations LLC,Method for selection of optimal mode and gear and input speed for preselect or tap up/down operation
+    US8285431B2                      *,2007-11-03,2012-10-09,GM Global Technology Operations LLC,Optimal selection of hybrid range state and/or input speed with a blended braking system in a hybrid electric vehicle
+    US8346449B2                      *,2007-11-04,2013-01-01,GM Global Technology Operations LLC,Method and apparatus to provide necessary output torque reserve by selection of hybrid range state and input speed for a hybrid powertrain system
+    US8374758B2                      *,2007-11-04,2013-02-12,GM Global Technology Operations LLC,Method for developing a trip cost structure to understand input speed trip for a hybrid powertrain system
+    US8396634B2                      *,2007-11-04,2013-03-12,GM Global Technology Operations LLC,Method and apparatus for maximum and minimum output torque performance by selection of hybrid range state and input speed for a hybrid powertrain system
+    US8406970B2                      *,2007-11-03,2013-03-26,GM Global Technology Operations LLC,Method for stabilization of optimal input speed in mode for a hybrid powertrain system
+    Family To Family Citations,,,,
+    DE112010004867T5                      *,2009-12-16,2012-12-06,Honda Motor Co., Ltd.,Hybrid vehicle and its control method
+    ITPD20110252A1                      *,2011-07-22,2013-01-23,Mecaprom Technologies Corp I Talia Srl A So,HYBRID PROPULSION VEHICLE
+    WO2013128639A1                      *,2012-03-02,2013-09-06,トヨタ自動車株式会社,Drive device for hybrid vehicle
+    CN104071147B                      *,2013-03-26,2016-09-07,北汽福田汽车股份有限公司,Hybrid vehicle and torque control method and device
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    DE102018114782A1                      *,2018-06-20,2019-12-24,Schaeffler Technologies AG & Co. KG,Drive unit and drive arrangement
+    CN109173122A                      *,2018-09-04,2019-01-11,广州巨枫科技有限公司,A kind of full-automatic wheeled extinguishing device
+    CN114347804B                      *,2022-01-27,2022-12-27,奇瑞商用车（安徽）有限公司,Electric automobile control system and control method thereof
+
+abstract
+    A method of managing an operating state of an electrified powertrain includes a controller identifying a plurality of available operating regions defined by at least one available operating state of the powertrain, each operating region representing a distinct range of operating conditions. The available operating regions include an avoidance region defining a plurality of unwanted operating conditions and separating a first allowable operating region from a second allowable operating region such that the first and second allowable operating regions are noncontiguous. The method identifies at least one ideal operating condition in each of the available operating regions, determines a preferability factor and stabilization factor for each of a current and each of the ideal operating conditions, and arbitrates the factors to identify one of the current and ideal operating conditions as an optimized operating condition to produce a required parameter value.
+title
+    Method of managing available operating regions within operating states in an electric powertrain
+similar_document
+26
+    Publication,Publication Date,Title
+    US7073615B2,2006-07-11,System and method for operating an electric motor by limiting performance
+    US9669822B2,2017-06-06,Method and apparatus for controlling operation of an internal combustion engine for a multi-mode powertrain system
+    CN110799373B,2023-07-18,Control device for vehicle
+    CN106167023B,2020-10-20,System and method for controlling a powertrain system
+    US9440641B2,2016-09-13,Control device for hybrid vehicle
+    JP2009018713A,2009-01-29,Hybrid vehicle and method for controlling hybrid vehicle
+    US10647190B2,2020-05-12,Control system for hybrid vehicles
+    US20150217755A1,2015-08-06,Vehicle energy management system and method
+    JP2009143563A,2009-07-02,Hybrid vehicle
+    EP3566919B1,2020-12-09,Speed change control system for vehicle
+    US9676294B2,2017-06-13,Method of managing available operating regions within operating states in an electric powertrain
+    JP2007261415A,2007-10-11,Control device for hybrid vehicle
+    US8527123B2,2013-09-03,Vehicle response system and method
+    US9067591B2,2015-06-30,Hybrid vehicle propel-charge bias control method
+    US9545849B2,2017-01-17,Vehicle system and method for adapting lift pedal regeneration
+    US10099683B2,2018-10-16,Method and apparatus for controlling a hybrid powertrain system
+    US8924108B2,2014-12-30,Method of managing available operating states in an electric vehicle powertrain
+    KR102371015B1,2022-03-04,Method for controlling hybrid electric vehicle
+    US20150120173A1,2015-04-30,System and method for controlling a powertrain in a vehicle
+    JP5359937B2,2013-12-04,Hybrid vehicle
+    JP2005170143A,2005-06-30,Drive control device for hybrid vehicle
+    JP2005094865A,2005-04-07,Hybrid vehicle and its system
+    JP2005163587A,2005-06-23,Hybrid vehicle
+    KR102331792B1,2021-11-29,Vehicle propulsion system and vehicle propulsion method
+    EP4249311A1,2023-09-27,A method for allocating power between electric machines in a powertrain of an electric vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+4
+    Application,Priority date,Filing date,Title
+    US14/549,615,2014-11-21,2014-11-21,Method of managing available operating regions within operating states in an electric powertrain
+    DE102015119410.4A,2014-11-21,2015-11-11,METHOD FOR MANAGING AVAILABLE OPERATING REGIONS WITHIN OPERATING STATES IN AN ELECTRIC DRIVE TRAIN
+    CN201510815822.XA,2014-11-21,2015-11-23,Managing in electrified powertrain can be in the method for operating area in operating conditions
+
+inventor_number
+    4
+classfication_nums
+    43
+classfication_items
+223
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,4,5
+    B,6,0,L,1,1,/,1,2,3
+    B,6,0,L,1,1,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,0
+    B,6,0,W,1,0,/,1,0,1
+    B,6,0,W,1,0,/,1,0,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,0
+    B,6,0,W,1,0,/,1,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,2,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,1,0
+    B,6,0,L,2,2,7,0,/,1,4
+    B,6,0,L,2,2,7,0,/,1,4,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,6
+    B,6,0,W,2,7,1,0,/,0,6,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,6
+    B,6,0,W,2,7,1,0,/,0,6,6,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,0
+    B,6,0,W,2,7,1,0,/,1,0,3,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,0
+    B,6,0,W,2,7,1,0,/,1,0,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,2,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y,0,2,T,1,0,/,6,2,1,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y,0,2,T,1,0,/,7,0,7,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,4,1
+    Y,0,2,T,1,0,/,7,2,8,3
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,3
+
+application_events
+7
+    2014-11-21,Application filed by GM Global Technology Operations LLC
+    2014-11-21,Priority to US14/549,615
+    2016-05-26,Publication of US20160144740A1
+    2017-06-13,Application granted
+    2017-06-13,Publication of US9676294B2
+    Status,Active
+    2035-08-21,Adjusted expiration
+
+active_area
+3
+    U,S
+    D,E
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US14/549,615,2014-11-21,Method of managing available operating regions within operating states in an electric powertrain
+
+legal_event
+5
+    Date,Code,Title,Description
+    2014-11-21,AS,Assignment,Owner name: GM GLOBAL TECHNOLOGY OPERATIONS LLC, MICHIGANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:HEAP, ANTHONY H.;KIM, KEE YONG;WISE, JEREMY;REEL/FRAME:034316/0573Effective date: 20141028
+    2016-12-05,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2017-05-24,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2020-11-25,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

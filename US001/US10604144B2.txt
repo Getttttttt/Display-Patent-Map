@@ -1,0 +1,292 @@
+ID
+    US10604144B2
+citation_exist
+    Patent Citations (9)
+citation_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20030052650A1                      *,2001-09-18,2003-03-20,Nissan Motor Co., Ltd.,Hybrid electric vehicle with enhanced battery control
+    JP2012130213A,2010-12-17,2012-07-05,Daimler Ag,Electric vehicle control device
+    US20130204472A1                      *,2012-02-08,2013-08-08,Bendix Commercial Vehicle Systems Llc,Cruise control with braking activated brake regeneration
+    KR101655609B1,2014-12-11,2016-09-07,현대자동차주식회사,Method for controlling battery state of charge in hybrid electric vehicle
+    US20160368484A1                      *,2015-06-19,2016-12-22,Hyundai Motor Company,Method and device for controlling start time of engine in hybrid vehicle
+    JP6067218B2,2011-12-13,2017-01-25,株式会社デンソー,Control device for vehicle drive system
+    US20180290645A1                      *,2017-04-11,2018-10-11,Ford Global Technologies, Llc,Autonomous vehicle constant speed control system
+    US20180362042A1                      *,2017-06-14,2018-12-20,Honda Motor Co., Ltd.,Vehicle
+    US20190126906A1                      *,2017-10-27,2019-05-02,Ford Global Technologies, Llc,Vehicles with multiple high voltage batteries
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    US10828989B2                      *,2016-09-20,2020-11-10,Voith Patent Gmbh,Method for operating a hybrid vehicle
+    Family To Family Citations,,,,
+    KR102212791B1                      *,2019-12-05,2021-02-09,주식회사 현대케피코,Apparatus for controlling mild hybrid electric vehicle
+    JP7138143B2                      *,2020-08-21,2022-09-15,本田技研工業株式会社,vehicle controller
+    US20230063419A1                      *,2021-08-30,2023-03-02,Hyliion Inc.,System and method for managing performance of a vehicle based on terrain
+
+abstract
+    A method and an apparatus for controlling a hybrid electric vehicle are disclosed. The method includes: determining whether an uphill section is present on a driving route; calculating a regenerative braking amount at a downhill section following the uphill section; determining whether a state of charge (SOC) of a low voltage battery is equal to or greater than a first predetermined value at the time of entering the uphill section; determining whether an SOC of a high voltage battery is equal to or greater than a second predetermined value when the SOC of the low voltage battery is equal to or greater than the first predetermined value; and controlling the MHSG to generate auxiliary torque corresponding to the regenerative braking amount at the downhill section when the SOC of the high voltage battery is equal to or greater than the second predetermined value.
+title
+    Method and apparatus for controlling power of mild hybrid electric vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US10604144B2,2020-03-31,Method and apparatus for controlling power of mild hybrid electric vehicle
+    KR101836250B1,2018-03-08,Method and apparatus of controlling output voltage of dc converter for vehicle including driving motor
+    JP5691919B2,2015-04-01,Vehicle power control device
+    WO2013051104A1,2013-04-11,Electrical charging control apparatus and electrical charging method
+    JP2018509880A,2018-04-05,Method and apparatus for determining the value of the energy state of a battery in an automobile
+    CN102844956A,2012-12-26,Control device for electricity storage device and vehicle for mounting same
+    US11407316B2,2022-08-09,Vehicle travel control device
+    US20210402976A1,2021-12-30,Method of Controlling Generator for Vehicle
+    JP2010064499A,2010-03-25,Hybrid vehicle
+    JP2006304574A,2006-11-02,Power supply and its control method
+    JP2020083235A,2020-06-04,Vehicle control unit
+    US11312360B2,2022-04-26,Control system for vehicle
+    KR102451896B1,2022-10-06,Method for controlling driving of hybrid vehicle using dynamic traffic information
+    JP2011073611A,2011-04-14,Control device of hybrid vehicle
+    KR101876091B1,2018-07-06,System and Method for determining Regen Mode
+    CN105730434A,2016-07-06,Method for controlling of charge in hybrid vehicle
+    US20200198477A1,2020-06-25,Vehicular charging control system
+    JP5520625B2,2014-06-11,Control device for hybrid vehicle
+    US20190299971A1,2019-10-03,Control device of hybrid vehicle
+    US11654884B2,2023-05-23,Control device of vehicle
+    JP2018023243A,2018-02-08,Electric vehicle
+    JP6145998B2,2017-06-14,Control device for hybrid vehicle
+    CN111587196B,2023-07-07,Charge-discharge control device
+    JP7138142B2,2022-09-15,vehicle controller
+    JP2023117689A,2023-08-24,vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    31
+classfication_items
+173
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B,6,0,W,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B,6,0,K,6,/,4,8,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,9,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,0,2
+    B,6,0,W,4,0,/,0,6
+    B,6,0,W,4,0,/,0,7,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,4
+    B,6,0,W,2,5,5,0,/,1,4,2
+    B,6,0,W,2,5,5,0,/,2,0
+    B,6,0,W,2,5,5,0,/,4,0,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,2,/,0,0
+    B,6,0,W,2,5,5,2,/,1,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,2,/,0,0
+    B,6,0,W,2,5,5,2,/,2,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,4,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,6,/,0,0
+    B,6,0,W,2,5,5,6,/,1,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,6,/,0,0
+    B,6,0,W,2,5,5,6,/,4,5
+    B,6,0,W,2,5,5,6,/,5,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,0,4
+    Y,1,0,S,9,0,3,/,9,0,6
+
+application_events
+7
+    2017-12-06,Application filed by Hyundai Motor Co, Kia Motors Corp
+    2017-12-06,Assigned to KIA MOTORS CORPORATION, HYUNDAI MOTOR COMPANY
+    2019-05-16,Publication of US20190143958A1
+    2020-03-31,Application granted
+    2020-03-31,Publication of US10604144B2
+    Status,Active
+    2038-06-15,Adjusted expiration
+
+active_area
+2
+    D,E
+    U,S
+
+not_active_area
+1
+    K,R
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    KR10-2017-0153304,2017-11-16,
+    KR1020170153304A,2017-11-16,Method and appratus for controlling power of mild hybrid electric vehicle
+
+legal_event
+10
+    Date,Code,Title,Description
+    2017-12-06,AS,Assignment,Owner name: KIA MOTORS CORPORATION, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:JANG, HWA YONG;REEL/FRAME:044322/0246Effective date: 20171201Owner name: HYUNDAI MOTOR COMPANY, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:JANG, HWA YONG;REEL/FRAME:044322/0246Effective date: 20171201
+    2017-12-06,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2018-02-22,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2019-08-14,STPP,Information on status: patent application and granting procedure in general,Free format text: EX PARTE QUAYLE ACTION MAILED
+    2019-10-20,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO EX PARTE QUAYLE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2020-01-10,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2020-02-20,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT RECEIVED
+    2020-02-29,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2020-03-11,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

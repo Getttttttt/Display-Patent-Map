@@ -1,0 +1,177 @@
+ID
+    WO2014188652A1
+citation_exist
+    Patent Citations (7)
+citation_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2001231103A                      *,2000-02-16,2001-08-24,Mitsubishi Motors Corp,ハイブリッド電気自動車の表示装置
+    JP2008309544A                      *,2007-06-13,2008-12-25,Aisin Aw Co Ltd,情報提示装置、情報提示方法及びプログラム
+    JP2009089756A                      *,2007-10-04,2009-04-30,Honda Motor Co Ltd,小型電動車両
+    JP2011217509A                      *,2010-03-31,2011-10-27,Nissan Motor Co Ltd,電気自動車用表示装置及び表示方法
+    JP2012503468A                      *,2008-09-19,2012-02-02,ベター  プレイス  ，ゲーエムベーハー,電気自動車の操作システム及び方法
+    JP2012137400A                      *,2010-12-27,2012-07-19,Sumitomo Electric Ind Ltd,経路探索装置、経路探索方法及びコンピュータプログラム
+    JP2012181183A                      *,2011-02-09,2012-09-20,Denso Corp,情報通信システム、車載装置、及びセンタ装置
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN111024102A                      *,2018-10-09,2020-04-17,沈阳美行科技有限公司,交通工具可行驶范围的确定方法及装置
+    CN114407678A                      *,2022-02-17,2022-04-29,摩登汽车有限公司,车辆制动的控制方法及系统
+    Family To Family Citations,,,,
+    CN110738848B                      *,2019-10-09,2020-07-31,东南大学,一种考虑时变路阻信息的电动汽车导航方法
+
+abstract
+    同じ道を戻る走行の場合に、記憶させたポイントまで現在のバッテリ残量で戻れるか否かを表示してドライバ等に知らせることができる電気自動車の航続距離通知装置を提供する。　電気自動車は、航続距離通知装置1、ナビゲーション装置6、および下り坂でエネルギを回収可能な回生エネルギ装置3,4を備える。航続距離通知装置１は、所定ポイントでのバッテリ2の電力残量を検出するバッテリ残量検出手段と、往路中の勾配抵抗により回収した回収電力の絶対値を、同じ道での復路にて平地走行で必要と推定される推定平地走行必要電力に符号を変えて加算した推定必要量又はこれに相当する量と、バッテリ２の電力残量と、を考慮して、それ以上先に進むと帰りに所定のポイントまで戻れなくなることを判定する引き返し不可能判定手段と、引き返し不可能を判定したときに引き返し不可能に関する情報を通知する通知手段1b、1cと、を有する。
+title
+    電気自動車の航続距離通知装置
+similar_document
+26
+    Publication,Publication Date,Title
+    TWI424381B,2014-01-21,電動車的駕駛輔助方法及駕駛輔助系統
+    US8364388B2,2013-01-29,Traveling guidance system, traveling guidance method, and computer program
+    US8942919B2,2015-01-27,BEV routing system and method
+    JP4910612B2,2012-04-04,ハイブリッド車両とその制御方法
+    US8412476B2,2013-04-02,Travel support system, method, and program
+    JP4946713B2,2012-06-06,駐車位置判定装置、駐車位置判定方法及びコンピュータプログラム
+    US20160176413A1,2016-06-23,Driving assistance apparatus
+    US20130009765A1,2013-01-10,Methods and systems for determining a range limit based on a vehicle&#39;s energy source status
+    US9574889B2,2017-02-21,Apparatus and method for providing distance to empty of green vehicle
+    JP2014500697A,2014-01-09,充電ステーションまでのルート指定をするシステムおよび方法
+    US10266065B2,2019-04-23,Electric vehicle and control method for electric vehicle
+    CN102700426A,2012-10-03,电动汽车的行驶控制系统及行驶控制方法
+    CN105571602A,2016-05-11,用于选择路径的方法和装置
+    JP2009171646A,2009-07-30,電気自動車の節電制御装置及びそれを備える電気自動車
+    CN111196168B,2023-03-24,车辆的充电控制装置
+    CN109466537A,2019-03-15,车辆和用于控制车辆的方法
+    JP2013046494A,2013-03-04,電動車両の充電制御システム
+    WO2014188652A1,2014-11-27,電気自動車の航続距離通知装置
+    US9043068B2,2015-05-26,Display device of electric vehicle
+    KR101601485B1,2016-03-09,주행환경을 고려한 하이브리드 차량의 배터리 충전 제어방법 및 장치
+    JP2011160514A,2011-08-18,充電制御装置、充電制御方法、プログラム、および記録媒体
+    JP2015051685A,2015-03-19,エネルギ表示装置
+    JP2013075562A,2013-04-25,電動駆動車両
+    JP6597752B2,2019-10-30,車両用表示装置
+    JP5989506B2,2016-09-07,車両制御装置及びプログラム
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    12
+classfication_items
+73
+    G
+    G,0,1
+    G,0,1,C
+    G,0,1,C,2,1,/,0,0
+    G,0,1,C,2,1,/,2,6
+    G,0,1,C,2,1,/,3,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,2
+    B,6,0,L,2,2,4,0,/,6,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B,6,0,L,2,2,4,0,/,6,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,5,0
+    B,6,0,L,2,2,6,0,/,5,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,5,0
+    B,6,0,L,2,2,6,0,/,5,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+2
+    2014-04-11,Application filed by カルソニックカンセイ株式会社
+    2014-11-27,Publication of WO2014188652A1
+
+active_area
+1
+    W,O
+
+not_active_area
+1
+    J,P
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2013108742A,2013-05-23,電気自動車の航続距離通知装置
+    JP2013-108742,2013-05-23,
+
+legal_event
+4
+    Date,Code,Title,Description
+    2015-01-14,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 14800575Country of ref document: EPKind code of ref document: A1
+    2015-11-23,NENP,Non-entry into the national phase,Ref country code: DE
+    2016-06-15,122,Ep: pct application non-entry in european phase,Ref document number: 14800575Country of ref document: EPKind code of ref document: A1
+

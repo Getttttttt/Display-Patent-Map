@@ -1,0 +1,154 @@
+ID
+    WO2020158087A1
+citation_exist
+    Patent Citations (5)
+citation_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2001028804A                      *,1999-07-12,2001-01-30,Nissan Motor Co Ltd,車両用モータ制御装置
+    JP2008207739A                      *,2007-02-27,2008-09-11,Honda Motor Co Ltd,電動車両
+    JP2010088224A                      *,2008-09-30,2010-04-15,Mazda Motor Corp,電動車両のモータ制御方法および電動車両用駆動装置
+    JP2016217531A                      *,2015-11-19,2016-12-22,Ntn株式会社,車両の走行制御方法
+    JP2018046664A                      *,2016-09-14,2018-03-22,日立建機株式会社,電気駆動鉱山車両及びそのブレーキ操作ガイド方法
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    本発明は、左右個別に駆動する駆動輪の、左右の駆動輪の回転速度又は回転数が異なる場合にも、回生ブレーキの制動力を制御し、姿勢を安定にすることができる回生ブレーキシステムを提供する。本発明の回生ブレーキシステムは、左右個別に駆動する駆動輪を有する電気駆動車両に搭載されるものであって、駆動輪が、力行モードか回生モードかを判定する回生動作判定器と、右側駆動輪の回転速度又は回転数及び左側駆動輪の回転速度又は回転数を入力し、最大値を判定する最大値判定器と、最大値を入力し、消費する電気エネルギーを算出する消費電力制御器と、を有することを特徴とする。
+title
+    回生ブレーキシステム及び電気駆動車両
+similar_document
+26
+    Publication,Publication Date,Title
+    US6959971B2,2005-11-01,Vehicle braking apparatus
+    JP5263405B2,2013-08-14,スタンバイ四輪駆動車両の駆動制御装置
+    JP2004135471A,2004-04-30,車両の制御装置
+    JP2017118673A,2017-06-29,駆動装置の制御システム
+    JP2001238303A,2001-08-31,ハイブリッド電気自動車の回生制御装置
+    JP5596756B2,2014-09-24,電動車両
+    JP2010075036A,2010-04-02,電気自動車の制御装置
+    JP2010058579A,2010-03-18,ハイブリッド車両
+    CN107791885B,2020-08-18,Ecm系统的失效安全装置及其方法
+    US20170225684A1,2017-08-10,Wheel equipped with multiple hub motors
+    US10889188B2,2021-01-12,Drive control device for vehicle with independently driven wheels
+    JP6120010B2,2017-04-26,車両
+    JP2010241166A,2010-10-28,車両の四輪駆動制御装置及び四輪駆動制御方法
+    WO2020158087A1,2020-08-06,回生ブレーキシステム及び電気駆動車両
+    JP2011031698A,2011-02-17,ハイブリッド四輪駆動車の回生制動力制御装置
+    JP5245681B2,2013-07-24,駆動力制御装置
+    KR101927183B1,2018-12-10,차량용 모터 제어 장치 및 방법
+    WO2017013843A1,2017-01-26,車両用電源装置および車両用電源装置の制御方法
+    JPH08308016A,1996-11-22,ハイブリッド車の発電装置
+    JP2007296933A,2007-11-15,車両およびその制御方法
+    JP4236239B2,2009-03-11,車両の補機への供給電力制御装置
+    WO2012108001A1,2012-08-16,前後輪駆動車両用の駆動制御装置
+    JPH11168802A,1999-06-22,制動制御装置
+    JP2013183502A,2013-09-12,後輪電動駆動車の制動制御装置
+    JP5902041B2,2016-04-13,電気自動車の速度制御装置
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    10
+classfication_items
+61
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,4,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+2
+    2019-11-05,Application filed by 株式会社日立インダストリアルプロダクツ
+    2020-08-06,Publication of WO2020158087A1
+
+active_area
+2
+    J,P
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2019-012909,2019-01-29,
+    JP2019012909A,2019-01-29,回生ブレーキシステム及び電気駆動車両
+
+legal_event
+5
+    Date,Code,Title,Description
+    2020-09-16,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 19912724Country of ref document: EPKind code of ref document: A1
+    2021-07-30,NENP,Non-entry into the national phase,Ref country code: DE
+    2021-12-15,32PN,Ep: public notification in the ep bulletin as address of the adressee cannot be established,Free format text: NOTING OF LOSS OF RIGHTS PURSUANT TO RULE 112(1) EPC (EPO FORM 1205 DATED 20.10.2021)
+    2022-05-04,122,Ep: pct application non-entry in european phase,Ref document number: 19912724Country of ref document: EPKind code of ref document: A1
+

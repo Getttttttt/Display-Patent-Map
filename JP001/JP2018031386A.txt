@@ -1,0 +1,288 @@
+ID
+    JP2018031386A
+citation_exist
+    Patent Citations (15)
+citation_infor
+17
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPS6034501A                      *,1983-08-03,1985-02-22,Shoketsu Kinzoku Kogyo Co Ltd,空気圧アクチュエータの制御方法及び装置
+    JP2014163419A                      *,2013-02-22,2014-09-08,Kochi Univ Of Technology,エネルギー回収装置およびエネルギー回収方法
+    JP2014169763A                      *,2013-03-05,2014-09-18,Kochi Univ Of Technology,脈動抑制機構
+    JP2016148392A                      *,2015-02-12,2016-08-18,株式会社神戸製鋼所,建設機械の油圧制御装置
+    Family To Family Citations,,,,
+    US7905088B2                      *,2006-11-14,2011-03-15,Incova Technologies, Inc.,Energy recovery and reuse techniques for a hydraulic system
+    US9279236B2                      *,2012-06-04,2016-03-08,Caterpillar Inc.,Electro-hydraulic system for recovering and reusing potential energy
+    JP6052980B2                      *,2012-11-07,2016-12-27,Ｋｙｂ株式会社,ハイブリッド建設機械の制御システム
+    JP6114065B2                      *,2013-02-28,2017-04-12,Ｋｙｂ株式会社,建設機械及びコントローラ
+    JP6155159B2                      *,2013-10-11,2017-06-28,Ｋｙｂ株式会社,ハイブリッド建設機械の制御システム
+    JP2015137753A                      *,2014-01-24,2015-07-30,カヤバ工業株式会社,ハイブリッド建設機械の制御システム
+    JP2016098588A                      *,2014-11-25,2016-05-30,Ｋｙｂ株式会社,ハイブリッド建設機械の制御システム
+    JP2016109204A                      *,2014-12-05,2016-06-20,Ｋｙｂ株式会社,ハイブリッド建設機械の制御システム
+    JP6401668B2                      *,2015-06-29,2018-10-10,Ｋｙｂ株式会社,ハイブリッド建設機械の制御システム及び制御方法
+    JP6383879B2                      *,2015-09-29,2018-08-29,日立建機株式会社,作業機械の圧油エネルギ回生装置
+    JP2017210732A                      *,2016-05-23,2017-11-30,Ｋｙｂ株式会社,ハイブリッド建設機械の制御システム
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN114412885A                      *,2022-01-20,2022-04-29,中山大学·深圳,一种提高液压阀控缸系统机械柔顺性的方法及装置
+    Family To Family Citations,,,,
+    JP6586406B2                      *,2016-09-30,2019-10-02,日立建機株式会社,作業車両
+
+abstract
+    【課題】アクチュエータから排出される作動流体の流量を制御しながら、作動流体のエネルギーを回生させることが可能なエネルギー回生装置、およびこれを備えた作業機械を提供する。【解決手段】回生装置１００は、ブームシリンダ２０と、慣性流体容器１０２と、油タンク１１０と、アキュムレータ１０５と、低圧側開閉器１０３と、高圧側開閉器１０４と、を備える。演算部は、ブームシリンダ２０から排出される作動油の目標流量に応じて、低圧側開閉器１０３および高圧側開閉器１０４の開閉用のデューティ比を演算する。回生制御部は、演算されたデューティ比に基づいて慣性流体容器１０２の連通先を低圧側開閉器１０３と高圧側開閉器１０４との間で交互に切り替え、排出された作動油をアキュムレータ１０５に供給する。【選択図】図３
+title
+    エネルギー回生装置、およびこれを備えた作業機械
+similar_document
+23
+    Publication,Publication Date,Title
+    JP5928065B2,2016-06-01,制御装置及びこれを備えた建設機械
+    JP5388787B2,2014-01-15,作業機械の油圧システム
+    US9644339B2,2017-05-09,Damper operation control device and damper operation control method for working vehicle
+    CN104105888B,2016-08-24,工程机械
+    EP3578830B1,2022-09-07,Construction machine
+    JP2010101365A,2010-05-06,作業機械における油圧制御システム
+    KR20180035640A,2018-04-06,작업 기계의 유압 구동 장치
+    JP2010230039A,2010-10-14,流体圧回路
+    WO2018037924A1,2018-03-01,エネルギー回生装置、およびこれを備えた作業機械
+    JP2009275775A,2009-11-26,流体圧シリンダ制御回路
+    JP2009275769A,2009-11-26,流体圧シリンダ制御回路
+    WO2018037925A1,2018-03-01,エネルギー回生装置、およびこれを備えた作業機械
+    US20200040547A1,2020-02-06,Work Machine
+    WO2018088145A1,2018-05-17,エネルギー回生装置、およびこれを備えた作業機械
+    JP2019031989A,2019-02-28,建設機械
+    JP6324186B2,2018-05-16,油圧駆動装置
+    JP2009275770A,2009-11-26,流体圧シリンダ制御回路
+    JP2008185182A,2008-08-14,作業機械における油圧制御システム
+    JP2021055289A,2021-04-08,建設機械の制御装置
+    JP2009275772A,2009-11-26,流体圧制御回路
+    JP2014084877A,2014-05-12,油圧駆動システム
+    JP2009275776A,2009-11-26,流体圧アクチュエータ制御回路
+
+patent_application
+    NoExist
+patent_priority_application
+5
+    Application,Priority date,Filing date,Title
+    JP2016161758A,2016-08-22,2016-08-22,エネルギー回生装置、およびこれを備えた作業機械
+    EP17843409.8A,2016-08-22,2017-08-09,Energy regeneration device and work machine provided with energy regeneration device
+    US16/323,326,2016-08-22,2017-08-09,Energy regeneration device and work machine provided with energy regeneration device
+    PCT/JP2017/028999,2016-08-22,2017-08-09,エネルギー回生装置、およびこれを備えた作業機械
+
+inventor_number
+    8
+classfication_nums
+    25
+classfication_items
+167
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,7,8
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,1,7
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F,1,5,B,1,1,/,0,2
+    F,1,5,B,1,1,/,0,4
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F,1,5,B,1,1,/,0,2
+    F,1,5,B,1,1,/,0,4
+    F,1,5,B,1,1,/,0,4,4
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,2,1
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,6,4
+    E,0,2,F,9,/,2,2,6,7
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,/,0,0
+    F,1,5,B,1,/,0,2
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F,1,5,B,1,1,/,0,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,1,/,0,0
+    F,1,5,B,2,1,/,0,8
+    F,1,5,B,2,1,/,0,8,7
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,1,/,0,0
+    F,1,5,B,2,1,/,1,4
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,0,1,/,0,0
+    F,1,5,B,2,2,0,1,/,5,0
+    F,1,5,B,2,2,0,1,/,5,1
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,3
+    F,1,5,B,2,2,1,1,/,2,0,5,4,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,2,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,0,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,0,6
+    F,1,5,B,2,2,1,1,/,6,3,0,9
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,0,6
+    F,1,5,B,2,2,1,1,/,6,3,1,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,4,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,6,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,6,5
+    F,1,5,B,2,2,1,1,/,6,6,5,4
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,0,5
+    F,1,5,B,2,2,1,1,/,7,0,5,1
+    F,1,5,B,2,2,1,1,/,7,0,5,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,5,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,8,0
+    F,1,5,B,2,2,1,1,/,8,8
+
+application_events
+7
+    2016-08-22,Application filed by Kobe Steel Ltd
+    2016-08-22,Priority to JP2016161758A
+    2018-03-01,Publication of JP2018031386A
+    2020-02-14,Application granted
+    2020-02-14,Publication of JP6646547B2
+    Status,Active
+    2036-08-22,Anticipated expiration
+
+active_area
+3
+    J,P
+    U,S
+    E,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2016161758A,2016-08-22,エネルギー回生装置、およびこれを備えた作業機械
+
+legal_event
+6
+    Date,Code,Title,Description
+    2018-12-03,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20181203
+    2019-12-11,TRDD,Decision of grant or rejection written,
+    2019-12-18,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20191218
+    2020-01-15,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20200110
+    2020-01-15,R150,Certificate of patent or registration of utility model,Ref document number: 6646547Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R150
+

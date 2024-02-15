@@ -1,0 +1,239 @@
+ID
+    US20180222500A1
+citation_exist
+    Patent Citations (12)
+citation_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    WO2005084335A2                      *,2004-03-01,2005-09-15,Railpower Technologies Corp.,Cabless hybrid locomotive
+    Family To Family Citations,,,,
+    JP3707237B2                      *,1998-04-02,2005-10-19,富士電機システムズ株式会社,Power regeneration inverter device
+    JP3557952B2                      *,1999-07-22,2004-08-25,株式会社日立製作所,Train control system
+    EP1864849A1                      *,2006-05-19,2007-12-12,Siemens Transportation System S.A.S.,Energy control system for a vehicle
+    FR2915435B1                      *,2007-04-25,2009-08-07,Alstom Transport Sa,SYSTEM, SUBSTATION AND METHOD FOR RECOVERING THE BRAKING ENERGY OF RAILWAY VEHICLES, RAILWAY VEHICLES FOR THIS SYSTEM.
+    US20110144831A1                      *,2008-09-03,2011-06-16,Mitsubishi Electric Corporation,Power supply control system and power supply control method
+    ES2392079B1                      *,2011-03-31,2013-11-04,Administrador De Infraestructuras Ferroviarias (Adif),BATTERY CHARGING CONTROL SYSTEM AND PROCEDURE FROM THE RAILWAY ELECTRICAL SYSTEM.
+    DE102011121162A1                      *,2011-12-14,2013-06-20,Siemens Aktiengesellschaft,Method for optimized operation of an electrically driven rail vehicle on a predetermined route
+    US9180790B2                      *,2012-02-22,2015-11-10,Mitsubishi Electric Corporation,DC feeder voltage control apparatus and DC feeder voltage control system
+    FR2987589B1                      *,2012-03-05,2014-04-11,Alstom Transport Sa,ELECTRIC RAILWAY NETWORK AND ASSOCIATED ENERGY EXCHANGE METHOD.
+    CN104540714B                      *,2012-08-14,2017-05-10,三菱电机株式会社,Train-information management device and device control method
+    JP6080787B2                      *,2014-03-07,2017-02-15,三菱電機株式会社,DC feeding voltage control device, DC feeding voltage control system, and DC feeding voltage control method
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (5)
+              
+
+
+citedBy_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN113442731A                      *,2021-08-31,2021-09-28,通号城市轨道交通技术有限公司,Intelligent train control method and device based on regenerative braking energy and electronic equipment
+    US11208125B2                      *,2016-08-08,2021-12-28,Transportation Ip Holdings, Llc,Vehicle control system
+    Family To Family Citations,,,,
+    FR3031849B1                      *,2015-01-16,2017-02-17,Alstom Transp Tech,POWER SUPPLY CONVERTER AND / OR SUBSTATION FOR RECOVERING BRAKING ENERGY
+    FR3081235B1                      *,2018-05-15,2020-06-12,Sncf Mobilites,METHOD AND SYSTEM FOR REGULATING THE TOTAL INSTANTANEOUS ELECTRIC POWER CONSUMED BY A FLEET OF RAIL VEHICLES
+    CN109532570B                      *,2019-01-09,2023-04-28,西南交通大学,Three-phase power supply control system of short stator train
+
+abstract
+    The present invention concerns a method and system for reducing the electric power consumption of a railway system comprising at least one catenary, trains and at least one substation connected to sections of catenary and providing electric power to the catenary, wherein during the braking of the trains, the braking trains provide electric power to the catenary. The substation is associated to one device for reducing the electric power consumption and the invention:
+title
+    System and method for reducing the electric power consumption of railway system
+similar_document
+20
+    Publication,Publication Date,Title
+    US10195955B2,2019-02-05,System and method for reducing the electric power consumption of railway system
+    KR101478717B1,2015-01-05,System, sub-station and method for recovering brake energy of rail vehicles, rail vehicles for this system
+    US9180790B2,2015-11-10,DC feeder voltage control apparatus and DC feeder voltage control system
+    RU2686605C1,2019-04-29,Locomotive regenerative power supply system with feedback and anti-icing function and control method
+    JP5082450B2,2012-11-28,Power supply equipment
+    EP2860058B1,2018-02-28,Electric vehicle control device
+    US10166885B2,2019-01-01,Method and device for controlling voltage of catenary supplying electric power to rolling stocks
+    EP2181883A1,2010-05-05,Controller for ac electric train
+    EP3556604B1,2021-07-28,Station building power supply device
+    US9707862B2,2017-07-18,Power management apparatus and power management system
+    JP2008074354A,2008-04-03,Section part overhead wire breakage preventive device
+    JP2013159174A,2013-08-19,Control system and control method for self-excited rectifier used for feeding substation of dc electric railroad
+    JP2011155716A,2011-08-11,Power storage device of dc electric railway
+    EP2899055B1,2017-03-15,Method and a device for controlling the voltage of a catenary supplying electric power to rolling stock
+    JP7120853B2,2022-08-17,Power supply system and power supply method
+    CN111071875A,2020-04-28,Decentralized power management in an elevator system
+    JP7116581B2,2022-08-10,Feeder device and feeder system
+    JP6597168B2,2019-10-30,Control method and control device for regenerative inverter for electric railway
+    SE517050C2,2002-04-09,Installation and method of transmission of electrical power
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    24
+classfication_items
+122
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,3,2
+    B,6,0,L,1,5,/,3,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,5,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,9,/,0,0
+    B
+    B,6,0
+    B,6,0,M
+    B,6,0,M,3,/,0,0
+    B,6,0,M,3,/,0,4
+    B
+    B,6,0
+    B,6,0,M
+    B,6,0,M,3,/,0,0
+    B,6,0,M,3,/,0,6
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,2,7,/,0,0
+    B,6,1,L,2,7,/,1,0
+    B,6,1,L,2,7,/,1,6
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,2,7,/,0,0
+    B,6,1,L,2,7,/,4,0
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,3,/,0,0
+    B,6,1,L,3,/,0,0,6
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,3,/,0,0
+    B,6,1,L,3,/,1,6
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,3,/,0,0
+    B,6,1,L,3,/,1,6
+    B,6,1,L,3,/,1,8
+    G
+    G,0,1
+    G,0,1,R
+    G,0,1,R,1,9,/,0,0
+    G,0,1,R,1,9,/,1,0
+    G
+    G,0,1
+    G,0,1,R
+    G,0,1,R,1,9,/,0,0
+    G,0,1,R,1,9,/,1,4
+    G
+    G,0,1
+    G,0,1,R
+    G,0,1,R,1,9,/,0,0
+    G,0,1,R,1,9,/,1,4,5
+    G,0,1,R,1,9,/,1,5
+    G
+    G,0,1
+    G,0,1,R
+    G,0,1,R,1,9,/,0,0
+    G,0,1,R,1,9,/,1,6,5
+    G
+    G,0,1
+    G,0,1,V
+    G,0,1,V,3,/,0,0
+    G,0,1,V,3,/,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,7,0
+    B,6,1,L,2,7,/,0,0,7,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,3,0,/,0,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+8
+    2016-08-31,Application filed by Mitsubishi Electric Corp
+    2018-02-05,Assigned to MITSUBISHI ELECTRIC R&D CENTRE EUROPE B.V.
+    2018-02-05,Assigned to MITSUBISHI ELECTRIC CORPORATION
+    2018-08-09,Publication of US20180222500A1
+    2019-02-05,Application granted
+    2019-02-05,Publication of US10195955B2
+    Status,Active
+    2036-08-31,Anticipated expiration
+
+active_area
+5
+    E,P
+    U,S
+    W,O
+    J,P
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+5
+    Application,Filing date,Title
+    EP15187572.1,2015-09-30,
+    EP15187572,2015-09-30,
+    EP15187572.1A,2015-09-30,Method and a system for reducing the energy consumption of railway systems
+    PCT/JP2016/003984,2016-08-31,System and method for reducing the electric power consumption of railway system
+
+legal_event
+5
+    Date,Code,Title,Description
+    2018-02-02,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2018-02-05,AS,Assignment,Owner name: MITSUBISHI ELECTRIC R&D CENTRE EUROPE B.V., NETHERFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:VOYER, NICOLAS;REEL/FRAME:044833/0735Effective date: 20171211Owner name: MITSUBISHI ELECTRIC CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:MITSUBISHI ELECTRIC R&D CENTRE EUROPE B.V.;REEL/FRAME:044833/0738Effective date: 20171211
+    2019-01-16,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2022-07-20,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

@@ -1,0 +1,223 @@
+ID
+    JP2011166992A
+citation_exist
+    NoCitation
+citation_infor
+    NoCitation
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (16)
+              
+
+
+citedBy_infor
+18
+    Publication number,Priority date,Publication date,Assignee,Title
+    WO2013035171A1                      *,2011-09-07,2013-03-14,パイオニア株式会社,送電装置
+    WO2013098975A1                      *,2011-12-27,2013-07-04,富士通株式会社,無線電力供給装置、無線電力供給システム及び無線電力供給方法
+    JP2013243908A                      *,2012-04-26,2013-12-05,Semiconductor Energy Lab Co Ltd,給電システム及び給電方法
+    JP2015006096A                      *,2013-06-21,2015-01-08,ルネサスエレクトロニクス株式会社,非接触充電システムおよび非接触充電方法
+    JPWO2013098975A1                      *,2011-12-27,2015-04-30,富士通株式会社,無線電力供給装置、無線電力供給システム及び無線電力供給方法
+    WO2016014181A1                      *,2014-07-25,2016-01-28,Qualcomm Incorporated,Devices, systems, and method for dynamic electric vehicle charging with position detection
+    JP2016220353A                      *,2015-05-18,2016-12-22,株式会社テクノバ,非接触給電システム
+    WO2017080619A1                      *,2015-11-13,2017-05-18,Volvo Truck Corporation,A method for controlling electrical charging of a vehicle
+    JP2017147822A                      *,2016-02-16,2017-08-24,Tdk株式会社,ワイヤレス電力伝送システム
+    JP2017163641A                      *,2016-03-07,2017-09-14,古河電気工業株式会社,送受電システムおよび送電装置
+    US10065515B2,2014-03-04,2018-09-04,Technova Inc.,System for wirelessly supplying power during moving
+    JP2020191730A                      *,2019-05-22,2020-11-26,株式会社デンソー,非接触給電システム及びその制御方法
+    WO2021240402A1                      *,2020-05-27,2021-12-02,Toyota Jidosha Kabushiki Kaisha,Systems and methods for wireless vehicle power transfer and misalignment estimation
+    WO2022254954A1                      *,2021-05-31,2022-12-08,株式会社デンソー,給電システム
+    JP7266209B2,2019-05-27,2023-04-28,株式会社デンソー,無線給電システム
+    EP2923428B1                      *,2012-11-12,2023-08-30,Auckland UniServices Limited,Vehicle or moving object detection
+    Family To Family Citations,,,,
+
+abstract
+    【課題】共鳴法を用いて走行中の車両へ効率的に送電可能な給電装置を簡易な構成で提供する。【解決手段】各給電装置１００において、高周波電力ドライバ１２０と一次コイル１３０との間に電力センサ１５０が設けられる。電力センサ１５０は、高周波電力ドライバ１２０と一次コイル１３０との間に発生する反射波電力を測定する。各給電装置１００において、ＥＣＵ１６０は、電力センサ１５０によって測定された反射波電力に基づいて高周波電力ドライバ１２０を制御する。ＥＣＵ１６０は、反射波電力が規定値よりも小さいときは、給電装置１００から出力される送電電力が微弱となるように高周波電力ドライバ１２０を制御する。【選択図】図５
+title
+    給電装置
+similar_document
+24
+    Publication,Publication Date,Title
+    JP2011166992A,2011-08-25,給電装置
+    JP5083480B2,2012-11-28,非接触給電設備、車両および非接触給電システムの制御方法
+    EP2716489B1,2018-11-21,Vehicle and power transmission/reception system
+    US20180257493A1,2018-09-13,Electric power reception device for vehicle, electric power transmission device, and non-contact electric power transmission/reception system
+    CN104620470B,2017-08-11,非接触供电系统以及在该系统中使用的送电装置和车辆
+    US9902271B2,2018-02-27,Power feeding system for vehicle, electrically powered vehicle and power feeding apparatus for vehicle
+    US9666359B2,2017-05-30,Vehicle, power receiving device, power transmitting device, and contactless power supply system
+    CN102971939B,2015-11-25,电压检测器、异常检测装置、非接触输电装置、非接触受电装置以及车辆
+    US9634733B2,2017-04-25,Contactless power feeding system, vehicle, power feeding facility and method of controlling contactless power feeding system
+    US9673664B2,2017-06-06,Wireless power reception apparatus, wireless power transmission apparatus, and wireless power transmission and reception system
+    US20120098330A1,2012-04-26,Coil unit, noncontact power receiving apparatus, noncontact power transmitting apparatus, noncontact power feeding system, and vehicle
+    US20140191586A1,2014-07-10,Wireless power transmission apparatus, wireless power reception apparatus, and wireless power transmission and reception system
+    KR101634889B1,2016-06-29,차량용 수전 장치 및 그것을 구비하는 차량, 급전 설비 및 전력 전송 시스템
+    KR20140117587A,2014-10-07,차량용 수전 장치, 급전 설비 및 전력 전송 시스템
+    WO2014041410A2,2014-03-20,Vehicle and contactless power supply system
+    US9254756B2,2016-02-09,Power supply device and power supply method
+    CN103250325A,2013-08-14,非接触供电设备
+    JP2011167036A,2011-08-25,車両用給電装置および受電装置
+    KR20140005355A,2014-01-14,차량, 전기 기기 및 전력 송수전 시스템
+    JP2010073885A,2010-04-02,共鳴コイルおよび非接触給電システム
+    JP5287115B2,2013-09-11,車両の受電制御装置およびそれを備える車両
+    RU2461946C1,2012-09-20,Устройство бесконтактного получения энергии и транспортное средство, содержащее такое устройство
+    JP2011166931A,2011-08-25,受電装置およびそれを備える車両
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    JP2010028814A,2010-02-12,2010-02-12,給電装置
+
+inventor_number
+    10
+classfication_nums
+    19
+classfication_items
+117
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,1,0
+    B,6,0,L,5,3,/,1,2
+    B,6,0,L,5,3,/,1,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,3,0
+    B,6,0,L,5,3,/,3,5
+    B,6,0,L,5,3,/,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,3,0
+    B,6,0,L,5,3,/,3,5
+    B,6,0,L,5,3,/,3,8
+    B,6,0,L,5,3,/,3,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,6,0
+    B,6,0,L,5,3,/,6,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+    Y,0,2,T,9,0,/,1,6,7
+    Y
+    Y,0,4
+    Y,0,4,S
+    Y,0,4,S,3,0,/,0,0
+    Y,0,4,S,3,0,/,1,0
+    Y,0,4,S,3,0,/,1,4
+
+application_events
+4
+    2010-02-12,Application filed by Toyota Motor Corp
+    2010-02-12,Priority to JP2010028814A
+    2011-08-25,Publication of JP2011166992A
+    Status,Withdrawn
+
+active_area
+0
+
+not_active_area
+1
+    J,P
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2010028814A,2010-02-12,給電装置
+
+legal_event
+2
+    Date,Code,Title,Description
+    2013-05-07,A300,Application deemed to be withdrawn because no request for examination was validly filed,Free format text: JAPANESE INTERMEDIATE CODE: A300Effective date: 20130507
+

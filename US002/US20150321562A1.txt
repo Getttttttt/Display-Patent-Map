@@ -1,0 +1,226 @@
+ID
+    US20150321562A1
+citation_exist
+    Patent Citations (15)
+citation_infor
+17
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20070247106A1                      *,2006-04-06,2007-10-25,Hitachi, Ltd.,Hybrid vehicle control system and method
+    US20100000809A1                      *,2006-08-01,2010-01-07,Yuji Nishi,Charge/discharge control device for secondary battery and hybrid vehicle using the same
+    US20100085014A1                      *,2008-10-03,2010-04-08,Fujitsu Limited,Battery unit, battery system, electronic device, charging control method of battery, and discharging control method of battery
+    US20110208383A1                      *,2008-10-31,2011-08-25,Masaya Yamamoto,Electric powered vehicle and control method for the same
+    US20110305925A1                      *,2010-06-09,2011-12-15,Hun-Tae Ro,Battery pack and method of controlling the same
+    US20130154360A1                      *,2010-08-24,2013-06-20,Suzuki Motor Corporation,Electric-powered vehicle
+    US20150375959A1                      *,2013-02-14,2015-12-31,Otis Elevator Company,Elevator car speed control in a battery powered elevator system
+    Family To Family Citations,,,,
+    JP4096261B2                      *,2003-12-05,2008-06-04,富士電機システムズ株式会社,Battery protection system
+    JP2006312352A                      *,2005-05-06,2006-11-16,Toyota Motor Corp,Control device for driving system
+    JP4803810B2                      *,2006-08-25,2011-10-26,本田技研工業株式会社,Small electric vehicle
+    JP5456263B2,2007-05-02,2014-03-26,日産自動車株式会社,Drive control apparatus for hybrid vehicle
+    JP5374934B2                      *,2008-06-20,2013-12-25,トヨタ自動車株式会社,Travel control device
+    JP2010220323A                      *,2009-03-13,2010-09-30,Toshiba Corp,Secondary battery pack and motor control system
+    JP2010233367A                      *,2009-03-27,2010-10-14,Fuji Electric Systems Co Ltd,Control system of electric promoting system
+    JPWO2012004842A1                      *,2010-07-05,2013-09-02,パイオニア株式会社,Driving operation support device and driving operation support method
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    US11661060B1                      *,2022-07-06,2023-05-30,Hyster-Yale Group, Inc.,Direction-of-travel-based inhibition of speed control based on truck-to-truck proximity detection
+    Family To Family Citations,,,,
+    JP6325431B2                      *,2014-12-22,2018-05-16,住友ナコ フォ−クリフト株式会社,Vehicle for cargo handling work
+    JP6547410B2                      *,2015-05-19,2019-07-24,日産自動車株式会社,Vehicle driving force control device
+    JP6555114B2                      *,2015-12-17,2019-08-07,株式会社豊田自動織機,Battery pack
+
+abstract
+    The present application relates to a vehicle and a method of limiting a vehicle speed during evacuation running designed to prevent a normal battery block from being overcharged by regenerative electric power during evacuation running, in which a vehicle driven by a parallely connected battery blocks runs under a condition in which some abnormal battery blocks are separated. The method may include determining whether a vehicle is performing evacuation running, calculating receivable regenerative electric power for the battery blocks used for running of the vehicle, calculating a limit speed of the vehicle according to the receivable regenerative electric power, and limiting the speed of the vehicle to the limit speed or to a speed lower than the limit speed.
+title
+    Method of limiting vehicle speed during evacuation running, and vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US10454283B2,2019-10-22,Battery system monitoring apparatus and electric storage device including the same
+    US9840161B2,2017-12-12,Circuit and method for detection of battery cell degradation events
+    EP2857854B1,2019-05-08,Cell control device
+    JP5618609B2,2014-11-05,Battery control device
+    US9590432B2,2017-03-07,Battery control device comprising a plurality of cell controllers and being capable of determining whether a cell controller is operating abnormally
+    KR101343963B1,2013-12-20,Control method and control device for electrical storage device
+    US20110148361A1,2011-06-23,Battery system and method for detecting current restriction state in a battery system
+    EP2343558A2,2011-07-13,Battery system and method for detecting internal short circuit in battery system
+    US9680320B2,2017-06-13,Battery control apparatus
+    JP2005269752A,2005-09-29,Power supply device of hybrid car
+    US20170219657A1,2017-08-03,Online battery capacity estimation utilizing passive balancing
+    US20160089999A1,2016-03-31,Circuit and Method for Detection of Battery Cell Drain
+    US20150321562A1,2015-11-12,Method of limiting vehicle speed during evacuation running, and vehicle
+    JP2016226110A,2016-12-28,Charging control device for vehicle
+    US9533573B2,2017-01-03,Apparatus and method for driving vehicle
+    JP6610507B2,2019-11-27,Battery system
+    US9634500B2,2017-04-25,Storage battery system
+    EP3468830B1,2020-05-27,A method and a device for controlling the operation of an energy storage system in a vehicle
+    JP2012054019A,2012-03-15,Battery
+    JP2011072096A,2011-04-07,Power supply device for vehicle and vehicle mounted with this power supply device
+    EP3013627B1,2019-10-09,Battery arrangement for electrically powered industrial vehicle
+    CN112512855A,2021-03-16,System for a drive energy accumulator for a hybrid or electric vehicle and method for charging a drive energy accumulator for a hybrid or electric vehicle
+    JP2009290984A,2009-12-10,Charge/discharge controller for vehicle battery
+    US10283980B2,2019-05-07,Electrical storage system
+    JP5978144B2,2016-08-24,Battery system
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    7
+classfication_nums
+    18
+classfication_items
+108
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,8,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,4,0
+    B,6,0,L,2,2,0,0,/,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+4
+    2013-09-05,Application filed by Toyota Industries Corp
+    2015-07-15,Assigned to KABUSHIKI KAISHA TOYOTA JIDOSHOKKI
+    2015-11-12,Publication of US20150321562A1
+    Status,Abandoned
+
+active_area
+3
+    J,P
+    C,N
+    W,O
+
+not_active_area
+2
+    E,P
+    U,S
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2013-013238,2013-01-28,
+    JP2013013238A,2013-01-28,Speed control method for retreat traveling, and vehicle
+    PCT/JP2013/073955,2013-09-05,Method for limiting vehicle speed at time of evasive travel, and vehicle
+
+legal_event
+3
+    Date,Code,Title,Description
+    2015-07-15,AS,Assignment,Owner name: KABUSHIKI KAISHA TOYOTA JIDOSHOKKI, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:NOMURA, HIROYUKI;MATSUI, TADASUMI;NISHIGAKI, KENJI;AND OTHERS;SIGNING DATES FROM 20150703 TO 20150713;REEL/FRAME:036099/0021
+    2017-01-23,STCB,Information on status: application discontinuation,Free format text: ABANDONED  --  FAILURE TO PAY ISSUE FEE
+

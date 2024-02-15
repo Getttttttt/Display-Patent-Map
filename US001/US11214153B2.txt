@@ -1,0 +1,352 @@
+ID
+    US11214153B2
+citation_exist
+    Patent Citations (8)
+citation_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH07135797A,1993-11-09,1995-05-23,Takao Kawabata,Inverter device
+    US20060164028A1,2005-01-26,2006-07-27,Brian Welchko,Double-ended inverter drive system topology for a hybrid vehicle
+    US20130328527A1,2012-06-12,2013-12-12,Hyundai Mobis Co., Ltd.,Apparatus for bidirectional electric power supply between electric vehicle and smart grid and method of bidirectionally supplying electric power employing the same
+    US20140265942A1                      *,2013-03-15,2014-09-18,General Electric Company,Electric vehicle with improved electric drive system
+    JP2016063724A,2014-09-22,2016-04-25,トヨタ自動車株式会社,vehicle
+    JP2016082619A,2014-10-10,2016-05-16,株式会社デンソー,Motor drive device
+    US20190252994A1,2016-11-08,2019-08-15,Denso Corporation,Driving system
+    Family To Family Citations,,,,
+    JP2004236424A                      *,2003-01-30,2004-08-19,Toyota Motor Corp,Power output device, motor driving method, and recording medium of program for making computer perform motor drive control and readable by computer
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (2)
+              
+
+
+citedBy_exist
+    
+              Cited By (12)
+              
+
+
+citedBy_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP6696408B2,2016-11-08,2020-05-20,株式会社デンソー,Drive system
+    US11482948B2                      *,2017-06-13,2022-10-25,The Governing Council Of The University Of Toronto,Systems and methods for an on-board fast charger
+    JP7035684B2                      *,2018-03-22,2022-03-15,株式会社デンソー,system
+    JP6793156B2                      *,2018-06-29,2020-12-02,株式会社Ｓｕｂａｒｕ,Vehicle power supply
+    CN109703384B                      *,2018-12-29,2023-08-29,苏州唯控汽车科技有限公司,Single-phase charging and three-phase inversion driving interlocking device of modularized vehicle battery system
+    US11787277B2                      *,2019-08-27,2023-10-17,Sew-Eurodrive Gmbh & Co. Kg,Drive and method for operating a drive
+    WO2021054958A1                      *,2019-09-19,2021-03-25,Bae Systems Controls Inc.,Redundant, fault tolerant traction drive axle for vehicle
+    JP2021197863A                      *,2020-06-17,2021-12-27,株式会社東芝,Power conversion device, substation power supply device, and regenerative power storage device
+    CN112234909A                      *,2020-10-15,2021-01-15,宝能(广州)汽车研究院有限公司,Motor control circuit and motor protection control method of electric vehicle and electric vehicle
+    JP2022092106A                      *,2020-12-10,2022-06-22,本田技研工業株式会社,Electrical power system
+    KR20220164343A                      *,2021-06-04,2022-12-13,현대자동차주식회사,Motor driving apparatus and method for controlling the same
+    DE102021212208A1                      *,2021-10-28,2023-05-04,Robert Bosch Gesellschaft mit beschränkter Haftung,Method for operating two electrical machines in a drive train of a vehicle
+
+abstract
+    A driving system includes a first alternating-current rotary electrical machine and a second alternating-current rotary electrical machine. The driving system includes: a first inverter electrically connected to the first alternating-current rotary electrical machine; a second inverter electrically connected to a first end of each of phase windings constituting the second alternating-current rotary electrical machine; a step-up converter; and a third inverter that is electrically connected to a second end of each of the phase windings and transfers power to a second direct-current power source different from the first direct-current power source to drive the second alternating-current rotary electrical machine. The step-up converter raises an output voltage of the first direct-current power source and outputs the output voltage to the first inverter and the second inverter. The second direct-current power source and the first alternating-current rotary electrical machine are connected by a single connection route.
+title
+    Driving system
+similar_document
+26
+    Publication,Publication Date,Title
+    US11214153B2,2022-01-04,Driving system
+    CN102130626B,2015-02-04,Variable voltage converter (VVC) with integrated battery charger
+    CN101432175B,2012-12-12,Internal combustion engine stop control device and stop control method
+    JP4793237B2,2011-10-12,Secondary battery charge / discharge control device and vehicle equipped with the same
+    CN106026318B,2019-12-31,Device for transferring energy using on-board power electronics with high-frequency transformer isolation and method for manufacturing same
+    US8222866B2,2012-07-17,Electrically-powered vehicle
+    JP5267740B1,2013-08-21,Vehicle power system
+    JP6924061B2,2021-08-25,Traction system
+    US7609022B2,2009-10-27,Power supply system for vehicle with improved energy efficiency and vehicle including the same
+    US8039987B2,2011-10-18,Power source device and vehicle with power source device
+    US7755306B2,2010-07-13,Electric power control device, electric powered vehicle including the same, and method for controlling electric power of electric vehicle
+    US10836264B2,2020-11-17,Drive system
+    EP1953031A1,2008-08-06,Charging device, motor-driven vehicle, and charging system
+    WO2010050038A1,2010-05-06,Power supply system for electric vehicle and control method for the same
+    WO2007142165A1,2007-12-13,Vehicle drive system and vehicle equipped with it
+    US20170187316A1,2017-06-29,Power supply system
+    CN101357593A,2009-02-04,Charging energy sources with a rectifier using double-ended inverter system
+    CN101888938A,2010-11-17,Drive apparatus, and drive-force output system having drive apparatus, and method for controlling the drive apparatus
+    JP2007244124A,2007-09-20,Power system for vehicle drive
+    JP2007274785A,2007-10-18,Power system for vehicle drive
+    JP2009194986A,2009-08-27,Charger for vehicles
+    JP2010115050A,2010-05-20,Power supply system for vehicle
+    CN108482102B,2022-11-04,Hybrid power driving system
+    US20170203666A1,2017-07-20,Battery charging system and servicing method
+    CN110626183A,2019-12-31,Isolated dual bus hybrid vehicle powertrain system
+
+patent_application
+2
+    Application,Priority date,Filing date,Relation,Title
+    US16/396,824,2016-11-08,2019-04-29,Division,Driving system
+
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US17/159,688,2016-11-08,2021-01-27,Driving system
+
+inventor_number
+    2
+classfication_nums
+    33
+classfication_items
+216
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,4
+    B,6,0,K,6,/,4,4,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,4
+    B,6,0,K,6,/,4,4,5
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,5,0
+    B,6,0,K,6,/,5,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,9,/,0,0
+    B,6,0,L,9,/,1,6
+    B,6,0,L,9,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,4
+    B,6,0,W,1,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,3,/,0,0
+    H,0,2,J,3,/,3,8
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,1,4
+    H,0,2,J,7,/,1,4,2,3
+    H
+    H,0,2
+    H,0,2,K
+    H,0,2,K,4,7,/,0,0
+    H,0,2,K,4,7,/,0,2
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,1,/,0,0
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H,0,2,M,3,/,0,2
+    H,0,2,M,3,/,0,4
+    H,0,2,M,3,/,1,0
+    H,0,2,M,3,/,1,4,5
+    H,0,2,M,3,/,1,5,5
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H,0,2,M,3,/,0,2
+    H,0,2,M,3,/,0,4
+    H,0,2,M,3,/,1,0
+    H,0,2,M,3,/,1,4,5
+    H,0,2,M,3,/,1,5,5
+    H,0,2,M,3,/,1,5,6
+    H,0,2,M,3,/,1,5,8
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,0,2
+    H,0,2,M,7,/,0,4
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,4,2
+    H,0,2,M,7,/,4,4
+    H,0,2,M,7,/,4,8
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,4,2
+    H,0,2,M,7,/,4,4
+    H,0,2,M,7,/,4,8
+    H,0,2,M,7,/,5,3
+    H,0,2,M,7,/,5,3,7
+    H,0,2,M,7,/,5,3,8,7
+    H,0,2,M,7,/,5,3,8,7,1
+    H,0,2,M,7,/,5,3,8,7,5
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,0,0,0,3
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,0,0,4,8
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,0,0,6,7
+    H,0,2,M,1,/,0,0,7
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,0,0,6,7
+    H,0,2,M,1,/,0,0,8
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,0,0,8,3
+    H,0,2,M,1,/,0,0,9
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H,0,2,M,3,/,2,2
+    H,0,2,M,3,/,2,4
+    H,0,2,M,3,/,2,8
+    H,0,2,M,3,/,3,2,5
+    H,0,2,M,3,/,3,3,5
+    H,0,2,M,3,/,3,3,5,6,9
+    H,0,2,M,3,/,3,3,5,7,6
+    H,0,2,M,3,/,3,3,5,8,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,8,0
+    Y,0,2,T,1,0,/,9,2
+
+application_events
+7
+    2021-01-27,Application filed by Denso Corp
+    2021-01-27,Priority to US17/159,688
+    2021-05-20,Publication of US20210146788A1
+    2022-01-04,Application granted
+    2022-01-04,Publication of US11214153B2
+    Status,Active
+    2037-10-12,Anticipated expiration
+
+active_area
+4
+    J,P
+    W,O
+    U,S
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+7
+    Application,Filing date,Title
+    JP2016217922A,2016-11-08,Drive system
+    JPJP2016-217922,2016-11-08,
+    JP2016-217922,2016-11-08,
+    PCT/JP2017/037067,2017-10-12,Drive system
+    US16/396,824,2019-04-29,Driving system
+    US17/159,688,2021-01-27,Driving system
+
+legal_event
+7
+    Date,Code,Title,Description
+    2021-01-27,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2021-08-14,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2021-09-13,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2021-11-23,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT RECEIVED
+    2021-11-30,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2021-12-15,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

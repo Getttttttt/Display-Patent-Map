@@ -1,0 +1,290 @@
+ID
+    EP2374677A2
+citation_exist
+    Patent Citations (7)
+citation_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    DE102007035424A1,2007-07-28,2009-01-29,Dr. Ing. H.C. F. Porsche Aktiengesellschaft,Control interface for vehicle, has drive unit, where interface selects sailings of vehicle when output of unit is not introduced, so that vehicle is either propelled or braked when vehicle is brought into mode
+    Family To Family Citations,,,,
+    US5070959A                      *,1989-11-20,1991-12-10,General Electric Company,Work vehicle having an electric propulsion system with adapted overspeed limit for traction motors
+    DE4437322B4                      *,1993-10-29,2008-02-07,Volkswagen Ag,Engine brake in a driver-controlled vehicle with electric motor
+    JPH0937407A                      *,1995-07-18,1997-02-07,Toyota Motor Corp,Controller for regenerative braking
+    DE19810656A1                      *,1998-03-12,1999-09-16,Itt Mfg Enterprises Inc,Braking control method for electric or hybrid vehicles
+    US7460941B2                      *,2004-09-29,2008-12-02,Caterpillar Inc.,Slope-limited retarding control for a propelled machine
+    JP4702086B2                      *,2006-02-15,2011-06-15,トヨタ自動車株式会社,Vehicle driving support device
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    FR2983436A1                      *,2011-12-05,2013-06-07,Renault Sa,ESTIMATED ENERGY RECOVERED
+    CN103234764A                      *,2013-04-26,2013-08-07,刘斌斌,Automotive brake energy calculation device
+    Family To Family Citations,,,,
+
+abstract
+    Hybrid vehicle comprising at least one electrical machine, one or more brake systems and a control system, which vehicle comprises an activation unit adapted to generating an activation signal which is arranged to activate the control system to calculate the retardation a*(t) required for bringing the vehicle to a halt solely by means of the brake torque which the electrical machine can provide. The retardation is calculated by means of a set of retardation parameters comprising at least one from among current vehicle speed, maximum and minimum limits for the retardation, and maximum brake torque for the electrical machine or machines, and the control system is further adapted to calculating a brake force F*tr which is the brake force effecting the retardation a*(t), and to generating one or more brake signals based on F*tr to the electrical machine or machines for braking of the vehicle to a halt.
+title
+    Hybrid vehicle and method for a hybrid vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US7890240B2,2011-02-15,Brake system fault pedal gain change method and system
+    US20140121870A1,2014-05-01,System for controlling e-4wd hybrid electricity vehicle and method thereof
+    US20130162009A1,2013-06-27,Electric vehicle regenerative braking system
+    US10576950B2,2020-03-03,Method and a system for controlling vehicle speed
+    CN105408161B,2018-04-06,The regenerative brake control device of vehicle
+    KR101558772B1,2015-10-07,Control apparatus and method for regenerative braking of eco-friendly vehicle
+    KR101272515B1,2013-06-10,Auto cruise control method for electric vehicle
+    CN104924913A,2015-09-23,Normalizing deceleration of a vehicle having a regenerative braking system
+    CN109017747B,2021-04-06,Front and rear axle torque distribution method and system of new energy four-wheel drive vehicle and related components
+    KR20140069280A,2014-06-09,Slip-controlled braking system for electrically driven motor vehicles
+    US10479361B2,2019-11-19,Apparatus and method for controlling braking of vehicle
+    CN105383312A,2016-03-09,Braking apparatus of vehicle
+    CN103043056A,2013-04-17,Method of controlling vehicle wheel axle torque and control system for same
+    CN103072569A,2013-05-01,System and method of controlling motor vehicle operation
+    US20110130909A1,2011-06-02,System and method for controlling a four wheel drive vehicle
+    CN103863301A,2014-06-18,Method and system for controlling drive torque of vehicle
+    CN105313881A,2016-02-10,Method and apparatus for controlling speed change of hybrid vehicle
+    CN109624723B,2020-11-17,Energy recovery control method and device for hybrid electric vehicle
+    JP6091535B2,2017-03-08,Vehicle display device
+    CN105905113B,2019-08-09,For controlling the System and method for of the braking of electric vehicle
+    EP2374677A2,2011-10-12,Hybrid vehicle and method for a hybrid vehicle
+    KR20150071568A,2015-06-26,System and method for autonomous emergency braking
+    SE1350166A1,2014-08-14,Procedure and system for determining an energy use when driving a vehicle
+    JP6063352B2,2017-01-18,Vehicle control device
+    SE1251110A1,2014-04-04,Apparatus and method for convenient and / or fuel saving driving of a motor vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    5
+classfication_nums
+    30
+classfication_items
+176
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,9,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,8,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,5,/,0,0
+    B,6,0,W,2,5,5,5,/,6,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,1,0
+    B,6,0,W,2,7,2,0,/,1,0,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+4
+    2011-04-06,Application filed by Scania CV AB
+    2011-10-12,Publication of EP2374677A2
+    2018-05-02,Publication of EP2374677A3
+    Status,Withdrawn
+
+active_area
+0
+
+not_active_area
+2
+    E,P
+    B,R
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    SE1050355A,2010-04-12,Hybrid vehicle, and method of a hybrid vehicle
+
+legal_event
+14
+    Date,Code,Title,Description
+    2011-09-09,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2011-10-12,AK,Designated contracting states,Kind code of ref document: A2Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2011-10-12,AX,Request for extension of the european patent,Extension  state: BA ME
+    2018-03-30,PUAL,Search report despatched,Free format text: ORIGINAL CODE: 0009013
+    2018-05-02,AK,Designated contracting states,Kind code of ref document: A3Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2018-05-02,AX,Request for extension of the european patent,Extension  state: BA ME
+    2018-05-02,RIC1,Information provided on ipc code assigned before grant,Ipc: B60W  10/18        20060101ALI20180326BHEPIpc: B60W  40/06        20060101ALI20180326BHEPIpc: B60W  20/00        20060101AFI20180326BHEPIpc: B60K   6/46        20071001ALI20180326BHEPIpc: B60K   6/485       20071001ALI20180326BHEPIpc: B60W  30/18        20060101ALI20180326BHEP
+    2018-11-09,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+    2018-12-12,17P,Request for examination filed,Effective date: 20181102
+    2018-12-12,RBV,Designated contracting states (corrected),Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2019-02-13,RIC1,Information provided on ipc code assigned before grant,Ipc: B60W  20/00        20160101AFI20180326BHEPIpc: B60K   6/485       20071001ALI20180326BHEPIpc: B60K   6/46        20071001ALI20180326BHEPIpc: B60W  40/06        20120101ALI20180326BHEPIpc: B60W  30/18        20120101ALI20180326BHEPIpc: B60W  10/18        20120101ALI20180326BHEP
+    2020-02-28,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE APPLICATION HAS BEEN WITHDRAWN
+    2020-04-01,18W,Application withdrawn,Effective date: 20200221
+

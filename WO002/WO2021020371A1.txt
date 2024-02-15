@@ -1,0 +1,170 @@
+ID
+    WO2021020371A1
+citation_exist
+    Patent Citations (5)
+citation_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5378053A                      *,1993-12-07,1995-01-03,Alliedsignal Inc.,Maximized regenerative braking vehicle braking controller
+    JP2008260428A                      *,2007-04-12,2008-10-30,Toyota Motor Corp,車両およびその制御方法
+    US8744713B2                      *,2012-09-07,2014-06-03,Hyundai Motor Company,Method for controlling braking of vehicle
+    JP2017071385A                      *,2015-10-06,2017-04-13,現代自動車株式会社Ｈｙｕｎｄａｉ Ｍｏｔｏｒ Ｃｏｍｐａｎｙ,車両用回生制動協調制御システムの制動制御方法
+    JP2018043707A                      *,2016-09-16,2018-03-22,株式会社アドヴィックス,車両の制動装置
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    WO2022202763A1                      *,2021-03-22,2022-09-29,株式会社アドヴィックス,車両の制動制御装置
+    WO2022202764A1                      *,2021-03-22,2022-09-29,株式会社アドヴィックス,車両の制動制御装置
+    Family To Family Citations,,,,
+
+abstract
+    制動制御装置は、例えば、前輪ＷＨｆに備えられた回生ジェネレータＧＮによる回生制動力Ｆｇが該前輪ＷＨｆにて発生する車両に適用される。制動制御装置は、「前輪ＷＨｆ、及び、車両の後輪ＷＨｒの夫々に、前輪、後輪摩擦制動力Ｆｍｆ、Ｆｍｒを個別に発生可能なアクチュエータＹＵ」と、アクチュエータＹＵを制御するコントローラＥＣＵ」と、を備える。制動制御装置では、コントローラＥＣＵは、回生ジェネレータＧＮの回転速度Ｎｇに相当する回転速度相当値Ｎｓに応じた規範回生力Ｆｚに基づいて、前輪、後輪摩擦制動力Ｆｍｆ、Ｆｍｒを調整する。
+title
+    車両の制動制御装置
+similar_document
+25
+    Publication,Publication Date,Title
+    JP4222382B2,2009-02-12,車両制動装置
+    JP6935710B2,2021-09-15,車両の制動制御装置
+    US11377082B2,2022-07-05,Braking control device for vehicle
+    WO2021020371A1,2021-02-04,車両の制動制御装置
+    WO2020045565A1,2020-03-05,車両の制動制御装置
+    JP6544335B2,2019-07-17,車両用制動装置
+    JP4935760B2,2012-05-23,ブレーキ制御装置
+    JP6935712B2,2021-09-15,車両の制動制御装置
+    JP7146165B2,2022-10-04,車両の制動制御装置
+    JP7172526B2,2022-11-16,車両の制動制御装置
+    JP5040745B2,2012-10-03,ブレーキ制御装置
+    WO2021024977A1,2021-02-11,車両の制動制御装置
+    CN112313124B,2023-04-14,车辆制动控制装置
+    WO2021192449A1,2021-09-30,パーキングブレーキ制御装置
+    JP7091797B2,2022-06-28,車両の制動制御装置
+    CN111065559B,2022-01-11,车辆用制动装置
+    JP7070001B2,2022-05-18,車両の制動制御装置
+    WO2023033021A1,2023-03-09,車両の制動制御装置
+    US11807215B2,2023-11-07,Brake control device for vehicles
+    WO2023171812A1,2023-09-14,車両の制動制御装置
+    JP2018086865A,2018-06-07,車両の制動制御装置
+    JP2021037832A,2021-03-11,車両の制動制御装置
+    JP2022093451A,2022-06-23,車両の制動制御装置
+    WO2019181577A1,2019-09-26,車両の制動制御装置
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US17/630,794,2019-07-31,2020-07-28,Braking control device for vehicle
+
+inventor_number
+    4
+classfication_nums
+    11
+classfication_items
+65
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,5
+    B,6,0,T,1,3,/,5,8,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,1,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,4,0,/,0,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+
+application_events
+3
+    2020-07-28,Application filed by 株式会社アドヴィックス
+    2020-07-28,Priority to US17/630,794
+    2021-02-04,Publication of WO2021020371A1
+
+active_area
+3
+    J,P
+    W,O
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2019-140878,2019-07-31,
+    JP2019140878A,2019-07-31,車両の制動制御装置
+
+legal_event
+4
+    Date,Code,Title,Description
+    2021-03-17,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 20846407Country of ref document: EPKind code of ref document: A1
+    2022-02-01,NENP,Non-entry into the national phase,Ref country code: DE
+    2022-08-10,122,Ep: pct application non-entry in european phase,Ref document number: 20846407Country of ref document: EPKind code of ref document: A1
+

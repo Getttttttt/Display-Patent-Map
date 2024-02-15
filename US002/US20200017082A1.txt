@@ -1,0 +1,237 @@
+ID
+    US20200017082A1
+citation_exist
+    Patent Citations (11)
+citation_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    DE3410006C2,1984-03-19,1992-04-30,Alfred Teves Gmbh, 6000 Frankfurt, De,
+    JP2001278020A                      *,2000-03-30,2001-10-10,Tokico Ltd,Brake control device
+    JP4333677B2                      *,2006-02-01,2009-09-16,トヨタ自動車株式会社,Brake control device
+    JP4274189B2                      *,2006-02-13,2009-06-03,トヨタ自動車株式会社,Vehicle control system
+    JP2009166656A                      *,2008-01-16,2009-07-30,Toyota Motor Corp,Brake control system
+    JP5776153B2                      *,2010-08-30,2015-09-09,株式会社アドヴィックス,Vehicle control apparatus and vehicle control method
+    DE102010063359A1                      *,2010-12-17,2012-06-21,Robert Bosch Gmbh,Method for adjusting the force applied by a parking brake
+    JP5723261B2,2011-11-25,2015-05-27,日立オートモティブシステムズ株式会社,Brake control device
+    JP2015051672A                      *,2013-09-05,2015-03-19,日立オートモティブシステムズ株式会社,Brake system, brake device, and brake control method
+    JP6221118B2                      *,2014-02-28,2017-11-01,日立オートモティブシステムズ株式会社,Brake system
+    JP7204502B2                      *,2019-01-25,2023-01-16,株式会社アドヴィックス,Braking control device
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20180244249A1                      *,2017-02-24,2018-08-30,Hyundai Motor Company,Rear wheel regenerative braking control system for vehicle and method therefor
+    US20210213835A1                      *,2018-02-09,2021-07-15,Advics Co., Ltd.,Braking control device for vehicle
+    Family To Family Citations,,,,
+    CN112744195A                      *,2019-10-31,2021-05-04,罗伯特·博世有限公司,Vehicle brake control method and system, vehicle, and computer-readable storage medium
+    JP7225187B2                      *,2020-12-03,2023-02-20,本田技研工業株式会社,vehicle braking system
+
+abstract
+    Provided is a vehicle braking control device applicable to a vehicle equipped with an electric-powered parking braking device, a hydraulic braking device and a regenerative braking device. The braking control device comprises a first braking control unit and a second braking control unit. When a parking braking operation is performed while the vehicle is travelling, the first braking control unit implements a first braking process which increases the braking force to the vehicle by operating the hydraulic braking device. When the braking force to the vehicle needs to be increased in a situation where the first braking process is being implemented, the second braking control unit implements a second braking process which increases the braking force to the vehicle by operating the regenerative braking device.
+title
+    Vehicle braking control device
+similar_document
+26
+    Publication,Publication Date,Title
+    US11541853B2,2023-01-03,Vehicle braking control device
+    EP3050765B1,2020-11-11,Control device for electric vehicle
+    US10137872B2,2018-11-27,Acceleration/deceleration control apparatus
+    JP5302749B2,2013-10-02,Electric vehicle control device
+    JP6272558B2,2018-01-31,Brake control device
+    US11498535B2,2022-11-15,Control apparatus for electric vehicle, control system for electric vehicle, and control method for electric vehicle
+    US20100198475A1,2010-08-05,Method for operating a vehicle brake system and vehicle brake system
+    JP5999047B2,2016-09-28,Vehicle control device
+    US10442414B2,2019-10-15,Method for operating a motor-vehicle braking system
+    US9895978B2,2018-02-20,Braking force control method for vehicle
+    KR101405189B1,2014-06-19,Braking system for hybrid vehicle and control method for the same
+    US11161499B2,2021-11-02,Vehicle driving assistance device
+    WO2015016325A1,2015-02-05,Vehicle control device
+    US8396638B2,2013-03-12,Vehicle drive control device
+    WO2016092586A1,2016-06-16,Braking/driving force control device and braking/driving force control method
+    US20220194332A1,2022-06-23,Method for Decelerating a Motor Vehicle during Emergency Braking Using an Electric Motor of an Electric Drive of the Motor Vehicle and a Braking Torque of a Service Brake System of the Motor Vehicle, and a Motor Vehicle
+    JP6156270B2,2017-07-05,Vehicle braking device
+    KR102416064B1,2022-07-04,Lateral dynamic control for regenerative and friction braking mixture
+    Kant,2014,Sensotronic brake control (SBC)
+    US10144423B2,2018-12-04,Driving assistance device for vehicle
+    US20200189535A1,2020-06-18,Braking force control apparatus for a vehicle
+    GB2483565A,2012-03-14,Method of adjusting parking brake clamping force
+    JP6124123B2,2017-05-10,Regenerative brake control system
+    JP2015030314A,2015-02-16,Vehicle control device
+    JP6225563B2,2017-11-08,Vehicle control device
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    5
+classfication_nums
+    19
+classfication_items
+114
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,0,7
+    B,6,0,L,3,/,0,0,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,5
+    B,6,0,T,1,3,/,5,8,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,6,6
+    B,6,0,T,1,3,/,6,6,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,7,4
+    B,6,0,T,1,3,/,7,4,1
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,0,2
+    B,6,0,T,7,/,0,4
+    B,6,0,T,7,/,0,4,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,2,1
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,1,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,5,0,/,0,0
+    B,6,0,T,2,2,5,0,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,2,1
+    B,6,0,T,8,/,3,2,5,5
+    B,6,0,T,8,/,3,2,6
+
+application_events
+7
+    2018-03-29,Application filed by Advics Co Ltd
+    2019-09-23,Assigned to ADVICS CO., LTD.
+    2020-01-16,Publication of US20200017082A1
+    2023-01-03,Application granted
+    2023-01-03,Publication of US11541853B2
+    Status,Active
+    2040-01-17,Adjusted expiration
+
+active_area
+4
+    J,P
+    W,O
+    C,N
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+5
+    Application,Filing date,Title
+    JP2017-075137,2017-04-05,
+    JPJP2017-075137,2017-04-05,
+    JP2017075137A,2017-04-05,Vehicle braking control device
+    PCT/JP2018/013385,2018-03-29,Vehicle braking control device
+
+legal_event
+9
+    Date,Code,Title,Description
+    2019-09-23,AS,Assignment,Owner name: ADVICS CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:TAKAHASHI, KENICHIRO;HASHIMOTO, KOSUKE;KUBOTA, HAYATO;AND OTHERS;SIGNING DATES FROM 20190822 TO 20190830;REEL/FRAME:050459/0530
+    2019-09-23,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2020-06-26,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2022-06-01,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2022-08-18,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2022-09-06,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2022-11-30,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2022-12-14,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

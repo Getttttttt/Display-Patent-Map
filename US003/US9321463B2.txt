@@ -1,0 +1,337 @@
+ID
+    US9321463B2
+citation_exist
+    Patent Citations (13)
+citation_infor
+15
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH08322107A,1995-05-24,1996-12-03,Nippondenso Co Ltd,Controller of hybrid vehicle
+    JP2005039885A,2003-07-15,2005-02-10,Honda Motor Co Ltd,Controller of hybrid vehicle
+    JP2007284011A,2006-04-20,2007-11-01,Toyota Motor Corp,Warming device for vehicle
+    US7380586B2                      *,2004-05-10,2008-06-03,Bsst Llc,Climate control system for hybrid vehicles using thermoelectric devices
+    US20100190603A1,2007-07-10,2010-07-29,Naoki Uchiyama,Vehicle Propulsion Device
+    US8035349B2                      *,2008-09-30,2011-10-11,Toyota Motor Engineering & Manufacturing North America, Inc.,Systems and methods for absorbing waste electricity from regenerative braking in hybridized vehicles
+    US8220590B2                      *,2007-01-11,2012-07-17,Otis Elevator Company,Thermoelectric thermal management system for the energy storage system in a regenerative elevator
+    US8786260B2                      *,2006-07-03,2014-07-22,Mazda Motor Corporation,Thermal control of electric storage device
+    Family To Family Citations,,,,
+    JP3745677B2                      *,2001-11-19,2006-02-15,株式会社デンソー,Regenerative braking device for vehicle
+    JP4010257B2                      *,2003-02-14,2007-11-21,トヨタ自動車株式会社,Electric vehicle and control method thereof
+    JP2005039908A                      *,2003-07-17,2005-02-10,Mitsubishi Motors Corp,Regenerative braking control unit of hybrid vehicle
+    JP5228324B2                      *,2007-01-17,2013-07-03,日産自動車株式会社,Electric vehicle
+    JP5642881B2                      *,2011-08-17,2014-12-17,株式会社日立製作所,Vehicle equipment temperature control system
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (24)
+              
+
+
+citedBy_infor
+26
+    Publication number,Priority date,Publication date,Assignee,Title
+    US10392018B1                      *,2018-09-27,2019-08-27,Ford Global Technologies, Llc,Vehicle and regenerative braking control system for a vehicle
+    US11001164B1                      *,2017-10-24,2021-05-11,Isaac M Aburto,Electric vehicle with rechargeable battery and dual-purpose electric motors
+    Family To Family Citations,,,,
+    DE102015013301B3                      *,2015-10-13,2017-02-16,Webasto SE,High voltage vehicle heater and method of utilizing recuperation power in a vehicle
+    JP2017093048A                      *,2015-11-04,2017-05-25,株式会社デンソー,Motor control device
+    US9878703B2                      *,2016-03-08,2018-01-30,Ford Global Technologies, Llc,Electrified vehicle with power dissipation feature
+    FR3049919A1                      *,2016-04-07,2017-10-13,Peugeot Citroen Automobiles Sa,METHOD FOR CONTROLLING A SYSTEM FOR AUTOMATIC RESTART OF A VEHICLE ENGINE AND RECOVERING KINETIC ENERGY OF THE VEHICLE
+    CN107351631B                      *,2016-05-10,2019-11-22,比亚迪股份有限公司,Automotive thermal tube manages system and electric car
+    CN107351632B                      *,2016-05-10,2019-11-08,比亚迪股份有限公司,Automotive thermal tube manages system and electric car
+    CN107351629B                      *,2016-05-10,2019-11-22,比亚迪股份有限公司,Automotive thermal tube manages system and electric car
+    CN107351634B                      *,2016-05-10,2019-11-22,比亚迪股份有限公司,Automotive thermal tube manages system and electric car
+    CN107351633B                      *,2016-05-10,2019-11-05,比亚迪股份有限公司,Automotive thermal tube manages system and electric car
+    CN107487190B                      *,2016-12-26,2020-02-14,宝沃汽车（中国）有限公司,Control method and device for gradual descent of steep slope of electric automobile and electric automobile
+    CN108427409A                      *,2017-02-15,2018-08-21,苏州宝时得电动工具有限公司,Automatic working system, from mobile device and its control method
+    US20180297483A1                      *,2017-04-12,2018-10-18,Proterra Inc.,Systems and methods to improve performance of an electric vehicle
+    JP2018207683A                      *,2017-06-05,2018-12-27,本田技研工業株式会社,Electric vehicle and notification system of the same
+    JP6584019B2                      *,2017-12-21,2019-10-02,本田技研工業株式会社,Electric vehicle
+    CN108297647B                      *,2018-01-02,2020-07-10,北京汽车股份有限公司,Air conditioner communication method, controller, control panel and storage medium
+    DE102020203127A1,2020-03-11,2021-09-16,Continental Teves Ag & Co. Ohg,Method for controlling the longitudinal dynamics of a vehicle
+    JP2021154911A                      *,2020-03-27,2021-10-07,サンデン・オートモーティブクライメイトシステム株式会社,Vehicular air conditioning device
+    CN113071335B                      *,2021-04-06,2022-10-14,浙江吉利控股集团有限公司,Energy control method for extended range vehicle, control system and storage medium thereof
+    CN113147321B                      *,2021-04-29,2022-09-09,重庆大学,Vehicle-mounted air conditioner and regenerative braking coordination control method
+    EP4108500A1                      *,2021-06-22,2022-12-28,Volvo Truck Corporation,Method for cooling an endurance braking arrangement in an electric vehicle
+    CN113619398B                      *,2021-07-20,2023-06-02,岚图汽车科技有限公司,Energy recovery method and device for electric vehicle, electric vehicle and storage medium
+    DE102021209949A1                      *,2021-09-09,2023-03-09,Robert Bosch Gesellschaft mit beschränkter Haftung,Device for heating a traction battery and method for heating a traction battery
+
+abstract
+    A regenerative braking apparatus has an inverter. The inverter uses the rotational energy of the wheels to let the motor generator generate electric power for the purpose of providing regenerative braking. The regenerative braking apparatus also includes a refrigeration cycle unit and a heating cycle unit. The refrigeration cycle unit compresses a refrigerant with the electric power of the battery in order to heat a heat exchanger. The heating cycle unit is a unit in which a medium heated by the heat exchanger flows to heat the battery. When the battery is in a fully charged state where the battery cannot be charged with regenerative electric power of the motor generator, the regenerative braking apparatus exercises electric power consumption control to force the refrigeration cycle unit and the heating cycle unit to consume the electric power of the battery.
+title
+    Regenerative braking apparatus for electric vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US9321463B2,2016-04-26,Regenerative braking apparatus for electric vehicle
+    CN106494383B,2020-09-25,Control method for changing running mode of hybrid vehicle and control device thereof
+    US20170240162A1,2017-08-24,Control device for hybrid vehicle
+    US9631547B2,2017-04-25,PHEV heating modes to provide cabin comfort
+    US10675946B2,2020-06-09,Vehicle air-conditioning control device
+    JP6436071B2,2018-12-12,Vehicle control device
+    WO2017077808A1,2017-05-11,Vehicle control device
+    US9598072B2,2017-03-21,Hybrid vehicle and control method thereof
+    US9750085B2,2017-08-29,Apparatus and method for controlling vehicle
+    US20160244052A1,2016-08-25,Hybrid vehicle and method for controlling same
+    JP2013163494A,2013-08-22,Control device of hybrid vehicle
+    JP2012006525A,2012-01-12,Regenerative control device of hybrid vehicle
+    US20130173105A1,2013-07-04,Controller for Vehicle and Vehicle Including the Controller
+    JP6468259B2,2019-02-13,Vehicle control system
+    JP2013018420A,2013-01-31,Heating apparatus of electric drive vehicle
+    JP6136474B2,2017-05-31,Control device for hybrid vehicle
+    JP5104708B2,2012-12-19,Control device and control method for hybrid vehicle
+    US10746117B2,2020-08-18,Vehicle control device
+    US20120139481A1,2012-06-07,Battery charge control apparatus
+    JP5042816B2,2012-10-03,Internal combustion engine control device
+    WO2017110214A1,2017-06-29,Vehicular air-conditioning device
+    JP2017088087A,2017-05-25,Vehicular cooling system
+    JP6070531B2,2017-02-01,Control device for hybrid vehicle
+    JP2016153276A,2016-08-25,Vehicle controller
+    JP6032192B2,2016-11-24,Control device for hybrid vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    34
+classfication_items
+200
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,3,1,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,2
+    B,6,0,L,1,/,0,4
+    B,6,0,L,1,/,0,6
+    B,6,0,L,1,1,/,1,8,6,1
+    B,6,0,L,1,1,/,1,8,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B,6,0,L,5,8,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B,6,0,L,5,8,/,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B,6,0,W,1,0,/,1,9,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2015-02-19,Application filed by Denso Corp
+    2015-02-19,Assigned to DENSO CORPORATION
+    2015-08-27,Publication of US20150239474A1
+    2016-04-26,Application granted
+    2016-04-26,Publication of US9321463B2
+    Status,Active
+    2035-02-19,Anticipated expiration
+
+active_area
+2
+    J,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2014035899A,2014-02-26,Electric vehicle regenerative braking control device
+    JP2014-35899,2014-02-26,
+
+legal_event
+5
+    Date,Code,Title,Description
+    2015-02-19,AS,Assignment,Owner name: DENSO CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:NAKAMURA, TOSHIHIRO;REEL/FRAME:034982/0611Effective date: 20150213
+    2016-04-06,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2019-10-15,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+    2023-10-18,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+

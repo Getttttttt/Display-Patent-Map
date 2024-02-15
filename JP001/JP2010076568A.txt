@@ -1,0 +1,197 @@
+ID
+    JP2010076568A
+citation_exist
+    Patent Citations (3)
+citation_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH10338113A                      *,1997-04-07,1998-12-22,Toyota Motor Corp,液圧制御装置および車両用液圧ブレーキシステム
+    JP2005328680A                      *,2004-05-17,2005-11-24,Toyota Motor Corp,四輪独立制駆動車輌の走行制御装置
+    JP2008120220A                      *,2006-11-10,2008-05-29,Toyota Motor Corp,車両の回生／摩擦協調型制動制御装置
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2013135501A                      *,2011-12-26,2013-07-08,Aisin Seiki Co Ltd,モータ駆動車両の制御装置及び制御方法
+    JP2013531765A                      *,2010-04-30,2013-08-08,マグナ  ステアー  ファールゾイヒテクニーク  アーゲー  ウント  コ  カーゲー,ドライブトレイン
+    JP2014208498A                      *,2013-04-16,2014-11-06,株式会社デンソー,車両制御装置
+    JP2016107690A                      *,2014-12-03,2016-06-20,Ntn株式会社,車両の制動力制御装置
+    Family To Family Citations,,,,
+
+abstract
+    【課題】回生可能な車両の駆動装置のうち少なくとも一つが故障した場合であっても、正常に動作する駆動装置により車両安定性を確保し回生制動できる制動力制御装置を提供する。【解決手段】駆動力を増減する駆動装置が少なくとも左右二輪１０，１１の各々に個別に設けられ、かつ油圧によって動作し前記二輪１０，１１の各々に個別に制動力を与えるブレーキ機構が設けられた駆動力制御装置において、前記いずれかの駆動装置の故障を検出する故障検出手段（車両ＥＣＵ）３９と、その故障検出手段３９によって前記故障が検出された場合に前記二輪の各々に制動力を加える制動指示手段（ブレーキ・モータ統合ＥＣＵ）３８と、故障が検出されていない駆動装置に連結されている車輪についての制動力を前記ブレーキ機構による制動力から前記駆動装置による制動力に移行させる制動力切換手段（ブレーキ・モータ統合ＥＣＵ）３８とを備えている。【選択図】図１
+title
+    駆動力制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    US6959971B2,2005-11-01,Vehicle braking apparatus
+    JP5721792B2,2015-05-20,少なくとも１つの電気モータを含む車両の回生制動制御方法
+    JP2004268901A,2004-09-30,制動制御装置
+    JP2006246657A,2006-09-14,車両の回生制動制御装置
+    JP2007060761A,2007-03-08,ハイブリッド車の減速度制御装置
+    JP2008265397A,2008-11-06,車両の制動制御装置
+    JP5359664B2,2013-12-04,４輪独立駆動車両の制御装置
+    JP2003348705A,2003-12-05,電動車両のコーストダウン制動トルクの供給方法及びそのシステム
+    JP5245681B2,2013-07-24,駆動力制御装置
+    JP5807805B2,2015-11-10,車両の回生ブレーキ制御装置
+    KR20180026179A,2018-03-12,Ｅｃｍ 시스템의 페일세이프 장치 및 그 방법
+    JP5348226B2,2013-11-20,車両の制動制御装置
+    JP2006197757A,2006-07-27,車両の回生制動制御装置
+    JP6120010B2,2017-04-26,車両
+    JP2008265616A,2008-11-06,車両およびその制御方法
+    JP4285483B2,2009-06-24,車両およびその制御方法
+    JP2010241166A,2010-10-28,車両の四輪駆動制御装置及び四輪駆動制御方法
+    JP4449825B2,2010-04-14,ハイブリッド車両の走行モード制御装置
+    JP6464131B2,2019-02-06,電動車両用制動装置
+    JP4455572B2,2010-04-21,ハイブリッド車両
+    JP2013158200A,2013-08-15,パッシブトルクスプリット４輪駆動車
+    Bildstein et al.,2014,Regenerative braking system
+    JP2012191751A,2012-10-04,電動機のフェールセーフ装置
+    JP2004159440A,2004-06-03,車両の回生制御装置
+    JP6488215B2,2019-03-20,車両用制動装置
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    JP2008246485A,2008-09-25,2008-09-25,駆動力制御装置
+
+inventor_number
+    16
+classfication_nums
+    14
+classfication_items
+82
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,9,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,0
+    B,6,0,L,3,/,1,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2008-09-25,Application filed by Toyota Motor Corp
+    2008-09-25,Priority to JP2008246485A
+    2010-04-08,Publication of JP2010076568A
+    2013-07-24,Application granted
+    2013-07-24,Publication of JP5245681B2
+    Status,Active
+    2028-09-25,Anticipated expiration
+
+active_area
+1
+    J,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2008246485A,2008-09-25,駆動力制御装置
+
+legal_event
+12
+    Date,Code,Title,Description
+    2010-11-23,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20101122
+    2012-02-28,A977,Report on retrieval,Free format text: JAPANESE INTERMEDIATE CODE: A971007Effective date: 20120228
+    2012-03-07,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20120306
+    2012-04-25,A521,Written amendment,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20120424
+    2012-09-26,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20120925
+    2012-11-21,A521,Written amendment,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20121120
+    2013-03-04,TRDD,Decision of grant or rejection written,
+    2013-03-13,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20130312
+    2013-04-15,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20130325
+    2013-04-19,R151,Written notification of patent or utility model registration,Ref document number: 5245681Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R151
+    2013-04-22,FPAY,Renewal fee payment (event date is renewal date of database),Free format text: PAYMENT UNTIL: 20160419Year of fee payment: 3
+

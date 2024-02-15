@@ -1,0 +1,307 @@
+ID
+    US8798900B2
+citation_exist
+    Patent Citations (15)
+citation_infor
+17
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2000046571A,1998-07-31,2000-02-18,Sanyo Electric Co Ltd,Navigation system
+    JP2003262525A,2002-03-08,2003-09-19,Nissan Motor Co Ltd,Charging stand information-supplying apparatus
+    US20090242288A1,2005-09-01,2009-10-01,Toyota Jidosha Kabushiki Kaisha,Electric-powered vehicle and controlling method thereof
+    JP2010175492A,2009-02-02,2010-08-12,Omron Corp,Terminal, apparatus, system and method for processing information, and program
+    JP2010210271A,2009-03-06,2010-09-24,Nissan Motor Co Ltd,Navigation device and destination arrival possibility determination method
+    JP2011122926A,2009-12-10,2011-06-23,Clarion Co Ltd,Route planning device, route planning system, and route planning method
+    JP2011252816A,2010-06-03,2011-12-15,Nihon Unisys Ltd,Charging stand information display system
+    US20120101755A1                      *,2010-10-21,2012-04-26,Denso Corporation,Vehicular battery pack
+    US20130057209A1                      *,2011-09-02,2013-03-07,Tesla Motors, Inc.,Multiport Vehicle DC Charging System with Variable Power Distribution
+    Family To Family Citations,,,,
+    JP2006112932A                      *,2004-10-15,2006-04-27,Fuji Heavy Ind Ltd,Navigation system for electric vehicle
+    JP2006199273A                      *,2004-12-24,2006-08-03,Fujitsu Ten Ltd,Vehicle information offering device
+    CN101841070B                      *,2009-03-17,2014-07-02,杨安陶,Electric energy management method
+    JP5017398B2                      *,2010-03-09,2012-09-05,日立オートモティブシステムズ株式会社,Route planning apparatus and route planning system
+    JP5141705B2                      *,2010-03-19,2013-02-13,アイシン・エィ・ダブリュ株式会社,Driving support apparatus, method and program
+    JP2012026813A                      *,2010-07-22,2012-02-09,Clarion Co Ltd,Car navigation device
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (17)
+              
+
+
+citedBy_infor
+19
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20150061550A1                      *,2013-08-30,2015-03-05,Robert Bosch Gmbh,Method for electrically regenerating an energy store
+    WO2021059263A3                      *,2019-09-26,2021-05-20,Seamless Vision (2017) Ltd,Navigation indication of a vehicle
+    US11110814B2                      *,2018-08-02,2021-09-07,Audi Ag,Charging device for electric vehicles
+    US11685287B2,2018-12-05,2023-06-27,Liikennevirta Oy / Virta Ltd,Electric vehicle charging
+    Family To Family Citations,,,,
+    US20130166123A1                      *,2011-12-21,2013-06-27,Ford Global Technologies, Llc,Vehicle system for estimating travel range
+    US20140316939A1                      *,2013-04-19,2014-10-23,Honda Motor Co., Ltd.,System and method for selecting an electric vehicle charging station
+    JP2015065761A                      *,2013-09-25,2015-04-09,富士電機株式会社,Charge plan management device and charge plan management method
+    JP6003940B2                      *,2014-04-16,2016-10-05,株式会社デンソー,Remaining amount alarm system and navigation device
+    JP2016034479A                      *,2014-07-31,2016-03-17,セイコーエプソン株式会社,On-running landing position evaluation method, on-running landing position evaluation apparatus, detection method, detection apparatus, running motion evaluation method, and running motion evaluation apparatus
+    US20160305791A1                      *,2015-04-14,2016-10-20,Ford Global Technologies, Llc,Vehicle energy alert systems and methods
+    CN109155016B                      *,2016-05-25,2023-05-09,福特全球技术公司,Method and apparatus for charging an electric vehicle
+    JP6699644B2                      *,2017-11-24,2020-05-27,マツダ株式会社,Vehicle information provision device
+    CN108382208B                      *,2018-02-26,2020-05-15,山东斯泰重工科技有限公司,Electric automobile terminal for electric automobile comprehensive management and control system
+    JP7207212B2                      *,2019-07-16,2023-01-18,トヨタ自動車株式会社,electric vehicle
+    KR102391606B1                      *,2020-05-22,2022-04-29,주식회사 디앤케이,Emergency charging service for electric vehicles equipped with deep learning and IoT-based efficient energy recycling
+    IT202000027146A1                      *,2020-11-12,2022-05-12,Altra S P A,METHOD AND ASSISTANT SYSTEM FOR THE MANAGEMENT OF ELECTRIC ENERGY OF AN ELECTRIC OR HYBRID TYPE VEHICLE, VEHICLE, AND SOFTWARE PROGRAM
+    US20230302957A1                      *,2022-03-24,2023-09-28,Geotab Inc.,Devices for range estimation in battery powered vehicles
+
+abstract
+    A charge point notification system includes a center device and an in-vehicle device disposed in an electric vehicle. The system provides a notification regarding a charge point based on a comparison between a required energy for traveling to a nearby charge point from a node that is close to the nearby charge point, and a remaining energy of the electric vehicle. The system does not generate a notification when the remaining energy is greater than the required energy by an amount greater than a first threshold. The system generates the notification, which is to be provided to the user via the in-vehicle device, when the remaining energy is greater than the required energy by an amount that is in between the first threshold and a second threshold, which is less than the first threshold, and when the nearby charge point exists within a first distance range from the electric vehicle.
+title
+    Charge point notification system and in-vehicle device
+similar_document
+26
+    Publication,Publication Date,Title
+    US8798900B2,2014-08-05,Charge point notification system and in-vehicle device
+    US8676484B2,2014-03-18,Charge point reachability determination system
+    JP5370585B2,2013-12-18,Information providing apparatus and information providing method
+    US8473135B2,2013-06-25,Information and telecommunications system, vehicular device, center device, and method for controlling the system
+    US8838318B2,2014-09-16,Route planning device
+    JP5642253B1,2014-12-17,Vehicle energy management system
+    JP5589650B2,2014-09-17,Information providing apparatus and information providing method
+    JP6620419B2,2019-12-18,Battery temperature control device and battery temperature control method
+    CN102867430B,2015-04-08,Information terminal and cruise controller for electric-powered vehicle
+    US11400828B2,2022-08-02,Information processing apparatus
+    WO2013108246A2,2013-07-25,Approximation of remaining travelable distance of a vehicle powered by a battery
+    US20150251557A1,2015-09-10,Drivable distance calculation device and drivable distance calculation method
+    JP2008087719A,2008-04-17,Hybrid vehicle and control method therefor
+    JP2013068590A,2013-04-18,Electric vehicle
+    WO2014120849A2,2014-08-07,System and method for inhibiting a driver of an electric vehicle from being stranded
+    JP2013002850A,2013-01-07,Navigation device
+    WO2013172157A1,2013-11-21,Path search device and computer program
+    WO2015115538A1,2015-08-06,Vehicular information system and server device
+    JP5903952B2,2016-04-13,Driving condition presentation system
+    WO2022024513A1,2022-02-03,Power consumption estimation device, power consumption estimation method, and power consumption estimation program
+    JP6699122B2,2020-05-27,Charge amount estimating device and charge amount estimating method
+    JP7128133B2,2022-08-30,Demand area selection device and demand area selection method
+    CN116620031A,2023-08-22,Method and system for prolonging endurance mileage
+    JP2014163796A,2014-09-08,Information system for vehicle, on-vehicle device, server device
+    CN117076761A,2023-11-17,Intelligent management method and system for charging pile of new energy automobile
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    28
+classfication_items
+167
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,2
+    B
+    B,6,0
+    B,6,0,Q
+    B,6,0,Q,9,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,3,0
+    B,6,0,L,5,3,/,3,0,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,6,0
+    B,6,0,L,5,3,/,6,6
+    B,6,0,L,5,3,/,6,6,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,3,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B,6,0,L,2,2,4,0,/,6,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,6
+    B,6,0,L,2,2,4,0,/,6,6,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,7,0
+    B,6,0,L,2,2,4,0,/,7,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,8,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,5,0
+    B,6,0,L,2,2,6,0,/,5,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,5,0
+    B,6,0,L,2,2,6,0,/,5,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+    Y,0,2,T,9,0,/,1,6,7
+    Y
+    Y,0,4
+    Y,0,4,S
+    Y,0,4,S,3,0,/,0,0
+    Y,0,4,S,3,0,/,1,0
+    Y,0,4,S,3,0,/,1,4
+
+application_events
+7
+    2013-03-07,Application filed by Denso Corp
+    2013-03-08,Assigned to DENSO CORPORATION
+    2013-09-12,Publication of US20130238163A1
+    2014-08-05,Application granted
+    2014-08-05,Publication of US8798900B2
+    Status,Expired - Fee Related
+    2033-03-07,Anticipated expiration
+
+active_area
+0
+
+not_active_area
+3
+    J,P
+    U,S
+    C,N
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2012-050836,2012-03-07,
+    JP2012-50836,2012-03-07,
+    JP2012050836A,2012-03-07,Charging point notification system and vehicle side device
+
+legal_event
+9
+    Date,Code,Title,Description
+    2013-03-08,AS,Assignment,Owner name: DENSO CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:ONOGI, NOBUYOSHI;REEL/FRAME:029948/0584Effective date: 20130301
+    2013-10-31,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2014-07-16,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2018-01-29,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551)Year of fee payment: 4
+    2022-03-28,FEPP,Fee payment procedure,Free format text: MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2022-09-12,LAPS,Lapse for failure to pay maintenance fees,Free format text: PATENT EXPIRED FOR FAILURE TO PAY MAINTENANCE FEES (ORIGINAL EVENT CODE: EXP.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2022-09-12,STCH,Information on status: patent discontinuation,Free format text: PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362
+    2022-10-04,FP,Lapsed due to failure to pay maintenance fee,Effective date: 20220805
+

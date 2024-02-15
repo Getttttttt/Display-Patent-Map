@@ -1,0 +1,297 @@
+ID
+    JPWO2013076836A1
+citation_exist
+    Patent Citations (16)
+citation_infor
+18
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JPH10238381A,1997-02-25,1998-09-08,Denso Corp,ハイブリッド車制御装置
+    JP3541621B2,1997-06-10,2004-07-14,トヨタ自動車株式会社,車両用制動装置
+    JP4058932B2                      *,2001-10-25,2008-03-12,トヨタ自動車株式会社,車輌用制動制御装置
+    JP3573206B2                      *,2002-03-12,2004-10-06,トヨタ自動車株式会社,車両制御装置
+    JP3775391B2                      *,2003-02-14,2006-05-17,三菱自動車工業株式会社,車両用の電力制御装置
+    JP4013905B2,2003-05-21,2007-11-28,トヨタ自動車株式会社,動力出力装置およびその制御方法並びに自動車
+    JP2004360289A                      *,2003-06-04,2004-12-24,Bunka Shutter Co Ltd,開閉装置
+    JP2006174543A                      *,2004-12-13,2006-06-29,Honda Motor Co Ltd,ハイブリッド車両における回生電力制御装置
+    JP4175370B2                      *,2006-01-13,2008-11-05,トヨタ自動車株式会社,ハイブリッド車両およびその制御方法
+    JP4973533B2,2008-02-13,2012-07-11,トヨタ自動車株式会社,通電加熱式触媒装置の通電制御システム
+    JP5309624B2,2008-03-11,2013-10-09,日産自動車株式会社,ハイブリッド車両の制御装置
+    US8630759B2                      *,2009-11-20,2014-01-14,GM Global Technology Operations LLC,Control of regenerative braking in a hybrid vehicle
+    DE102010004436A1                      *,2010-01-13,2011-07-14,Bayerische Motoren Werke Aktiengesellschaft, 80809,Kraftfahrzeug mit elektromotorischem Antrieb
+    JP2011167030A                      *,2010-02-15,2011-08-25,Toyota Motor Corp,電動車両の制御装置
+    US9028366B2                      *,2011-02-16,2015-05-12,Toyota Jidosha Kabushiki Kaisha,Vehicle and method for controlling vehicle
+    JP5622055B2                      *,2012-07-02,2014-11-12,株式会社デンソー,ハイブリッド車の制御装置
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (11)
+              
+
+
+citedBy_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    CN104234797B                      *,2013-06-19,2016-11-16,上海汽车集团股份有限公司,用于优化插电式混合动力汽车排放的催化器加热控制方法
+    JP2015041653A                      *,2013-08-21,2015-03-02,株式会社ディスコ,加工装置
+    KR101637709B1                      *,2014-10-30,2016-07-07,현대자동차주식회사,친환경 자동차의 제동 제어 방법
+    JP6376169B2                      *,2016-04-20,2018-08-22,トヨタ自動車株式会社,ハイブリッド車両
+    DE102016218858A1,2016-09-29,2018-03-29,Audi Ag,Zeitoptimierte Partikelfilterregeneration bei Hybridfahrzeugen
+    KR102304853B1                      *,2017-07-31,2021-09-27,현대자동차주식회사,하이브리드 자동차 및 그 모터 제어 방법
+    JP6958484B2                      *,2018-05-29,2021-11-02,トヨタ自動車株式会社,車両用制御装置
+    JP7161340B2                      *,2018-08-10,2022-10-26,株式会社Subaru,充電システム
+    KR20200115820A                      *,2019-03-27,2020-10-08,현대자동차주식회사,하이브리드 자동차 및 그를 위한 제동 제어 방법
+    FR3100511B1                      *,2019-09-05,2022-05-20,Continental Automotive Gmbh,Calculateur de contrôle d’une chaîne de traction d’un véhicule hybride
+    DE102019124788A1                      *,2019-09-16,2020-08-20,Audi Ag,Verfahren zum Betreiben einer Antriebseinrichtung für ein Kraftfahrzeug sowie entsprechende Antriebseinrichtung
+
+abstract
+    モータによる回生制動が可能な車両において、ＥＣＵ（２００）は、回生電力がバッテリと電気加熱式触媒装置（ＥＨＣ）との双方に供給されている場合、仮にＥＨＣオフとした時（ＥＨＣへの電力供給を停止した時）にバッテリが過充電となると予測される場合、ＥＨＣオフとすることを一時的に遅延させる（２５０）。ＥＣＵ（２００）は、ＥＨＣオフ遅延中、ＥＨＣオフとすべき条件が成立したか否かを判定（２６０）し、ＥＨＣオフとすべき条件が成立すると、回生電力がバッテリ受入可能電力未満となるように回生ブレーキトルクを低下させるとともに、回生ブレーキトルクの低下に応じて油圧ブレーキトルクを増加させ（２７０）、その後にＥＨＣオフ遅延を解除する（２８０）。
+title
+    車両および車両の制御方法
+similar_document
+24
+    Publication,Publication Date,Title
+    JP5761371B2,2015-08-12,車両および車両の制御方法
+    JP5310959B2,2013-10-09,車両の充電装置
+    JP4538418B2,2010-09-08,二次電池の充放電制御装置
+    EP2563633B1,2014-07-30,Control apparatus for vehicle
+    JP5382238B2,2014-01-08,ハイブリッド車両およびその制御方法
+    JP5716681B2,2015-05-13,車両および車両の制御方法
+    JP5333573B2,2013-11-06,車両の制御装置および制御方法
+    WO2009157308A1,2009-12-30,ハイブリッド車両の制御装置および制御方法
+    JP5267734B2,2013-08-21,電動車両およびその制御方法
+    JP5928326B2,2016-06-01,電動車両および電動車両の制御方法
+    JP5729475B2,2015-06-03,車両および車両の制御方法
+    JP5803507B2,2015-11-04,ハイブリッド車両の制御装置およびハイブリッド車両
+    JP2006280161A,2006-10-12,ハイブリッド電気自動車用回生制御装置
+    JP5923906B2,2016-05-25,車両および車両の制御方法
+    JP2018012355A,2018-01-25,ハイブリッド車両のバッテリ制御システム
+    JP6798437B2,2020-12-09,電動車両
+    JP2010215106A,2010-09-30,ハイブリッド車両の制御システム
+    JP2010115035A,2010-05-20,電池保護装置
+    JP5545372B2,2014-07-09,車両の制御装置および制御方法
+    JP5641145B2,2014-12-17,車両および車両の制御方法
+    JP2015013517A,2015-01-22,車両の制御装置
+    JP2012224201A,2012-11-15,車両の駆動装置
+    JP2021138242A,2021-09-16,ハイブリッド車両およびその廃電制御方法
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    27
+classfication_items
+171
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B,6,0,W,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,4
+    B,6,0,K,6,/,4,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,0,2
+    B,6,0,L,7,/,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B,6,0,W,1,0,/,1,8,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,1,0
+    B,6,0,L,2,2,7,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,3,0,/,0,0
+    B,6,0,W,2,5,3,0,/,1,2
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,4,7
+    B,6,0,Y,2,3,0,0,/,4,7,4
+    F
+    F,0,1
+    F,0,1,N
+    F,0,1,N,3,/,0,0
+    F,0,1,N,3,/,0,8
+    F,0,1,N,3,/,1,0
+    F,0,1,N,3,/,1,8
+    F,0,1,N,3,/,2,0
+    F,0,1,N,3,/,2,0,0,6
+    F,0,1,N,3,/,2,0,1,3
+    Y
+    Y,0,2
+    Y,0,2,A
+    Y,0,2,A,5,0,/,0,0
+    Y,0,2,A,5,0,/,2,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,1,0
+    Y,0,2,T,1,0,/,1,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,8,0
+    Y,0,2,T,1,0,/,8,4
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,3
+
+application_events
+6
+    2011-11-24,Application filed by Toyota Motor Corp
+    2015-04-27,Publication of JPWO2013076836A1
+    2015-08-12,Application granted
+    2015-08-12,Publication of JP5761371B2
+    Status,Active
+    2031-11-24,Anticipated expiration
+
+active_area
+4
+    C,N
+    W,O
+    J,P
+    U,S
+
+not_active_area
+1
+    E,P
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2011/077025,2011-11-24,車両および車両の制御方法
+
+legal_event
+5
+    Date,Code,Title,Description
+    2015-05-07,TRDD,Decision of grant or rejection written,
+    2015-05-13,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20150512
+    2015-06-15,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20150525
+    2015-06-19,R151,Written notification of patent or utility model registration,Ref document number: 5761371Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R151
+

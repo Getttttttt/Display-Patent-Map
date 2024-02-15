@@ -1,0 +1,236 @@
+ID
+    US20180056807A1
+citation_exist
+    Patent Citations (11)
+citation_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US20060005738A1                      *,2001-03-27,2006-01-12,Kumar Ajith K,Railroad vehicle with energy regeneration
+    US20040090195A1                      *,2001-06-11,2004-05-13,Motsenbocker Marvin A.,Efficient control, monitoring and energy devices for vehicles such as watercraft
+    JP3665060B2                      *,2003-07-04,2005-06-29,本田技研工業株式会社,Control device for hybrid vehicle
+    JP4314257B2                      *,2006-09-28,2009-08-12,トヨタ自動車株式会社,VEHICLE DISPLAY DEVICE, VEHICLE DISPLAY DEVICE CONTROL METHOD, PROGRAM, AND RECORDING MEDIUM CONTAINING THE PROGRAM
+    JP5210591B2                      *,2007-10-15,2013-06-12,トヨタ自動車株式会社,Secondary battery control system, electric vehicle equipped with the same, and secondary battery control method
+    US9702349B2                      *,2013-03-15,2017-07-11,ClearMotion, Inc.,Active vehicle suspension system
+    US20160045841A1                      *,2013-03-15,2016-02-18,Transtar Group, Ltd.,New and improved system for processing various chemicals and materials
+    KR101628516B1,2014-11-05,2016-06-08,현대자동차주식회사,Method for controlling ldc voltage of hybrid vehicle
+    JP6135698B2                      *,2015-03-04,2017-05-31,トヨタ自動車株式会社,Information processing apparatus for vehicle
+    KR101655665B1,2015-04-09,2016-09-07,현대자동차주식회사,System and Method for controlling variable voltage of Low voltage DC-DC Converter at regen mode of hybrid vehicle
+    US10421462B2                      *,2015-06-05,2019-09-24,Gogoro Inc.,Systems and methods for vehicle load detection and response
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (7)
+              
+
+
+citedBy_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20190070972A1                      *,2017-09-07,2019-03-07,Hyundai Motor Company,Apparatus for controlling charging of environment-friendly vehicle, system including the same, and method thereof
+    CN109720208A                      *,2018-12-28,2019-05-07,北汽福田汽车股份有限公司,Feedback energy control method, device, vehicle and computer readable storage medium
+    US20210349156A1                      *,2020-05-08,2021-11-11,Kyundai Motors Company,System for estimating state of health of battery using big data
+    CN113645296A                      *,2021-08-10,2021-11-12,宁波小遛共享信息科技有限公司,Method and device for reporting battery module information of shared bicycle and computer equipment
+    US11312255B2                      *,2020-05-13,2022-04-26,Hyundai Motor Company,System and method of controlling low voltage DC-DC converter of hybrid vehicle
+    Family To Family Citations,,,,
+    KR102371716B1                      *,2018-12-12,2022-03-07,현대자동차주식회사,Apparatus and method for controlloing low voltage dc-dc converter of hybrid vehicle
+    CN110271429B                      *,2019-06-28,2020-11-20,潍柴动力股份有限公司,Method and device for energy recovery of electric automobile
+
+abstract
+    A method for controlling an output of an LDC in an environmentally friendly vehicle is provided. The method includes determining whether the vehicle travels in the regenerative braking mode and when the vehicle does, transmitting a first slope signal to the LDC to increase an output voltage of the LDC that charges or discharges an auxiliary battery supplying power to an electric load using a high voltage battery. The first slope signal determines an upward slope of the output voltage of the LDC according to time as a first slope. When the vehicle does not travel in the regenerative braking mode and uses a high power electric load a second slope signal is transmitted to the LDC to increase the output voltage of the LDC. The second slope signal determines the upward slope as the second slope having a slope less than the first slope.
+title
+    Method and device for controlling output of low voltage dc-dc converter in environmentally friendly vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US10124695B2,2018-11-13,Method and device for controlling output of low voltage DC-DC converter in environmentally friendly vehicle
+    CN106335382B,2020-07-10,Method for controlling output of L DC in vehicle and L DC of vehicle
+    CN106494383B,2020-09-25,Control method for changing running mode of hybrid vehicle and control device thereof
+    US20160368479A1,2016-12-22,System and method for driving mode control of hybrid vehicle
+    US8531053B2,2013-09-10,Variable voltage control system and method for hybrid vehicle
+    US9873334B2,2018-01-23,Method and system for variably adjusting voltage of LDC for hybrid vehicle
+    US9365121B2,2016-06-14,Method and system for controlling charge and discharge of battery
+    US8768553B2,2014-07-01,Method and system for controlling charging of battery for hybrid electric vehicle
+    US20130325230A1,2013-12-05,Apparatus and method of controlling motor torque for environment friendly vehicle
+    US20180345806A1,2018-12-06,Vehicle battery system and method of controlling same
+    US9660558B2,2017-05-23,System and method for controlling regenerative braking of electric vehicle
+    CN105564421B,2020-02-18,Control method and system for preventing overheating of motor when TMED hybrid vehicle is driven
+    US9868436B2,2018-01-16,Method and device for controlling start time of engine in hybrid vehicle
+    US9796290B2,2017-10-24,Method and apparatus of controlling output voltage of DC converter for vehicle including driving motor
+    US9931958B2,2018-04-03,Auxiliary battery recharging control method and apparatus
+    US20150005999A1,2015-01-01,System and method for controlling driving mode of hybrid vehicle
+    US20150183418A1,2015-07-02,Apparatus and method for controlling full load mode of hybrid electric vehicle
+    CN106208179B,2020-09-25,Method and apparatus for controlling charging of low voltage battery
+    CN111824114A,2020-10-27,Vehicle and control method thereof
+    US10272797B2,2019-04-30,Method and system for controlling charging of low-voltage battery
+    EP3708451B1,2022-08-31,Apparatus for controlling towing mode of electric vehicle and method thereof
+    US20170349162A1,2017-12-07,System and method for controlling engine in hybrid vehicle
+    US9791039B1,2017-10-17,Apparatus and method for shift control of vehicle
+    US20100145561A1,2010-06-10,Method for preventing secondary overvoltage-breakage in a hybrid vehicle
+    US9579984B1,2017-02-28,Control method of low voltage DC-DC converter for hybrid vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    7
+classfication_nums
+    21
+classfication_items
+119
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,0
+    B,6,0,L,1,1,/,1,8,6,4
+    B,6,0,L,1,1,/,1,8,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,1
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,1,0
+    Y,0,2,T,1,0,/,4,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,0,4
+    Y,1,0,S,9,0,3,/,9,0,7
+
+application_events
+7
+    2016-12-02,Application filed by Hyundai Motor Co, Kia Motors Corp
+    2016-12-02,Assigned to HYUNDAI MOTOR COMPANY, KIA MOTORS CORPORATION
+    2018-03-01,Publication of US20180056807A1
+    2018-11-13,Application granted
+    2018-11-13,Publication of US10124695B2
+    Status,Active
+    2037-07-24,Adjusted expiration
+
+active_area
+2
+    K,R
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    KR10-2016-0107052,2016-08-23,
+    KR1020160107052A,2016-08-23,Method and device for controlling output of low voltage DC-DC converter in environmentally friendly vehicle
+
+legal_event
+4
+    Date,Code,Title,Description
+    2016-12-02,AS,Assignment,Owner name: KIA MOTORS CORPORATION, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:PARK, JUN YEON;JANG, YOUNGJIN;KIM, JEEHEON;AND OTHERS;REEL/FRAME:040502/0136Effective date: 20161201Owner name: HYUNDAI MOTOR COMPANY, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:PARK, JUN YEON;JANG, YOUNGJIN;KIM, JEEHEON;AND OTHERS;REEL/FRAME:040502/0136Effective date: 20161201
+    2018-10-24,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2022-04-25,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

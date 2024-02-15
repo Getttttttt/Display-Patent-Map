@@ -1,0 +1,275 @@
+ID
+    US8924051B2
+citation_exist
+    Patent Citations (20)
+citation_infor
+22
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5714851A                      *,1995-01-25,1998-02-03,Mercedes-Benz Ag,Serial hybrid drive arrangement for a motor vehicle
+    US20020174798A1                      *,2001-03-27,2002-11-28,General Electric Company,Hybrid energy locomotive electrical power storage system
+    US6612245B2                      *,2001-03-27,2003-09-02,General Electric Company,Locomotive energy tender
+    US6615118B2                      *,2001-03-27,2003-09-02,General Electric Company,Hybrid energy power management system and method
+    US20030222502A1                      *,2002-05-30,2003-12-04,Nec Tokin Corporation,Hybrid power supply system
+    JP2005278269A,2004-03-24,2005-10-06,Railway Technical Res Inst,Drive controller for vehicle
+    US20060005738A1                      *,2001-03-27,2006-01-12,Kumar Ajith K,Railroad vehicle with energy regeneration
+    US20060005736A1                      *,2001-03-27,2006-01-12,General Electric Company,Hybrid energy off highway vehicle electric power management system and method
+    US20060005739A1                      *,2001-03-27,2006-01-12,Kumar Ajith K,Railroad system comprising railroad vehicle with energy regeneration
+    US20060066146A1                      *,2004-09-30,2006-03-30,Toyota Jidosha Kabushiki Kaisha,Hydraulic brake apparatus
+    JP2006094613A,2004-09-22,2006-04-06,Railway Technical Res Inst,Railway rolling stock system
+    US7185591B2                      *,2001-03-27,2007-03-06,General Electric Company,Hybrid energy off highway vehicle propulsion circuit
+    JP2008228359A,2007-03-08,2008-09-25,Railway Technical Res Inst,Power storage device and power storage device system for electric rolling stock
+    JP2008228451A,2007-03-13,2008-09-25,Hitachi Ltd,Drive system of railway vehicle
+    US20080266920A1                      *,2007-04-27,2008-10-30,Hitachi, Ltd.,Control apparatus of power conversion system
+    JP2009183078A,2008-01-31,2009-08-13,Hitachi Ltd,Drive system of electric vehicle
+    JP2009183079A,2008-01-31,2009-08-13,Hitachi Ltd,Drive unit for railway vehicle
+    US20100070117A1                      *,2008-09-09,2010-03-18,Industrial Railway Switching & Services, Inc.,Method and Apparatus for Locomotive Apparatus
+    US20130063055A1                      *,2011-09-14,2013-03-14,Daijiro ARAKI,Drive device for railway vehicle
+    Family To Family Citations,,,,
+    US9193268B2                      *,2001-03-27,2015-11-24,General Electric Company,Hybrid energy power management system and method
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (19)
+              
+
+
+citedBy_infor
+21
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20170349187A1                      *,2016-06-03,2017-12-07,General Electric Company,Vehicle propulsion system and method
+    US11447034B2                      *,2011-06-13,2022-09-20,Transportation Ip Holdings, Llc,Vehicle control system and method
+    Family To Family Citations,,,,
+    US8583311B2                      *,2010-07-30,2013-11-12,Mitsubishi Heavy Industries, Ltd.,Overhead wire transportation system and control method thereof
+    JP5401486B2                      *,2011-02-22,2014-01-29,株式会社日立製作所,Railway vehicle drive system
+    JP5615427B2                      *,2011-03-28,2014-10-29,三菱電機株式会社,AC motor drive device
+    JP5766640B2                      *,2012-03-16,2015-08-19,株式会社東芝,Electric vehicle control device
+    US20140372050A1                      *,2012-03-27,2014-12-18,Mitsubishi Electric Corporation,Life diagnosis method for power storage device
+    KR101606679B1                      *,2013-04-09,2016-03-25,미쓰비시덴키 가부시키가이샤,Multiaxial driving apparatus
+    JP6122356B2                      *,2013-06-27,2017-04-26,株式会社日立製作所,Converter control device
+    US9522613B2,2013-08-05,2016-12-20,Mitsubishi Electric Corporation,Electric vehicle control system and power conversion device
+    JP6259778B2                      *,2014-02-13,2018-01-10,株式会社日立製作所,Railway vehicle drive system
+    US9446768B2                      *,2014-03-26,2016-09-20,Ford Global Technologies, Llc,System and method for energy optimization in autonomous vehicle operation
+    JP6642974B2                      *,2015-03-27,2020-02-12,株式会社東芝,Electric car control device
+    JP6417297B2                      *,2015-08-27,2018-11-07,株式会社日立製作所,Power conversion device for railway vehicles
+    DE102015221266A1,2015-10-30,2017-05-04,Siemens Aktiengesellschaft,Energy conversion device
+    CN108092563B                      *,2016-11-21,2021-07-27,德昌电机(深圳)有限公司,Motor driving device and application equipment
+    DE102017106619A1                      *,2017-03-28,2018-10-04,Ghh Fahrzeuge Gmbh,Electrically driven underground vehicle, in particular loader
+    CN110014864B                      *,2017-12-20,2021-02-09,中车长春轨道客车股份有限公司,Train traction rescue method and system
+    KR102129132B1                      *,2018-07-11,2020-07-01,효성중공업 주식회사,Operation Method of ESS in Charging and Discharging
+
+abstract
+    A control device for a railway vehicle controls an inverter device based on a direct-current link voltage Vfc between the opposite terminals of a filter capacitor. A direct-current voltage applied to the inverter device during regeneration is the sum of a voltage Vb of power storage equipment and an overhead wire voltage Vs, so that only detecting the direct-current link voltage Vfc is not enough to separate the voltage Vb of the power storage equipment and the overhead wire voltage Vs from each other. The power storage equipment can be connected in series with the inverter device, and a voltage sensor that detects the overhead wire voltage Vs is provided between a current collector device and a grounding point. The power storage equipment is controlled based on the detection result from the voltage sensor.
+title
+    Drive device for railway vehicle
+similar_document
+22
+    Publication,Publication Date,Title
+    US8924051B2,2014-12-30,Drive device for railway vehicle
+    JP5558022B2,2014-07-23,Electric vehicle storage control device and storage control method
+    US9371005B2,2016-06-21,Battery management apparatus for an electric vehicle, and method for managing same
+    JP3911621B2,2007-05-09,Railway system for battery-powered trains
+    JP5014518B2,2012-08-29,Electric vehicle propulsion control device and railway vehicle system
+    JP5902534B2,2016-04-13,Railway vehicle drive system
+    JP2008263741A,2008-10-30,Battery charger of railroad vehicle
+    JP7290965B2,2023-06-14,Electric vehicle power supply system
+    JP5350843B2,2013-11-27,Power supply control device and power supply control method
+    US11097620B2,2021-08-24,Circuit system for railroad vehicle
+    JP6765208B2,2020-10-07,Railroad vehicle
+    JP2008228451A,2008-09-25,Drive system of railway vehicle
+    KR20170025605A,2017-03-08,Power conversion control method of for using high voltage vehicle
+    EP2492132B1,2018-07-11,Drive device for railway vehicle
+    JP5777669B2,2015-09-09,Electric vehicle control device
+    JP5265276B2,2013-08-14,Main circuit system, power supply method
+    JP2001320831A,2001-11-16,Electric rolling stock for railway
+    CN108422955A,2018-08-21,Power-supply device for vehicle
+    JP6116838B2,2017-04-19,Power supply device for vehicle and electric vehicle equipped with this power supply device
+    CN114633641A,2022-06-17,Power supply system
+    JP2014107944A,2014-06-09,Hybrid vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    6
+classfication_nums
+    25
+classfication_items
+134
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,9,/,0,0
+    B,6,0,L,9,/,1,6
+    B,6,0,L,9,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,9,/,0,0
+    B,6,0,L,9,/,1,6
+    B,6,0,L,9,/,1,8
+    B,6,0,L,9,/,2,2
+    B,6,0,L,1,1,/,0,0,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,7,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,2,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+    Y,0,2,T,9,0,/,1,6,1
+
+application_events
+7
+    2011-05-31,Application filed by Hitachi Ltd
+    2012-11-30,Assigned to HITACHI, LTD.
+    2013-03-21,Publication of US20130073125A1
+    2014-12-30,Application granted
+    2014-12-30,Publication of US8924051B2
+    Status,Expired - Fee Related
+    2031-11-08,Adjusted expiration
+
+active_area
+2
+    W,O
+    C,N
+
+not_active_area
+4
+    J,P
+    E,P
+    U,S
+    K,R
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2010125440A,2010-06-01,Railway vehicle drive system
+    JP2010-125440,2010-06-01,
+    PCT/JP2011/062454,2011-05-31,Drive device for railway vehicle
+
+legal_event
+6
+    Date,Code,Title,Description
+    2012-11-30,AS,Assignment,Owner name: HITACHI, LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:ARAKI, DAIJIRO;SHIMADA, MOTOMI;TACHIHARA, SHUICHI;AND OTHERS;SIGNING DATES FROM 20121109 TO 20121119;REEL/FRAME:029379/0345
+    2018-08-13,FEPP,Fee payment procedure,Free format text: MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2019-02-04,LAPS,Lapse for failure to pay maintenance fees,Free format text: PATENT EXPIRED FOR FAILURE TO PAY MAINTENANCE FEES (ORIGINAL EVENT CODE: EXP.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2019-02-04,STCH,Information on status: patent discontinuation,Free format text: PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362
+    2019-02-26,FP,Lapsed due to failure to pay maintenance fee,Effective date: 20181230
+

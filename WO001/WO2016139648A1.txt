@@ -1,0 +1,198 @@
+ID
+    WO2016139648A1
+citation_exist
+    Patent Citations (23)
+citation_infor
+25
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5472265A                      *,1992-12-10,1995-12-05,Toyota Jidosha Kabushiki Kaisha,Antilock braking control apparatus for electric vehicle
+    US5615933A                      *,1995-05-31,1997-04-01,General Motors Corporation,Electric vehicle with regenerative and anti-lock braking
+    US20120138375A1                      *,2010-12-03,2012-06-07,Vectrix International Limited,Regenerative braking system for an electric vehicle and method of use
+    US20140277983A1                      *,2013-03-15,2014-09-18,Ford Global Technologies, Llc,Vehicle and method for controlling regenerative braking
+    EP2823985A1                      *,2012-03-07,2015-01-14,Nissan Motor Co., Ltd.,Brake control device
+    Family To Family Citations,,,,
+    JP3346045B2                      *,1994-08-25,2002-11-18,アイシン精機株式会社,Anti-skid control system for four-wheel drive vehicles
+    JPH10322803A                      *,1997-05-12,1998-12-04,Toyota Motor Corp,Vehicle control device
+    JP3705077B2                      *,1999-06-01,2005-10-12,トヨタ自動車株式会社,Vehicle motion control device
+    JP2001219836A                      *,2000-02-08,2001-08-14,Bosch Braking Systems Co Ltd,Anti-skid control method for vehicle
+    US6724165B2                      *,2002-03-11,2004-04-20,Vectrix Corporation,Regenerative braking system for an electric vehicle
+    JP2005051888A                      *,2003-07-31,2005-02-24,Toyota Motor Corp,Electric automobile and method for controlling the same
+    JP4429762B2                      *,2004-02-24,2010-03-10,本田技研工業株式会社,Brake equipment for motorcycles
+    US7548032B2                      *,2005-08-23,2009-06-16,General Electric Company,Locomotive speed determination
+    CN102918763B                      *,2010-06-04,2015-09-30,川崎重工业株式会社,Recreation vehicle
+    CN103155381B                      *,2010-11-12,2016-04-20,川崎重工业株式会社,The cooling structure of motor vehicle
+    WO2012085986A1                      *,2010-12-24,2012-06-28,川崎重工業株式会社,Electric motorcycle
+    JP5715000B2                      *,2011-07-28,2015-05-07,川崎重工業株式会社,Control device and control method for saddle-ride type vehicle
+    KR101272955B1                      *,2011-12-07,2013-06-12,기아자동차주식회사,Method for controlling motor of green car
+    JP5918671B2                      *,2012-09-24,2016-05-18,日立オートモティブシステムズ株式会社,Brake control device
+    US9616755B2                      *,2012-10-22,2017-04-11,Kawasaki Jukogyo Kabushiki Kaisha,Regenerative brake control system of electric vehicle
+    CN104703837B                      *,2012-10-22,2017-03-08,川崎重工业株式会社,The regenerative brake control system of the electrodynamic type vehicles
+    ITVE20130055A1                      *,2013-10-18,2015-04-19,Benedetto Mauro Stefano Di,ELECTRIC MOTORCYCLE MOTORCYCLE EQUIPPED WITH PROJECT CHARACTERISTICS TO FACILITATE MAINTENANCE
+    US9340254B2                      *,2014-04-15,2016-05-17,Brammo, Inc.,Electric motorcycle with adjustable squat ratio isolated from vehicle geometry
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (5)
+              
+
+
+citedBy_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN107901912A                      *,2016-10-04,2018-04-13,现代自动车株式会社,The method that road surface is determined based on vehicle data
+    Family To Family Citations,,,,
+    US11299229B2,2018-04-27,2022-04-12,FUELL Inc.,Electric saddle type vehicle chassis
+    US11654996B2,2018-04-27,2023-05-23,FUELL Inc.,Electric saddle type vehicle
+    US11753101B2,2018-04-27,2023-09-12,FUELL Inc.,Electric saddle type vehicle with storage areas
+    US20200180577A1                      *,2018-12-06,2020-06-11,FUELL Inc.,Brake System for Saddle-Type Vehicle
+
+abstract
+    The electric motorcycle (M) comprises a support frame, a rear wheel (RW), a front wheel (FW), an electric propulsion motor (E), an electronic control unit (2) for driving the electric motor (E) and a wheel anti-lock system (1) operatively connected to the control unit (2), the system (1) having detection means (18) of a slippage condition (SLP) of at least one of the wheels (RW, FW) and limiting means (19) operatively connected to the detecting means (18), able to receive at input at least a maximum regeneration torque value (RTMAX) of the electric motor (E) of the electric motorcycle (M) and able to limit the maximum regeneration torque (RTMAX) in case of detection of the slippage condition (SLP), wherein the system (1) comprises verification means (20) of the friction conditions of the wheels (RW, FW) on the road surface, in order to verify the presence or not of a high friction condition (HIGH MU) or a low friction condition (LOW MU), wherein the limiting means (19) are operatively connected to the verification means (20) and, in case of detection of the slippage condition (SLP), are able to limit the maximum regeneration torque (RTMAX) according to the high friction (HIGH MU) or low friction (LOW MU) condition, and wherein the verification means (20) of the friction conditions comprise: a first detection unit (35) able to detect the high friction condition (HIGH MU) according to at least an acceleration value (AV ACC), a pressure value (PI) of a front brake of the electric motorcycle (M) and an instantaneous torque value (T IN) of the electric motor (E); a second detection unit (36) able to detect the low friction condition (LOW MU) according to at least a pressure value (PI) of a front brake of the electric motorcycle (M) and an instantaneous torque value (T IN) of the electric motor (E)-
+title
+    Electric motorcycle with wheel anti-lock system
+similar_document
+23
+    Publication,Publication Date,Title
+    EP3265336B1,2022-06-22,Electric motorcycle with wheel anti-lock system
+    JP5922586B2,2016-05-24,Motor drive control device
+    JP5302749B2,2013-10-02,Electric vehicle control device
+    KR101912509B1,2018-10-26,Device for controlling electric vehicle and method for controlling electric vehicle
+    WO2015141520A1,2015-09-24,Slip control device of electric automobile
+    WO2004028852A1,2004-04-08,Driver of electric automobile
+    US20050258785A1,2005-11-24,Device and method for controlling prime mover
+    EP3227136B1,2022-12-07,Electric vehicle moving direction detection
+    US20090107749A1,2009-04-30,Closed Loop Traction System for Light-Weight Utility Vehicles
+    JP2014236590A,2014-12-15,Slip control device for electric vehicle
+    US20120089281A1,2012-04-12,Method and driveline stability control system for a vehicle
+    US9688280B2,2017-06-27,Traction control device
+    US20140018986A1,2014-01-16,System and method for braking a hybrid or electric traction vehicle
+    KR20160042012A,2016-04-18,Control of regenerative braking in an electric or hybrid vehicle
+    JP5018320B2,2012-09-05,Vehicle travel control apparatus and method
+    EP3666582A1,2020-06-17,Vehicle control device, vehicle control system, and vehicle control method
+    JP6250444B2,2017-12-20,Electric vehicle slip control device
+    JP2006014404A,2006-01-12,Idling detector and traction controller for driving wheel
+    JP5760489B2,2015-08-12,Vehicle brake system
+    JP2017036009A,2017-02-16,Bicycle speed control device and bicycle
+    JP2011259601A,2011-12-22,Controller for countermeasure against motor lock of electric vehicle
+    CN115230478A,2022-10-25,Energy recovery control method, energy recovery control device, electronic apparatus, vehicle, and storage medium
+
+patent_application
+    NoExist
+patent_priority_application
+6
+    Application,Priority date,Filing date,Title
+    CN201680025194.8A,2015-03-05,2016-03-07,Electric motorcycle with wheel anti-lock system
+    EP16717465.5A,2015-03-05,2016-03-07,Electric motorcycle with wheel anti-lock system
+    ES16717465T,2015-03-05,2016-03-07,Electric motorcycle with anti-lock wheel system
+    US15/555,551,2015-03-05,2016-03-07,Electric motorcycle with wheel anti-lock system
+    JP2017542864A,2015-03-05,2016-03-07,Electric motorcycle with wheel anti-lock system
+
+inventor_number
+    5
+classfication_nums
+    10
+classfication_items
+61
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,0
+    B,6,0,L,3,/,1,0,6
+    B,6,0,L,3,/,1,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2016-03-07,Application filed by Energica Motor Company S.R.L.
+    2016-03-07,Priority to CN201680025194.8A
+    2016-03-07,Priority to EP16717465.5A
+    2016-03-07,Priority to ES16717465T
+    2016-03-07,Priority to US15/555,551
+    2016-03-07,Priority to JP2017542864A
+    2016-09-09,Publication of WO2016139648A1
+
+active_area
+6
+    E,S
+    U,S
+    W,O
+    J,P
+    E,P
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    ITMO2015A000047,2015-03-05,
+    ITMO20150047,2015-03-05,
+
+legal_event
+6
+    Date,Code,Title,Description
+    2016-10-19,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 16717465Country of ref document: EPKind code of ref document: A1
+    2017-08-14,ENP,Entry into the national phase,Ref document number: 2017542864Country of ref document: JPKind code of ref document: A
+    2017-09-05,WWE,Wipo information: entry into national phase,Ref document number: 15555551Country of ref document: US
+    2017-09-06,NENP,Non-entry into the national phase,Ref country code: DE
+    2017-10-04,REEP,Request for entry into the european phase,Ref document number: 2016717465Country of ref document: EP
+

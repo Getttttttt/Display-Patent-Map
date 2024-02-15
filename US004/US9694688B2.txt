@@ -1,0 +1,236 @@
+ID
+    US9694688B2
+citation_exist
+    Patent Citations (19)
+citation_infor
+21
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5798629A                      *,1995-06-07,1998-08-25,Nissan Motor Co., Ltd.,Apparatus for diagnosing low voltage battery
+    JPH11215610A,1998-01-21,1999-08-06,Yamaha Motor Co Ltd,Drive controller for electric vehicle
+    US5998884A                      *,1997-10-24,1999-12-07,Denso Corporation,Driving system for electric vehicles having a plurality of batteries
+    JP2000152409A,1998-09-08,2000-05-30,Toyota Motor Corp,Controller for vehicle with generator and battery
+    US6081098A                      *,1997-11-03,2000-06-27,Midtronics, Inc.,Method and apparatus for charging a battery
+    US20010041952A1                      *,2000-05-02,2001-11-15,Toyota Jidosha Kabushiki Kaisha,Vehicle with power source system mounted thereon, power source system controller, method of controlling power source system, and method of controlling start of such vehicle
+    JP2003134602A,2001-10-22,2003-05-09,Nissan Motor Co Ltd,Regenerative energy control device for hybrid vehicle
+    JP2005329740A,2004-05-18,2005-12-02,Toyota Motor Corp,Vehicular braking system
+    DE102005058829A1,2005-12-09,2007-06-14,Robert Bosch Gmbh,Electrical energy recuperating method for hybrid-vehicle, involves effecting part of desired-braking torque as long as energy storage is capable of absorbing it, and remaining part of torque is dissipated by producing lost heat
+    JP2011097666A,2009-10-27,2011-05-12,Toyota Motor Corp,Vehicle and control method therefor
+    US8042633B2                      *,2007-02-13,2011-10-25,Panasonic Ev Energy Co., Ltd.,Discharging system and electric vehicle
+    US8111036B2                      *,2006-03-27,2012-02-07,Stephen George Rosenstock,System for electrically connecting and disconnecting a vehicle generator from a vehicle storage unit
+    US20120056470A1,2010-09-03,2012-03-08,Hyundai Motor Company,Braking control method for electric vehicle
+    US8682517B2                      *,2007-06-15,2014-03-25,Toyota Jidosha Kabushiki Kaisha,Power supply system, vehicle with the same and charge/discharge control method
+    US20140229129A1                      *,2013-02-12,2014-08-14,Johnson Controls Technology Company,Battery monitoring network
+    US20140225620A1                      *,2013-02-12,2014-08-14,Johnson Controls Technology Company,Battery monitoring system with on demand diagnostic activation
+    US20140379209A1                      *,2011-12-26,2014-12-25,Kawasaki Jukogyo Kabushiki Kaisha,Method and System for Diagnosing Electric Vehicle
+    US9300148B2                      *,2011-03-18,2016-03-29,Mando Corporation,Apparatus for charging both main battery and auxiliary battery using the same primary winding and two different secondary windings of single transformer
+    Family To Family Citations,,,,
+    CN102490722B                      *,2011-12-28,2014-08-20,重庆长安汽车股份有限公司,Method and system for recycling sliding energy of automobile
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (2)
+              
+
+
+citedBy_exist
+    
+              Cited By (20)
+              
+
+
+citedBy_infor
+22
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20190016194A1                      *,2017-07-17,2019-01-17,Audi Ag,Auxiliary heating system
+    US10859455B2                      *,2017-07-13,2020-12-08,Fanuc Corporation,Brake inspection device and motor controller
+    EP4056404A1                      *,2021-03-12,2022-09-14,Toyota Jidosha Kabushiki Kaisha,Vehicle
+    Family To Family Citations,,,,
+    KR102138328B1                      *,2013-08-16,2020-07-28,한화디펜스 주식회사,Apparatus and method for driving car
+    CN104442412B                      *,2013-09-18,2018-01-19,通用电气公司,Device, mobile transporting equipment, electric tractor, electri forklift and associated method
+    US9987942B2                      *,2014-09-03,2018-06-05,Ford Global Technologies, Llc,Method of operating vehicle powertrain based on prediction of how different chemical type batteries connected in parallel will operate to output demanded current
+    CN104401232B                      *,2014-12-21,2016-06-22,吉林大学,Electric automobile torque optimization method based on data-driven PREDICTIVE CONTROL
+    JP6315622B2                      *,2016-03-04,2018-04-25,本田技研工業株式会社,vehicle
+    FR3049537A1                      *,2016-03-30,2017-10-06,Orange,AUTONOMOUS ALERT DEVICE IN CASE OF MOVEMENT OF VEHICLE
+    US10014805B2,2016-05-06,2018-07-03,The Boeing Company,Method and apparatus for adjusting motor commutation phase and period
+    US10050574B2                      *,2016-05-06,2018-08-14,The Boeing Company,Management of motor regeneration
+    KR101836891B1                      *,2016-05-30,2018-03-09,상신브레이크주식회사,Control and measuring apparatus for electromagnetic and regenerative retarder of an actual vehicle
+    KR102232119B1                      *,2016-09-20,2021-03-25,주식회사 엘지화학,Electric Vehicle Comprising Protective Cover and Rotating Means
+    JP2018086933A                      *,2016-11-29,2018-06-07,トヨタ自動車株式会社,Hybrid vehicle
+    JP7026452B2                      *,2017-05-12,2022-02-28,株式会社クボタ,Electric work platform
+    CN111886798A,2017-11-17,2020-11-03,安卡有限公司,Method and system for constant temperature control of motorized spindle
+    DE102018215653A1                      *,2018-09-14,2020-03-19,Hyundai Motor Company,Brake system for braking an electric vehicle
+    JP7310640B2,2020-02-19,2023-07-19,トヨタ自動車株式会社,4 wheel drive vehicle
+    CN115514669B                      *,2021-06-21,2023-09-12,北京机械设备研究所,Multi-control point cooperative control data transmission method and system
+    CN115871481A                      *,2021-09-29,2023-03-31,本田技研工业株式会社,Motor generator control system and hybrid vehicle
+
+abstract
+    In order to provide an electric vehicle drive system capable of promoting improvement in stability of vehicle traveling when stopping a regeneration operation during operation of a regeneration cooperative brake, the electric vehicle drive system, a battery control unit 310, upon detecting that a battery state is an unchargeable state during control of the regeneration cooperative brake, diagnoses whether a battery 300 is chargeable, and upon deciding to be unchargeable from a result of diagnosis, outputs a Fail signal. Then, a rotating electrical machine control unit 210, upon receiving a Fail prediction signal while the regeneration cooperative brake is being controlled, executes loss increase control for increasing an internal loss of a rotating electrical machine 900 and reducing regenerative electric power by a regenerative brake while maintaining torque of the rotating electrical machine 900 at regenerative torque corresponding to regenerative brake force.
+title
+    Electric vehicle drive system
+similar_document
+24
+    Publication,Publication Date,Title
+    US9694688B2,2017-07-04,Electric vehicle drive system
+    CN102781711B,2014-12-10,Electric vehicle and method for controlling same
+    US8483896B2,2013-07-09,Motor control device and motor system equipped with motor control device
+    JP4380700B2,2009-12-09,Electric vehicle
+    EP1950878B1,2018-10-24,Motor drive system
+    US8674637B2,2014-03-18,Vehicle
+    EP2394837B1,2016-08-31,Power supply system and electric vehicle using the same
+    CN103269898B,2015-09-23,Elec. vehicle and control method thereof
+    JP5170100B2,2013-03-27,Vehicle charging device and vehicle charging method
+    US8575875B2,2013-11-05,Control device for voltage converter, vehicle equipped with the same, and control method for voltage converter
+    WO2005069478A1,2005-07-28,Power supply apparatus, motor drive control method using the same and motor vehicle having the same mounted thereon
+    JP5837439B2,2015-12-24,Electric vehicle
+    JP2011072067A,2011-04-07,Power supply system for vehicle and electric vehicle equipped with the same
+    WO2014050283A1,2014-04-03,Drive control device for rotary electric machine and electric vehicle drive system
+    JP2013192278A,2013-09-26,Electric vehicle
+    JP2013090410A,2013-05-13,Electric vehicle
+    JP2012125051A,2012-06-28,Power supply control device of electric automobile
+    JP6683052B2,2020-04-15,Converter device
+    JP6469364B2,2019-02-13,Control device and control method for electric vehicle
+    WO2013038498A1,2013-03-21,Vehicle and method for controlling vehicle
+    JP2012065479A,2012-03-29,Motor drive device and vehicle equipped with the same
+    CN115871481A,2023-03-31,Motor generator control system and hybrid vehicle
+    JP2008167599A,2008-07-17,Electric vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    20
+classfication_items
+92
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B,6,0,L,1,1,/,1,8,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,7,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,1,/,0,0
+    H,0,2,P,2,1,/,3,6
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,7,/,0,0
+    H,0,2,P,2,7,/,0,4
+    H,0,2,P,2,7,/,0,6
+    H,0,2,P,2,7,/,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,9
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,3
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,0,5
+    Y,0,2,T,1,0,/,7,0,4,4
+    Y,0,2,T,1,0,/,7,0,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,5,8
+
+application_events
+8
+    2013-07-24,Application filed by Hitachi Automotive Systems Ltd
+    2015-02-13,Assigned to HITACHI AUTOMOTIVE SYSTEMS, LTD.
+    2015-07-23,Publication of US20150202966A1
+    2017-07-04,Application granted
+    2017-07-04,Publication of US9694688B2
+    2021-03-25,Assigned to HITACHI ASTEMO, LTD.
+    Status,Active
+    2033-10-28,Adjusted expiration
+
+active_area
+5
+    J,P
+    U,S
+    C,N
+    D,E
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2012-190345,2012-08-30,
+    JP2012190345A,2012-08-30,Electric vehicle drive system
+    PCT/JP2013/069970,2013-07-24,Electric vehicle drive system
+
+legal_event
+5
+    Date,Code,Title,Description
+    2015-02-13,AS,Assignment,Owner name: HITACHI AUTOMOTIVE SYSTEMS, LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:OYAMA, KAZUTO;MIYAZAKI, HIDEKI;HOSHINO, KATSUHIRO;SIGNING DATES FROM 20141215 TO 20141223;REEL/FRAME:034960/0940
+    2017-06-14,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2020-12-23,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+    2021-03-25,AS,Assignment,Owner name: HITACHI ASTEMO, LTD., JAPANFree format text: CHANGE OF NAME;ASSIGNOR:HITACHI AUTOMOTIVE SYSTEMS, LTD.;REEL/FRAME:056299/0447Effective date: 20210101
+

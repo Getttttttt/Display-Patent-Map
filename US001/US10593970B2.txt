@@ -1,0 +1,229 @@
+ID
+    US10593970B2
+citation_exist
+    Patent Citations (18)
+citation_infor
+20
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2004282456A,2003-03-17,2004-10-07,Nissan Motor Co Ltd,Information communication equipment for vehicle
+    JP2004362787A,2003-06-02,2004-12-24,Hitachi Home & Life Solutions Inc,Fuel cell system with power storing means
+    JP2005044749A,2003-07-25,2005-02-17,Nissan Motor Co Ltd,Fuel cell automobile
+    JP2007053051A,2005-08-19,2007-03-01,Nissan Motor Co Ltd,Control unit of fuel cell vehicle
+    US20090120699A1                      *,2005-12-16,2009-05-14,Toyota Jidosha Kabushiki Kaisha,Hybrid Vehicle and Control Method Thereof
+    US20090130509A1                      *,2005-11-30,2009-05-21,Toyota Jidosha Kabushiki Kaisha,Fuel Cell System
+    JP2010027297A,2008-07-16,2010-02-04,Nissan Motor Co Ltd,Fuel battery system, operation method of fuel battery, and fuel battery vehicle
+    JP2010040285A,2008-08-04,2010-02-18,Nissan Motor Co Ltd,Fuel cell system, fuel cell operating method, and fuel-cell automobile
+    JP2010067434A,2008-09-10,2010-03-25,Nissan Motor Co Ltd,Operation control device and operation control method for fuel cell
+    JP2010118252A,2008-11-13,2010-05-27,Toyota Motor Corp,Control method of fuel cell
+    JP2011020571A,2009-07-16,2011-02-03,Nissan Motor Co Ltd,Device for controlling hybrid vehicle
+    US20110125692A1                      *,2009-11-24,2011-05-26,Searete Llc, A Limited Liability Corporation Of The State Of Delaware,System and method for physical attribute status comparison of physical entities including physical entities associated with a social network and selected based on location information
+    US20120065826A1                      *,2009-05-13,2012-03-15,Toyota Jidosha Kabushiki Kaisha,Vibration-damping controlling apparatus
+    US20150125772A1                      *,2012-03-01,2015-05-07,Toyota Jidosha Kabushiki Kaisha,Fuel cell system
+    US20150372329A1                      *,2013-03-21,2015-12-24,Toyota Jidosha Kabushiki Kaisha,Fuel Cell System and Control Method of Fuel Cell System
+    Family To Family Citations,,,,
+    US8793067B2                      *,2009-12-28,2014-07-29,Honda Motor Co., Ltd.,Route searching device
+    JP2014078412A                      *,2012-10-11,2014-05-01,Toyota Motor Corp,Fuel battery system
+    US10697790B2                      *,2014-06-10,2020-06-30,Clarion Co., Ltd.,Lane selecting device, vehicle control system and lane selecting method
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (8)
+              
+
+
+citedBy_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US11545687B1                      *,2017-12-29,2023-01-03,Bloom Energy Corporation,Systems and methods of restoring fuel cell system performance
+    CN109017347A                      *,2018-06-06,2018-12-18,上海博暄能源科技有限公司,A kind of fuel cell stroke-increasing electric automobile battery system
+    US10996725B2                      *,2018-08-21,2021-05-04,Nvidia Corporation,Power management in a multiple-processor computing device
+    KR20200111306A                      *,2019-03-18,2020-09-29,현대자동차주식회사,Driving control method and control system of fuel cell
+    JP7151040B2                      *,2019-07-08,2022-10-12,株式会社豊田自動織機,Automated Guided Vehicles and Automated Guided Vehicles
+    KR20210035929A                      *,2019-09-24,2021-04-02,현대자동차주식회사,Method for performance recovery of fuel cell stack
+    DE102020102396A1,2020-01-31,2021-08-05,Audi Aktiengesellschaft,Method for identifying a regeneration option for at least one fuel cell and fuel cell system
+    JP7306327B2                      *,2020-05-29,2023-07-11,トヨタ自動車株式会社,fuel cell system
+
+abstract
+    An output performance recovering device for a fuel cell includes: a diagnosis unit configured to determine whether it is necessary to recover a catalyst of a fuel cell mounted as a power source for traveling in a vehicle from short-term performance deterioration; a recovery unit configured to control a voltage of the fuel cell and to perform recovery processing for recovering the catalyst from the short-term performance deterioration; a calculation unit configured to calculate a parameter correlated with a predicted output value of the fuel cell which has been predicted to be output on a scheduled traveling route of the vehicle based on a gradient of the scheduled traveling route of the vehicle and a predicted vehicle speed of the vehicle on the scheduled traveling route; and a determination unit configured to determine whether the parameter indicates the predicted output value is greater than a first threshold value.
+title
+    Output performance recovering device for fuel cell and output performance recovering method for fuel cell
+similar_document
+22
+    Publication,Publication Date,Title
+    US10593970B2,2020-03-17,Output performance recovering device for fuel cell and output performance recovering method for fuel cell
+    US11358481B2,2022-06-14,Energy consumption predicting device and energy consumption predicting method
+    US8182952B2,2012-05-22,Fuel cell system capable of drying a fuel cell in a short time after a system stop instruction is used
+    US11444300B2,2022-09-13,Method for the predictive operation of a fuel cell or a high-voltage accumulator
+    US9509004B2,2016-11-29,Fuel cell system and control method of fuel cell system
+    US20180111504A1,2018-04-26,Monitoring device of fuel cell, control device of fuel cell, and monitoring method of fuel cell
+    US8715876B2,2014-05-06,Fuel cell vehicle
+    US8557461B2,2013-10-15,Fuel cell vehicle
+    US10647212B2,2020-05-12,Output prediction device for fuel cell, output prediction method for fuel cell and fuel cell system
+    JP2007053051A,2007-03-01,Control unit of fuel cell vehicle
+    US20140087285A1,2014-03-27,Fuel cell system
+    JP5870949B2,2016-03-01,FUEL CELL SYSTEM AND CONTROL METHOD FOR FUEL CELL SYSTEM
+    US20220255100A1,2022-08-11,Look ahead energy management and control systems and methods to improve fuel cell system performance, durability, and life
+    US11637305B2,2023-04-25,Power generation control system, power generation control method, and storage medium
+    US11502319B2,2022-11-15,Control method for fuel cell
+    US11695137B2,2023-07-04,Fuel cell vehicle and method of stopping the same
+    JP2019145392A,2019-08-29,Fuel cell system
+    US11677086B2,2023-06-13,Control system, moving body, and control method
+    US11628838B2,2023-04-18,Method of improving fuel efficiency of fuel cell electric vehicle by using navigation information, and apparatus and system therefor
+    US20220314817A1,2022-10-06,Vehicle system, control method of vehicle system, and control program of vehicle system
+    JP2022157050A,2022-10-14,Fuel cell system, control method for fuel cell system, and program
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    17
+classfication_items
+102
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,9,8
+    H,0,1,M,8,/,0,4,3,1,3
+    H,0,1,M,8,/,0,4,5,3,7
+    H,0,1,M,8,/,0,4,5,4,4
+    H,0,1,M,8,/,0,4,5,5,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,7,0
+    B,6,0,L,5,0,/,7,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,3,0
+    B,6,0,L,5,8,/,3,2
+    B,6,0,L,5,8,/,3,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,6,/,0,0
+    H,0,1,M,1,6,/,0,0,3
+    H,0,1,M,1,6,/,0,0,6
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,4,/,0,0
+    H,0,1,M,4,/,8,6
+    H,0,1,M,4,/,9,0
+    H,0,1,M,4,/,9,2
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,9,8
+    H,0,1,M,8,/,0,4,6,9,4
+    H,0,1,M,8,/,0,4,8,5,8
+    H,0,1,M,8,/,0,4,9,2,5
+    H,0,1,M,8,/,0,4,9,4
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,1,0
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,2,2,5,0,/,0,0
+    H,0,1,M,2,2,5,0,/,2,0
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,3,0
+    Y,0,2,E,6,0,/,5,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,9,0,/,3,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,4,0
+
+application_events
+7
+    2017-09-25,Application filed by Toyota Motor Corp
+    2017-09-25,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2018-04-05,Publication of US20180097245A1
+    2020-03-17,Application granted
+    2020-03-17,Publication of US10593970B2
+    Status,Active
+    2038-03-04,Adjusted expiration
+
+active_area
+2
+    J,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2016196715A,2016-10-04,Fuel cell output performance recovery device and fuel cell output performance recovery method
+    JP2016-196715,2016-10-04,
+
+legal_event
+10
+    Date,Code,Title,Description
+    2017-09-25,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:MATSUSUE, MASAAKI;ARAKI, YASUSHI;ITO, MASAYUKI;SIGNING DATES FROM 20170801 TO 20170803;REEL/FRAME:043999/0557
+    2017-09-25,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2018-02-06,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2019-05-08,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2019-07-23,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2019-10-26,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2019-11-05,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2020-02-10,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2020-02-26,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

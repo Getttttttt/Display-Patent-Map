@@ -1,0 +1,289 @@
+ID
+    US20180194342A1
+citation_exist
+    Patent Citations (9)
+citation_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US7597648B2                      *,2006-11-28,2009-10-06,Gm Global Technology Operations, Inc.,Input brake providing electric only fixed gear
+    US8346489B2                      *,2010-09-28,2013-01-01,GM Global Technology Operations LLC,Method and system for determining output torque capabilities in hybrid and electric powertrains
+    US9186977B2                      *,2011-08-26,2015-11-17,Means Industries, Inc.,Drive system including a transmission for a hybrid electric vehicle
+    US9598085B2                      *,2014-06-12,2017-03-21,Ford Global Technologies, Llc,Regenerative-braking transmission downshift torque limiting
+    GB2530010B,2014-07-31,2018-10-03,Jaguar Land Rover Ltd,Hybrid or electric drive control system with charge torque mode
+    KR101573625B1                      *,2014-08-12,2015-12-01,현대자동차주식회사,Shift control apparatus of hybrid vehicle and method thereof
+    KR101628148B1                      *,2014-08-27,2016-06-08,현대자동차 주식회사,Regenerative brake apparatus of hybrid vehicle and method thereof
+    US9475495B2                      *,2015-01-07,2016-10-25,Ford Global Technologies, Llc,Torque converter clutch capacity based on regenerative braking request
+    JP6213494B2                      *,2015-02-18,2017-10-18,トヨタ自動車株式会社,Hybrid vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    DE102018206050B4                      *,2018-04-20,2020-01-16,Audi Ag,Method for operating a motor vehicle
+
+abstract
+    A hybrid vehicle includes an engine, an electric machine, a transmission, and a controller. The transmission is configured to alter clutch pressures in preparation for an upcoming shift between discrete gear ratios (e.g., input-to-output ratio). For example, the clutch pressures may spike to a heightened magnitude to prepare for the upcoming shift. The electric machine is configured to selectively propel the vehicle and perform regenerative braking. If regenerative braking demands occur during the clutch pressures being heightened during shift preparation, the controller is programmed to stop the preparing of the clutches. This can be done by reducing the clutch pressures back to their pre-preparation magnitude. The upcoming shift can be cancelled or delayed.
+title
+    Control of transmission during regenerative braking
+similar_document
+25
+    Publication,Publication Date,Title
+    US10293810B2,2019-05-21,Hybrid vehicle idle and creep control
+    US9327709B2,2016-05-03,Cancelling creep torque in a hybrid vehicle
+    US10821963B2,2020-11-03,Coordinating non-demand engine start and stop with gear shift
+    US9783183B2,2017-10-10,Battery charging strategy in a hybrid vehicle
+    CN107176158B,2022-05-13,System and method for engine coupled and decoupled start in a hybrid vehicle
+    US9475495B2,2016-10-25,Torque converter clutch capacity based on regenerative braking request
+    US20170259670A1,2017-09-14,Control system for regenerative braking in a hybrid vehicle
+    US9475483B2,2016-10-25,Hybrid vehicle including a prevent powertrain gear hunting strategy
+    US10106148B2,2018-10-23,Electric machine torque control during transient phase of bypass clutch
+    US10640102B2,2020-05-05,System and method to prevent driveline float in lash region
+    US20170240161A1,2017-08-24,Deceleration control system for a hybrid vehicle
+    CN107662600B,2022-08-02,Torque modification during a hybrid vehicle upshift
+    US10112598B1,2018-10-30,System and method of controlling engine torque of hybrid vehicle
+    US10857991B2,2020-12-08,Hybrid vehicle engine start/stop system
+    US9499164B2,2016-11-22,Controlling a clutch between an engine and a motor during a shift event in a hybrid vehicle
+    US10214203B2,2019-02-26,System and method for determining engine pull-up threshold
+    US9296380B2,2016-03-29,Prestroking engine disconnect clutch in a hybrid vehicle
+    US10487891B2,2019-11-26,Temperature based clutch control
+    US10328925B2,2019-06-25,System and method for controlling lash crossing in a vehicle powertrain
+    US11597391B2,2023-03-07,One-pedal drive system for a vehicle
+    US11377090B2,2022-07-05,System for controlling an engine disconnect clutch in a hybrid vehicle
+    US11618434B2,2023-04-04,Method for controlling MHT powertrain hardware components as a function of driver demanded responsiveness
+    US10150467B2,2018-12-11,Control of transmission during regenerative braking
+    US10612509B2,2020-04-07,Vehicle and method pre-fluxing an engine starter motor in a vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US15/403,813,2017-01-11,2017-01-11,Control of transmission during regenerative braking
+
+inventor_number
+    4
+classfication_nums
+    29
+classfication_items
+179
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,3,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,5,0
+    B,6,0,K,6,/,5,4
+    B,6,0,L,1,1,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,5,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,0
+    B,6,0,W,1,0,/,1,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B,6,0,K,2,0,0,6,/,4,8,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,8
+    B,6,0,L,2,2,4,0,/,4,8,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,0
+    B,6,0,L,2,2,4,0,/,5,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,1,0
+    B,6,0,W,2,5,1,0,/,1,0,0,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,1,0
+    B,6,0,W,2,5,1,0,/,1,0,2,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,2
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,1,8
+    B,6,0,Y,2,3,0,0,/,1,8,0,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,2,5
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,4,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,0,4
+    Y,1,0,S,9,0,3,/,9,1,5
+    Y,1,0,S,9,0,3,/,9,1,7
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,4,6
+
+application_events
+8
+    2017-01-11,Application filed by Ford Global Technologies LLC
+    2017-01-11,Priority to US15/403,813
+    2017-01-11,Assigned to FORD GLOBAL TECHNOLOGIES, LLC
+    2018-07-12,Publication of US20180194342A1
+    2018-12-11,Application granted
+    2018-12-11,Publication of US10150467B2
+    Status,Active
+    2037-03-20,Adjusted expiration
+
+active_area
+1
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US15/403,813,2017-01-11,Control of transmission during regenerative braking
+
+legal_event
+4
+    Date,Code,Title,Description
+    2017-01-11,AS,Assignment,Owner name: FORD GLOBAL TECHNOLOGIES, LLC, MICHIGANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:MCCULLOUGH, TODD;NEFCY, BERNARD D.;FORD, STUART N.;SIGNING DATES FROM 20161219 TO 20170105;REEL/FRAME:040949/0161
+    2018-11-20,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2022-05-11,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

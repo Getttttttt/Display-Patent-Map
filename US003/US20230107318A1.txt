@@ -1,0 +1,232 @@
+ID
+    US20230107318A1
+citation_exist
+    Patent Citations (8)
+citation_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20080087479A1                      *,2006-10-11,2008-04-17,Hyundai Motor Company,Power system of hybrid fuel cell bus and control method thereof
+    US8017276B2                      *,2001-06-15,2011-09-13,Toyota Jidosha Kabushiki Kaisha,Power output device with fuel cell and method therefor
+    US20220340048A1                      *,2021-04-14,2022-10-27,Toyota Motor Engineering & Manufacturing North America, Inc.,Dual battery fuel cell system
+    Family To Family Citations,,,,
+    KR101864897B1                      *,2011-11-21,2018-06-05,현대모비스 주식회사,No Load Driving Output Increasing Operation Method Fuel Cell Vehicle
+    EP2785570B1                      *,2011-12-02,2022-09-14,Power Technology Holdings, LLC,System for and method of fuel optimization in a hybrid vehicle
+    FR2993226B1                      *,2012-07-13,2015-12-18,Commissariat Energie Atomique,MOTORIZATION OF MOTOR VEHICLE INCLUDING FUEL CELL AND ENERGY STORAGE SYSTEM
+    KR101394186B1                      *,2012-09-17,2014-05-14,한국에너지기술연구원,Apparatus for managing fule cell vehicle system
+    US10894482B2                      *,2015-08-07,2021-01-19,Cummins, Inc.,Systems and methods of battery management and control for a vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    Operating a machine includes supplying electric power from a fuel cell to a power bus connected to an electric motor and an energy storage device in a machine operated at a work site, and determining an expected efficiency gain condition based on at least one of terrain data of the work site or machine activity data of the machine. Operating a machine further includes prognostically limiting a power output of the fuel cell based on the determining an expected efficiency gain condition, and charging the energy storage device during occurrence of the expected efficiency gain condition using at least one of a regenerative energy device or the fuel cell. The energy storage device may be discharged during prognostically limiting a power output of the fuel cell so as to share a load demand of the power bus between the fuel cell and the energy storage device. Related apparatus and control logic is also disclosed.
+title
+    Prognostic limitation to fuel cell power output for improved efficiency in mobile machine
+similar_document
+26
+    Publication,Publication Date,Title
+    US9242633B2,2016-01-26,Method and a control system for controlling a work machine
+    US20210094440A1,2021-04-01,Dynamically assisting hybrid vehicles
+    US10071647B2,2018-09-11,System for and method of fuel optimization in a hybrid vehicle
+    RU2732674C2,2020-09-21,Mining machine and method of its operation
+    CN101857023B,2014-12-31,Method for operating electric vehicle
+    US9139188B2,2015-09-22,Prediction control strategy for hybrid machinery
+    KR101638757B1,2016-07-11,Work vehicle
+    US8360180B2,2013-01-29,System for controlling a hybrid energy system
+    US8700283B2,2014-04-15,Mining truck and regenerative braking strategy therefor
+    US20130317684A1,2013-11-28,Wheel loader
+    Lajunen et al.,2016,Electric and hybrid electric non-road mobile machinery–present situation and future trends
+    US8727049B1,2014-05-20,Efficient hybrid vehicle
+    EP3275753B1,2020-05-20,Hybrid working vehicle
+    JP2016084633A,2016-05-19,Power supply system for construction machine
+    CN105517868A,2016-04-20,Hybrid construction machine
+    CN113581019A,2021-11-02,Energy management method for hybrid drive unmanned mining truck
+    US20230107318A1,2023-04-06,Prognostic limitation to fuel cell power output for improved efficiency in mobile machine
+    JP4630241B2,2011-02-09,Excavation transportation system
+    US20220118859A1,2022-04-21,Vehicle energy control system and method of controlling energy for a vehicle
+    US20230168696A1,2023-06-01,Battery management for machine service operations
+    US20230312241A1,2023-10-05,Cycle time control for a refuse vehicle hydraulic system
+    Un-Noor et al.,2023,Optimal Battery Size and Charging Power Level Design for Off-Road Construction Equipment Considering Battery Weight and Real-World Activity Constraints
+    Smith,2021,High Voltage High Stakes
+    JP2023110969A,2023-08-10,Control system, work vehicle and work vehicle control method
+    WO2023059252A1,2023-04-13,Rock drilling rig, system of mining equipment and method therefor
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    US17/492,986,2021-10-04,2021-10-04,Prognostic limitation to fuel cell power output for improved efficiency in mobile machine
+    PCT/US2022/044962,2021-10-04,2022-09-28,Prognostic limitation to fuel cell power output for improved efficiency in mobile machine
+
+inventor_number
+    2
+classfication_nums
+    21
+classfication_items
+129
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,6,8
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,6,/,0,0
+    H,0,1,M,1,6,/,0,0,3
+    H,0,1,M,1,6,/,0,0,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,7,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,2,5
+    H,0,1,M,1,0,/,4,2,5,7
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,4
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,9,8
+    H,0,1,M,8,/,0,4,6,9,4
+    H,0,1,M,8,/,0,4,8,5,8
+    H,0,1,M,8,/,0,4,9,2,5
+    H,0,1,M,8,/,0,4,9,3,2
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,9,8
+    H,0,1,M,8,/,0,4,6,9,4
+    H,0,1,M,8,/,0,4,8,5,8
+    H,0,1,M,8,/,0,4,9,2,5
+    H,0,1,M,8,/,0,4,9,4,7
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,1,4
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,1,4
+    H,0,2,J,7,/,1,4,3
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,3,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B,6,0,L,2,2,4,0,/,6,4,7
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,2,5
+    H,0,1,M,2,0,1,0,/,4,2,7,1
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,2,2,2,0,/,0,0
+    H,0,1,M,2,2,2,0,/,2,0
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,2,2,5,0,/,0,0
+    H,0,1,M,2,2,5,0,/,2,0
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,2,3,0,0,/,0,0
+    H,0,2,J,2,3,0,0,/,3,0
+
+application_events
+6
+    2021-10-04,Application filed by Caterpillar Inc
+    2021-10-04,Priority to US17/492,986
+    2021-10-04,Assigned to CATERPILLAR INC.
+    2022-09-28,Priority to PCT/US2022/044962
+    2023-04-06,Publication of US20230107318A1
+    Status,Pending
+
+active_area
+1
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US17/492,986,2021-10-04,Prognostic limitation to fuel cell power output for improved efficiency in mobile machine
+
+legal_event
+6
+    Date,Code,Title,Description
+    2021-10-04,AS,Assignment,Owner name: CATERPILLAR INC., ILLINOISFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:LANE, CAMERON THOMAS;REEL/FRAME:057690/0193Effective date: 20211001
+    2021-11-13,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2023-04-11,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2023-07-14,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2023-10-17,STPP,Information on status: patent application and granting procedure in general,Free format text: FINAL REJECTION MAILED
+

@@ -1,0 +1,286 @@
+ID
+    US10442313B2
+citation_exist
+    Patent Citations (5)
+citation_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2000299901A,1999-04-09,2000-10-24,Komatsu Ltd,Hybrid dump truck
+    US8700283B2,2011-12-16,2014-04-15,Caterpillar Inc.,Mining truck and regenerative braking strategy therefor
+    US20150097512A1                      *,2013-10-04,2015-04-09,Ford Global Technologies, Llc,Vehicle battery charge setpoint control
+    US9166224B2                      *,2011-03-25,2015-10-20,Samsung Sdi Co., Ltd.,Lithium titanate, negative electrode including the lithium titanate, and secondary lithium battery containing the electrode
+    US9545854B2,2011-06-13,2017-01-17,General Electric Company,System and method for controlling and powering a vehicle
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (10)
+              
+
+
+citedBy_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US10933752B2                      *,2017-10-31,2021-03-02,Tomcar Holding Company LLC,Regenerative braking for electric and hybrid vehicles
+    SE543006C2,2018-07-04,2020-09-22,Epiroc Rock Drills Ab,Battery charge management of mining machines
+    JP2020108217A,2018-12-26,2020-07-09,トヨタ自動車株式会社,Electric vehicle
+    EP3741608A1                      *,2019-05-22,2020-11-25,Sandvik Mining and Construction Oy,Mining vehicle
+    WO2020240619A1                      *,2019-05-24,2020-12-03,本田技研工業株式会社,Information processing device, vehicle control device, information processing method, and program
+    KR20210005438A                      *,2019-07-05,2021-01-14,현대자동차주식회사,Vehicle and method for controlling the same
+    US11207995B2                      *,2019-07-08,2021-12-28,Caterpillar Paving Products Inc.,System and method for charging machines
+    CA3213249A1                      *,2021-03-25,2022-09-29,Abb Schweiz Ag,System for controlling a mining truck and method for controlling a mining truck
+    EP4105437A1                      *,2021-06-14,2022-12-21,Sandvik Mining and Construction Oy,Mining machine with an operator speed assistant
+    US20230191915A1                      *,2021-12-21,2023-06-22,Caterpillar Inc.,Fleet and trolley system for zero-emission machines
+
+abstract
+    A charge controller for an electric mining vehicle is configured to determine an amount of charge to be provided to a battery of the electric mining vehicle for an upcoming trip based on regenerative braking power generation and load indication measured during a previous trip. The charge controller is further configured to command a battery charger to charge the battery up to the determined amount of charge and to stop charging the battery once the determined amount of charge has been reached.
+title
+    Electric mining vehicle, charge controller, and related process
+similar_document
+26
+    Publication,Publication Date,Title
+    US10442313B2,2019-10-15,Electric mining vehicle, charge controller, and related process
+    US20230070784A1,2023-03-09,System and method for all electrical operation of a mining haul truck
+    US10675983B2,2020-06-09,Method and arrangement for determining a value of the state of energy of a battery in a vehicle
+    CN111196168B,2023-03-24,Charging control device for vehicle
+    CN102963264B,2017-03-01,For operating method and the motor vehicles of motor vehicles
+    US10406937B2,2019-09-10,Electric vehicle charger and charging method
+    CN106114497B,2021-01-29,Battery state of charge control using route preview data
+    JP4111629B2,2008-07-02,Hybrid dump truck
+    JP6450761B2,2019-01-09,System and method for controlling a vehicle
+    KR20150066961A,2015-06-17,Method and Apparatus for providing power to or receiving it from other Electric Vehicle
+    US11007893B2,2021-05-18,Control device for electric vehicle and electric vehicle
+    US20210215493A1,2021-07-15,Vehicle loading feedback for bev performance
+    JP2012157209A,2012-08-16,Power supply control device
+    JP6511175B2,2019-05-15,Hybrid dump truck for mine
+    CN105564257B,2020-04-14,Method and device for operating a motor vehicle having an electrical energy accumulator
+    WO2021069069A1,2021-04-15,A cyber-physical hybrid electric autonomous or semi-autonomous off-highway dump truck for surface mining industry
+    JP6784684B2,2020-11-11,How to manage the charge status of the driving battery of a hybrid vehicle
+    JP5826907B2,2015-12-02,Electric vehicle power control device
+    KR20140083687A,2014-07-04,Method for controlling hybrid vehicle
+    JP5369245B1,2013-12-18,Trailer
+    CA3135091A1,2020-11-26,Method and arrangement for controlling electric current in tether cable of a mining vehicle
+    JP2011079637A,2011-04-21,Electric industrial vehicle
+    US9233625B2,2016-01-12,System and method for controlling energy usage
+    JP5839697B2,2016-01-06,Operation management system
+    JP2011193624A,2011-09-29,Battery system for electric vehicle, electric vehicle, and method of mounting subbattery in electric vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US15/787,766,2016-10-21,2017-10-19,Electric mining vehicle, charge controller, and related process
+
+inventor_number
+    3
+classfication_nums
+    35
+classfication_items
+161
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B,6,0,L,1,5,/,2,0,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,1,0
+    B,6,0,L,5,3,/,1,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B,6,0,L,5,8,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    E
+    E,2,1
+    E,2,1,F
+    E,2,1,F,1,3,/,0,0
+    E,2,1,F,1,3,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B,6,0,L,2,2,4,0,/,6,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,5,0
+    B,6,0,L,2,2,6,0,/,5,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,0,5
+    Y,0,2,T,1,0,/,7,0,4,4
+    Y,0,2,T,1,0,/,7,0,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,1,6
+    Y,0,2,T,1,0,/,7,2,7,5
+    Y,0,2,T,1,0,/,7,2,9,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,2
+    Y,0,2,T,9,0,/,1,2,1
+    Y,0,2,T,9,0,/,1,2,7
+    Y,0,2,T,9,0,/,1,2,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+8
+    2017-10-19,Application filed by Medatech Engineering Services Ltd
+    2017-10-19,Priority to US15/787,766
+    2017-10-19,Assigned to MEDATECH ENGINEERING SERVICES LTD.
+    2018-04-26,Publication of US20180111496A1
+    2019-10-15,Application granted
+    2019-10-15,Publication of US10442313B2
+    Status,Active
+    2037-10-19,Anticipated expiration
+
+active_area
+2
+    C,A
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    US201662410938P,2016-10-21,
+    US15/787,766,2017-10-19,Electric mining vehicle, charge controller, and related process
+
+legal_event
+11
+    Date,Code,Title,Description
+    2017-10-19,AS,Assignment,Owner name: MEDATECH ENGINEERING SERVICES LTD., CANADAFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:CHOLEWA, PAWEL;RENNIE, ROBERT;REEL/FRAME:043899/0573Effective date: 20161021
+    2017-10-19,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY
+    2017-11-01,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO SMALL (ORIGINAL EVENT CODE: SMAL); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY
+    2019-03-18,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2019-04-17,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2019-07-25,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2019-08-05,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2019-09-11,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2019-09-25,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2023-03-29,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YR, SMALL ENTITY (ORIGINAL EVENT CODE: M2551); ENTITY STATUS OF PATENT OWNER: SMALL ENTITYYear of fee payment: 4
+

@@ -1,0 +1,183 @@
+ID
+    JP2013005582A
+citation_exist
+    Patent Citations (4)
+citation_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH10164701A                      *,1996-11-29,1998-06-19,Nissan Motor Co Ltd,電気自動車のモーター駆動制御装置
+    JP2005237054A                      *,2004-02-17,2005-09-02,Toyota Motor Corp,モータ駆動装置
+    JP2010057228A                      *,2008-08-27,2010-03-11,Hitachi Ltd,モータ制御装置
+    JP2010172109A                      *,2009-01-22,2010-08-05,Toyota Motor Corp,回転電機制御装置
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    KR20150134529A                      *,2014-05-22,2015-12-02,주식회사 만도,차량 제어 장치 및 그 제어 방법
+    JP2016199058A                      *,2015-04-07,2016-12-01,株式会社デンソー,ハイブリッド車両の制御装置
+    WO2019202625A1                      *,2018-04-16,2019-10-24,三菱電機株式会社,同期機駆動制御装置、及びその同期機駆動制御装置により駆動制御される同期機を搭載した車両
+    Family To Family Citations,,,,
+
+abstract
+    【課題】電動機の回転軸の回転角を検出するセンサに角度ズレが生じていても、電動機の予期しない回生制動を回避して、二次電池の過充電をより確実に抑止する。【解決手段】ｄ軸にマイナス方向の電流Ｉｄを流すと共にｑ軸に電流が流れないように電流指令Ｉｄ＊，Ｉｑ＊を設定してモータを制御する際には、制御に用いる回転角センサからの回転角θをモータの正転時には逆転方向に補正し、モータの逆転時には正転方向に補正することにより、回転角θを回生から力行に向かう方向に補正する。これにより、回転角センサにオフセット誤差が含まれていても、補正した回転角θに基づいてモータＭＧ２を制御することにより、ｑ軸にモータＭＧ２の回転方向とは逆方向の電流が流れない、即ち回生トルクが出力されないようにすることができる。この結果、モータが予期せずに回生するのを防止でき、二次電池の過充電を抑止することができる。【選択図】図７
+title
+    電動車両
+similar_document
+26
+    Publication,Publication Date,Title
+    US9077269B2,2015-07-07,Control system for AC electric motor
+    EP2612787B1,2016-05-04,Electric-powered vehicle and control method therefor
+    WO2009116215A1,2009-09-24,電動機駆動制御装置、それを備えた車両および電動機駆動制御方法
+    CN108667368B,2021-05-14,车辆及其控制方法
+    JP2017087840A,2017-05-25,ハイブリッド車両
+    US10166870B2,2019-01-01,Hybrid vehicle and control method for hybrid vehicle
+    JP2021084537A,2021-06-03,ハイブリッド車両
+    JP5691868B2,2015-04-01,電動車両
+    US10814862B2,2020-10-27,Hybrid vehicle
+    JP5211743B2,2013-06-12,電源装置、それを搭載する車両および電源装置の制御方法
+    US10745000B2,2020-08-18,Hybrid vehicle and control method therefor
+    US10245958B2,2019-04-02,Hybrid vehicle and control method therefor
+    CN108082178B,2020-12-29,混合动力汽车
+    JP2009227080A,2009-10-08,動力出力装置やこれを備える車両および駆動装置並びにこれらの制御方法
+    US10293813B2,2019-05-21,Hybrid vehicle
+    US10800401B2,2020-10-13,Hybrid vehicle
+    US10730506B2,2020-08-04,Hybrid vehicle and control method therefor
+    JP5852476B2,2016-02-03,ハイブリッド自動車
+    JP2016119765A,2016-06-30,電源装置および自動車
+    JP6701861B2,2020-05-27,ハイブリッド車両
+    JP6458743B2,2019-01-30,発電装置
+    US10875520B2,2020-12-29,Hybrid vehicle
+    JP6751499B2,2020-09-09,ハイブリッド自動車
+    JP6520731B2,2019-05-29,車両
+    JP6699252B2,2020-05-27,自動車
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    JP2011134059A,2011-06-16,2011-06-16,電動車両
+
+inventor_number
+    6
+classfication_nums
+    12
+classfication_items
+71
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,5,0
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,1,/,0,0
+    H,0,2,P,2,1,/,3,6
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,6,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,2
+    B,6,0,W,5,0,/,0,2,0,5
+    B,6,0,W,2,0,5,0,/,0,2,1,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+
+application_events
+7
+    2011-06-16,Application filed by Toyota Motor Corp
+    2011-06-16,Priority to JP2011134059A
+    2013-01-07,Publication of JP2013005582A
+    2015-04-01,Application granted
+    2015-04-01,Publication of JP5691868B2
+    Status,Active
+    2031-06-16,Anticipated expiration
+
+active_area
+1
+    J,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2011134059A,2011-06-16,電動車両
+
+legal_event
+9
+    Date,Code,Title,Description
+    2014-01-09,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20140108
+    2014-10-23,A977,Report on retrieval,Free format text: JAPANESE INTERMEDIATE CODE: A971007Effective date: 20141022
+    2014-10-29,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20141028
+    2014-11-29,A521,Written amendment,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20141128
+    2014-12-26,TRDD,Decision of grant or rejection written,
+    2015-01-07,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20150106
+    2015-02-09,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20150119
+    2015-02-13,R151,Written notification of patent or utility model registration,Ref document number: 5691868Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R151
+

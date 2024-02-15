@@ -1,0 +1,307 @@
+ID
+    US20220274487A1
+citation_exist
+    Patent Citations (16)
+citation_infor
+18
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20120303397A1                      *,2011-05-25,2012-11-29,Green Charge Networks Llc,Charging Service Vehicle Network
+    US20130164109A1                      *,2010-09-24,2013-06-27,Kobelco Construction Machinery Co., Ltd.,Construction machine
+    US20140214250A1                      *,2012-02-15,2014-07-31,Komatsu Ltd.,Battery charge/discharge control device, battery charge/discharge control method, and hybrid working machine with battery charge/discharge control device
+    US20170028980A1                      *,2015-07-31,2017-02-02,Toyota Jidosha Kabushiki Kaisha,Control apparatus
+    US20180131204A1                      *,2016-06-23,2018-05-10,Faraday&Future Inc.,Systems and methods for intelligently charging battery cells
+    US20220037910A1                      *,2017-12-22,2022-02-03,Litech Laboratories, Llc,Power System
+    Family To Family Citations,,,,
+    JP3514103B2                      *,1998-02-19,2004-03-31,松下電器産業株式会社,Battery pack failure diagnosis device
+    WO2008111649A1,2007-03-13,2008-09-18,Komatsu Ltd.,Generator motor driving device and method for discharging capacitor of generator motor driving device
+    US8798875B2                      *,2008-04-11,2014-08-05,Sumitomo Heavy Industries, Ltd.,Working machine
+    KR101653837B1                      *,2009-12-24,2016-09-02,두산인프라코어 주식회사,Power transformer for hybrid industrial vehicle
+    JP2012082644A                      *,2010-10-14,2012-04-26,Hitachi Constr Mach Co Ltd,Construction machine
+    JP5662900B2                      *,2011-08-08,2015-02-04,日立建機株式会社,Electric construction machine
+    US9145658B2                      *,2013-07-23,2015-09-29,Komatsu Ltd.,Hybrid work machine and control method of providing information for the same
+    JP6340326B2                      *,2015-01-28,2018-06-06,日立建機株式会社,Construction machinery
+    US10988914B2                      *,2016-09-16,2021-04-27,Hitachi Construction Machinery Tierra Co., Ltd,Hybrid work machine
+    JP6203437B1                      *,2017-01-13,2017-09-27,三共オートサービス株式会社,Modified electric vehicle control unit and modified electric vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    SE542695C2                      *,2018-02-26,2020-06-30,Husqvarna Ab,An electrically powered vehicular work machine
+    JP2023023994A                      *,2021-08-06,2023-02-16,株式会社竹内製作所,work vehicle
+
+abstract
+    In a case of a normal operation, a battery controller (22) assumes a normal operation mode and permits charging and discharging of a battery module (21). Upon receiving a discharge command from a vehicle body controller (17) for completely discharging the battery module (21), the battery controller (22) assumes a discharge mode to discharge the battery module (21) to reach a safe voltage level and store discharge information. Upon reading out the discharge information, the battery controller (22) assumes a discharge prohibition mode to prohibit charging and discharging of the battery module (21).
+title
+    Construction Machine
+similar_document
+17
+    Publication,Publication Date,Title
+    CN110418731B,2023-03-14,Power storage device controller, electric system, and construction machine
+    EP1782991B1,2008-10-22,Hybrid construction machine and control apparatus thereof
+    JP5247899B1,2013-07-24,Capacitor charge / discharge control device, capacitor charge / discharge control method, and hybrid work machine equipped with capacitor charge / discharge control device
+    JP5225779B2,2013-07-03,Charge / discharge control method
+    JP6173564B2,2017-08-02,Work machine
+    US20220274487A1,2022-09-01,Construction Machine
+    JP2012241339A,2012-12-10,Hybrid work machine
+    CN112004973A,2020-11-27,Electric working machine
+    US10364549B2,2019-07-30,Hybrid construction machine
+    EP3342940B1,2019-12-25,Hybrid construction machine
+    US11085172B2,2021-08-10,Construction machine
+    KR101776965B1,2017-09-08,Hybrid power supply and controlling method thereof
+    JP6966398B2,2021-11-17,Construction machinery
+    CN106605028B,2020-02-18,Hybrid construction machine
+    JP2013163946A,2013-08-22,Construction machine
+    JP2022142670A,2022-09-30,Construction machine
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    34
+classfication_items
+198
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,6,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,2,0
+    B,6,0,L,5,3,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,8,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,0,5,8
+    E,0,2,F,9,/,2,0,6,2
+    E,0,2,F,9,/,2,0,7
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,0,5,8
+    E,0,2,F,9,/,2,0,9,1
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,6
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,8
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,2,9
+    H,0,2,J,7,/,0,0,3,1
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,7
+    H,0,2,J,7,/,0,0,7,1,2
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,7
+    H,0,2,J,7,/,0,0,7,1,2
+    H,0,2,J,7,/,0,0,7,1,8,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,8,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,4,0
+    B,6,0,Y,2,2,0,0,/,4,1
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,2,5
+    H,0,1,M,2,0,1,0,/,4,2,7,1
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,3,2,0,/,0,0
+    Y,1,0,S,3,2,0,/,1,8
+    Y,1,0,S,3,2,0,/,2,1
+
+application_events
+4
+    2019-07-04,Application filed by Hitachi Construction Machinery Co Ltd
+    2021-01-15,Assigned to HITACHI CONSTRUCTION MACHINERY CO., LTD.
+    2022-09-01,Publication of US20220274487A1
+    Status,Pending
+
+active_area
+5
+    J,P
+    C,N
+    U,S
+    K,R
+    E,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2018-135797,2018-07-19,
+    JP2018135797A,2018-07-19,Construction machinery
+    PCT/JP2019/026656,2019-07-04,Construction machine
+
+legal_event
+4
+    Date,Code,Title,Description
+    2021-01-15,AS,Assignment,Owner name: HITACHI CONSTRUCTION MACHINERY CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:WATANABE, TOSHIHIKO;ISHIDA, SEIJI;TAKEUCHI, KEN;REEL/FRAME:054936/0574Effective date: 20201125
+    2022-06-24,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2023-09-26,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+

@@ -1,0 +1,265 @@
+ID
+    US10680540B2
+citation_exist
+    Patent Citations (11)
+citation_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    US6364434B1                      *,1999-04-01,2002-04-02,Daimlerchrysler Corporation,Intelligent coast-down algorithm for electric vehicle
+    US20120123624A1                      *,2010-11-16,2012-05-17,Hitachi, Ltd.,Running Control Device for Electric Vehicle
+    US20130288857A1                      *,2012-04-25,2013-10-31,Aisin Aw Co., Ltd.,Vehicle and control method for vehicle
+    US20140081498A1                      *,2012-09-14,2014-03-20,Automotive Research & Testing Center,Self-learning Regenerative Braking Control Module, Controller, and Vehicle Using the Same
+    JP2014128065A,2012-12-25,2014-07-07,Toyota Motor Corp,Vehicle controller
+    US20170057361A1                      *,2015-08-26,2017-03-02,Hyundai Motor Company,Apparatus and method for controlling vehicle having motor
+    US20190263275A1,2018-02-28,2019-08-29,Denso Corporation,Apparatus for controlling motorized vehicle
+    US20190263272A1,2018-02-28,2019-08-29,Denso Corporation,Apparatus for controlling motorized vehicle
+    Family To Family Citations,,,,
+    JP5678570B2                      *,2010-10-20,2015-03-04,日産自動車株式会社,Vehicle driving force control device
+    JP5360032B2                      *,2010-10-26,2013-12-04,日産自動車株式会社,Drive torque control device for hybrid vehicle
+    WO2014091917A1                      *,2012-12-12,2014-06-19,日産自動車株式会社,Vehicle driving-torque control device
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP7102782B2,2018-02-28,2022-07-20,株式会社デンソー,Control device
+    JP7102781B2,2018-02-28,2022-07-20,株式会社デンソー,Control device
+    JP7373114B2                      *,2019-05-28,2023-11-02,マツダ株式会社,Vehicle power control device
+
+abstract
+    In an apparatus for controlling a motorized vehicle, a rotary electric machine controller is configured to perform intermittent operation by periodically alternating between a driving period and a coasting period. A torque determiner is configured to determine a first torque during the driving period and a second torque during the coasting period. A transition period determiner is configured to determine whether to set a transition period between the driving period and the coasting period. If the transition period is determined to be set, the torque determiner determines a third torque between the first torque and the second torque and within a predetermined rang. The rotary electric machine controller sets the transition period between the driving period and the coasting period and drive the rotary electric machine with the third torque during the transition period.
+title
+    Apparatus for controlling motorized vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US10875408B2,2020-12-29,Apparatus for controlling motorized vehicle
+    US11065966B2,2021-07-20,Apparatus for controlling motorized vehicle
+    JP6681002B2,2020-04-15,Power control device for hybrid vehicle
+    US8947025B2,2015-02-03,Regeneration control device of electrically powered vehicle
+    JP7176852B2,2022-11-22,vehicle power system
+    US10680540B2,2020-06-09,Apparatus for controlling motorized vehicle
+    US20150200613A1,2015-07-16,Electric vehicle and control method of electric vehicle
+    JP2001238303A,2001-08-31,Regenerative controller of hybrid electric vehicle
+    JP5447346B2,2014-03-19,Control device for hybrid electric vehicle
+    JP6652427B2,2020-02-26,Power supply system and transportation equipment
+    JP2010213504A,2010-09-24,Controller of electric vehicle
+    KR20150043393A,2015-04-22,Hybrid vehicle
+    CN104999922B,2017-07-28,Electric vehicle
+    JP5494979B2,2014-05-21,Electric vehicle
+    TW201111266A,2011-04-01,Hybrid electric power source device for crane and method for controlling hybrid electric power source device for crane
+    US9827866B2,2017-11-28,Vehicle control system for an at least partially electrically operated vehicle
+    JP6749742B2,2020-09-02,Propulsion system and vehicle driving method
+    JP5942958B2,2016-06-29,Electric vehicle
+    JP6814830B2,2021-01-20,Control systems, vehicle systems, and control methods
+    JP5419745B2,2014-02-19,Series hybrid vehicle control system
+    KR101237317B1,2013-02-28,Propulsion device and method for four wheel drive hybrid vehicles
+    JP6652428B2,2020-02-26,Power supply system and transport equipment, and control method of power supply system
+    JP6674300B2,2020-04-01,Power system and transport equipment, and power transmission method for power system
+    JP2015154632A,2015-08-24,electric vehicle
+    JP6047407B2,2016-12-21,Vehicle control system
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    5
+classfication_nums
+    25
+classfication_items
+149
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,6,/,0,0
+    H,0,2,P,6,/,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,4,7
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,1,4
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,1,4
+    H,0,2,J,7,/,1,4,2,3
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,3,/,0,0
+    H,0,2,P,2,3,/,0,0,0,4
+    H,0,2,P,2,3,/,0,0,2,7
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,6,/,0,0
+    H,0,2,P,6,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,1,0
+    B,6,0,L,2,2,7,0,/,1,4
+    B,6,0,L,2,2,7,0,/,1,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,1,0
+    B,6,0,L,2,2,7,0,/,1,4
+    B,6,0,L,2,2,7,0,/,1,4,5
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,2,3,1,0,/,0,0
+    H,0,2,J,2,3,1,0,/,4,0
+    H,0,2,J,2,3,1,0,/,4,8
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,4,7
+    H,0,2,J,7,/,0,0,4,8
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,2,0,5,/,0,0
+    H,0,2,P,2,2,0,5,/,0,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2019-02-26,Application filed by Denso Corp
+    2019-05-03,Assigned to DENSO CORPORATION
+    2019-08-29,Publication of US20190267919A1
+    2020-06-09,Application granted
+    2020-06-09,Publication of US10680540B2
+    Status,Active
+    2039-02-26,Anticipated expiration
+
+active_area
+2
+    J,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2018035766A,2018-02-28,Control device
+    JP2018-035766,2018-02-28,
+
+legal_event
+7
+    Date,Code,Title,Description
+    2019-02-26,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2019-05-03,AS,Assignment,Owner name: DENSO CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:SUZUKI, MASARU;BABA, KOUSUKE;MAEDA, SHIGERU;AND OTHERS;SIGNING DATES FROM 20190320 TO 20190330;REEL/FRAME:049072/0514
+    2019-05-16,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2020-02-27,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2020-04-27,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT RECEIVED
+    2020-05-20,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

@@ -1,0 +1,248 @@
+ID
+    US20160336624A1
+citation_exist
+    Patent Citations (7)
+citation_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US20050077875A1                      *,2003-10-14,2005-04-14,Bohley Thomas K.,Battery cell balancing circuit
+    US8159191B2                      *,2007-04-17,2012-04-17,Tsun-Yu Chang,Advanced rechargeable battery system
+    US9537326B2                      *,2009-04-16,2017-01-03,Valence Technology, Inc.,Batteries, battery systems, battery submodules, battery operational methods, battery system operational methods, battery charging methods, and battery system charging methods
+    ES2436166T3                      *,2011-04-08,2013-12-27,Super B B.V.,Balancer circuit for rechargeable batteries
+    JP5890341B2                      *,2013-02-26,2016-03-22,東芝三菱電機産業システム株式会社,Power storage device
+    KR20140125971A                      *,2013-04-19,2014-10-30,삼성에스디아이 주식회사,Dual battery pack and operating method thereof
+    RU2546978C2                      *,2013-06-27,2015-04-10,Общество с ограниченной ответственностью "ЭнСол Технологии",Battery and battery control system
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (18)
+              
+
+
+citedBy_infor
+20
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN107069125A                      *,2017-04-28,2017-08-18,广东电网有限责任公司珠海供电局,Battery pack open circuit guard method and device, batteries
+    US20190036374A1                      *,2016-03-16,2019-01-31,Autonetworks Technologies, Ltd.,Vehicle power supply system and vehicle drive system
+    JP2020004488A                      *,2018-06-25,2020-01-09,トヨタ自動車株式会社,Battery pack, vehicle, and manufacturing method of battery pack
+    US11177683B2,2017-06-13,2021-11-16,Lg Chem, Ltd.,Overvoltage protection system using balancing resistor
+    WO2022133960A1                      *,2020-12-24,2022-06-30,宁德时代新能源科技股份有限公司,Battery pack, battery package, electrical apparatus, and method and device for fabricating battery pack
+    US11437827B2                      *,2016-03-01,2022-09-06,Volvo Truck Corporation,Control of a relatively low current fed to a battery pack
+    US11557909B2,2020-12-10,2023-01-17,Apple Inc.,Battery system
+    US11699913B2,2017-10-27,2023-07-11,Lg Energy Solution, Ltd.,Apparatus for battery balancing and battery pack including same
+    Family To Family Citations,,,,
+    CN110447130B                      *,2017-01-31,2023-04-25,凯姆克思动力有限责任公司,Rechargeable battery with electrical recovery, method for producing same and method for operating battery
+    KR101869655B1                      *,2017-07-14,2018-06-20,주식회사 이알디(Erd),A noise filter apparatus
+    CN107985091A                      *,2017-11-14,2018-05-04,江苏大学,A kind of the transformation charging unit and control method of the wheel hub motor regenerative braking based on BMS
+    KR102072102B1                      *,2017-11-30,2020-01-31,세방전지(주),Dual battery system for vehicle comrrising lead-acid battery and lithium battery
+    US10814743B2                      *,2018-01-23,2020-10-27,GM Global Technology Operations LLC,Energy management system and method for vehicle with high power and high energy battery packs
+    WO2023155071A1                      *,2022-02-16,2023-08-24,Inventus Power, Inc.,Management of battery packs
+    US11588334B2,2020-06-02,2023-02-21,Inventus Power, Inc.,Broadcast of discharge current based on state-of-health imbalance between battery packs
+    US11594892B2,2020-06-02,2023-02-28,Inventus Power, Inc.,Battery pack with series or parallel identification signal
+    US11552479B2,2020-06-02,2023-01-10,Inventus Power, Inc.,Battery charge balancing circuit for series connections
+    US11245268B1,2020-07-24,2022-02-08,Inventus Power, Inc.,Mode-based disabling of communiction bus of a battery management system
+
+abstract
+    An automotive battery system includes: a first battery pack including a plurality of first battery cells connected in series; and a second battery pack connected in parallel with the first battery pack. The second battery pack includes: n second battery cells connected in series; n voltage sensitive switching devices each connected to a corresponding second battery cell of the n second battery cells; and n balancing resistors each connected in parallel to the corresponding second battery cell through the n voltage sensitive switching devices. Each of the voltage sensitive switching devices is turned on when the corresponding second battery cell of the n second battery cells has a cell voltage higher than a reference voltage.
+title
+    Automotive battery system
+similar_document
+25
+    Publication,Publication Date,Title
+    US20160336624A1,2016-11-17,Automotive battery system
+    Soltani et al.,2021,A comprehensive review of lithium ion capacitor: development, modelling, thermal management and applications
+    JP6821005B2,2021-01-27,How to operate a car battery system and a car battery system with a multi-battery pack
+    US7656125B2,2010-02-02,Method and device for controlling a storage voltage of a battery pack
+    CN104364668B,2017-02-22,Apparatus and method for estimating voltage of secondary battery including mixed positive electrode material
+    JP5077386B2,2012-11-21,Charge control method and battery pack
+    EP1771912B1,2011-09-21,Lithium secondary batteries with charge-cutoff voltages over 4.35 volt
+    US8802293B2,2014-08-12,Positive electrode material
+    JP6087489B2,2017-03-01,Assembled battery system
+    US20100026240A1,2010-02-04,Lithium ion battery pack charging system and device including the same
+    EP3869590A1,2021-08-25,Cathode material for lithium secondary battery, and cathode and lithium secondary battery each comprising same
+    US9337508B2,2016-05-10,Electrochemical lithium accumulator with a bipolar architecture comprising a specific electrolyte additive
+    EP2143164A1,2010-01-13,Electrochemical cell with a non-graphitizable carbon electrode and energy storage assembly
+    US20030198866A1,2003-10-23,Battery and related method
+    US20070111044A1,2007-05-17,Hybrid cell and method of driving the same
+    US20080076023A1,2008-03-27,Lithium cell
+    CN110249459B,2022-11-18,Negative electrode for secondary battery, battery pack, electric vehicle, power storage system, electric power tool, and electronic device
+    WO2017195332A1,2017-11-16,Positive electrode for non-aqueous electrolyte secondary battery, and non-aqueous electrolyte secondary battery
+    US20180254529A1,2018-09-06,Lithium replenishment for containing capacity loss in li ion batteries
+    KR20120040673A,2012-04-27,Lithium ion secondary battery and manufacturing method of the same
+    Parker et al.,2016,A Survey of Low-Temperature Operational Boundaries of Navy and Marine Corps Lithium and Lithium-Ion Batteries
+    KR20160144340A,2016-12-16,Dual battery pack and operating method thereof
+    WO2017195331A1,2017-11-16,Positive electrode for non-aqueous electrolyte secondary battery, and non-aqueous electrolyte secondary battery
+    Lexová et al.,0,ADVANCED SYSTEMS OF LI-ION ACCUMULATORS
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    23
+classfication_items
+128
+    B
+    B,6,0
+    B,6,0,R
+    B,6,0,R,1,6,/,0,0
+    B,6,0,R,1,6,/,0,2
+    B,6,0,R,1,6,/,0,3
+    B,6,0,R,1,6,/,0,3,3
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,2,5
+    B,6,0,L,1,1,/,1,8,6,1
+    B,6,0,L,1,1,/,1,8,6,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,R
+    B,6,0,R,1,6,/,0,0
+    B,6,0,R,1,6,/,0,2
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,0,5
+    H,0,1,M,1,0,/,0,5,2
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,0,6
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,2,0,7
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,8
+    H,0,1,M,1,0,/,4,8,2
+    H,0,1,M,2,/,1,0,7,7
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,1,3
+    H,0,2,J,7,/,0,0,1,4
+    H,0,2,J,7,/,0,0,1,6
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,1,4
+    H,0,2,J,7,/,1,4,2,3
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,2,5
+    H,0,1,M,2,0,1,0,/,4,2,7,1
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,2,2,2,0,/,0,0
+    H,0,1,M,2,2,2,0,/,2,0
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,5,0,/,0,0
+    H,0,1,M,5,0,/,2,0
+    H,0,1,M,5,0,/,2,0,4
+    H,0,1,M,5,0,/,2,0,7
+    H,0,1,M,5,0,/,2,0,9
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,2,3,1,0,/,0,0
+    H,0,2,J,2,3,1,0,/,4,0
+    H,0,2,J,2,3,1,0,/,4,6
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+
+application_events
+4
+    2016-05-16,Application filed by Samsung SDI Co Ltd
+    2016-05-17,Assigned to SAMSUNG SDI CO., LTD.
+    2016-11-17,Publication of US20160336624A1
+    Status,Abandoned
+
+active_area
+1
+    C,N
+
+not_active_area
+2
+    E,P
+    U,S
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    KR10-2015-0067594,2015-05-14,
+    KR1020150067594A,2015-05-14,Automotive battery system
+
+legal_event
+3
+    Date,Code,Title,Description
+    2016-05-17,AS,Assignment,Owner name: SAMSUNG SDI CO., LTD., KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:GU, JAESUNG;HANS, AMANDEEP;REEL/FRAME:038722/0641Effective date: 20160416
+    2018-08-21,STCB,Information on status: application discontinuation,Free format text: ABANDONED  --  FAILURE TO RESPOND TO AN OFFICE ACTION
+

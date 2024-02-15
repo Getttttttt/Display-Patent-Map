@@ -1,0 +1,376 @@
+ID
+    US8290652B2
+citation_exist
+    Patent Citations (7)
+citation_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH04123707A,1990-09-14,1992-04-23,Toshiba Lighting & Technol Corp,Lighting equipment
+    US20070262749A1                      *,2006-05-11,2007-11-15,Yunfei Luan,Method and apparatus for controlling vehicle battery charging
+    US20080078593A1                      *,2006-09-29,2008-04-03,Walt Ortmann,Hybrid Vehicle with Camless Valve Control
+    US20080147294A1,2006-12-19,2008-06-19,Mamoru Tomatsuri,Control device for internal combustion engine capable of preventing deterioration of emission characteristic when internal combustion engine is started
+    US20100070122A1                      *,2008-09-18,2010-03-18,Toyota Jidosha Kabushiki Kaisha,Control apparatus and method for hybrid vehicle
+    US20110276213A1                      *,2009-01-14,2011-11-10,Toyota Jidosha Kabushiki Kaisha,Hybrid vehicle and method of controlling hybrid vehicle
+    Family To Family Citations,,,,
+    JP4123707B2                      *,2000-11-15,2008-07-23,三菱自動車工業株式会社,Engine control device
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (27)
+              
+
+
+citedBy_infor
+29
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20120283902A1                      *,2009-11-17,2012-11-08,Toyota Jidosha Kabushiki Kaisha,Vehicle and method for controlling vehicle
+    US20130013136A1                      *,2011-07-06,2013-01-10,GM Global Technology Operations LLC,System and method for increasing operating efficiency of a hybrid vehicle
+    US20130197765A1                      *,2010-08-09,2013-08-01,Matthias Schmidt,Method for operating a vehicle electrical system, a controller and a computer program product
+    US10677176B2                      *,2016-06-10,2020-06-09,Denso Corporation,Vehicle power system
+    US10767526B2                      *,2016-01-19,2020-09-08,Ford Global Technologies, Llc,Gasoline particle filter temperature control
+    Family To Family Citations,,,,
+    FR2912979B1                      *,2007-02-27,2009-08-28,Renault Sas,DEVICE FOR CONTROLLING THE ELECTRIC OPERATING MODE OF A MOTOR VEHICLE HYBRID POWER PACKAGE BY ACTION ON THE ACCELERATOR PEDAL.
+    JP4535184B2                      *,2008-09-18,2010-09-01,トヨタ自動車株式会社,Control device for hybrid vehicle
+    JP5370584B2                      *,2010-04-14,2013-12-18,トヨタ自動車株式会社,Hybrid vehicle
+    CN103338999B                      *,2011-01-31,2016-03-02,铃木株式会社,For the driving control device of motor vehicle driven by mixed power and drived control method and motor vehicle driven by mixed power
+    JP5872298B2                      *,2012-01-13,2016-03-01,株式会社日立製作所,Power supply system and automobile control device capable of supplying power to outside
+    JP5844216B2                      *,2012-05-24,2016-01-13,愛三工業株式会社,Engine exhaust gas recirculation system
+    JP5899104B2                      *,2012-11-14,2016-04-06,株式会社日本自動車部品総合研究所,Vehicle control device
+    JP2014144749A                      *,2013-01-30,2014-08-14,Mitsubishi Motors Corp,Controller for hybrid vehicle
+    DE102013207680A1                      *,2013-04-26,2014-10-30,Deere & Company,Operating strategy for hybrid vehicles for realizing a load point shift, a recuperation and a boost
+    JP2014240206A                      *,2013-06-11,2014-12-25,日産自動車株式会社,Vehicle control device and control method
+    US9447742B2                      *,2013-11-20,2016-09-20,Ford Global Technologies, Llc,Method and system for improved dilution purging
+    JP5929940B2                      *,2014-02-06,2016-06-08,株式会社デンソー,Hybrid vehicle
+    US9534544B2                      *,2014-03-28,2017-01-03,Denso International America, Inc.,Electric hybrid powertrain regeneration efficiency improvement
+    KR101601111B1,2014-07-01,2016-03-08,현대자동차 주식회사,Method for calculating amount of regenerative braking for environmentally-friently vehicle
+    JP6252519B2                      *,2015-03-06,2017-12-27,トヨタ自動車株式会社,Control device for hybrid vehicle
+    JP6241438B2                      *,2015-03-11,2017-12-06,トヨタ自動車株式会社,Control device for hybrid vehicle
+    US10202945B2                      *,2015-08-24,2019-02-12,Ford Global Technologies, Llc,Method and device for controlling a motor-vehicle internal combustion engine fitted with a fuel injection system and an exhaust gas recirculation system
+    DE102016119289A1                      *,2016-10-11,2018-04-12,Volkswagen Aktiengesellschaft,Method for recharging an electric energy storage device of a hybrid vehicle, drive unit for a hybrid vehicle and hybrid vehicle
+    FR3064683B1                      *,2017-03-30,2019-10-11,Renault S.A.S,METHOD FOR CONTROLLING A SUPERIMUM CONTROL IGNITION ENGINE WITH PARTIAL EXHAUST GAS RECIRCULATION, AND MOTORIZATION DEVICE THEREFOR
+    FR3072418B1                      *,2017-10-12,2020-02-14,Renault S.A.S,METHOD FOR CONTROLLING AN INTERNAL COMBUSTION ENGINE WITH CONTROLLED IGNITION, IN THE UNIT LIT
+    JP7088228B2                      *,2020-03-31,2022-06-21,トヨタ自動車株式会社,Hybrid vehicle control device
+    US11225921B2                      *,2020-05-29,2022-01-18,Woodward, Inc.,Engine exhaust treatment through temperature management
+
+abstract
+    A control apparatus for a hybrid vehicle, which outputs motive power to a drive shaft from an internal combustion engine and motor generators as motive power sources, including: a recirculating gas control portion that performs valve opening control on a recirculation valve so that an amount of recirculating exhaust reaches a control target valve, and that closes the recirculation valve completely when a deceleration request by a driver is detected; a throttle control portion that performs valve closing control on a throttle valve so that the amount of air circulating through an intake pipe decreases at a predetermined speed when the deceleration request issued by the driver is detected; and a braking control portion that controls regenerative braking forces of the motor generators so that at least one of the motor generators absorbs the motive power generated by the engine while valve closing control is executed on the throttle valve.
+title
+    Control apparatus and method for hybrid vehicle
+similar_document
+22
+    Publication,Publication Date,Title
+    US8290652B2,2012-10-16,Control apparatus and method for hybrid vehicle
+    US8838310B2,2014-09-16,Control device for hybrid vehicle and control method for hybrid vehicle
+    US8380376B2,2013-02-19,Power output apparatus, hybrid vehicle provided with power output apparatus, and control method of power output apparatus
+    EP2165059B1,2011-05-18,Internal combustion engine exhaust gas control system and control method of internal combustion engine exhaust gas control system
+    US6520160B2,2003-02-18,Internal combustion engine control unit for, and method of controlling a hybrid vehicle
+    US9272702B2,2016-03-01,Internal combustion engine control for a hybrid vehicle
+    US20100235070A1,2010-09-16,Vehicle and control method therefor
+    US8306721B2,2012-11-06,Internal combustion engine system, method of controlling internal combustion engine system, and vehicle
+    US20060266323A1,2006-11-30,Control apparatus for vehicle, and vehicle incorporating the same
+    US20080147294A1,2008-06-19,Control device for internal combustion engine capable of preventing deterioration of emission characteristic when internal combustion engine is started
+    EP1879764A1,2008-01-23,Control apparatus for vehicle and hybrid vehicle
+    CN111749768B,2022-05-10,Hybrid vehicle
+    US20130025263A1,2013-01-31,Control apparatus for power unit
+    CN109747623B,2022-02-22,Hybrid electric vehicle
+    US8423212B2,2013-04-16,Vehicle control apparatus
+    CN111749805B,2023-03-31,Hybrid vehicle and engine control method for hybrid vehicle
+    CN111734524B,2022-05-10,Hybrid vehicle and method of controlling hybrid vehicle
+    JP4998212B2,2012-08-15,Control device for internal combustion engine
+    JP2023044814A,2023-04-03,Control device
+    JP2023139331A,2023-10-04,Vehicle control device
+    KR20210008668A,2021-01-25,System and method for reducing pumping loss of hybrid vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    39
+classfication_items
+243
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,4
+    B,6,0,K,6,/,4,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,5,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    F
+    F,0,2
+    F,0,2,D
+    F,0,2,D,4,1,/,0,0
+    F,0,2,D,4,1,/,0,0,0,2
+    F,0,2,D,4,1,/,0,0,0,5
+    F
+    F,0,2
+    F,0,2,D
+    F,0,2,D,4,1,/,0,0
+    F,0,2,D,4,1,/,0,0,2,5
+    F,0,2,D,4,1,/,0,0,4,7
+    F,0,2,D,4,1,/,0,0,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,8
+    B,6,0,L,2,2,4,0,/,4,8,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,4,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,1,0
+    B,6,0,L,2,2,7,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,6
+    B,6,0,W,2,5,1,0,/,0,6,0,4
+    B,6,0,W,2,5,1,0,/,0,6,0,9
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,6
+    B,6,0,W,2,7,1,0,/,0,6,0,5
+    F
+    F,0,2
+    F,0,2,D
+    F,0,2,D,4,1,/,0,0
+    F,0,2,D,4,1,/,0,2
+    F,0,2,D,4,1,/,0,4
+    F,0,2,D,4,1,/,1,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,1,0
+    Y,0,2,T,1,0,/,4,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2009-09-18,Application filed by Toyota Motor Corp
+    2009-09-24,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2010-03-18,Publication of US20100070122A1
+    2012-10-16,Application granted
+    2012-10-16,Publication of US8290652B2
+    Status,Active
+    2031-05-26,Adjusted expiration
+
+active_area
+2
+    J,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2008239178A,2008-09-18,Control device for hybrid vehicle
+    JPJP2008-239178,2008-09-18,
+    JP2008-239178,2008-09-18,
+
+legal_event
+7
+    Date,Code,Title,Description
+    2009-09-24,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA,JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:NIIMI, KUNIAKI;REEL/FRAME:023277/0115Effective date: 20090901Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:NIIMI, KUNIAKI;REEL/FRAME:023277/0115Effective date: 20090901
+    2012-09-26,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2012-12-09,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2014-04-01,CC,Certificate of correction,
+    2016-03-30,FPAY,Fee payment,Year of fee payment: 4
+    2020-04-02,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+

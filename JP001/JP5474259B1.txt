@@ -1,0 +1,248 @@
+ID
+    JP5474259B1
+citation_exist
+    Patent Citations (28)
+citation_infor
+30
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH01194871A                      *,1988-01-27,1989-08-04,Mitsubishi Electric Corp,Pulse width modulation type inverter device
+    JPH11313406A                      *,1998-04-28,1999-11-09,Hitachi Ltd,ハイブリッド車の冷却装置
+    JP2002125362A                      *,2000-10-17,2002-04-26,Meidensha Corp,半導体電力変換装置における主回路素子寿命の改善方法
+    JP2004249935A                      *,2003-02-21,2004-09-09,Nissan Motor Co Ltd,車輌用電源システム
+    JP2009072003A                      *,2007-09-14,2009-04-02,Kawasaki Heavy Ind Ltd,電気鉄道システム
+    JP4589448B2                      *,2009-03-25,2010-12-01,三菱電機株式会社,交流電気車の制御装置
+    Family To Family Citations,,,,
+    JPH05115106A                      *,1991-10-21,1993-05-07,Nissan Motor Co Ltd,電気自動車の制御装置
+    JPH07123501A,1993-10-28,1995-05-12,Toshiba Corp,電気車制御装置
+    JPH104610A,1996-06-14,1998-01-06,Toshiba Corp,電気車制御装置
+    JP2001186775A                      *,1999-12-22,2001-07-06,Mitsubishi Electric Corp,電気車用制御装置
+    JP4053289B2                      *,2001-12-12,2008-02-27,本田技研工業株式会社,蓄電池の温度制御装置、及びそれを用いた車両装置
+    JP3943928B2,2001-12-25,2007-07-11,株式会社東芝,電力変換装置
+    JP4830462B2                      *,2005-11-18,2011-12-07,トヨタ自動車株式会社,電動車両の制御装置
+    JP4665809B2                      *,2006-03-24,2011-04-06,トヨタ自動車株式会社,電動機駆動制御システム
+    WO2009090755A1                      *,2008-01-18,2009-07-23,Mitsubishi Electric Corporation,電力変換器の制御装置
+    JP4643670B2                      *,2008-03-07,2011-03-02,株式会社東芝,電気車駆動装置
+    JP4644275B2                      *,2008-07-29,2011-03-02,日立オートモティブシステムズ株式会社,電力変換装置および電動車両
+    US8049362B2                      *,2008-08-29,2011-11-01,Lear Corporation,Vehicle inverter
+    JP5198232B2                      *,2008-11-27,2013-05-15,株式会社東芝,電力変換装置
+    JP4840481B2                      *,2009-07-08,2011-12-21,トヨタ自動車株式会社,二次電池の昇温制御装置およびそれを備える車両、ならびに二次電池の昇温制御方法
+    AU2009356390B9                      *,2009-12-08,2014-02-27,Mitsubishi Electric Corporation,Propulsion control device
+    JP5354086B2                      *,2010-03-01,2013-11-27,トヨタ自動車株式会社,電動車両およびその制御方法
+    JP2012019587A                      *,2010-07-07,2012-01-26,Toyota Motor Corp,電動車両
+    JP2012135118A                      *,2010-12-21,2012-07-12,Sumitomo Heavy Ind Ltd,インバータ装置
+    JP5504219B2                      *,2011-07-27,2014-05-28,日立オートモティブシステムズ株式会社,電力変換装置
+    US9190896B2                      *,2011-09-16,2015-11-17,Ford Global Technologies, Llc,PWM strategy for reduction of inverter hotspot temperature and overall losses
+    JP5886734B2                      *,2012-01-10,2016-03-16,本田技研工業株式会社,電動車両
+    US8907604B2                      *,2012-02-07,2014-12-09,Ford Global Technologies, Llc,PWM frequency pattern optimization for NVH
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (9)
+              
+
+
+citedBy_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN107848425A                      *,2015-08-10,2018-03-27,三菱电机株式会社,铁路车辆用控制装置
+    Family To Family Citations,,,,
+    JP2015192515A                      *,2014-03-28,2015-11-02,株式会社日立製作所,駆動システム
+    JP2016086488A                      *,2014-10-24,2016-05-19,株式会社日立製作所,鉄道車両の駆動装置
+    JP6584822B2                      *,2015-05-01,2019-10-02,株式会社東芝,車両用制御装置及び方法
+    JP6469864B2                      *,2015-07-10,2019-02-13,株式会社日立産機システム,電力変換装置、及び、その温度低減方法
+    CN108349397B                      *,2015-10-01,2021-03-30,株式会社东芝,铁路车辆用电力变换装置
+    DE102016123187A1                      *,2015-12-18,2017-06-22,General Electric Company,System und Verfahren zur Reduktion des Kraftstoffverbrauchs in einem Fahrzeug
+    US10500965B2,2016-12-01,2019-12-10,Ford Global Technologies, Llc,Dithering a pulse width modulated base frequency to reduce EV noise
+    JP7042597B2                      *,2017-12-04,2022-03-28,株式会社東芝,車両用制御装置及び電動車両
+
+abstract
+    主変圧器２を介して入力された交流電圧を直流電圧に変換するＣＯＮＶ３と、直流電圧を交流電圧に変換するＩＮＶ４との間の中間直流回路部４０にＳＩＶ７が接続される構成に適用される交流電気車の制御装置であって、車両停止時におけるコンバータ主回路素子の初期温度（Ｔｃｎｖの初期値）と、ＳＩＶ７の入力電流Ｉｓｉｖとに基づいて、車両停止時におけるコンバータ主回路素子の温度変動が小さくなるようにＣＯＮＶ３のキャリア周波数ｆｃを変化させる。
+title
+    交流電気車の制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP5474259B1,2014-04-16,交流電気車の制御装置
+    US8704482B2,2014-04-22,Power conversion device
+    JP5906971B2,2016-04-20,モータ駆動装置
+    JP6330057B2,2018-05-23,電力変換装置及びこれを用いた電動パワーステアリング装置
+    WO2012090237A1,2012-07-05,電力変換装置
+    JP2009225497A,2009-10-01,電源回生機能を有するサーボアンプ
+    JP2009278732A,2009-11-26,交流電動機駆動回路及び電気車駆動回路
+    JP4847597B2,2011-12-28,電源回生動作モードの切替機能を有するモータ駆動装置
+    JP2009261106A,2009-11-05,電気回路
+    JPWO2008152761A1,2010-08-26,モータ駆動装置、モータ装置、および集積回路装置
+    JP6070715B2,2017-02-01,電力変換装置
+    JP6173575B2,2017-08-02,制御ユニット
+    JP6069151B2,2017-02-01,電力変換装置の制御回路
+    WO2014203373A1,2014-12-24,インバータ制御装置、及びインバータ制御方法
+    JP2017158280A,2017-09-07,電動機駆動システム
+    JP5014527B1,2012-08-29,電気車用インバータ装置
+    JP6608761B2,2019-11-20,Ｄｃリンクコンデンサの電圧変動を抑制するモータ駆動装置
+    JPWO2018016275A1,2019-06-20,車両用電力変換装置および鉄道車両
+    JP2013135498A,2013-07-08,エレベータの制御装置
+    JP5900136B2,2016-04-06,エレベータ駆動用電源装置
+    JP2013135516A,2013-07-08,電力変換装置及び空気調和機
+    JP6566555B2,2019-08-28,電力変換装置及び空調機
+    JP2007252084A,2007-09-27,電気車制御装置
+    KR20150061126A,2015-06-04,하이브리드 회생형 인버터
+    JP4895965B2,2012-03-14,車両用補助電源装置
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    17
+classfication_items
+103
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,2
+    B,6,0,L,1,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,1,4
+    B,6,0,L,1,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,9,/,0,0
+    B,6,0,L,9,/,1,6
+    B,6,0,L,9,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,9,/,0,0
+    B,6,0,L,9,/,1,6
+    B,6,0,L,9,/,2,4
+    B,6,0,L,9,/,2,8
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,5,/,0,0
+    H,0,2,M,5,/,4,0
+    H,0,2,M,5,/,4,2
+    H,0,2,M,5,/,4,4
+    H,0,2,M,5,/,4,5,3
+    H,0,2,M,5,/,4,5,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,2
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,3,2
+    H,0,2,M,1,/,3,2,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+6
+    2012-06-28,Application filed by Mitsubishi Electric Corp
+    2014-04-16,Application granted
+    2014-04-16,Publication of JP5474259B1
+    2016-05-26,Publication of JPWO2014002233A1
+    Status,Active
+    2032-06-28,Anticipated expiration
+
+active_area
+5
+    C,N
+    J,P
+    W,O
+    U,S
+    E,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2012/066597,2012-06-28,交流電気車の制御装置
+
+legal_event
+12
+    Date,Code,Title,Description
+    2013-12-27,TRDD,Decision of grant or rejection written,
+    2014-01-08,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20140107
+    2014-02-13,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20140204
+    2014-02-14,R150,Certificate of patent or registration of utility model,Ref document number: 5474259Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R150Free format text: JAPANESE INTERMEDIATE CODE: R150
+    2017-01-24,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2018-01-23,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2019-01-22,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2020-01-15,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2021-01-13,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2022-01-13,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2022-02-07,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+

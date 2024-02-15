@@ -1,0 +1,182 @@
+ID
+    WO2019054875A1
+citation_exist
+    Patent Citations (5)
+citation_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20020174798A1,2001-03-27,2002-11-28,General Electric Company,Hybrid energy locomotive electrical power storage system
+    FR2871744A1                      *,2004-06-21,2005-12-23,Alstom Sa,ON-LINE POWER SUPPLY DEVICE ON A TRACTION VEHICLE, POWER SUPPLY METHOD, AND RECORDING MEDIUM OF THE METHOD
+    US20080021602A1,2006-05-24,2008-01-24,Ise Corporation,Electrically Powered Rail Propulsion Vehicle and Method
+    DE102008037661A1,2008-08-14,2010-02-25,Siemens Aktiengesellschaft,Motor train set, has control device controlling supply of electrical consumers by input system for current collector and/or slow memory and/or fast memory, dependent on operating condition of train set
+    WO2016084043A1,2014-11-28,2016-06-02,Hitachi Rail Italy S.P.A.,Auxiliary system of power supply and energy harvesting for an electric vehicle, and method for operating the auxiliary system of power supply and energy harvesting
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (6)
+              
+
+
+citedBy_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN110116639A                      *,2019-05-30,2019-08-13,江苏易飞特科技有限公司,The method of supplying power to of rail vehicle based on super capacitor
+    GB2603129A                      *,2021-01-25,2022-08-03,Bombardier Transp Gmbh,Method for managing power consumption of a railway vehicle, and railway vehicle with improved power consumption management
+    Family To Family Citations,,,,
+    US20220227258A1                      *,2021-01-20,2022-07-21,Abb Schweiz Ag,Power line system with ripple generator for electric vehicles
+    US20230174123A1                      *,2021-12-02,2023-06-08,Ranjan Kumar Gupta,System and method of electrical connection of rail vehicle for storing, transporting and delivering electric energy
+    US20230174119A1                      *,2021-12-08,2023-06-08,Intramotev Inc.,Self-propelled railcar
+    US20230339308A1                      *,2022-04-25,2023-10-26,First Mode Ipp Limited,Reconfiguration of diesel-powered haul truck with hybrid hydrogen fuel cell and battery power supply
+
+abstract
+    The present invention relates to a method for converting a diesel-electric, or diesel hydraulic rail vehicle to an all-electric rail vehicle capable of moving on partially electrified railway tracks, comprising providing the vehicle a storage and autonomous supply electric power system comprising an electric traction unit, if not present in the vehicle prior to the conversion, or if the existing electric traction unit is to be replaced; an accumulator unit comprising one or more electricity accumulators, and a super capacitor unit comprising one or more super-capacitive assemblies; a power supply device for supplying external power when available to the traction and the storage and supply system, and a control and distribution system for distributing electric power between the traction system, the power supply device and the electric power storage and autonomous supply system according to the traction operation and availability of external power.
+title
+    Railway power system and associated method
+similar_document
+22
+    Publication,Publication Date,Title
+    US20200207377A1,2020-07-02,Railway power system and associated method
+    US8640629B2,2014-02-04,Battery-powered all-electric and/or hybrid locomotive and related locomotive and train configurations
+    CA2760576C,2014-06-03,A battery-powered all-electric locomotive and related locomotive and train configurations
+    NL2019561B1,2019-03-27,Power system and associated methods
+    CA2378774C,2009-12-22,Hybrid energy power management system and method
+    Steiner et al.,2007,Energy storage system with ultracaps on board of railway vehicles
+    AU2008246093B2,2013-11-21,Hybrid energy power management system and method
+    US20050279242A1,2005-12-22,Cabless hybrid locomotive
+    US20020174796A1,2002-11-28,Locomotive energy tender
+    US20020174798A1,2002-11-28,Hybrid energy locomotive electrical power storage system
+    Steiner et al.,2004,Energy storage on board of DC fed railway vehicles PESC 2004 conference in Aachen, Germany
+    US20020174797A1,2002-11-28,Hybrid energy locomotive system and method
+    CA2694420C,2016-05-31,Container-based locomotive power source
+    US11002167B2,2021-05-11,Wireless power transfer system
+    KR20100132569A,2010-12-20,Control method of hybrid eletric railway car
+    JP5190883B2,2013-04-24,Overhead voltage compensation vehicle
+    WO2023151809A1,2023-08-17,Electrical traction system for an industrial electric vehicle, industrial electric vehicle, electrical power supply system and method of providing electrical energy to an industrial electric vehicle
+    Schwartz et al.,2013,Self-Powered streetcar revolution: the new affordable transit option for cities worldwide
+    JP2023513273A,2023-03-30,Vehicles with electric traction including energy management systems and methods of managing energy in such vehicles with electric traction
+    JP2022060662A,2022-04-15,Battery-driven vehicle and transport system
+    Luvishis,2010,Hybrid rail vehicles
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    EP18793040.9A,2017-09-15,2018-09-17,Railway power system and associated method
+    US16/647,071,2017-09-15,2018-09-17,Railway power system and associated method
+
+inventor_number
+    3
+classfication_nums
+    14
+classfication_items
+74
+    B
+    B,6,1
+    B,6,1,C
+    B,6,1,C,3,/,0,0
+    B,6,1,C,3,/,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,3,0
+    B,6,0,L,5,3,/,3,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,9,/,0,0
+    B
+    B,6,0
+    B,6,0,M
+    B,6,0,M,7,/,0,0
+    B,6,0,M,7,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,4,0
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,3,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,3,0,/,0,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,2
+
+application_events
+4
+    2018-09-17,Application filed by Fms Advisers B.V.
+    2018-09-17,Priority to EP18793040.9A
+    2018-09-17,Priority to US16/647,071
+    2019-03-21,Publication of WO2019054875A1
+
+active_area
+0
+
+not_active_area
+3
+    N,L
+    E,P
+    U,S
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    NL2019562,2017-09-15,
+    NL2019562A,2017-09-15,Power system and associated methods
+
+legal_event
+4
+    Date,Code,Title,Description
+    2019-05-01,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 18793040Country of ref document: EPKind code of ref document: A1
+    2020-03-17,NENP,Non-entry into the national phase,Ref country code: DE
+    2020-04-17,ENP,Entry into the national phase,Ref document number: 2018793040Country of ref document: EPEffective date: 20200415
+

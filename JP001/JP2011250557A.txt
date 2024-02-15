@@ -1,0 +1,194 @@
+ID
+    JP2011250557A
+citation_exist
+    Patent Citations (12)
+citation_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH0956012A                      *,1995-08-18,1997-02-25,Kokusan Denki Co Ltd,電動車両用ブラシレス直流電動機の制御方法
+    JPH0956013A                      *,1995-08-18,1997-02-25,Kokusan Denki Co Ltd,電動車両の電動機出力制御方法
+    JP2005176529A                      *,2003-12-12,2005-06-30,Asmo Co Ltd,ブラシレスモータのコントローラおよびファンモータ装置
+    JP2007288818A                      *,2006-04-12,2007-11-01,Toyota Industries Corp,モータインバータ
+    JP2009225633A                      *,2008-03-18,2009-10-01,Toyota Motor Corp,電動機駆動制御装置、それを備えた車両および電動機駆動制御方法
+    Family To Family Citations,,,,
+    JP4619483B2,2000-04-17,2011-01-26,パナソニック株式会社,電動装置
+    US6472845B2                      *,2000-08-07,2002-10-29,Nissan Motor Co., Ltd.,Motor/generator device
+    AU2001213154A1                      *,2000-08-15,2002-02-25,Vladimir Nikolayevich Davidov,Method and apparatus for controlling acceleration and velocity of a stepper motor
+    US6515443B2                      *,2001-05-21,2003-02-04,Agere Systems Inc.,Programmable pulse width modulated waveform generator for a spindle motor controller
+    US7230401B2                      *,2002-03-27,2007-06-12,Brother Kogyo Kabushiki Kaisha,Apparatus and method for controlling an electric motor
+    JP3888247B2                      *,2002-07-15,2007-02-28,松下電器産業株式会社,モータ駆動装置
+    US7821217B2                      *,2006-05-22,2010-10-26,Black & Decker Inc.,Electronically commutated motor and control system employing phase angle control of phase current
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (5)
+              
+
+
+citedBy_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    WO2014147904A1                      *,2013-03-21,2014-09-25,本田技研工業株式会社,発電電動ユニット、および発電電動機の制御方法
+    Family To Family Citations,,,,
+    JP5702126B2                      *,2010-12-08,2015-04-15,ミネベア株式会社,モータ制御回路
+    CN110870189A                      *,2017-07-26,2020-03-06,日本电产株式会社,电力转换装置、马达模块以及电动助力转向装置
+    CN108054961B                      *,2017-12-05,2020-05-12,西北工业大学,一种高速无刷直流电机最优超前角实时控制方法
+    WO2019244743A1                      *,2018-06-19,2019-12-26,パナソニックＩｐマネジメント株式会社,モータ駆動装置およびこれを用いた冷蔵庫
+
+abstract
+    【課題】電気機械装置の効率的な制御を行う。【解決手段】電機機械装置であって、電磁コイルと、前記電磁コイルにＰＷＭ駆動信号を供給するためのＰＷＭ駆動回路と、前記ＰＷＭ駆動回路を制御する制御部と、を備え、前記制御部は、前記電磁コイルに前記ＰＷＭ駆動信号を供給する区間としての励磁区間を設定する第１の制御と、前記ＰＷＭ駆動信号のデューティ比を変更する第２の制御と、を実行し、前記制御部は、前記第１の制御において、前記励磁区間の中心の位相を、前記電磁コイルに生じる逆起電力の最大値が生じる位相の値よりも早める進角制御を行うとともに、前記第２の制御において、正弦波を模擬するＰＷＭ駆動信号を生成する際のゲインを１００％としたときに、１００％を越えるゲインを実現するように前記デューティ比を増大させる、電機機械装置。【選択図】図１１
+title
+    電気機械装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP5016674B2,2012-09-05,モータ制御回路、モータシステム、モータ制御方法
+    JP5077389B2,2012-11-21,電気機械装置
+    JP5151486B2,2013-02-27,ブラシレス電気機械、装置、移動体、及び、ロボット
+    US8106548B2,2012-01-31,Electric motor device
+    US8338999B2,2012-12-25,Brushless motor
+    JP2012170307A,2012-09-06,電気機械装置、移動体、及びロボット
+    US8395344B2,2013-03-12,Motor control method and device
+    KR20090004638A,2009-01-12,전동기의 구동 제어 회로
+    JP2013111734A,2013-06-10,電動工具
+    US8766574B2,2014-07-01,Method and control device for operating a three-phase brushless direct current motor
+    JP6141635B2,2017-06-07,モータ駆動装置
+    JP5359021B2,2013-12-04,電動機の駆動制御回路
+    JP5771857B1,2015-09-02,モータ及びモータ制御方法
+    JP5510493B2,2014-06-04,電気機械装置
+    Wahyu et al.,2019,PWM Control Strategy of Regenerative Braking to Maximize the Charging Current into the Battery in SRM Drive
+    JP5266746B2,2013-08-21,ブラシレスモータ、装置、及び、ロボット
+    JP6060296B1,2017-01-11,定電流制御によるスイッチドリラクタンスモータ装置
+    Awari et al.,2017,Speed control and electrical braking of axial flux BLDC motor
+    JP5359015B2,2013-12-04,モータの制御装置、制御方法、ロボット及び移動体
+    JP2013162574A,2013-08-19,非正弦波駆動電動機
+    Dewi et al.,2019,The Impact of SRM Rotor Speed on Regenerative Braking to Optimize the Performance
+    JP2009100525A,2009-05-07,電動装置および電動装置を駆動するための回路
+    JP2013121288A,2013-06-17,変速装置
+    JP2020061863A,2020-04-16,Ｓｒモータ制御システム及びｓｒモータ制御方法
+    JP2012065505A,2012-03-29,電動モーター
+
+patent_application
+    NoExist
+patent_priority_application
+4
+    Application,Priority date,Filing date,Title
+    JP2010120303A,2010-05-26,2010-05-26,電気機械装置
+    US13/086,495,2010-05-26,2011-04-14,Electromechanical device
+    CN2011101345496A,2010-05-26,2011-05-23,电动机械装置
+
+inventor_number
+    4
+classfication_nums
+    7
+classfication_items
+42
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,7,/,0,0
+    H,0,2,P,2,7,/,0,4
+    H,0,2,P,2,7,/,0,6
+    H,0,2,P,2,7,/,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,2
+    B,6,0,L,1,5,/,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,6,/,0,0
+    H,0,2,P,6,/,1,4
+    H,0,2,P,6,/,1,5
+    H,0,2,P,6,/,1,5,3
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,6,/,0,0
+    H,0,2,P,6,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+
+application_events
+9
+    2010-05-26,Application filed by Seiko Epson Corp
+    2010-05-26,Priority to JP2010120303A
+    2011-04-14,Priority to US13/086,495
+    2011-05-23,Priority to CN2011101345496A
+    2011-12-08,Publication of JP2011250557A
+    2012-11-21,Application granted
+    2012-11-21,Publication of JP5077389B2
+    Status,Active
+    2030-05-26,Anticipated expiration
+
+active_area
+2
+    J,P
+    C,N
+
+not_active_area
+1
+    U,S
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2010120303A,2010-05-26,電気機械装置
+
+legal_event
+33
+    Date,Code,Title,Description
+    2011-11-12,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20111111
+    2011-11-12,A871,Explanation of circumstances concerning accelerated examination,Free format text: JAPANESE INTERMEDIATE CODE: A871Effective date: 20111111
+    2011-12-14,A975,Report on accelerated examination,Free format text: JAPANESE INTERMEDIATE CODE: A971005Effective date: 20111213
+    2011-12-21,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20111220
+    2012-02-22,A02,Decision of refusal,Free format text: JAPANESE INTERMEDIATE CODE: A02Effective date: 20120221
+    2012-05-12,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20120511
+    2012-05-21,A911,Transfer to examiner for re-examination before appeal (zenchi),Free format text: JAPANESE INTERMEDIATE CODE: A911Effective date: 20120518
+    2012-07-24,TRDD,Decision of grant or rejection written,
+    2012-08-01,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20120731
+    2012-08-02,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01
+    2012-09-03,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20120813
+    2012-09-07,FPAY,Renewal fee payment (event date is renewal date of database),Free format text: PAYMENT UNTIL: 20150907Year of fee payment: 3
+    2012-09-07,R150,Certificate of patent or registration of utility model,Ref document number: 5077389Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R150Free format text: JAPANESE INTERMEDIATE CODE: R150
+    2016-03-28,S531,Written request for registration of change of domicile,Free format text: JAPANESE INTERMEDIATE CODE: R313531
+    2016-04-05,R350,Written notification of registration of transfer,Free format text: JAPANESE INTERMEDIATE CODE: R350
+    2016-09-13,S111,Request for change of ownership or part of ownership,Free format text: JAPANESE INTERMEDIATE CODE: R313113
+    2016-09-23,R350,Written notification of registration of transfer,Free format text: JAPANESE INTERMEDIATE CODE: R350
+    2016-12-06,S131,Request for trust registration of transfer of right,Free format text: JAPANESE INTERMEDIATE CODE: R313135
+    2016-12-06,SZ02,Written request for trust registration,Free format text: JAPANESE INTERMEDIATE CODE: R313Z02
+    2016-12-15,S131,Request for trust registration of transfer of right,Free format text: JAPANESE INTERMEDIATE CODE: R313135
+    2016-12-15,SZ02,Written request for trust registration,Free format text: JAPANESE INTERMEDIATE CODE: R313Z02
+    2016-12-21,R350,Written notification of registration of transfer,Free format text: JAPANESE INTERMEDIATE CODE: R350
+    2017-08-15,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2018-06-26,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2019-08-22,S111,Request for change of ownership or part of ownership,Free format text: JAPANESE INTERMEDIATE CODE: R313113
+    2019-08-22,SZ03,Written request for cancellation of trust registration,Free format text: JAPANESE INTERMEDIATE CODE: R313Z03
+    2019-10-09,R350,Written notification of registration of transfer,Free format text: JAPANESE INTERMEDIATE CODE: R350
+    2019-11-12,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2020-09-15,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2021-09-27,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2022-09-14,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2023-08-30,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+

@@ -1,0 +1,298 @@
+ID
+    WO2020164831A1
+citation_exist
+    Patent Citations (9)
+citation_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20180370385A1                      *,2015-12-04,2018-12-27,Audi Ag,Method for controlling an electric machine for driving a motor vehicle, and motor vehicle
+    Family To Family Citations,,,,
+    JP2008245517A                      *,2008-04-07,2008-10-09,Toyota Motor Corp,電気自動車の制御装置
+    JP5137897B2                      *,2009-05-20,2013-02-06,本田技研工業株式会社,車両の走行制御装置
+    JP2015030427A                      *,2013-08-06,2015-02-16,本田技研工業株式会社,車両の制動装置
+    DE102013221535A1                      *,2013-10-23,2015-04-23,Bayerische Motoren Werke Aktiengesellschaft,E-Maschinen-Schleppmomentenkompensation
+    US9944200B2                      *,2015-03-09,2018-04-17,Ford Global Technologies, Llc,Variable creep torque
+    JP6648449B2                      *,2015-08-31,2020-02-14,株式会社アドヴィックス,車両制御装置
+    DE102015226134A1                      *,2015-12-21,2017-06-22,Zf Friedrichshafen Ag,Verfahren zum Betreiben eines Kraftfahrzeugs
+    US11021068B2                      *,2017-01-24,2021-06-01,Nissan Motor Co., Ltd.,Vehicle control device and control method
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (6)
+              
+
+
+citedBy_exist
+    
+              Cited By (5)
+              
+
+
+citedBy_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US11712972B2                      *,2020-09-28,2023-08-01,Ford Global Technologies, Llc,Electrified vehicle one pedal drive transition control
+    CN114655020A                      *,2020-12-23,2022-06-24,瀚德万安(上海)电控制动系统有限公司,自动驻车的控制方法、车辆的制动系统及其制动控制模块
+    DE102021105340A1                      *,2021-03-05,2022-09-08,Bayerische Motoren Werke Aktiengesellschaft,Antriebssteuersystem für ein elektromotorisch betreibbares Kraftfahrzeug mit einer Fahrstufenwähleinrichtung
+    EP4147921A1                      *,2021-09-09,2023-03-15,KNORR-BREMSE Systeme für Nutzfahrzeuge GmbH,Verfahren zur einstellung einer bremspedalcharakteristik
+    DE102021133892A1,2021-12-20,2023-06-22,Zf Active Safety Gmbh,Brake-by-Wire-Bremssystem
+
+abstract
+    Es wird eine Steuereinheit für ein Kraftfahrzeug beschrieben, das zumindest eine elektrische Maschine zum Antrieb von ein oder mehreren Rädern des Fahrzeugs und zumindest eine Reibbremse umfasst. Die Steuereinheit ist eingerichtet, zu bestimmen, dass über ein Fahrpedal des Fahrzeugs eine One-Pedal-Feeling-Funktion und/oder über ein Bremspedal des Fahrzeugs eine Kriech-Funktion bereitgestellt werden soll. Des Weiteren ist die Steuereinheit eingerichtet, die elektrische Maschine und die Reibbremse zumindest zeitweise in Kombination zu betreiben, um die One-Pedal-Feeling-Funktion und/oder um die Kriech-Funktion bereitzustellen.
+title
+    Steuereinheit zur bereitstellung einer one-pedal-feeling- und/oder kriech-funktion
+similar_document
+26
+    Publication,Publication Date,Title
+    WO2020164831A1,2020-08-20,Steuereinheit zur bereitstellung einer one-pedal-feeling- und/oder kriech-funktion
+    DE102010060079B4,2022-03-17,Verfahren und Steuerungssystem zum Öffnen des Antriebsstrangs eines Kraftfahrzeuges
+    DE102010026653B4,2020-12-03,Verfahren zum verwenden eines geschwindigkeitsregelungssystems in einem fahrzeug mit einem elektrischen antrieb
+    EP2096014B1,2015-06-10,Verfahren, Vorrichtung und deren Verwendung zum Betrieb eines Kraftfahrzeuges
+    DE10307462B4,2019-02-28,Verfahren zur Steuerung der Antriebseinheit eines Fahrzeugs
+    DE10317501B4,2015-06-03,Verfahren zum Betrieb eines Kraftfahrzeugs
+    DE102011084339B4,2021-01-28,Steuerungseinrichtung eines Kraftfahrzeugs und Verfahren zum Betreiben desselben
+    EP2711538B1,2019-03-27,Verfahren und Vorrichtung zum Betrieb einer Start/Stopp-Automatik
+    EP2509839B1,2019-04-03,Verfahren und vorrichtung zur steuerung eines fahrzeugs an ein objekt während eines einparkvorgangs
+    DE10229035B4,2015-10-15,Verfahren zur Steuerung der Antriebseinheit eines Fahrzeugs
+    DE112016005384T5,2018-08-09,Steuergerät für ein kraftfahrzeug und verfahren
+    DE102010039983A1,2011-04-21,Durch eine Bremse unterstützter Fahrzeugmotorneustart auf einer Strassensteigung
+    DE10008344A1,2000-08-24,Steuersystem für Hybridfahrzeug
+    DE102011108446B4,2019-12-12,Verfahren und Vorrichtung zur Rekuperation für ein Fahrzeug
+    DE102012218295A1,2013-08-01,Verfahren zum Steuern eines Fahrzeugradachsendrehmoments und Steuersystem für dasselbe
+    DE112011105569T5,2014-06-12,Bremskraftsteuervorrichtung für fahrzeug
+    DE102012223867A1,2014-06-26,Halten eines ein elektrisches Antriebssystem umfassenden Kraftfahrzeugs auf einer geneigten Fläche
+    EP1305181B1,2008-07-09,Verfahren und einrichtung zur selbsttätigen geschwindigkeitseinstellung in einem fahrzeug
+    EP1288056B1,2008-05-07,Verfahren zur Steuerung und/oder Regelung der Fahrzeuggeschwindigkeit
+    WO2017108309A1,2017-06-29,Verfahren zum betreiben eines kraftfahrzeugs durch kriechbetrieb der kupplung
+    DE102010032436A1,2011-02-17,System und Verfahren zur Berganfahrunterstützung
+    DE102005027615B4,2017-02-02,Verfahren und Vorrichtung zum Steuern eines eine Brennkraftmaschine und ein stufenloses Getriebe enthaltenden Fahrzeugantriebsstrangs
+    DE102011085395B4,2023-03-02,Verfahren zum Betreiben eines Kraftfahrzeugs sowie Antriebssystem eines Kraftfahrzeugs
+    DE102015212928B4,2022-02-03,Verfahren zum Betreiben eines Antriebssystems eines Kraftfahrzeugs, Antriebssystem für ein Kraftfahrzeug und Kraftfahrzeug
+    EP3592588B1,2022-05-11,Verfahren zur steuerung eines kraftfahrzeuges und kraftfahrzeug
+
+patent_application
+    NoExist
+patent_priority_application
+4
+    Application,Priority date,Filing date,Title
+    JP2021541633A,2019-02-11,2020-01-14,ワンペダルフィーリング機能及び／又はクリープ機能を提供する制御ユニット
+    US17/419,359,2019-02-11,2020-01-14,Control Unit for Providing a One-Pedal Feel and/or a Creep Function
+    CN202080008105.5A,2019-02-11,2020-01-14,用于提供单踏板感觉和/或爬行功能的控制单元
+
+inventor_number
+    8
+classfication_nums
+    30
+classfication_items
+176
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,6,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B,6,0,L,1,5,/,2,0,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B,6,0,L,1,5,/,2,0,1,8
+    B,6,0,L,1,5,/,2,0,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,0,6,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,0,8,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,1,0
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,1,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B,6,0,L,2,2,4,0,/,6,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,5,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,0,4,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,2,1,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,2,/,0,0
+    B,6,0,W,2,5,5,2,/,1,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,5,/,0,0
+    B,6,0,W,2,5,5,5,/,6,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+5
+    2020-01-14,Application filed by Bayerische Motoren Werke Aktiengesellschaft
+    2020-01-14,Priority to JP2021541633A
+    2020-01-14,Priority to US17/419,359
+    2020-01-14,Priority to CN202080008105.5A
+    2020-08-20,Publication of WO2020164831A1
+
+active_area
+5
+    D,E
+    U,S
+    C,N
+    W,O
+    J,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    DE102019103375.6,2019-02-11,
+    DE102019103375.6A,2019-02-11,Steuereinheit zur Bereitstellung einer One-Pedal-Feeling- und/oder Kriech-Funktion
+
+legal_event
+5
+    Date,Code,Title,Description
+    2020-09-30,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 20701152Country of ref document: EPKind code of ref document: A1
+    2021-07-19,ENP,Entry into the national phase,Ref document number: 2021541633Country of ref document: JPKind code of ref document: A
+    2021-08-12,NENP,Non-entry into the national phase,Ref country code: DE
+    2022-02-23,122,Ep: pct application non-entry in european phase,Ref document number: 20701152Country of ref document: EPKind code of ref document: A1
+

@@ -1,0 +1,169 @@
+ID
+    US20170036548A1
+citation_exist
+    Patent Citations (9)
+citation_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JPH10271605A,1997-03-27,1998-10-09,Mitsubishi Motors Corp,Brake control equipment of electric vehicle
+    JP3405137B2                      *,1997-08-08,2003-05-12,トヨタ自動車株式会社,Braking force control device
+    JP4370775B2                      *,2002-12-17,2009-11-25,日産自動車株式会社,Combined brake coordination controller
+    JP4742778B2                      *,2004-12-22,2011-08-10,株式会社アドヴィックス,Brake control device for vehicle
+    JP2006311791A                      *,2005-03-31,2006-11-09,Advics:Kk,Brake control unit for vehicles
+    WO2011016095A1                      *,2009-08-07,2011-02-10,トヨタ自動車株式会社,Brake control system, and brake control method
+    JP6012225B2                      *,2012-03-30,2016-10-25,日立オートモティブシステムズ株式会社,Brake device
+    JP2015015931A                      *,2013-07-12,2015-01-29,株式会社Ｕｍｎファーマ,Method for producing culture comprising virus-like particles
+    KR101664580B1                      *,2014-11-12,2016-10-11,현대자동차주식회사,Method for determining amount of regenerative braking
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    US11760168B2,2018-10-03,2023-09-19,Carrier Corporation,Anti-lock tire system
+    Family To Family Citations,,,,
+    JP2019097361A                      *,2017-11-27,2019-06-20,ダイムラー・アクチェンゲゼルシャフトＤａｉｍｌｅｒ ＡＧ,Control device of electric vehicle
+
+abstract
+    A MG-ECU includes, as a regeneration limiting value, a limited value set according to a state of a battery, and an unlimited value enabling generation of braking force greater than the limited value. In a state in which regenerative braking is being limited, the MG-ECU causes frictional braking force to be generated based on a difference between the unlimited value and the drive force demand of a driver. In cases in which the frictional braking force is also limited in a state of the regenerative braking, the MG-ECU switches the regeneration limiting value from the limited value to the unlimited value, and requests a motor-generator to generate regenerative braking based on the limited value.
+title
+    Electrically powered vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US8634987B2,2014-01-21,Control apparatus for electric vehicle
+    CN101954910B,2013-09-04,Operating device for a cruise control system in a vehicle with regenerative braking capability
+    US8886375B2,2014-11-11,Control apparatus for electric vehicle
+    CN102029915B,2013-06-26,Regenerative braking system
+    CN104924913A,2015-09-23,Normalizing deceleration of a vehicle having a regenerative braking system
+    US7322659B2,2008-01-29,Method and system for brake distribution in a regenerative braking system
+    CN110936822B,2021-03-26,Control method and control system for coasting energy feedback and vehicle
+    EP2557011A1,2013-02-13,Industrial vehicle
+    US20120226402A1,2012-09-06,Vehicle control device and vehicle control method
+    US20100049414A1,2010-02-25,Control apparatus for electric vehicle
+    WO2013077143A1,2013-05-30,Vehicle travel control device
+    CN106347137B,2022-02-01,Adaptive regenerative braking method and system
+    JP5790782B2,2015-10-07,Vehicle control device
+    CN103043056A,2013-04-17,Method of controlling vehicle wheel axle torque and control system for same
+    CN108372854B,2022-05-31,Device and method for controlling braking of vehicle
+    JP2019127211A,2019-08-01,Vehicular control device
+    US10112488B2,2018-10-30,Electrically powered vehicle
+    KR20150071568A,2015-06-26,System and method for autonomous emergency braking
+    JP6546959B2,2019-07-17,vehicle
+    JP5353365B2,2013-11-27,Vehicle system
+    JP6124123B2,2017-05-10,Regenerative brake control system
+    KR102354195B1,2022-01-21,Control appratus for drive garbage car PHEV
+    GB2557333A,2018-06-20,Braking system
+    JP6058564B2,2017-01-11,Electric vehicle braking control device
+    KR20180012576A,2018-02-06,Battery charge control apparatus of regenerative breaking in range extender electric vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    10
+classfication_items
+59
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,7,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,3,6
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,1
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,1,8
+    B,6,0,Y,2,3,0,0,/,1,8,0,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,2,5
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,8,9
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,9,1
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,4,0,0,/,0,0
+    B,6,0,Y,2,4,0,0,/,8,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+
+application_events
+7
+    2016-08-05,Application filed by Honda Motor Co Ltd
+    2016-08-05,Assigned to HONDA MOTOR CO., LTD.
+    2017-02-09,Publication of US20170036548A1
+    2018-10-30,Application granted
+    2018-10-30,Publication of US10112488B2
+    Status,Active
+    2036-09-03,Adjusted expiration
+
+active_area
+2
+    J,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2015-155293,2015-08-05,
+    JP2015155293A,2015-08-05,Electric vehicle
+
+legal_event
+4
+    Date,Code,Title,Description
+    2016-08-05,AS,Assignment,Owner name: HONDA MOTOR CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:KOBAYASHI, SHINYA;REEL/FRAME:039354/0153Effective date: 20160728
+    2018-10-10,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2022-04-13,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

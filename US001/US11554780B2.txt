@@ -1,0 +1,453 @@
+ID
+    US11554780B2
+citation_exist
+    Patent Citations (9)
+citation_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20070241611A1                      *,2006-04-14,2007-10-18,Michihito Shimada,Vehicle and control method of vehicle
+    US9248822B2                      *,2013-06-27,2016-02-02,Hyundai Motor Company,Control apparatus and method for regenerative braking of eco-friendly vehicle
+    US20170247027A1                      *,2016-02-26,2017-08-31,Ford Global Technologies, Llc,Paddle shifter control of hybrid powertrain
+    US9923490B2                      *,2014-01-31,2018-03-20,Toyota Jidosha Kabushiki Kaisha,Vehicle
+    US20180236866A1                      *,2017-02-21,2018-08-23,Ford Global Technologies, Llc,Hybrid vehicle powertrain with manual transmission
+    US10377242B2                      *,2015-09-30,2019-08-13,Mitsubishi Jidosha Kogyo Kabushiki Kaisha,Regenerative brake control device
+    US20190366993A1                      *,2018-05-30,2019-12-05,Mando Corporation,Vehicle control system, controlling method thereof and brake apparatus
+    US11046316B2                      *,2018-12-10,2021-06-29,Hyundai Motor Company,Regenerative braking control method of hybrid vehicle
+    US11180149B2                      *,2018-11-09,2021-11-23,Hyundai Motor Company,Vehicle and method for controlling the same
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US11660967B2                      *,2020-07-10,2023-05-30,Robert Bosch Gmbh,Closed-loop control of regenerative braking
+    JP2022123951A                      *,2021-02-15,2022-08-25,株式会社Subaru,Vehicular control device
+    US20220289036A1                      *,2021-03-14,2022-09-15,Toyota Motor Engineering & Manufacturing North America, Inc.,Regenerative braking control system
+    US20230322096A1,2022-04-08,2023-10-12,Ferrari S.P.A.,Control method for an electrically driven road vehicle driven by a driver, and relative road vehicle
+
+abstract
+    A regenerative braking control system of an AWD (all-wheel-drive) hybrid vehicle including a front wheel HEV (hybrid electric vehicle) powertrain and a rear wheel EV (electric vehicle) powertrain is provided. The control system includes a manipulating instrument mounted to a steering wheel for manual shifting and regenerative braking control by a driver's manipulation, and a controller for adjusting a regenerative braking amount and controlling a shift pattern of each of a front wheel motor of the front wheel HEV powertrain and a rear wheel motor of the rear wheel EV powertrain by receiving a (−) or (+) manipulation signal or a hold manipulation signal of the manipulating instrument.
+title
+    Regenerative braking control system and method of AWD hybrid vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US11554780B2,2023-01-17,Regenerative braking control system and method of AWD hybrid vehicle
+    CN108349488B,2021-03-09,Method for controlling a drive of a hybrid vehicle and hybrid vehicle
+    EP1979185B1,2017-01-04,Vehicle, control method thereof and braking device
+    US9026291B2,2015-05-05,Vehicle hybrid drive device
+    EP1970240B1,2011-07-20,Engine start control system for hybrid vehicle
+    EP2703243B1,2016-04-27,Control device for vehicle
+    CN103043056B,2016-01-20,Control vehicle wheel axle torque method and for its control system
+    CN101648563B,2014-05-28,Preventing gear shift cycling of a hybrid electric vehicle
+    WO2010058470A1,2010-05-27,Controller of power transmission device for vehicle
+    US10253876B2,2019-04-09,Vehicle regenerative speed control device
+    US20180134296A1,2018-05-17,Auto cruise control method for hybrid electric vehicles
+    JPWO2012059999A1,2014-05-12,Control device for hybrid vehicle
+    US20200180632A1,2020-06-11,Vehicle control method and vehicle control device
+    CN107264294B,2020-08-14,Traveling drive device for vehicle
+    WO2015185971A1,2015-12-10,Control device for vehicle
+    JP2004255973A,2004-09-16,Hybrid automobile
+    US10279799B2,2019-05-07,Dynamic torque profiles based on drive mode selection
+    JP2010246307A,2010-10-28,Power transmission control device for vehicle
+    US10962111B2,2021-03-30,Control device and control method for vehicle including continuously variable transmission
+    JP5652118B2,2015-01-14,Vehicle travel control device and vehicle travel control method
+    US10857992B2,2020-12-08,Control method for hybrid vehicles
+    EP2159091A2,2010-03-03,Automatic throttle response for a hybrid vehicle
+    WO2018189896A1,2018-10-18,Electric vehicle control device and electric vehicle control method
+    KR20210048618A,2021-05-04,System and method for controlling regenerative braking of awd hybrid vehicle
+    JP2022112447A,2022-08-02,Hybrid vehicle control device
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    5
+classfication_nums
+    55
+classfication_items
+330
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B,6,0,W,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,/,0,0
+    B,6,0,K,1,/,0,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,3,8
+    B,6,0,K,6,/,3,8,7
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,4
+    B,6,0,K,6,/,4,4,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,5,0
+    B,6,0,K,6,/,5,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,5,0
+    B,6,0,K,6,/,5,4
+    B,6,0,K,6,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,6
+    B,6,0,T,8,/,1,7,6,9
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B,6,0,W,1,0,/,1,8,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,9,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,3,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,0,7,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,1,0
+    B,6,0,W,4,0,/,1,0,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,0,8,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,0,8,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,1,0
+    B
+    B,6,2
+    B,6,2,D
+    B,6,2,D,1,/,0,0
+    B,6,2,D,1,/,0,2
+    B,6,2,D,1,/,0,4
+    B,6,2,D,1,/,0,4,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B,6,0,K,2,0,0,6,/,4,8,2,5
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,2,3,7,0,/,0,0
+    B,6,0,K,2,3,7,0,/,1,0
+    B,6,0,K,2,3,7,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,2,0
+    B,6,0,T,2,2,7,0,/,2,0,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,3,0,0,/,0,0
+    B,6,0,W,2,3,0,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,6
+    B,6,0,W,2,5,1,0,/,0,6,3,8
+    B,6,0,W,2,5,1,0,/,0,6,4,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,8
+    B,6,0,W,2,5,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,3,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,2,1,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,0
+    B,6,0,W,2,7,1,0,/,1,0,0,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,2
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,4,0,0,/,0,0
+    B,6,0,Y,2,4,0,0,/,8,2
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,5,9,/,0,0
+    F,1,6,H,5,9,/,0,2
+    F,1,6,H,2,0,5,9,/,0,2,3,9
+    F,1,6,H,2,0,5,9,/,0,2,4,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2020-06-11,Application filed by Hyundai Motor Co, Kia Motors Corp
+    2020-06-11,Assigned to KIA MOTORS CORPORATION, HYUNDAI MOTOR COMPANY
+    2021-04-29,Publication of US20210122371A1
+    2023-01-17,Application granted
+    2023-01-17,Publication of US11554780B2
+    Status,Active
+    2041-03-13,Adjusted expiration
+
+active_area
+3
+    K,R
+    U,S
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    KR1020190131860A,2019-10-23,System and method for controlling regenerative braking of awd hybrid vehicle
+    KR10-2019-0131860,2019-10-23,
+
+legal_event
+14
+    Date,Code,Title,Description
+    2020-06-11,AS,Assignment,Owner name: HYUNDAI MOTOR COMPANY, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:CHOI, YONG KAK;LEE, CHANG MIN;PARK, JOON SHIK;REEL/FRAME:052920/0704Effective date: 20200507Owner name: KIA MOTORS CORPORATION, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:CHOI, YONG KAK;LEE, CHANG MIN;PARK, JOON SHIK;REEL/FRAME:052920/0704Effective date: 20200507
+    2020-06-11,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2020-07-07,STPP,Information on status: patent application and granting procedure in general,Free format text: APPLICATION DISPATCHED FROM PREEXAM, NOT YET DOCKETED
+    2021-08-20,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2022-05-11,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2022-07-05,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2022-07-22,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2022-10-28,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2022-11-16,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2022-12-16,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT RECEIVED
+    2022-12-21,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2022-12-28,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2023-02-14,CC,Certificate of correction,
+

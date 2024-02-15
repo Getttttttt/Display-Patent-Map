@@ -1,0 +1,202 @@
+ID
+    US9221346B2
+citation_exist
+    Patent Citations (22)
+citation_infor
+24
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2002305803A,2001-04-03,2002-10-18,Nec Tokin Corp,Electric rolling stock
+    US6560130B2                      *,2001-06-06,2003-05-06,Mitsubishi Denki Kabushiki Kaisha,Control circuit for multiphase inverter apparatus
+    JP2003199204A,2001-12-25,2003-07-11,Toshiba Corp,Electric vehicle control device
+    JP2005278269A,2004-03-24,2005-10-06,Railway Technical Res Inst,Drive controller for vehicle
+    JP2006014489A,2004-06-25,2006-01-12,Toshiba Corp,Power converting device for electric vehicle
+    JP2006246700A,2001-12-25,2006-09-14,Toshiba Corp,Power conversion equipment
+    CN1865038A,2005-05-09,2006-11-22,株式会社东芝,Control apparatus for an eletric locomotive
+    JP2007020370A,2005-07-11,2007-01-25,Shizuki Electric Co Inc,Controller for electric rolling stock
+    US20070080659A1                      *,2004-02-06,2007-04-12,Mitsubishi Denki Kabushiki Kaisha,Motor driving apparatus
+    US20070182361A1                      *,2006-02-07,2007-08-09,Rockwell Automation Technologies, Inc.,Power converter with active discharging for improved auto-restart capability
+    JP2008029149A,2006-07-24,2008-02-07,Toshiba Corp,Control method of accumulator of railroad vehicle
+    JP2008141849A,2006-11-30,2008-06-19,Toshiba Corp,Electric vehicle controller
+    JP2008141877A,2006-12-01,2008-06-19,Toshiba Corp,Electric vehicle controller
+    US20090271056A1                      *,2006-04-25,2009-10-29,Mitsubishi Electric Corporation,Control apparatus for electric car
+    Family To Family Citations,,,,
+    DE19731642C1                      *,1997-07-23,1999-02-18,Dbb Fuel Cell Engines Gmbh,Fuel cell vehicle
+    JP2001157303A                      *,1999-11-25,2001-06-08,Hitachi Ltd,Control system of power converter for car
+    RU2198103C2                      *,2001-01-09,2003-02-10,Кузнецов Геннадий Петрович,Self-contained vehicle with rational utilization of electric energy generated in process of regenerative braking
+    JP2006014412A                      *,2004-06-23,2006-01-12,Toshiba Corp,Electric vehicle controller
+    JP4568169B2                      *,2005-05-18,2010-10-27,株式会社東芝,Electric vehicle control device
+    JP2006340464A,2005-05-31,2006-12-14,Toshiba Corp,Electric rolling stock
+    WO2007132515A1                      *,2006-05-15,2007-11-22,Mitsubishi Denki Kabushiki Kaisha,Electric car control apparatus
+    EP2090456B1                      *,2006-12-05,2016-03-09,Mitsubishi Electric Corporation,Electric car control apparatus
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (6)
+              
+
+
+citedBy_exist
+    
+              Cited By (17)
+              
+
+
+citedBy_infor
+19
+    Publication number,Priority date,Publication date,Assignee,Title
+    US10554117B2                      *,2015-01-16,2020-02-04,Alstom Transport Technologies,Convertor for electric feeder and/or substation for recuperating the braking energy
+    US11482875B2                      *,2017-11-20,2022-10-25,Lg Energy Solution, Ltd.,Method for controlling battery power limit value
+    Family To Family Citations,,,,
+    JP5260718B2                      *,2011-11-08,2013-08-14,ファナック株式会社,Servo motor drive device for driving a servo motor connected to the rotating shaft of a movable part of an industrial robot
+    JP5615254B2,2011-12-09,2014-10-29,三菱重工業株式会社,Charge / discharge control device, charge control method, discharge control method, and program
+    JP5523639B2                      *,2012-01-12,2014-06-18,三菱電機株式会社,Electric vehicle control device
+    CN103568851B                      *,2012-08-09,2016-06-29,中国北车股份有限公司,The regenerative braking energy absorption device of rail vehicle and rail vehicle
+    JP5214078B1                      *,2012-08-14,2013-06-19,三菱電機株式会社,Train information management apparatus and device control method
+    JP5861602B2                      *,2012-09-11,2016-02-16,株式会社デンソー,Power conversion system
+    DE102013202236B4                      *,2013-02-12,2019-01-10,Siemens Aktiengesellschaft,track vehicle
+    US9764647B2,2013-03-06,2017-09-19,Mitsubishi Electric Corporation,Main conversion device for electric vehicle
+    KR101491933B1                      *,2013-11-19,2015-02-09,엘에스산전 주식회사,Apparatus for controlling paralleled inverter
+    JP6187268B2                      *,2014-01-10,2017-08-30,トヨタ自動車株式会社,Electric vehicle
+    JP6160601B2                      *,2014-12-02,2017-07-12,トヨタ自動車株式会社,Power system
+    CN104467508B                      *,2014-12-08,2017-05-10,西安中车永电捷通电气有限公司,Traction converter with braking energy recyclable and conversion method
+    US9809119B2                      *,2015-01-13,2017-11-07,General Electric Company,Bi-directional DC-DC power converter for a vehicle system
+    CN106671794B                      *,2015-11-11,2019-06-21,中车大连电力牵引研发中心有限公司,DCDC main circuit and electric car power supply circuit
+    EP3522349A4                      *,2016-09-29,2020-05-27,Hitachi, Ltd.,Power conversion device for railroad vehicle and for retrofitting to railroad vehicle, and control method therefor
+
+abstract
+    A propulsion control apparatus for an electric motor car includes: an inverter apparatus connected to a DC power supply; a motor connected to an output of the inverter apparatus; a converter apparatus connected to an input of the inverter apparatus; and a power storage apparatus connected to an output of the converter apparatus, is configured to charge/discharge a part of power running power or regenerative power of the motor to/from the power storage apparatus. The converter apparatus includes a converter control unit that generates, based on a regeneration state signal as a signal indicating a suppression state of the regenerative power or regenerative torque or regenerative current equivalent to the regenerative power, a charging current command value, generates a charging and discharging current command value of the converter apparatus based on the charging current command value, and performs control.
+title
+    Propulsion control apparatus for electric motor car
+similar_document
+16
+    Publication,Publication Date,Title
+    US9221346B2,2015-12-29,Propulsion control apparatus for electric motor car
+    US9013135B2,2015-04-21,Power converting apparatus for electric motor vehicle propulsion
+    US8615341B2,2013-12-24,Propulsion control apparatus for electric vehicle
+    EP2860058B1,2018-02-28,Electric vehicle control device
+    JPWO2011074045A1,2013-04-25,Electric vehicle drive control device
+    JP4934562B2,2012-05-16,Vehicle control device having power storage device
+    JP2012186947A,2012-09-27,Power conversion device and power conversion device of rolling stock
+    JP2009183078A,2009-08-13,Drive system of electric vehicle
+    JP5509442B2,2014-06-04,Power converter and electric railway system
+    JP6259778B2,2018-01-10,Railway vehicle drive system
+    JP5111662B2,2013-01-09,Electric vehicle propulsion control device
+    KR20120029716A,2012-03-27,Electric power storage device of hybrid electric train
+    JP6240023B2,2017-11-29,Power converter and railway vehicle equipped with the same
+    JP5325478B2,2013-10-23,Railway vehicle drive system
+    US20220227258A1,2022-07-21,Power line system with ripple generator for electric vehicles
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    10
+classfication_items
+64
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,9,/,0,0
+    B,6,0,L,9,/,1,6
+    B,6,0,L,9,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,1,/,0,0
+    H,0,2,J,1,/,1,0
+    H,0,2,J,1,/,1,2
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,7
+    H,0,2,J,7,/,0,0,7,1,2
+    H,0,2,J,7,/,0,0,7,1,8,2
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,2
+    H,0,2,J,7,/,0,4
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,2
+    H,0,2,J,7,/,0,4
+    H,0,2,J,7,/,0,4,2
+    H,0,2,J,7,/,0,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,6
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,6,6
+    H,0,2,M,7,/,6,8
+    H,0,2,M,7,/,7,2
+    H,0,2,M,7,/,7,9
+    H,0,2,M,7,/,7,9,7
+
+application_events
+7
+    2010-07-05,Application filed by Mitsubishi Electric Corp
+    2011-12-01,Assigned to MITSUBISHI ELECTRIC CORPORATION
+    2012-04-12,Publication of US20120086369A1
+    2015-12-29,Application granted
+    2015-12-29,Publication of US9221346B2
+    Status,Active
+    2033-03-12,Adjusted expiration
+
+active_area
+4
+    W,O
+    E,P
+    U,S
+    W,O
+
+not_active_area
+4
+    K,R
+    C,A
+    C,N
+    R,U
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JPPCT/JP2009/062813,2009-07-15,
+    PCT/JP2009/062813,2009-07-15,Propulsion control device of electric car
+    PCT/JP2010/061415,2010-07-05,Drive-control device for electric vehicle
+
+legal_event
+5
+    Date,Code,Title,Description
+    2011-12-01,AS,Assignment,Owner name: MITSUBISHI ELECTRIC CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:KITANAKA, HIDETOSHI;TAKEOKA, TOSHIAKI;HATANAKA, KEITA;SIGNING DATES FROM 20110915 TO 20110919;REEL/FRAME:027309/0212
+    2015-12-09,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2019-06-13,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+    2023-06-14,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+

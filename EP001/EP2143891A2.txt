@@ -1,0 +1,186 @@
+ID
+    EP2143891A2
+citation_exist
+    Patent Citations (4)
+citation_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    US4226086A                      *,1979-05-21,1980-10-07,Westinghouse Electric Corp.,Automatic restart control for a power plant boiler
+    US4793132A                      *,1986-04-25,1988-12-27,Hitachi, Ltd.,Apparatus for cooling steam turbine for use in single-shaft combined plant
+    US6220014B1                      *,1996-06-26,2001-04-24,Hitachi, Ltd.,Single shaft combined cycle plant and operating method thereof
+    US20030024248A1                      *,2001-07-31,2003-02-06,Stefan Klatt,Method for controlling a low-pressure bypass system
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    EP2460983A1                      *,2010-12-01,2012-06-06,General Electric Company,Steam-driven power plant
+    EP2613025A1                      *,2012-01-06,2013-07-10,General Electric Company,System and methods for cold startup of rankine cycle devices
+    CN104076801A                      *,2014-07-10,2014-10-01,大唐阳城发电有限责任公司,Automatic ultrahigh tension long-distance transmission line malfunction load shedding system and method
+    CN112412558A                      *,2020-11-17,2021-02-26,广西电网有限责任公司电力科学研究院,Thermal power generating unit control system with quick load shedding function
+    Family To Family Citations,,,,
+
+abstract
+    A device for controlling a steam turbine and a combined cycle plant bypass system thereof includes: an acquisition module (9), for acquiring operating quantities measurements (QHP, PHP) of a combined cycle plant (1) including a gas turbine (2) and a steam turbine (3); a plurality of calculation modules (36-45), configured to determine, according to corresponding control modes, at least a first pressure set point (PHPCV) for a regulator (30) of a high-pressure inlet valve (27a) and a second pressure set point (PHPBP) for a regulator (30) of a high-pressure bypass valve (28a) of a high-pressure section (12) of the steam turbine (3); a supervisor module (35), configured to detect an operating condition of the plant (1) on the basis of the operating quantities (QHP, PHP) acquired by the acquisition module (9) and to selectively activate one of the calculation modules (36-45) in response to the detected operating condition.
+title
+    A device and method for controlling the pressure of a steam turbine of a combined cycle plant and a bypass system thereof
+similar_document
+26
+    Publication,Publication Date,Title
+    EP1174588B1,2006-07-26,Steam turbine controller providing variable frequency regulation
+    US9593844B2,2017-03-14,Method for operating a waste heat steam generator
+    US6301895B1,2001-10-16,Method for closed-loop output control of a steam power plant, and steam power plant
+    EP2143891B1,2012-03-28,A device for controlling the pressure of a steam turbine of a combined cycle plant and a bypass system thereof
+    CN111412025B,2022-08-02,Method and system for monitoring state of high-side system of steam turbine
+    CN111102018B,2022-05-06,Control method and control system for preventing over-rated power of low-pressure turbine
+    EP2472073A1,2012-07-04,Method of controlling a combined-cycle system in single-shaft configuration and combined-cycle system in single-shaft configuration
+    EP2157290B1,2017-02-22,A device and method for controlling the pressure of a steam turbine of a combined cycle plant of the &#34;2+1&#34; type and a bypass system thereof
+    KR101572115B1,2015-11-26,Method and device for controlling regulation valve, and power generating plant using them
+    EP0411013A1,1991-02-06,Automatic steam generator control at low power
+    CA2588879C,2009-07-21,Steam turbine plant
+    JP2015050778A,2015-03-16,Operational method of electric power generator
+    CN105757711A,2016-07-13,Wide-load main steam pressure control method for cogeneration unit
+    EP0928882A1,1999-07-14,Steam cooling apparatus for gas turbine
+    CN111399479A,2020-07-10,Parameter prediction-based high-pressure heater system fault monitoring method and system
+    CN109356675B,2021-10-22,Automatic starting control method for water feeding pump steam turbine
+    JP2007046576A,2007-02-22,Steam turbine power generation plant and its control method
+    EP2098691A1,2009-09-09,Method and device for controlling a combined-cycle plant, and combined-cycle plant
+    CN213984647U,2021-08-17,Water-side booster pump system of condenser of induced draft fan
+    US8467491B2,2013-06-18,Feedwater controller, nuclear power plant and method for controlling feedwater
+    RU2729580C1,2020-08-11,Turbo-generator control method
+    CN114542222B,2023-10-31,Control system and method for nuclear energy steam extraction and heat supply
+    EP2412936A1,2012-02-01,Method for managing a primary reserve margin in an electric power generation plant and electric power generation plant
+    CN115507357A,2022-12-23,Water replenishing system of recoverer of boiler and water level control method and device thereof
+    CN112524597A,2021-03-19,Water supply system, working method thereof and nuclear power station
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    EP08425474A,2008-07-10,2008-07-10,A device for controlling the pressure of a steam turbine of a combined cycle plant and a bypass system thereof
+    AT08425474T,2008-07-10,2008-07-10,DEVICE FOR PRESSURE CONTROL OF A STEAM TURBINE OF A COMBINED POWER PLANT AND DIVERSION SYSTEM THEREFOR
+
+inventor_number
+    7
+classfication_nums
+    5
+classfication_items
+31
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,1,7,/,0,0
+    F,0,1,K,1,7,/,0,2
+    F,0,1,K,1,7,/,0,2,5
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,1,3,/,0,0
+    F,0,1,K,1,3,/,0,2
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,7,/,0,0
+    F,0,1,K,7,/,1,6
+    F,0,1,K,7,/,1,8
+    F,0,1,K,7,/,2,0
+    F
+    F,2,2
+    F,2,2,B
+    F,2,2,B,1,/,0,0
+    F,2,2,B,1,/,0,2
+    F,2,2,B,1,/,1,8
+    F,2,2,B,1,/,1,8,0,7
+    F,2,2,B,1,/,1,8,1,5
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,2,0,/,0,0
+    Y,0,2,E,2,0,/,1,6
+
+application_events
+9
+    2008-07-10,Application filed by Ansaldo Energia SpA
+    2008-07-10,Priority to EP08425474A
+    2008-07-10,Priority to AT08425474T
+    2010-01-13,Publication of EP2143891A2
+    2011-01-26,Publication of EP2143891A3
+    2012-03-28,Application granted
+    2012-03-28,Publication of EP2143891B1
+    Status,Active
+    2028-07-10,Anticipated expiration
+
+active_area
+2
+    E,P
+    A,T
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    EP08425474A,2008-07-10,A device for controlling the pressure of a steam turbine of a combined cycle plant and a bypass system thereof
+
+legal_event
+47
+    Date,Code,Title,Description
+    2009-12-11,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2010-01-13,AK,Designated contracting states,Kind code of ref document: A2Designated state(s): AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MT NL NO PL PT RO SE SI SK TR
+    2010-01-13,AX,Request for extension of the european patent,Extension  state: AL BA MK RS
+    2010-12-24,PUAL,Search report despatched,Free format text: ORIGINAL CODE: 0009013
+    2011-01-26,AK,Designated contracting states,Kind code of ref document: A3Designated state(s): AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MT NL NO PL PT RO SE SI SK TR
+    2011-01-26,AX,Request for extension of the european patent,Extension  state: AL BA MK RS
+    2011-01-26,RIC1,Information provided on ipc code assigned before grant,Ipc: F01K  13/02        20060101ALI20101221BHEPIpc: F01K  17/02        20060101ALI20101221BHEPIpc: F22B   1/18        20060101ALI20101221BHEPIpc: F01K   7/20        20060101AFI20091104BHEP
+    2011-08-31,17P,Request for examination filed,Effective date: 20110719
+    2011-09-28,AKX,Designation fees paid,Designated state(s): AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MT NL NO PL PT RO SE SI SK TR
+    2011-09-28,RTI1,Title (correction),Free format text: A DEVICE FOR CONTROLLING THE PRESSURE OF A STEAM TURBINE OF A COMBINED CYCLE PLANT AND A BYPASS SYSTEM THEREOF
+    2011-10-13,GRAP,Despatch of communication of intention to grant a patent,Free format text: ORIGINAL CODE: EPIDOSNIGR1
+    2012-02-23,GRAS,Grant fee paid,Free format text: ORIGINAL CODE: EPIDOSNIGR3
+    2012-02-24,GRAA,(expected) grant,Free format text: ORIGINAL CODE: 0009210
+    2012-03-28,AK,Designated contracting states,Kind code of ref document: B1Designated state(s): AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MT NL NO PL PT RO SE SI SK TR
+    2012-03-28,REG,Reference to a national code,Ref country code: GBRef legal event code: FG4D
+    2012-03-30,REG,Reference to a national code,Ref country code: CHRef legal event code: EP
+    2012-04-15,REG,Reference to a national code,Ref country code: ATRef legal event code: REFRef document number: 551500Country of ref document: ATKind code of ref document: TEffective date: 20120415
+    2012-04-25,REG,Reference to a national code,Ref country code: IERef legal event code: FG4D
+    2012-05-24,REG,Reference to a national code,Ref country code: DERef legal event code: R096Ref document number: 602008014425Country of ref document: DEEffective date: 20120524
+    2012-07-18,REG,Reference to a national code,Ref country code: NLRef legal event code: VDEPEffective date: 20120328
+    2012-07-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: HRFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20120328Ref country code: LTFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20120328Ref country code: NOFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20120628
+    2012-08-27,LTIE,Lt: invalidation of european patent or patent extension,Effective date: 20120328
+    2012-08-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: FIFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20120328Ref country code: LVFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20120328Ref country code: GRFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20120629
+    2012-09-15,REG,Reference to a national code,Ref country code: ATRef legal event code: MK05Ref document number: 551500Country of ref document: ATKind code of ref document: TEffective date: 20120328
+    2012-09-28,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: CYFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20120328
+    2012-10-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: EEFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20120328Ref country code: ISFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20120728Ref country code: PLFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20120328Ref country code: SEFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20120328Ref country code: SIFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20120328Ref country code: CZFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20120328Ref country code: BEFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20120328Ref country code: ROFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20120328
+    2012-11-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: SKFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20120328Ref country code: PTFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20120730
+    2013-01-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: NLFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20120328Ref country code: DKFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20120328Ref country code: ATFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20120328
+    2013-02-01,PLBE,No opposition filed within time limit,Free format text: ORIGINAL CODE: 0009261
+    2013-02-01,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: NO OPPOSITION FILED WITHIN TIME LIMIT
+    2013-02-28,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: MCFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20120731
+    2013-02-28,REG,Reference to a national code,Ref country code: CHRef legal event code: PL
+    2013-03-06,26N,No opposition filed,Effective date: 20130103
+    2013-03-27,GBPC,Gb: european patent ceased through non-payment of renewal fee,Effective date: 20120710
+    2013-04-25,REG,Reference to a national code,Ref country code: DERef legal event code: R097Ref document number: 602008014425Country of ref document: DEEffective date: 20130103
+    2013-04-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: LIFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20120731Ref country code: CHFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20120731Ref country code: GBFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20120710Ref country code: ESFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20120709
+    2013-05-08,REG,Reference to a national code,Ref country code: IERef legal event code: MM4A
+    2013-07-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: IEFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20120710Ref country code: MTFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20120328Ref country code: BGFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20120628
+    2014-04-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: TRFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20120328
+    2014-05-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: LUFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20120710
+    2014-07-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: HUFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20080710
+    2016-06-13,REG,Reference to a national code,Ref country code: FRRef legal event code: PLFPYear of fee payment: 9
+    2017-07-27,REG,Reference to a national code,Ref country code: FRRef legal event code: PLFPYear of fee payment: 10
+    2018-07-25,REG,Reference to a national code,Ref country code: FRRef legal event code: PLFPYear of fee payment: 11
+    2022-10-31,PGFP,Annual fee paid to national office [announced via postgrant information from national office to epo],Ref country code: ITPayment date: 20220726Year of fee payment: 15Ref country code: DEPayment date: 20220720Year of fee payment: 15
+    2022-11-30,PGFP,Annual fee paid to national office [announced via postgrant information from national office to epo],Ref country code: FRPayment date: 20220720Year of fee payment: 15
+

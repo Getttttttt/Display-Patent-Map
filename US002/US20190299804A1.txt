@@ -1,0 +1,226 @@
+ID
+    US20190299804A1
+citation_exist
+    Patent Citations (7)
+citation_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP4222337B2                      *,2005-04-04,2009-02-12,トヨタ自動車株式会社,Power supply system having a plurality of power supplies and vehicle having the same
+    JP4894656B2                      *,2007-07-13,2012-03-14,トヨタ自動車株式会社,vehicle
+    JP5926336B2                      *,2014-08-18,2016-05-25,トヨタ自動車株式会社,Power control device
+    JP5996051B1                      *,2015-07-13,2016-09-21,三菱電機株式会社,Electric vehicle
+    JP6254139B2,2015-11-28,2017-12-27,本田技研工業株式会社,Power supply system, transport equipment, and power transmission method
+    US10442306B2                      *,2016-04-19,2019-10-15,Faraday & Future Inc.,Vehicle power management
+    JP7149093B2                      *,2018-03-30,2022-10-06,本田技研工業株式会社,vehicle power system
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20190299809A1                      *,2018-03-30,2019-10-03,Honda Motor Co.,Ltd.,Vehicle power supply system
+    US20200381916A1                      *,2019-05-28,2020-12-03,Honda Motor Co., Ltd.,Power supply system
+    US10960768B2                      *,2018-03-30,2021-03-30,Honda Motor Co., Ltd.,Vehicle power supply system
+    Family To Family Citations,,,,
+
+abstract
+    A vehicle power supply system includes two drive motors, a first power line to which a first inverter and a first battery are connected, a second power line to which a second inverter and a second battery are connected, a voltage converter that converts a voltage between these power lines, and a charging and discharging control device that controls charging and discharging of the batteries by operating the inverters and the voltage converter. In a case where a second SOC is equal to or greater than a second normal upper limit, the charging and discharging control device discharges power from the second battery to the second power line, and discharges a shortage of power from the first battery through the voltage converter to the second power line, wherein the shortage of power is obtained by excluding power discharged by the second battery from power required in the second power line.
+title
+    Vehicle power supply system
+similar_document
+17
+    Publication,Publication Date,Title
+    US11021077B2,2021-06-01,Vehicle power supply system
+    US11318848B2,2022-05-03,Vehicle power supply system
+    US11167660B2,2021-11-09,Vehicle power supply system
+    US10889202B2,2021-01-12,Vehicle power supply system
+    JP6681002B2,2020-04-15,Power control device for hybrid vehicle
+    US10960768B2,2021-03-30,Vehicle power supply system
+    WO2010143280A1,2010-12-16,Electric vehicle and method for controlling electric vehicle
+    US20120013184A1,2012-01-19,Power supply system for electrically powered vehicle, electrically powered vehicle, and method for controlling power supply system of electrically powered vehicle
+    US11203272B2,2021-12-21,Vehicle power supply system
+    US20150046010A1,2015-02-12,Electric power generation control system for hybrid automobile
+    US11260771B2,2022-03-01,Vehicle power supply system
+    US10981455B2,2021-04-20,Electric vehicle
+    US20190299796A1,2019-10-03,Vehicle power supply system
+    US10569656B2,2020-02-25,Regenerative control device
+    US20220176823A1,2022-06-09,Power supply system
+    JP2021133722A,2021-09-13,Charging control device
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    19
+classfication_items
+119
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,4,2
+    H,0,2,M,7,/,4,4
+    H,0,2,M,7,/,4,8
+    H,0,2,M,7,/,5,3
+    H,0,2,M,7,/,5,3,7
+    H,0,2,M,7,/,5,3,8,7
+    H,0,2,M,7,/,5,3,8,7,1
+    H,0,2,M,7,/,5,3,8,7,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B,6,0,L,5,8,/,2,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+
+application_events
+7
+    2019-03-29,Application filed by Honda Motor Co Ltd
+    2019-04-19,Assigned to HONDA MOTOR CO.,LTD.
+    2019-10-03,Publication of US20190299804A1
+    2021-12-21,Application granted
+    2021-12-21,Publication of US11203272B2
+    Status,Active
+    2040-05-11,Adjusted expiration
+
+active_area
+3
+    J,P
+    C,N
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JPJP2018-069975,2018-03-30,
+    JP2018069975A,2018-03-30,Vehicle power system
+    JP2018-069975,2018-03-30,
+
+legal_event
+9
+    Date,Code,Title,Description
+    2019-03-29,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2019-04-19,AS,Assignment,Owner name: HONDA MOTOR CO.,LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:OYAMA, KAZUYA;OGUMA, HIROKAZU;SIGNING DATES FROM 20190320 TO 20190321;REEL/FRAME:048933/0907
+    2019-07-31,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2021-07-08,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2021-09-23,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2021-10-05,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2021-11-16,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2021-12-01,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

@@ -1,0 +1,111 @@
+ID
+    JP2022146000A
+citation_exist
+    Patent Citations (3)
+citation_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP6120010B2                      *,2014-06-13,2017-04-26,トヨタ自動車株式会社,車両
+    JP6847492B2                      *,2017-06-02,2021-03-24,日立Astemo株式会社,電動車両の制御装置、電動車両の制御システム及び電動車両の制御方法
+    JP2021027603A                      *,2019-07-31,2021-02-22,株式会社アドヴィックス,車両の制動制御装置
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    【課題】 前後輪に回生制動装置を備えた車両に適用される制動制御装置において、回生制動中に制動力の前後配分調整が適正化され得るものを提供する。【解決手段】 車両の全体として要求される制動力と、前輪、後輪要求制動力の和が一致し、且つ、前輪要求制動力に対する後輪要求制動力の比率が一定になるよう、前輪、後輪要求制動力が演算される。前輪、後輪回生制動装置の作動状態で定まる発生可能な前輪、後輪限界回生制動力が取得される。前輪、後輪要求制動力が前輪、後輪限界回生制動力以下の場合には、前輪、後輪要求制動力が前輪、後輪回生制動力のみによって達成される。前輪、後輪要求制動力が前輪、後輪限界回生制動力よりも大きい場合には、前輪、後輪要求制動力が前輪、後輪回生制動力、及び、前輪、後輪摩擦制動力によって達成される。【選択図】 図３
+title
+    車両の制動制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP5736673B2,2015-06-17,複合ブレーキの制動力協調制御装置
+    KR101664580B1,2016-10-11,친환경 차량의 회생제동을 위한 협조 제어 방법
+    KR101840093B1,2018-03-19,제동력 제어 시스템 및 차량, 및 제동력 제어 방법
+    WO2015068800A1,2015-05-14,制動力制御システム
+    US20130204502A1,2013-08-08,Method for Controlling a Motor Vehicle Brake System
+    KR101428253B1,2014-08-07,차량의 제동 제어 방법
+    CN101791979A,2010-08-04,车辆制动控制器
+    KR102417509B1,2022-07-05,회생제동 협조제어 시 제동 제어 방법
+    CN105408161B,2018-04-06,车辆的再生制动控制装置
+    US20180215385A1,2018-08-02,Apparatus and method for controlling braking of vehicle
+    JP2015030427A,2015-02-16,車両の制動装置
+    JP4539374B2,2010-09-08,複合ブレーキの協調制御装置
+    JP5766240B2,2015-08-19,車両用制動装置
+    JP4687689B2,2011-05-25,車両の回生／摩擦制動協調型制動制御装置
+    CN106314408B,2020-12-11,运行具有电动机的制动系统的方法和电动机的控制设备
+    WO2022202764A1,2022-09-29,車両の制動制御装置
+    JP7146165B2,2022-10-04,車両の制動制御装置
+    JP5685088B2,2015-03-18,車両用制動装置
+    JP4355164B2,2009-10-28,車両の制動装置
+    JP4039215B2,2008-01-30,車両の回生制御装置
+    JP6291460B2,2018-03-14,電動車両
+    JP2015030426A,2015-02-16,車両の制動装置
+    WO2022202763A1,2022-09-29,車両の制動制御装置
+    JP6124123B2,2017-05-10,回生協調ブレーキ制御システム
+    KR20170000993A,2017-01-04,하이브리드 차량의 제동 선형성 개선을 위한 모터토크 제어방법
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    JP2021046767A,2021-03-22,2021-03-22,車両の制動制御装置
+    PCT/JP2022/013006,2021-03-22,2022-03-22,車両の制動制御装置
+
+inventor_number
+    6
+classfication_nums
+    4
+classfication_items
+21
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,0,2
+
+application_events
+5
+    2021-03-22,Application filed by Advics Co Ltd
+    2021-03-22,Priority to JP2021046767A
+    2022-03-22,Priority to PCT/JP2022/013006
+    2022-10-05,Publication of JP2022146000A
+    Status,Pending
+
+active_area
+1
+    J,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2021046767A,2021-03-22,車両の制動制御装置
+
+legal_event
+    NoExist

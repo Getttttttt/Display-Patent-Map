@@ -1,0 +1,283 @@
+ID
+    US8190344B2
+citation_exist
+    Patent Citations (16)
+citation_infor
+18
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5576959A                      *,1995-03-03,1996-11-19,Ford Motor Company,Method for controlling yaw of a wheeled vehicle based on under-steer and over-steer containment routines
+    US5696681A                      *,1995-06-05,1997-12-09,Ford Global Technologies, Inc.,Brake steer vehicle dynamics control intervention
+    US5973463A                      *,1996-09-10,1999-10-26,Toyota Jidosha Kabushiki Kaisha,Driving controller for electric vehicle
+    US6398252B1                      *,1997-10-06,2002-06-04,Kabushiki Kaisha Toyoda Jidoshokki Seisakusho,Sensor support assembly for vehicles
+    US6454364B1                      *,2000-09-14,2002-09-24,Toyota Jidosha Kabushiki Kaisha,Braking force control apparatus and method of motor vehicle
+    US20020180266A1                      *,2001-05-30,2002-12-05,Toyota Jidosha Kabushiki Kaisha,Braking force control apparatus for a vehicle
+    US6735510B2                      *,2001-10-12,2004-05-11,Delphi Technologies, Inc.,Dynamic side to side brake proportioning
+    US20040262994A1                      *,2003-04-09,2004-12-30,Dietmar Baumann,Method and device for reducing the brake load at at least one wheel brake
+    US20060190158A1                      *,2005-02-18,2006-08-24,Toyota Jidosha Kabushiki Kaisha,Deceleration control apparatus for vehicle
+    US7104617B2                      *,2002-09-06,2006-09-12,Ford Motor Company,Independent braking and controllability control method and system for a vehicle with regenerative braking
+    US7136737B2                      *,2002-12-17,2006-11-14,Nissan Motor Co., Ltd.,Coordinated brake control system
+    US7181326B2                      *,2004-12-20,2007-02-20,General Motors Corporation,Active front steer control for vehicle stability enhancement
+    US20070244606A1                      *,2006-04-13,2007-10-18,Yilu Zhang,Driver workload-based vehicle stability enhancement control
+    WO2008037347A1                      *,2006-09-28,2008-04-03,Volkswagen Aktiengesellschaft,Braking system and method for braking a vehicle with a hybrid drive
+    US7878605B2                      *,2005-07-25,2011-02-01,Advics Co., Ltd.,Brake control apparatus for vehicle
+    US7957881B2                      *,2006-10-04,2011-06-07,Toyota Jidosha Kabushiki Kaisha,Vehicle and method of controlling driving force for the vehicle based on detected slip of the drive wheel
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (19)
+              
+
+
+citedBy_infor
+21
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20110192661A1                      *,2010-02-08,2011-08-11,Dr. Ing. H.C.F. Porsche Aktiengesellschaft,Method for operation of a braking system of a hybrid vehicle, braking system and vehicle
+    US20120197469A1                      *,2011-01-31,2012-08-02,GM Global Technology Operations LLC,Real-time allocation of actuator torque in a vehicle
+    DE102015102925A1,2014-03-18,2015-09-24,Gm Global Technology Operations, Llc,Normalize a deceleration of a vehicle with a regenerative braking system
+    US9352737B2                      *,2012-10-08,2016-05-31,Ford Global Technologies, Llc,Method and system for operating a hybrid powertrain
+    US9950620B1,2017-01-18,2018-04-24,GM Global Technology Operations LLC,Regenerative and friction power indicator for a vehicle braking system
+    US20200016986A1                      *,2018-07-11,2020-01-16,GM Global Technology Operations LLC,Electrical drive unit
+    US20210046913A1                      *,2019-08-14,2021-02-18,Humanetics Austria Gmbh,Braking System for Test Vehicle
+    Family To Family Citations,,,,
+    FR2966115B1                      *,2010-10-19,2012-10-26,Renault Sa,METHOD AND SYSTEM FOR BRAKING A MOTOR VEHICLE WITH ELECTRICAL OR HYBRID TRACTION
+    FR2972411A3                      *,2011-03-08,2012-09-14,Renault Sa,Braking method for e.g. electric car, involves utilizing value of indicator to select brake actuator or traction actuator in electrical generator mode, or both actuators with variable distribution for realizing braking phase of car
+    KR101259361B1                      *,2011-04-18,2013-04-30,주식회사 만도,Vehicles braking system and method of controlling the same
+    US8919100B2,2011-06-06,2014-12-30,GM Global Technology Operations LLC,Method of using a regenerative brake system for heating a motor vehicle catalytic converter and powering other electrical accessories
+    EP2760714B1                      *,2011-09-28,2019-03-20,Continental Teves AG & Co. OHG,Slip-controlled braking system for electrically driven motor vehicles
+    DE102012222507A1                      *,2012-12-07,2014-06-12,Continental Automotive Gmbh,Method for operating a recuperation brake of a motor vehicle and recuperation brake
+    BR102014027008B1,2013-12-11,2020-07-21,Cnh Industrial America Llc.,agricultural vehicle and related method
+    US9415764B2                      *,2014-07-10,2016-08-16,Ford Global Technologies, Llc,Methods and systems for improving hybrid vehicle performance consistency
+    DE102017005684A1,2017-06-14,2018-02-22,Daimler Ag,Device and method for an onboard diagnosis of a chassis of a vehicle
+    US11001268B2                      *,2018-05-02,2021-05-11,Fca Us Llc,Active vehicle chassis dampening systems and methods
+    DE102018215134A1                      *,2018-09-06,2020-03-12,Audi Ag,Braking method and system for an electric vehicle
+    CN110989338B                      *,2019-12-10,2020-12-01,北京理工大学,Aircraft rotation stability control system and method considering pneumatic nonlinearity
+
+abstract
+    A method of optimizing steering and stability performance of a vehicle includes measuring a set of inertial data during a regenerative braking event (RBE), calculating a set of vehicle performance data using the inertial data, and comparing the performance data to calibrated threshold data to determine a maximum regenerative braking torque (RBT). The maximum RBT is automatically applied during the active RBE. The vehicle includes a chassis, an electric motor/generator for applying an RBT, a frictional braking system, chassis inertial sensors for measuring a set of chassis inertial data, and a controller having an algorithm for calculating a set of vehicle performance data using the chassis inertial data. The controller determines the maximum RBT by comparing the vehicle performance data to corresponding threshold data. The chassis inertial sensors can include accelerometers, a yaw rate sensor, a steering rate sensor, speed sensors, and/or a braking input sensor.
+title
+    Optimization of vehicle stability and steering during a regenerative braking event
+similar_document
+26
+    Publication,Publication Date,Title
+    US8190344B2,2012-05-29,Optimization of vehicle stability and steering during a regenerative braking event
+    US6691013B1,2004-02-10,Braking and controllability control method and system for a vehicle with regenerative braking
+    CN108216240B,2022-05-31,Method and apparatus for controlling front and rear wheel torque distribution for four-wheel drive vehicle
+    US7104617B2,2006-09-12,Independent braking and controllability control method and system for a vehicle with regenerative braking
+    US11584225B2,2023-02-21,One-pedal speed control for off-road driving
+    CN100475596C,2009-04-08,Vehicle regenerative braking control apparatus and method
+    CN104175902B,2016-04-13,The torque distribution control method of electric wheel truck wheel hub motor torque-split system
+    US8062175B2,2011-11-22,Method and apparatus for optimizing braking control during a threshold braking event
+    US7386379B2,2008-06-10,Method and apparatus to control coordinated wheel motors
+    US8504238B2,2013-08-06,Vehicle stability and steerability control via electronic torque distribution
+    US6909959B2,2005-06-21,Torque distribution systems and methods for wheeled vehicles
+    US8437914B2,2013-05-07,Electric motor enhanced driveability in vehicle handling and stability control events
+    US8521349B2,2013-08-27,Vehicle steerability and stability control via independent wheel torque control
+    CN107284223B,2020-03-13,Power prioritization in a vehicle using multiple power sources
+    US10967870B2,2021-04-06,Hill descent system for vehicle and control method thereof
+    KR101718300B1,2017-03-20,Method for actuating electric motors in serial hybrid vehicles or fully electric vehicles having at least two separately driven axles
+    US9783061B2,2017-10-10,Method for operating an electric drive module
+    EP2172378B1,2019-07-03,A method and device for regenerative braking in a vehicle
+    CN102219018A,2011-10-19,System to distribute propulsion in a vehicle
+    CN111016916A,2020-04-17,Estimation of vehicle speed in all-wheel drive vehicle
+    US20200172109A1,2020-06-04,Vehicle having electric motor and driving control method for the same
+    US7533743B2,2009-05-19,Control device for hybrid vehicle
+    US20080079311A1,2008-04-03,Vehicle regenerative braking system and method
+    KR101410451B1,2014-06-20,Apparatus, method and computer readable recording medium for controlling wheels in an independant traction type electric vehicle
+    JP2008024204A,2008-02-07,Control device of hybrid vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    US12/248,083,2008-10-09,2008-10-09,Optimization of vehicle stability and steering during a regenerative braking event
+    DE102009043396A,2008-10-09,2009-09-29,Optimization of vehicle stability and steering in a regenerative braking event
+
+inventor_number
+    4
+classfication_nums
+    22
+classfication_items
+133
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,3
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,6,0,/,0,0
+    B,6,0,T,2,2,6,0,/,0,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,1,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,6
+    B,6,0,W,2,5,1,0,/,0,6,3,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,6
+    B,6,0,W,2,5,1,0,/,0,6,5,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B,6,0,W,2,5,2,0,/,1,0,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,2
+    B,6,0,W,2,5,2,0,/,1,2,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,2,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,4,7
+
+application_events
+7
+    2008-10-09,Priority to US12/248,083
+    2008-10-09,Application filed by GM Global Technology Operations LLC
+    2010-04-15,Publication of US20100094511A1
+    2012-05-29,Publication of US8190344B2
+    2012-05-29,Application granted
+    Status,Active
+    2031-02-26,Adjusted expiration
+
+active_area
+2
+    U,S
+    D,E
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US12/248,083,2008-10-09,Optimization of vehicle stability and steering during a regenerative braking event
+
+legal_event
+17
+    Date,Code,Title,Description
+    2008-10-10,AS,Assignment,Owner name: GM GLOBAL TECHNOLOGY OPERATIONS, INC.,MICHIGANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:KRUEGER, ERIC E.;KARABA, MATTHEW M.;KIDSTON, KEVIN S.;REEL/FRAME:021665/0964Effective date: 20080929Owner name: GM GLOBAL TECHNOLOGY OPERATIONS, INC., MICHIGANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:KRUEGER, ERIC E.;KARABA, MATTHEW M.;KIDSTON, KEVIN S.;REEL/FRAME:021665/0964Effective date: 20080929
+    2009-02-03,AS,Assignment,Owner name: UNITED STATES DEPARTMENT OF THE TREASURY,DISTRICTFree format text: SECURITY AGREEMENT;ASSIGNOR:GM GLOBAL TECHNOLOGY OPERATIONS, INC.;REEL/FRAME:022201/0363Effective date: 20081231Owner name: UNITED STATES DEPARTMENT OF THE TREASURY, DISTRICTFree format text: SECURITY AGREEMENT;ASSIGNOR:GM GLOBAL TECHNOLOGY OPERATIONS, INC.;REEL/FRAME:022201/0363Effective date: 20081231
+    2009-04-16,AS,Assignment,Owner name: CITICORP USA, INC. AS AGENT FOR BANK PRIORITY SECUFree format text: SECURITY AGREEMENT;ASSIGNOR:GM GLOBAL TECHNOLOGY OPERATIONS, INC.;REEL/FRAME:022554/0538Effective date: 20090409Owner name: CITICORP USA, INC. AS AGENT FOR HEDGE PRIORITY SECFree format text: SECURITY AGREEMENT;ASSIGNOR:GM GLOBAL TECHNOLOGY OPERATIONS, INC.;REEL/FRAME:022554/0538Effective date: 20090409
+    2009-08-21,AS,Assignment,Owner name: GM GLOBAL TECHNOLOGY OPERATIONS, INC.,MICHIGANFree format text: RELEASE BY SECURED PARTY;ASSIGNOR:UNITED STATES DEPARTMENT OF THE TREASURY;REEL/FRAME:023126/0914Effective date: 20090709Owner name: GM GLOBAL TECHNOLOGY OPERATIONS, INC.,MICHIGANFree format text: RELEASE BY SECURED PARTY;ASSIGNORS:CITICORP USA, INC. AS AGENT FOR BANK PRIORITY SECURED PARTIES;CITICORP USA, INC. AS AGENT FOR HEDGE PRIORITY SECURED PARTIES;REEL/FRAME:023155/0769Effective date: 20090814Owner name: GM GLOBAL TECHNOLOGY OPERATIONS, INC., MICHIGANFree format text: RELEASE BY SECURED PARTY;ASSIGNOR:UNITED STATES DEPARTMENT OF THE TREASURY;REEL/FRAME:023126/0914Effective date: 20090709Owner name: GM GLOBAL TECHNOLOGY OPERATIONS, INC., MICHIGANFree format text: RELEASE BY SECURED PARTY;ASSIGNORS:CITICORP USA, INC. AS AGENT FOR BANK PRIORITY SECURED PARTIES;CITICORP USA, INC. AS AGENT FOR HEDGE PRIORITY SECURED PARTIES;REEL/FRAME:023155/0769Effective date: 20090814
+    2009-08-27,AS,Assignment,Owner name: UNITED STATES DEPARTMENT OF THE TREASURY,DISTRICTFree format text: SECURITY AGREEMENT;ASSIGNOR:GM GLOBAL TECHNOLOGY OPERATIONS, INC.;REEL/FRAME:023156/0313Effective date: 20090710Owner name: UNITED STATES DEPARTMENT OF THE TREASURY, DISTRICTFree format text: SECURITY AGREEMENT;ASSIGNOR:GM GLOBAL TECHNOLOGY OPERATIONS, INC.;REEL/FRAME:023156/0313Effective date: 20090710
+    2009-08-28,AS,Assignment,Owner name: UAW RETIREE MEDICAL BENEFITS TRUST,MICHIGANFree format text: SECURITY AGREEMENT;ASSIGNOR:GM GLOBAL TECHNOLOGY OPERATIONS, INC.;REEL/FRAME:023162/0237Effective date: 20090710Owner name: UAW RETIREE MEDICAL BENEFITS TRUST, MICHIGANFree format text: SECURITY AGREEMENT;ASSIGNOR:GM GLOBAL TECHNOLOGY OPERATIONS, INC.;REEL/FRAME:023162/0237Effective date: 20090710
+    2010-11-04,AS,Assignment,Owner name: GM GLOBAL TECHNOLOGY OPERATIONS, INC., MICHIGANFree format text: RELEASE BY SECURED PARTY;ASSIGNOR:UNITED STATES DEPARTMENT OF THE TREASURY;REEL/FRAME:025245/0909Effective date: 20100420
+    2010-11-05,AS,Assignment,Owner name: GM GLOBAL TECHNOLOGY OPERATIONS, INC., MICHIGANFree format text: RELEASE BY SECURED PARTY;ASSIGNOR:UAW RETIREE MEDICAL BENEFITS TRUST;REEL/FRAME:025315/0046Effective date: 20101026
+    2010-11-08,AS,Assignment,Owner name: WILMINGTON TRUST COMPANY, DELAWAREFree format text: SECURITY AGREEMENT;ASSIGNOR:GM GLOBAL TECHNOLOGY OPERATIONS, INC.;REEL/FRAME:025324/0515Effective date: 20101027
+    2011-02-10,AS,Assignment,Owner name: GM GLOBAL TECHNOLOGY OPERATIONS LLC, MICHIGANFree format text: CHANGE OF NAME;ASSIGNOR:GM GLOBAL TECHNOLOGY OPERATIONS, INC.;REEL/FRAME:025781/0245Effective date: 20101202
+    2011-12-05,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2012-05-09,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2014-11-07,AS,Assignment,Owner name: GM GLOBAL TECHNOLOGY OPERATIONS LLC, MICHIGANFree format text: RELEASE BY SECURED PARTY;ASSIGNOR:WILMINGTON TRUST COMPANY;REEL/FRAME:034384/0758Effective date: 20141017
+    2015-11-11,FPAY,Fee payment,Year of fee payment: 4
+    2019-11-15,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+    2023-10-19,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 12TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1553); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 12
+

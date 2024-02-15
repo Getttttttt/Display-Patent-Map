@@ -1,0 +1,197 @@
+ID
+    WO2022177550A1
+citation_exist
+    Patent Citations (3)
+citation_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20110257826A1                      *,2010-04-16,2011-10-20,Ford Global Technologies, Llc,Vehicle Stability And Steerability Control Via Electronic Torque Distribution
+    US20170361842A1                      *,2016-06-16,2017-12-21,GM Global Technology Operations LLC,Propulsion system control with mpc
+    WO2018107256A1                      *,2016-12-14,2018-06-21,Cnh Industrial America Llc.,A power transmission assembly for tandem axles
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    A system for controlling a plurality of electric axles of a vehicle is disclosed, comprising: the plurality of electric axles, one or more motor generators associated with one or more of the plurality of electric axles, and a multi-axle controller communicatively coupled to the one or more motor generators and configured to execute software to cause the multi-axle controller to: determine a power demand of the vehicle based at least in part on one or more parameters of each electric axle and current and/or future road grade; generate a performance cost function associated with one or more performance metrics, the power demand, and/or the vehicle information; determine a power distribution among the plurality of electric axles by optimizing the performance cost function; and transmit a traction command to the one or more motor generators to control the operation of the plurality of electric axles.
+title
+    Methods and systems for controlling multiple electric axles
+similar_document
+26
+    Publication,Publication Date,Title
+    EP3750781B1,2023-09-06,Control method and apparatus for autonomous vehicle and storage medium
+    US10442310B1,2019-10-15,Vehicle yaw and energy efficiency control apparatus to dynamically assign torque among independently powered drive wheels
+    CN109080643A,2018-12-25,The system and method for overall vehicle control is carried out using cooperation steering, electronic limited slip differential device, powertrain and braking
+    CN104755339A,2015-07-01,System and method for controlling vehicle speed
+    CN111452781B,2023-01-17,Strong-robustness self-adaptive driving anti-skid control method for improving acceleration comfort of hub motor driven electric automobile
+    CN101857023A,2010-10-13,The method that is used for operating electric vehicle
+    KR20200068156A,2020-06-15,Vehicle and control method for the same
+    CN103869809A,2014-06-18,Railway locomotive running dynamic simulation test device and simulation method thereof
+    CN107044858A,2017-08-15,Energy efficiency navigation way for electric transporting device
+    CN204659725U,2015-09-23,Vehicle launch moment controlling system
+    WO2022177550A1,2022-08-25,Methods and systems for controlling multiple electric axles
+    CN103025594A,2013-04-03,Controller for a drive system
+    US20230339456A1,2023-10-26,Method and apparatus for front and rear driving torque distribution of vehicle, and vehicle
+    CN114475604B,2023-08-22,Vehicle anti-skid method, apparatus, device, storage medium, and program product
+    CN112810596B,2021-10-12,Vehicle torque distribution method, device, controller and storage medium
+    EP4227181A1,2023-08-16,Anti-skid control method for transfer case
+    US20230303085A1,2023-09-28,Method for vehicle control, non-transitory computer-readable storage medium, and electronic device
+    Zhang et al.,2020,Model adaptive torque control and distribution with error reconstruction strategy for RWID EVs
+    US20230271614A1,2023-08-31,A method for controlling a vehicle
+    CN114537346B,2022-12-09,Electric wheel slip rate determination method and device, computer equipment and storage medium
+    Zhao et al.,2020,Dynamic model and predictive control of electric driven eight-wheeled differential steering autonomous vehicle
+    CN110549870B,2021-11-09,Driving and braking integrated electric drive axle system and control method
+    CN114179622B,2023-10-20,Braking energy feedback optimization method and device and operation machine
+    WO2022197298A1,2022-09-22,System and method for dynamic ackerman control
+    CN116811664B,2023-11-07,Running control method and device for electric mine car
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    CN202180092337.8A,2021-02-17,2021-02-17,Method and system for controlling a plurality of electric axles
+    PCT/US2021/018287,2021-02-17,2021-02-17,Methods and systems for controlling multiple electric axles
+
+inventor_number
+    3
+classfication_nums
+    17
+classfication_items
+103
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,0
+    B,6,0,L,3,/,1,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,0
+    B,6,0,L,3,/,1,0,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B,6,0,L,2,2,4,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,4,0
+
+application_events
+4
+    2021-02-17,Application filed by Cummins Inc.
+    2021-02-17,Priority to CN202180092337.8A
+    2021-02-17,Priority to PCT/US2021/018287
+    2022-08-25,Publication of WO2022177550A1
+
+active_area
+1
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/US2021/018287,2021-02-17,Methods and systems for controlling multiple electric axles
+
+legal_event
+4
+    Date,Code,Title,Description
+    2022-10-05,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 21926976Country of ref document: EPKind code of ref document: A1
+    2023-09-19,NENP,Non-entry into the national phase,Ref country code: DE
+    2023-09-24,ENP,Entry into the national phase,Ref document number: 2021926976Country of ref document: EPEffective date: 20230918
+

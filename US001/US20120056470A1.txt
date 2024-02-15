@@ -1,0 +1,246 @@
+ID
+    US20120056470A1
+citation_exist
+    Patent Citations (10)
+citation_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5895100A                      *,1996-01-29,1999-04-20,Toyota Jidosha Kabushiki Kaisha,Brake apparatus for an electric vehicle to maximize regenerative energy
+    US6086166A                      *,1997-06-10,2000-07-11,Toyota Jidosha Kabushiki Kaisha,Braking torque control system and method for wheeled vehicle having regenerative braking torque generator and frictional braking torque generator
+    JP2002095104A                      *,2000-09-14,2002-03-29,Toyota Motor Corp,Braking force controller for vehicle
+    US7136737B2                      *,2002-12-17,2006-11-14,Nissan Motor Co., Ltd.,Coordinated brake control system
+    US20070241611A1                      *,2006-04-14,2007-10-18,Michihito Shimada,Vehicle and control method of vehicle
+    JP2008279886A                      *,2007-05-10,2008-11-20,Toyota Motor Corp,Vehicle and its control method
+    US20090026987A1                      *,2006-02-28,2009-01-29,Toyota Jidosha Kabushiki Kaisha,Vehicle Drive Device and Method of Controlling Vehicle Drive Device
+    Family To Family Citations,,,,
+    JP4178947B2                      *,2002-12-25,2008-11-12,トヨタ自動車株式会社,Transmission control device
+    JP2009005423A                      *,2007-06-19,2009-01-08,Toyota Motor Corp,Controller of hybrid vehicle
+    JP2010173610A                      *,2009-02-02,2010-08-12,Toyota Motor Corp,Electric motor vehicle
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (28)
+              
+
+
+citedBy_infor
+30
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20120265382A1                      *,2011-04-13,2012-10-18,Ford Global Technologies, Llc.,Torque Modulation in a Hybrid Vehicle Downshift During Regenerative Braking
+    WO2013175114A1                      *,2012-05-22,2013-11-28,Renault S.A.S.,Analysis of the behaviour of a vehicle braking system with a decoupled pedal
+    US20140095002A1                      *,2012-10-03,2014-04-03,David Crecelius,Electric Hybrid Drive for Retrofitting to Internal Combustion Automobiles
+    CN104512261A                      *,2013-10-07,2015-04-15,现代自动车株式会社,System and method for estimating allowable regenerative braking of vehicle
+    CN104520131A                      *,2012-08-30,2015-04-15,日立汽车系统株式会社,Electric vehicle drive system
+    WO2015130831A1                      *,2014-02-25,2015-09-03,Quantumscape Corporation,Hybrid electrodes with both intercalation and conversion materials
+    CN105564250A                      *,2014-11-03,2016-05-11,现代自动车株式会社,Braking control method and system for eco-friendly vehicle
+    EP3017991A1                      *,2014-11-04,2016-05-11,Hyundai Motor Company,Control method and system for preventing motor from overheating when tmed hybrid vehicle is driven
+    CN105584373A                      *,2014-11-12,2016-05-18,现代自动车株式会社,Method for determining amount of regenerative braking
+    US20160325732A1                      *,2014-01-30,2016-11-10,Byd Company Limited,Vehicle and braking feedback control method for the same
+    US9640793B2,2012-07-24,2017-05-02,Quantumscape Corporation,Nanostructured materials for electrochemical conversion reactions
+    CN108528224A                      *,2017-03-03,2018-09-14,现代自动车株式会社,The system and method for controlling the regenerative braking of environment-friendly type vehicle
+    US10326135B2,2014-08-15,2019-06-18,Quantumscape Corporation,Doped conversion materials for secondary battery cathodes
+    US10328803B2,2015-08-26,2019-06-25,Nissan Motor Co., Ltd.,Control method and control device for electric vehicle
+    FR3088880A1                      *,2018-11-28,2020-05-29,Psa Automobiles Sa,METHOD AND DEVICE FOR CONTROLLING MIXED-PHASE DECELERATION, FOR A VEHICLE WITH AUTOMATED DRIVING AND NON-THERMAL DRIVE MACHINE
+    EP3659851A1                      *,2018-11-27,2020-06-03,eMining AG,Control unit for controlling a braking system, vehicle comprising the control unit and method of operating the vehicle
+    US11312240B2                      *,2019-03-27,2022-04-26,Hyundai Motor Company,Hybrid electric vehicle and braking control method thereof
+    US11472296B2                      *,2019-04-16,2022-10-18,Toyota Jidosha Kabushiki Kaisha,Fuel cell vehicle and control method of fuel cell vehicle
+    US11479125B2,2019-04-03,2022-10-25,Toyota Jidosha Kabushiki Kaisha,Fuel cell vehicle
+    Family To Family Citations,,,,
+    DE102013102584A1,2013-03-14,2014-09-18,Dr. Ing. H.C. F. Porsche Aktiengesellschaft,Method for charging a battery
+    KR102162648B1                      *,2014-05-22,2020-10-07,주식회사 만도,Control method of regenerative brake system for vehicle
+    DE102015212188A1                      *,2015-06-30,2017-01-05,Robert Bosch Gmbh,Method for operating an on-board brake system with an electric motor and control device for at least one electric motor of an on-board brake system
+    KR102514892B1,2016-04-27,2023-03-28,에이치엘만도 주식회사,Control method for improving brake feeling and control apparatus thereof
+    CN107554505B                      *,2016-06-28,2021-05-18,罗伯特·博世有限公司,Steep slope slow descending method and system for motor vehicle
+    KR102507009B1                      *,2018-02-20,2023-03-06,현대자동차주식회사,Braking control system and method for eco-friendly vehicle
+    CN110758366B                      *,2019-10-31,2021-12-10,上海拿森汽车电子有限公司,Torque control method and device of electronic power-assisted brake system
+    JP2023007694A                      *,2021-07-02,2023-01-19,株式会社デンソー,Vehicle control device, and program
+    JP2023020360A                      *,2021-07-30,2023-02-09,株式会社アドヴィックス,Brake control device
+
+abstract
+    The present invention features braking control methods for an electric vehicle. Such methods include identifying a vehicle operational condition occurring during regenerative braking that reduces regenerative braking capacity; linearly reducing the amount of regenerative braking of a motor of the electric vehicle after identifying such a vehicle operational condition; and at the same time, increasing the amount of hydraulic braking of a hydraulic braking system to compensate for the reducing of the amount of regenerative braking. Such operational conditions include when the temperature of a motor or battery is increased above a predetermined level during regenerative braking or when the shift lever is shifted to Neutral (N) position by a driver during regenerative braking.
+title
+    Braking control method for electric vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US20120056470A1,2012-03-08,Braking control method for electric vehicle
+    CN103978974B,2018-02-23,System and method for implementing dynamic operation mode and control strategy used in hybrid electric vehicle
+    US9014894B2,2015-04-21,System and method for detecting engine clutch delivery torque of car
+    US8330424B2,2012-12-11,Battery&#39;s state-of-charge balancing control method for hybrid vehicle
+    CN106256627B,2020-03-24,Method and apparatus for controlling engine start time in hybrid vehicle
+    US10207702B2,2019-02-19,System and method of controlling shift for hybrid electric vehicle
+    US20110118920A1,2011-05-19,Regenerative braking torque compensation device, methods for regenerative braking torque compensation and a hybrid vehicle embodying such devices and methods
+    US8838319B2,2014-09-16,Vehicle and control method for vehicle
+    US9254840B2,2016-02-09,Apparatus, system and method for controlling engine starting while shifting of hybrid electric vehicle
+    US20150183418A1,2015-07-02,Apparatus and method for controlling full load mode of hybrid electric vehicle
+    US10086827B2,2018-10-02,Apparatus and method for controlling driving mode of hybrid electric vehicle
+    US10328817B2,2019-06-25,Control apparatus and control method for hybrid vehicle
+    US9371069B2,2016-06-21,Apparatus and method for controlling engine clutch of hybrid electric vehicle
+    US9660558B2,2017-05-23,System and method for controlling regenerative braking of electric vehicle
+    US9738270B1,2017-08-22,Apparatus and method for controlling engine clutch of hybrid vehicle
+    US9376105B2,2016-06-28,Apparatus and method for controlling engine clutch of hybrid electric vehicle
+    CN103625461A,2014-03-12,Diagnosis system and method of oxygen sensor for hybrid vehicle
+    CN103863298A,2014-06-18,Method and system for controlling driving mode conversion of a hybrid electric vehicle
+    US11414064B2,2022-08-16,Hybrid vehicle and driving control method for the same
+    CN109624977B,2020-11-03,Cruise mode control method of hybrid electric vehicle
+    US8606449B2,2013-12-10,Method and system for protecting battery of hybrid vehicle
+    US11479231B2,2022-10-25,Device and method for controlling driving of electric four-wheel drive vehicle
+    US20200318731A1,2020-10-08,Active shift control method for power-off downshift of hybrid vehicle
+    US11654882B2,2023-05-23,Device for controlling driving of an electric four-wheel drive vehicle at the time of shift
+    US11780423B2,2023-10-10,System and method for determining whether to start engine
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    17
+classfication_items
+109
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,5
+    B,6,0,T,1,3,/,5,8,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,6,6
+    B,6,0,T,1,3,/,6,6,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B,6,0,W,1,0,/,1,8,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,8
+    B,6,0,W,2,5,1,0,/,0,8,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,8
+    B,6,0,W,2,7,1,0,/,1,8,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,4
+    B,6,0,W,3,0,/,1,8,4,3
+
+application_events
+4
+    2010-11-22,Application filed by Hyundai Motor Co
+    2010-11-22,Assigned to HYUNDAI MOTOR COMPANY
+    2012-03-08,Publication of US20120056470A1
+    Status,Abandoned
+
+active_area
+1
+    J,P
+
+not_active_area
+3
+    K,R
+    D,E
+    U,S
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    KR10-2010-0086506,2010-09-03,
+    KR1020100086506A,2010-09-03,Braking control method of electric vehicle
+
+legal_event
+3
+    Date,Code,Title,Description
+    2010-11-22,AS,Assignment,Owner name: HYUNDAI MOTOR COMPANY, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:KIM, SANG JOON;REEL/FRAME:025391/0515Effective date: 20101112
+    2015-04-18,STCB,Information on status: application discontinuation,Free format text: ABANDONED  --  FAILURE TO RESPOND TO AN OFFICE ACTION
+

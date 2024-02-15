@@ -1,0 +1,338 @@
+ID
+    US10112600B2
+citation_exist
+    Patent Citations (26)
+citation_infor
+28
+    Publication number,Priority date,Publication date,Assignee,Title
+    US6318487B2                      *,2000-02-24,2001-11-20,Mitsubishi Jidosha Kogyo Kabushiki Kaisha,Regeneration control device of hybrid electric vehicle
+    US6577483B1                      *,2000-09-27,2003-06-10,Rockwell Automation Technologies, Inc.,Dynamic braking method and apparatus
+    DE10244769A1,2002-09-26,2004-04-08,Still Gmbh,Mobile work machine
+    US20050137060A1,2003-12-23,2005-06-23,Caterpillar Inc.,Retarding control for an electric drive machine
+    US20070273316A1                      *,2004-04-02,2007-11-29,Kobelco Construction Machinery Co., Ltd.,Rotation Brake Method And Device For Working Machine
+    US20080298977A1                      *,2007-05-31,2008-12-04,Juricak Steven J,Machine retarder
+    DE102009033953A1,2008-07-23,2010-02-11,GM Global Technology Operations, Inc., Detroit,Cruise control system of motor vehicle, has brake control module that selectively actuates brake when current vehicle speed is greater than target cruise speed by predetermined speed difference
+    US20110092334A1                      *,2009-10-15,2011-04-21,Kawasaki Jukogyo Kabushiki Kaisha,Construction machine and control method thereof
+    US7950481B2                      *,2005-09-29,2011-05-31,Caterpillar Inc.,Electric powertrain for machine
+    AT12010U2,2011-04-04,2011-09-15,Ve Vienna Engineering Forschungs Und Entwicklungs Gmbh,ELECTRIC VEHICLE WITH WHEEL INDIVIDUAL FRICTION BRAKES AND WHEEL INDIVIDUAL DRIVE AND BRAKING METHOD THEREFOR
+    US20110249421A1                      *,2008-10-29,2011-10-13,Hitachi Automotive Systems, Ltd.,Power Conversion Device
+    US20120004797A1                      *,2010-05-25,2012-01-05,Kabushiki Kaisha Kcm,Construction machine and control method thereof
+    WO2012099255A1,2011-01-21,2012-07-26,日立建機株式会社,Work vehicle control apparatus and work vehicle
+    DE102011012724A1,2011-02-17,2012-08-23,Still Gmbh,Power electronics for internal combustion engine driven mobile working machine e.g. truck, has inverter that is connected with voltage converter as secondary inverter, so that voltage converter is operated as energy storage device
+    DE102011013746A1,2011-03-12,2012-09-13,Man Truck & Bus Ag,Via hybrid drive connected hybrid drive
+    US8395335B2                      *,2010-08-20,2013-03-12,Caterpillar Inc.,Method and system for eliminating fuel consumption during dynamic braking of electric drive machines
+    DE102011089102A1,2011-12-20,2013-06-20,Zf Friedrichshafen Ag,Material conveying device for truck, has heater through which inner side of bottom surface of tub-shaped portion is heated, which is provided with electrical heating elements for generating required heat using heating power supply unit
+    US20130164109A1                      *,2010-09-24,2013-06-27,Kobelco Construction Machinery Co., Ltd.,Construction machine
+    DE102012208063A1,2012-05-15,2013-11-21,Bayerische Motoren Werke Aktiengesellschaft,Method for operating electrically driven vehicle e.g. hybrid vehicle, involves driving electric machine as generator by internal combustion engine in thrust operation mode, so as to generate electrical energy
+    WO2015043715A1,2013-09-27,2015-04-02,Liebherr-Components Biberach Gmbh,Self-propelled working machine and method for braking a working machine of this type
+    US20160059857A1                      *,2014-08-27,2016-03-03,Mitsubishi Jidosha Kogyo Kabushiki Kaisha,Regenerative control device for hybrid vehicle
+    US20160084494A1                      *,2013-05-06,2016-03-24,Abb Technology Ltd,Energy Accumulation And Distribution
+    US20160164296A1                      *,2013-07-26,2016-06-09,General Electric Technology Gmbh,Module
+    US20160197600A1                      *,2015-01-07,2016-07-07,Raytheon Company,Method and apparatus for control of pulsed power in hybrid energy storage module
+    US20170282889A1                      *,2014-08-26,2017-10-05,Cummins, Inc.,Electric engine accessory control
+    US20170291501A1                      *,2014-10-14,2017-10-12,Hitachi Construction Machinery Co., Ltd.,Hybrid Construction Machinery
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (2)
+              
+
+
+citedBy_exist
+    
+              Cited By (9)
+              
+
+
+citedBy_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20190322179A1                      *,2018-04-20,2019-10-24,Audi Ag,Method for operating a motor vehicle
+    Family To Family Citations,,,,
+    US10759431B2                      *,2018-06-21,2020-09-01,Deere & Company,Enhanced braking method and apparatus for hybrid machine
+    DE102018217806A1                      *,2018-10-18,2020-04-23,Robert Bosch Gmbh,Method for operating a brake system of a motor vehicle, brake system, motor vehicle
+    CN110386004A                      *,2019-07-30,2019-10-29,上海振华重工(集团)股份有限公司,A kind of electric mixed self-adapting dynamical system of straddle carrier oil and its control method
+    US11358576B2                      *,2019-10-25,2022-06-14,Caterpillar Inc.,Brake power derating
+    SE544084C2                      *,2020-04-29,2021-12-14,Scania Cv Ab,Control device and method for controlling a vehicle powertrain during engine braking
+    FI20205514A1                      *,2020-05-20,2021-11-21,Normet Oy,Method for controlling powertrain, and powertrain
+    DE102020210997A1,2020-09-01,2022-03-03,Zf Friedrichshafen Ag,Method for operating a drive train of a work machine, drive train for a work machine and work machine
+    US20220118859A1                      *,2020-10-19,2022-04-21,Deere & Company,Vehicle energy control system and method of controlling energy for a vehicle
+
+abstract
+    Methods and systems are provided related to a self-propelling work machine in the form of a tracked vehicle having an electric drive, with a generator drivable by an internal combustion engine, an auxiliary unit connected to the engine, and a braking apparatus for braking the work machine. The braking apparatus provides regenerative braking by the electric drive and comprises a feedback apparatus for feeding back electrical motor braking power of the electric motor to the generator to apply the motor braking power on the engine and on the auxiliary unit. A controller automatically increases or decreases the electrical load of the auxiliary unit based on the electrical motor braking power fed back to the engine and/or based on an engine speed.
+title
+    Self-propelling work machine and method for braking such a work machine
+similar_document
+22
+    Publication,Publication Date,Title
+    US10112600B2,2018-10-30,Self-propelling work machine and method for braking such a work machine
+    CA2925220C,2022-03-29,Self-propelling work machine and method for braking such a work machine
+    JP6346168B2,2018-06-20,Hydraulic hybrid
+    US8428805B2,2013-04-23,Engine load management for traction vehicles
+    US9816252B2,2017-11-14,Hydraulic work machine
+    US7795825B2,2010-09-14,Over-voltage and under-voltage management for electric drive system
+    US8649927B2,2014-02-11,Energy system for a hybrid vehicle
+    CN103635636A,2014-03-12,System for controlling power in machine having electric and/or hydraulic devices
+    US8249765B2,2012-08-21,Drive system for electrically driven dump truck
+    CN103703191A,2014-04-02,System for managing power in machine having electric and/or hydraulic devices
+    US10759431B2,2020-09-01,Enhanced braking method and apparatus for hybrid machine
+    US8253357B2,2012-08-28,Load demand and power generation balancing in direct series electric drive system
+    JP2010524751A,2010-07-22,Hybrid drive train
+    EP2722242B1,2017-03-01,Hybrid type working machine and method for controlling same
+    US8478470B1,2013-07-02,Drivetrain system having rate-limited feedforward fueling
+    US20200094813A1,2020-03-26,Power system architecture for hybrid electric vehicle
+    AU2011337072B2,2016-01-21,Electrical retarding deration
+    US8348804B2,2013-01-08,Hybrid engine system with transient load assistance
+    US8973536B2,2015-03-10,Engine compensation for fan power
+    US20210324607A1,2021-10-21,Work Vehicle
+    CA3179129A1,2021-11-25,Method for controlling powertrain, and powertrain
+
+patent_application
+3
+    Application,Priority date,Filing date,Relation,Title
+    PCT/EP2014/002436,2013-09-27,2014-09-09,Continuation-In-Part,Self-propelled working machine and method for braking a working machine of this type
+    US15/025,508,2013-09-27,2014-09-09,Continuation-In-Part,Self-propelling work machine and method for braking such a work machine
+
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US15/707,863,2013-09-27,2017-09-18,Self-propelling work machine and method for braking such a work machine
+
+inventor_number
+    7
+classfication_nums
+    32
+classfication_items
+187
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,5
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B,6,0,L,1,1,/,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,0,2
+    B,6,0,L,7,/,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,6
+    B,6,0,W,2,5,1,0,/,0,6,3,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,6
+    B,6,0,W,2,7,1,0,/,0,6,1,6
+    B,6,0,W,2,7,1,0,/,0,6,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,6
+    B,6,0,W,2,7,1,0,/,0,6,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,3,0
+    B,6,0,W,2,7,1,0,/,3,0,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,3
+
+application_events
+9
+    2013-12-19,Priority claimed from DE102013021607.9A
+    2017-09-18,Application filed by Liebherr Components Biberach GmbH
+    2017-09-18,Priority to US15/707,863
+    2017-11-27,Assigned to LIEBHERR-COMPONENTS BIBERACH GMBH
+    2018-03-08,Publication of US20180065621A1
+    2018-10-30,Application granted
+    2018-10-30,Publication of US10112600B2
+    Status,Active
+    2034-09-09,Anticipated expiration
+
+active_area
+1
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+13
+    Application,Filing date,Title
+    DE102013016126,2013-09-27,
+    DE102013016126.6,2013-09-27,
+    DE102013016126,2013-09-27,
+    DE102013016915,2013-10-11,
+    DE102013016915,2013-10-11,
+    DE102013016915.1,2013-10-11,
+    DE102013021607.9A,2013-12-19,Self-propelled work machine and method for braking such a work machine
+    DE102013021607.9,2013-12-19,
+    DE102013021607,2013-12-19,
+    PCT/EP2014/002436,2014-09-09,Self-propelled working machine and method for braking a working machine of this type
+    US201615025508A,2016-03-28,
+    US15/707,863,2017-09-18,Self-propelling work machine and method for braking such a work machine
+
+legal_event
+5
+    Date,Code,Title,Description
+    2017-09-18,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2017-11-27,AS,Assignment,Owner name: LIEBHERR-COMPONENTS BIBERACH GMBH, GERMANYFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:MERKLE, MARKUS;RESCH, JUERGEN;HOFFMANN, SEBASTIEN NICOLAS;AND OTHERS;SIGNING DATES FROM 20170914 TO 20171005;REEL/FRAME:044223/0037
+    2018-10-10,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2022-03-31,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

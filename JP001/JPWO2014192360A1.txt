@@ -1,0 +1,332 @@
+ID
+    JPWO2014192360A1
+citation_exist
+    Patent Citations (16)
+citation_infor
+18
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2000346191A                      *,1999-06-09,2000-12-12,Nissan Motor Co Ltd,車両の減速時駆動力制御装置
+    JP2001213232A                      *,2000-02-04,2001-08-07,Toyota Motor Corp,車両用減速度制御装置
+    JP2002120702A                      *,2000-10-12,2002-04-23,Nissan Motor Co Ltd,制動位置接近警報装置および自動制動装置
+    JP2005219529A                      *,2004-02-03,2005-08-18,Toyota Motor Corp,車両用走行制御装置
+    JP2007238037A                      *,2006-03-10,2007-09-20,Nissan Motor Co Ltd,車間維持支援装置
+    JP2010004670A                      *,2008-06-20,2010-01-07,Toyota Motor Corp,走行制御装置
+    JP2011121548A                      *,2009-12-14,2011-06-23,Ud Trucks Corp,衝突被害軽減装置
+    JP2011234540A                      *,2010-04-28,2011-11-17,Toyota Motor Corp,回生制動制御装置
+    JP2012086802A                      *,2010-10-22,2012-05-10,Nissan Motor Co Ltd,ハイブリッド車両の制御装置
+    JP2012091697A                      *,2010-10-27,2012-05-17,Nissan Motor Co Ltd,車両用走行制御装置
+    JP2012250693A                      *,2011-06-07,2012-12-20,Denso Corp,車両制御装置
+    Family To Family Citations,,,,
+    JP3433642B2                      *,1997-03-13,2003-08-04,三菱自動車工業株式会社,減速度付加制御装置
+    JP3952104B2                      *,1998-06-15,2007-08-01,三菱自動車工業株式会社,車両の走行制御装置
+    JP2006285731A                      *,2005-04-01,2006-10-19,Xanavi Informatics Corp,自動車システムの制御装置
+    JP3933188B2                      *,2006-09-01,2007-06-20,トヨタ自動車株式会社,車両の制御装置
+    JP5332685B2                      *,2009-02-13,2013-11-06,日産自動車株式会社,車両用回生制御装置および車両用回生制御方法
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    WO2016094694A1                      *,2014-12-10,2016-06-16,Gogoro Inc.,Systems and methods of adaptive regenerative braking and collision avoidance for electrically powered vehicles
+    CN108657150A                      *,2018-07-21,2018-10-16,华东交通大学,一种具有主动安全性的电动汽车制动控制系统
+    CN110758357A                      *,2019-10-23,2020-02-07,奇瑞汽车股份有限公司,一种适用于倒车的车辆自动紧急制动系统及方法
+    DE102021205614A1,2021-06-02,2022-12-08,Psa Automobiles Sa,Verfahren zur Steuerung einer Verzögerung eines Kraftfahrzeuges
+
+abstract
+    回生力による減速度を制御する車両制御装置において、減速度の遅れ感から、ドライバーによるブレーキ踏込で発生するエネルギーのロスを最小限にする。車両の自動変速機のギヤ比とモータの最大トルクから回生によって発生可能の最大減速度を演算し、その減速度により目標車間距離演算部のパラメータを調整することにより、減速の開始タイミング及び減速度の変化のさせ方を予め変更することにより、前記車両のドライバーがブレーキを踏む前に、回生力により前記車両を減速させるように前記モータを制御する車両制御装置。
+title
+    車両制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP6286192B2,2018-02-28,移動体の駆動制御装置
+    US10239526B2,2019-03-26,Adaptive cruise control system
+    US10293817B2,2019-05-21,Control unit for a vehicle
+    JP6204865B2,2017-09-27,車両の運動制御システム、車両、および、プログラム
+    US9409567B2,2016-08-09,Driving assistance apparatus
+    KR101646369B1,2016-08-12,하이브리드 차량의 타력주행 유도 제어장치 및 방법
+    JP6221445B2,2017-11-01,車両用走行制御装置
+    JP5846214B2,2016-01-20,運転支援装置
+    US10246093B2,2019-04-02,Method for operating a motor vehicle
+    JP7198829B2,2023-01-04,車両制御装置
+    JP4710529B2,2011-06-29,走行制御装置
+    CN112955359B,2022-09-16,一种车辆控制方法及装置
+    JP6253646B2,2017-12-27,車両制御装置
+    JP6375034B2,2018-08-15,車両の運動制御システム
+    WO2011121700A1,2011-10-06,車両制御装置
+    JP7205383B2,2023-01-17,車両制御装置
+    KR20120047522A,2012-05-14,자동운전차량의 기준주행속도 생성 시스템 및 방법
+    JPWO2015004699A1,2017-02-23,車間保持制御装置
+    JP2014000900A,2014-01-09,車両制御装置
+    WO2018025631A1,2018-02-08,車両制御装置
+    JP6948149B2,2021-10-13,運転支援装置
+    JP2013099978A,2013-05-23,車両減速度制御装置
+    WO2022196205A1,2022-09-22,車両制御装置および車両制御方法
+    JP2007112231A,2007-05-10,走行制御装置
+    JP2013189144A,2013-09-26,車両走行システム及び車両
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    34
+classfication_items
+205
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,1,2
+    B,6,0,T,7,/,2,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B,6,0,W,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,4
+    B,6,0,W,3,0,/,1,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    G
+    G,0,1
+    G,0,1,C
+    G,0,1,C,3,/,0,0
+    G,0,1,C,3,/,1,0
+    G,0,1,C,3,/,1,4
+    G
+    G,0,8
+    G,0,8,G
+    G,0,8,G,1,/,0,0
+    G,0,8,G,1,/,1,6
+    G,0,8,G,1,/,1,6,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B,6,0,L,2,2,4,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,2
+    B,6,0,L,2,2,4,0,/,6,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,4,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,0,1,/,0,0
+    B,6,0,T,2,2,0,1,/,0,2
+    B,6,0,T,2,2,0,1,/,0,2,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,6
+    B,6,0,W,2,5,1,0,/,0,6,5,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,1,0
+    B,6,0,W,2,5,1,0,/,1,0,0,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,2,/,0,0
+    B,6,0,W,2,5,5,2,/,2,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,4,/,0,0
+    B,6,0,W,2,5,5,4,/,8,0
+    B,6,0,W,2,5,5,4,/,8,0,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,6,/,0,0
+    B,6,0,W,2,5,5,6,/,4,5
+    B,6,0,W,2,5,5,6,/,5,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,1,0
+    B,6,0,W,2,7,2,0,/,1,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,5,4,/,0,0
+    B,6,0,W,2,7,5,4,/,1,0
+    B,6,0,W,2,7,5,4,/,3,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+6
+    2014-03-12,Application filed by Hitachi Automotive Systems Ltd
+    2017-02-23,Publication of JPWO2014192360A1
+    2017-12-27,Application granted
+    2017-12-27,Publication of JP6253646B2
+    Status,Active
+    2034-03-12,Anticipated expiration
+
+active_area
+2
+    J,P
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2013114191,2013-05-30,
+    JP2013114191,2013-05-30,
+    PCT/JP2014/056389,2014-03-12,車両制御装置
+
+legal_event
+12
+    Date,Code,Title,Description
+    2016-10-12,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20161012
+    2017-01-19,RD04,Notification of resignation of power of attorney,Free format text: JAPANESE INTERMEDIATE CODE: A7424Effective date: 20170119
+    2017-01-25,RD04,Notification of resignation of power of attorney,Free format text: JAPANESE INTERMEDIATE CODE: A7424Effective date: 20170125
+    2017-03-28,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20170328
+    2017-05-29,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20170529
+    2017-10-25,TRDD,Decision of grant or rejection written,
+    2017-10-31,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20171031
+    2017-12-07,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20171128
+    2017-12-08,R150,Certificate of patent or registration of utility model,Ref document number: 6253646Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R150
+    2021-03-15,S533,Written request for registration of change of name,Free format text: JAPANESE INTERMEDIATE CODE: R313533
+    2021-04-09,R350,Written notification of registration of transfer,Free format text: JAPANESE INTERMEDIATE CODE: R350
+

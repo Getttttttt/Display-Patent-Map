@@ -1,0 +1,320 @@
+ID
+    US11173775B2
+citation_exist
+    Patent Citations (14)
+citation_infor
+16
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5729116A,1996-12-20,1998-03-17,Total Battery Management, Inc.,Shunt recognition in lithium batteries
+    US5998969A,1997-05-12,1999-12-07,Nissan Motor Co., Ltd.,Apparatus for regulating state of charge of cells of battery set
+    US6040685A,1996-08-16,2000-03-21,Total Battery Management, Inc.,Energy transfer and equalization in rechargeable lithium batteries
+    US6366056B1,1999-06-08,2002-04-02,Enrev Corporation,Battery charger for lithium based batteries
+    US20090104510A1                      *,2007-09-14,2009-04-23,A123 Systems, Inc.,Lithium rechargeable cell with reference electrode for state of health monitoring
+    JP2011057025A                      *,2009-09-08,2011-03-24,Toyota Motor Corp,Control device for hybrid vehicle
+    KR20110085018A,2010-01-19,2011-07-27,주식회사 엘지화학,Composite comprising manganese-based cathode active material and method of preparing the same
+    US20110298417A1,2010-06-08,2011-12-08,Tesla Motors, Inc.,Methodology for charging batteries safely
+    CN103370814A,2010-12-13,2013-10-23,罗伯特·博世有限公司,Lithium-ion cell, lithim-ion rechargeable battery and motor vehicle with a lithium-ion rechargeable battery
+    US8901885B2,2012-03-09,2014-12-02,Tesla Motors, Inc.,Low temperature fast charge
+    DE102013012164A1                      *,2013-07-19,2015-01-22,Daimler Ag,Traction battery system and method for heating a high voltage battery of a traction battery system
+    WO2015077669A1,2013-11-23,2015-05-28,Hrl Laboratories, Llc,Voltage protection and health monitoring of batteries with reference electrodes
+    US20170190262A1                      *,2016-01-06,2017-07-06,Johnson Controls Technology Company,Battery module lithium plating reduction
+    US20170234930A1                      *,2015-08-24,2017-08-17,Lg Chem, Ltd.,Detection method of li plating, method and apparatus for charging secondary battery and secondary battery system using the same
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (2)
+              
+
+
+citedBy_exist
+    
+              Cited By (19)
+              
+
+
+citedBy_infor
+21
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US11397215B2,2010-05-21,2022-07-26,Qnovo Inc.,Battery adaptive charging using battery physical phenomena
+    WO2018067565A1                      *,2016-10-03,2018-04-12,Johnson Controls Technology Company,State of charge dependent plating estimation and prevention
+    CN110073205B                      *,2016-11-10,2023-07-18,坎麦克斯动力有限责任公司,System and method for assessing quality of electrochemical cells
+    FR3065298B1                      *,2017-04-18,2019-04-12,Continental Automotive France,METHOD FOR DETERMINING A CURRENT CURRENT LIMIT OF A TRACTION BATTERY AND A BOOM NETWORK IN A MOTOR VEHICLE
+    US10700376B2                      *,2017-07-31,2020-06-30,GM Global Technology Operations LLC,Methods for fast-charging and detecting lithium plating in lithium ion batteries
+    JP7155561B2                      *,2018-03-22,2022-10-19,マツダ株式会社,Electric vehicle front unit mounting structure
+    EP3674731A4                      *,2018-04-10,2021-01-13,Lg Chem, Ltd.,Apparatus and method for diagnosing battery
+    US10625627B2,2018-05-22,2020-04-21,Ford Global Technologies, Llc,Method of remedying lithium plating in a high voltage battery
+    US11105858B2                      *,2018-10-03,2021-08-31,O2Micro Inc.,Predicting a potential fault in a battery
+    US10481623B1                      *,2018-12-17,2019-11-19,Chongqing Jinkang New Energy Automobile Co., Ltd.,Optimizing a temperature profile in a thermal management system of an electric vehicle
+    CN109613436B                      *,2018-12-27,2021-06-18,蜂巢能源科技有限公司,Battery management system, battery system, and method and device for detecting lithium deposition of battery
+    DE102019111958A1                      *,2019-05-08,2020-11-12,TWAICE Technologies GmbH,Characterization of lithium plating in rechargeable batteries
+    US10829004B1,2019-05-15,2020-11-10,Sf Motors, Inc.,Continuous derating fast charging method based on multiple particle reduced order model
+    US11603011B2                      *,2019-11-22,2023-03-14,Ford Global Technologies, Llc,Lithium plating detection and mitigation in electric vehicle batteries
+    CN110829543B                      *,2019-11-26,2021-05-18,桑顿新能源科技有限公司,Charging current dynamic adjustment method and device and new energy automobile
+    US11299063B2                      *,2020-02-12,2022-04-12,GM Global Technology Operations LLC,Method and apparatus for controlling electric power flow in a battery system
+    WO2022109539A1                      *,2020-11-19,2022-05-27,Battelle Energy Alliance, Llc,Determining a lithium-plating state of a battery, and related systems, devices, and methods
+    US20220271552A1                      *,2021-02-25,2022-08-25,GM Global Technology Operations LLC,Electrified powertrain with method for determining battery limits based on cell factors
+    DE102021207971A1,2021-07-23,2023-01-26,Volkswagen Aktiengesellschaft,Method and device for charging at least one Li-ion battery cell
+
+abstract
+    A vehicle having a traction battery with at least one cell includes a controller coupled to the traction battery and programmed to modify traction battery current in response to a difference between a lithium plating parameter target value and a lithium plating parameter actual value to reduce the difference. The lithium plating parameter or indicator may be based on a differential open circuit voltage of a battery cell, or a ratio of differential voltage of the at least one cell as a function of time to cell charging rate of the at least one cell.
+title
+    Closed loop feedback control to mitigate lithium plating in electrified vehicle battery
+similar_document
+24
+    Publication,Publication Date,Title
+    US11173775B2,2021-11-16,Closed loop feedback control to mitigate lithium plating in electrified vehicle battery
+    US10137792B2,2018-11-27,Vehicle control based on lithium plating detection in electrified vehicle battery
+    US10553896B2,2020-02-04,Battery capacity degradation resolution methods and systems
+    US10800284B2,2020-10-13,Charging strategies to mitigate lithium plating in electrified vehicle battery
+    CN105034835B,2018-11-27,Method based on the power of battery capacity regulating battery minimum state-of-charge limit
+    EP3323184B1,2020-01-29,A method and system for balancing a battery pack
+    US10809305B2,2020-10-20,System and method for detecting and responding to a battery over-discharge condition within a vehicle
+    US9676288B2,2017-06-13,Battery open-circuit voltage measurement using reverse current pulse
+    US20170166078A1,2017-06-15,Battery charge equalization system
+    US9381824B2,2016-07-05,Circuit and method for detection of battery cell drain
+    CN105301425B,2020-04-17,Wire harness anomaly detection system and method
+    US10207596B2,2019-02-19,Adaptive identification of the wiring resistance in a traction battery
+    US11345254B2,2022-05-31,EKF state relay strategy in battery online identification
+    CN107472049B,2022-05-06,Online vehicle battery capacity diagnostic system and method
+    US11161428B2,2021-11-02,Adaptive open circuit voltage based soc reset method at the end of charge based on temperature and charging rate
+    US10137797B2,2018-11-27,Battery state of charge estimation based on current pulse duration
+    US11498446B2,2022-11-15,Plug-in charge current management for battery model-based online learning
+    US20220026497A1,2022-01-27,Battery state estimation device, battery state estimation method, and battery system
+    US11603011B2,2023-03-14,Lithium plating detection and mitigation in electric vehicle batteries
+    US20230356623A1,2023-11-09,Electrified Vehicle Control Using Traction Battery Array-Based Multi-Cell State Estimation
+    US20220026498A1,2022-01-27,Battery state estimation device, battery state estimation method, and battery system
+    US20210155116A1,2021-05-27,Balancing cells of a traction battery using statistical analysis
+    CN117048423A,2023-11-14,Motorized vehicle control using multi-cell state estimation
+
+patent_application
+    NoExist
+patent_priority_application
+4
+    Application,Priority date,Filing date,Title
+    US15/001,562,2016-01-20,2016-01-20,Closed loop feedback control to mitigate lithium plating in electrified vehicle battery
+    DE102017100220.0A,2016-01-20,2017-01-06,FEEDBACK CONTROL WITH CLOSED CONTROL CIRCUIT TO REDUCE LITHIUM PLATING IN BATTERIES OF ELECTRICALLY DRIVEN VEHICLES
+    CN201710049048.5A,2016-01-20,2017-01-20,Closed loop feedback control for mitigating lithium plating in electrified vehicle batteries
+
+inventor_number
+    4
+classfication_nums
+    28
+classfication_items
+177
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,/,0,0
+    B,6,0,K,1,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B,6,0,L,5,8,/,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,4
+    B,6,0,W,1,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B,6,0,W,2,0,/,1,4
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,0,5
+    H,0,1,M,1,0,/,0,5,2
+    H,0,1,M,1,0,/,0,5,2,5
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,2,5
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,/,0,0
+    B,6,0,K,1,/,0,4
+    B,6,0,K,2,0,0,1,/,0,4,0,5
+    B,6,0,K,2,0,0,1,/,0,4,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,2,4
+    B,6,0,W,2,7,1,0,/,2,4,2
+    B,6,0,W,2,7,1,0,/,2,4,8
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,2
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,4,0,0,/,0,0
+    B,6,0,Y,2,4,0,0,/,1,1
+    B,6,0,Y,2,4,0,0,/,1,1,2
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,2,5
+    H,0,1,M,2,0,1,0,/,4,2,7,1
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,2,5
+    H,0,1,M,2,0,1,0,/,4,2,7,8
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,2,2,2,0,/,0,0
+    H,0,1,M,2,2,2,0,/,2,0
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,0,4
+    Y,1,0,S,9,0,3,/,9,0,7
+
+application_events
+7
+    2016-01-20,Application filed by Ford Global Technologies LLC
+    2016-01-20,Priority to US15/001,562
+    2017-07-20,Publication of US20170203654A1
+    2021-11-16,Application granted
+    2021-11-16,Publication of US11173775B2
+    Status,Active
+    2038-12-20,Adjusted expiration
+
+active_area
+3
+    U,S
+    D,E
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US15/001,562,2016-01-20,Closed loop feedback control to mitigate lithium plating in electrified vehicle battery
+
+legal_event
+10
+    Date,Code,Title,Description
+    2016-01-20,AS,Assignment,Owner name: FORD GLOBAL TECHNOLOGIES, LLC, MICHIGANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:HE, CHUAN;WANG, XU;CHEN, HAIYAN;SIGNING DATES FROM 20160112 TO 20160113;REEL/FRAME:037533/0036
+    2018-12-19,STCV,Information on status: appeal procedure,Free format text: NOTICE OF APPEAL FILED
+    2019-04-02,STCV,Information on status: appeal procedure,Free format text: APPEAL BRIEF (OR SUPPLEMENTAL BRIEF) ENTERED AND FORWARDED TO EXAMINER
+    2019-09-17,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2019-12-28,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2020-08-10,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2021-07-20,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2021-10-19,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2021-10-27,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

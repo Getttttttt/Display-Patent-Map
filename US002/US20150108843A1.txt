@@ -1,0 +1,259 @@
+ID
+    US20150108843A1
+citation_exist
+    Patent Citations (2)
+citation_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20110289924A1                      *,2010-05-28,2011-12-01,Anton Pietsch,High-density energy storage and retrieval
+    US8638074B2                      *,2009-12-28,2014-01-28,Flyback Energy, Inc.,Controllable universal supply with reactive power management
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (5)
+              
+
+
+citedBy_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20140368045A1                      *,2013-06-17,2014-12-18,Ronald David Conry,Power Management and Energy Storage Method
+    US20150295508A1                      *,2013-06-17,2015-10-15,Ronald David Conry,Power Management, Phase Balancing, and Energy Storage Method
+    US20170182904A1                      *,2014-09-22,2017-06-29,Renault S.A.S.,Device and method for determining a setpoint corrected for the neutral current of an electrical or hybrid automotive vehicle battery charger without galvanic isolation
+    US10355514B2,2016-08-29,2019-07-16,Apple Inc.,Rectifier arbitration in wireless charging systems
+    Family To Family Citations,,,,
+    EP4150282A2,2020-11-30,2023-03-22,Rondo Energy, Inc.,Energy storage system and applications
+
+abstract
+    An improved control arrangement is used in a high power rectifier and comprises two or more power controllers ganged together in parallel. Each power controller rectifies an AC voltage signal using zero voltage crossing switching to produce a binary switched signal and each power controller is connected to an independent connectable load. Each power controller includes a fast acting binary power switch that selectively connects the respective independent connectable load to the rectified AC voltage signal. The control arrangement selectively activates the power controllers to define a desired connected load. This high power rectifier and control arrangement is advantageously used to provide fast up down power regulation to a grid by selective storage of thermal energy and deriving power from the thermal energy storage system to add fill in power to the grid.
+title
+    High efficiency control system for the conversion of electrical energy to thermal energy
+similar_document
+26
+    Publication,Publication Date,Title
+    CA2870351C,2022-09-06,High efficiency control system for the conversion of electrical energy to thermal energy
+    Nayanar et al.,2015,A single-sensor-based MPPT controller for wind-driven induction generators supplying DC microgrid
+    CN101919150B,2013-12-18,Current waveform construction to generate AC power with low harmonic distortion from localized energy sources
+    Hill et al.,2012,Battery energy storage for enabling integration of distributed solar power generation
+    Malla et al.,2014,Voltage control of stand-alone wind and solar energy system
+    EP2715904B1,2016-06-29,System and method for integrating and managing demand/response between alternative energy sources, grid power, and loads
+    US9948140B2,2018-04-17,High efficiency control system for the conversion of electrical energy to thermal energy
+    JP5461702B2,2014-04-02,Method and apparatus for improving the operation of an auxiliary power system in a thermal power plant
+    Shah et al.,2011,Decentralized power flow control for a smart micro-grid
+    US10236817B2,2019-03-19,Integrated control architecture and method for a bi-directional AC-to-AC converter
+    CN104040821A,2014-09-10,Line Balancing UPS
+    CN105337299A,2016-02-17,System and method for control power generation system connected to weak grid
+    Parida et al.,2018,Stand‐alone AC‐DC microgrid‐based wind‐solar hybrid generation scheme with autonomous energy exchange topologies suitable for remote rural area power supply
+    Zhong et al.,2019,Connecting the home grid to the public grid: Field demonstration of virtual synchronous machines
+    Sangwongwanich et al.,2016,Sensorless reserved power control strategy for two-stage grid-connected photovoltaic systems
+    Tuladhar,2011,Power management of an off-grid PV inverter system with generators and battery banks
+    Verma et al.,2016,Cascaded multilevel active rectifier fed three-phase smart pump load on single-phase rural feeder
+    Akeyo et al.,2017,Multi-MW solar PV pumping system with capacity modulation and battery voltage support
+    Mendis et al.,2013,An integrated control approach for standalone operation of a hybridised wind turbine generating system with maximum power extraction capability
+    Keerthana et al.,2022,A study of a solar PV and wind-based residential DC NanoGrid with dual energy storage system under islanded/interconnected/grid-tied modes
+    Tucker et al.,2011,Renewable energy micro-grid power system for isolated communities
+    Goel et al.,2012,Modeling and control of isolated hybrid system using wind driven DFIG and hydro driven SCIG
+    Shahnia,2017,Hybrid nanogrid systems for future small communities
+    Rodrigues et al.,2011,Contribution of PMSG based small wind generation systems to provide voltage control in low voltage networks
+    Kreveld,2017,Power in-house
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US14/394,323,2012-04-13,2013-04-12,High efficiency control system for the conversion of electrical energy to thermal energy
+
+inventor_number
+    5
+classfication_nums
+    25
+classfication_items
+149
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,0,2
+    H,0,2,M,7,/,0,4
+    H,0,2,M,7,/,0,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,2
+    B,6,0,L,1,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,9,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,5,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,8,/,0,0
+    B,6,0,L,8,/,0,0,3
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,5
+    B,6,0,T,1,3,/,5,8,6
+    B
+    B,6,1
+    B,6,1,H
+    B,6,1,H,9,/,0,0
+    B,6,1,H,9,/,0,6
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,1,5,/,0,0
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,0,2
+    H,0,2,M,7,/,0,4
+    H,0,2,M,7,/,0,6
+    H,0,2,M,7,/,0,6,6
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,0,2
+    H,0,2,M,7,/,0,4
+    H,0,2,M,7,/,1,2
+    H,0,2,M,7,/,2,1
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,0,2
+    H,0,2,M,7,/,0,4
+    H,0,2,M,7,/,1,2
+    H,0,2,M,7,/,2,1
+    H,0,2,M,7,/,2,1,7
+    H,0,2,M,7,/,2,1,7,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,3,0
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,0,0,8,3
+    H,0,2,M,1,/,0,0,8,5
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+    Y
+    Y,0,4
+    Y,0,4,S
+    Y,0,4,S,1,0,/,0,0
+    Y,0,4,S,1,0,/,1,2
+    Y,0,4,S,1,0,/,1,2,6
+
+application_events
+7
+    2013-04-12,Application filed by KELVIN STORAGE Inc
+    2013-04-12,Priority to US14/394,323
+    2015-04-23,Publication of US20150108843A1
+    2018-04-17,Application granted
+    2018-04-17,Publication of US9948140B2
+    Status,Active
+    2034-12-05,Adjusted expiration
+
+active_area
+1
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    US201261624182P,2012-04-13,
+    PCT/CA2013/000343,2013-04-12,High efficiency control system for the conversion of electrical energy to thermal energy
+    US14/394,323,2013-04-12,High efficiency control system for the conversion of electrical energy to thermal energy
+
+legal_event
+5
+    Date,Code,Title,Description
+    2014-10-14,AS,Assignment,Owner name: KELVIN STORAGE CANADA INC., CANADAFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:SUTHERLAND, STEPHEN B., MR.;REEL/FRAME:033977/0974Effective date: 20141009Owner name: KELVIN STORAGE TECHNOLOGIES, INC., CALIFORNIAFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:PIETSCH, ANTON, MR.;LYNCH, GEORGE, MR.;REEL/FRAME:033977/0971Effective date: 20141010Owner name: KELVIN STORAGE INC., CANADAFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:KELVIN STORAGE TECHNOLOGIES, INC.;KELVIN STORAGE CANADA INC.;SIGNING DATES FROM 20141009 TO 20141010;REEL/FRAME:033978/0015
+    2018-02-05,AS,Assignment,Owner name: KELVIN THERMAL ENERGY INC., CANADAFree format text: CHANGE OF NAME;ASSIGNOR:KELVIN STORAGE INC.;REEL/FRAME:045249/0538Effective date: 20160714
+    2018-03-28,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2021-10-18,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YR, SMALL ENTITY (ORIGINAL EVENT CODE: M2551); ENTITY STATUS OF PATENT OWNER: SMALL ENTITYYear of fee payment: 4
+

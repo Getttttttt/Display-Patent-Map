@@ -1,0 +1,387 @@
+ID
+    WO2013072609A1
+citation_exist
+    Patent Citations (3)
+citation_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    FR2701679A1                      *,1993-02-18,1994-08-26,Steyr Daimler Puch Ag,Dispositif d'entraînement pour voiture électrique ou électromobile et procédé pour passer les rapports.
+    US5827148A                      *,1996-01-23,1998-10-27,Seiko Epson Corporation,Variable speed drive unit for electric vehicle and variable speed driving method
+    DE102009027419A1                      *,2009-07-02,2011-01-05,Robert Bosch Gmbh,Elektrofahrzeug
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (5)
+              
+
+
+citedBy_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    EP3514410A1                      *,2018-01-17,2019-07-24,Dana Italia S.r.L.,Transmission électrique et procédé de changement de vitesse
+    US10851879B2,2016-03-06,2020-12-01,Dana Belgium N.V.,Driveline for a vehicle including an electric drive motor and a powershift  transmission having at least two transmission stages
+    WO2021083502A1,2019-10-30,2021-05-06,Sala Drive Gmbh,Ensemble d'entraînement, élément d'accouplement et procédé de fonctionnement d'ensemble d'entraînement
+    EP3676512B1                      *,2017-10-16,2022-03-23,Neapco Intellectual Property Holdings, LLC,Chaîne cinématique comprenant un ensemble de réducteur à extrémité variable
+    Family To Family Citations,,,,
+    CA3019673A1                      *,2017-10-06,2019-04-06,Proterra Inc.,Commande du groupe motopropulseur d'un vehicule
+
+abstract
+    L'invention un véhicule électrique de compétition ou un ensemble motopropulseur à propulsion mono-énergie, comprenant une transmission par une chaîne cinématique mécanique sans glissement et permanente en amont et en aval d'une boîte de vitesses à rapports non synchronisés sans embrayage ni coupleur. Des moyens électroniques de commande commandent sélectivement ledit moteur : en couple pendant la propulsion sans changement de rapport, et en régime lors d'une phase de changement de rapport entre deux rapports. Selon un autre aspect, l'invention propose aussi un procédé de gestion de cette propulsion, qui comprend une commande des changements de rapports en montée et en descente comprenant : désengagement d'un premier rapport, incluant un contrôle du moteur pour annuler le couple transmis, calcul d'un régime de consigne compatible avec un deuxième rapport, contrôle du moteur en régime pour l'amener audit régime de consigne, engagement dudit deuxième rapport, et retour à une commande en couple. L'invention concerne en outre un tel système et procédé dans lequel la réduction de régime est réalisée par commande de moyens de récupération d'énergie électrique à leur capacité maximale; et/ou la commande des passages de rapport est réalisée par des actionneurs pneumatiques agissant respectivement en montée, en descente, et en blocage au point neutre dans un sens.
+title
+    Groupe motopropulseur pour vehicule electrique de competition et procede de commande
+similar_document
+26
+    Publication,Publication Date,Title
+    WO2013072609A1,2013-05-23,Groupe motopropulseur pour vehicule electrique de competition et procede de commande
+    EP3710732B1,2022-06-29,Procédé et système de commande d&#39;une transmission automatique sans embrayage pour véhicule automobile à propulsion hybride
+    FR2976526A1,2012-12-21,Groupe motopropulseur
+    FR2935660A1,2010-03-12,Procede et dispositif de compensation de rupture du couple fourni par le groupe motopropulseur d&#39;un vehicule hybride au cours d&#39;un changement de vitesse
+    EP3129683A1,2017-02-15,Procede de commande d&#39;un actionneur de passage de vitesses et actionneur de passage correspondant
+    EP2834541A1,2015-02-11,Procede de synchronisation d&#39;un pignon sur un arbre de boite de vitesses
+    WO2012107679A1,2012-08-16,Dispositif et procédé pour la commande d&#39;une boite de vitesses a double embrayage
+    EP1672253A1,2006-06-21,Dispositif et procédé de synchronisation pour boîte de vitesses de type &#34;double embrayage&#34;
+    EP2928715B1,2017-02-22,Procede de controle de couples lors du changement de rapport d&#39;une boite de vitesses d&#39;un vehicule hybride
+    EP1983228A1,2008-10-22,Procédé d&#39;optimisation de pilotage des synchroniseurs d&#39;une boîte de vitesses lors d&#39;un changement de rapport de vitesse
+    FR2992040A1,2013-12-20,Procede et dispositif de controle de la vitesse engagee d&#39;une boite de vitesses automatisee de vehicule, en fonction d&#39;une acceleration demandee par un systeme de controle de vitesse
+    EP2098755B1,2011-10-12,Procédé de passage descendant avec couple moteur positif, pour boîte de vitesses à crabots
+    EP2996916B1,2017-08-16,Procédé de commande d&#39;un groupe moto propulseur a moteur thermique et a boite de vitesses automatisée
+    FR2913225A1,2008-09-05,Procede de changement de rapport dans une boite de vitesses equipant un vehicule.
+    FR2976036A1,2012-12-07,Procede d&#39;apprentissage du point de lechage d&#39;un embrayage d&#39;une boite a double embrayage avec detection des jeux de boite de vitesses
+    EP2098753B1,2011-10-05,Procédé de passage montant avec couple moteur négatif, pour boîte de vitesses à crabots
+    EP2098754B1,2011-10-05,Procédé de passage descendant avec couple moteur négatif,  pour boîte de vitesses à crabots
+    EP2098752B1,2011-10-12,Procédé de passage montant avec couple moteur positif, pour boîte de vitesses à crabots
+    EP3580103A1,2019-12-18,Procede d&#39;elaboration de la consigne de couple aux actionneurs d&#39;un groupe motopropulseur hybride
+    WO2011036394A1,2011-03-31,Dispositif de synchronisation et de solidarisation des arbres primaires d&#39;une boite de vitesses a double embrayage
+    FR3018227A1,2015-09-11,Transmission hybride avec volant d&#39;inertie
+    WO2021233704A1,2021-11-25,Procédé de commande d&#39;un groupe motopropulseur pour véhicule automobile à transmission électrique hybride
+    FR2956085A1,2011-08-12,Procede de passage descendant pour boite de vitesses a crabots
+    WO2008074955A1,2008-06-26,Procede de changement de rapport a crabotage optimise dans une boite de vitesses, et boite de vitesses notamment pour vehicule hybride
+    WO2013017776A1,2013-02-07,Dispositif de commande hydraulique d&#39;une boite de vitesses, procede et boîte de vitesses associes
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    46
+classfication_items
+285
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,6,1,/,0,0
+    F,1,6,H,6,1,/,0,4
+    F,1,6,H,6,1,/,0,4,0,3
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,/,0,0
+    B,6,0,K,1,/,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,0
+    B,6,0,W,1,0,/,1,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,9
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,6,1,/,0,0
+    F,1,6,H,6,1,/,0,4
+    F,1,6,H,6,1,/,0,4,3,7
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,7,/,0,0
+    B,6,0,K,1,7,/,0,4
+    B,6,0,K,1,7,/,0,6
+    B,6,0,K,1,7,/,0,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,7,/,0,0
+    B,6,0,K,1,7,/,0,4
+    B,6,0,K,1,7,/,1,6
+    B,6,0,K,1,7,/,1,6,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,8
+    B,6,0,L,2,2,4,0,/,4,8,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,1,0
+    B,6,0,L,2,2,7,0,/,1,4
+    B,6,0,L,2,2,7,0,/,1,4,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,8
+    B,6,0,W,2,5,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,8
+    B,6,0,W,2,5,1,0,/,0,8,3
+    B,6,0,W,2,5,1,0,/,0,8,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,1,8
+    B,6,0,W,2,5,1,0,/,1,8,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,2,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,6
+    B,6,0,W,2,7,1,0,/,0,6,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,0
+    B,6,0,W,2,7,1,0,/,1,0,0,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,0
+    B,6,0,W,2,7,1,0,/,1,0,1,1
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,1,0
+    B,6,0,Y,2,2,0,0,/,1,1
+    B,6,0,Y,2,2,0,0,/,1,1,4
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,1
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,7,0
+    B,6,0,Y,2,3,0,0,/,7,3
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,4,0,0,/,0,0
+    B,6,0,Y,2,4,0,0,/,4,0
+    B,6,0,Y,2,4,0,0,/,4,0,8
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,4,0,0,/,0,0
+    B,6,0,Y,2,4,0,0,/,4,2
+    B,6,0,Y,2,4,0,0,/,4,2,1
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,2,2,0,0,/,0,0
+    F,1,6,H,2,2,0,0,/,0,0,2,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+2
+    2012-11-13,Application filed by Segula Matra Technologies
+    2013-05-23,Publication of WO2013072609A1
+
+active_area
+1
+    W,O
+
+not_active_area
+1
+    F,R
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    FR1160477,2011-11-17,
+    FR1160477A,2011-11-17,Groupe motopropulseur pour vehicule electrique de competition et procede de commande.
+
+legal_event
+4
+    Date,Code,Title,Description
+    2013-07-10,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 12795524Country of ref document: EPKind code of ref document: A1
+    2014-05-19,NENP,Non-entry into the national phase,Ref country code: DE
+    2014-12-10,122,Ep: pct application non-entry in european phase,Ref document number: 12795524Country of ref document: EPKind code of ref document: A1
+

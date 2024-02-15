@@ -1,0 +1,274 @@
+ID
+    US10500972B2
+citation_exist
+    Patent Citations (7)
+citation_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    US6768284B2                      *,2002-09-30,2004-07-27,Eaton Corporation,Method and compensation modulator for dynamically controlling induction machine regenerating energy flow and direct current bus voltage for an adjustable frequency drive system
+    US7256701B2                      *,2004-01-13,2007-08-14,Fanuc Ltd,Motor driver
+    US7602139B2                      *,2006-07-13,2009-10-13,International Rectifier Corporation,Signal conditioning apparatus and method for determination of permanent magnet motor rotor position
+    US7650968B2                      *,2004-12-31,2010-01-26,Otis Elevator Company,Elevator rescue operation control system including selective transformer winding energization
+    US20120256580A1                      *,2011-04-11,2012-10-11,Anbo Yu,System and method for fast start-up of an induction motor
+    US8981686B2                      *,2013-01-24,2015-03-17,Regal Beloit America, Inc.,Methods and systems for controlling an electric motor
+    US20150349681A1                      *,2014-05-30,2015-12-03,Delta Electronics (Shanghai) Co., Ltd.,Variable frequency speed control system and method of the same
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (6)
+              
+
+
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    CN110212664A                      *,2019-03-27,2019-09-06,曾庆维,Adjustable economical inertia kinetic energy output system and its control method
+    CN112311072A                      *,2019-07-26,2021-02-02,法奥意威(苏州)机器人系统有限公司,Robot motion energy recovery system
+    CN112865640B                      *,2021-03-23,2022-08-09,杭州海康威视数字技术股份有限公司,Motor control method and device and computer readable storage medium
+    DE102022109523A1                      *,2022-04-20,2023-10-26,Bode - Die Tür Gmbh,Method for absorbing energy in an electric drive system and electric drive system
+
+abstract
+    In a permanent magnet synchronous motor drive system, phase currents can be used to calculate a current that produces no shaft torque and only motor losses and a current that only produces shaft torque. These currents can be controlled to be resupplied into the motor drive system to a desired amount on a continuous basis to maintain a DC energy storage device voltage at a desired safe level. The calculated currents are resupplied to the motor drive system such that voltage levels within the DC energy storage device that approach a voltage maximum limit are transferred to the motor in the form of current that is dissipated by the motor without losing efficiency and control of driving a load with the motor.
+title
+    Method and apparatus to dissipate recovered energy from a mechanical load within a connected motor during braking
+similar_document
+26
+    Publication,Publication Date,Title
+    US10500972B2,2019-12-10,Method and apparatus to dissipate recovered energy from a mechanical load within a connected motor during braking
+    DK2550451T3,2017-09-04,EMERGENCY PITCH DRIVING DEVICE FOR A WIND OR WATER POWER SYSTEM
+    CN203675027U,2014-06-25,Motor control without sensor
+    US10812000B2,2020-10-20,Braking energy recovery system for an electric motor and method
+    EP3179624B1,2021-12-08,Position sensorless permanent magnet electrical machine
+    US8716965B2,2014-05-06,Synchronous motor control device for controlling synchronous motor to carry out power regenerative operation and stop synchronous motor at the time of power failure
+    Termizi et al.,2017,Sensorless PMSM drives using extended kalman filter (EKF)
+    Singh et al.,2012,Performance evaluation of BLDC motor with conventional PI and fuzzy speed controller
+    EP2345147B1,2012-09-05,System and method for controlling power balance in an electrical/mechanical system
+    JP2018533903A,2018-11-15,Linear actuator with brushless DC motor
+    CN105518988A,2016-04-20,Power conversion device and control method for permanent magnet synchronous motor
+    JP2014155393A,2014-08-25,Ac electric machine system and control method therefor
+    KR101316945B1,2013-10-11,Doubly-fed wound machine with constant ac or dc source and control method thereof
+    JP2012120320A,2012-06-21,Rotational sensorless control device
+    JP6299644B2,2018-03-28,Electric motor control device
+    KR102010386B1,2019-10-21,Apparatus for driving motor
+    Mariano et al.,2017,Modelling of a sensorless rotor Flux oriented BLDC machine
+    KR20200059849A,2020-05-29,Apparatus and method for detecting BLDC motor overload
+    US11491879B2,2022-11-08,Sequential electrical braking with pulsed DC injection rotor lock mechanism
+    Misawa et al.,2010,A rotor position estimation using fourier series of phase inductance for switched reluctance motor
+    CN104521131B,2017-08-08,Synchronous electric motor driving system
+    Sreethumol et al.,2015,Speed control of BLDC motor drive under DTC scheme using OC with modified integrator
+    JP2009033838A,2009-02-12,Rotary electric machine controller
+    Muthu et al.,2014,Direct Torque Control of matrix converter fed BLDC motor
+    Egorov et al.,2016,Method of braking circuit resistance estimation for closed loop drive system with big rotating masses in speed reverse operating mode with current limitation
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US15/916,751,2017-03-09,2018-03-09,Method and apparatus to dissipate recovered energy from a mechanical load within a connected motor during braking
+
+inventor_number
+    4
+classfication_nums
+    25
+classfication_items
+154
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,3,/,0,0
+    H,0,2,J,3,/,1,8
+    H,0,2,J,3,/,1,8,9,2
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,2,9
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,4,7
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,4,7
+    H,0,2,J,7,/,0,0,4,8
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,1,4
+    H
+    H,0,2
+    H,0,2,K
+    H,0,2,K,1,/,0,0
+    H,0,2,K,1,/,0,6
+    H,0,2,K,1,/,1,2
+    H,0,2,K,1,/,1,4
+    H,0,2,K,1,/,1,4,6
+    H
+    H,0,2
+    H,0,2,K
+    H,0,2,K,1,/,0,0
+    H,0,2,K,1,/,0,6
+    H,0,2,K,1,/,2,2
+    H,0,2,K,1,/,2,7
+    H,0,2,K,1,/,2,7,0,6
+    H,0,2,K,1,/,2,7,2
+    H,0,2,K,1,/,2,7,4
+    H,0,2,K,1,/,2,7,5,3
+    H,0,2,K,1,/,2,7,6
+    H
+    H,0,2
+    H,0,2,K
+    H,0,2,K,4,9,/,0,0
+    H,0,2,K,4,9,/,1,0
+    H,0,2,K,4,9,/,1,0,4
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,5,/,0,0
+    H,0,2,P,2,5,/,0,2
+    H,0,2,P,2,5,/,0,2,2
+    H,0,2,P,2,5,/,0,2,4
+    H,0,2,P,2,5,/,0,2,6
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,5,/,0,0
+    H,0,2,P,2,5,/,0,2
+    H,0,2,P,2,5,/,0,2,2
+    H,0,2,P,2,5,/,0,3
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,3,/,0,0
+    H,0,2,P,3,/,0,6
+    H,0,2,P,3,/,1,8
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,6,/,0,0
+    H,0,2,P,6,/,1,4
+    H,0,2,P,6,/,1,6
+    H,0,2,P,6,/,1,8
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,6,/,0,0
+    H,0,2,P,6,/,2,4
+    H
+    H,0,3
+    H,0,3,B
+    H,0,3,B,5,/,0,0
+    H,0,3,B,5,/,0,8
+    H,0,3,B,5,/,1,2
+    H,0,3,B,5,/,1,2,3,7
+    H,0,3,B,5,/,1,2,6,2
+    H,0,3,B,5,/,1,2,6,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,2
+    B,6,0,L,1,5,/,0,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,2
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,2,9
+    H,0,2,J,7,/,0,0,3,0,8
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,3,/,0,0
+    H,0,2,P,3,/,0,6
+    H,0,2,P,3,/,0,8
+    H,0,2,P,3,/,1,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,5,8
+
+application_events
+8
+    2018-03-09,Application filed by Teknic Inc
+    2018-03-09,Priority to US15/916,751
+    2018-06-29,Assigned to TEKNIC, INC.
+    2018-09-13,Publication of US20180257511A1
+    2019-12-10,Application granted
+    2019-12-10,Publication of US10500972B2
+    Status,Active
+    2038-03-09,Anticipated expiration
+
+active_area
+1
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    US201762469238P,2017-03-09,
+    US15/916,751,2018-03-09,Method and apparatus to dissipate recovered energy from a mechanical load within a connected motor during braking
+
+legal_event
+9
+    Date,Code,Title,Description
+    2018-03-09,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY
+    2018-04-04,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO SMALL (ORIGINAL EVENT CODE: SMAL); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY
+    2018-06-29,AS,Assignment,Owner name: TEKNIC, INC., NEW YORKFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:BUCELLA, THOMAS JOHN;MAYNE, SCOTT;GOD, WARREN M;REEL/FRAME:046463/0266Effective date: 20180309
+    2019-03-27,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2019-07-22,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2019-10-22,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2019-11-20,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2023-05-23,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YR, SMALL ENTITY (ORIGINAL EVENT CODE: M2551); ENTITY STATUS OF PATENT OWNER: SMALL ENTITYYear of fee payment: 4
+

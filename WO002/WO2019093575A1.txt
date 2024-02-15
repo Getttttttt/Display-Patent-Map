@@ -1,0 +1,152 @@
+ID
+    WO2019093575A1
+citation_exist
+    Patent Citations (5)
+citation_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    KR19990073128A                      *,1999-05-26,1999-10-05,유인상,히트펌프및리싸이클공조시스템을이용한유기성폐기물처리방법.
+    KR100887280B1                      *,2007-10-17,2009-03-06,(주)범한엔지니어링 종합건축사 사무소,히트펌프를 이용한 고농도폐수처리장의 폐열 재이용장치
+    KR101218229B1                      *,2012-04-27,2013-01-04,주식회사 에스이티,히트 펌프를 이용한 인터넷 데이터 센터의 서버실 강제 냉각 공조 시스템
+    JP2015055417A                      *,2013-09-12,2015-03-23,株式会社雪屋媚山商店,排雪利用型熱供給制御システム
+    KR101579883B1                      *,2015-01-07,2015-12-24,주식회사 삼화에이스,열교환기를 이용한 데이터센터 항온항습 시스템
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    KR102249491B1                      *,2020-04-09,2021-05-12,(주)유원기술,폐열 회수 환기장치의 제어방법
+    CN111997421B                      *,2020-08-10,2022-04-29,北京中知中科技术开发有限公司,一种用于3d打印设备的恒温恒湿节能仓
+
+abstract
+    본 발명은 전산실 및 항온항습기실을 포함한 데이터 센터와 적어도 하나 이상의 용도로 사용되는 다수의 실내공간을 포함하는 빌딩의 폐열회수 난방 시스템에 있어서, 상기 전산실과 실내 공간의 상부에 환기통로가 설치되어 상기 전산실의 따뜻한 공기를 회수하여 상기 실내 공간의 내부로 배출하는 폐열회수 환기부; 상기 전산실과 실내공간의 상부에 환기통로와 구분되어 공급통로가 설치되고, 상기 실내공간의 차가운 공기를 상기 항온항습기실로 공급하는 공기공급부; 상기 전산실, 실내 공간 및 외기의 온도를 각각 측정하는 온도측정부; 상기 실내공간별로 설치되어 실내 온도의 설정, 조절 또는 해제 기능을 위한 사용자의 난방 제어명령이 설정되는 온도조작부; 상기 난방 제어명령에 따라 가동되어 상기 실내 공간에 난방 기능을 제공하는 냉난방장치; 및 상기 난방 제어명령이 입력된 상태에서 상기 온도측정부에서 측정된 온도 정보를 근거로 하여 상기 폐열회수 환기부를 통해 전산실의 폐열을 회수한 후 상기 공기공급부를 통해 상기 실내 공간을 상기 온도조작부에서 설정된 난방 설정 온도까지 상승시키는 폐열회수 난방 알고리즘을 수행하고, 상기 폐열회수 난방 알고리즘의 실행이 불가능한 경우에 상기 냉난방 장치를 이용한 기본 난방 알고리즘을 수행하는 제어장치를 포함한다.
+title
+    빌딩의 폐열회수 난방 시스템
+similar_document
+26
+    Publication,Publication Date,Title
+    CN101313640B,2011-04-20,机柜温控装置、系统
+    WO2013176334A1,2013-11-28,지능형 건물 에너지 소비 관리 시스템
+    US9866031B2,2018-01-09,Method and apparatus for power control
+    CN102105033B,2013-06-19,货柜式数据中心的环境调节系统及调节方法
+    WO2016047930A1,2016-03-31,중앙난방 및 지역난방을 위한 난방 온수 공급 장치 및 제어방법
+    WO2013180377A1,2013-12-05,직렬식 난방 및 급탕시스템
+    WO2019093575A1,2019-05-16,빌딩의 폐열회수 난방 시스템
+    CN107606686B,2019-11-08,一种热力平衡的供热系统及方法
+    CN110285481A,2019-09-27,基于室内热负荷的模块式电采暖控制系统及控制方法
+    CN104990225A,2015-10-21,一种毛细管系统控制器
+    WO2015060675A2,2015-04-30,실시간 재실 정보를 이용한 건물 에너지 시뮬레이션 시스템
+    WO2014146285A1,2014-09-25,一种空调风柜的节能控制方法
+    CN203203187U,2013-09-18,用于毛细管空调的防结露控制装置
+    CN107062384A,2017-08-18,装配式住宅采暖系统分级控制系统
+    WO2016099172A1,2016-06-23,지역 및 중앙 난방에 적용되는 세대별 난방 및 온수 공급 장치 및 환수 온도 제어 방법
+    CN106502125A,2017-03-15,一种基于数据仿真和动环联动的机房能效优化技术
+    CN111720945A,2020-09-29,一种地铁设备用房通风系统及方法
+    WO2018139905A1,2018-08-02,Bems 기반 중앙집중식 공조시스템의 관제 데이터 처리방법 및 그를 위한 장치
+    Irving,1982,Energy program validation: conclusions of IEA Annex I
+    CN105450438A,2016-03-30,多区域无线管理与通讯网络系统及其管理方法
+    CN106196265A,2016-12-07,装配式住宅分散供暖多点控制系统
+    WO2019103189A1,2019-05-31,건물벽체 내장용 에너지 자립형 무선 통신 파워 컨트롤 장치
+    KR101385584B1,2014-04-16,지능형 전력망을 이용한 실내의 냉난방과 기압 자동 제어 시스템
+    CN208269356U,2018-12-21,用于具有风机的站房的空气循环设备和风机空气循环系统
+    WO2018004017A1,2018-01-04,빌딩 에너지 관리 시스템 및 방법
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    7
+classfication_nums
+    9
+classfication_items
+50
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,1,1,/,0,0
+    F,2,4,F,1,1,/,3,0
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,1,1,/,0,0
+    F,2,4,F,1,1,/,3,0
+    F,2,4,F,1,1,/,4,6
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,1,1,/,0,0
+    F,2,4,F,1,1,/,6,2
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,1,1,/,0,0
+    F,2,4,F,1,1,/,6,2
+    F,2,4,F,1,1,/,6,3
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,1,1,/,0,0
+    F,2,4,F,1,1,/,6,2
+    F,2,4,F,1,1,/,6,3
+    F,2,4,F,1,1,/,6,4
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,1,2,/,0,0
+    F,2,4,F,1,2,/,0,0,1
+    F,2,4,F,1,2,/,0,0,6
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,2,1,1,0,/,0,0
+    F,2,4,F,2,1,1,0,/,1,0
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,2,1,4,0,/,0,0
+    F,2,4,F,2,1,4,0,/,6,0
+    Y
+    Y,0,2
+    Y,0,2,B
+    Y,0,2,B,3,0,/,0,0
+    Y,0,2,B,3,0,/,5,6
+
+application_events
+2
+    2017-12-15,Application filed by 대한민국 (관리부서 : 환경부 국립환경과학원장)
+    2019-05-16,Publication of WO2019093575A1
+
+active_area
+2
+    K,R
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    KR10-2017-0148814,2017-11-09,
+    KR1020170148814A,2017-11-09,빌딩의 폐열회수 난방 시스템
+
+legal_event
+5
+    Date,Code,Title,Description
+    2019-06-26,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 17931618Country of ref document: EPKind code of ref document: A1
+    2020-05-12,NENP,Non-entry into the national phase,Ref country code: DE
+    2020-11-18,122,Ep: pct application non-entry in european phase,Ref document number: 17931618Country of ref document: EPKind code of ref document: A1
+    2021-06-16,122,Ep: pct application non-entry in european phase,Ref document number: 17931618Country of ref document: EPKind code of ref document: A1
+

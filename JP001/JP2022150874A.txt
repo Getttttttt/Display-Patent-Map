@@ -1,0 +1,242 @@
+ID
+    JP2022150874A
+citation_exist
+    Patent Citations (13)
+citation_infor
+15
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP2010212019A,2009-03-09,2010-09-24,Toyota Motor Corp,リチウムイオン電池用制御装置、及びリチウムイオン電池用制御装置を有する自動車
+    JP2013119761A,2011-12-09,2013-06-17,Kobelco Contstruction Machinery Ltd,ハイブリッド建設機械
+    JP5958375B2,2013-02-12,2016-07-27,株式会社豊田自動織機,充電装置および充電方法
+    JP6225856B2,2014-08-29,2017-11-08,コベルコ建機株式会社,ハイブリッド建設機械
+    JP6439565B2,2015-04-20,2018-12-19,トヨタ自動車株式会社,二次電池システム
+    WO2018067565A1                      *,2016-10-03,2018-04-12,Johnson Controls Technology Company,State of charge dependent plating estimation and prevention
+    CN110495038B                      *,2017-04-04,2022-07-08,株式会社村田制作所,全固态电池、电子设备、电子卡、可穿戴设备和电动车辆
+    US20180316195A1                      *,2017-04-28,2018-11-01,GM Global Technology Operations LLC,Minimizing lithium plating in a lithium ion battery
+    JP6776291B2,2018-03-16,2020-10-28,株式会社東芝,組電池、電池パック、車両、及び、定置用電源
+    CN112805195A,2018-12-14,2021-05-14,康明斯公司,电池荷电状态（soc）车辆系统操作的结束
+    JP2020174004A,2019-04-12,2020-10-22,株式会社Ｓｏｋｅｎ,全固体電池
+    US11509153B2                      *,2019-07-18,2022-11-22,Save The Planet Co., Ltd.,Charge/discharge control method for storage system and charge/discharge control device
+    US20220305942A1                      *,2021-03-23,2022-09-29,Honda Motor Co., Ltd.,System and method for scheduling electric charging for vehicles
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US11708007B2                      *,2021-08-02,2023-07-25,Ford Global Technologies, Llc,Control systems and methods for modifying a battery state of charge signal
+
+abstract
+    【課題】安全性を向上することができる全固体リチウムイオン電池制御システムを提供する。【解決手段】車両に備えられる全固体リチウムイオン電池制御システムであって、車両の駆動用モータに接続された全固体リチウムイオン電池と、通常の運転において、全固体リチウムイオン電池の第１規定ＳＯＣを超えないように全固体リチウムイオン電池への電流の入出力を制御する制御部と、を備え、全固体リチウムイオン電池は負極にチタン酸リチウムを含むものであり、制御部は、過電流によって全固体リチウムイオン電池の充電量がＳＯＣ１００％を超えた秒数又は電流値を積算し、積算された値に基づいて限界ＳＯＣ低下量を算出し、限界ＳＯＣ低下量に基づいて第２規定ＳＯＣを算出し、第２規定ＳＯＣに基づいて全固体リチウムイオン電池の制御を行う。【選択図】図１
+title
+    全固体リチウムイオン電池制御システム
+similar_document
+26
+    Publication,Publication Date,Title
+    US9399404B2,2016-07-26,Charging system for all-solid-state battery
+    US9590439B2,2017-03-07,Control device of battery charging
+    JP6192738B2,2017-09-06,電池モジュールおよび組電池
+    EP2573858B1,2015-03-25,Battery control system for a lithium ion battery and assembled battery control system
+    JP4461114B2,2010-05-12,組電池システム、組電池の充電方法及び充電式掃除機
+    CN106257738B,2019-12-06,用于锂离子二次电池的控制器及车辆
+    US10910668B2,2021-02-02,Battery system and vehicle equipped with battery system
+    US20160149420A1,2016-05-26,Secondary battery system
+    JP6368948B2,2018-08-08,蓄電システム、移動機構、搬送機構、車両及び自動車
+    JP6264362B2,2018-01-24,電動車両の電池システム
+    JP6460254B2,2019-01-30,蓄電パック
+    US11745618B2,2023-09-05,Control system of all-solid-state lithium ion battery
+    JP2010080279A,2010-04-08,二次電池システム、およびこの二次電池システムを用いた車両
+    JP2014120404A,2014-06-30,二次電池
+    JP6977599B2,2021-12-08,全固体電池システム
+    US20190288329A1,2019-09-19,Secondary battery system and secondary battery control method
+    KR102598107B1,2023-11-06,전고체 리튬 이온 전지 제어 시스템
+    JP3693827B2,2005-09-14,電極板の作製方法
+    JP2000040528A,2000-02-08,ハイブリッド車両用バッテリー
+    WO2014104280A1,2014-07-03,二次電池の制御方法及び制御装置
+    JP2020004488A,2020-01-09,組電池、車両、および組電池の製造方法
+    WO2021214817A1,2021-10-28,蓄電池装置および電動車両
+    WO2023056071A1,2023-04-06,Long cycle life lithium metal and anode-free cells
+    JP2022029656A,2022-02-18,バッテリ冷却システム
+    JP2015041596A,2015-03-02,全固体電池の過充電検出方法
+
+patent_application
+    NoExist
+patent_priority_application
+5
+    Application,Priority date,Filing date,Title
+    JP2021053669A,2021-03-26,2021-03-26,全固体リチウムイオン電池制御システム
+    KR1020220018891A,2021-03-26,2022-02-14,전고체 리튬 이온 전지 제어 시스템
+    CN202210164438.8A,2021-03-26,2022-02-23,全固体锂离子电池控制系统
+    US17/688,138,2021-03-26,2022-03-07,Control system of all-solid-state lithium ion battery
+
+inventor_number
+    6
+classfication_nums
+    20
+classfication_items
+122
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,6
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,9,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    G
+    G,0,1
+    G,0,1,R
+    G,0,1,R,3,1,/,0,0
+    G,0,1,R,3,1,/,3,6
+    G,0,1,R,3,1,/,3,8,2
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,0,5
+    H,0,1,M,1,0,/,0,5,2
+    H,0,1,M,1,0,/,0,5,2,5
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,4
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,6
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,4,/,0,0
+    H,0,1,M,4,/,0,2
+    H,0,1,M,4,/,3,6
+    H,0,1,M,4,/,4,8
+    H,0,1,M,4,/,4,8,5
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,1
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,2,5
+    H,0,1,M,2,0,1,0,/,4,2,7,1
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,2,2,2,0,/,0,0
+    H,0,1,M,2,2,2,0,/,2,0
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+
+application_events
+7
+    2021-03-26,Application filed by Toyota Motor Corp
+    2021-03-26,Priority to JP2021053669A
+    2022-10-07,Publication of JP2022150874A
+    2023-11-08,Application granted
+    2023-11-08,Publication of JP7375786B2
+    Status,Active
+    2041-03-26,Anticipated expiration
+
+active_area
+3
+    J,P
+    C,N
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2021053669A,2021-03-26,全固体リチウムイオン電池制御システム
+
+legal_event
+5
+    Date,Code,Title,Description
+    2022-08-09,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20220809
+    2023-09-15,A977,Report on retrieval,Free format text: JAPANESE INTERMEDIATE CODE: A971007Effective date: 20230915
+    2023-09-26,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20230926
+    2023-10-30,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20231009
+

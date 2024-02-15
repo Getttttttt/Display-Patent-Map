@@ -1,0 +1,169 @@
+ID
+    WO2015075807A1
+citation_exist
+    Patent Citations (5)
+citation_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH07505998A                      *,1993-02-11,1995-06-29,ゼネラル・エレクトリック・カンパニイ,ロールバック検出及び補償を備えた電気車輛の駆動列
+    JP2005529655A                      *,2002-06-11,2005-10-06,デカ・プロダクツ・リミテッド・パートナーシップ,ハイブリッド式人力／電動乗物
+    JP2008199716A                      *,2007-02-09,2008-08-28,Hitachi Ltd,車両駆動装置及びそれに用いられる電子回路装置
+    JP2011072189A                      *,2010-12-20,2011-04-07,Hitachi Ltd,電気駆動車両
+    JP2011155794A                      *,2010-01-28,2011-08-11,Sanyo Electric Co Ltd,駆動装置及び車両
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN107985123A                      *,2017-11-27,2018-05-04,北京新能源汽车股份有限公司,一种汽车驻坡控制方法、装置及汽车
+    CN110949139A                      *,2018-09-27,2020-04-03,联合汽车电子有限公司,电动车的自动驻坡方法
+    CN111661019A                      *,2019-12-11,2020-09-15,摩登汽车有限公司,汽车的防溜坡控制方法
+    CN112477624A                      *,2020-11-20,2021-03-12,深圳市英威腾电动汽车驱动技术有限公司,驱动电机速度环的控制方法及其控制装置和电动汽车
+    Family To Family Citations,,,,
+
+abstract
+    電力変換装置により制御される回転電動機を駆動源として備えた電気車両の制御システムにおいて、最終トルク指令に従って回転電動機１にトルクを出力させるための電動機制御装置４と、電気車両に対して前進または後退を指示する動作モードと回転電動機１の速度とに基づいて、前記動作モードによる進行方向とは反対の方向に電気車両が移動するのを防止するためのトルク指令補正値を演算するトルク演算手段５と、トルク指令とトルク指令補正値との加算値を最終トルク指令として電動機制御装置４に入力する加算手段６とを備える。これにより、路面の傾斜や車両重量を検出するセンサを追加することなく、各種の回転電動機に適用可能であって、坂道においても機械式ブレーキを使用せずに電気車両の停止状態を維持可能とした制御システムを実現する。
+title
+    電気車両の制御システム
+similar_document
+26
+    Publication,Publication Date,Title
+    US7622875B2,2009-11-24,Controller for motor
+    JP4770538B2,2011-09-14,電気駆動車両、及び電気駆動車両の制御方法
+    US9855858B2,2018-01-02,Control device for electric vehicle
+    JP6062327B2,2017-01-18,インバータ装置および電動車両
+    JP2008167566A,2008-07-17,永久磁石モータの高応答制御装置
+    WO2015075807A1,2015-05-28,電気車両の制御システム
+    US7818111B2,2010-10-19,Motor control apparatus and motor control method
+    JP6243142B2,2017-12-06,電気自動車の制御装置
+    WO2016052234A1,2016-04-07,電気自動車の制御装置
+    JP4969344B2,2012-07-04,電気車の電力変換装置
+    JP6490246B2,2019-03-27,電気車制御装置
+    JP6169924B2,2017-07-26,誘導電動機式電気車及びその制御方法
+    JP5195889B2,2013-05-15,電気駆動車両
+    JP2006050705A,2006-02-16,電動機制御装置
+    JP2004023943A,2004-01-22,電気自動車の後退抑制制御装置
+    JP5139257B2,2013-02-06,旋回駆動制御装置及びこれを含む建設機械
+    JP5344195B2,2013-11-20,電気駆動車両
+    JP4797537B2,2011-10-19,モーター制御装置
+    WO2015001849A1,2015-01-08,電動車両の制動制御装置
+    JP2020141529A,2020-09-03,車両動力補助システム
+    JP4670746B2,2011-04-13,発電機の制御装置
+    JP2010150897A,2010-07-08,旋回駆動制御装置及びこれを含む建設機械
+    JP2005168115A,2005-06-23,車両用電動機の制御装置
+    JP2504224Y2,1996-07-10,車両用永久磁石型同期モ−タ用制御装置
+    JP2012050249A,2012-03-08,電動機駆動装置
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    PCT/JP2013/081466,2013-11-22,2013-11-22,電気車両の制御システム
+
+inventor_number
+    3
+classfication_nums
+    10
+classfication_items
+63
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B,6,0,L,1,5,/,2,0,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,1,0
+    B,6,0,L,2,2,2,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,1,0
+    B,6,0,L,2,2,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+3
+    2013-11-22,Application filed by 富士電機株式会社
+    2013-11-22,Priority to PCT/JP2013/081466
+    2015-05-28,Publication of WO2015075807A1
+
+active_area
+1
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2013/081466,2013-11-22,電気車両の制御システム
+
+legal_event
+5
+    Date,Code,Title,Description
+    2015-07-08,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 13897961Country of ref document: EPKind code of ref document: A1
+    2016-05-23,NENP,Non-entry into the national phase,Ref country code: DE
+    2016-12-13,NENP,Non-entry into the national phase,Ref country code: JP
+    2016-12-14,122,Ep: pct application non-entry in european phase,Ref document number: 13897961Country of ref document: EPKind code of ref document: A1
+

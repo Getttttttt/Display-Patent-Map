@@ -1,0 +1,232 @@
+ID
+    US20170106755A1
+citation_exist
+    Patent Citations (9)
+citation_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP3915391B2                      *,2000-09-14,2007-05-16,トヨタ自動車株式会社,Braking force control device for vehicle
+    JP3997923B2                      *,2003-02-07,2007-10-24,トヨタ自動車株式会社,Regenerative braking control device for vehicle
+    JP2005219580A                      *,2004-02-04,2005-08-18,Toyota Motor Corp,Vehicular behavior control device
+    JP4483449B2                      *,2004-07-20,2010-06-16,トヨタ自動車株式会社,Brake control device
+    WO2011027398A1                      *,2009-09-03,2011-03-10,トヨタ自動車株式会社,Brake control device
+    JP2011101515A                      *,2009-11-06,2011-05-19,Toyota Motor Corp,Braking force control device of vehicle
+    JP5212663B2                      *,2010-10-21,2013-06-19,トヨタ自動車株式会社,Vehicle braking / driving force control device
+    US9150206B2                      *,2011-07-11,2015-10-06,Toyota Jidosha Kabushiki Kaisha,Brake system and actuator control device
+    JP5862636B2                      *,2013-10-16,2016-02-16,トヨタ自動車株式会社,Braking / driving force control device for vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (5)
+              
+
+
+citedBy_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    US10363822B2                      *,2015-10-21,2019-07-30,Hyundai Motor Company,Braking control method and system for eco-friendly vehicle
+    WO2019219558A1                      *,2018-05-15,2019-11-21,Wabco Gmbh,System for an electrically driven vehicle, vehicle having same and method for same
+    US11518389B2                      *,2020-01-22,2022-12-06,Hyundai Motor Company,Method of controlling braking when steering in-wheel motor vehicle
+    Family To Family Citations,,,,
+    CN110871694B                      *,2018-08-30,2022-11-18,上海汽车集团股份有限公司,Drive axle, electric drive system and control method thereof
+    JPWO2022024753A1                      *,2020-07-30,2022-02-03,,
+
+abstract
+    A vehicle control apparatus includes a controller configured to change a ratio between a regenerative braking force and a frictional braking force, in a specific wheel among wheels, such that the ratio in the specific wheel differs from the ratio between the regenerative braking force and the frictional braking force in each of the other wheels, when a command to generate the require braking force is issued and a vehicle motion control is executed.
+title
+    Vehicle control apparatus
+similar_document
+24
+    Publication,Publication Date,Title
+    US8983723B2,2015-03-17,Vehicle braking/driving force control system and vehicle braking/driving force control method
+    US9120469B2,2015-09-01,Vehicle behavior control apparatus
+    US9233689B2,2016-01-12,Vehicle braking/driving force control apparatus
+    US9457804B2,2016-10-04,Vehicle braking/driving force control apparatus
+    RU2421354C2,2011-06-20,Automotive drive device
+    US20170106755A1,2017-04-20,Vehicle control apparatus
+    JP6252455B2,2017-12-27,Vehicle control device
+    JP4911111B2,2012-04-04,Vehicle control device
+    JP2009273275A,2009-11-19,Controller for vehicle
+    US9283959B2,2016-03-15,Vehicle behavior control apparatus
+    JP5533405B2,2014-06-25,Vehicle braking / driving force control device
+    JP5736725B2,2015-06-17,Vehicle braking / driving force control device
+    EP2612782B1,2018-09-19,Braking-driving force control device of vehicle
+    JP2009173089A,2009-08-06,Control device for vehicle
+    JP2007131212A,2007-05-31,Controller for vehicle
+    US8948951B2,2015-02-03,Vehicle behavior control apparatus
+    JP4797586B2,2011-10-19,Vehicle braking / driving force control device
+    JP2015223860A,2015-12-14,Vehicle control device
+    JP6569462B2,2019-09-04,Vehicle control device
+    JP2009184522A,2009-08-20,Vehicular vibration suppression device
+    JP5650087B2,2015-01-07,Vehicle driving force control device
+    WO2019077973A1,2019-04-25,Brake system for vehicle
+    JP7095970B2,2022-07-05,Vehicle control unit
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    21
+classfication_items
+124
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,5
+    B,6,0,T,1,3,/,5,8,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,5,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,2,4
+    B,6,0,T,8,/,2,4,6
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,1,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,1,3
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+4
+    2016-10-14,Application filed by Toyota Motor Corp
+    2016-10-14,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2017-04-20,Publication of US20170106755A1
+    Status,Abandoned
+
+active_area
+2
+    J,P
+    C,N
+
+not_active_area
+1
+    U,S
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2015205679A,2015-10-19,Vehicle control device
+    JP2015-205679,2015-10-19,
+
+legal_event
+3
+    Date,Code,Title,Description
+    2016-10-14,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:NAKATSU, MASATOSHI;REEL/FRAME:040367/0988Effective date: 20160830
+    2018-05-25,STCB,Information on status: application discontinuation,Free format text: ABANDONED  --  FAILURE TO PAY ISSUE FEE
+

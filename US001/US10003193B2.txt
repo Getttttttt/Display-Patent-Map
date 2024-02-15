@@ -1,0 +1,300 @@
+ID
+    US10003193B2
+citation_exist
+    Patent Citations (6)
+citation_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20090273235A1                      *,2006-04-24,2009-11-05,Toyota Jidosha Kabushiki Kaisha,Power Supply System and Vehicle
+    US20100127665A1                      *,2008-11-26,2010-05-27,Toyota Jidosha Kabushiki Kaisha,Vehicle charging system
+    JP2011097693A,2009-10-28,2011-05-12,Toyota Motor Corp,Power supply system for vehicle and vehicle equipped with the same
+    Family To Family Citations,,,,
+    JP4179383B2                      *,2007-02-13,2008-11-12,トヨタ自動車株式会社,Driving force generation system, vehicle including the same, and control method thereof
+    JP2010136475A                      *,2008-12-02,2010-06-17,Toyota Motor Corp,Controller for power system, and vehicle equipped with it, and method of controlling the power system
+    JP5832247B2                      *,2011-11-08,2015-12-16,株式会社豊田中央研究所,Power system
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP6569852B2                      *,2015-06-25,2019-09-04,ヤンマー株式会社,Hydraulic device
+    JP6740793B2                      *,2016-08-05,2020-08-19,トヨタ自動車株式会社,In-vehicle power supply control device
+    JP6973184B2                      *,2018-03-05,2021-11-24,トヨタ自動車株式会社,Fuel cell system and fuel cell system control method
+    CN214887020U,2021-04-07,2021-11-26,烟台杰瑞石油装备技术有限公司,Fracturing wellsite system
+
+abstract
+    A power supply includes a load, an electric power line connected to the load, first and second DC power supplies which supply electric power to the load, an electric power converter connected between the electric power line and the first and the second DC power supplies, and a controller controlling the electric power converter. The first DC power supply serves for a voltage control, while the second DC power supply serves for an electric power control. The controller sets a difference between an electric power requested by the load and target output electric power of the first DC power supply as target output electric power of the second DC power supply, and compensates the target output electric power of the first DC power supply in accordance with a difference between the actual and the target output electric powers of the second DC power supply.
+title
+    Power supply system
+similar_document
+22
+    Publication,Publication Date,Title
+    JP4356708B2,2009-11-04,Power supply system and vehicle equipped with the same
+    KR101025896B1,2011-03-30,Power supply system, vehicle using the same, power supply system control method, and computer-readable recording medium containing program for causing computer to execute the method
+    US9438115B2,2016-09-06,Power supply system
+    US9931944B2,2018-04-03,Variable voltage convert system with reduced bypass diode conduction
+    US9906129B2,2018-02-27,Power supply system
+    CN106849656B,2019-05-28,Power supply device
+    KR20080109053A,2008-12-16,Power supply system and vehicle including the same
+    US10220710B2,2019-03-05,Fuzzy logic based sliding mode control of variable voltage converter
+    KR101850415B1,2018-04-19,Power supply system
+    US10003193B2,2018-06-19,Power supply system
+    KR20100018034A,2010-02-16,Power supply system, vehicle using the same, power supply system control method, and computer-readable recording medium containing the program for causing computer to execute the control method
+    US20160028229A1,2016-01-28,Power supply system
+    CN110915123A,2020-03-24,DC-DC voltage converter and voltage converter control scheme
+    JP5109958B2,2012-12-26,Power supply system, vehicle equipped with the same, and control method of power supply system
+    JP2016111886A,2016-06-20,Power supply system of vehicle
+    JP5267092B2,2013-08-21,Power supply system, vehicle equipped with the same, and control method of power supply system
+    JP5987892B2,2016-09-07,Vehicle power system
+    JP2016048990A,2016-04-07,Power supply system
+    JP6256321B2,2018-01-10,Power control device
+    JP2022093977A,2022-06-24,Power system
+    JP2010206898A,2010-09-16,Electric vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    44
+classfication_items
+195
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,1,/,0,0
+    H,0,2,J,1,/,1,4
+    B,6,0,L,1,1,/,0,0,5
+    B,6,0,L,1,1,/,1,4
+    B,6,0,L,1,1,/,1,8,0,3
+    B,6,0,L,1,1,/,1,8,5,9
+    B,6,0,L,1,1,/,1,8,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B,6,0,L,2,2,1,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,2,3,1,0,/,0,0
+    H,0,2,J,2,3,1,0,/,4,0
+    H,0,2,J,2,3,1,0,/,4,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,0,5
+    Y,0,2,T,1,0,/,7,0,2,2
+    Y,0,2,T,1,0,/,7,0,4,4
+    Y,0,2,T,1,0,/,7,0,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y,0,2,T,1,0,/,7,0,7,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,2,5
+    Y,0,2,T,1,0,/,7,2,4,1
+    Y,0,2,T,1,0,/,7,2,7,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,8,0
+    Y,0,2,T,1,0,/,9,2
+
+application_events
+7
+    2015-06-25,Application filed by Toyota Motor Corp
+    2015-07-14,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2016-01-14,Publication of US20160013644A1
+    2018-06-19,Application granted
+    2018-06-19,Publication of US10003193B2
+    Status,Active
+    2036-07-28,Adjusted expiration
+
+active_area
+2
+    J,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2014-142100,2014-07-10,
+    JP2014142100A,2014-07-10,Power system
+
+legal_event
+4
+    Date,Code,Title,Description
+    2015-07-14,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:MITSUTANI, NORITAKE;REEL/FRAME:036079/0937Effective date: 20150601
+    2018-05-30,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2021-12-01,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

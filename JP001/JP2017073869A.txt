@@ -1,0 +1,250 @@
+ID
+    JP2017073869A
+citation_exist
+    Patent Citations (10)
+citation_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2006320037A                      *,2005-05-10,2006-11-24,Toshiba Corp,車両定位置停止自動制御装置および車両運転支援装置。
+    JP2007049865A                      *,2005-08-12,2007-02-22,Ishikawajima Harima Heavy Ind Co Ltd,ハイブリッド駆動装置
+    JP2009254069A                      *,2008-04-03,2009-10-29,Hitachi Ltd,鉄道車両の制御方法および装置
+    JP2010063286A                      *,2008-09-04,2010-03-18,Toshiba Corp,列車制御システム
+    JP2010089737A                      *,2008-10-10,2010-04-22,Toshiba Corp,停止制御装置
+    JP2013107449A                      *,2011-11-18,2013-06-06,Mitsubishi Heavy Ind Ltd,運行管理装置、運行管理方法及びプログラム、並びに交通システム
+    JP2013207992A                      *,2012-03-29,2013-10-07,Hitachi Ltd,鉄道車両の運転支援装置
+    WO2014136220A1                      *,2013-03-06,2014-09-12,三菱電機株式会社,電気車用主変換装置
+    JP2015101149A                      *,2013-11-22,2015-06-04,公益財団法人鉄道総合技術研究所,プログラム及び運転曲線作成装置
+    US20170057378A1                      *,2015-08-25,2017-03-02,Beijing Jiaotong University,Train control method for maximizing utilization of regenerative energy
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN110395299A                      *,2019-07-29,2019-11-01,交控科技股份有限公司,城市轨道交通中列车制动能量利用方法
+    Family To Family Citations,,,,
+    US10279823B2                      *,2016-08-08,2019-05-07,General Electric Company,System for controlling or monitoring a vehicle system along a route
+
+abstract
+    【課題】精度良く回生電力量を推定し、省エネルギーな運行に貢献できる回生電力量推定装置およびブレーキ計画立案装置を提供する。【解決手段】一実施形態に係る回生電力推定装置は、鉄道車両の運行において、ブレーキノッチの切替え操作毎に当該ブレーキノッチの切替え操作に対応する電気ブレーキの過渡応答を含んで構成されるブレーキノッチ切替え別回生電力量推定モデルと、前記ブレーキノッチ切替え別回生電力量推定モデルに基づいて、前記ブレーキノッチの時間推移データであるブレーキ計画について得られる期待回生電力量を推定する回生電力量推定手段とを有する。【選択図】図２５
+title
+    回生電力量推定装置およびブレーキ計画立案装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP4642083B2,2011-03-02,電気車のブレーキ制御装置
+    JP5966962B2,2016-08-10,ハイブリッド車両の走行制御装置
+    CN105292100B,2019-04-23,用于控制混合动力电动车的发动机离合器的装置和方法
+    JP6643030B2,2020-02-12,回生電力量推定装置、ブレーキ計画立案装置および回生電力量推定方法
+    JP5869150B2,2016-02-24,走行計画作成装置、運転支援装置および運転制御装置
+    Liudvinavičius et al.,2007,Electrodynamic braking in high‐speed rail transport
+    JP5395398B2,2014-01-22,列車制御装置
+    RU2666499C1,2018-09-07,Способ эксплуатации транспортного средства
+    JP2014171279A,2014-09-18,推進制御装置及び推進制御方法
+    KR102563598B1,2023-08-04,친환경자동차의 제동 제어 장치
+    JP2012214143A,2012-11-08,ハイブリッド車両
+    CN104842983A,2015-08-19,基于多智能体的高铁制动方法和系统
+    JP5731365B2,2015-06-10,鉄道列車の運転曲線の作成方法
+    EP3632758A3,2020-06-03,Actuator controller and vehicle-installed system
+    JP2015139336A5,2016-10-06,
+    JP2016010167A,2016-01-18,運転曲線生成装置、運転支援装置、自動運転装置、運転支援システム、自動運転システム、運転曲線生成方法およびプログラム
+    CN111406006B,2022-06-17,至少一种轨道车辆的制动系统的控制方法
+    JP2014033506A,2014-02-20,電気車制御装置及び電気車
+    KR20160133905A,2016-11-23,하이브리드 버스의 중량 추정을 이용한 제어 시스템 및 방법
+    KR101936989B1,2019-01-10,차량용 스마트 크루즈 컨트롤 시스템 제어방법
+    CN106427986B,2019-01-11,混合动力汽车的加速控制方法、系统及混合动力汽车
+    JP6280344B2,2018-02-14,速度信号発生装置
+    JPWO2016135858A1,2017-11-24,電気車の制御装置
+    DE102007024207A1,2008-11-27,Kraftfahrzeugvorrichtung
+    KR101518271B1,2015-05-07,엔진과 발전기 일체형 전동차의 동력전달장치
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    JP2015198458A,2015-10-06,2015-10-06,回生電力量推定装置、ブレーキ計画立案装置および回生電力量推定方法
+    US15/265,310,2015-10-06,2016-09-14,Regenerative power-amount estimation device and brake plan plotting device
+
+inventor_number
+    14
+classfication_nums
+    22
+classfication_items
+124
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,2,7,/,0,0
+    B,6,1,L,2,7,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,5
+    B,6,0,T,1,3,/,5,8,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,6,6
+    B,6,0,T,1,3,/,6,6,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,7,/,0,0
+    B,6,0,T,1,7,/,1,8
+    B,6,0,T,1,7,/,2,2
+    B,6,0,T,1,7,/,2,2,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,1,2
+    B,6,0,T,7,/,1,6
+    B,6,0,T,7,/,1,8
+    B
+    B,6,1
+    B,6,1,H
+    B,6,1,H,1,3,/,0,0
+    B
+    B,6,1
+    B,6,1,H
+    B,6,1,H,1,3,/,0,0
+    B,6,1,H,1,3,/,3,4
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,1,5,/,0,0
+    B,6,1,L,1,5,/,0,0,7,2
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,2,5,/,0,0
+    B,6,1,L,2,5,/,0,2
+    B,6,1,L,2,5,/,0,2,1
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,2,5,/,0,0
+    B,6,1,L,2,5,/,0,2
+    B,6,1,L,2,5,/,0,2,5
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,3,/,0,0
+    B,6,1,L,3,/,0,0,6
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,1,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,6
+    B,6,0,L,2,2,4,0,/,6,6,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,1,5,/,0,0
+    B,6,1,L,1,5,/,0,0,9
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,2,2,0,1,/,0,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+8
+    2015-10-06,Application filed by Toshiba Corp
+    2015-10-06,Priority to JP2015198458A
+    2016-09-14,Priority to US15/265,310
+    2017-04-13,Publication of JP2017073869A
+    2020-02-12,Application granted
+    2020-02-12,Publication of JP6643030B2
+    Status,Active
+    2035-10-06,Anticipated expiration
+
+active_area
+1
+    J,P
+
+not_active_area
+1
+    U,S
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2015198458A,2015-10-06,回生電力量推定装置、ブレーキ計画立案装置および回生電力量推定方法
+
+legal_event
+15
+    Date,Code,Title,Description
+    2017-02-20,RD01,Notification of change of attorney,Free format text: JAPANESE INTERMEDIATE CODE: A7421Effective date: 20170220
+    2018-02-22,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20180222
+    2018-08-31,RD01,Notification of change of attorney,Free format text: JAPANESE INTERMEDIATE CODE: A7421Effective date: 20180831
+    2018-11-21,A977,Report on retrieval,Free format text: JAPANESE INTERMEDIATE CODE: A971007Effective date: 20181121
+    2018-11-30,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20181130
+    2019-01-25,RD01,Notification of change of attorney,Free format text: JAPANESE INTERMEDIATE CODE: A7421Effective date: 20190125
+    2019-01-28,A601,Written request for extension of time,Free format text: JAPANESE INTERMEDIATE CODE: A601Effective date: 20190128
+    2019-03-29,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20190329
+    2019-08-02,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20190802
+    2019-08-30,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20190830
+    2019-11-28,TRDD,Decision of grant or rejection written,
+    2019-12-06,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20191206
+    2020-01-08,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20200106
+    2020-01-08,R151,Written notification of patent or utility model registration,Ref document number: 6643030Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R151
+

@@ -1,0 +1,324 @@
+ID
+    US9221354B2
+citation_exist
+    Patent Citations (16)
+citation_infor
+18
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20020171397A1                      *,2001-05-21,2002-11-21,Cellex Power Products, Inc.,Hybrid energy storage device charge equalization system and method
+    JP2003134604A,2001-10-19,2003-05-09,Hitachi Ltd,Rolling stock
+    JP2008141877A,2006-12-01,2008-06-19,Toshiba Corp,Electric vehicle controller
+    US20090118883A1                      *,2007-11-03,2009-05-07,Gm Global Technology Operations, Inc.,Method for operating an engine in a hybrid powertrain system
+    JP2010088145A,2008-09-29,2010-04-15,Hitachi Ltd,System for driving railway car
+    US20100152938A1                      *,2007-05-15,2010-06-17,Takanori Aoki,Vehicle and control method of vehicle
+    US20100198438A1                      *,2008-04-15,2010-08-05,Toyota Jidosha Kabushiki Kaisha,Control apparatus of hybrid vehicle
+    US20110078999A1                      *,2009-10-01,2011-04-07,Gm Global Technology Operations, Inc.,State of charge catalyst heating strategy
+    US20120007554A1,2010-07-08,2012-01-12,Denso Corporation,Vehicular charge apparatus
+    JP2012121570A,2012-02-01,2012-06-28,Mitsubishi Electric Corp,Vehicle control device and diesel hybrid vehicle system
+    US8321082B2                      *,2010-09-17,2012-11-27,Toyota Jidosha Kabushiki Kaisha,Hybrid vehicle
+    Family To Family Citations,,,,
+    JPH0641305U                      *,1991-10-09,1994-05-31,有限会社アクチュアル・モデリング・インスティテュート,Automatic carrier
+    JP4196867B2                      *,2004-03-31,2008-12-17,株式会社デンソー,Bidirectional buck-boost chopper circuit, inverter circuit using the same, and DC-DC converter circuit
+    JP2008253083A                      *,2007-03-30,2008-10-16,Meidensha Corp,Power supply device for mobile vehicle
+    JP4814825B2                      *,2007-03-30,2011-11-16,公益財団法人鉄道総合技術研究所,Hybrid power system
+    WO2012014324A1                      *,2010-07-30,2012-02-02,三菱電機株式会社,Electric vehicle propulsion control device, and railway vehicle system
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (2)
+              
+
+
+citedBy_exist
+    
+              Cited By (21)
+              
+
+
+citedBy_infor
+23
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20180208137A1                      *,2015-09-11,2018-07-26,Autonetworks Technologies, Ltd.,In-vehicle power supply apparatus
+    US10450962B2                      *,2013-12-23,2019-10-22,Safran Helicopter Engines,Method and a system for reliably starting a turbine engine
+    US10625621B2                      *,2016-10-20,2020-04-21,MAGNETI MARELLI S.p.A.,Electric power system provided with a dual-voltage storage assembly for a vehicle
+    Family To Family Citations,,,,
+    JP6441343B2                      *,2013-08-06,2018-12-19,ボルボ トラック コーポレイション,Hybrid vehicle
+    US11214208B2                      *,2013-11-28,2022-01-04,Volvo Truck Corporation,Traction voltage system in a vehicle and method for controlling such a system
+    SE538656C2                      *,2014-10-30,2016-10-11,Scania Cv Ab,Method and system for switching from a first power supply path to a second power supply path
+    US20190023114A1                      *,2016-11-28,2019-01-24,Patrick Nguyen Huu,Auxiliary power system and methods for hybrid vehicles
+    JP6829069B2                      *,2016-12-28,2021-02-10,株式会社東芝,Circuit system for railroad vehicles
+    WO2018160198A1,2017-03-03,2018-09-07,Cummins Inc.,Architecture and control system for electrically-powered accessories of a non-hybrid vehicle
+    DE102017213306A1                      *,2017-08-01,2019-02-07,Siemens Aktiengesellschaft,Energy supply device for a rail vehicle
+    JP2019122201A                      *,2018-01-10,2019-07-22,本田技研工業株式会社,Electric vehicle
+    DE102018205837B3                      *,2018-04-17,2019-09-26,Siemens Aktiengesellschaft,Method for operating a vehicle and vehicle
+    JP7182898B2                      *,2018-04-23,2022-12-05,株式会社東芝,Electric vehicle power supply system
+    DE102018212053B4                      *,2018-07-19,2020-07-09,Siemens Mobility GmbH,Methods and devices for charging at least one energy storage device of a rail vehicle
+    FR3092531B1                      *,2019-02-08,2021-02-19,Alstom Transp Tech,Electric power supply system for railway vehicle
+    GB2592986B                      *,2020-03-13,2022-11-02,Hitachi Rail Ltd,Drive system for a railway vehicle
+    CN112549993A                      *,2020-12-16,2021-03-26,三一重型装备有限公司,Vehicle driving device, driving method, vehicle, driving apparatus, and storage medium
+    EP4020789A1                      *,2020-12-23,2022-06-29,Hamilton Sundstrand Corporation,Motor drive system
+    FR3119572A1                      *,2021-02-10,2022-08-12,Alstom Transport Technologies,traction vehicle incorporating an electrical energy storage device
+    EP4134269A1                      *,2021-08-12,2023-02-15,Lilium eAircraft GmbH,Power distribution system for an electric air vehicle
+    GB202202861D0                      *,2022-03-02,2022-04-13,Rolls Royce Plc,Electric aircraft propulsion assembly and method
+
+abstract
+    A propulsion control apparatus of an electric motor vehicle includes a first power converter that operates as a DC/AC converter, an AC/DC converter, or a DC/DC converter, a second power converter that operates as a DC/AC converter, an AC/DC converter, or a DC/DC converter, a first power storage device and a second power storage device functioning as a direct-current power supply source that is charged using direct-current power supplied from a direct-current common section or a first input output end side or discharges direct-current power to the direct-current common section or the first input and output end side, and a control device that controls operations of the first power converter, the second power converter, the first power storage device, and the second power storage device.
+title
+    Propulsion control apparatus of electric motor vehicle and control method for propulsion control apparatus
+similar_document
+16
+    Publication,Publication Date,Title
+    US9221354B2,2015-12-29,Propulsion control apparatus of electric motor vehicle and control method for propulsion control apparatus
+    US9174546B2,2015-11-03,Propulsion control apparatus of electric motor vehicle and control method for propulsion control apparatus
+    US9227516B2,2016-01-05,Electric vehicle propulsion control device and railway vehicle system
+    US9868355B2,2018-01-16,Propulsion control apparatus for railroad vehicle
+    EP2738034B1,2023-09-27,Electric vehicle propulsion control device
+    US9434259B2,2016-09-06,Electric vehicle control apparatus
+    JP5830443B2,2015-12-09,Railway vehicle drive system
+    US9346363B2,2016-05-24,Propulsion control apparatus of engine hybrid railroad vehicle
+    WO2011099193A1,2011-08-18,Vehicle system, method of controlling vehicle system, and transportation system
+    JP5281372B2,2013-09-04,Electric railway vehicle drive system
+    JP3972322B2,2007-09-05,Electric vehicle control device
+    Yano et al.,2009,A new on-board energy storage system for the railway rolling stock utilizing the overvoltage durability of traction motors
+    JP2022002447A,2022-01-06,Power storage device, electric motor vehicle controller, and railway system
+    JP2014107944A,2014-06-09,Hybrid vehicle
+    Yano,2011,A New On-Board Energy Storage System for the Rolling Stock
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    40
+classfication_items
+193
+    B,6,0,L,1,1,/,1,8,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B,6,0,L,1,1,/,0,0,2
+    B,6,0,L,1,1,/,0,8
+    B,6,0,L,1,1,/,1,8,0,1
+    B,6,0,L,1,1,/,1,8,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,9,/,0,0
+    B,6,0,L,9,/,1,6
+    B,6,0,L,9,/,1,8
+    B,6,0,L,9,/,2,2
+    F
+    F,0,2
+    F,0,2,N
+    F,0,2,N,1,1,/,0,0
+    F,0,2,N,1,1,/,0,8
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,3,/,0,0
+    H,0,2,P,3,/,0,6
+    H,0,2,P,3,/,0,8
+    H,0,2,P,3,/,1,4
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,6,/,0,0
+    H,0,2,P,6,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,2,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,1,6
+    Y,0,2,T,1,0,/,7,2,4,1
+    Y,0,2,T,1,0,/,7,2,5
+
+application_events
+7
+    2012-07-19,Application filed by Mitsubishi Electric Corp
+    2015-01-15,Assigned to MITSUBISHI ELECTRIC CORPORATION
+    2015-07-23,Publication of US20150202978A1
+    2015-12-29,Application granted
+    2015-12-29,Publication of US9221354B2
+    Status,Active
+    2032-07-19,Anticipated expiration
+
+active_area
+3
+    W,O
+    U,S
+    E,P
+
+not_active_area
+2
+    J,P
+    A,U
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2012/068392,2012-07-19,Device and method for controlling propulsion of electric vehicle
+
+legal_event
+5
+    Date,Code,Title,Description
+    2015-01-15,AS,Assignment,Owner name: MITSUBISHI ELECTRIC CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:HATANAKA, KEITA;REEL/FRAME:034769/0399Effective date: 20141219
+    2015-12-09,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2019-06-13,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+    2023-08-21,FEPP,Fee payment procedure,Free format text: MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+

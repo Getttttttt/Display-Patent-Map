@@ -1,0 +1,143 @@
+ID
+    JP2009201208A
+citation_exist
+    Patent Citations (4)
+citation_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH06292305A                      *,1993-04-02,1994-10-18,Aqueous Res:Kk,モータ駆動用電源装置
+    JPH10271611A                      *,1997-03-25,1998-10-09,Nissan Diesel Motor Co Ltd,電気自動車の電源システム
+    JP2002320302A                      *,2001-04-19,2002-10-31,Mitsubishi Heavy Ind Ltd,電源装置
+    Family To Family Citations,,,,
+    JPH04271209A                      *,1991-02-25,1992-09-28,Hino Motors Ltd,Power supply regulation circuit for vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2010124611A                      *,2008-11-20,2010-06-03,Meidensha Corp,直流電源の制御方法および前記直流電源の制御方法を用いた移動車両
+    WO2012017753A1                      *,2010-08-05,2012-02-09,三菱電機株式会社,電力変換装置および車載電源装置
+    Family To Family Citations,,,,
+
+abstract
+    【課題】移動車両電源装置の回生電力を吸収する手段として、電力変換部と並列に電気二重層キャパシタを接続すると、バッテリーに比してキャパシタの抵抗が大きいことから、バッテリー電流のピーク値が大きくなりバッテリーの寿命に悪影響を与えている。【解決手段】バッテリー電圧を検出して微分する。この微分信号と電気二重層キャパシタに対する所望キャパシタ電流実現のための係数との乗算を行って電流指令を生成する。この電流指令とチョッパーを流れる検出電流との差信号を求め、この差信号に応じたゲート信号にてチョッパーを制御することで、電気二重層キャパシタ容量を小くし、大容量のキャパシタを接続したと等価な制御を可能とした。【選択図】  図１
+title
+    移動車用電源装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP6227003B2,2017-11-08,充放電システム
+    JP5464451B2,2014-04-09,コンバータ制御装置
+    WO2011021266A1,2011-02-24,電気車推進用電力変換装置
+    JP5298152B2,2013-09-25,電力変換装置及び鉄道車両用の電力変換装置
+    US20120098507A1,2012-04-26,Converter control device
+    JP4934562B2,2012-05-16,蓄電装置を有する車両用制御装置
+    WO2015049746A1,2015-04-09,交流モータ駆動システム
+    JP5446054B2,2014-03-19,電源システム
+    JP6310938B2,2018-04-11,充放電システム
+    JP2013048513A,2013-03-07,電気自動車
+    JP2011050153A,2011-03-10,電動産業車両
+    JP5012555B2,2012-08-29,移動車用電源装置
+    JP4809271B2,2011-11-09,電気車両の蓄電装置及び蓄電装置システム
+    JP5332214B2,2013-11-06,モータ駆動装置
+    JP2008079436A,2008-04-03,電源制御装置
+    JP2014023263A,2014-02-03,電気自動車
+    JP2011211797A,2011-10-20,昇圧型ｄｃ−ｄｃコンバータ
+    JP5359214B2,2013-12-04,直流電源のチョッパ制御方法および前記直流電源のチョッパ制御方法を用いた移動車両
+    JP2010288414A,2010-12-24,車両の電源装置
+    JP5814156B2,2015-11-17,電動車両およびその制御方法
+    JP2012182936A,2012-09-20,トランス結合型昇圧器の制御装置および制御方法
+    JP2011109776A,2011-06-02,電力変換装置
+    JP2006333683A,2006-12-07,電気二重層キャパシタを用いた電力変換装置
+    JP6240023B2,2017-11-29,電力変換装置及びそれを備えた鉄道車両
+    WO2017159042A1,2017-09-21,電力制御装置および車両
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    JP2008038306A,2008-02-20,2008-02-20,移動車用電源装置
+    PCT/JP2009/052637,2008-02-20,2009-02-17,移動車用電源装置
+
+inventor_number
+    7
+classfication_nums
+    5
+classfication_items
+30
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,3,4
+    H,0,2,J,7,/,3,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+
+application_events
+8
+    2008-02-20,Application filed by Meidensha Corp, Meidensha Electric Manufacturing Co Ltd
+    2008-02-20,Priority to JP2008038306A
+    2009-02-17,Priority to PCT/JP2009/052637
+    2009-09-03,Publication of JP2009201208A
+    2012-08-29,Application granted
+    2012-08-29,Publication of JP5012555B2
+    Status,Active
+    2028-02-20,Anticipated expiration
+
+active_area
+2
+    J,P
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2008038306A,2008-02-20,移動車用電源装置
+
+legal_event
+8
+    Date,Code,Title,Description
+    2010-11-09,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20101108
+    2012-04-27,TRDD,Decision of grant or rejection written,
+    2012-05-09,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20120508
+    2012-05-10,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01
+    2012-06-11,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20120521
+    2012-06-15,FPAY,Renewal fee payment (event date is renewal date of database),Free format text: PAYMENT UNTIL: 20150615Year of fee payment: 3
+    2012-06-15,R150,Certificate of patent or registration of utility model,Ref document number: 5012555Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R150Free format text: JAPANESE INTERMEDIATE CODE: R150
+

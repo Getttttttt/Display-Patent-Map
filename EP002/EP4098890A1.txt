@@ -1,0 +1,249 @@
+ID
+    EP4098890A1
+citation_exist
+    Patent Citations (9)
+citation_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    WO2005024246A1                      *,2003-09-01,2005-03-17,Shin Caterpillar Mitsubishi Ltd.,Working machine driving unit
+    EP3158205A1                      *,2014-06-20,2017-04-26,Parker Hannifin Corporation,Method of controlling velocity of a hydraulic actuator in over-center linkage systems
+    US20180266447A1                      *,2016-11-17,2018-09-20,University Of Manitoba,Pump-Controlled Hydraulic Circuits for Operating a Differential Hydraulic Actuator
+    Family To Family Citations,,,,
+    GB2267328B                      *,1992-05-22,1995-06-14,Linde Ag,Hydrostatic drive system
+    US8857168B2                      *,2011-04-18,2014-10-14,Caterpillar Inc.,Overrunning pump protection for flow-controlled actuators
+    EP2749774A4                      *,2012-07-25,2015-08-05,Ritsumeikan Trust,Hydraulic drive circuit
+    CN105074096B                      *,2013-03-26,2017-03-29,斗山英维高株式会社,The hydraulic system of engineering machinery
+    EP2808109B1                      *,2013-05-28,2018-05-02,HAWE Hydraulik SE,Clamping system
+    US11060533B2                      *,2017-09-12,2021-07-13,University Of Manitoba,Logic-controlled flow compensation circuit for operating single-rod hydrostatic actuators
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    DE102020206197A1                      *,2020-05-18,2021-11-18,Robert Bosch Gesellschaft mit beschränkter Haftung,Hydrostatic drive
+    CN113417897B                      *,2021-06-04,2022-05-10,燕山大学,Variable displacement series pump control electric hydrostatic actuator
+    DE102021123910A1                      *,2021-09-15,2023-03-16,HMS - Hybrid Motion Solutions GmbH,Hydraulic drive system with a 4Q pump unit
+
+abstract
+    The present disclosure relates to a blended or hybrid power system with increased operating efficiency. The blended power system combines the advantages of electrical power with the advantages of hydraulic power when delivering power to a hydraulic actuator. The hydraulic power provides higher power density and the electrical power provides high efficiency and control accuracy in the blended power system. In a blended power system, a control system may be configured to select different modes of operation based on the loads encountered in the combined hydraulic and electrohydrostatic system. The blended power system also allows for smooth and uninterrupted transitions between the different modes of operation within the blended power system. Thus, jerkiness in the blended power system may be minimized or eliminated.
+title
+    Optimizing mode transitions between dual power electro-hydrostatic control systems
+similar_document
+21
+    Publication,Publication Date,Title
+    EP4098890A1,2022-12-07,Optimizing mode transitions between dual power electro-hydrostatic control systems
+    CA2776152C,2014-11-18,Regenerative hydraulic systems and methods of use
+    US9080310B2,2015-07-14,Closed-loop hydraulic system having regeneration configuration
+    WO2016041230A1,2016-03-24,Variable-speed volume-control direct-drive all-electric hydraulic excavator drive and energy recovery system
+    US9574329B2,2017-02-21,Shovel and method of controlling shovel
+    EP2270617B1,2017-05-17,Construction equipment having electric control lever
+    EP2800837B1,2018-07-11,Hydraulic hybrid swing drive system for vehicles
+    EP2820313B1,2018-01-10,Digital hydraulic transformer and method for recovering energy and leveling hydraulic system loads
+    EP3102834B1,2020-04-15,Travel and work functions integrated into a hydraulic hybrid system
+    WO2007044130A1,2007-04-19,Hybrid hydraulic system and work machine using same
+    JPWO2014017475A1,2016-07-11,Hydraulic drive circuit
+    US20230046319A1,2023-02-16,Dual power electro-hydraulic motion control system
+    US20130098459A1,2013-04-25,Closed-Loop Hydraulic System Having Flow Combining and Recuperation
+    US11781289B2,2023-10-10,Electro-hydraulic drive system for a machine
+    EP2811077B1,2018-10-03,Boom driving system for hybrid excavator and control method therefor
+    US11788256B2,2023-10-17,Dual architecture for an electro-hydraulic drive system
+    EP3973110B1,2023-07-05,A method of controlling a rotatable load, a hydraulic system and a working machine
+    Hyon et al.,2022,Hydraulic Servo Booster for Serially Configured Modular Robots
+    Zhi et al.,2018,Redundancy Design of a New Electrically Powered Actuator for Aerospace Application
+    CN115478572A,2022-12-16,Engineering mechanical equipment and distributed electric hydrostatic hydraulic driving system thereof
+
+patent_application
+2
+    Application,Priority date,Filing date,Relation,Title
+    EP20730973.3A,2019-05-28,2020-05-21,Division,Optimizing mode transitions between dual power electro-hydrostatic control systems
+
+patent_priority_application
+    NoExist
+inventor_number
+    5
+classfication_nums
+    19
+classfication_items
+131
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,5,/,0,0
+    F,1,5,B,1,5,/,1,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,1,/,0,0
+    F,1,5,B,2,1,/,0,8
+    F,1,5,B,2,1,/,0,8,2
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F,1,5,B,1,1,/,1,6
+    F,1,5,B,1,1,/,1,7
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,1,/,0,0
+    F,1,5,B,2,1,/,1,4
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,0,7
+    F,1,5,B,2,2,1,1,/,2,0,5,1,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,3
+    F,1,5,B,2,2,1,1,/,2,0,5,6,1
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,3
+    F,1,5,B,2,2,1,1,/,2,0,5,6,9
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,7,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,1
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,7
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,3,0
+    F,1,5,B,2,2,1,1,/,3,0,5
+    F,1,5,B,2,2,1,1,/,3,0,5,6
+    F,1,5,B,2,2,1,1,/,3,0,5,6,5
+    F,1,5,B,2,2,1,1,/,3,0,5,7
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,3,0
+    F,1,5,B,2,2,1,1,/,3,1,5
+    F,1,5,B,2,2,1,1,/,3,1,5,7
+    F,1,5,B,2,2,1,1,/,3,1,5,7,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,1
+    F,1,5,B,2,2,1,1,/,6,1,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,0,6
+    F,1,5,B,2,2,1,1,/,6,3,1,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,6,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,6,5
+    F,1,5,B,2,2,1,1,/,6,6,5,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,0,5
+    F,1,5,B,2,2,1,1,/,7,0,5,1
+    F,1,5,B,2,2,1,1,/,7,0,5,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,8,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,8,0
+    F,1,5,B,2,2,1,1,/,8,8
+
+application_events
+3
+    2020-05-21,Application filed by Danfoss Power Solutions II Technology AS
+    2022-12-07,Publication of EP4098890A1
+    Status,Pending
+
+active_area
+4
+    E,P
+    U,S
+    E,P
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    US201962853476P,2019-05-28,
+    PCT/EP2020/025238,2020-05-21,Optimizing mode transitions between dual power electro-hydrostatic control systems
+    EP20730973.3A,2020-05-21,Optimizing mode transitions between dual power electro-hydrostatic control systems
+
+legal_event
+14
+    Date,Code,Title,Description
+    2022-11-04,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2022-11-04,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+    2022-12-07,AC,Divisional application: reference to earlier application,Ref document number: 3976974Country of ref document: EPKind code of ref document: P
+    2022-12-07,AK,Designated contracting states,Kind code of ref document: A1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2023-04-28,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+    2023-05-31,17P,Request for examination filed,Effective date: 20230424
+    2023-05-31,RBV,Designated contracting states (corrected),Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2023-08-23,P01,Opt-out of the competence of the unified patent court (upc) registered,Effective date: 20230713
+    2023-08-30,RIC1,Information provided on ipc code assigned before grant,Ipc: F15B  21/14        20060101ALN20230725BHEPIpc: F15B  11/17        20060101ALN20230725BHEPIpc: F15B  21/08        20060101AFI20230725BHEP
+    2023-09-20,GRAP,Despatch of communication of intention to grant a patent,Free format text: ORIGINAL CODE: EPIDOSNIGR1
+    2023-09-20,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: GRANT OF PATENT IS INTENDED
+    2023-10-11,RIC1,Information provided on ipc code assigned before grant,Ipc: F15B  21/14        20060101ALN20230904BHEPIpc: F15B  11/17        20060101ALN20230904BHEPIpc: F15B  21/08        20060101AFI20230904BHEP
+    2023-10-18,INTG,Intention to grant announced,Effective date: 20230921
+

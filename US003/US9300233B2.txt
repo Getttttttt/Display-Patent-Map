@@ -1,0 +1,293 @@
+ID
+    US9300233B2
+citation_exist
+    Patent Citations (13)
+citation_infor
+15
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5629567A                      *,1995-06-26,1997-05-13,General Electric Company,Speed control system for an AC locomotive
+    US5982045A                      *,1996-04-19,1999-11-09,Toyota Jidosha Kabushiki Kaisha,Hybrid vehicle drive system adapted to prevent concurrent mode change and transmission shifting or torque distribution ratio change
+    US7227332B2                      *,2001-12-26,2007-06-05,Aisin Aw Co., Ltd.,Driving control device and method for electric vehicle and program therefor
+    JP2008030515A,2006-07-26,2008-02-14,Toyota Motor Corp,Hybrid vehicle
+    JP2008182841A,2007-01-25,2008-08-07,Toyota Motor Corp,Electric vehicle
+    JP2010274788A,2009-05-28,2010-12-09,Toyota Motor Corp,Control unit of power transmission device for hybrid vehicle
+    JP2012016280A,2004-10-26,2012-01-19,Fuji Electric Co Ltd,Motor drive system
+    WO2013057831A1,2011-10-21,2013-04-25,トヨタ自動車株式会社,Vehicle control device
+    Family To Family Citations,,,,
+    JP2003333704A                      *,2002-05-16,2003-11-21,Mitsubishi Heavy Ind Ltd,Method and apparatus for driving of tracked vehicle
+    US7277304B2                      *,2005-09-23,2007-10-02,Gm Global Technology Operations, Inc.,Multiple inverter system with single controller and related operating method
+    US7279862B1                      *,2006-08-04,2007-10-09,Gm Global Technology Operations, Inc.,Fault handling of inverter driven PM motor drives
+    JP2009280176A                      *,2008-05-26,2009-12-03,Toyota Motor Corp,Controller for vehicular power transmission device
+    DE102009045351A1                      *,2009-10-06,2011-04-14,Robert Bosch Gmbh,Method for operating a drive unit and drive unit
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (13)
+              
+
+
+citedBy_infor
+15
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    CN110098779A                      *,2014-11-14,2019-08-06,爱信艾达株式会社,Control device for inverter
+    DE102015200122B4,2015-01-08,2016-11-03,Robert Bosch Gmbh,Method and device for operating a motor vehicle with a safety device for compensating erroneous torques
+    EP3270509A4                      *,2015-03-12,2018-12-12,Mitsubishi Electric Corporation,Ac rotating electric machine control device and electric power steering control device
+    JP6553414B2                      *,2015-06-04,2019-07-31,株式会社日立産機システム,Power converter
+    JP6252569B2                      *,2015-09-10,2017-12-27,トヨタ自動車株式会社,Hybrid vehicle
+    JP6394551B2                      *,2015-09-30,2018-09-26,株式会社デンソー,Control device
+    JP6330782B2                      *,2015-10-27,2018-05-30,トヨタ自動車株式会社,Hybrid vehicle
+    JP6426584B2                      *,2015-11-02,2018-11-21,トヨタ自動車株式会社,Hybrid vehicle
+    DE102016211498A1                      *,2016-06-27,2017-12-28,Robert Bosch Gmbh,Method and device for external monitoring of power electronics
+    CN108248456B                      *,2018-01-08,2020-01-07,衢州职业技术学院,Distributed control system and distributed control method for electric automobile
+    EP3819176A4,2018-09-27,2021-09-15,Aisin Aw Co., Ltd.,Control device for vehicle drive device
+    CN110949133B                      *,2019-12-17,2021-08-13,东风航盛（武汉）汽车控制系统有限公司,High-speed protection method for rotary transformer fault of electric automobile
+    CN111038263A                      *,2019-12-24,2020-04-21,西安法士特汽车传动有限公司,Motor failure safety control method, readable storage medium and terminal equipment
+
+abstract
+    A vehicle including an AC rotating electric machine, an inverter, and an electronic control unit is provided. When an overcurrent abnormality occurs, i.e., phase current of a motor-generator exceeds a permissible value, in a high rotational speed region, the electronic control unit performs control (upshift control) for shifting up an automatic transmission provided between the motor-generator and driving wheels, or control (neutral control) for bringing the transmission into a released state, so as to reduce the rotational speed of the motor-generator. If phase current is detected even when an all-gate turn-off command is generated to the inverter while the rotational speed of the motor-generator is reduced to be within a low rotational speed region under the upshift control or neutral control, the electronic control unit determines that a short-circuit fault occurs in the inverter.
+title
+    Vehicle including rotating electric machine, inverter, and electronic control unit; and control method for the same
+similar_document
+26
+    Publication,Publication Date,Title
+    US9300233B2,2016-03-29,Vehicle including rotating electric machine, inverter, and electronic control unit; and control method for the same
+    US7999499B2,2011-08-16,Rotating electrical machine control system and vehicle drive system
+    JP4179351B2,2008-11-12,Power supply system, vehicle equipped with the same, method for controlling power supply system, and computer-readable recording medium recording a program for causing computer to execute control of power supply system
+    EP2244370B1,2019-10-09,Motor drive apparatus, hybrid drive apparatus and method for controlling motor drive apparatus
+    JP4665809B2,2011-04-06,Electric motor drive control system
+    JP4232789B2,2009-03-04,Stop control device and stop control method for internal combustion engine
+    JP5842875B2,2016-01-13,Vehicle and vehicle control method
+    US9873424B2,2018-01-23,Hybrid vehicle
+    EP3162608B1,2019-05-08,Limp-home mode for hybrid vehicle
+    US20130069570A1,2013-03-21,PWM Strategy for Reduction of Inverter Hotspot Temperature and Overall Losses
+    US10005454B2,2018-06-26,Hybrid vehicle
+    US20150069938A1,2015-03-12,Hybrid vehicle and method for controlling hybrid vehicle
+    JP4780020B2,2011-09-28,Electric vehicle, electric vehicle control method, and computer-readable recording medium storing a program for causing a computer to execute the electric vehicle control method
+    JP2010041751A,2010-02-18,Rotary electric machine control system and vehicle drive system
+    US20170057491A1,2017-03-02,Hybrid vehicle
+    JP2013207831A,2013-10-07,Electric vehicle
+    JP2016141304A,2016-08-08,Electronic control device
+    JP2012175769A,2012-09-10,Electric vehicle
+    JP2012110189A,2012-06-07,Electric system for motor-driven vehicle and control method therefor
+    JP2010200582A,2010-09-09,Vehicle
+    JP5928442B2,2016-06-01,Vehicle power supply
+    JP2012186905A,2012-09-27,Electrical system of electric vehicle and control method thereof
+    JP2011083072A,2011-04-21,Electric system
+    JP6365054B2,2018-08-01,Electric vehicle
+    US20170072942A1,2017-03-16,Hybrid vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    27
+classfication_items
+166
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,6,/,0,0
+    H,0,2,P,6,/,0,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,4
+    B,6,0,K,6,/,4,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,0
+    B,6,0,W,1,0,/,1,1
+    B,6,0,W,1,0,/,1,1,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,5,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,8
+    B,6,0,L,2,2,4,0,/,4,8,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,0
+    B,6,0,L,2,2,4,0,/,5,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,9
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,5,8
+
+application_events
+7
+    2014-06-02,Application filed by Toyota Motor Corp
+    2014-06-02,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2014-12-18,Publication of US20140368142A1
+    2016-03-29,Application granted
+    2016-03-29,Publication of US9300233B2
+    Status,Active
+    2034-06-02,Anticipated expiration
+
+active_area
+3
+    J,P
+    U,S
+    C,N
+
+not_active_area
+1
+    D,E
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2013-123383,2013-06-12,
+    JP2013123383A,2013-06-12,Vehicle
+
+legal_event
+4
+    Date,Code,Title,Description
+    2014-06-02,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:UCHIDA, KENJI;REEL/FRAME:033008/0820Effective date: 20140508
+    2016-03-09,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2019-09-12,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

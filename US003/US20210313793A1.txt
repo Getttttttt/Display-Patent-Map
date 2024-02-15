@@ -1,0 +1,287 @@
+ID
+    US20210313793A1
+citation_exist
+    Patent Citations (4)
+citation_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    KR20110105034A,2010-03-18,2011-09-26,전자부품연구원,Electric vehicle
+    DE112016000520T5                      *,2015-01-29,2017-12-28,Mitsubishi Electric Corporation,Energy conversion device
+    JP6330782B2                      *,2015-10-27,2018-05-30,トヨタ自動車株式会社,Hybrid vehicle
+    JP6705555B2                      *,2017-03-22,2020-06-03,アイシン・エィ・ダブリュ株式会社,Vehicle drive controller
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    CN113978256B                      *,2021-11-10,2023-10-20,华人运通(江苏)技术有限公司,Control method, device and equipment for double DCDC of electric automobile and storage medium
+    CN115071450A                      *,2022-08-03,2022-09-20,盐城工学院,Closed-loop control parallel composite power supply braking energy recovery control system and working method thereof
+
+abstract
+    A system for protecting a vehicle inverter from overvoltage includes a first inverter having switching elements and converting energy from an energy storage device into AC power. A first motor is driven by receiving the converted AC power. A second inverter is connected in parallel with the first inverter, includes a switching elements, and converts energy from the energy storage device into AC power. A second motor is driven by receiving the converted AC power. A first capacitor is connected in parallel between the first inverter and the energy storage device and stores electric energy of the first motor during regenerative braking. A controller turns off a relay connecting the energy storage device and the motor when a voltage of the first capacitor is equal to or greater than a predetermined voltage and operates the switching elements in the inverters in response to first and second current commands.
+title
+    System and method for protecting inverter in vehicle from overvoltage
+similar_document
+26
+    Publication,Publication Date,Title
+    US11299062B2,2022-04-12,Motor drive device
+    US8045301B2,2011-10-25,Motor drive device
+    KR101408412B1,2014-06-17,Drive control apparatus of motor
+    US9493092B2,2016-11-15,Electric automobile
+    US9065376B2,2015-06-23,Method for checking the plausibility of the torque of an electric machine and machine controller for controlling an electric machine and for carrying out the method
+    US8274247B2,2012-09-25,Rotary electric machine control system
+    US11626723B2,2023-04-11,System and method for protecting inverter in vehicle from overvoltage
+    CN108365676B,2020-08-28,Emergency power supply control method and device for high-speed power supply fault of electric automobile
+    US8446113B2,2013-05-21,Vehicular electrical system and method for controlling an inverter during motor deceleration
+    US9440540B2,2016-09-13,Electric vehicle and control method
+    EP3612847B1,2023-08-02,Vehicle and control method thereof and system
+    US9873352B2,2018-01-23,Vehicle control system and control method
+    US20190199270A1,2019-06-27,Drive device
+    JP4905204B2,2012-03-28,Load drive device
+    CN109130881B,2022-02-01,Truck and method for controlling driving motor mounted on truck for traveling
+    US20200144643A1,2020-05-07,System and method of controlling air compressor motor for fuel cell vehicle and system and method of controlling operation of fuel cell vehicle using same
+    US10815925B2,2020-10-27,Vehicle and control method for vehicle
+    KR102383246B1,2022-04-05,Method for controlling hybrid vehicle
+    KR20210126412A,2021-10-20,System and method for protecting inverter in vehicle from overvoltage
+    US20220077795A1,2022-03-10,Motor control device
+    JP6269328B2,2018-01-31,Synchronous motor control device and vehicle control system including the same
+    Tursini et al.,2014,A fault tolerant e-motor drive system for auxiliary services in hybrid electric light commercial vehicle
+    US20230361705A1,2023-11-09,Control apparatus for rotating electric machine
+    US20230286389A1,2023-09-14,Motor generator control system and hybrid vehicle
+    US20210006193A1,2021-01-07,Rotating machine power conversion device
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    28
+classfication_items
+185
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,3,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    H
+    H,0,2
+    H,0,2,H
+    H,0,2,H,1,/,0,0
+    H,0,2,H,1,/,0,0,0,7
+    H
+    H,0,2
+    H,0,2,H
+    H,0,2,H,3,/,0,0
+    H,0,2,H,3,/,2,0
+    H
+    H,0,2
+    H,0,2,H
+    H,0,2,H,7,/,0,0
+    H,0,2,H,7,/,1,0
+    H,0,2,H,7,/,1,2
+    H,0,2,H,7,/,1,2,2
+    H
+    H,0,2
+    H,0,2,H
+    H,0,2,H,7,/,0,0
+    H,0,2,H,7,/,1,0
+    H,0,2,H,7,/,1,2
+    H,0,2,H,7,/,1,2,2
+    H,0,2,H,7,/,1,2,2,2
+    H
+    H,0,2
+    H,0,2,H
+    H,0,2,H,7,/,0,0
+    H,0,2,H,7,/,1,0
+    H,0,2,H,7,/,1,2
+    H,0,2,H,7,/,1,2,2
+    H,0,2,H,7,/,1,2,2,7
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,0,2
+    H,0,2,M,7,/,0,4
+    H,0,2,M,7,/,0,6
+    H,0,2,M,7,/,0,8
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,4,2
+    H,0,2,M,7,/,4,4
+    H,0,2,M,7,/,4,8
+    H,0,2,M,7,/,5,3
+    H,0,2,M,7,/,5,3,7
+    H,0,2,M,7,/,5,3,8,7
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,4,2
+    H,0,2,M,7,/,4,4
+    H,0,2,M,7,/,4,8
+    H,0,2,M,7,/,5,3
+    H,0,2,M,7,/,5,3,7
+    H,0,2,M,7,/,5,3,9
+    H,0,2,M,7,/,5,3,9,5
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,6,6
+    H,0,2,M,7,/,6,8
+    H,0,2,M,7,/,7,2
+    H,0,2,M,7,/,7,9
+    H,0,2,M,7,/,7,9,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,7
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,1
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,4,0,0,/,0,0
+    B,6,0,Y,2,4,0,0,/,3,0
+    B,6,0,Y,2,4,0,0,/,3,0,8
+    B,6,0,Y,2,4,0,0,/,3,0,8,6
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,0,0,6,7
+    H,0,2,M,1,/,0,0,8
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,6,6
+    H,0,2,M,7,/,6,8
+    H,0,2,M,7,/,7,2
+    H,0,2,M,7,/,7,9
+    H,0,2,M,7,/,8,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+
+application_events
+3
+    2020-09-29,Application filed by Hyundai Motor Co, Kia Motors Corp
+    2021-10-07,Publication of US20210313793A1
+    Status,Abandoned
+
+active_area
+3
+    U,S
+    D,E
+    C,N
+
+not_active_area
+1
+    U,S
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    KR10-2020-0040624,2020-04-03,
+    KR1020200040624A,2020-04-03,System and method for protecting inverter in vehicle from overvoltage
+
+legal_event
+3
+    Date,Code,Title,Description
+    2021-04-27,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2021-11-06,STCB,Information on status: application discontinuation,Free format text: ABANDONED  --  FAILURE TO RESPOND TO AN OFFICE ACTION
+

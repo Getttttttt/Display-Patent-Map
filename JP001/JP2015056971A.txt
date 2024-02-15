@@ -1,0 +1,288 @@
+ID
+    JP2015056971A
+citation_exist
+    Patent Citations (6)
+citation_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2003134683A                      *,2001-10-29,2003-05-09,Nissan Motor Co Ltd,組電池の制御装置
+    JP2004093551A                      *,2002-07-12,2004-03-25,Toyota Motor Corp,バッテリ充電状態推定装置
+    JP2009037962A                      *,2007-08-03,2009-02-19,Toyota Motor Corp,二次電池の異常検出装置および異常検出方法
+    WO2011111350A1                      *,2010-03-08,2011-09-15,三洋電機株式会社,バッテリ制御装置、バッテリシステム、電動車両、移動体、電力貯蔵装置および電源装置
+    JP2012109069A                      *,2010-11-16,2012-06-07,Honda Motor Co Ltd,電池保護装置および電池保護方法
+    JP2012237665A                      *,2011-05-12,2012-12-06,Toyota Motor Corp,電池の状態推定装置
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (11)
+              
+
+
+citedBy_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2017085755A                      *,2015-10-27,2017-05-18,本田技研工業株式会社,蓄電装置、輸送機器及び制御方法
+    JP2018098143A                      *,2016-12-16,2018-06-21,三菱自動車工業株式会社,セル電圧推定装置
+    JP6381723B1                      *,2017-04-04,2018-08-29,三菱電機株式会社,回転電機の制御装置および制御方法
+    CN109795368A                      *,2017-11-16,2019-05-24,丰田自动车株式会社,电源控制系统和电源控制方法
+    CN109835211A                      *,2017-11-29,2019-06-04,丰田自动车株式会社,电动车辆
+    WO2019117083A1                      *,2017-12-11,2019-06-20,パナソニックＩｐマネジメント株式会社,車載充電システム
+    JP2019149921A                      *,2018-02-28,2019-09-05,株式会社デンソー,車両制御装置
+    JP2021010293A                      *,2019-07-02,2021-01-28,台達電子工業股▲ふん▼有限公司Ｄｅｌｔａ Ｅｌｅｃｔｒｏｎｉｃｓ，Ｉｎｃ．,充電器および充電方法
+    Family To Family Citations,,,,
+    US10348236B2                      *,2016-10-25,2019-07-09,Gm Global Technology Operations Llc.,Electric motor power connection prognosis systems and methods
+    FR3076908B1                      *,2018-01-16,2021-01-01,Renault Sas,Procede de detection d'une cellule defaillante dans une batterie electrique
+    DE102018211724A1                      *,2018-07-13,2020-01-16,Robert Bosch Gmbh,Verfahren zum Betrieb eines Batteriemoduls
+
+abstract
+    【課題】バッテリ監視装置の異常時に、車両の走行を維持させつつ、全てのセルの閉回路電圧が所定の上下限電圧以内となるような充放電制御が可能な回転電機駆動システムの提供。【解決手段】回転電機駆動システムでは、複数のセル５７０の開回路電圧の平均値に対する複数の各セルの開回路電圧の相関値がバッテリ監視装置５１０から出力され、異常判定部８１０により異常が検出された場合には、バッテリ状態推定部８００は、異常状態の検出以前にバッテリ監視装置５１０から入力された相関値と、電流センサ２４０および電圧センサ２３０の出力とに基づいて、各セル５７０の開回路電圧および内部抵抗を推定し、モータ制御装置１００は、バッテリ状態推定部８００で推定された各セル５７０の開回路電圧および内部抵抗に基づいてモータ３００のトルクを制御する。【選択図】図２
+title
+    電動車両の回転電機駆動システム、バッテリシステムおよび回転電機制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP5970437B2,2016-08-17,電動車両の回転電機駆動システム、バッテリシステムおよび回転電機制御装置
+    JP5932596B2,2016-06-08,車両の回生制御装置
+    EP2502774B1,2015-02-25,Vehicle and method for controlling vehicle
+    JP4116609B2,2008-07-09,電源制御装置、電動車両および電池制御ユニット
+    CN103079897B,2015-03-25,车辆用控制装置及车辆用控制方法
+    US9963043B2,2018-05-08,Control system and vehicle power supply
+    JP5370492B2,2013-12-18,車両および車両の制御方法
+    EP2670018B1,2019-06-26,Electric vehicle battery system
+    US9676288B2,2017-06-13,Battery open-circuit voltage measurement using reverse current pulse
+    EP3245096A1,2017-11-22,Method and arrangement for determining a value of the state of energy of a battery in a vehicle
+    EP3245095B1,2018-10-31,Method and device for controlling an electric or a hybrid electric vehicle
+    JP5720620B2,2015-05-20,車両
+    CN111071097A,2020-04-28,显示装置和包括显示装置的车辆
+    US20120187899A1,2012-07-26,Power supply system, vehicle provided with same, and control method of power supply system
+    JP7095587B2,2022-07-05,電池システム、電動車両およびその制御方法
+    JP5401239B2,2014-01-29,電池制御装置
+    US9944195B2,2018-04-17,Method for operating a battery system
+    JP2013198179A,2013-09-30,車両制御装置および車両
+    EP3924215A1,2021-12-22,A method for management of an energy storage system of a vehicle
+    CN103707886A,2014-04-09,用于车辆中电机的控制策略
+    US11180051B2,2021-11-23,Display apparatus and vehicle including the same
+    CN114537161A,2022-05-27,电池组中的模块检测
+    JP5975925B2,2016-08-23,電池制御装置、蓄電装置
+    JP6400582B2,2018-10-03,エネルギー損失を制限する電気機械を制御する方法
+    JP2022141013A,2022-09-29,電池システムおよびバッテリの電圧推定方法
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    JP2013189262A,2013-09-12,2013-09-12,電動車両の回転電機駆動システム、バッテリシステムおよび回転電機制御装置
+    PCT/JP2014/065406,2013-09-12,2014-06-11,電動車両の回転電機駆動システム、バッテリシステムおよび回転電機制御装置
+
+inventor_number
+    11
+classfication_nums
+    26
+classfication_items
+162
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,8
+    H,0,1,M,1,0,/,4,8,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,4
+    H,0,1,M,1,0,/,4,4,1
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,1,3
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,2,9
+    H,0,2,J,7,/,0,0,3,0,8
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,4,7
+    H,0,2,J,7,/,0,0,4,8
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,1,4
+    H,0,2,J,7,/,1,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,4,4
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,2,2,2,0,/,0,0
+    H,0,1,M,2,2,2,0,/,2,0
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+9
+    2013-09-12,Application filed by Hitachi Automotive Systems Ltd
+    2013-09-12,Priority to JP2013189262A
+    2014-06-11,Priority to PCT/JP2014/065406
+    2015-03-23,Publication of JP2015056971A
+    2015-12-10,Publication of JP2015056971A5
+    2016-08-17,Application granted
+    2016-08-17,Publication of JP5970437B2
+    Status,Active
+    2033-09-12,Anticipated expiration
+
+active_area
+2
+    J,P
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2013189262A,2013-09-12,電動車両の回転電機駆動システム、バッテリシステムおよび回転電機制御装置
+
+legal_event
+9
+    Date,Code,Title,Description
+    2015-10-21,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20151021
+    2015-10-21,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20151021
+    2016-06-07,TRDD,Decision of grant or rejection written,
+    2016-06-14,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20160614
+    2016-07-14,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20160711
+    2016-07-15,R150,Certificate of patent or registration of utility model,Ref document number: 5970437Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R150
+    2021-03-15,S533,Written request for registration of change of name,Free format text: JAPANESE INTERMEDIATE CODE: R313533
+    2021-04-09,R350,Written notification of registration of transfer,Free format text: JAPANESE INTERMEDIATE CODE: R350
+

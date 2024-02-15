@@ -1,0 +1,223 @@
+ID
+    US8593101B2
+citation_exist
+    Patent Citations (8)
+citation_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH10191503A,1996-12-24,1998-07-21,Toyota Motor Corp,Control device of hybrid automobile
+    US20030146726A1                      *,2002-02-05,2003-08-07,Toyota Jidosha Kabushiki Kaisha,Load driver with power storage unit
+    JP2004112883A,2002-09-17,2004-04-08,Toyota Motor Corp,Electric load device, abnormality processing method, and computer readable recording medium recorded with program for processing abnormality of electric load
+    US7400104B2                      *,2003-01-10,2008-07-15,Toyota Jidosha Kabushiki Kaisha,Voltage converting device, computer readable recording medium with program recorded thereon for causing computer to execute failure processing, and failure processing method
+    US7990085B2                      *,2007-06-05,2011-08-02,Hitachi, Ltd.,Generator control unit
+    Family To Family Citations,,,,
+    JP3469918B2                      *,1993-08-12,2003-11-25,信濃電気株式会社,Uninterruptible power system
+    JP3333833B2                      *,1995-08-16,2002-10-15,いすゞ自動車株式会社,Automotive power converter
+    JP3223842B2                      *,1997-06-03,2001-10-29,富士電機株式会社,Multi-phase output power conversion circuit
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (13)
+              
+
+
+citedBy_infor
+15
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20140216842A1                      *,2011-08-30,2014-08-07,Tsuyoshi Hayashi,Vehicle
+    US9216707B2                      *,2014-03-13,2015-12-22,GM Global Technology Operations LLC,Motor generator unit with multiplexed output
+    EP3118988A1                      *,2015-07-16,2017-01-18,Hamilton Sundstrand Corporation,Fault tolerant electric power generating system
+    US10050572B2,2014-12-19,2018-08-14,Black & Decker Inc.,Power tool with electric motor and auxiliary switch path
+    Family To Family Citations,,,,
+    US20120268045A1                      *,2011-04-25,2012-10-25,Omar Eyas Abdel Rahim El-Qawasmeh,Method and apparatus for braking an electric motor
+    JP5858309B2                      *,2012-11-28,2016-02-10,富士電機株式会社,Power conversion system and control method thereof
+    CN104118331B                      *,2013-04-28,2016-08-10,西门子公司,Motor of hybrid power automobile drive circuit
+    CN103532348A                      *,2013-10-22,2014-01-22,南车株洲电力机车研究所有限公司,Functional unit cabinet of high-power semiconductor convertor
+    US9783070B2                      *,2014-02-14,2017-10-10,Jabil Circuit, Inc.,Charge transfer system
+    TWI525982B                      *,2014-04-21,2016-03-11,台達電子工業股份有限公司,Soft-start protection circuit and mototr driving circuit
+    CN104079230B                      *,2014-07-07,2016-09-28,神王伟国,The method of asynchronous motor efficiency-optimization control, device, system and electric automobile
+    CN106452127B                      *,2016-10-08,2018-11-09,珠海格力电器股份有限公司,Voltage adjusting method, device and double IPM module drivers
+    CA3039076C,2016-10-19,2020-03-24,Imalog Inc.,Hybrid rectifier
+
+abstract
+    A power converting device is disclosed that can reduce switching loss occurring in a voltage source inverter that drives an AC motor. It is possible to supply DC power to the voltage source inverter from both a voltage source rectifier, which converts AC power from an AC generator into DC power, and a battery. A first switching circuit is inserted between the voltage source rectifier and the AC generator, and the battery is connected to the output side of the voltage source rectifier. A second switching circuit is inserted between the battery and the voltage source inverter. A third switching circuit and a reactor are inserted in series between the input side of the voltage source inverter and the input side of the voltage source rectifier. At least one of an upper arm and a lower arm of the voltage source rectifier can be chopper controlled.
+title
+    Power converting device with reduced switching loss
+similar_document
+26
+    Publication,Publication Date,Title
+    US8593101B2,2013-11-26,Power converting device with reduced switching loss
+    EP2538543B1,2019-08-21,Power conversion apparatus
+    US7859201B2,2010-12-28,Charge control apparatus, electrically powered vehicle and electric storage charge control method
+    US7122991B2,2006-10-17,Power conversion and vehicle
+    US8659182B2,2014-02-25,Power supply system and electric powered vehicle including power supply system, and method for controlling power supply system
+    US9327604B2,2016-05-03,Electric vehicle control apparatus and electric vehicle
+    US10189357B2,2019-01-29,Reduced ripple converter for hybrid drive systems
+    US9315112B2,2016-04-19,Power source apparatus for electrically powered vehicle and control method therefor
+    KR101147286B1,2012-05-18,Motor control device, drive device, and hybrid drive device
+    US8297389B2,2012-10-30,Load driving system and electric vehicle using the system
+    US8110948B2,2012-02-07,Power conversion apparatus and method
+    US9849806B1,2017-12-26,Current based six step control
+    CN107521354B,2020-06-16,Driving system and driving method of electric automobile
+    KR20130063893A,2013-06-17,Dc-dc converter control system for green car and method thereof
+    US9093929B2,2015-07-28,Circuit arrangements and methods for operating an electrical machine
+    US11040634B2,2021-06-22,Power electronics apparatus and control method for an electric machine and for electrical energy stores
+    US10618423B2,2020-04-14,Isolated dual bus hybrid vehicle drivetrain
+    CN101111990A,2008-01-23,Control device for variable speed alternating current motor
+    US10903772B2,2021-01-26,Multigroup-multiphase rotating-electric-machine driving apparatus
+    JP2011182521A,2011-09-15,Power supply system, and vehicle mounting the same
+    JP4827679B2,2011-11-30,Battery charging / discharging device for railway vehicles
+    CN111231702B,2022-07-26,Fuel cell automobile power system based on double-source motor
+    US20200162005A1,2020-05-21,Partial-load phase deactivation of polyphase electric machine
+    CN111697906A,2020-09-22,Buck-boost converter for an electric drive
+    CN110626183A,2019-12-31,Isolated dual bus hybrid vehicle powertrain system
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    17
+classfication_items
+102
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,4,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B,6,0,L,5,0,/,6,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,7,/,0,0
+    H,0,2,P,2,7,/,0,4
+    H,0,2,P,2,7,/,0,6
+    H,0,2,P,2,7,/,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,2,0,1,/,0,0
+    H,0,2,P,2,2,0,1,/,0,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2011-06-17,Application filed by Fuji Electric Co Ltd
+    2011-09-02,Assigned to FUJI ELECTRIC CO., LTD.
+    2011-12-22,Publication of US20110309778A1
+    2013-11-26,Application granted
+    2013-11-26,Publication of US8593101B2
+    Status,Active
+    2032-05-28,Adjusted expiration
+
+active_area
+2
+    J,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2010-138963,2010-06-18,
+    JP2010138963A,2010-06-18,Power converter
+
+legal_event
+5
+    Date,Code,Title,Description
+    2011-09-02,AS,Assignment,Owner name: FUJI ELECTRIC CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:IWAHORI, MICHIO;REEL/FRAME:026904/0373Effective date: 20110809
+    2013-11-06,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2017-05-11,FPAY,Fee payment,Year of fee payment: 4
+    2021-05-12,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+

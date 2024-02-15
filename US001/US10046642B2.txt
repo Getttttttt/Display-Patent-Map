@@ -1,0 +1,318 @@
+ID
+    US10046642B2
+citation_exist
+    Patent Citations (14)
+citation_infor
+16
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20040038776A1                      *,2001-01-12,2004-02-26,Jochen Kuhstrebe,Method for the operation of a multiple clutching device and a power shift transmission
+    US20090149295A1                      *,2007-12-06,2009-06-11,Hitachi,Ltd.,Vehicle control apparatus and vehicle equipped with the control apparatus
+    US20110118920A1                      *,2009-11-17,2011-05-19,Hyundai Motor Company,Regenerative braking torque compensation device, methods for regenerative braking torque compensation and a hybrid vehicle embodying such devices and methods
+    KR20120082605A,2011-01-14,2012-07-24,현대모비스 주식회사,Method for controlling regenerative braking in vehicle
+    US20130296100A1,2012-05-07,2013-11-07,Ford Global Technologies, Llc,Controlled Regenerative Braking Torque Incrementing in Hybrid Vehicle Downshift
+    KR20140048678A,2012-10-16,2014-04-24,콘티넨탈 오토모티브 시스템 주식회사,Method and apparatus for controlling transmission of hybrid vehicle
+    US20140131124A1,1998-09-14,2014-05-15,Paice Llc,Hybrid vehicles
+    US20150031503A1                      *,2012-03-08,2015-01-29,Toyota Jidosha Kabushiki Kaisha,Hybrid system control device
+    KR101526433B1,2014-07-30,2015-06-05,현대자동차 주식회사,Control method for improving efficiency of regeneration braking
+    US20150360676A1                      *,2013-04-23,2015-12-17,Mitsubishi Electric Corporation,Control device and control method for a hybrid vehicle
+    Family To Family Citations,,,,
+    DE102011077125A1                      *,2011-06-07,2012-12-13,Robert Bosch Gmbh,Method for operating a drive device and device for operating the drive device
+    KR101316314B1                      *,2011-06-09,2013-10-08,기아자동차주식회사,Double Clutch Transmission Control Method for Vehicle
+    DE102013002330A1                      *,2013-02-12,2014-08-14,Getrag Getriebe- Und Zahnradfabrik Hermann Hagenmeyer Gmbh & Cie Kg,A method of operating a hybridized dual clutch transmission drive train
+    WO2014167653A1                      *,2013-04-09,2014-10-16,トヨタ自動車株式会社,Vehicle transmission and control device
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (17)
+              
+
+
+citedBy_infor
+19
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN109414815A                      *,2017-12-13,2019-03-01,深圳配天智能技术研究院有限公司,A kind of robot and its lower electronic compensating method, the device with store function
+    Family To Family Citations,,,,
+    KR101694074B1                      *,2015-11-10,2017-01-18,현대자동차주식회사,Shift control method for hybrid vehicle with dct
+    US10604137B2                      *,2016-10-31,2020-03-31,Ford Global Technologies, Llc,Methods and systems for adapting clutches of a vehicle transmission
+    WO2018118130A1                      *,2016-12-22,2018-06-28,Eaton Corporation,System, method, and apparatus for operating a high efficiency, high output transmission
+    CN107225979B                      *,2017-06-15,2018-11-30,清华大学,A kind of brake control and control method for electric car
+    FR3069220B1                      *,2017-07-24,2021-01-01,Renault Sas,PROCESS FOR CHANGING GEAR CHANGE IN THE RECUPERATIVE BRAKING PHASE
+    CN108177647B                      *,2017-12-28,2020-01-31,潍柴动力股份有限公司,vehicle and control method and device thereof
+    KR102532332B1                      *,2018-02-13,2023-05-16,현대자동차주식회사,Shifting control method for vehicles with dual clutch transmission
+    CN109027217B                      *,2018-09-27,2020-04-07,重庆长安汽车股份有限公司,Gear shifting control method and device of double-clutch transmission and automobile
+    WO2020142914A1                      *,2019-01-09,2020-07-16,舍弗勒技术股份两合公司,Coasting downshift control method and control system
+    KR20200105605A,2019-02-28,2020-09-08,현대자동차주식회사,Shift control method for vehicle with dct
+    CN110159750B                      *,2019-05-09,2020-08-21,中国第一汽车股份有限公司,Power downshift rotating speed adjusting and controlling method for double-clutch automatic transmission
+    IT201900017513A1                      *,2019-09-30,2021-03-30,Ferrari Spa,METHOD OF CONTROL FOR PERFORMING A DOWN SHIFT WHILE AN ACCELERATOR PEDAL IS RELEASED IN A TRANSMISSION FITTED WITH A DOUBLE CLUTCH POWER ASSISTED TRANSMISSION
+    CN111059281A                      *,2020-01-10,2020-04-24,吉利汽车研究院（宁波）有限公司,Control method and system for gear engagement in double-clutch downshift process and vehicle
+    CN111572357A                      *,2020-04-09,2020-08-25,吉利汽车研究院（宁波）有限公司,Downshift deceleration compensation method and device, vehicle and storage medium
+    KR20210155024A                      *,2020-06-12,2021-12-22,현대자동차주식회사,Hybrid electric vehicle and method for compensating motor torque thereof
+    KR102322860B1                      *,2020-06-19,2021-11-08,현대자동차주식회사,Clutch control system using shift information of hybrid vehicle and clutch control method thereof
+
+abstract
+    A control method of a dual clutch transmission for a hybrid electric vehicle includes: determining, by a transmission controller, whether a vehicle has entered a power-off down-shift state; determining, by the transmission controller, whether a transmission including a first input shaft, a second input shaft, and an output shaft has entered a torque phase, when the first determining step determines that the vehicle has entered the power-off down-shift state; calculating a compensatory torque for compensating for a change in a regenerative braking force according to a change of a gear ratio in accordance with a completion percentage of the torque phase, when it is determined that a transmission has entered the torque phase; and compensating for regenerative torque of a motor by applying the compensatory torque.
+title
+    Control method of dual clutch transmission for hybrid electric vehicle and control system for the same
+similar_document
+26
+    Publication,Publication Date,Title
+    US10046642B2,2018-08-14,Control method of dual clutch transmission for hybrid electric vehicle and control system for the same
+    US10099693B2,2018-10-16,Control method of dual clutch transmission for hybrid electric vehicle and control system for the same
+    US10363821B2,2019-07-30,Method for controlling regenerative braking of vehicle
+    US9267481B2,2016-02-23,Hybrid vehicle engine start control system
+    JP5045431B2,2012-10-10,Engine start control device for hybrid vehicle
+    CN106671972B,2021-05-18,Shift control method of hybrid vehicle having dual clutch transmission
+    KR101427932B1,2014-08-08,Shift control method and system of hybrid electric vehicle including motor speed control
+    KR101393562B1,2014-05-09,Method and system for controlling driving mode conversion of a hybrid electric vehicle
+    WO2013005843A1,2013-01-10,Control device
+    US20140303822A1,2014-10-09,Control device for hybrid vehicle
+    WO2013077401A1,2013-05-30,Control device for vehicle drive device
+    US9014899B2,2015-04-21,Method and system for controlling downshift for hybrid vehicle
+    WO2013005844A1,2013-01-10,Control device
+    KR101756026B1,2017-07-10,Shifting control method for hybrid vehicles
+    JP2007314066A,2007-12-06,Clutch fastening controller for hybrid vehicle
+    JP2013112190A,2013-06-10,Control device
+    CN107487318B,2022-04-12,System and method for controlling a vehicle powertrain
+    KR20190134984A,2019-12-05,Control apparatus for hybrid vehicle
+    JP2008044523A,2008-02-28,Motor drive controller for hybrid car
+    KR20190034730A,2019-04-03,Shift control method for hybrid electric vehicle
+    KR101776535B1,2017-09-07,Shift control method for hybrid electric vehicle
+    US10343676B2,2019-07-09,Synchronization control method for engine clutch lock-up in hybrid electric vehicle
+    KR102463719B1,2022-11-07,Shift control method for vehicle
+    KR102598559B1,2023-11-06,Control method for power-off downshift of hybrid electric vehicle
+    CN110312628B,2023-02-03,Method for compensating for wheel torque interruption in the event of a change in the brake ratio
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    30
+classfication_items
+181
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,5,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,0
+    B,6,0,W,1,0,/,1,1
+    B,6,0,W,1,0,/,1,1,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B,6,0,W,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,6,1,/,0,0
+    F,1,6,H,6,1,/,0,4
+    F,1,6,H,6,1,/,0,4,3,7
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,6,1,/,0,0
+    F,1,6,H,6,1,/,6,8
+    F,1,6,H,6,1,/,6,8,4
+    F,1,6,H,6,1,/,6,8,8
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,6,3,/,0,0
+    F,1,6,H,6,3,/,4,0
+    F,1,6,H,6,3,/,5,0
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,6,3,/,0,0
+    F,1,6,H,6,3,/,4,0
+    F,1,6,H,6,3,/,5,0
+    F,1,6,H,6,3,/,5,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,8
+    B,6,0,L,2,2,4,0,/,4,8,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,0
+    B,6,0,L,2,2,4,0,/,5,0,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,2
+    B,6,0,W,2,5,1,0,/,0,2,7,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,2
+    B,6,0,W,2,5,1,0,/,0,2,8,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,1,0
+    B,6,0,W,2,5,1,0,/,1,0,0,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,2
+    B,6,0,W,2,7,1,0,/,0,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,0
+    B,6,0,W,2,7,1,0,/,1,0,1,1
+    B,6,0,W,2,7,1,0,/,1,0,1,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,0
+    B,6,0,W,2,7,1,0,/,1,0,5
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,2
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,1,8
+    B,6,0,Y,2,3,0,0,/,1,8,0,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,2,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,6
+
+application_events
+9
+    2016-02-29,Application filed by Hyundai Motor Co, Kia Motors Corp
+    2016-03-28,Assigned to KAI MOTORS CORPORATION, HYUNDAI MOTOR COMPANY
+    2016-05-06,Assigned to HYUNDAI MOTOR COMPANY, KIA MOTORS CORPORATION
+    2016-05-16,Assigned to KIA MOTORS CORPORATION, HYUNDAI MOTOR COMPANY
+    2017-04-06,Publication of US20170096069A1
+    2018-08-14,Application granted
+    2018-08-14,Publication of US10046642B2
+    Status,Active
+    2036-09-17,Adjusted expiration
+
+active_area
+3
+    K,R
+    U,S
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    KR1020150138554A,2015-10-01,Control method of dual clutch transmission for hybrid electric vehicle and control system for the same
+    KR10-2015-0138554,2015-10-01,
+
+legal_event
+6
+    Date,Code,Title,Description
+    2016-03-28,AS,Assignment,Owner name: KAI MOTORS CORPORATION, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:CHO, SUNG HYUN;LEE, YOUNG JUN;REEL/FRAME:038116/0073Effective date: 20160215Owner name: HYUNDAI MOTOR COMPANY, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:CHO, SUNG HYUN;LEE, YOUNG JUN;REEL/FRAME:038116/0073Effective date: 20160215
+    2016-05-06,AS,Assignment,Owner name: HYUNDAI MOTOR COMPANY, KOREA, REPUBLIC OFFree format text: CORRECTIVE ASSIGNMENT TO CORRECT THE ADDRESS OF THE FIRST ASSIGNEE AND THE NAME OF THE SECOND ASSIGNEE PREVIOUSLY RECORDED AT REEL: 038116 FRAME: 0073. ASSIGNOR(S) HEREBY CONFIRMS THE ASSIGNMENT;ASSIGNORS:CHO, SUNG HYUN;LEE, YOUNG JUN;REEL/FRAME:038630/0382Effective date: 20160215Owner name: KIA MOTORS CORPORATION, KOREA, REPUBLIC OFFree format text: CORRECTIVE ASSIGNMENT TO CORRECT THE ADDRESS OF THE FIRST ASSIGNEE AND THE NAME OF THE SECOND ASSIGNEE PREVIOUSLY RECORDED AT REEL: 038116 FRAME: 0073. ASSIGNOR(S) HEREBY CONFIRMS THE ASSIGNMENT;ASSIGNORS:CHO, SUNG HYUN;LEE, YOUNG JUN;REEL/FRAME:038630/0382Effective date: 20160215
+    2016-05-16,AS,Assignment,Owner name: HYUNDAI MOTOR COMPANY, KOREA, REPUBLIC OFFree format text: CORRECTIVE ASSIGNMENT TO CORRECT THE ADDRESS OF THE FIRST ASSIGNEE AND THE SPELLING OF THE SECOND ASSIGNEE. PREVIOUSLY RECORDED AT REEL: 038116 FRAME: 0073. ASSIGNOR(S) HEREBY CONFIRMS THE ASSIGNMENT;ASSIGNORS:CHO, SUNG HYUN;LEE, YOUNG JUN;REEL/FRAME:038709/0675Effective date: 20160215Owner name: KIA MOTORS CORPORATION, KOREA, REPUBLIC OFFree format text: CORRECTIVE ASSIGNMENT TO CORRECT THE ADDRESS OF THE FIRST ASSIGNEE AND THE SPELLING OF THE SECOND ASSIGNEE. PREVIOUSLY RECORDED AT REEL: 038116 FRAME: 0073. ASSIGNOR(S) HEREBY CONFIRMS THE ASSIGNMENT;ASSIGNORS:CHO, SUNG HYUN;LEE, YOUNG JUN;REEL/FRAME:038709/0675Effective date: 20160215
+    2018-07-25,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2022-01-24,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

@@ -1,0 +1,388 @@
+ID
+    US9616757B2
+citation_exist
+    Patent Citations (12)
+citation_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH08126116A,1994-10-25,1996-05-17,Aqueous Res:Kk,Hybrid vehicle
+    US6177773B1                      *,1998-09-18,2001-01-23,Honda Giken Kogyo Kabushiki Kaisha,Regeneration control device for a hybrid vehicle
+    JP2001054203A,1999-08-06,2001-02-23,Mitsubishi Motors Corp,Regenerative braking device of vehicle
+    JP2004101245A,2002-09-05,2004-04-02,Toshiba Corp,Network interlocking-type integrated drive control system
+    US20060022519A1                      *,2004-05-10,2006-02-02,Ji Sang W,Method for controlling regenerative braking of a belt-driven hybrid vehicle
+    JP3931457B2,1998-12-22,2007-06-13,トヨタ自動車株式会社,Charge control device for hybrid vehicle
+    KR20080053561A,2006-12-11,2008-06-16,현대자동차주식회사,System and method for control battery charge of hev
+    KR100896216B1,2007-11-06,2009-05-07,정연종,Battery prediction control algorism for hybrid electric vehicle
+    US20110276209A1                      *,2008-11-20,2011-11-10,Toyota Jidosha Kabushiki Kaisha,Hybrid vehicle and method of controlling hybrid vehicle
+    JP2012147554A,2011-01-11,2012-08-02,Toyota Motor Corp,Vehicle controller
+    Family To Family Citations,,,,
+    ES2855473T3,2010-10-18,2021-09-23,Univ Case Western Reserve,Aspherical GRIN lens
+    CN104284823B                      *,2012-05-08,2017-06-20,沃尔沃拉斯特瓦格纳公司,EMS and saving of fuel method for hybrid electric vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (23)
+              
+
+
+citedBy_infor
+25
+    Publication number,Priority date,Publication date,Assignee,Title
+    US10046752B2                      *,2016-06-09,2018-08-14,Toyota Jidosha Kabushiki Kaisha,Control device for hybrid vehicle
+    US20180326953A1                      *,2015-11-25,2018-11-15,Mitsubishi Heavy Industries Engineering ,Ltd.,Brake control device, brake control method, train, and program
+    US20190322179A1                      *,2018-04-20,2019-10-24,Audi Ag,Method for operating a motor vehicle
+    US10933874B2                      *,2018-11-12,2021-03-02,Hyundai Motor Company,Braking control system and method for an environmentally friendly vehicle
+    US20220212542A1                      *,2021-01-07,2022-07-07,Ford Global Technologies, Llc,Regenerative braking control system for a hybrid or electric vehicle
+    Family To Family Citations,,,,
+    US9849870B2                      *,2013-07-11,2017-12-26,Toyota Jidosha Kabushiki Kaisha,Hybrid vehicle having switch control function of travel mode based on map information
+    JP6319053B2                      *,2014-11-06,2018-05-09,トヨタ自動車株式会社,Vehicle driven by motor, and control method of charge / discharge of secondary battery mounted on vehicle
+    US11247552B2,2015-08-03,2022-02-15,Cummins, Inc.,Systems and methods of energy management and control of an electrified powertrain
+    US10894482B2,2015-08-07,2021-01-19,Cummins, Inc.,Systems and methods of battery management and control for a vehicle
+    US10435007B2,2015-09-23,2019-10-08,Cummins, Inc.,Systems and methods of engine stop/start control of an electrified powertrain
+    EP3386804B1,2015-12-10,2023-07-26,Cummins, Inc.,Systems and methods of energy management and control of vehicle accessories
+    DE102016004755A1,2016-04-20,2017-10-26,Audi Ag,Recuperation braking on a vehicle
+    US10457271B2,2016-12-13,2019-10-29,Ford Global Technologies, Llc,Enhanced engine and battery operation
+    NZ767681A                      *,2017-01-25,2022-11-25,SEA Automotive Pty Ltd,Management system for commercial electric vehicles
+    CN107139732B                      *,2017-04-01,2020-09-11,苏州汇川联合动力系统有限公司,Synchronous motor energy feedback protection method and system
+    KR101838512B1                      *,2017-04-04,2018-03-14,현대자동차주식회사,Hybrid vehicle and method of controlling charge mode
+    CN108790876B                      *,2018-06-06,2020-08-04,北京新能源汽车股份有限公司,Method and device for adjusting feedback power of electric automobile and automobile
+    US20200055402A1                      *,2018-08-14,2020-02-20,Sf Motors, Inc.,Adaptive off-throttle regenerative braking
+    US11548494B2                      *,2019-02-11,2023-01-10,Ford Global Technologies, Llc,Lap learning for vehicle energy management optimization
+    CN111469671A                      *,2020-04-27,2020-07-31,徐州徐工汽车制造有限公司,Energy feedback control system and electric commercial vehicle
+    CN114537216A                      *,2020-11-27,2022-05-27,厦门雅迅网络股份有限公司,Electric vehicle energy management method based on curve prediction, terminal device and storage medium
+    CN112848921A                      *,2021-01-27,2021-05-28,奇瑞新能源汽车股份有限公司,Downhill method and device of electric automobile and vehicle
+    CN113479072B                      *,2021-07-14,2023-04-07,中国第一汽车股份有限公司,Control method for improving drivability of electric vehicle under energy recovery working condition
+
+abstract
+    A method and apparatus for controlling regenerative braking of a vehicle are provided. The method of controlling regenerative braking of a vehicle includes: receiving information regarding the scheduled driving route from a path information providing device, estimating a regenerable segment based on the information regarding the scheduled driving route and calculating a regenerable energy amount based on the regenerable segment, calculating a dischargeable energy amount based on the regenerable energy amount and setting a dischargeable segment and a discharge control amount based on the dischargeable energy amount, controlling discharge of a battery based on the discharge control amount at the dischargeable segment and measuring an actually discharged actual discharge energy amount; and controlling regenerative braking of a battery based on a regeneration control amount at the regenerable segment and measuring actually regenerated entire regeneration energy amount.
+title
+    Method and apparatus for controlling regenerative braking of vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US9616757B2,2017-04-11,Method and apparatus for controlling regenerative braking of vehicle
+    CN106560361B,2020-04-10,Method and apparatus for controlling hybrid electric vehicle
+    US20170008408A1,2017-01-12,Method for controlling output of low voltage dc-dc converter in vehicle and low voltage dc-dc converter of vehicle
+    US8781659B2,2014-07-15,Technique for controlling transition between EV mode and HEV mode in hybrid vehicle
+    US9278682B2,2016-03-08,System and method for controlling auto cruise of hybrid electric vehicle
+    CN105905107B,2020-04-07,Battery state of charge targeting based on vehicle inclination
+    US9267556B2,2016-02-23,Apparatus and method for determining engine clutch transfer torque of environmentally-friendly vehicle
+    US9481251B2,2016-11-01,Method and apparatus for controlling regenerative braking of hybrid electric vehicle
+    US9796290B2,2017-10-24,Method and apparatus of controlling output voltage of DC converter for vehicle including driving motor
+    US20160052420A1,2016-02-25,Device and method for controlling battery soc of hybrid vehicle
+    JP2018509880A,2018-04-05,Method and apparatus for determining the value of the energy state of a battery in an automobile
+    KR102574116B1,2023-09-05,Vehicle and method for controlling the vehicle
+    US9660558B2,2017-05-23,System and method for controlling regenerative braking of electric vehicle
+    US20160107634A1,2016-04-21,System and method for controlling torque of hybrid vehicle
+    US9527502B1,2016-12-27,Method and apparatus for controlling plug-in hybrid electric vehicle
+    US20160068151A1,2016-03-10,Method for controlling coasting torque of hybrid vehicle
+    US9371069B2,2016-06-21,Apparatus and method for controlling engine clutch of hybrid electric vehicle
+    US20180134273A1,2018-05-17,Method for determining optimal operating point for hybrid electric vehicle
+    US11414064B2,2022-08-16,Hybrid vehicle and driving control method for the same
+    CN108621803B,2022-07-15,Server and method for controlling regenerative braking of eco-friendly vehicle
+    US11352001B2,2022-06-07,Method for controlling deceleration of environmentally friendly vehicle
+    US9791039B1,2017-10-17,Apparatus and method for shift control of vehicle
+    Karden,2017,Development trends for future automobiles and their demand on the battery
+    CN106347371B,2020-08-28,Apparatus and method for controlling operation of vehicle engine
+    KR100897114B1,2009-05-14,Torque control method in brake operation of electric vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    49
+classfication_items
+251
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B,6,0,L,1,1,/,1,4
+    B,6,0,L,1,1,/,1,8,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,5,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B,6,0,K,2,0,0,6,/,4,8,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B,6,0,L,2,2,4,0,/,6,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,8,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,5,0
+    B,6,0,L,2,2,6,0,/,5,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,5,0
+    B,6,0,L,2,2,6,0,/,5,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,2,/,0,0
+    B,6,0,W,2,5,5,2,/,1,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,2,/,0,0
+    B,6,0,W,2,5,5,2,/,3,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,4,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,5,/,0,0
+    B,6,0,W,2,5,5,5,/,6,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,1,0
+    B,6,0,W,2,7,2,0,/,1,0,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,0,5
+    Y,0,2,T,1,0,/,7,0,4,4
+    Y,0,2,T,1,0,/,7,0,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y,0,2,T,1,0,/,7,0,7,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,4,1
+    Y,0,2,T,1,0,/,7,2,8,3
+    Y,0,2,T,1,0,/,7,2,9,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+7
+    2014-11-16,Application filed by Hyundai Motor Co
+    2014-11-16,Assigned to HYUNDAI MOTOR COMPANY
+    2015-11-26,Publication of US20150336458A1
+    2017-04-11,Application granted
+    2017-04-11,Publication of US9616757B2
+    Status,Active
+    2035-01-01,Adjusted expiration
+
+active_area
+1
+    U,S
+
+not_active_area
+3
+    K,R
+    D,E
+    C,N
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    KR1020140060457A,2014-05-20,Regenerative braking method for vehicle and apparatus of the same
+    KR10-2014-0060457,2014-05-20,
+
+legal_event
+5
+    Date,Code,Title,Description
+    2014-11-16,AS,Assignment,Owner name: HYUNDAI MOTOR COMPANY, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:LEE, JUN YONG;JUNG, MIN YOUNG;KIM, DAE KWANG;REEL/FRAME:034180/0229Effective date: 20141111
+    2016-12-08,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYFree format text: PAYER NUMBER DE-ASSIGNED (ORIGINAL EVENT CODE: RMPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2017-03-22,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2020-09-08,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

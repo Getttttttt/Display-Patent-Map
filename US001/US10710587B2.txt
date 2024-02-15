@@ -1,0 +1,292 @@
+ID
+    US10710587B2
+citation_exist
+    Patent Citations (12)
+citation_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2007223582A,2006-01-27,2007-09-06,Hino Motors Ltd,Automatic brake control device
+    JP2015153407A,2014-02-19,2015-08-24,日立建機株式会社,Electric driving mine dump track and operation guide method therefor
+    JP2015225541A,2014-05-28,2015-12-14,日立建機株式会社,Vehicle management system
+    JP2015225394A,2014-05-26,2015-12-14,日立建機株式会社,Traffic management server
+    JP2016022804A,2014-07-17,2016-02-08,日立建機株式会社,Dump track for mine
+    US20160130788A1                      *,2014-11-07,2016-05-12,Caterpillar Inc.,Machine Activity Monitor with Speed Based Conditional
+    US20160167519A1                      *,2014-12-10,2016-06-16,Gogoro Inc.,Systems and methods of adaptive regenerative braking and collision avoidance for electrically powered vehicles
+    Family To Family Citations,,,,
+    CN1210943A                      *,1998-05-23,1999-03-17,朱天赉,Agricultural machinery of mechanical energy and integrated device
+    JP6084766B2                      *,2011-05-10,2017-02-22,株式会社小松製作所,Power management system for mines
+    CN102897155B                      *,2012-09-27,2014-01-08,安科智慧城市技术（中国）有限公司,Collision avoidance system and automatic braking method of electric automobile
+    CN103171586B                      *,2013-04-18,2015-05-13,向正国,Safety device of flexible tramcar
+    JP5997364B2                      *,2014-12-26,2016-09-28,株式会社小松製作所,Mining machine, mining machine management system, and mining machine management method
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (11)
+              
+
+
+citedBy_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    US10908271B2                      *,2016-09-23,2021-02-02,Hitachi Construction Machinery Co., Ltd.,Mining work machine and obstacle discrimination device
+    Family To Family Citations,,,,
+    RU2668138C1                      *,2015-06-03,2018-09-26,Ниссан Мотор Ко., Лтд.,Vehicle control device and vehicle control method
+    CN107539192B                      *,2016-06-29,2019-08-13,比亚迪股份有限公司,A kind of electronic mine dumper
+    KR102429505B1                      *,2017-12-28,2022-08-05,현대자동차주식회사,Apparatus and method for controlling regenerative braking of vehicle
+    US10883256B2                      *,2018-05-25,2021-01-05,Deere & Company,Object responsive control system for a work machine
+    JP2020124001A                      *,2019-01-29,2020-08-13,株式会社日立インダストリアルプロダクツ,Regenerative brake system and electric drive vehicle
+    JP7318541B2                      *,2020-01-17,2023-08-01,株式会社アドヴィックス,Braking control device
+    JP2022057862A                      *,2020-09-30,2022-04-11,株式会社アドヴィックス,Brake control device
+    JP2022057786A                      *,2020-09-30,2022-04-11,株式会社アドヴィックス,Brake control device
+    JP2022113287A                      *,2021-01-25,2022-08-04,トヨタ自動車株式会社,Vehicle collision avoidance support apparatus
+    US11639181B2                      *,2021-09-29,2023-05-02,Nissan North America, Inc.,Lead vehicle braking warning system
+
+abstract
+    An electrically-driven mining vehicle includes an obstacle detector, a speed detector, and an alarm. The alarm outputs a first warning, which urges an operator of the electrically-driven mining vehicle to operate a regenerative brake pedal that actuates only the regenerative brake device, and a second warning, which urges the operator to operate a cooperative brake pedal that uses the regenerative brake device and the mechanical brake device in combination. If the travel speed of the vehicle is included in a low speed range in which no difference can be considered to exist in distance between a first braking distance upon actuation of only the regenerative brake device and a second braking distance upon operation of a cooperative braking, a signal for performing the first warning is outputted earlier by at least a warning time interval.
+title
+    Electrcally-driven mining vehicle and brake operation guiding method in electrically-driven mining vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US10710587B2,2020-07-14,Electrcally-driven mining vehicle and brake operation guiding method in electrically-driven mining vehicle
+    US8260538B2,2012-09-04,Vehicle-use collision mitigation apparatus
+    JP5199676B2,2013-05-15,Vehicle collision avoidance system or collision mitigation system and method for operating the same
+    US9308914B1,2016-04-12,Advanced driver assistance system for vehicle
+    US9079571B2,2015-07-14,Method for operating a brake assist device and brake assist device for a vehicle
+    US7184889B2,2007-02-27,Collision-prediction unit for a vehicle
+    US9959762B1,2018-05-01,Apparatus and method for generating warning in vehicle
+    KR20190055738A,2019-05-23,Drive assist apparatus
+    US9469297B2,2016-10-18,Driving assistance apparatus for vehicle
+    KR20160111069A,2016-09-26,Autonomous emergency braking system and control method thereof
+    US20180208192A1,2018-07-26,Arrangement and method for mitigating a forward collision between road vehicles
+    JP2016170728A,2016-09-23,Collision avoidance device
+    US20180194347A1,2018-07-12,Collision avoidance control device and collision avoidance control method for vehicle
+    US10611349B2,2020-04-07,Vehicular collision avoidance control device and vehicular collision avoidance control method
+    US20180154891A1,2018-06-07,Control system and control method for driving a motor vehicle
+    US20190362632A1,2019-11-28,Avoidance of Collision with Cross-Traffic
+    JP6175379B2,2017-08-02,Electric drive mine dump truck and operation guide method thereof
+    US11518397B2,2022-12-06,Driving assistance apparatus
+    JP2007501151A,2007-01-25,Method and apparatus for assisting vehicle driver during emergency braking process
+    KR20170068062A,2017-06-19,Apparatus and method for avoiding rear collision of vehicle
+    EP3326873B1,2021-10-20,Collision avoidance control device for vehicle, and a collision avoidance control method
+    KR102540791B1,2023-06-08,System for warning rear collision of vehicles and method thereof
+    KR20140095612A,2014-08-04,Apparatus for saftely driving construction vehicle and method thereof
+    KR101511862B1,2015-04-13,Driver assistance systems and controlling method for the same
+    US11772619B2,2023-10-03,Estimated-acceleration determination for automatic emergency braking
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    30
+classfication_items
+162
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B,6,0,W,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,0,8
+    B,6,0,W,3,0,/,0,9,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,0,8
+    B,6,0,W,3,0,/,0,9,5
+    B,6,0,W,3,0,/,0,9,5,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    G
+    G,0,8
+    G,0,8,G
+    G,0,8,G,1,/,0,0
+    G,0,8,G,1,/,1,6
+    G
+    G,0,8
+    G,0,8,G
+    G,0,8,G,1,/,0,0
+    G,0,8,G,1,/,1,6
+    G,0,8,G,1,/,1,6,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,1,4
+    B,6,0,W,2,0,5,0,/,1,4,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,1,4
+    B,6,0,W,2,0,5,0,/,1,4,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,4,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y,0,2,T,1,0,/,6,2,1,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y,0,2,T,1,0,/,7,0,7,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,7,5
+
+application_events
+7
+    2017-09-12,Application filed by Hitachi Construction Machinery Co Ltd
+    2018-08-30,Assigned to HITACHI CONSTRUCTION MACHINERY CO., LTD.
+    2019-02-28,Publication of US20190061763A1
+    2020-07-14,Application granted
+    2020-07-14,Publication of US10710587B2
+    Status,Active
+    2038-01-29,Adjusted expiration
+
+active_area
+4
+    J,P
+    C,N
+    E,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2016-179845,2016-09-14,
+    JP2016179845A,2016-09-14,Electric drive mining vehicle and brake operation guide method therefor
+    PCT/JP2017/032928,2017-09-12,Electrically-driven mining vehicle and brake operation guiding method in electrically-driven mining vehicle
+
+legal_event
+7
+    Date,Code,Title,Description
+    2018-08-30,AS,Assignment,Owner name: HITACHI CONSTRUCTION MACHINERY CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:TAKEDA, KOEI;UOTSU, SHINICHI;REEL/FRAME:046748/0829Effective date: 20180820
+    2018-08-30,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2019-01-24,FEPP,Fee payment procedure,Free format text: PETITION RELATED TO MAINTENANCE FEES GRANTED (ORIGINAL EVENT CODE: PTGR); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2019-02-07,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2020-06-12,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2020-06-24,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

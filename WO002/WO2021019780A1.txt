@@ -1,0 +1,142 @@
+ID
+    WO2021019780A1
+citation_exist
+    Patent Citations (4)
+citation_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2007037217A                      *,2005-07-22,2007-02-08,Nissan Motor Co Ltd,車両駆動システム
+    JP2008238836A                      *,2007-03-24,2008-10-09,Nissan Motor Co Ltd,車両の制御装置
+    JP2011067018A                      *,2009-09-17,2011-03-31,Toyota Motor Corp,変速制御装置
+    JP2011230542A                      *,2010-04-23,2011-11-17,Honda Motor Co Ltd,車両
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    TWI766604B                      *,2021-03-05,2022-06-01,台達電子工業股份有限公司,用於電動載具中的速度命令產生單元及速度命令產生方法
+    Family To Family Citations,,,,
+
+abstract
+    前輪を駆動する前輪駆動モータ及び前輪側変速機を有する前輪駆動システムと、後輪を駆動する後輪駆動モータ及び後輪側変速機を有する後輪駆動システムと、を備えた車両において、前輪側変速機による変速である前輪変速、及び後輪側変速機による変速である後輪変速をそれぞれ実行し、前輪変速中における前輪の駆動力抜け及び後輪変速中における後輪の駆動力抜けを、それぞれ後輪の駆動力及び前輪の駆動力で補填する変速制御方法が提供される。この変速制御方法では、車両の加速時において、前輪変速を実行する車速としての前輪変速車速を、後輪変速を実行する車速としての後輪変速車速よりも低く設定する。
+title
+    変速制御方法及び変速制御システム
+similar_document
+26
+    Publication,Publication Date,Title
+    KR102518238B1,2023-04-07,차량의 코스트 리젠 토크 적용 방법
+    CN110035920B,2022-09-02,电动车辆的控制装置、电动车辆的控制系统以及电动车辆的控制方法
+    US7291090B2,2007-11-06,Motor torque control system for vehicle
+    JP4854609B2,2012-01-18,車両の制御装置
+    KR101618453B1,2016-05-04,전기동력자동차의 원-페달 운전제어방법
+    JP2003025861A,2003-01-29,４輪駆動車両の駆動力制御装置
+    JP2005151800A,2005-06-09,四輪駆動電気自動車の回生制動制御方法及びシステム
+    JP6984329B2,2021-12-17,自動車
+    CN110167785B,2022-10-11,电动车辆的控制装置、控制系统及控制方法
+    US20160250929A1,2016-09-01,Vehicle traction control apparatus
+    JP5686721B2,2015-03-18,電動車両の制御装置
+    WO2021019780A1,2021-02-04,変速制御方法及び変速制御システム
+    JP7176360B2,2022-11-22,電動車両
+    US20150088353A1,2015-03-26,Electric vehicle
+    JP7363170B2,2023-10-18,変速制御方法及び変速制御システム
+    KR20190143646A,2019-12-31,차량용 조향 제어방법
+    JP2009035221A,2009-02-19,車両用走行制御装置及びその方法
+    JP7293956B2,2023-06-20,変速制御方法及び変速制御システム
+    WO2015152224A1,2015-10-08,車両の運転支援装置
+    JP2005137063A,2005-05-26,車両用駆動制御装置
+    JP2021030929A,2021-03-01,車両の制動制御装置
+    US20230059585A1,2023-02-23,Controller and control method
+    EP4227144A1,2023-08-16,Control method and control device for electric four-wheel drive vehicle
+    US20230365001A1,2023-11-16,Control Method and Control Device for Electric Four-Wheel Drive Vehicle
+    JP2007203884A,2007-08-16,車両の定速走行制御システム
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    JP2021536586A,2019-08-01,2019-08-01,変速制御方法及び変速制御システム
+    PCT/JP2019/030322,2019-08-01,2019-08-01,変速制御方法及び変速制御システム
+
+inventor_number
+    5
+classfication_nums
+    7
+classfication_items
+37
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,7,/,0,0
+    B,6,0,K,1,7,/,3,4
+    B,6,0,K,1,7,/,3,4,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,2,3,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,6,1,/,0,0
+    F,1,6,H,6,1,/,0,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+4
+    2019-08-01,Application filed by 日産自動車株式会社
+    2019-08-01,Priority to JP2021536586A
+    2019-08-01,Priority to PCT/JP2019/030322
+    2021-02-04,Publication of WO2021019780A1
+
+active_area
+2
+    J,P
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2019/030322,2019-08-01,変速制御方法及び変速制御システム
+
+legal_event
+5
+    Date,Code,Title,Description
+    2021-03-17,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 19939055Country of ref document: EPKind code of ref document: A1
+    2021-10-27,ENP,Entry into the national phase,Ref document number: 2021536586Country of ref document: JPKind code of ref document: A
+    2022-02-02,NENP,Non-entry into the national phase,Ref country code: DE
+    2022-08-10,122,Ep: pct application non-entry in european phase,Ref document number: 19939055Country of ref document: EPKind code of ref document: A1
+

@@ -1,0 +1,187 @@
+ID
+    WO2012157049A1
+citation_exist
+    Patent Citations (5)
+citation_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    WO1994021481A1                      *,1993-03-22,1994-09-29,Seiko Epson Corporation,Electric vehicle
+    JP2005253126A                      *,2004-03-01,2005-09-15,Nissan Motor Co Ltd,ハイブリッド車両の制動力制御装置および該制御装置を搭載した車両
+    JP2005254974A                      *,2004-03-11,2005-09-22,Toyota Motor Corp,車両用温度調節システム
+    JP2007153054A                      *,2005-12-02,2007-06-21,Toyota Motor Corp,車両に搭載された電気機器の冷却装置
+    JP2009056940A                      *,2007-08-31,2009-03-19,Toyota Motor Corp,電池の冷却装置
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    車室から吸引した空気によりバッテリー（５）を冷却する車両に搭載された空調装置（１）は、外気取込口（２）、内気取込口（３）のいずれかから取り込んだ空気を車室に送風する。バッテリー（５）の制御を司るバッテリーＥＣＵ（８）は、外気取込口（２）と内気取込口（３）とから、回生を通じてバッテリー（５）に充電される電力量と空調装置（１）により消費される電力量との電力収支がより良くなる方を選択して空気の取り込みを行うように、空調ＥＣＵ（１１）に対して空気取込口の切り換えを指令する。
+title
+    空調装置の制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    KR101430336B1,2014-08-13,차량 공기 조화 시스템
+    JP5652331B2,2015-01-14,電池温調システムおよび電池充電システム
+    JP4923859B2,2012-04-25,車両用空調装置及びプログラム
+    JP4258503B2,2009-04-30,車両用空調装置
+    JP5590336B2,2014-09-17,空調制御装置
+    JP4840372B2,2011-12-21,冷却液循環装置
+    US20140144998A1,2014-05-29,Air conditioner for vehicle
+    US20130168458A1,2013-07-04,Vehicle air conditioner
+    US20150380785A1,2015-12-31,Temperature regulation device
+    JP2006298134A,2006-11-02,車両用空調装置
+    WO2011152139A1,2011-12-08,車両用空調装置
+    JP2004336832A,2004-11-25,バッテリの温度制御装置
+    US10889162B2,2021-01-12,Vehicle component cooling through directed HVAC cooling and operation
+    US20150097041A1,2015-04-09,Vehicle comprising air conditioning apparatus
+    JP6319009B2,2018-05-09,冷却装置
+    JP2008013115A,2008-01-24,車両用空調装置
+    JP5772646B2,2015-09-02,車両用空調装置
+    JP4670797B2,2011-04-13,車両用電池冷却装置
+    WO2012157049A1,2012-11-22,空調装置の制御装置
+    JP2010006218A,2010-01-14,車両用空調装置
+    WO2009096584A1,2009-08-06,車両用バッテリの保護装置及び方法
+    KR101600300B1,2016-03-07,전기자동차용 공조장치
+    JP2013224105A,2013-10-31,車両用バッテリ冷却装置
+    JP2016088176A,2016-05-23,車両用空調装置
+    CN114193998A,2022-03-18,车辆用控制装置
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    PCT/JP2011/061093,2011-05-13,2011-05-13,空調装置の制御装置
+
+inventor_number
+    6
+classfication_nums
+    15
+classfication_items
+92
+    B
+    B,6,0
+    B,6,0,H
+    B,6,0,H,1,/,0,0
+    B,6,0,H,1,/,0,0,2,7,1
+    B,6,0,H,1,/,0,0,2,7,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B,6,0,L,5,8,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,6,0
+    H,0,1,M,1,0,/,6,1
+    H,0,1,M,1,0,/,6,1,3
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,6,0
+    H,0,1,M,1,0,/,6,6
+    H,0,1,M,1,0,/,6,6,3
+    B
+    B,6,0
+    B,6,0,H
+    B,6,0,H,1,/,0,0
+    B,6,0,H,1,/,0,0,2,7,1
+    B,6,0,H,2,0,0,1,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,3,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,5,0
+    B,6,0,L,2,2,6,0,/,5,6
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+
+application_events
+3
+    2011-05-13,Application filed by トヨタ自動車 株式会社
+    2011-05-13,Priority to PCT/JP2011/061093
+    2012-11-22,Publication of WO2012157049A1
+
+active_area
+1
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2011/061093,2011-05-13,空調装置の制御装置
+
+legal_event
+5
+    Date,Code,Title,Description
+    2013-01-09,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 11865687Country of ref document: EPKind code of ref document: A1
+    2013-11-13,NENP,Non-entry into the national phase,Ref country code: DE
+    2014-07-09,122,Ep: pct application non-entry in european phase,Ref document number: 11865687Country of ref document: EPKind code of ref document: A1
+    2014-07-17,NENP,Non-entry into the national phase,Ref country code: JP
+

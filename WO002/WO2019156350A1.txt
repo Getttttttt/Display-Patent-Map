@@ -1,0 +1,96 @@
+ID
+    WO2019156350A1
+citation_exist
+    Patent Citations (5)
+citation_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2004358984A                      *,2003-06-02,2004-12-24,Railway Technical Res Inst,電鉄用直流電力供給設備
+    JP2005162076A                      *,2003-12-04,2005-06-23,Hitachi Ltd,電鉄用回生電力吸収制御方法及び装置並びに電力変換器の制御装置
+    KR20060083133A                      *,2005-01-14,2006-07-20,주식회사 엘지화학,배터리 팩의 전압 방전 장치 및 방법
+    KR20140013338A                      *,2012-07-23,2014-02-05,한국철도기술연구원,대용량 플라이휠 에너지 저장 시스템 및 그의 병렬 운전 제어 방법
+    JP2015134523A                      *,2014-01-16,2015-07-27,株式会社日立製作所,電気鉄道用電力制御システム及び電気鉄道用電力制御方法
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    본 발명의 ESS의 과부하 운전 방법은, 전력이 입출력되는 선로 가선을 모니터링하여 ESS에 대한 전력 흡수 목표를 정하는 단계; 상기 ESS의 배터리를 모니터링하여 ESS의 충전 한도를 산출하는 단계; 상기 충전 한도 보다 상기 전력 흡수 목표가 초과한 경우, 상기 전력 흡수 목표의 초과 정도에 따라 과부하 운전 PWM 신호를 생성하는 단계; 및 상기 과부하 운전 PWM 신호에 따라 상기 선로 가선에서 상기 ESS의 PCS로 입력되는 전력을 우회시켜 소모하는 단계를 포함할 수 있다. 여기서, 상기 과부하 운전 PWM 신호를 생성하는 단계에서는, 상기 전력 흡수 목표와 상기 ESS의 충전 한도의 차이로서 전력 흡수 목표의 초과량을 산출하고, 상기 과부하 운전 PWM 신호의 듀티비를 상기 ESS의 충전 한도에 대한 상기 전력 흡수 목표의 초과량의 비율을 기준으로 조정할 수 있다.
+title
+    Ess의 과부하 운전 방법 및 장치
+similar_document
+26
+    Publication,Publication Date,Title
+    US10008862B2,2018-06-26,Power storage device, power storage system, and control method of power storage device
+    KR102247391B1,2021-05-03,배터리 시스템
+    US7075306B2,2006-07-11,Power control unit
+    JP5677261B2,2015-02-25,蓄電システム
+    US10230249B2,2019-03-12,Battery pack, method for charging/discharging same, and power consumption device
+    KR101560995B1,2015-10-15,철도 차량 시스템
+    JP2014512788A,2014-05-22,バッテリのための充電均等化システム
+    WO2011030971A1,2011-03-17,직류 전동차 탑재용 회생전력 저장 시스템
+    JP4415874B2,2010-02-17,交通システムの充放電方法
+    WO2012018206A2,2012-02-09,전기자동차의 배터리 제어장치 및 그 제어방법
+    US20100174417A1,2010-07-08,Power supply system, and power supply control method and power supply control program employed in power supply system
+    WO2015102396A1,2015-07-09,에너지 저장 시스템에서 전력 분배 방법 및 장치
+    KR20130126918A,2013-11-21,저전압 영역 및 고전압 영역을 구비한 파워 서플라이 시스템용 배터리 관리 시스템
+    KR20170002085A,2017-01-06,배터리 팩 및 이를 포함하는 전기 자동차의 충전 제어 시스템
+    US10442376B2,2019-10-15,Vehicle power supply control device
+    WO2014021735A1,2014-02-06,Иерархическая система управления батареей электрических накопителей энергии
+    WO2020013614A1,2020-01-16,Ess 충방전 운전 방법
+    US9634500B2,2017-04-25,Storage battery system
+    RU123251U1,2012-12-20,Иерархическая система управления батареей электрических накопителей энергии
+    RU2518453C2,2014-06-10,Иерархическая система управления батареей электрических накопителей энергии
+    WO2019156350A1,2019-08-15,Ess의 과부하 운전 방법 및 장치
+    WO2019151656A1,2019-08-08,Ess 출력 분배 방법 및 장치
+    KR101232218B1,2013-02-12,도시 철도의 회생 에너지 저장 장치
+    JP5978143B2,2016-08-24,蓄電池システム
+    RU2561826C2,2015-09-10,Батарея электрических накопителей энергии с распределенной аналитической системой управления
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    1
+classfication_items
+5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+
+application_events
+2
+    2018-12-27,Application filed by 효성중공업 주식회사
+    2019-08-15,Publication of WO2019156350A1
+
+active_area
+1
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    KR20180015738,2018-02-08,
+    KR10-2018-0015738,2018-02-08,
+
+legal_event
+4
+    Date,Code,Title,Description
+    2019-09-25,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 18905347Country of ref document: EPKind code of ref document: A1
+    2020-08-11,NENP,Non-entry into the national phase,Ref country code: DE
+    2021-02-17,122,Ep: pct application non-entry in european phase,Ref document number: 18905347Country of ref document: EPKind code of ref document: A1
+

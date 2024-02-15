@@ -1,0 +1,168 @@
+ID
+    JPWO2012120564A1
+citation_exist
+    Patent Citations (4)
+citation_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPS62237370A                      *,1986-04-07,1987-10-17,Komatsu Ltd,Detector for residual quantity of electricity in battery
+    JP2000350377A                      *,1999-06-02,2000-12-15,Kawasaki Heavy Ind Ltd,電車搭載バッテリの充電装置
+    JP2002354612A                      *,2001-05-24,2002-12-06,Isuzu Motors Ltd,ハイブリッド自動車の運行システム
+    Family To Family Citations,,,,
+    JP4236676B2                      *,2006-09-07,2009-03-11,株式会社日立製作所,車両駆動システム
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP5362930B1                      *,2013-07-04,2013-12-11,レスク株式会社,電動車両用バッテリ交換システム及びプログラム
+    JP6087870B2                      *,2014-07-23,2017-03-01,トヨタ自動車株式会社,車両
+    CN106394279B                      *,2016-08-30,2018-09-14,吉林大学,一种电动汽车的电子控制系统
+    CN106208262B                      *,2016-08-31,2018-08-14,海赛普新能源高科技（江苏）有限公司,一种铅酸蓄电池延寿、修复装置生产线用供电装置
+
+abstract
+    エネルギー効率の向上効果を維持しつつ二次電池の劣化を抑制し、二次電池の交換期間を長くすることで車両システム全体のランニングコストの低減を図ることができる二次電池の充電制御システムを備えた二次電池装置を提供する。二次電池と、前記二次電池を搭載した車両と、前記車両の位置を検出する位置検出手段と、前記位置検出手段により検出した前記車両の現在位置において前記二次電池が有する電気量と、前記車両の通過予定位置において前記二次電池が有する予定の電気量と、前記車両の現在位置から通過予定位置までの所要時間とに基づいて算出した電流値により、前記車両の現在位置から通過予定位置まで前記二次電池を充電する制御手段を有する。
+title
+    二次電池システム
+similar_document
+26
+    Publication,Publication Date,Title
+    JP6535890B2,2019-07-03,電池管理装置、および電源装置
+    JP5321757B2,2013-10-23,蓄電装置の制御装置および制御方法
+    JP6572448B2,2019-09-11,電池状態推定装置、および電源装置
+    EP2424070B1,2016-10-26,Battery control system and vehicle system with battery control system
+    RU2564102C1,2015-09-27,Устройство управления и способ управления для безводной аккумуляторной батареи
+    JP5741389B2,2015-07-01,蓄電装置の満充電容量推定方法及び蓄電システム。
+    US20150293183A1,2015-10-15,Battery management device, power supply, and soc estimation method
+    JPWO2014132403A1,2017-02-02,二次電池劣化度判定装置
+    JP5412954B2,2014-02-12,車両の制御装置
+    CN105556323A,2016-05-04,电池状态估计装置
+    WO2012120564A1,2012-09-13,二次電池システム
+    WO2015124986A1,2015-08-27,Electric power storage system and method for controlling electric power storage system
+    US20220289065A1,2022-09-15,Management system, management program, and electric vehicle
+    JP6316754B2,2018-04-25,電池管理装置および電源装置
+    US20160344208A1,2016-11-24,Battery managing device and battery managing method
+    JP2014187808A,2014-10-02,蓄電システム
+    US11180051B2,2021-11-23,Display apparatus and vehicle including the same
+    JP2013231663A,2013-11-14,電源装置及びこの電源装置を備える車両
+    JP5724866B2,2015-05-27,監視システムおよび監視方法
+    JP2013243869A,2013-12-05,二次電池の制御装置
+    JP2014081268A,2014-05-08,バッテリシステムとこのバッテリシステムを備える電動車両並びに蓄電装置
+    JP5288140B2,2013-09-11,蓄電器制御装置
+    JP2018098992A,2018-06-21,電圧検出装置及び電圧検出方法
+    JP7116897B2,2022-08-12,充放電制御装置
+    KR20180045694A,2018-05-04,배터리 충전 장치 및 방법
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    12
+classfication_nums
+    12
+classfication_items
+68
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+3
+    2011-03-09,Application filed by Hitachi Ltd
+    2014-07-07,Publication of JPWO2012120564A1
+    Status,Pending
+
+active_area
+2
+    W,O
+    J,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2011/001365,2011-03-09,二次電池システム
+
+legal_event
+2
+    Date,Code,Title,Description
+    2014-06-11,A02,Decision of refusal,Free format text: JAPANESE INTERMEDIATE CODE: A02Effective date: 20140610
+

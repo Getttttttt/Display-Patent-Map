@@ -1,0 +1,223 @@
+ID
+    US9479157B2
+citation_exist
+    Patent Citations (11)
+citation_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH1155936A,1997-07-29,1999-02-26,Mitsubishi Electric Corp,Driving circuit for insulated gate transistor
+    JP2003158868A,2001-11-16,2003-05-30,Nissan Motor Co Ltd,Power semiconductor drive circuit
+    US6720819B1                      *,2003-01-08,2004-04-13,Mitsubishi Denki Kabushiki Kaisha,Driver circuit for semiconductor switching device
+    US7068082B2                      *,2003-07-25,2006-06-27,Kabushiki Kaisha Toshiba,Gate driving circuit and semiconductor device
+    JP2006296119A,2005-04-13,2006-10-26,Nichicon Corp,Drive circuit of semiconductor switching element
+    JP2010075007A,2008-09-22,2010-04-02,Denso Corp,Driver circuit for power conversion circuit
+    WO2012018073A1,2010-08-04,2012-02-09,ローム株式会社,Power module and output circuit
+    Family To Family Citations,,,,
+    JPH07170723A                      *,1993-12-14,1995-07-04,Toshiba Corp,Semiconductor stack
+    JP2008060430A                      *,2006-08-31,2008-03-13,Daikin Ind Ltd,Power converter
+    JP2012199763A                      *,2011-03-22,2012-10-18,Sanken Electric Co Ltd,Gate drive circuit
+    JP5482815B2                      *,2011-06-01,2014-05-07,株式会社デンソー,Power MOSFET drive circuit and element value determination method thereof
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (16)
+              
+
+
+citedBy_infor
+18
+    Publication number,Priority date,Publication date,Assignee,Title
+    US11186193B2                      *,2019-04-22,2021-11-30,Hyundai Motor Company,System and method for controlling charging power of eco-friendly vehicle
+    Family To Family Citations,,,,
+    US9718454B2                      *,2013-11-21,2017-08-01,Cummins Inc.,Hybrid controls architecture
+    WO2016143023A1                      *,2015-03-09,2016-09-15,株式会社安川電機,Gate drive circuit, inverter circuit, and motor control device
+    JP6557074B2                      *,2015-07-02,2019-08-07,ローム株式会社,Drive circuits and modules
+    DE102016100224B3                      *,2016-01-07,2017-05-24,Lisa Dräxlmaier GmbH,Switching device, method and manufacturing method
+    US10514394B2                      *,2016-02-26,2019-12-24,Tektronix, Inc.,Dynamic output clamping for a probe or accessory
+    US10686323B2                      *,2016-08-30,2020-06-16,Ablic Inc.,Charge/discharge control circuit and battery device including the same
+    JPWO2018150789A1                      *,2017-02-17,2019-12-12,パナソニックＩｐマネジメント株式会社,Switch circuit
+    JP6549200B2                      *,2017-10-03,2019-07-24,三菱電機株式会社,Power conversion circuit
+    WO2019163205A1                      *,2018-02-20,2019-08-29,三菱電機株式会社,Power semiconductor module and power conversion device using same
+    DE112019004386T5                      *,2018-06-04,2021-05-27,Rohm Co., Ltd.,SEMI-CONDUCTOR DEVICE
+    JP7115076B2                      *,2018-07-03,2022-08-09,株式会社デンソー,power control circuit
+    JP6988734B2                      *,2018-08-06,2022-01-05,株式会社デンソー,Control circuit
+    GB2586049B                      *,2019-07-31,2022-03-09,Murata Manufacturing Co,Power supply output device
+    JP2021035121A                      *,2019-08-21,2021-03-01,株式会社デンソー,Power controller
+    DE212021000227U1                      *,2020-09-17,2022-04-13,Rohm Co., Ltd.,power conversion component
+
+abstract
+    A drive device according to one aspect of the disclosure includes a control terminal connector, a switch circuit, a current limit circuit, and a clamp switch on a circuit board. The clamp switch is located in a second quadrant or a fourth quadrant of four quadrants, where the four quadrants are partitioned by two mutually orthogonal virtual lines with the current limit circuit set as an origin and the four quadrants consist of a first quadrant including an area where the control terminal connector is located, the second quadrant, a third quadrant, and the fourth quadrant, in clockwise order.
+title
+    Electric device including a switch circuit, a current limit circuit and a clamp swith, for driving a power switch
+similar_document
+25
+    Publication,Publication Date,Title
+    US9479157B2,2016-10-25,Electric device including a switch circuit, a current limit circuit and a clamp swith, for driving a power switch
+    Gong et al.,2013,Comparison and reduction of conducted EMI in SiC JFET and Si IGBT-based motor drives
+    US9209176B2,2015-12-08,Semiconductor modules and methods of forming the same
+    Lu et al.,2017,Paralleling gan e-hemts in 10kw–100kw systems
+    JP6425380B2,2018-11-21,Power circuit and power module
+    US9935551B2,2018-04-03,Switching circuit including serially connected transistors for reducing transient current at time of turning off, and power supply circuit provided therewith
+    US10615787B2,2020-04-07,Switch drive circuit for switch reducing LC resonance
+    Umegami et al.,2013,A novel high-efficiency gate drive circuit for normally off-type GaN FET
+    KR101986475B1,2019-06-05,drive
+    US10250115B2,2019-04-02,Inverter switching devices with common source inductance layout to avoid shoot-through
+    KR20150140304A,2015-12-15,Commutation cell and compensation circuit therefor
+    KR20180019610A,2018-02-26,Physical topology for power converters
+    JP5365035B2,2013-12-11,Power converter
+    US10418893B2,2019-09-17,Fast-switching circuit assembly for a converter
+    Musumeci et al.,2021,Low-voltage GaN based inverter for power steering application
+    Mauromicale et al.,2019,Improvement of SiC power module layout to mitigate the gate-source overvoltage during switching operation
+    US11050358B2,2021-06-29,Power module with built-in drive circuit
+    US9088159B2,2015-07-21,Limiting circuit for a semiconductor transistor and method for limiting the voltage across a semiconductor transistor
+    US9800133B2,2017-10-24,Active common mode cancellation
+    Hensler et al.,2018,800v synchronous buck converter with series-connected gan power transistors
+    US11621709B2,2023-04-04,Power module with built-in drive circuits
+    US11011971B2,2021-05-18,Rectifying circuit and power supply device
+    US11005359B2,2021-05-11,Electric power converter with snubber circuit
+    US20220149839A1,2022-05-12,Semiconductor device
+
+patent_application
+2
+    Application,Priority date,Filing date,Relation,Title
+    PCT/JP2014/004222,2013-08-22,2014-08-19,Continuation,Drive device, power conversion device, and vehicle
+
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    18
+classfication_items
+89
+    H
+    H,0,3
+    H,0,3,K
+    H,0,3,K,1,7,/,0,0
+    H,0,3,K,1,7,/,5,1
+    H,0,3,K,1,7,/,5,6
+    H,0,3,K,1,7,/,5,6,7
+    B,6,0,L,1,1,/,1,8,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,0,0,3
+    H
+    H,0,3
+    H,0,3,K
+    H,0,3,K,1,7,/,0,0
+    H,0,3,K,1,7,/,0,8
+    H,0,3,K,1,7,/,0,8,1
+    H,0,3,K,1,7,/,0,8,1,2
+    H,0,3,K,1,7,/,0,8,1,2,2
+    H
+    H,0,3
+    H,0,3,K
+    H,0,3,K,1,7,/,0,0
+    H,0,3,K,1,7,/,5,1
+    H,0,3,K,1,7,/,5,6
+    H,0,3,K,1,7,/,6,8,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,1,0
+    B,6,0,L,2,2,2,0,/,1,4
+    H
+    H,0,3
+    H,0,3,K
+    H,0,3,K,1,7,/,0,0
+    H,0,3,K,1,7,/,0,8
+    H,0,3,K,2,0,1,7,/,0,8,0,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,0,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,1,6
+
+application_events
+7
+    2015-04-16,Application filed by Panasonic Intellectual Property Management Co Ltd
+    2015-04-24,Assigned to PANASONIC INTELLECTUAL PROPERTY MANAGEMENT CO., LTD.
+    2015-08-06,Publication of US20150222262A1
+    2016-10-25,Application granted
+    2016-10-25,Publication of US9479157B2
+    Status,Active
+    2034-08-19,Anticipated expiration
+
+active_area
+3
+    W,O
+    J,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+6
+    Application,Filing date,Title
+    JP2013172571,2013-08-22,
+    JP2013-172572,2013-08-22,
+    JP2013-172571,2013-08-22,
+    JP2013172572,2013-08-22,
+    PCT/JP2014/004222,2014-08-19,Drive device, power conversion device, and vehicle
+
+legal_event
+4
+    Date,Code,Title,Description
+    2015-04-24,AS,Assignment,Owner name: PANASONIC INTELLECTUAL PROPERTY MANAGEMENT CO., LTFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:HANAMURA, KENJI;KAZAMA, SHUN;HIDA, HAJIME;REEL/FRAME:035485/0433Effective date: 20150401
+    2016-10-05,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2020-03-16,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

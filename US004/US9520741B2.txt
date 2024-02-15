@@ -1,0 +1,290 @@
+ID
+    US9520741B2
+citation_exist
+    Patent Citations (21)
+citation_infor
+23
+    Publication number,Priority date,Publication date,Assignee,Title
+    US4920475A,1988-03-07,1990-04-24,California Institute Of Technology,Integrated traction inverter and battery charger apparatus
+    US5633577A                      *,1994-06-06,1997-05-27,Nippondenso Co., Ltd.,Battery charging system for electric vehicles
+    US6037745A                      *,1997-07-03,2000-03-14,Kabushiki Kaisha Toyoda Jidoshokki,Battery charger with monitor and protection circuits
+    US6593722B2                      *,2001-02-20,2003-07-15,Geoffrey William Purdy,Charging system for battery-powered drive system
+    US6724100B1,2000-09-08,2004-04-20,Ford Motor Company,HEV charger/generator unit
+    US6917180B2,2003-05-29,2005-07-12,General Electric Company,Methods and apparatus for controlling electric vehicle battery charger and motor using a single unitary controller
+    US20070120523A1                      *,2004-12-28,2007-05-31,Pionetics Corporation,Power supply for electrochemical ion exchange cell
+    US20070120623A1                      *,2005-11-30,2007-05-31,Kazuyuki Sakiyama,Surface acoustic wave device and communication terminal using the same
+    US20080205109A1,2007-02-26,2008-08-28,Lear Corporation,Energy distribution system for vehicle
+    US20100097031A1,2008-10-22,2010-04-22,Robert Dean King,Apparatus for energy transfer using converter and method of manufacturing same
+    US7932699B2,2006-12-11,2011-04-26,Hyundai Motor Company,Method of controlling battery charge level of hybrid electric vehicle
+    US8030882B2                      *,2007-06-15,2011-10-04,Kabushiki Kaisha Toyota Jidoshokki,Power supply unit
+    US8030884B2,2009-08-31,2011-10-04,General Electric Company,Apparatus for transferring energy using onboard power electronics and method of manufacturing same
+    US20120112702A1                      *,2010-11-05,2012-05-10,Robert Louis Steigerwald,Apparatus for transferring energy using onboard power electronics with high-frequency transformer isolation and method of manufacturing same
+    US20120126742A1                      *,2010-05-21,2012-05-24,Paolo Reggio,System and method for digital control of a dc/dc power-converter device, in particular for automotive applications
+    US20130049703A1                      *,2011-08-31,2013-02-28,GM Global Technology Operations LLC,Systems and methods for providing power to a load based upon a control strategy
+    US8421271B2,2009-08-31,2013-04-16,General Electric Company,Apparatus for transferring energy using onboard power electronics and method of manufacturing same
+    US8441229B2,2010-08-31,2013-05-14,Hyundai Motor Company,System for recharging plug-in hybrid vehicle and control method for the same
+    US8653696B2,2008-10-22,2014-02-18,General Electric Company,Apparatus for transferring energy using power electronics and machine inductance and method of manufacturing same
+    US8698451B2,2009-12-18,2014-04-15,General Electric Company,Apparatus and method for rapid charging using shared power electronics
+    US8872473B2,2010-07-09,2014-10-28,Hyundai Motor Company,System for recharging plug-in hybrid vehicle by controlling pre-charge of a DC link
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (2)
+              
+
+
+citedBy_exist
+    
+              Cited By (12)
+              
+
+
+citedBy_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    US10239517B2                      *,2016-03-30,2019-03-26,Mitsubishi Jidosha Kogyo Kabushiki Kaisha,Controller of hybrid vehicle
+    US11511637B2,2019-05-24,2022-11-29,Huawei Digital Power Technologies Co., Ltd.,Integrated charger and motor control system
+    US11554642B2,2020-04-22,2023-01-17,Carrier Corporation,Voltage conversion system for transport refrigeration system
+    Family To Family Citations,,,,
+    US9325273B2                      *,2013-09-30,2016-04-26,General Electric Company,Method and system for driving electric machines
+    TWI559648B                      *,2014-01-21,2016-11-21,台達電子工業股份有限公司,Charging apparatus with dynamical charging power and method of operating the same
+    KR20160030672A                      *,2014-09-11,2016-03-21,삼성전기주식회사,Wireless power receiving apparatus and wireless power transmitting and receiving system
+    US10116163B2                      *,2015-09-18,2018-10-30,General Electric Company,Uninterruptible power supply (UPS) direct current (DC) load leveling
+    JP6681002B2                      *,2016-03-30,2020-04-15,三菱自動車工業株式会社,Power control device for hybrid vehicle
+    US10177580B2,2016-04-21,2019-01-08,Linear Technology Corporation,Energy storage device stack balancing using switched inductor background
+    US9960687B2,2016-06-06,2018-05-01,General Electric Company,System and method for a DC/DC converter
+    KR102526961B1                      *,2018-07-16,2023-04-28,현대자동차주식회사,Electric vehicle and charging apparatus thereof
+    AU2020336469A1,2019-08-28,2022-04-07,SparkCharge, Inc.,Electric vehicle charging apparatus, system and methods
+
+abstract
+    A system for charging an electrical storage device includes a motor drive, a DC link electrically coupled to the motor drive, and a first leg coupled to the DC link that includes a first power switch coupled in series with a second power switch via a first node. A first inductor is coupled to the first node, and a first energy storage device (ESD) is electrically coupled to the first inductor. A second leg is coupled to the DC link that includes a third power switch coupled in series with a fourth power switch via a second node. A charging circuit includes a transformer coupled to the first and second nodes. A second ESD is coupled to receive charging energy from the transformer, and a controller is configured to cause a first voltage mismatch between the first and second nodes to generate the charging energy.
+title
+    System for charging electrical storage device and method of making same
+similar_document
+16
+    Publication,Publication Date,Title
+    US9520741B2,2016-12-13,System for charging electrical storage device and method of making same
+    US11167654B2,2021-11-09,Apparatus for transferring energy using power electronics and machine inductance and method of manufacturing same
+    US10549648B2,2020-02-04,Vehicle propulsion system with multi-channel DC bus and method of manufacturing same
+    JP6228586B2,2017-11-08,Electric vehicle
+    US7733039B2,2010-06-08,Electric vehicle system for charging and supplying electrical power
+    US8421271B2,2013-04-16,Apparatus for transferring energy using onboard power electronics and method of manufacturing same
+    US8829722B2,2014-09-09,Apparatus and method for rapidly charging an electric vehicle
+    US9238415B2,2016-01-19,Apparatus for rapid charging using onboard power electronics and method of manufacturing same
+    CN106026318B,2019-12-31,Device for transferring energy using on-board power electronics with high-frequency transformer isolation and method for manufacturing same
+    US10044312B2,2018-08-07,Modular stacked DC architecture traction system and method of making same
+    US8441229B2,2013-05-14,System for recharging plug-in hybrid vehicle and control method for the same
+    US20170282747A1,2017-10-05,Charging system for vehicle battery
+    US9718376B2,2017-08-01,Electricity supply system having double power-storage devices of a hybrid or electric motor vehicle
+    Su et al.,2010,Control of plug-in hybrid electric vehicles for mobile power generation and grid support applications
+    Su et al.,2012,Using onboard electrical propulsion systems to provide plug-in charging, V2G and mobile power generation capabilities for HEVs
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US13/304,791,2011-11-28,2011-11-28,System for charging electrical storage device and method of making same
+
+inventor_number
+    2
+classfication_nums
+    40
+classfication_items
+164
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,1,4
+    H,0,2,J,7,/,1,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B,6,0,L,1,1,/,0,0,5
+    B,6,0,L,1,1,/,1,8,0,3
+    B,6,0,L,1,1,/,1,8,6,1
+    B,6,0,L,1,1,/,1,8,8,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,1,/,0,0
+    H,0,2,J,1,/,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B,6,0,L,2,2,1,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,2
+    B,6,0,L,2,2,4,0,/,6,2,2
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,2,3,1,0,/,0,0
+    H,0,2,J,2,3,1,0,/,4,0
+    H,0,2,J,2,3,1,0,/,4,8
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,1,4
+    H,0,2,J,7,/,1,4,3,8
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,0,0,8,3
+    H,0,2,M,1,/,0,0,9
+    H,0,2,M,2,0,0,1,/,0,0,9
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H,0,2,M,3,/,0,2
+    H,0,2,M,3,/,0,4
+    H,0,2,M,3,/,1,0
+    H,0,2,M,3,/,1,4,5
+    H,0,2,M,3,/,1,5,5
+    H,0,2,M,3,/,1,5,6
+    H,0,2,M,3,/,1,5,8
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H,0,2,M,3,/,2,2
+    H,0,2,M,3,/,2,4
+    H,0,2,M,3,/,2,8
+    H,0,2,M,3,/,3,2,5
+    H,0,2,M,3,/,3,3,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,0,5
+    Y,0,2,T,1,0,/,7,0,2,2
+    Y,0,2,T,1,0,/,7,0,4,4
+    Y,0,2,T,1,0,/,7,0,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,2,5
+    Y,0,2,T,1,0,/,7,2,9,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+    Y,0,2,T,9,0,/,1,6,2
+    Y,0,2,T,9,0,/,3,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,4,0
+    Y
+    Y,1,0
+    Y,1,0,T
+    Y,1,0,T,2,9,/,0,0
+    Y,1,0,T,2,9,/,4,9
+    Y,1,0,T,2,9,/,4,9,0,0,2
+    Y,1,0,T,2,9,/,4,9,1,1,7
+    Y,1,0,T,3,0,7,/,5,0
+    Y,1,0,T,3,0,7,/,7,0,7
+
+application_events
+8
+    2011-11-28,Application filed by General Electric Co
+    2011-11-28,Priority to US13/304,791
+    2011-11-28,Assigned to GENERAL ELECTRIC COMPANY
+    2013-05-30,Publication of US20130134924A1
+    2016-12-13,Application granted
+    2016-12-13,Publication of US9520741B2
+    Status,Active
+    2035-02-05,Adjusted expiration
+
+active_area
+1
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US13/304,791,2011-11-28,System for charging electrical storage device and method of making same
+
+legal_event
+4
+    Date,Code,Title,Description
+    2011-11-28,AS,Assignment,Owner name: GENERAL ELECTRIC COMPANY, NEW YORKFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:KANAKASABAI, VISWANATHAN;REEL/FRAME:027284/0165Effective date: 20111124
+    2016-11-22,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2020-05-21,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

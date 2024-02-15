@@ -1,0 +1,170 @@
+ID
+    WO2022024770A1
+citation_exist
+    Patent Citations (9)
+citation_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH0564304A                      *,1991-09-03,1993-03-12,Honda Motor Co Ltd,電動車両の回生制動装置
+    JPH0670406A                      *,1992-08-08,1994-03-11,Nissan Motor Co Ltd,電気自動車の走行制御装置
+    WO2012111083A1                      *,2011-02-15,2012-08-23,スズキ株式会社,車両用制御装置
+    JP2017205015A,2017-08-24,2017-11-16,三菱自動車工業株式会社,回生ブレーキ制御装置
+    JP2020129819A,2020-02-06,2020-08-27,東芝映像ソリューション株式会社,受信機
+    Family To Family Citations,,,,
+    JP5064304B2,2008-06-03,2012-10-31,株式会社フジキカイ,折畳みカートンの開口成形装置
+    JP6070406B2,2013-05-16,2017-02-01,日亜化学工業株式会社,発光素子
+    JP6501069B2,2015-07-24,2019-04-17,三菱自動車工業株式会社,車両の回生制御装置
+    WO2017081714A1,2015-11-09,2017-05-18,日産自動車株式会社,制駆動力制御方法及び制駆動力制御装置
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    車両の走行制御装置は、アクセル開度及び車速に基づいてモータに要求するトルクを第１回生制御モード及び第２回生制御モードについて演算し、演算されたモータに要求するトルクから第１回生制御モード又は第２回生制御モードに適合した前記モータに要求するトルクを選択し、選択されたモータに要求するトルクが第１回生制御モードから第２回生制御モードに切り替えることよって予め定めた変化率を超えて変化する場合にモータに要求するトルクの変化率を制限する。
+title
+    車両の走行制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP5563062B2,2014-07-30,アクセルペダル装置
+    EP2749446B1,2022-11-23,Regenerative brake control device
+    JP5842749B2,2016-01-13,産業用車両
+    JP2006094589A,2006-04-06,車両の減速度制御装置
+    JP5538633B2,2014-07-02,電動車両
+    JP3918841B2,2007-05-23,車両の減速度制御装置
+    JP6682952B2,2020-04-15,回生制御装置
+    JP2017143685A,2017-08-17,回生制御装置
+    JP2013215063A,2013-10-17,電気自動車のクリープ制御装置
+    JP2020078136A,2020-05-21,電動車両
+    WO2022024770A1,2022-02-03,車両の走行制御装置
+    JP5929656B2,2016-06-08,車両用制御装置
+    JP2016144284A,2016-08-08,電動車両
+    JP6372772B2,2018-08-15,回生ブレーキ制御装置
+    KR20200071216A,2020-06-19,하이브리드 차량의 회생제동 제어 방법
+    JP2006151020A,2006-06-15,加減速度制御装置
+    JP2008154429A,2008-07-03,車両の制御装置、制御方法、その方法を実現するプログラムおよびそのプログラムを記録した記録媒体
+    JP4876911B2,2012-02-15,車両の駆動力制御装置
+    JP3781897B2,2006-05-31,電気自動車のトルク制御装置
+    JP7310775B2,2023-07-19,車両の制御装置
+    JP6194810B2,2017-09-13,車両の制御装置及び制御方法
+    JP7316205B2,2023-07-27,車両の制御装置
+    WO2022230545A1,2022-11-03,電動車両のシフト装置
+    JP3582340B2,2004-10-27,車両推進用モータの出力制御装置
+    JP6202411B2,2017-09-27,回生ブレーキ制御装置
+
+patent_application
+    NoExist
+patent_priority_application
+5
+    Application,Priority date,Filing date,Title
+    EP21849650.3A,2020-07-31,2021-07-14,Vehicle travel control device
+    JP2022540161A,2020-07-31,2021-07-14,車両の走行制御装置
+    CN202180058544.1A,2020-07-31,2021-07-14,车辆的行驶控制装置
+    US18/014,020,2020-07-31,2021-07-14,Vehicle travel control device
+
+inventor_number
+    4
+classfication_nums
+    10
+classfication_items
+59
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B,6,0,L,2,2,5,0,/,2,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+6
+    2021-07-14,Application filed by 三菱自動車工業株式会社
+    2021-07-14,Priority to EP21849650.3A
+    2021-07-14,Priority to JP2022540161A
+    2021-07-14,Priority to CN202180058544.1A
+    2021-07-14,Priority to US18/014,020
+    2022-02-03,Publication of WO2022024770A1
+
+active_area
+5
+    J,P
+    C,N
+    E,P
+    U,S
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2020129819,2020-07-31,
+    JP2020-129819,2020-07-31,
+
+legal_event
+6
+    Date,Code,Title,Description
+    2022-03-16,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 21849650Country of ref document: EPKind code of ref document: A1
+    2022-09-14,ENP,Entry into the national phase,Ref document number: 2022540161Country of ref document: JPKind code of ref document: A
+    2023-02-28,WWE,Wipo information: entry into national phase,Ref document number: 2021849650Country of ref document: EP
+    2023-03-01,ENP,Entry into the national phase,Ref document number: 2021849650Country of ref document: EPEffective date: 20230228
+    2023-03-01,NENP,Non-entry into the national phase,Ref country code: DE
+

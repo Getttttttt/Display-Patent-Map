@@ -1,0 +1,300 @@
+ID
+    US9421975B2
+citation_exist
+    Patent Citations (17)
+citation_infor
+19
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20050200462A1                      *,2004-03-10,2005-09-15,Fujitsu Ten Limited,Vehicle-presence notifying apparatus and vehicle-presence notifying method
+    JP2005348558A,2004-06-04,2005-12-15,Toyota Motor Corp,Vehicle controller
+    US7165817B2                      *,2001-08-07,2007-01-23,Hitachi, Ltd.,Electrically driven brake device and control apparatus thereof
+    JP2010188858A,2009-02-18,2010-09-02,Toyota Motor Corp,Power supply control device for vehicle
+    US20120309588A1,2011-05-30,2012-12-06,Toyota Jidosha Kabushiki Kaisha,Electric vehicle, and control apparatus and control method for electric vehicle
+    US20130127413A1                      *,2011-11-18,2013-05-23,Fuji Jukogyo Kabushiki Kaisha,Electric charging system and electric vehicle
+    Family To Family Citations,,,,
+    CN1861445B                      *,2004-10-28,2012-07-04,特克斯特朗创新有限公司,Ac drive system for electrically operated vehicle
+    JP2007129827A                      *,2005-11-04,2007-05-24,Nissan Motor Co Ltd,Intelligent brake assist system of hybrid vehicle
+    JP4835171B2                      *,2006-01-27,2011-12-14,トヨタ自動車株式会社,Motor drive device
+    JP4751854B2                      *,2007-05-30,2011-08-17,トヨタ自動車株式会社,Vehicle control device, control method, program for realizing the method, and recording medium recording the program
+    JP2010130807A                      *,2008-11-28,2010-06-10,Toyota Motor Corp,Power supply device for vehicle driving motor
+    JP6194152B2                      *,2011-03-28,2017-09-06,本田技研工業株式会社,Vehicle control device
+    DE102011088973A1                      *,2011-12-19,2013-06-20,Robert Bosch Gmbh,Method and device for adjusting a voltage limit in a vehicle electrical system
+    CN102582460B                      *,2012-02-17,2015-06-24,湖南南车时代电动汽车股份有限公司,Method for setting target torque of motor applicable to pure electric vehicle
+    JP2014030615A,2012-08-03,2014-02-20,Iai Corp,Robot for soccer game
+    JP2015020016A,2013-07-23,2015-02-02,株式会社藤商事,Game machine
+    CN103358930B                      *,2013-08-09,2015-10-28,山东省科学院自动化研究所,A kind of vehicle-mounted charge control system of electronlmobil and control method thereof
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20170012565A1                      *,2014-02-21,2017-01-12,Toyota Jidosha Kabushiki Kaisha,Motor control system
+    US11623646B2,2017-11-15,2023-04-11,Toyota Jidosha Kabushiki Kaisha,Autonomous driving system
+    Family To Family Citations,,,,
+    CN105599763B                      *,2016-01-22,2019-01-25,奇瑞汽车股份有限公司,A kind of control method for vehicle and device
+    US10500966B2                      *,2016-12-01,2019-12-10,Ford Global Technologies, Llc,Adaptive boost voltage for hybrid vehicle operation
+
+abstract
+    A vehicle control apparatus includes a battery, a boost converter connected to the battery for boosting battery voltage, an inverter connected to the boost converter for performing DC to AC conversion, and a motor-generator connected to the inverter for outputting drive power. Then, if an inter-vehicle distance is less than or equal to a predetermined distance or a relative speed in approaching direction is greater than or equal to a predetermined speed, the output voltage of the boost converter is lowered. This suppresses the output of the motor-generator and controls the inter-vehicle distance.
+title
+    Vehicle control apparatus
+similar_document
+26
+    Publication,Publication Date,Title
+    US20170043762A1,2017-02-16,Control device for hybrid vehicle, and hybrid vehicle incorporating control device
+    US8781665B2,2014-07-15,Control device for hybrid vehicle, and hybrid vehicle incorporating control device
+    US8096919B2,2012-01-17,Motor control device, motored vehicle equipped therewith, and method of controlling a motor
+    US20170047603A1,2017-02-16,Method of controlling fuel cell system, method of controlling fuel cell automobile, and fuel cell automobile
+    US9895994B2,2018-02-20,Vehicle control system
+    KR101807364B1,2017-12-08,Vehicle driven by electric motor and control method for vehicle
+    US9998039B2,2018-06-12,Drive control system for vehicle
+    US9421975B2,2016-08-23,Vehicle control apparatus
+    US9499162B2,2016-11-22,Hybrid vehicle
+    JP5756822B2,2015-07-29,Power generation control device for hybrid vehicle
+    US20150274021A1,2015-10-01,Control device for vehicle
+    KR101755467B1,2017-07-07,Apparatus and method of controlling motor of electric vehicle for reducing vibration
+    US9849868B2,2017-12-26,Vehicle control device and vehicle control method
+    US20180362042A1,2018-12-20,Vehicle
+    JP6435789B2,2018-12-12,Output control device for hybrid drive vehicle
+    JP2017065283A,2017-04-06,Control device of electric motor
+    JP6652089B2,2020-02-19,Hybrid car
+    KR20190008616A,2019-01-25,Method for controlling coasting drive of environmentally friendly vehicle using dynamic traffic information
+    US8868272B2,2014-10-21,Electric vehicle and method of controlling the same
+    JP2013103563A,2013-05-30,Vehicle-mounted electric power generating device
+    JP2018090050A,2018-06-14,Power supply device of vehicle
+    KR102518655B1,2023-04-06,Apparatus and Method for controlling energy regeneration variably
+    KR101600711B1,2016-03-07,Apparatus for determine the operation of the generator in range extended electric vehicle and method thereof
+    JP6928145B1,2021-09-01,Power converter
+    JP6259312B2,2018-01-10,Boost converter control device and boost converter control method
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    33
+classfication_items
+176
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,4
+    B,6,0,W,3,0,/,1,6
+    B,6,0,L,1,1,/,1,8,0,3
+    B,6,0,L,1,1,/,1,8,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,4
+    B,6,0,W,1,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B,6,0,L,2,2,1,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,8
+    B,6,0,W,2,5,1,0,/,0,8,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B,6,0,W,2,5,5,0,/,3,0,2
+    B,6,0,W,2,5,5,0,/,3,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,4,/,0,0
+    B,6,0,W,2,5,5,4,/,8,0
+    B,6,0,W,2,5,5,4,/,8,0,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,4,/,0,0
+    B,6,0,W,2,5,5,4,/,8,0
+    B,6,0,W,2,5,5,4,/,8,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,0,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2015-02-18,Application filed by Toyota Motor Corp
+    2015-02-18,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2015-08-20,Publication of US20150232095A1
+    2016-08-23,Application granted
+    2016-08-23,Publication of US9421975B2
+    Status,Active
+    2035-02-18,Anticipated expiration
+
+active_area
+3
+    J,P
+    C,N
+    U,S
+
+not_active_area
+1
+    D,E
+
+patent_application_claiming_priority
+5
+    Application,Filing date,Title
+    JP2014030615,2014-02-20,
+    JP2014-030615,2014-02-20,
+    JP2015020016A,2015-02-04,Vehicle control device
+    JP2015-020016,2015-02-04,
+
+legal_event
+4
+    Date,Code,Title,Description
+    2015-02-18,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:SATO, RYOJI;REEL/FRAME:035021/0897Effective date: 20150205
+    2016-08-03,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2020-02-06,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

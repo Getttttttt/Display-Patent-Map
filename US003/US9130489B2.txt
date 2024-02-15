@@ -1,0 +1,235 @@
+ID
+    US9130489B2
+citation_exist
+    Patent Citations (10)
+citation_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH11332002A,1998-05-12,1999-11-30,Toyota Motor Corp,Controller of motor for electric vehicle
+    JP2004120883A,2002-09-25,2004-04-15,Japan Science & Technology Corp,Inverter device for three-phase ac motor driving
+    US20070249461A1,2006-04-20,2007-10-25,Denso Corporation,Control system for multiphase rotary electric machine
+    JP2007336727A,2006-06-16,2007-12-27,Tokyo Electric Power Co Inc:The,Power converter
+    JP2008125162A,2006-11-08,2008-05-29,Toyota Motor Corp,Electric vehicle
+    US7969104B2                      *,2007-05-10,2011-06-28,Denso Corporation,Rotary electric system designed to utilize zero-phase circuit
+    Family To Family Citations,,,,
+    CN101060289B                      *,2006-04-20,2011-01-26,株式会社电装,Control system for multiphase rotary electric machine
+    JP4240149B1                      *,2008-02-14,2009-03-18,トヨタ自動車株式会社,Motor drive device and hybrid drive device
+    JP5453734B2                      *,2008-05-13,2014-03-26,富士電機株式会社,AC motor drive circuit and electric vehicle drive circuit
+    KR101144033B1                      *,2009-12-04,2012-05-23,현대자동차주식회사,Method for controlling motor control system for hybrid vehicle
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (19)
+              
+
+
+citedBy_infor
+21
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20170047728A1                      *,2015-08-10,2017-02-16,Goodrich Actuation Systems Limited,Control strategy of a dual lane fault tolerant permanent magnet motor to reduce drag torque under fault condition
+    US11070161B2                      *,2017-03-09,2021-07-20,Mitsubishi Electric Corporation,Electric-motor driving device and refrigeration-cycle application apparatus including electric-motor driving device
+    US11456603B2                      *,2020-04-21,2022-09-27,Hyundai Motor Company,Safety charging system for electric vehicle and safety charging method therefor
+    Family To Family Citations,,,,
+    US7221095B2,2003-06-16,2007-05-22,Semiconductor Energy Laboratory Co., Ltd.,Light emitting device and method for fabricating light emitting device
+    US9000707B2                      *,2012-10-16,2015-04-07,Toshiba International Corporation,Use of cooling fan in adjustable speed drives
+    KR102138328B1                      *,2013-08-16,2020-07-28,한화디펜스 주식회사,Apparatus and method for driving car
+    EP3121958B1                      *,2014-03-18,2021-11-03,Hitachi Construction Machinery Co., Ltd.,Working machine
+    FR3022887B1                      *,2014-06-25,2016-10-21,Messier Bugatti Dowty,METHOD FOR MANAGING AN ELECTRIC MOTOR
+    CN104333272B                      *,2014-11-21,2017-01-04,东南大学,Open winding three-phase permagnetic synchronous motor single-phase short circuit in winding tolerant system and fault-tolerance approach
+    JP2016127695A                      *,2014-12-26,2016-07-11,トヨタ自動車株式会社,Motor drive device and power steering device
+    JP6128155B2                      *,2015-03-25,2017-05-17,トヨタ自動車株式会社,Hybrid car
+    US10609164B2                      *,2015-10-16,2020-03-31,International Business Machines Corporation,System and method for diagnosing an unfavorable mobile application user experience
+    JP6458762B2                      *,2016-04-28,2019-01-30,トヨタ自動車株式会社,Automobile
+    JP6562871B2                      *,2016-05-12,2019-08-21,オムロンオートモーティブエレクトロニクス株式会社,Motor control device
+    JP7070548B2                      *,2017-03-29,2022-05-18,日本電産株式会社,Power converter, motor drive unit and electric power steering device
+    US11482360B2                      *,2017-12-12,2022-10-25,The Boeing Company,Stator secondary windings to modify a permanent magnet (PM) field
+    US20190184832A1                      *,2017-12-19,2019-06-20,Ford Global Technologies, Llc,Vehicle power system with back electromagnetic field blocking
+    DE112018007524T5,2018-04-27,2021-01-14,Mitsubishi Electric Corporation,Power conversion device for a rotating machine
+    DE102018212405A1,2018-07-25,2020-01-30,Volkswagen Aktiengesellschaft,Traction network and method for operating a traction network of an electrically powered vehicle in the event of a short circuit
+
+abstract
+    A vehicle converts DC power from a power storage device into AC power by an inverter to run by driving a three-phase motor generator. A switching unit is provided at a path electrically connecting the motor generator and the inverter. The switching unit includes a relay corresponding to each phase. Each relay is configured to connect a coil of a corresponding phase in the motor generator to a corresponding driving arm in the inverter, or to a connection node of capacitors connected in series between direct current side terminals of the inverter. When short-circuit failure is detected at a switching element of any one of the phases in the inverter, an ECU switches the relay of the corresponding phase in the switching unit to the side of the connection node.
+title
+    Vehicle and control method of vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US9130489B2,2015-09-08,Vehicle and control method of vehicle
+    US8878476B2,2014-11-04,Method for discharging charges remaining in capacitor in apparatus
+    US7773353B2,2010-08-10,Power supply device, electrically-driven vehicle incorporating power supply device, and method of controlling power supply device
+    US9043066B2,2015-05-26,Vehicle and control method of vehicle
+    US9059652B2,2015-06-16,Motor drive system
+    US8487636B2,2013-07-16,Malfunction determining apparatus and malfunction determining method for charging system
+    US7561389B2,2009-07-14,Alternating-current voltage output apparatus
+    US8415825B2,2013-04-09,Power conversion device, method of controlling power conversion device, and vehicle with the same mounted thereon
+    US7819213B2,2010-10-26,Power output apparatus and vehicle having the same
+    KR101452634B1,2014-10-22,Method for detecting power cable state in inverter system
+    US20100244558A1,2010-09-30,Power supply apparatus for vehicle
+    US20100204860A1,2010-08-12,Control apparatus and control method for vehicle
+    JP5731571B2,2015-06-10,Separation detection method of power cable in inverter system
+    JP4784339B2,2011-10-05,Power supply control device and vehicle
+    JP5287705B2,2013-09-11,VEHICLE DRIVE DEVICE AND ITS CONTROL METHOD
+    JP4905204B2,2012-03-28,Load drive device
+    JP2013066326A,2013-04-11,Vehicle, and vehicle control method
+    JP2009296844A,2009-12-17,Electric vehicle and relay-welding evaluating method
+    JP5696589B2,2015-04-08,Vehicle and vehicle control method
+    US20220258602A1,2022-08-18,System and method for handling disengagement and engagement between a pto system and a traction system in an at least partly electrically operated vehicle
+    JP2016165180A,2016-09-08,Electric vehicle
+    US10046645B2,2018-08-14,Motor drive apparatus, method of controlling motor drive apparatus, and electrically powered vehicle
+    JP2015006021A,2015-01-08,Motor drive device and motor
+    KR101365276B1,2014-02-20,Power cabel breaking detection method of inverter system
+    CN115622471A,2023-01-17,Motor drive system
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    23
+classfication_items
+100
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,6,/,0,0
+    H,0,2,P,6,/,1,2
+    B,6,0,L,1,1,/,0,0,5
+    B,6,0,L,1,1,/,1,8,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,6,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,0,5
+    Y,0,2,T,1,0,/,7,0,2,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,1,6
+    Y,0,2,T,1,0,/,7,2,7,5
+
+application_events
+8
+    2011-07-12,Application filed by Toyota Motor Corp
+    2013-12-31,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2014-05-15,Publication of US20140132190A1
+    2015-09-08,Application granted
+    2015-09-08,Publication of US9130489B2
+    2020-04-01,Assigned to DENSO CORPORATION
+    Status,Active
+    2031-09-15,Adjusted expiration
+
+active_area
+5
+    J,P
+    E,P
+    W,O
+    C,N
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2011/065866,2011-07-12,Vehicle and vehicle control method
+
+legal_event
+6
+    Date,Code,Title,Description
+    2013-12-31,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:KITANO, EIJI;REEL/FRAME:031862/0948Effective date: 20131018
+    2015-08-19,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2019-02-22,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+    2020-04-01,AS,Assignment,Owner name: DENSO CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:TOYOTA JIDOSHA KABUSHIKI KAISHA;REEL/FRAME:052281/0706Effective date: 20191229
+    2023-03-01,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+

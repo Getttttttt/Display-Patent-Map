@@ -1,0 +1,175 @@
+ID
+    US20220136411A1
+citation_exist
+    Patent Citations (11)
+citation_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    US3095699A                      *,1958-12-18,1963-07-02,Babcock & Wilcox Co,Combined gas-steam turbine power plant and method of operating the same
+    US20180328231A1                      *,2016-03-25,2018-11-15,Mitsubishi Hitachi Power Systems, Ltd.,Thermal power generation system and control method for same
+    Family To Family Citations,,,,
+    JPS6212909A,1985-07-10,1987-01-21,Hitachi Ltd,Composite type erasing head
+    JPH0590106U,1992-04-08,1993-12-07,石川島播磨重工業株式会社,Coal fired exhaust gas reburn combined cycle plant
+    JPH06212909A,1993-01-21,1994-08-02,Mitsubishi Heavy Ind Ltd,Compound electric power plant
+    JP3882294B2,1997-10-28,2007-02-14,石川島播磨重工業株式会社,Combustion air flow rate control method and apparatus in exhaust recombustion combined cycle power plant
+    US6247315B1                      *,2000-03-08,2001-06-19,American Air Liquids, Inc.,Oxidant control in co-generation installations
+    US6430914B1                      *,2000-06-29,2002-08-13,Foster Wheeler Energy Corporation,Combined cycle power generation plant and method of operating such a plant
+    EP2667093B1                      *,2011-01-17,2018-12-26,IHI Corporation,Method and device for controlling operation of oxygen combustion boiler
+    US10393018B2                      *,2016-06-02,2019-08-27,Mitsubishi Hitachi Power Systems Americas, Inc.,Power plant methods and apparatus
+    JP2019095174A,2017-11-22,2019-06-20,三菱日立パワーシステムズ株式会社,Boiler system and operating method for boiler system
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    Disclosed is a hybrid power generation facility. The hybrid power generation facility includes a gas turbine including a compressor configured to compress air introduced from an outside, a combustor configured to mix the compressed air with fuel and to combust the air and fuel mixture, and a turbine configured to produce power with first combustion gas discharged from the combustor, a boiler including a combustion chamber and a burner installed in the combustion chamber and into which the first combustion gas discharged from the turbine of the gas turbine is introduced, a steam turbine through which steam generated in the combustion chamber passes, a first GT (gas turbine) pipeline connected between the turbine of the gas turbine and the burner, a first air pipeline connected to the first GT pipeline to supply oxygen to the burner, a first oxygen sensor installed at an inlet of the burner to measure an oxygen concentration of a fluid flowing into the burner, and a first GT damper installed in the first GT pipeline to control a flow rate of the fluid flowing through the first GT pipeline according to the oxygen concentration measured by the first oxygen sensor.
+title
+    Hybrid power generation equipment and control method thereof
+similar_document
+26
+    Publication,Publication Date,Title
+    US8393138B2,2013-03-12,Oxygen-enriched air assisting system for improving the efficiency of cogeneration system
+    US20130269360A1,2013-10-17,Method and system for controlling a powerplant during low-load operations
+    KR101530807B1,2015-06-22,Exhaust heat recovery boiler and electricity generation plant
+    KR20000070195A,2000-11-25,Combustion turbine with fuel heating system
+    CN104675521A,2015-06-03,Novel gas-steam combined cycle cooling, heating and power generation system
+    JP2004162601A,2004-06-10,Steam turbine output estimating device in dual fuel type uniaxial combined plant
+    US9528396B2,2016-12-27,Heat recovery steam generator and power plant
+    CN101881220A,2010-11-10,Be used to heat the system and method for the fuel that is used for gas turbine
+    EP1172525A1,2002-01-16,Method of repowering boiler turbine generator plants and repowered boiler turbine generator plants
+    US11702964B2,2023-07-18,Hybrid power generation equipment and control method thereof
+    CN1240852C,2006-02-08,Electricity generating apparatus of comprehensive using rotating furnace gas and waste heat of steam
+    KR102420600B1,2022-07-14,Hybrid power generation equipment and control method thereof
+    US11319874B1,2022-05-03,Air supplying apparatus and method of hybrid power generation equipment
+    US20220136412A1,2022-05-05,Hybrid power generation equipment
+    US11326513B1,2022-05-10,Hybrid power generation equipment
+    KR102441549B1,2022-09-08,Hybrid power generation equipment
+    KR102397484B1,2022-05-13,Hybrid power generation equipment
+    KR101915943B1,2018-11-07,Hybrid generator
+    KR102485928B1,2023-01-10,Air supplying apparatus and method of hybrid power generation equipment
+    WO2015187064A2,2015-12-10,Multi-mode combined cycle power plant
+    CN218912983U,2023-04-25,Combined cycle system
+    CN214332666U,2021-10-01,System device for improving economy of thermal generator set
+    RU2700320C2,2019-09-16,Thermal vapor installation with a steam turbine drive of a compressor
+    EP3203149B1,2018-09-05,Combined-cycle co-generation process and installation
+    JP3509141B2,2004-03-22,Fuel cell power generator
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    7
+classfication_nums
+    11
+classfication_items
+65
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,2,1,/,0,0
+    F,0,1,K,2,1,/,0,4
+    F,0,1,K,2,1,/,0,4,7
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,2,3,/,0,0
+    F,0,1,K,2,3,/,0,2
+    F,0,1,K,2,3,/,0,6
+    F,0,1,K,2,3,/,1,0
+    F,0,1,K,2,3,/,1,0,3
+    F,0,1,K,2,3,/,1,0,5
+    F
+    F,0,1
+    F,0,1,D
+    F,0,1,D,1,5,/,0,0
+    F,0,1,D,1,5,/,1,0
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,2,3,/,0,0
+    F,0,1,K,2,3,/,0,2
+    F,0,1,K,2,3,/,0,6
+    F,0,1,K,2,3,/,1,0
+    F
+    F,0,2
+    F,0,2,C
+    F,0,2,C,6,/,0,0
+    F,0,2,C,6,/,1,8
+    F
+    F,0,2
+    F,0,2,C
+    F,0,2,C,7,/,0,0
+    F,0,2,C,7,/,2,2
+    F,0,2,C,7,/,2,2,4
+    F
+    F,2,2
+    F,2,2,D
+    F,2,2,D,1,/,0,0
+    F,2,2,D,1,/,3,6
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,1,7,/,0,0
+    F,0,1,K,1,7,/,0,2
+    F,0,1,K,1,7,/,0,2,5
+    F
+    F,2,2
+    F,2,2,D
+    F,2,2,D,1,/,0,0
+    F,2,2,D,1,/,3,2
+    F,2,2,D,1,/,3,2,5
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,2,0,/,0,0
+    Y,0,2,E,2,0,/,1,6
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,2,0,/,0,0
+    Y,0,2,E,2,0,/,3,2
+
+application_events
+8
+    2020-12-02,Priority claimed from KR1020200166648A
+    2020-12-13,Application filed by Doosan Heavy Industries and Construction Co Ltd
+    2020-12-13,Assigned to DOOSAN HEAVY INDUSTRIES &#65286; CONSTRUCTION CO., LTD.
+    2022-05-05,Publication of US20220136411A1
+    2023-07-18,Application granted
+    2023-07-18,Publication of US11702964B2
+    Status,Active
+    2041-02-24,Adjusted expiration
+
+active_area
+1
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+5
+    Application,Filing date,Title
+    KR10-2020-0143270,2020-10-30,
+    KR20200143270,2020-10-30,
+    KR10-2020-0166648,2020-12-02,
+    KR1020200166648A,2020-12-02,Hybrid power generation equipment and control method thereof
+
+legal_event
+9
+    Date,Code,Title,Description
+    2020-12-13,AS,Assignment,Owner name: DOOSAN HEAVY INDUSTRIES &#65286; CONSTRUCTION CO., LTD., KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:CHA, SONG-HUN;AN, HYUN SOO;KANG, SUNG GJU;AND OTHERS;SIGNING DATES FROM 20201208 TO 20201210;REEL/FRAME:054626/0286
+    2020-12-13,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2021-06-14,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2022-06-03,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2022-09-09,STPP,Information on status: patent application and granting procedure in general,Free format text: FINAL REJECTION MAILED
+    2022-12-14,STPP,Information on status: patent application and granting procedure in general,Free format text: ADVISORY ACTION MAILED
+    2023-06-28,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2023-07-06,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

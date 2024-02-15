@@ -1,0 +1,172 @@
+ID
+    JPWO2017033328A1
+citation_exist
+    Patent Citations (14)
+citation_infor
+16
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPS59137223A                      *,1983-01-27,1984-08-07,Toshiba Corp,電気車の給電装置
+    JPS60245408A                      *,1984-05-21,1985-12-05,Toshiba Corp,電気車における変電所給電切換方法
+    JPH05338481A                      *,1992-06-09,1993-12-21,Nissin Electric Co Ltd,電気鉄道の給電方法
+    JP2007236196A                      *,2000-06-06,2007-09-13,Hitachi Ltd,バッテリ駆動の鉄道列車
+    WO2015019466A1                      *,2013-08-08,2015-02-12,三菱電機株式会社,駅舎補助電源装置
+    Family To Family Citations,,,,
+    JPH0775948B2,1988-06-14,1995-08-16,富士電機株式会社,回生電力吸収装置の制御回路
+    JP4432675B2,2004-08-25,2010-03-17,株式会社日立製作所,電力変換装置
+    JP4583154B2,2004-12-13,2010-11-17,東洋電機製造株式会社,き電系統電力貯蔵システムの制御装置
+    JP5125155B2,2007-03-07,2013-01-23,トヨタ自動車株式会社,電源制御装置および電源制御方法
+    CA2714211C                      *,2008-02-13,2015-06-30,Masaki Kono,Electrical power conversion apparatus
+    JP5458613B2,2009-03-16,2014-04-02,株式会社明電舎,回生対策装置と回生対策装置の制御方法
+    JP5352731B2,2012-11-26,2013-11-27,株式会社日立製作所,鉄道編成車両の駆動システム
+    JP2014129001A,2012-12-28,2014-07-10,Meidensha Corp,電鉄用回生電力吸収装置
+    US10351018B2                      *,2015-02-19,2019-07-16,Mitsubishi Electric Corporation,Station-building power-supply device and method of calculating regeneration determining voltage value
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (5)
+              
+
+
+citedBy_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP6960314B2                      *,2017-11-29,2021-11-05,株式会社日立製作所,電力管理システム
+    CN108437806B                      *,2018-03-30,2019-09-13,中车青岛四方车辆研究所有限公司,城市轨道交通再生制动能量回收装置的配置系统及方法
+    JP6991391B2                      *,2019-03-28,2022-01-12,三菱電機株式会社,駅舎補助電源装置
+    US11332039B2                      *,2019-07-12,2022-05-17,Tusimple, Inc.,Vehicle power distribution architecture
+    US20210316678A1                      *,2020-04-13,2021-10-14,Transportation Ip Holdings, Llc,Power supply system and method
+
+abstract
+    電気車と接続する交流架線と交流架線に交流電力を供給する変電所との間の電力の流れの向きを示す潮流方向の情報である第１の信号に基づいて、交流架線側の第１の交流電力を負荷で使用可能な第２の交流電力に変換するか否かを決定し、変換することを決定した場合は第２の信号を生成して出力する動作開始決定部２１と、第２の信号に応じた電圧指令値を算出して出力する電圧指令値算出部２２と、電圧指令値に基づいて、第１の交流電力を第２の交流電力に変換する際に駆動する電力変換回路への制御信号を生成して出力するＰＷＭ信号生成部２３と、を備える。
+title
+    駅舎補助電源装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP6342082B2,2018-06-13,駅舎補助電源装置
+    JP4512145B2,2010-07-28,モータ制御装置
+    US9768723B2,2017-09-19,Motor drive using capacitor
+    KR101071208B1,2011-10-10,에이씨 급전방식의 에너지 저장 시스템
+    CN110641283B,2023-03-24,功率控制装置
+    JP5343741B2,2013-11-13,モータ駆動装置の消費電力演算方法および消費電力演算方法を用いたモータ駆動装置の制御方法
+    US9337750B2,2016-05-10,Power conversion apparatus
+    EP2965940B1,2020-04-22,Main conversion device for electric vehicle
+    WO2002093730A1,2002-11-21,Dispositif de commande de charge et de decharge
+    EP1630937B1,2019-02-27,Voltage conversion device and electric car
+    JP5439989B2,2014-03-12,電力制御装置および電力制御装置における電力算出方法
+    JP2009300318A,2009-12-24,蓄電器の内部抵抗の測定方法及び内部抵抗測定装置
+    JP5586096B2,2014-09-10,電力変換装置
+    JP5611300B2,2014-10-22,電力変換装置およびその制御方法
+    JP5385728B2,2014-01-08,制御方法及び制御装置
+    JP5509442B2,2014-06-04,電力変換装置及び電気鉄道システム
+    JP2014129001A,2014-07-10,電鉄用回生電力吸収装置
+    JP6184090B2,2017-08-23,ハイブリッド電気車の電源供給システム
+    JP5360408B2,2013-12-04,電力変換装置
+    WO2022264257A1,2022-12-22,電源装置
+    JP4144942B2,2008-09-03,Ｐｗｍコンバータの電源電圧推定装置
+    JP2009060786A,2009-03-19,電圧変換装置
+    KR100628400B1,2006-09-26,엘리베이터 제어장치 및 방법
+    JP2006050799A,2006-02-16,電圧変換器の制御方法
+    JP2018016108A,2018-02-01,蓄電装置
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    8
+classfication_nums
+    8
+classfication_items
+44
+    B
+    B,6,0
+    B,6,0,M
+    B,6,0,M,3,/,0,0
+    B,6,0,M,3,/,0,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,M
+    B,6,0,M,3,/,0,0
+    B,6,0,M,3,/,0,2
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,3,/,0,0
+    H,0,2,J,3,/,0,4
+    H,0,2,J,3,/,0,6
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,3,/,0,0
+    H,0,2,J,3,/,3,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,6
+    Y
+    Y,0,2
+    Y,0,2,B
+    Y,0,2,B,7,0,/,0,0
+    Y,0,2,B,7,0,/,3,0
+    Y,0,2,B,7,0,/,3,2,2,5
+    Y
+    Y,0,4
+    Y,0,4,S
+    Y,0,4,S,2,0,/,0,0
+    Y,0,4,S,2,0,/,2,0
+    Y,0,4,S,2,0,/,2,2,2
+
+application_events
+6
+    2015-08-27,Application filed by Mitsubishi Electric Corp
+    2018-04-05,Publication of JPWO2017033328A1
+    2018-06-13,Application granted
+    2018-06-13,Publication of JP6342082B2
+    Status,Active
+    2035-08-27,Anticipated expiration
+
+active_area
+4
+    E,P
+    U,S
+    J,P
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2015/074225,2015-08-27,駅舎補助電源装置
+
+legal_event
+14
+    Date,Code,Title,Description
+    2017-11-16,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20171116
+    2017-11-16,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20171116
+    2017-11-16,A871,Explanation of circumstances concerning accelerated examination,Free format text: JAPANESE INTERMEDIATE CODE: A871Effective date: 20171116
+    2017-12-12,A975,Report on accelerated examination,Free format text: JAPANESE INTERMEDIATE CODE: A971005Effective date: 20171212
+    2017-12-19,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20171219
+    2018-01-23,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20180123
+    2018-04-09,TRDD,Decision of grant or rejection written,
+    2018-04-17,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20180417
+    2018-05-24,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20180515
+    2018-05-25,R150,Certificate of patent or registration of utility model,Ref document number: 6342082Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R150
+    2021-04-13,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2022-02-09,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2023-04-12,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+

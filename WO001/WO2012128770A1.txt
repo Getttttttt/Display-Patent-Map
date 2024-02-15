@@ -1,0 +1,210 @@
+ID
+    WO2012128770A1
+citation_exist
+    Patent Citations (5)
+citation_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20010020554A1                      *,2000-02-24,2001-09-13,Takashi Yanase,Regeneration control device of hybrid electric vehicle
+    US20090248228A1                      *,2008-03-25,2009-10-01,International Truck Intellectual Property Company, Llc,Battery pack management strategy in a hybrid electric motor vehicle
+    US20100009219A1                      *,2008-07-08,2010-01-14,Hyundai Motor Company,Idle stop-start control method of fuel cell hybrid vehicle
+    US20100089672A1                      *,2008-10-10,2010-04-15,Hyundai Motor Company,Power configuration system for fuel cell hybrid vehicle and method for controlling the same
+    US20100125398A1                      *,2008-11-14,2010-05-20,International Truck Intellectual Property Company, Llc,Service Brake Control System For Optimized Regenerative Braking Of Medium Or Heavy Trucks
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (8)
+              
+
+
+citedBy_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    WO2017042141A1                      *,2015-09-11,2017-03-16,Knorr-Bremse Systeme für Schienenfahrzeuge GmbH,Method and device for controlling energy sources for supplying main and auxiliary air, in particular of a rail vehicle
+    DE102016011502A1,2016-09-21,2018-03-22,Knorr-Bremse Systeme für Nutzfahrzeuge GmbH,Compressor system for a commercial vehicle
+    US10124785B2,2014-08-26,2018-11-13,Cummins, Inc.,Electric engine accessory control
+    WO2019034880A1                      *,2017-08-16,2019-02-21,Avid Technology Limited,Low voltage hybrid system for a heavy duty vehicle
+    US10379143B2,2014-07-23,2019-08-13,Cummins, Inc.,System and method for improving a battery management and accumulator system
+    EP4173877A1                      *,2021-10-27,2023-05-03,Volvo Truck Corporation,A braking system for a vehicle
+    EP4194248A1                      *,2021-12-13,2023-06-14,Volvo Truck Corporation,A braking system and method of controlling such a braking system
+    US11813964B2,2021-03-26,2023-11-14,Volvo Truck Corporation,Braking system, fuel cell system, and vehicle comprising fuel cell system
+    Family To Family Citations,,,,
+
+abstract
+    A vehicle has a electrical machine which functions as a generator during regenerative braking or as a traction motor. Traction batteries both receive power from and supply power to the electrical machine. The vehicle has brakes which supplement braking capacity of the machine. The power source for the brakes is pneumatic which operates as an accessory using a compressor motor. Power for the compressor motor comes from the batteries or from the electrical machine. The compressor motor can operate as a power sink allowing the machine to provide braking beyond capacity of the traction batteries to absorb power by allowing the pneumatic system to discharge air to atmosphere during braking. Controls allow operation of purge valve in response to moisture conditions in air tanks and operation of compressor to charge tanks in response to compressed air usage rates or pressure levels.
+title
+    Control system for vehicle equipped for regenerative braking
+similar_document
+21
+    Publication,Publication Date,Title
+    US8260494B2,2012-09-04,Method and apparatus to optimize energy efficiency of air compressor in vehicle air brake application
+    WO2012128770A1,2012-09-27,Control system for vehicle equipped for regenerative braking
+    US20210079904A1,2021-03-18,Compressed air system for a motor vehicle
+    CN107107896B,2019-08-20,Compressed air system for motor vehicles
+    US6963796B2,2005-11-08,Modularized power take-off systems for vehicles
+    CA3040133C,2023-03-21,Electric vehicle power management system
+    US9114723B2,2015-08-25,Hybrid electric vehicle power management system
+    KR101103877B1,2012-01-12,Method for controlling variable voltage for hybrid vehicle
+    US20140107887A1,2014-04-17,Vehicle with fault isolation and response control
+    US20140277931A1,2014-09-18,Vehicle power systems and methods employing fuel cells
+    CN101062683B,2010-12-22,Method for torque allocation and control of a hybrid drive
+    AU2010347249A9,2013-01-24,Regenerative brake system reset feature and adaptive calibration for hybrid and electric vehicles
+    CN203651749U,2014-06-18,Drive system for vehicle
+    US8589008B2,2013-11-19,Electric vehicle
+    JP5295133B2,2013-09-18,Hybrid drive, method for controlling a compressed air compressor and motor vehicle with hybrid drive
+    KR101392141B1,2014-05-07,Power control apparatus of hybrid forklift
+    WO2021004640A1,2021-01-14,A method for energy management of a vehicle or vessel
+    WO2019034880A1,2019-02-21,Low voltage hybrid system for a heavy duty vehicle
+    CN112639289B,2023-05-23,Dual air compressor for hybrid vehicle
+    WO2013015817A1,2013-01-31,Motor vehicle with multiple bus power system
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    PCT/US2011/029762,2011-03-24,2011-03-24,Control system for vehicle equipped for regenerative braking
+
+inventor_number
+    2
+classfication_nums
+    18
+classfication_items
+106
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+3
+    2011-03-24,Application filed by International Truck Intellectual Property Company, Llc
+    2011-03-24,Priority to PCT/US2011/029762
+    2012-09-27,Publication of WO2012128770A1
+
+active_area
+1
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/US2011/029762,2011-03-24,Control system for vehicle equipped for regenerative braking
+
+legal_event
+4
+    Date,Code,Title,Description
+    2012-11-14,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 11861892Country of ref document: EPKind code of ref document: A1
+    2013-09-24,NENP,Non-entry into the national phase,Ref country code: DE
+    2014-04-16,122,Ep: pct application non-entry in european phase,Ref document number: 11861892Country of ref document: EPKind code of ref document: A1
+

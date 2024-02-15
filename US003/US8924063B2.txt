@@ -1,0 +1,343 @@
+ID
+    US8924063B2
+citation_exist
+    Patent Citations (6)
+citation_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20050143877A1                      *,2003-07-23,2005-06-30,Ford Global Technologies, Llc,A system and method for controlling drivetrain torque and hill holding of a hybrid vehicle
+    JP2009234566A,2008-03-03,2009-10-15,Nissan Motor Co Ltd,Clutch controller and clutch control method of hybrid vehicle
+    Family To Family Citations,,,,
+    CN1895941A                      *,2005-07-15,2007-01-17,中国第一汽车集团公司,Control for increasing mixed-kinetic braking-energy recovery of automobile
+    JP2007261442A                      *,2006-03-29,2007-10-11,Nissan Motor Co Ltd,Driving mode shift controller for hybrid car
+    US7637842B2                      *,2007-01-23,2009-12-29,Gm Global Technology Operations, Inc.,Method and apparatus for control of a transmission torque converter clutch
+    JP4743218B2                      *,2008-03-03,2011-08-10,日産自動車株式会社,Clutch control device for hybrid vehicle
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (13)
+              
+
+
+citedBy_infor
+15
+    Publication number,Priority date,Publication date,Assignee,Title
+    US10821964B2                      *,2018-06-14,2020-11-03,Subaru Corporation,Control apparatus and control method for vehicle
+    Family To Family Citations,,,,
+    AU2011356934B2                      *,2011-01-25,2016-01-07,Hino Motors, Ltd.,Control device, hybrid vehicle, control method, and program
+    EP2894316B1                      *,2012-09-03,2019-10-23,Toyota Jidosha Kabushiki Kaisha,Vehicle travel control device
+    JP2014213770A                      *,2013-04-26,2014-11-17,日野自動車株式会社,Control apparatus for hybrid vehicle, and deceleration control method
+    CN103707889B                      *,2013-05-15,2016-12-28,上海埃士工业科技有限公司,A kind of method controlling hybrid electric vehicle power
+    JP2015000675A                      *,2013-06-17,2015-01-05,いすゞ自動車株式会社,Control method for hybrid vehicle during cost drive and hybrid
+    EP3056369B1                      *,2013-10-08,2018-09-19,Nissan Motor Co., Ltd,Device for controlling hybrid vehicle
+    JP6183335B2                      *,2014-11-12,2017-08-23,トヨタ自動車株式会社,vehicle
+    JP6626899B2                      *,2015-03-03,2019-12-25,ボルボトラックコーポレーション,Vehicle control method
+    JP6583620B2                      *,2015-06-29,2019-10-02,三菱自動車工業株式会社,Control device for electric vehicle
+    CN108944908A                      *,2018-07-05,2018-12-07,北京汽车股份有限公司,Hybrid power system and its control method and vehicle
+    KR20200071912A                      *,2018-12-11,2020-06-22,현대자동차주식회사,Apparatus for controlling hybrid vehicle, system having the same and method thereof
+    JP7172836B2                      *,2019-04-26,2022-11-16,トヨタ自動車株式会社,Braking force controller
+
+abstract
+    The present invention aims to enhance fuel economy without imparting a sense of discomfort to a driver who drives a vehicle. A determination unit determines whether a depression amount of an accelerator pedal is equal to or lower than a first threshold value set beforehand, when a clutch is disengaged and electric power is regenerated. A clutch control unit controls the engagement or the disengagement of the clutch in such a manner as keeping the disengagement of the clutch, when the depression amount of the accelerator pedal is determined to be equal to or lower than the first threshold value, and engaging the clutch when the depression amount of the accelerator pedal is determined to exceed the first threshold value. The present invention can be applied to a hybrid vehicle.
+title
+    Vehicle, control method, and computer program
+similar_document
+16
+    Publication,Publication Date,Title
+    US8924063B2,2014-12-30,Vehicle, control method, and computer program
+    US9139196B2,2015-09-22,Regenerative control device, hybrid vehicle, regenerative control method, and computer program
+    US9045137B2,2015-06-02,Start control method, start control device, hybrid vehicle, and computer program
+    US8903583B2,2014-12-02,Vehicle, control method, and computer program
+    US8775004B2,2014-07-08,Vehicle, control method, and computer program
+    US8903584B2,2014-12-02,Vehicle, control method, and computer program
+    US8694190B2,2014-04-08,Regeneration control device, hybrid vehicle, regeneration control method, and computer program
+    EP2468598A1,2012-06-27,Vehicle and control method therefor
+    US8843261B2,2014-09-23,Regeneration control device, hybrid vehicle, regeneration control method, and computer program
+    US8768547B2,2014-07-01,Control of a hybrid vehicle with a manual transmission
+    US20130158768A1,2013-06-20,Vehicle, control method, and computer program
+    US20200086749A1,2020-03-19,Vehicle control device
+    US8989934B2,2015-03-24,Regeneration control device, hybrid vehicle, regeneration control method, and computer program
+    US8419591B2,2013-04-16,Vehicle drive system
+    JP4227830B2,2009-02-18,Internal combustion engine stop and start control system
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    42
+classfication_items
+225
+    B,6,0,W,2,0,/,1,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,4,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B,6,0,L,1,1,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,0
+    B,6,0,L,2,2,4,0,/,5,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B,6,0,L,2,2,5,0,/,2,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,1,0
+    B,6,0,L,2,2,7,0,/,1,4
+    B,6,0,L,2,2,7,0,/,1,4,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,0,7,2
+    B,6,0,W,2,0,3,0,/,1,8,0,9
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,0
+    B,6,0,W,2,5,4,0,/,1,0,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,2
+    B,6,0,W,2,7,1,0,/,0,2,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y,0,2,T,1,0,/,6,2,2,1
+    Y,0,2,T,1,0,/,6,2,8,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y,0,2,T,1,0,/,7,0,7,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,4,1
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,3
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,4,6
+
+application_events
+7
+    2011-10-20,Application filed by Hino Motors Ltd
+    2013-04-18,Assigned to HINO MOTORS, LTD.
+    2013-07-18,Publication of US20130184923A1
+    2014-12-30,Application granted
+    2014-12-30,Publication of US8924063B2
+    Status,Expired - Fee Related
+    2031-10-20,Anticipated expiration
+
+active_area
+2
+    W,O
+    J,P
+
+not_active_area
+3
+    A,U
+    U,S
+    C,N
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2010-237799,2010-10-22,
+    JP2010237799,2010-10-22,
+    PCT/JP2011/074187,2011-10-20,Vehicle, control method, and program
+
+legal_event
+8
+    Date,Code,Title,Description
+    2013-04-18,AS,Assignment,Owner name: HINO MOTORS, LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:SAWAYAMA, AKIRA;REEL/FRAME:030240/0340Effective date: 20130322
+    2014-12-10,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2018-06-19,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551)Year of fee payment: 4
+    2022-08-22,FEPP,Fee payment procedure,Free format text: MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2023-02-06,LAPS,Lapse for failure to pay maintenance fees,Free format text: PATENT EXPIRED FOR FAILURE TO PAY MAINTENANCE FEES (ORIGINAL EVENT CODE: EXP.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2023-02-06,STCH,Information on status: patent discontinuation,Free format text: PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362
+    2023-02-28,FP,Lapsed due to failure to pay maintenance fee,Effective date: 20221230
+

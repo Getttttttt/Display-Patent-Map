@@ -1,0 +1,267 @@
+ID
+    US20230085556A1
+citation_exist
+    Patent Citations (11)
+citation_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    US11077842B2                      *,2007-07-12,2021-08-03,Power Technology Holdings Llc,Hybrid vehicle drive system and method and idle reduction system and method
+    Family To Family Citations,,,,
+    US8594867B2,2007-11-04,2013-11-26,GM Global Technology Operations LLC,System architecture for a blended braking system in a hybrid powertrain system
+    KR101618453B1,2014-10-29,2016-05-04,쌍용자동차 주식회사,one-pedal driving control method of electric car
+    CN107709125B                      *,2015-06-30,2020-07-10,日立汽车系统株式会社,Acceleration/deceleration control device
+    KR102039287B1                      *,2016-04-15,2019-11-26,닛산 지도우샤 가부시키가이샤,Braking force control method and braking force control device
+    US10071724B2,2016-11-11,2018-09-11,Ford Global Technologies, Llc,Regenerative torque limit control
+    US10351111B2                      *,2017-04-20,2019-07-16,Toyota Motor Engineering & Manufacturing North America, Inc.,Automatic brake application for one pedal driving
+    JP6990115B2                      *,2018-01-15,2022-01-12,日立Astemo株式会社,Motor vehicle control device, motor vehicle control system, and motor vehicle control method
+    JP7087805B2                      *,2018-08-08,2022-06-21,トヨタ自動車株式会社,Hybrid vehicle control device
+    JP7295688B2                      *,2019-04-02,2023-06-21,株式会社Subaru,vehicle controller
+    KR20220006158A                      *,2020-07-07,2022-01-17,현대자동차주식회사,Vehicle and control method for the same
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    A vehicle includes a powertrain having an electric machine configured to power driven wheels, an accelerator pedal, and friction brakes. A vehicle controller is programmed to, with the vehicle being in a one-pedal driving mode: in response to a braking torque capacity of the powertrain exceeding a target braking torque that is based on a position of the accelerator pedal, command a torque, that is equal to the target braking torque, from the powertrain such that the vehicle is slowed using the powertrain without application of the friction brakes, and, in response to the braking torque capacity of the powertrain being less than the target braking torque, command torques from the powertrain and the friction brakes such that the target braking torque is satisfied and the vehicle is slowed using the powertrain and the friction brakes.
+title
+    Vehicle braking controls and methods
+similar_document
+26
+    Publication,Publication Date,Title
+    US8040084B2,2011-10-18,Vehicle, control method thereof and braking device
+    US7131708B2,2006-11-07,Coordinated regenerative and engine retard braking for a hybrid vehicle
+    US11584225B2,2023-02-21,One-pedal speed control for off-road driving
+    US8700241B2,2014-04-15,Drive control device for standby four-wheel drive vehicle
+    US9037333B2,2015-05-19,Hybrid vehicle and control method therefor
+    US11505195B2,2022-11-22,One-pedal drive filters and rate limits of powertrain torque
+    US20130244829A1,2013-09-19,Transmission Control During Regenerative Braking
+    US11584352B2,2023-02-21,Estimation of vehicle speed in all-wheel-drive vehicle
+    US9663108B2,2017-05-30,Method and apparatus for controlling creep torque in a hybrid powertrain system
+    US20220080971A1,2022-03-17,Uphill vehicle launch in one-pedal driving mode
+    CN107150678B,2020-02-21,Vehicle comprising a travel motor
+    US20160129903A1,2016-05-12,Hybrid Vehicle
+    US20170074186A1,2017-03-16,System and method for controlling torque intervention of hybrid electric vehicle during shift
+    CN111137139B,2023-03-24,Electric vehicle
+    US10518775B1,2019-12-31,Regenerative braking of vehicle with primary and secondary drive axles
+    CN108116390B,2021-04-23,Hybrid vehicle
+    US11584224B2,2023-02-21,Manual torque vectoring
+    US11498429B2,2022-11-15,Aggregating braking torque during one-pedal drive mode
+    JP2017019427A,2017-01-26,Electric vehicle
+    US20190322316A1,2019-10-24,Lateral motion control for cornering and regenerative braking energy capture
+    JP4655408B2,2011-03-23,Electric car
+    US11713043B2,2023-08-01,All-wheel drive electric vehicle with simulated axle lock
+    US11390283B2,2022-07-19,System and method for controlling vehicle during coast
+    US20220097529A1,2022-03-31,Torque control for a hybrid or electric vehicle
+    KR20220089785A,2022-06-29,Method and apparatus for controlling optimum operating point of hybrid electric vehicle
+
+patent_application
+2
+    Application,Priority date,Filing date,Relation,Title
+    US17/035,035,2020-09-28,2020-09-28,Continuation,Aggregating braking torque during one-pedal drive mode
+
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US17/986,172,2020-09-28,2022-11-14,Vehicle braking controls and methods
+
+inventor_number
+    6
+classfication_nums
+    26
+classfication_items
+160
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,6,6
+    B,6,0,T,1,3,/,6,6,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,5
+    B,6,0,T,1,3,/,5,8,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,0,2
+    B,6,0,T,7,/,0,4
+    B,6,0,T,7,/,0,4,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,2,1
+    B,6,0,T,8,/,3,2,1,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,9,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,3,6
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,1,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,1,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,6
+    B,6,0,W,2,5,1,0,/,0,6,5,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,8
+    B,6,0,W,2,5,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,6
+    B,6,0,W,2,7,1,0,/,0,6,6,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+
+application_events
+4
+    2022-11-14,Application filed by Ford Global Technologies LLC
+    2022-11-14,Priority to US17/986,172
+    2023-03-16,Publication of US20230085556A1
+    Status,Pending
+
+active_area
+4
+    U,S
+    D,E
+    C,N
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    US17/035,035,2020-09-28,Aggregating braking torque during one-pedal drive mode
+    US17/986,172,2022-11-14,Vehicle braking controls and methods
+
+legal_event
+3
+    Date,Code,Title,Description
+    2022-12-01,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2023-08-29,STPP,Information on status: patent application and granting procedure in general,Free format text: EX PARTE QUAYLE ACTION MAILED
+

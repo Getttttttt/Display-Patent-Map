@@ -1,0 +1,264 @@
+ID
+    US20210237581A1
+citation_exist
+    Patent Citations (5)
+citation_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20120053804A1                      *,2010-08-30,2012-03-01,Shimano Inc.,Bicycle regenerative brake control device
+    US20210129678A1                      *,2019-11-01,2021-05-06,Ford Global Technologies, Llc,System and method for battery preconditioning based on selected regenerative braking amount
+    Family To Family Citations,,,,
+    US20150019058A1                      *,2013-07-12,2015-01-15,Stephan P. Georgiev,Regenerative braking regulation in automotive vehicles
+    JP6508178B2                      *,2016-12-02,2019-05-08,トヨタ自動車株式会社,Vehicle brake system
+    US10852737B2                      *,2018-03-22,2020-12-01,Micron Technology, Inc.,Power management, dynamic routing and memory management for autonomous driving vehicles
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20210287546A1                      *,2020-03-11,2021-09-16,Rosco, Inc.,Advanced pedestrian and/or driver alert and/or collision avoidance system
+    US20220212542A1                      *,2021-01-07,2022-07-07,Ford Global Technologies, Llc,Regenerative braking control system for a hybrid or electric vehicle
+    US20220373338A1                      *,2014-12-05,2022-11-24,Apple Inc.,Autonomous navigation system
+    Family To Family Citations,,,,
+
+abstract
+    Embodiments of the present disclosure are directed to dynamically and automatically adjusting a standard regenerative braking intensity. Roadway data, data from one or more sensors of the vehicle and data comprising parameter values for operating states of the vehicle regarding a roadway from a route being navigated by the vehicle are received by a processor of a control system of the vehicle. Standard regenerative braking intensity values based on a vehicle's acceleration is retrieved from memory. Adjusted regenerative braking intensity values are calculated based on at least one of the roadway data, the sensor data and the parameter values of the operating states of the vehicle and the standard regenerative braking intensity values. The adjusted regenerative braking intensity values are transmitted to the control system and an acceleration or deacceleration amount is applied to the vehicle based on the adjusted regenerative braking intensity values.
+title
+    Predictive regenerative braking
+similar_document
+26
+    Publication,Publication Date,Title
+    US20210192941A1,2021-06-24,Feedback performance control and tracking
+    US10992860B2,2021-04-27,Dynamic seam adjustment of image overlap zones from multi-camera source images
+    US9984572B1,2018-05-29,Method and system for sharing parking space availability among autonomous vehicles
+    US10837790B2,2020-11-17,Productive and accident-free driving modes for a vehicle
+    US10286915B2,2019-05-14,Machine learning for personalized driving
+    US10234302B2,2019-03-19,Adaptive route and motion planning based on learned external and internal vehicle environment
+    US10906549B2,2021-02-02,Systems and methods of autonomously controlling vehicle lane change maneuver
+    US10551207B2,2020-02-04,Autonomous vehicle sensor data and map integration
+    US10845803B2,2020-11-24,Method and apparatus for simultaneous processing and logging of automotive vision system with controls and fault monitoring
+    US10982968B2,2021-04-20,Sensor fusion methods for augmented reality navigation
+    US11726189B2,2023-08-15,Real-time online calibration of coherent doppler lidar systems on vehicles
+    US10946868B2,2021-03-16,Methods and devices for autonomous vehicle operation
+    US20180143639A1,2018-05-24,Autonomy first route optimization for autonomous vehicles
+    US10369966B1,2019-08-06,Controlling access to a vehicle using wireless access devices
+    US11014569B2,2021-05-25,Vehicle control system using nonlinear dynamic model states and steering offset estimation
+    US20210141092A1,2021-05-13,Scene perception using coherent doppler lidar
+    US11636077B2,2023-04-25,Methods, devices, and systems for processing sensor data of vehicles
+    US10818110B2,2020-10-27,Methods and systems for providing a mixed autonomy vehicle trip summary
+    US11702110B2,2023-07-18,Methods and systems to enhance safety of bi-directional transition between autonomous and manual driving modes
+    US11647164B2,2023-05-09,Methods and systems for camera sharing between autonomous driving and in-vehicle infotainment electronic control units
+    WO2021158432A1,2021-08-12,Predictive regenerative braking
+    US20200094687A1,2020-03-26,Supplemental battery system
+    US11560131B2,2023-01-24,Lane prediction and smoothing for extended motion planning horizon
+    US11571987B2,2023-02-07,Optimization of battery pack size using swapping
+    US11257230B2,2022-02-22,Adaptive feature map anchor pruning
+
+patent_application
+    NoExist
+patent_priority_application
+4
+    Application,Priority date,Filing date,Title
+    US16/780,129,2020-02-03,2020-02-03,Predictive regenerative braking
+    PCT/US2021/015653,2020-02-03,2021-01-29,Predictive regenerative braking
+    CN202180007190.8A,2020-02-03,2021-01-29,Predictive regenerative braking
+
+inventor_number
+    4
+classfication_nums
+    25
+classfication_items
+143
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,1,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,1,2
+    B,6,0,T,7,/,1,6
+    B,6,0,T,7,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,1,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,7,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,5,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,1,0,/,0,0
+    B,6,0,T,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,1,0,/,0,0
+    B,6,0,T,2,2,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,1,0,/,0,0
+    B,6,0,T,2,2,1,0,/,3,0
+    B,6,0,T,2,2,1,0,/,3,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,5,0,/,0,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,1,4
+    B,6,0,W,2,0,5,0,/,1,4,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,6,/,0,0
+    B,6,0,W,2,5,5,6,/,4,5
+    B,6,0,W,2,5,5,6,/,5,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+8
+    2020-02-03,Application filed by NIO Technology Anhui Co Ltd
+    2020-02-03,Priority to US16/780,129
+    2020-06-13,Assigned to NIO USA, INC.
+    2021-01-29,Priority to PCT/US2021/015653
+    2021-01-29,Priority to CN202180007190.8A
+    2021-06-23,Assigned to NIO TECHNOLOGY (ANHUI) CO., LTD.
+    2021-08-05,Publication of US20210237581A1
+    Status,Pending
+
+active_area
+3
+    U,S
+    C,N
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US16/780,129,2020-02-03,Predictive regenerative braking
+
+legal_event
+12
+    Date,Code,Title,Description
+    2020-06-13,AS,Assignment,Owner name: NIO USA, INC., CALIFORNIAFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:RAJAIE, RICK;SMITH, JOSHUA;CARLSON, JAMIE P.;SIGNING DATES FROM 20200128 TO 20200607;REEL/FRAME:052933/0650
+    2020-06-26,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2021-06-23,AS,Assignment,Owner name: NIO TECHNOLOGY (ANHUI) CO., LTD., CHINAFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:NIO USA, INC.;REEL/FRAME:056643/0954Effective date: 20210623
+    2022-05-06,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2022-08-26,STPP,Information on status: patent application and granting procedure in general,Free format text: FINAL REJECTION MAILED
+    2022-10-30,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE AFTER FINAL ACTION FORWARDED TO EXAMINER
+    2022-11-16,STPP,Information on status: patent application and granting procedure in general,Free format text: ADVISORY ACTION MAILED
+    2022-11-22,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2023-06-26,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2023-09-30,STPP,Information on status: patent application and granting procedure in general,Free format text: AWAITING TC RESP, ISSUE FEE PAYMENT VERIFIED
+    2023-10-06,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+

@@ -1,0 +1,165 @@
+ID
+    WO2016114032A1
+citation_exist
+    Patent Citations (7)
+citation_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2000261903A                      *,1999-03-12,2000-09-22,Mitsubishi Electric Corp,電気車制御装置
+    JP2005333734A                      *,2004-05-20,2005-12-02,Fuji Electric Systems Co Ltd,車両用制御装置
+    JP2009027784A                      *,2007-07-17,2009-02-05,Mitsubishi Electric Corp,自動列車運転装置
+    JP2009055694A                      *,2007-08-27,2009-03-12,Mitsubishi Electric Corp,列車速度制御装置
+    JP2009296733A                      *,2008-06-03,2009-12-17,Hitachi Ltd,定位置自動停止制御手段を備えた電気車両の制御装置
+    Family To Family Citations,,,,
+    JPWO2010044448A1                      *,2008-10-16,2012-03-15,株式会社東芝,車両運転装置
+    KR101256315B1                      *,2011-10-18,2013-04-18,엘에스산전 주식회사,열차속도 제어장치 및 방법
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (5)
+              
+
+
+citedBy_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP7289184B2                      *,2017-06-14,2023-06-09,日本信号株式会社,自動列車運転システム
+    JP2021062844A                      *,2019-10-17,2021-04-22,ナブテスコ株式会社,滑走情報生成装置、滑走予測装置、ブレーキ装置の制御装置、及び滑走情報生成方法
+    CN111806241B                      *,2020-06-28,2022-02-18,同济大学,一种轨道交通列车再生电能回收空间确定方法
+    CZ309568B6                      *,2021-01-14,2023-04-19,ŠKODA ELECTRIC a.s,Způsob regulace a omezení rychlosti a řízení zrychlení elektrických pozemních vozidel
+    EP4122793A1                      *,2021-07-22,2023-01-25,Siemens Mobility GmbH,Verfahren und zugsicherungseinrichtung zur rechnergestützten ermittlung einer betrieblichen höchstgeschwindigkeit eines spurgebundenen fahrzeugs
+
+abstract
+    この車両に設けられる自動列車運転装置において、速度制御部は、停止限界位置に前記車両が接近したことの通知を外部装置より受けた場合であって、前記車両の速度と前記速度となった時に回生ブレーキの最大ブレーキ力で減速する制御を行った場合の単位時間当たりに減少する速度との関係を示すブレーキ力特性において回生ブレーキのブレーキ力特性がブレーキ力特性減少速度以上となることにより減少する前記ブレーキ力特性減少速度以上で前記車両が走行している場合において、回生ブレーキのブレーキ力特性を用いて算出した目標速度パターンに基づく前記車両の速度に応じた回生ブレーキのみの制動力を用いて前記車両の速度の減速を制御する。
+title
+    自動列車運転装置、自動列車制御方法及びプログラム
+similar_document
+26
+    Publication,Publication Date,Title
+    WO2016114032A1,2016-07-21,自動列車運転装置、自動列車制御方法及びプログラム
+    JP6233420B2,2017-11-29,電動車両の制御装置および電動車両の制御方法
+    KR101256315B1,2013-04-18,열차속도 제어장치 및 방법
+    EP3575132B1,2020-12-30,Electric vehicle control method and control device
+    CN105416299B,2020-01-03,用于车辆操作的系统和方法
+    EP3482995A1,2019-05-15,Train control device, method, and program
+    KR20170080168A,2017-07-10,제동 특성을 고려한 철도 차량의 속도 제어 시스템
+    CN107010074B,2020-07-07,为驾驶员辅助装置提供理论值信号的方法、机动交通工具及其控制装置
+    JP2011205738A,2011-10-13,自動列車運転装置
+    KR101866610B1,2018-06-11,철도 차량에서의 제한속도 초과 경고 장치
+    JP6696688B2,2020-05-20,列車制御装置
+    US20190381894A1,2019-12-19,Control Method for Electric Vehicle and Control Device for Electric Vehicle
+    KR20110056412A,2011-05-27,차량 운전 장치
+    JP6237789B2,2017-11-29,電動車両の制御装置および電動車両の制御方法
+    JP2011087364A,2011-04-28,自動列車運転装置，定位置停止装置
+    JP2012039738A,2012-02-23,自動列車運転装置
+    JP2010063286A,2010-03-18,列車制御システム
+    JP2019193426A,2019-10-31,列車制御装置および列車制御方法
+    JP5914374B2,2016-05-11,自動列車運転装置
+    JP7078756B2,2022-05-31,列車制御システムおよび列車制御方法
+    JP2018085900A,2018-05-31,電動車両の制御方法、及び、電動車両の制御装置
+    JP2018085901A,2018-05-31,電動車両の制御方法、及び、電動車両の制御装置
+    JP2000156920A,2000-06-06,移動体自動制御装置
+    JP6366559B2,2018-08-01,自動列車運転装置
+    JP6846946B2,2021-03-24,車両制御装置、車両制御方法、プログラム
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    CA2973667A,2015-01-14,2015-12-04,Automatic train driving apparatus, automatic train control method, and program
+    EP15877983.5A,2015-01-14,2015-12-04,Automatic train operating device, automatic train control method, and program
+
+inventor_number
+    5
+classfication_nums
+    9
+classfication_items
+48
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,3,/,0,0
+    B,6,1,L,3,/,0,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,5,0,/,0,0
+    B,6,0,T,2,2,5,0,/,0,2
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,2,7,/,0,0
+    B,6,1,L,2,7,/,0,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+4
+    2015-12-04,Application filed by 三菱重工業株式会社
+    2015-12-04,Priority to CA2973667A
+    2015-12-04,Priority to EP15877983.5A
+    2016-07-21,Publication of WO2016114032A1
+
+active_area
+4
+    J,P
+    E,P
+    C,A
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2015004938A,2015-01-14,自動列車運転装置、自動列車制御方法及びプログラム
+    JP2015-004938,2015-01-14,
+
+legal_event
+5
+    Date,Code,Title,Description
+    2016-08-31,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 15877983Country of ref document: EPKind code of ref document: A1
+    2017-07-12,ENP,Entry into the national phase,Ref document number: 2973667Country of ref document: CA
+    2017-07-15,NENP,Non-entry into the national phase,Ref country code: DE
+    2017-07-26,REEP,Request for entry into the european phase,Ref document number: 2015877983Country of ref document: EP
+

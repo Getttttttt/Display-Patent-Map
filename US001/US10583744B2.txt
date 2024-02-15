@@ -1,0 +1,180 @@
+ID
+    US10583744B2
+citation_exist
+    Patent Citations (16)
+citation_infor
+18
+    Publication number,Priority date,Publication date,Assignee,Title
+    DE19510755A1,1995-03-24,1996-10-02,Abb Patent Gmbh,Device for detecting and monitoring emergency braking effect of railway locomotive
+    DE19755112A1,1996-12-21,1998-06-25,Volkswagen Ag,Vehicle braking effect monitoring device
+    EP0932033A1,1998-01-24,1999-07-28,DaimlerChrysler AG,Apparatus for determining the mass of a vehicle
+    DE19810213A1,1998-03-10,1999-09-23,Bosch Gmbh Robert,Method and device for generating a signal representative of a motor vehicle running conditions
+    DE10026687A1,2000-05-30,2001-12-13,Knorr Bremse Systeme,Method and device for monitoring the effectiveness of vehicle brake systems
+    DE102005046017A1,2004-09-28,2006-04-13,Continental Teves Ag & Co. Ohg,Method for implementing brake applications involves examining of vehicle during still position, if rolling of vehicle is determined during given time span, which starts with rolling, it is examined if vehicle arrives in still position
+    US20070219682A1,2006-03-20,2007-09-20,Ajith Kumar,Method, system and computer software code for trip optimization with train/track database augmentation
+    US7533943B2                      *,2002-04-18,2009-05-19,Siemens Aktiengesellschaft,Method for electrodynamically braking a rail vehicle
+    DE102008034654A1,2008-07-25,2010-02-04,Knorr-Bremse Systeme für Nutzfahrzeuge GmbH,Sensor device for e.g. anti-lock brake system in commercial vehicle, has circuit carrier produced by thick-film technology, and formed such that pressure and acceleration sensors are surface mountable in production process step
+    US20100292875A1                      *,2006-02-23,2010-11-18,Siemens Aktiengesellschaft,Method for Braking a Rail Vehicle
+    DE102011052545A1,2011-08-10,2013-02-14,Bombardier Transportation Gmbh,Brake control for a vehicle
+    DE102011113086A1,2011-09-09,2013-03-14,Knorr-Bremse Systeme für Schienenfahrzeuge GmbH,Brake force detection for dynamic braking of a rail vehicle
+    DE102012219984A1,2012-10-31,2014-04-30,Siemens Aktiengesellschaft,Brake actuator for a brake system of a vehicle, in particular a rail vehicle
+    US20150032302A1                      *,2012-02-29,2015-01-29,Siemens Aktiengesellschaft,Rail vehicle braking device and method for braking a rail vehicle
+    Family To Family Citations,,,,
+    DE19743059A1                      *,1997-09-30,1999-04-22,Bosch Gmbh Robert,Method and device for determining a variable representing the driving resistance in a motor vehicle
+    CN100404333C                      *,2004-12-22,2008-07-23,日产自动车株式会社,Braking force control method for automotive vehicle and braking force control apparatus therefore
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (13)
+              
+
+
+citedBy_infor
+15
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20200207322A1                      *,2017-08-31,2020-07-02,Knorr-Bremse Systeme für Schienenfahrzeuge GmbH,Method and equipment for determining braking-relevant actual values of a rail vehicle for the performance of controlled-retardation braking with distributed sensors
+    WO2023012192A1                      *,2021-08-06,2023-02-09,Knorr-Bremse Systeme für Nutzfahrzeuge GmbH,Ascertaining a deceleration quantity, in particular a possible deceleration quantity
+    WO2023012189A1                      *,2021-08-06,2023-02-09,Knorr-Bremse Systeme für Nutzfahrzeuge GmbH,Ascertaining a deceleration quantity, in particular a possible deceleration quantity
+    Family To Family Citations,,,,
+    DE102017215293A1                      *,2017-08-31,2019-02-28,Knorr-Bremse Systeme für Schienenfahrzeuge GmbH,Brake actuator for a rail vehicle
+    DE102017119994B4,2017-08-31,2020-08-27,Knorr-Bremse Systeme für Schienenfahrzeuge GmbH,Method and device for determining braking-relevant actual values of a rail vehicle for the implementation of deceleration-controlled braking with central sensors
+    CN109795518B,2017-11-17,2021-03-19,中车唐山机车车辆有限公司,Rail train braking control system and train
+    DE102018112846A1                      *,2018-05-29,2019-12-05,Knorr-Bremse Systeme für Schienenfahrzeuge GmbH,Control device and method for controlling an actuator for actuating brake means of a vehicle, in particular a rail vehicle
+    FR3088879B1                      *,2018-11-22,2021-03-05,Speedinnov,Rail vehicle with advanced braking system
+    DE102019108447A1,2019-04-01,2020-10-01,Knorr-Bremse Systeme für Schienenfahrzeuge GmbH,Brake control device, braking method and braking system for a rail vehicle
+    DE102019117089A1,2019-06-25,2020-12-31,Knorr-Bremse Systeme für Schienenfahrzeuge GmbH,Method for calibrating the orientation of an acceleration sensor provided in a vehicle
+    CN112477832B                      *,2020-12-11,2022-05-06,交控科技股份有限公司,Integrated brake control platform suitable for railway vehicle
+    DE102021208234A1                      *,2021-07-29,2023-02-02,Knorr-Bremse Systeme für Schienenfahrzeuge GmbH,Multi-variable deceleration control device for a rail vehicle unit, multi-variable deceleration control system for a rail vehicle or a train set, and method for deceleration control of a rail vehicle unit of a rail vehicle
+    AT525681B1                      *,2021-11-18,2023-09-15,Datasoft Embedded Gmbh,Method for selectively connecting a mechanical friction brake to an electrodynamic brake
+
+abstract
+    A braking system for a rail vehicle includes a target value generator for the target value of the overall braking power, a controller for determining at least one manipulated variable value on the basis of the target value and at least one actuator which transmits the manipulated variable value to the at least one braking device. The system at least approximately determines acceleration components of the rail vehicle and determines the actual value of the total braking power from the acceleration components while taking the vehicle speed and the vehicle mass into consideration. The controller is designed to control the manipulated variable value such as to reduce the control deviation between the target value and the determined actual value.
+title
+    Braking system for a rail vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US10583744B2,2020-03-10,Braking system for a rail vehicle
+    KR101493634B1,2015-02-13,Brake pressure computing apparatus, brake control system, and non-transitory computer-readable memory medium
+    CN108463370B,2021-02-26,Brake control device, brake control method, train, and program
+    JP5540092B2,2014-07-02,Method and system for changing the trajectory of a vehicle
+    US9545907B2,2017-01-17,Control valve device for a rail vehicle brake
+    EP2581259A1,2013-04-17,Pitching control device for electric vehicle
+    US20110035103A1,2011-02-10,Method and system for manipulating the movement of a vehicle body of a motor vehicle controllable or adjustable with respect to its movement processes and vehicle
+    CN101372230A,2009-02-25,Vehicle drive control apparatus
+    JP2008285066A,2008-11-27,Yaw moment control device for vehicle using jerk information
+    KR102074010B1,2020-02-05,Method for controlling a drive and brake device of a vehicle having a friction brake
+    CN106843231A,2017-06-13,Pilotless automobile, the control method of pilotless automobile and its control device
+    US9517756B2,2016-12-13,Method and system for operating a motor vehicle brake system
+    EP0980804A2,2000-02-23,Yaw rate control method
+    KR20080012924A,2008-02-12,Driving condition adapted to the steering engagement based on vehicle dynamic control
+    US11697405B2,2023-07-11,Method and device for determining braking-related actual values of a rail vehicle for carrying out a deceleration-controlled braking with a central sensor system
+    US20200207322A1,2020-07-02,Method and equipment for determining braking-relevant actual values of a rail vehicle for the performance of controlled-retardation braking with distributed sensors
+    JP2007515347A,2007-06-14,Brake pressure control method for roads with non-uniform friction values
+    CN108025712B,2021-03-02,Method for operating a brake control system for a rail vehicle having a brake system, brake control system, brake system and rail vehicle
+    CN109153380B,2021-03-23,Method and device for controlling or regulating a brake system
+    CN116034065A,2023-04-28,Method for automatically guiding a vehicle, driving control unit and vehicle
+    JP2012039738A,2012-02-23,Automatic train operating device
+    US11313420B2,2022-04-26,Control system in a four-wheel-drive motor vehicle and method for control
+    EP2871110B1,2018-07-04,Crosswind stabilisation method and associated rail vehicle
+    US20190359189A1,2019-11-28,Method for maintaining total braking power of a train while taking the available friction conditions into consideration
+    EP3842300B1,2022-09-28,Brake abnormality determination device, brake state storage device, abnormality determination method, abnormality determination program, and brake control device
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    5
+classfication_nums
+    6
+classfication_items
+37
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,6,6
+    B,6,0,T,1,3,/,6,6,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,0,1
+    B,6,0,T,8,/,1,7,0,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,4,2
+
+application_events
+7
+    2016-06-17,Application filed by Knorr Bremse Systeme fuer Schienenfahrzeuge GmbH
+    2018-07-12,Publication of US20180194233A1
+    2019-08-24,Assigned to Knorr-Bremse Systeme für Schienenfahrzeuge GmbH
+    2020-03-10,Application granted
+    2020-03-10,Publication of US10583744B2
+    Status,Active
+    2036-06-24,Adjusted expiration
+
+active_area
+5
+    C,N
+    W,O
+    E,P
+    E,S
+    U,S
+
+not_active_area
+1
+    D,E
+
+patent_application_claiming_priority
+5
+    Application,Filing date,Title
+    DE102015110053.3A,2015-06-23,Braking system for a rail vehicle
+    DE102015110053.3,2015-06-23,
+    DE102015110053,2015-06-23,
+    PCT/EP2016/064055,2016-06-17,Braking system for a rail vehicle
+
+legal_event
+11
+    Date,Code,Title,Description
+    2017-12-22,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2019-03-01,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2019-06-20,STPP,Information on status: patent application and granting procedure in general,Free format text: FINAL REJECTION MAILED
+    2019-08-24,AS,Assignment,Owner name: KNORR-BREMSE SYSTEME FUER SCHIENENFAHRZEUGE GMBH,Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:MUELLER, CLAUS;TOMBERGER, CHRISTOPH;FRIESEN, ULF;AND OTHERS;SIGNING DATES FROM 20180105 TO 20180126;REEL/FRAME:050158/0968Owner name: KNORR-BREMSE SYSTEME FUER SCHIENENFAHRZEUGE GMBH, GERMANYFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:MUELLER, CLAUS;TOMBERGER, CHRISTOPH;FRIESEN, ULF;AND OTHERS;SIGNING DATES FROM 20180105 TO 20180126;REEL/FRAME:050158/0968
+    2019-08-28,STPP,Information on status: patent application and granting procedure in general,Free format text: ADVISORY ACTION MAILED
+    2019-10-02,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2019-10-24,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2020-01-28,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT RECEIVED
+    2020-02-19,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2023-08-28,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

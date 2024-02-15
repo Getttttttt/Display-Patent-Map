@@ -1,0 +1,299 @@
+ID
+    EP3276216B1
+citation_exist
+    Patent Citations (8)
+citation_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP4316520B2                      *,2005-03-10,2009-08-19,富士通テン株式会社,Vehicle control apparatus and control method thereof
+    JP4730296B2                      *,2006-12-26,2011-07-20,トヨタ自動車株式会社,Control device for hybrid drive
+    US8612074B2                      *,2010-05-07,2013-12-17,GM Global Technology Operations LLC,Regenerative braking control in vehicles
+    CN102906466A                      *,2010-05-21,2013-01-30,丰田自动车株式会社,Vehicle gear shifting control device
+    JP5646941B2                      *,2010-10-01,2014-12-24,ジヤトコ株式会社,Coast stop vehicle
+    JP5691602B2                      *,2011-02-15,2015-04-01,日産自動車株式会社,Shift control device and control method for continuously variable transmission
+    JP2013086649A,2011-10-18,2013-05-13,Jatco Ltd,Controller for hybrid vehicle
+    US9989150B2                      *,2013-03-22,2018-06-05,Jatco Ltd,Control device for belt-type continuously variable transmission
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (5)
+              
+
+
+citedBy_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    EP3273101B1                      *,2015-03-20,2019-09-25,Nissan Motor Co., Ltd.,Vehicle regenerative speed control device
+    JP6879196B2                      *,2017-12-27,2021-06-02,トヨタ自動車株式会社,Control device for vehicle power transmission device
+    KR102532321B1                      *,2018-03-23,2023-05-15,현대자동차주식회사,Method for controlling pulley of continuously variable transmission
+    WO2020095742A1                      *,2018-11-07,2020-05-14,ジヤトコ株式会社,Control device for continuously variable transmission
+    WO2021106758A1                      *,2019-11-29,2021-06-03,ジヤトコ株式会社,Control device and control method for automatic transmission
+
+abstract
+    
+title
+    Vehicle and vehicle control method
+similar_document
+23
+    Publication,Publication Date,Title
+    EP3276216B1,2019-01-02,Vehicle and vehicle control method
+    US10507833B2,2019-12-17,Vehicle control device and method for controlling the same
+    TWI444550B,2014-07-11,Method and system for controlling hydraulic apparatus for continuously variable transmission of hybrid vehicle system
+    US11193584B2,2021-12-07,Hybrid vehicle control device
+    US10550938B2,2020-02-04,Vehicle and method for controlling the same
+    WO2014017356A1,2014-01-30,Control device and control method for automatic transmission
+    JP6437125B2,2018-12-12,Hydraulic control device and hydraulic control method for continuously variable transmission for vehicle
+    JP2008106896A,2008-05-08,Controller of vehicle with belt-type continuously variable transmission
+    US10240672B2,2019-03-26,Control device for continuously variable transmission and method for controlling the same
+    EP3176045B1,2018-05-09,Control device and control method for vehicle
+    EP3358227B1,2020-09-09,Vehicle control apparatus and vehicle control method
+    JP6568754B2,2019-08-28,VEHICLE DRIVE DEVICE AND CONTROL METHOD FOR VEHICLE DRIVE DEVICE
+    JP6242835B2,2017-12-06,Control device for automatic transmission
+    JP2019211025A,2019-12-12,Vehicle controller and vehicle control method
+    JP4269893B2,2009-05-27,Control device for vehicle equipped with continuously variable transmission
+    JP7123565B2,2022-08-23,vehicle controller
+    JP2013067265A,2013-04-18,Control device of vehicle
+    JP6770317B2,2020-10-14,Powertrain control device and powertrain control method
+    JP4345552B2,2009-10-14,Control device for vehicle equipped with continuously variable transmission
+    JP6476026B2,2019-02-27,Vehicle and vehicle control method
+    JP2018118708A,2018-08-02,Vehicle control device
+    JP2018115703A,2018-07-26,Vehicle and vehicle control method
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    8
+classfication_nums
+    21
+classfication_items
+131
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,6,1,/,0,0
+    F,1,6,H,6,1,/,6,6
+    F,1,6,H,6,1,/,6,6,2
+    F,1,6,H,6,1,/,6,6,2,7,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,0
+    B,6,0,W,1,0,/,1,0,1
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,5,0
+    B,6,0,K,6,/,5,4
+    B,6,0,K,6,/,5,4,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B,6,0,W,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,0,6,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,6,1,/,0,0
+    F,1,6,H,6,1,/,0,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,3,0
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,2
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,1,8
+    B,6,0,Y,2,3,0,0,/,1,8,0,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,2,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,0,4
+    Y,1,0,S,9,0,3,/,9,1,5
+    Y,1,0,S,9,0,3,/,9,1,7
+    Y,1,0,S,9,0,3,/,9,1,8
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,4,5
+
+application_events
+7
+    2016-02-18,Application filed by Nissan Motor Co Ltd, JATCO Ltd
+    2018-01-31,Publication of EP3276216A1
+    2018-05-02,Publication of EP3276216A4
+    2019-01-02,Application granted
+    2019-01-02,Publication of EP3276216B1
+    Status,Active
+    2036-02-18,Anticipated expiration
+
+active_area
+6
+    U,S
+    K,R
+    E,P
+    C,N
+    J,P
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2015059517,2015-03-23,
+    PCT/JP2016/054655,2016-02-18,Vehicle and vehicle control method
+
+legal_event
+57
+    Date,Code,Title,Description
+    2017-09-08,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE INTERNATIONAL PUBLICATION HAS BEEN MADE
+    2017-12-29,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2017-12-29,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+    2018-01-31,17P,Request for examination filed,Effective date: 20170907
+    2018-01-31,AK,Designated contracting states,Kind code of ref document: A1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2018-01-31,AX,Request for extension of the european patent,Extension  state: BA ME
+    2018-05-02,A4,Supplementary search report drawn up and despatched,Effective date: 20180329
+    2018-05-02,RIC1,Information provided on ipc code assigned before grant,Ipc: B60W  30/18        20120101ALI20180323BHEPIpc: B60L   7/14        20060101ALI20180323BHEPIpc: B60L  15/20        20060101ALI20180323BHEPIpc: F16H  61/02        20060101AFI20180323BHEPIpc: B60W  20/00        20160101ALI20180323BHEPIpc: F16H  61/662       20060101ALI20180323BHEPIpc: B60W  10/10        20120101ALI20180323BHEP
+    2018-06-27,DAV,Request for validation of the european patent (deleted),
+    2018-06-27,DAX,Request for extension of the european patent (deleted),
+    2018-09-19,RIC1,Information provided on ipc code assigned before grant,Ipc: B60W  20/00        20160101ALI20180815BHEPIpc: F16H  61/02        20060101AFI20180815BHEPIpc: B60L  15/20        20060101ALI20180815BHEPIpc: B60W  10/10        20120101ALI20180815BHEPIpc: B60W  30/18        20120101ALI20180815BHEPIpc: F16H  61/662       20060101ALI20180815BHEPIpc: B60L   7/14        20060101ALI20180815BHEP
+    2018-10-01,GRAP,Despatch of communication of intention to grant a patent,Free format text: ORIGINAL CODE: EPIDOSNIGR1
+    2018-10-01,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: GRANT OF PATENT IS INTENDED
+    2018-10-31,INTG,Intention to grant announced,Effective date: 20181002
+    2018-11-16,GRAS,Grant fee paid,Free format text: ORIGINAL CODE: EPIDOSNIGR3
+    2018-11-19,GRAJ,Information related to disapproval of communication of intention to grant by the applicant or resumption of examination proceedings by the epo deleted,Free format text: ORIGINAL CODE: EPIDOSDIGR1
+    2018-11-19,GRAL,Information related to payment of fee for publishing/printing deleted,Free format text: ORIGINAL CODE: EPIDOSDIGR3
+    2018-11-19,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+    2018-11-27,GRAR,Information related to intention to grant a patent recorded,Free format text: ORIGINAL CODE: EPIDOSNIGR71
+    2018-11-27,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: GRANT OF PATENT IS INTENDED
+    2018-11-30,GRAA,(expected) grant,Free format text: ORIGINAL CODE: 0009210
+    2018-11-30,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE PATENT HAS BEEN GRANTED
+    2018-12-26,INTC,Intention to grant announced (deleted),
+    2018-12-26,RAP1,Party data changed (applicant data changed or rights of an application transferred),Owner name: NISSAN MOTOR CO., LTD.Owner name: JATCO LTD
+    2019-01-02,AK,Designated contracting states,Kind code of ref document: B1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2019-01-02,INTG,Intention to grant announced,Effective date: 20181127
+    2019-01-02,REG,Reference to a national code,Ref country code: GBRef legal event code: FG4D
+    2019-01-15,REG,Reference to a national code,Ref country code: CHRef legal event code: EPRef country code: ATRef legal event code: REFRef document number: 1084789Country of ref document: ATKind code of ref document: TEffective date: 20190115
+    2019-01-23,REG,Reference to a national code,Ref country code: IERef legal event code: FG4D
+    2019-01-24,REG,Reference to a national code,Ref country code: DERef legal event code: R096Ref document number: 602016009050Country of ref document: DE
+    2019-05-08,REG,Reference to a national code,Ref country code: NLRef legal event code: MPEffective date: 20190102
+    2019-05-27,REG,Reference to a national code,Ref country code: LTRef legal event code: MG4D
+    2019-06-15,REG,Reference to a national code,Ref country code: ATRef legal event code: MK05Ref document number: 1084789Country of ref document: ATKind code of ref document: TEffective date: 20190102
+    2019-06-28,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: NLFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190102
+    2019-07-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: NOFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190402Ref country code: SEFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190102Ref country code: PTFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190502Ref country code: FIFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190102Ref country code: LTFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190102Ref country code: PLFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190102Ref country code: ESFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190102
+    2019-08-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: GRFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190403Ref country code: HRFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190102Ref country code: ISFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190502Ref country code: LVFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190102Ref country code: RSFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190102Ref country code: BGFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190402
+    2019-09-30,REG,Reference to a national code,Ref country code: CHRef legal event code: PL
+    2019-10-03,REG,Reference to a national code,Ref country code: DERef legal event code: R097Ref document number: 602016009050Country of ref document: DE
+    2019-10-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: SKFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190102Ref country code: LUFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20190218Ref country code: DKFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190102Ref country code: CZFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190102Ref country code: ROFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190102Ref country code: ITFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190102Ref country code: EEFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190102Ref country code: ATFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190102Ref country code: MCFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190102Ref country code: ALFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190102
+    2019-11-08,PLBE,No opposition filed within time limit,Free format text: ORIGINAL CODE: 0009261
+    2019-11-08,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: NO OPPOSITION FILED WITHIN TIME LIMIT
+    2019-11-20,REG,Reference to a national code,Ref country code: BERef legal event code: MMEffective date: 20190228
+    2019-11-27,REG,Reference to a national code,Ref country code: IERef legal event code: MM4A
+    2019-11-29,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: SMFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190102
+    2019-12-11,26N,No opposition filed,Effective date: 20191003
+    2019-12-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: CHFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20190228Ref country code: LIFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20190228
+    2020-01-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: IEFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20190218
+    2020-02-28,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: SIFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190102Ref country code: BEFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20190228Ref country code: FRFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20190302
+    2020-03-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: TRFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190102
+    2020-06-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: MTFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20190218
+    2020-10-28,GBPC,Gb: european patent ceased through non-payment of renewal fee,Effective date: 20200218
+    2021-01-29,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: GBFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20200218
+    2021-05-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: CYFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190102
+    2021-07-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: HUFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT; INVALID AB INITIOEffective date: 20160218
+    2022-06-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: MKFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190102
+    2023-05-31,PGFP,Annual fee paid to national office [announced via postgrant information from national office to epo],Ref country code: DEPayment date: 20221229Year of fee payment: 8
+

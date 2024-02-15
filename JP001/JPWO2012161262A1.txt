@@ -1,0 +1,200 @@
+ID
+    JPWO2012161262A1
+citation_exist
+    Patent Citations (8)
+citation_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH05264086A                      *,1992-03-19,1993-10-12,Hitachi Ltd,空気調和装置およびその制御装置
+    JP2003285637A                      *,2002-03-29,2003-10-07,Toshiba Corp,車両用空調制御方法
+    JP2008285126A                      *,2007-05-21,2008-11-27,Toyota Motor Corp,空調制御装置
+    WO2009150724A1                      *,2008-06-11,2009-12-17,三菱電機株式会社,車両用空調装置、車両空調管理システム及び車両空調管理方法
+    Family To Family Citations,,,,
+    JP4924301B2                      *,2007-08-31,2012-04-25,トヨタ自動車株式会社,電池の冷却装置
+    JP2009196404A                      *,2008-02-19,2009-09-03,Fujitsu Ten Ltd,ハイブリッド制御装置、空調制御装置、ハイブリッド車両の制御方法
+    JP2009225630A                      *,2008-03-18,2009-10-01,Toshiba Corp,負荷調整装置を有する電気車
+    JP4725815B2                      *,2008-11-21,2011-07-13,本田技研工業株式会社,蓄電器冷却装置
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (7)
+              
+
+
+citedBy_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN112606694A                      *,2020-12-25,2021-04-06,中国第一汽车股份有限公司,一种车辆能量回收分配方法、装置、车辆及存储介质
+    Family To Family Citations,,,,
+    DE102013207952A1                      *,2013-04-30,2014-10-30,Siemens Aktiengesellschaft,Vorrichtung zum Betreiben zumindest eines elektrischen Verbrauchers eines Schienenfahrzeugs
+    JP6193117B2                      *,2013-12-27,2017-09-06,株式会社東芝,車両空調制御装置
+    EP2899055B1                      *,2014-01-23,2017-03-15,Mitsubishi Electric R&D Centre Europe B.V.,Method and a device for controlling the voltage of a catenary supplying electric power to rolling stock
+    GB201408912D0,2014-05-20,2014-07-02,Jaguar Land Rover Ltd,Vehicle control system and method
+    JP6375725B2                      *,2014-06-30,2018-08-22,三菱電機株式会社,空調制御装置、空調装置および空調制御方法
+    CN112644288B                      *,2020-12-25,2022-04-12,中国第一汽车股份有限公司,一种车辆能量回收分配方法、装置、车辆及存储介质
+
+abstract
+    移動体の車内温度を目標温度近傍に維持しながら、回生電力により回収される空調負荷を最大化することにより、移動体自身で回生電力を効率よく消費し、回生効率を大幅に向上させる。  運動エネルギーを電気エネルギーに変換するエネルギー変換装置を備えた移動体の制御装置において、移動体の室内温度を制御する空調装置と、移動体のブレーキ開始位置を把握するブレーキ開始位置把握手段とを設ける。そして、ブレーキ開始位置の手前の地点において、空調装置の負荷を予め零とし、ブレーキ開始位置において、暖房時であれば室温が最低許容温度に、冷房時であれば、室温が最高許容温度になるよう制御する。これにより、ブレーキ開始からブレーキ終了までの期間において、エネルギー変換装置による回生される電気エネルギーを、空調装置で最大限消費されるようにする。
+title
+    移動体の制御装置および制御方法
+similar_document
+23
+    Publication,Publication Date,Title
+    JP5937584B2,2016-06-22,移動体の制御装置および制御方法
+    US20160075350A1,2016-03-17,Device for Operating at Least one Electrical Consumer of a Rail Vehicle
+    JP5840309B2,2016-01-06,車両用空調制御装置
+    JP4188135B2,2008-11-26,輸送システムによって消費される電力を監視し且つ調整するための方法およびシステム
+    US9254753B2,2016-02-09,Train-information management device and device control method
+    JP5174999B1,2013-04-03,列車情報管理装置および機器制御方法
+    CN111086367B,2023-05-23,空调控制装置、空调控制方法及存储介质
+    US20120080178A1,2012-04-05,Energy-efficient controlling of air conditioning system
+    JP2009296733A,2009-12-17,定位置自動停止制御手段を備えた電気車両の制御装置
+    EP2805862B1,2016-04-06,Traction system for railway vehicles and railway vehicles where the system is equipped
+    EP2623361A1,2013-08-07,Brake control apparatus for vehicle, and brake control apparatus for multi-car train
+    JP5775798B2,2015-09-09,電池電車システム
+    JP2012039738A,2012-02-23,自動列車運転装置
+    TWI808110B,2023-07-11,用於自動管理電動車輛存儲的能量的方法和系統
+    JP4709654B2,2011-06-22,交通システム
+    JP2010284032A,2010-12-16,列車総括制御システム
+    JP6272166B2,2018-01-31,ブレーキ制御装置およびブレーキ制御方法
+    KR101529784B1,2015-06-17,충전상태에 따른 보조모터 및 에어컴프레셔 동작 제어방법
+    JP6193117B2,2017-09-06,車両空調制御装置
+    CN111491814B,2023-09-22,用于估计机动车辆的热调节系统的能量的方法
+    JP2014144755A,2014-08-14,列車制御システム
+    JP2022055581A,2022-04-08,車両制御装置及び車両制御方法
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    8
+classfication_nums
+    13
+classfication_items
+82
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B
+    B,6,0
+    B,6,0,H
+    B,6,0,H,1,/,0,0
+    B,6,0,H,1,/,0,0,6,4,2
+    B,6,0,H,1,/,0,0,7,3,5
+    B,6,0,H,1,/,0,0,7,6,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,5
+    B,6,0,T,1,3,/,5,8,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,6,6
+    B,6,0,T,1,3,/,6,6,5
+    B
+    B,6,0
+    B,6,0,H
+    B,6,0,H,1,/,0,0
+    B,6,0,H,1,/,0,0,6,4,2
+    B,6,0,H,1,/,0,0,7,3
+    B,6,0,H,2,0,0,1,/,0,0,7,3,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,3,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,2
+    B,6,0,L,2,2,4,0,/,6,2,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+6
+    2012-05-24,Application filed by Hitachi Ltd
+    2014-07-31,Publication of JPWO2012161262A1
+    2016-06-22,Application granted
+    2016-06-22,Publication of JP5937584B2
+    Status,Active
+    2032-05-24,Anticipated expiration
+
+active_area
+2
+    J,P
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2011117913,2011-05-26,
+    JP2011117913,2011-05-26,
+    PCT/JP2012/063346,2012-05-24,移動体の制御装置および制御方法
+
+legal_event
+11
+    Date,Code,Title,Description
+    2014-05-21,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20140520
+    2014-07-19,A521,Written amendment,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20140718
+    2015-02-25,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20150224
+    2015-04-24,A521,Written amendment,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20150424
+    2015-12-02,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20151201
+    2015-12-11,A521,Written amendment,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20151211
+    2016-04-28,TRDD,Decision of grant or rejection written,
+    2016-05-10,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20160510
+    2016-05-19,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20160512
+    2016-05-20,R150,Certificate of patent or registration of utility model,Ref document number: 5937584Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R150
+

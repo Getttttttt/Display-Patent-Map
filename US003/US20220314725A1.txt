@@ -1,0 +1,232 @@
+ID
+    US20220314725A1
+citation_exist
+    Patent Citations (16)
+citation_infor
+18
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JPH0696362B2                      *,1986-03-25,1994-11-30,日産自動車株式会社,Vehicle suspension control device
+    JP2907824B2                      *,1987-03-09,1999-06-21,株式会社日立製作所,Suspension control method
+    JPH0655578B2                      *,1987-08-13,1994-07-27,日産自動車株式会社,Suspension sheet
+    JP3155376B2                      *,1992-10-16,2001-04-09,株式会社ショーワ,Vehicle suspension control device
+    JP3860251B2                      *,1996-05-23,2006-12-20,日産ディーゼル工業株式会社,Suspension damping force control device
+    KR100820412B1                      *,2001-08-27,2008-04-08,현대자동차주식회사,control method of electronic control system for suspension system of an automotive vehicle
+    US8473163B2                      *,2007-02-02,2013-06-25,Techno-Sciences, Inc.,Method of determining impact severity and adaptive impact attenuation
+    US8413942B2                      *,2008-04-11,2013-04-09,Agco Corporation,Adjustable suspension system for a seat
+    JP2010029459A                      *,2008-07-29,2010-02-12,Denso Corp,Driver's attention recovering device
+    RU2561478C1                      *,2011-07-20,2015-08-27,Тойота Дзидося Кабусики Кайся,Vehicle control system
+    JP5234224B1                      *,2011-07-20,2013-07-10,トヨタ自動車株式会社,Vehicle control device
+    US9199563B2                      *,2013-06-04,2015-12-01,Bose Corporation,Active suspension of a motor vehicle passenger seat
+    JP2016097904A                      *,2014-11-26,2016-05-30,Ｋｙｂ株式会社,Attitude control device and control method
+    JP6578024B2                      *,2015-06-03,2019-09-18,クリアモーション，インコーポレイテッド,Method and system for controlling body movement and occupant experience
+    DE102016009081A1                      *,2016-07-26,2018-02-01,Man Truck & Bus Ag,Method and device for controlling or regulating a cab storage
+    JP2018118532A                      *,2017-01-23,2018-08-02,本田技研工業株式会社,Vehicle seat control device, vehicle seat control method, and vehicle seat control program
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    A control device controls a vehicle including a seat suspension which is provided between a chassis and a seat of the vehicle and restricts vibration and of which each of a spring constant and a damping coefficient is changeable and controllable. The control device detects, as vehicle information, a vehicle speed, an acceleration, a state of acceleration operation by a driver, a state of deceleration operation by the driver, and a state of steering by the driver. The control device determines, based on the vehicle information, whether the driver has driving preference of emphasizing the steering stability performance of the vehicle or driving preference of emphasizing the ride comfort performance of the vehicle, and, according to the determined driving preference, changes an acceleration of the seat by controlling the seat suspension.
+title
+    Vehicle control device
+similar_document
+26
+    Publication,Publication Date,Title
+    US8718872B2,2014-05-06,Vehicle attitude controller
+    US8880293B2,2014-11-04,Vehicle motion control apparatus and suspension control apparatus
+    EP2223838B1,2011-11-09,Vehicle driving operation support apparatus/process and cooperation control
+    US20230079941A1,2023-03-16,Adjustable vehicle suspension system
+    US7788011B2,2010-08-31,Braking and drive force control apparatus for a vehicle
+    US9074544B2,2015-07-07,Control apparatus for vehicle
+    US9079579B2,2015-07-14,Control apparatus for vehicle and control method for vehicle
+    EP2223839A1,2010-09-01,Vehicle driving operation support apparatus/process and inducement control
+    CN107651026B,2021-10-15,Method and device for controlling or adjusting a cab mount
+    US9238462B2,2016-01-19,Control apparatus for vehicle
+    KR20110014078A,2011-02-10,Suspension control system
+    US11524684B2,2022-12-13,Vehicle control device for an adaptive variable suspension
+    US9150074B2,2015-10-06,Control apparatus for vehicle
+    JP2010000989A,2010-01-07,Two-wheeled automobile
+    JP4858756B2,2012-01-18,Brake control device
+    JP2007040497A,2007-02-15,Controller of variable damping force damper
+    US20220314725A1,2022-10-06,Vehicle control device
+    JP4821766B2,2011-11-24,Vehicle suspension system
+    JP2010188928A,2010-09-02,Vehicle behavior controller
+    JP4899710B2,2012-03-21,Vehicles that harmonize emergency avoidance drivability and vehicle body vibration suppression
+    JP7095970B2,2022-07-05,Vehicle control unit
+    JP2009040386A,2009-02-26,Turning posture control device for automobile
+    CN116615369A,2023-08-18,Suspension system with overall pitch stability control
+    JP2023046821A,2023-04-05,Vehicle and vehicle suspension control method
+    JP2009248642A,2009-10-29,Vehicle behavior control device
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    22
+classfication_items
+127
+    B
+    B,6,0
+    B,6,0,N
+    B,6,0,N,2,/,0,0
+    B,6,0,N,2,/,5,0
+    B
+    B,6,0
+    B,6,0,G
+    B,6,0,G,1,7,/,0,0
+    B,6,0,G,1,7,/,0,1,5
+    B,6,0,G,1,7,/,0,1,9,5
+    B
+    B,6,0
+    B,6,0,N
+    B,6,0,N,2,/,0,0
+    B,6,0,N,2,/,5,0
+    B,6,0,N,2,/,5,0,1
+    B
+    B,6,0
+    B,6,0,G
+    B,6,0,G,1,7,/,0,0
+    B,6,0,G,1,7,/,0,1,5
+    B
+    B,6,0
+    B,6,0,G
+    B,6,0,G,1,7,/,0,0
+    B,6,0,G,1,7,/,0,1,5
+    B,6,0,G,1,7,/,0,1,6
+    B,6,0,G,1,7,/,0,1,6,4
+    B
+    B,6,0
+    B,6,0,G
+    B,6,0,G,1,7,/,0,0
+    B,6,0,G,1,7,/,0,1,5
+    B,6,0,G,1,7,/,0,1,8
+    B
+    B,6,0
+    B,6,0,N
+    B,6,0,N,2,/,0,0
+    B,6,0,N,2,/,2,4
+    B,6,0,N,2,/,4,2
+    B,6,0,N,2,/,4,2,0,7
+    B
+    B,6,0
+    B,6,0,N
+    B,6,0,N,2,/,0,0
+    B,6,0,N,2,/,2,4
+    B,6,0,N,2,/,4,2
+    B,6,0,N,2,/,4,2,7
+    B
+    B,6,0
+    B,6,0,N
+    B,6,0,N,2,/,0,0
+    B,6,0,N,2,/,5,0
+    B,6,0,N,2,/,5,0,5
+    B
+    B,6,0
+    B,6,0,R
+    B,6,0,R,1,6,/,0,0
+    B,6,0,R,1,6,/,0,2
+    B,6,0,R,1,6,/,0,3,7
+    B
+    B,6,0
+    B,6,0,G
+    B,6,0,G,2,4,0,0,/,0,0
+    B,6,0,G,2,4,0,0,/,1,0
+    B
+    B,6,0
+    B,6,0,G
+    B,6,0,G,2,4,0,0,/,0,0
+    B,6,0,G,2,4,0,0,/,1,0
+    B,6,0,G,2,4,0,0,/,1,0,6
+    B
+    B,6,0
+    B,6,0,G
+    B,6,0,G,2,4,0,0,/,0,0
+    B,6,0,G,2,4,0,0,/,2,0
+    B,6,0,G,2,4,0,0,/,2,0,4
+    B
+    B,6,0
+    B,6,0,G
+    B,6,0,G,2,4,0,0,/,0,0
+    B,6,0,G,2,4,0,0,/,4,0
+    B
+    B,6,0
+    B,6,0,G
+    B,6,0,G,2,5,0,0,/,0,0
+    B,6,0,G,2,5,0,0,/,1,0
+    B
+    B,6,0
+    B,6,0,G
+    B,6,0,G,2,5,0,0,/,0,0
+    B,6,0,G,2,5,0,0,/,2,0
+    B
+    B,6,0
+    B,6,0,G
+    B,6,0,G,2,5,0,0,/,0,0
+    B,6,0,G,2,5,0,0,/,2,0
+    B,6,0,G,2,5,0,0,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,1,0
+    B,6,0,L,2,2,7,0,/,1,4
+    B,6,0,L,2,2,7,0,/,1,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,6,0,/,0,0
+    B,6,0,W,6,0,/,0,0,5
+
+application_events
+4
+    2022-03-15,Application filed by Toyota Motor Corp
+    2022-03-15,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2022-10-06,Publication of US20220314725A1
+    Status,Pending
+
+active_area
+3
+    J,P
+    U,S
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2021063344A,2021-04-02,Vehicular control apparatus
+    JP2021-063344,2021-04-02,
+
+legal_event
+3
+    Date,Code,Title,Description
+    2022-03-15,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:KURETAKE, KEN;REEL/FRAME:059261/0472Effective date: 20220107
+    2022-04-13,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+

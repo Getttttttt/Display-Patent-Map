@@ -1,0 +1,431 @@
+ID
+    US8935031B2
+citation_exist
+    Patent Citations (10)
+citation_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPS59208140A,1983-05-12,1984-11-26,Hitachi Constr Mach Co Ltd,Apparatus for preventing prime mover from over-run
+    JP2000291451A,1999-04-01,2000-10-17,Isuzu Motors Ltd,Series hybrid vehicle regenerative electric power consumption controller
+    JP2001207482A,2000-01-28,2001-08-03,Sumitomo Constr Mach Co Ltd,Hybrid shovel
+    JP2002238105A,2001-02-07,2002-08-23,Isuzu Motors Ltd,Hybrid electric vehicle
+    JP2002285970A,2001-03-26,2002-10-03,Kobelco Contstruction Machinery Ltd,Engine control device for construction machine
+    US6986727B2                      *,2003-12-23,2006-01-17,Caterpillar Inc.,Retarding control for an electric drive machine
+    US20100186404A1                      *,2007-04-10,2010-07-29,Kabushiki Kaisha Toyota Jidoshokki,Control device for industrial vehicle
+    Family To Family Citations,,,,
+    CN101547855A                      *,2007-04-10,2009-09-30,株式会社丰田自动织机,Control device for industrial vehicle
+    US7828693B2                      *,2007-06-20,2010-11-09,Ford Global Technologies, Llc,Negative driveline torque control incorporating transmission state selection for a hybrid vehicle
+    CN103328295B                      *,2011-01-21,2016-03-16,日立建机株式会社,The control setup of working truck and working truck
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (27)
+              
+
+
+citedBy_infor
+29
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20160229295A1                      *,2013-09-27,2016-08-11,Liebherr-Components Biberach Gmbh,Self-propelling work machine and method for braking such a work machine
+    Family To Family Citations,,,,
+    JP5187347B2                      *,2010-05-31,2013-04-24,日産自動車株式会社,Vehicle power generation control device
+    CN103328295B                      *,2011-01-21,2016-03-16,日立建机株式会社,The control setup of working truck and working truck
+    JP5244214B2                      *,2011-05-18,2013-07-24,株式会社小松製作所,Engine control device for work machine and engine control method thereof
+    JP6014463B2                      *,2012-11-07,2016-10-25,日立建機株式会社,Work vehicle
+    JP6036344B2                      *,2013-01-30,2016-11-30,コベルコ建機株式会社,Hybrid construction machinery
+    JP2016104927A                      *,2013-03-13,2016-06-09,日立建機株式会社,Hybrid work vehicle
+    JP6167737B2                      *,2013-08-05,2017-07-26,マツダ株式会社,Control device for hybrid vehicle
+    JP2015063847A                      *,2013-09-25,2015-04-09,日立建機株式会社,Work vehicle
+    US10112600B2,2013-09-27,2018-10-30,Liebherr-Components Biberach Gmbh,Self-propelling work machine and method for braking such a work machine
+    JP6297821B2,2013-11-15,2018-03-20,株式会社小松製作所,Work vehicle
+    JP6276021B2                      *,2013-12-24,2018-02-07,株式会社Kcm,Hybrid work vehicle
+    JP6148617B2                      *,2013-12-25,2017-06-14,株式会社Kcm,Hybrid work vehicle
+    JP6630030B2                      *,2014-01-31,2020-01-15,株式会社小松製作所,Wheel loader and wheel loader control method
+    JP6466409B2                      *,2014-03-31,2019-02-06,住友建機株式会社,Excavator
+    JP6366981B2                      *,2014-03-31,2018-08-01,住友重機械工業株式会社,Excavator
+    KR101526430B1                      *,2014-06-09,2015-06-05,현대자동차 주식회사,Regenerative braking apparatus for vehicle and method of the same
+    JP6394111B2,2014-06-25,2018-09-26,トヨタ自動車株式会社,Vehicle control device
+    JP6223291B2                      *,2014-06-30,2017-11-01,株式会社Kcm,Hybrid work vehicle
+    JP6243808B2                      *,2014-07-04,2017-12-06,株式会社Kcm,Hybrid work vehicle
+    KR101921435B1                      *,2014-10-14,2018-11-22,히다찌 겐끼 가부시키가이샤,Hybrid construction machinery
+    DE102016203713A1                      *,2016-03-08,2017-09-14,Robert Bosch Gmbh,A method of controlling an internal combustion engine of a hydraulic hybrid drive and electronic control device for an internal combustion engine of a hydraulic hybrid drive and hydraulic hybrid drive
+    CN107244319B                      *,2017-06-26,2019-09-10,中车青岛四方车辆研究所有限公司,Hybrid vehicle start stop control device, control method and control unit
+    KR102484104B1                      *,2018-01-31,2023-01-04,현대두산인프라코어(주),Travelling control appatatus and method of construction machine
+    DE102018203623A1                      *,2018-03-09,2019-09-12,Zf Friedrichshafen Ag,Drive for a working machine
+    DE102018210911A1                      *,2018-07-03,2020-01-09,Zf Friedrichshafen Ag,Method for operating a drive system for a work machine, drive system and work machine
+    WO2020194680A1                      *,2019-03-28,2020-10-01,日立建機株式会社,Work vehicle
+
+abstract
+    A construction vehicle control apparatus is provided including: a motor generator control unit (160) which, when regenerative electrical power generated by a motor (7) during regenerative braking surpasses acceptable charging electrical power of a capacitor (3), drives a motor generator (5) using the surplus electrical power; an engine controller (2) which detects the rotating speed of an engine (1); a motor control unit (180) which, if the rotating speed of the engine becomes larger than a second set value while the motor generator is being driven by the surplus electrical power, reduces regenerative torque generated by the motor; and a brake control unit (190) which, if the rotating speed of the engine becomes larger than the second set value while the motor generator is being driven by the surplus electrical power, increases regenerative torque generated by a hydraulic brake (30).
+title
+    Construction vehicle control apparatus and construction vehicle
+similar_document
+19
+    Publication,Publication Date,Title
+    US8935031B2,2015-01-13,Construction vehicle control apparatus and construction vehicle
+    KR101834598B1,2018-04-13,Hybrid construction machine
+    US9366012B2,2016-06-14,Electrically driven working vehicle
+    KR101199244B1,2012-11-09,Hybrid construction machine
+    US9249557B2,2016-02-02,Work vehicle
+    JP6364194B2,2018-07-25,Work vehicle and control method thereof
+    US9605414B2,2017-03-28,Working vehicle and control method therefor
+    KR101776543B1,2017-09-07,Work machine
+    US20100032219A1,2010-02-11,Travel Drive System for Work Vehicle, Work Vehicle, and Travel Drive Method
+    US8478470B1,2013-07-02,Drivetrain system having rate-limited feedforward fueling
+    WO2015114979A1,2015-08-06,Work vehicle, and work vehicle control method
+    WO2014141955A1,2014-09-18,Hybrid work vehicle
+    JP6002105B2,2016-10-05,Hybrid work vehicle
+    JP6051364B2,2016-12-27,Work vehicle
+    JP6148617B2,2017-06-14,Hybrid work vehicle
+    JP5604884B2,2014-10-15,Work vehicle
+    JP6243808B2,2017-12-06,Hybrid work vehicle
+    JP6223291B2,2017-11-01,Hybrid work vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    5
+classfication_nums
+    57
+classfication_items
+289
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,0,8
+    B,6,0,K,6,/,1,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,0,8
+    B,6,0,K,6,/,1,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,6
+    B,6,0,L,1,1,/,0,0,5
+    B,6,0,L,1,1,/,1,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B,6,0,W,1,0,/,1,8,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,9,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B,6,0,W,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,0,5,8
+    E,0,2,F,9,/,2,0,6,2
+    E,0,2,F,9,/,2,0,7,5
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,0,5,8
+    E,0,2,F,9,/,2,0,8,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B,6,0,W,2,0,/,1,0,6,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,6
+    B,6,0,W,2,5,1,0,/,0,6,3,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,8
+    B,6,0,W,2,5,1,0,/,0,8,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,6,/,0,0
+    B,6,0,W,2,6,0,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,8
+    B,6,0,W,2,7,1,0,/,1,8,2
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,4,0
+    B,6,0,Y,2,2,0,0,/,4,1
+    B,6,0,Y,2,2,0,0,/,4,1,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y,0,2,T,1,0,/,6,2,1,7
+    Y,0,2,T,1,0,/,6,2,8,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,2,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y,0,2,T,1,0,/,7,0,7,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,1,6
+    Y,0,2,T,1,0,/,7,2,4,1
+
+application_events
+9
+    2012-01-20,Application filed by Hitachi Construction Machinery Co Ltd
+    2013-07-12,Assigned to HITACHI CONSTRUCTION MACHINERY CO., LTD.
+    2013-11-14,Publication of US20130304292A1
+    2015-01-13,Application granted
+    2015-01-13,Publication of US8935031B2
+    2017-02-24,Assigned to KCM CORPORATION
+    2019-08-19,Assigned to HITACHI CONSTRUCTION MACHINERY CO., LTD.
+    Status,Expired - Fee Related
+    2032-01-20,Anticipated expiration
+
+active_area
+3
+    J,P
+    E,P
+    W,O
+
+not_active_area
+3
+    C,N
+    K,R
+    U,S
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2011011215,2011-01-21,
+    JP2011-011215,2011-01-21,
+    PCT/JP2012/051256,2012-01-20,Work vehicle control apparatus and work vehicle
+
+legal_event
+10
+    Date,Code,Title,Description
+    2013-07-12,AS,Assignment,Owner name: HITACHI CONSTRUCTION MACHINERY CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:MORIKI, HIDEKAZU;KANEKO, SATORU;IKIMI, TAKASHI;AND OTHERS;SIGNING DATES FROM 20130625 TO 20130626;REEL/FRAME:030786/0371
+    2014-12-23,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2017-02-24,AS,Assignment,Owner name: KCM CORPORATION, JAPANFree format text: MERGER;ASSIGNOR:HITACHI CONSTRUCTION MACHINERY CO., LTD.;REEL/FRAME:041806/0087Effective date: 20160422
+    2018-06-28,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551)Year of fee payment: 4
+    2019-08-19,AS,Assignment,Owner name: HITACHI CONSTRUCTION MACHINERY CO., LTD., JAPANFree format text: MERGER;ASSIGNOR:KCM CORPORATION;REEL/FRAME:050088/0068Effective date: 20190401
+    2022-09-05,FEPP,Fee payment procedure,Free format text: MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2023-02-20,LAPS,Lapse for failure to pay maintenance fees,Free format text: PATENT EXPIRED FOR FAILURE TO PAY MAINTENANCE FEES (ORIGINAL EVENT CODE: EXP.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2023-02-20,STCH,Information on status: patent discontinuation,Free format text: PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362
+    2023-03-14,FP,Lapsed due to failure to pay maintenance fee,Effective date: 20230113
+

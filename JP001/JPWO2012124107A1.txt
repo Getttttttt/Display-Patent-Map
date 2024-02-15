@@ -1,0 +1,211 @@
+ID
+    JPWO2012124107A1
+citation_exist
+    Patent Citations (14)
+citation_infor
+16
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    DE4433957A1                      *,1994-09-23,1996-03-28,Mayser Gmbh & Co,Verfahren zur Ultraschall-Hinderniserkennung
+    JP2000184505A,1998-12-10,2000-06-30,Nissan Motor Co Ltd,電動車両の制動装置
+    JP3918663B2                      *,2002-07-09,2007-05-23,トヨタ自動車株式会社,車両の制御装置、制御方法、その方法を実現するプログラムおよびそのプログラムを記録した記録媒体
+    JP3720803B2                      *,2002-11-19,2005-11-30,三菱電機株式会社,車載用レーダ装置
+    JP2004266664A                      *,2003-03-03,2004-09-24,Sumitomo Electric Ind Ltd,車両内通信方法、車両内通信システム、通信装置及び接続装置
+    JP4053974B2,2003-12-03,2008-02-27,株式会社リコー,光記録媒体
+    JP4958718B2,2007-10-16,2012-06-20,株式会社日立製作所,電気車制御装置
+    US7652443B2                      *,2007-10-24,2010-01-26,Gm Global Technology Operations, Inc.,Method and system for controlling a power inverter in electric drives
+    JP4978429B2                      *,2007-11-01,2012-07-18,アイシン・エィ・ダブリュ株式会社,電動機制御装置，電気自動車およびハイブリッド電気自動車
+    WO2009060543A1,2007-11-09,2009-05-14,Mitsubishi Electric Corporation,エレベータドア制御装置
+    JP2009291019A,2008-05-30,2009-12-10,Toyota Motor Corp,交流モータ用インバータの制御装置
+    JP2010132141A,2008-12-04,2010-06-17,Toyota Motor Corp,動力出力装置および車両並びに駆動装置、動力出力装置の制御方法
+    JP2010230427A,2009-03-26,2010-10-14,Denso Corp,障害物検出装置
+    JP2011164064A                      *,2010-02-15,2011-08-25,Panasonic Corp,電磁波検知装置、携帯機器、電気自動車及びハイブリッド車の判定方法並びにプログラム
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    DE102014108865A1                      *,2014-06-25,2015-12-31,Valeo Schalter Und Sensoren Gmbh,Verfahren zum Betreiben eines Kraftfahrzeugs und Kraftfahrzeug
+    CN105513427A                      *,2016-02-18,2016-04-20,北京小米移动软件有限公司,车辆和车辆的行车预警方法及装置
+    CN109696664B                      *,2019-01-07,2020-09-11,广州小鹏汽车科技有限公司,一种超声波同频干扰的检测方法及检测装置
+    CN112757900B                      *,2021-02-05,2022-09-27,奇瑞新能源汽车股份有限公司,一种防止纯电动汽车电池包挂底的控制策略
+
+abstract
+    本発明は、電動機の制御精度の向上とセンサへのノイズの影響の抑制とを両立させることを可能とする障害物検出装置を有する車両を提供する。交流電動機であるモータ３１、３２とこれらのモータを駆動するインバータ２と、車両周辺の障害物を探知する探知機器として例えば超音波ソナー１を備える車両において、このインバータ２が発するノイズの探知機器の探査周波数への干渉可能性を判断する周波数判断装置６と、干渉可能性ありと判断した場合に、インバータ２のキャリア周波数を変更するソナーＥＣＵ５を備えている。
+title
+    障害物検出装置を有する車両
+similar_document
+26
+    Publication,Publication Date,Title
+    JP5756822B2,2015-07-29,ハイブリッド車両の発電制御装置
+    WO2009020218A1,2009-02-12,ハイブリッド車両
+    JP2009227147A,2009-10-08,ハイブリッド駆動装置
+    JP5494886B2,2014-05-21,障害物検出装置を有する車両
+    JP2009056909A,2009-03-19,ハイブリッド車の動力制御装置
+    JP2005333690A,2005-12-02,ハイブリッド車の制御装置
+    JP2008024287A,2008-02-07,ハイブリッド電気自動車の制御装置
+    JP2009143306A,2009-07-02,内燃機関装置およびその制御方法並びに動力出力装置
+    CN105711442A,2016-06-29,使用永磁同步电动机驱动控制系统的坡道辅助控制方法
+    EP2837537A1,2015-02-18,Vehicle control device
+    JP2016193686A,2016-11-17,ハイブリッド自動車の制御装置
+    CN102666241B,2014-12-31,车辆控制装置
+    JP4419996B2,2010-02-24,スリップ判定装置およびスリップ判定方法
+    JP5594115B2,2014-09-24,走行パターン計画装置
+    EP2830208B1,2016-09-14,Vehicle control device
+    JP2008125329A,2008-05-29,車両及び車両の制御方法
+    JP2015186373A,2015-10-22,車両の制御装置
+    US9052006B1,2015-06-09,Controlling method and system for reducing tip-in shock
+    WO2017013843A1,2017-01-26,車両用電源装置および車両用電源装置の制御方法
+    JP2006195623A,2006-07-27,車両および車両駆動力制御方法
+    JP6751500B2,2020-09-09,車両
+    JP6235263B2,2017-11-22,車両の制御装置
+    KR20200113138A,2020-10-06,친환경 자동차의 인버터 소음 저감 시스템
+    JP2013121773A,2013-06-20,車両の制御装置
+    JP5136205B2,2013-02-06,動力出力装置およびその制御方法並びに車両
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    10
+classfication_nums
+    16
+classfication_items
+93
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,R
+    B,6,0,R,2,1,/,0,0
+    B,6,0,R,2,1,/,0,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,1,0
+    B,6,0,L,2,2,7,0,/,1,4
+    B,6,0,L,2,2,7,0,/,1,4,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+
+application_events
+6
+    2011-03-17,Application filed by Toyota Motor Corp
+    2014-05-21,Application granted
+    2014-05-21,Publication of JP5494886B2
+    2014-07-17,Publication of JPWO2012124107A1
+    Status,Expired - Fee Related
+    2031-03-17,Anticipated expiration
+
+active_area
+1
+    W,O
+
+not_active_area
+3
+    C,N
+    J,P
+    U,S
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2011/056422,2011-03-17,障害物検出装置を有する車両
+
+legal_event
+5
+    Date,Code,Title,Description
+    2014-01-27,TRDD,Decision of grant or rejection written,
+    2014-02-05,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20140204
+    2014-03-10,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20140217
+    2018-03-14,LAPS,Cancellation because of no payment of annual fees,
+

@@ -1,0 +1,200 @@
+ID
+    JPWO2018190022A1
+citation_exist
+    Patent Citations (2)
+citation_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US6459980B1                      *,1999-02-08,2002-10-01,Toyota Jidosha Kabushiki Kaisha,Vehicle braked with motor torque and method of controlling the same
+    JP6056340B2                      *,2012-10-03,2017-01-11,日産自動車株式会社,制動制御装置
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US11001263B2,2018-03-07,2021-05-11,Toyota Jidosha Kabushiki Kaisha,Braking force control system, device, and method
+    CN114340965A                      *,2020-07-29,2022-04-12,日产自动车株式会社,串联混合动力车辆的控制方法以及串联混合动力车辆
+
+abstract
+    エンジンブレーキと回生を併用するコースト減速中、制動スリップの介入によるショック及びリカバーハンチングを防止すること。駆動源にエンジン（１）とモータ/ジェネレータ（３）を有する。アクセル解放操作時、エンジンブレーキ分とコースト回生分を併用してコースト減速する。このＦＦハイブリッド車両の制御方法において、コースト減速中に制動スリップが介入すると、目標減速駆動力をスリップ率の上昇に応じて低下させ、目標減速駆動力の低下分をコースト回生分により分担する。コースト回生分を低下するとき、コースト回生分の低下幅を、エンジンブレーキ分までを上限として制限する。
+title
+    ハイブリッド車両の制御方法及び制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP5832736B2,2015-12-16,ハイブリッド車両のエンジン始動制御装置
+    US10253876B2,2019-04-09,Vehicle regenerative speed control device
+    WO2012011495A1,2012-01-26,ハイブリッド車両の制御装置
+    WO2013062124A1,2013-05-02,ハイブリッド車両の制御装置
+    JP5488712B2,2014-05-14,ハイブリッド車両の制御装置
+    JP2006246657A,2006-09-14,車両の回生制動制御装置
+    JP6256651B2,2018-01-17,車両の回生変速制御装置
+    JP6747584B2,2020-09-02,電動車両の制御方法及び制御装置
+    JP6369210B2,2018-08-08,ハイブリッド車両の制御装置
+    RU2673306C1,2018-11-23,Способ управления транспортным средством и устройство управления транспортным средством
+    JP4207996B2,2009-01-14,ハイブリッド車
+    JP2014083897A,2014-05-12,車両の走行制御装置
+    JP5239841B2,2013-07-17,ハイブリッド車両の制御装置
+    JP6697548B2,2020-05-20,無段変速機を備えた車両の制御装置及び制御方法
+    JP5747525B2,2015-07-15,車両の制御装置
+    JP6817767B2,2021-01-20,ハイブリッド車両システムの制御装置及び制御方法
+    JP6741151B2,2020-08-19,ハイブリッド車両の制御方法及び制御装置
+    JP2014083896A,2014-05-12,車両の走行制御装置
+    JP5760378B2,2015-08-12,電動車両の制御装置
+    JP6477227B2,2019-03-06,車両の制御装置
+    JP5141535B2,2013-02-13,ハイブリッド車両の制御装置
+    JP6369209B2,2018-08-08,ハイブリッド車両の制御装置
+    JP5691383B2,2015-04-01,車両用走行制御装置
+    WO2016021018A1,2016-02-11,電動車両の発進制御装置
+    WO2015019789A1,2015-02-12,フライホイール回生システム及びその制御方法
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    10
+classfication_nums
+    16
+classfication_items
+92
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,7,/,0,0
+    B,6,0,K,1,7,/,0,4
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,5,0
+    B,6,0,K,6,/,5,4
+    B,6,0,K,6,/,5,4,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,0
+    B,6,0,W,1,0,/,1,0,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,0
+    B,6,0,W,1,0,/,1,0,1
+    B,6,0,W,1,0,/,1,0,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+6
+    2018-03-02,Application filed by Nissan Motor Co Ltd
+    2020-01-16,Publication of JPWO2018190022A1
+    2020-08-19,Application granted
+    2020-08-19,Publication of JP6741151B2
+    Status,Active
+    2038-03-02,Anticipated expiration
+
+active_area
+2
+    W,O
+    J,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2017080607,2017-04-14,
+    JP2017080607,2017-04-14,
+    PCT/JP2018/007955,2018-03-02,ハイブリッド車両の制御方法及び制御装置
+
+legal_event
+9
+    Date,Code,Title,Description
+    2019-09-13,A529,Written submission of copy of amendment under article 34 pct,Free format text: JAPANESE INTERMEDIATE CODE: A5211Effective date: 20190913
+    2019-09-13,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20190913
+    2020-04-21,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20200421
+    2020-05-26,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20200526
+    2020-06-15,TRDD,Decision of grant or rejection written,
+    2020-06-23,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20200623
+    2020-07-29,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20200706
+    2020-07-29,R151,Written notification of patent or utility model registration,Ref document number: 6741151Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R151
+

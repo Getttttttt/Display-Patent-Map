@@ -1,0 +1,182 @@
+ID
+    US20200130661A1
+citation_exist
+    Patent Citations (11)
+citation_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US5333942A                      *,1992-10-26,1994-08-02,Allied-Signal Inc.,Anti-skid brake control system
+    AU6683298A                      *,1997-03-05,1998-09-22,Kelsey-Hayes Company,Brake control using proportional plus integral slip regulation and proportional pressure regulation
+    US6722745B2,1997-05-02,2004-04-20,Hydro-Aire, Inc.,System and method for adaptive brake application and initial skid detection
+    US5951122A,1997-12-31,1999-09-14,The B.F. Goodrich Company,Antiskid control and wheel lock protection differential reference controller
+    US6711488B2                      *,2002-05-22,2004-03-23,Goodrich Corporation,Wheel deceleration-based antiskid brake controller with adaptive deceleration threshold
+    JP4333565B2                      *,2004-11-22,2009-09-16,トヨタ自動車株式会社,Brake device
+    US9085285B2                      *,2006-01-19,2015-07-21,Hydro-Aire, Inc.,System and method for aircraft brake metering to alleviate structural loading
+    US7717527B1                      *,2006-09-15,2010-05-18,The Boeing Company,Alleviation of aircraft landing gear loading using a brake control scheme
+    US9296488B2                      *,2013-03-06,2016-03-29,3Rd Millennium Solutions, Inc.,Aircraft braking early warning system
+    US9725161B2                      *,2013-12-10,2017-08-08,Borealis Technical Limited,Method for maximizing powered aircraft drive wheel traction
+    US9139293B2                      *,2014-01-22,2015-09-22,The Boeing Company,Optimized real-time antiskid control initialization for travel surfaces as a function of wheel spinup
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20220073043A1                      *,2018-12-27,2022-03-10,Advics Co., Ltd.,Braking control device
+    CN114419951A                      *,2022-02-24,2022-04-29,中航贵州飞机有限责任公司,DDS-based airplane wheel speed simulation system
+    US20220169229A1                      *,2020-12-02,2022-06-02,Goodrich Corporation,Health monitoring systems and methods for servo valves
+    Family To Family Citations,,,,
+
+abstract
+    An antiskid controller for controlling braking operation of a wheel of a vehicle based on an output signal provided by a wheel speed sensor coupled to the wheel may comprise a delay toggle, a switch logic for switching between an initial rate and a running rate, and a linear control used for calculating an antiskid correction signal, wherein the linear control receives one of the initial rate and the running rate, depending on a state of the switch logic. The linear control receives the initial rate upon initialization of the antiskid controller. The linear control receives the running rate after a predetermined duration or after the linear control has converged on a desired solution.
+title
+    Systems and methods for rapid convergence antiskid initialization
+similar_document
+14
+    Publication,Publication Date,Title
+    US10933849B2,2021-03-02,Systems and methods for rapid convergence antiskid initialization
+    EP2899079B1,2018-09-05,Optimized real-time antiskid control initialization for travel surfaces as a function of wheel spinup
+    EP3184382B1,2020-11-04,Locked wheel extension protection in brake control systems
+    EP3403892B1,2020-01-29,Assessing runway surface conditions
+    US10759524B2,2020-09-01,Antiskid operation during degraded operation
+    EP3556619B1,2020-11-25,Energy-based antiskid brake control system
+    US20180015911A1,2018-01-18,Antiskid brake control system with minimum disruption autobrake function
+    US10710561B2,2020-07-14,Deceleration pedal control for braking systems
+    EP3878703B1,2022-11-30,Systems and methods for brake health monitoring
+    EP3640101B1,2021-07-07,Brake variation derived controller re-set schedule
+    US10525945B2,2020-01-07,Antiskid brake control system with axle-mounted inertial sensor
+    EP2567873B1,2016-11-16,Systems and methods for improved aircraft braking
+    US20210276519A1,2021-09-09,Systems and methods for aircraft antiskid braking
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    US16/224,196,2018-10-29,2018-12-18,Systems and methods for rapid convergence antiskid initialization
+    EP19205024.3A,2018-10-29,2019-10-24,System and method for rapid convergence antiskid initialization
+
+inventor_number
+    3
+classfication_nums
+    11
+classfication_items
+75
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,6
+    B,6,0,T,8,/,1,7,6,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,6
+    B,6,0,T,8,/,1,7,6,1
+    B,6,0,T,8,/,1,7,6,1,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,0,1
+    B,6,0,T,8,/,1,7,0,3
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,2
+    B,6,0,T,8,/,1,7,2,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,2,1
+    B,6,0,T,8,/,3,2,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,5,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,7,2
+    B,6,0,T,8,/,7,4
+    B
+    B,6,4
+    B,6,4,C
+    B,6,4,C,2,5,/,0,0
+    B,6,4,C,2,5,/,3,2
+    B,6,4,C,2,5,/,4,2
+    B,6,4,C,2,5,/,4,4
+    B,6,4,C,2,5,/,4,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,0,1,/,0,0
+    B,6,0,T,2,2,0,1,/,1,2
+    B,6,0,T,2,2,0,1,/,1,2,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+
+application_events
+9
+    2018-12-18,Application filed by Goodrich Corp
+    2018-12-18,Priority to US16/224,196
+    2018-12-18,Assigned to GOODRICH CORPORATION
+    2019-10-24,Priority to EP19205024.3A
+    2020-04-30,Publication of US20200130661A1
+    2021-03-02,Application granted
+    2021-03-02,Publication of US10933849B2
+    Status,Active
+    2039-08-11,Adjusted expiration
+
+active_area
+2
+    U,S
+    E,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    US201862752242P,2018-10-29,
+    US16/224,196,2018-12-18,Systems and methods for rapid convergence antiskid initialization
+
+legal_event
+4
+    Date,Code,Title,Description
+    2018-12-18,AS,Assignment,Owner name: GOODRICH CORPORATION, NORTH CAROLINAFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:ARSENAULT, TYLER;MASTROCOLA, NAISON E;SIGNING DATES FROM 20181217 TO 20181218;REEL/FRAME:047809/0316
+    2018-12-18,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2021-02-10,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

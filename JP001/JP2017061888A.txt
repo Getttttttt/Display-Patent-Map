@@ -1,0 +1,149 @@
+ID
+    JP2017061888A
+citation_exist
+    Patent Citations (4)
+citation_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JPH0238161Y2                      *,1984-02-07,1990-10-16,,
+    JP2002115801A                      *,2000-10-05,2002-04-19,Honda Motor Co Ltd,蒸発器の蒸気温度制御装置
+    JP4277608B2                      *,2003-07-10,2009-06-10,株式会社日本自動車部品総合研究所,ランキンサイクル
+    JP5515591B2                      *,2009-10-07,2014-06-11,三菱電機株式会社,排熱回生システム
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN113551929A                      *,2021-07-20,2021-10-26,浙江大学,一种非稳态热源储热换热器的测试系统及其测试方法
+    US11808156B2,2020-03-30,2023-11-07,Ihi Corporation,Secondary flow suppression structure
+    Family To Family Citations,,,,
+
+abstract
+    【課題】高効率で動作可能なランキンサイクルを有する出力装置を提供する。【解決手段】循環流路１０内に、回転することで作動流体を循環流路１０で循環させるポンプ２０、排気ガスによって作動流体を蒸発させる蒸発器３０、作動流体を膨張させる膨張器４０、及び冷却源によって作動流体を凝縮させる凝縮器５０の順に配置されたランキンサイクル２を有し、車両に搭載される出力装置１は、排気ガスの温度及び流量と、膨張器４０を通過する作動流体の流量に対応するポンプ２０の回転数との関係を示す特性情報を予め記憶している記憶部７０と、排気ガスの温度及び流量を検出する検出部６０と、検出部６０の検出結果と記憶部７０に記憶されている特性情報とに基づいて、検出された排気ガスの温度及び流量に対応するポンプ２０の回転数を制御する制御部８０と、を備える。【選択図】図１
+title
+    出力装置及び出力装置の制御方法
+similar_document
+26
+    Publication,Publication Date,Title
+    US8572964B2,2013-11-05,Method for recuperating energy from an exhaust gas flow and motor vehicle
+    JP5639515B2,2014-12-10,バイナリー発電装置及びその制御方法
+    US7036315B2,2006-05-02,Apparatus and method for detecting low charge of working fluid in a waste heat recovery system
+    JP5053922B2,2012-10-24,内燃機関の廃熱利用装置
+    JP2009097434A,2009-05-07,内燃機関の廃熱利用装置
+    JP2013167241A,2013-08-29,廃熱回収装置および原動機システム
+    JP2009097387A,2009-05-07,廃熱利用装置
+    KR20150128575A,2015-11-18,열에너지 회수 장치 및 열에너지 회수 장치의 기동 방법
+    JP4684762B2,2011-05-18,発電装置
+    JP6610145B2,2019-11-27,発電装置及び発電装置の制御方法
+    JP5918117B2,2016-05-18,発電装置
+    JP6406583B2,2018-10-17,ランキンサイクル装置
+    JP6597117B2,2019-10-30,出力装置及び出力装置の制御方法
+    JP2006329149A,2006-12-07,熱輸送装置およびその制御方法
+    JP5622630B2,2014-11-12,発電システム
+    JP5745642B2,2015-07-08,膨張機関の生蒸気の決定
+    US10677101B2,2020-06-09,Combined heat and power system and operating method of combined heat and power system
+    JP2017110551A,2017-06-22,廃熱回収装置
+    US10060298B2,2018-08-28,Thermal energy recovery device and start-up method thereof
+    US10794229B2,2020-10-06,Binary power generation system and stopping method for same
+    JP5609707B2,2014-10-22,ランキンサイクルシステムの制御装置
+    JP2016188605A,2016-11-04,ランキンサイクルの制御方法
+    WO2020122799A1,2020-06-18,Method and controller for preventing formation of droplets in a heat exchanger
+    JP2011080688A,2011-04-21,排熱回生システム
+    JP2022154612A,2022-10-13,バイナリー発電装置
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    JP2015187720A,2015-09-25,2015-09-25,出力装置及び出力装置の制御方法
+    PCT/JP2016/075337,2015-09-25,2016-08-30,出力装置及び出力装置の制御方法
+
+inventor_number
+    8
+classfication_nums
+    6
+classfication_items
+35
+    F
+    F,0,1
+    F,0,1,D
+    F,0,1,D,1,7,/,0,0
+    F,0,1,D,1,7,/,0,2
+    F,0,1,D,1,7,/,0,8
+    F
+    F,0,1
+    F,0,1,D
+    F,0,1,D,1,7,/,0,0
+    F,0,1,D,1,7,/,2,0
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,2,3,/,0,0
+    F,0,1,K,2,3,/,0,2
+    F,0,1,K,2,3,/,0,6
+    F,0,1,K,2,3,/,1,0
+    F
+    F,0,2
+    F,0,2,G
+    F,0,2,G,5,/,0,0
+    F,0,2,G,5,/,0,2
+    F
+    F,2,2
+    F,2,2,B
+    F,2,2,B,1,/,0,0
+    F,2,2,B,1,/,0,2
+    F,2,2,B,1,/,1,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,1,0
+    Y,0,2,T,1,0,/,1,2
+
+application_events
+8
+    2015-09-25,Application filed by Isuzu Motors Ltd
+    2015-09-25,Priority to JP2015187720A
+    2016-08-30,Priority to PCT/JP2016/075337
+    2017-03-30,Publication of JP2017061888A
+    2019-10-30,Application granted
+    2019-10-30,Publication of JP6597117B2
+    Status,Active
+    2035-09-25,Anticipated expiration
+
+active_area
+2
+    J,P
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2015187720A,2015-09-25,出力装置及び出力装置の制御方法
+
+legal_event
+9
+    Date,Code,Title,Description
+    2015-12-21,A521,Written amendment,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20151221
+    2018-08-28,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20180828
+    2019-06-25,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20190625
+    2019-07-18,A521,Written amendment,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20190718
+    2019-08-29,TRDD,Decision of grant or rejection written,
+    2019-09-03,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20190903
+    2019-10-07,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20190916
+    2019-10-11,R150,Certificate of patent or registration of utility model,Ref document number: 6597117Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R150
+

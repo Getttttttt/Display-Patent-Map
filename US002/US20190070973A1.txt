@@ -1,0 +1,235 @@
+ID
+    US20190070973A1
+citation_exist
+    Patent Citations (18)
+citation_infor
+20
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    TW465166B                      *,1999-02-19,2001-11-21,Fuji Electric Co Ltd,Non-insulating DC-DC converter
+    JP3391329B2                      *,1999-02-19,2003-03-31,富士電機株式会社,Non-insulated DC-DC converter
+    US6437462B1                      *,2001-12-10,2002-08-20,Delphi Technologies, Inc.,Bi-directional DC/DC converter and control method therefor
+    EP1543599A1,2003-08-05,2005-06-22,Matsushita Electric Industrial Co., Ltd.,Direct-current power supply and battery-powered electronic apparatus equipped with the power supply
+    JP2007336631A                      *,2006-06-12,2007-12-27,Toyota Motor Corp,Power system
+    US9300203B2                      *,2007-12-10,2016-03-29,Clevx, Llc,Battery power supply with automatic load sensing
+    US9472980B2                      *,2012-06-01,2016-10-18,Xunwei Zhou,Integrated buck/boost battery management for power storage and delivery
+    US9261934B2                      *,2013-03-15,2016-02-16,Intel Corporation,Dynamic response improvement of hybrid power boost technology
+    JP5642224B2                      *,2013-04-09,2014-12-17,三菱電機株式会社,Vehicle power supply
+    JP6319726B2,2014-05-15,2018-05-09,パナソニックＩｐマネジメント株式会社,Power supply switching system and power supply switching method
+    CN106605356B                      *,2014-09-02,2019-03-08,苹果公司,It is charged using the multiphase battery of boosting bypass
+    CN104467411B                      *,2014-12-04,2017-09-01,矽力杰半导体技术(杭州)有限公司,Electric power management circuit and mobile terminal
+    US9479004B2                      *,2015-03-13,2016-10-25,Active-Semi, Inc.,Buck/boost circuit that charges and discharges multi-cell batteries of a power bank device
+    JP2016181943A                      *,2015-03-23,2016-10-13,トヨタ自動車株式会社,Power supply system
+    KR101704181B1                      *,2015-04-02,2017-02-07,현대자동차주식회사,Charger for vehicles
+    ITUB20155707A1                      *,2015-11-18,2017-05-18,St Microelectronics Srl,PILOT CIRCUIT, INTEGRATED CIRCUIT AND CORRESPONDENT DEVICE
+    US10778026B2                      *,2016-09-23,2020-09-15,Apple Inc.,Multi-phase buck-boost charger
+    US10177420B2                      *,2016-10-21,2019-01-08,Richtek Technology Corporation,Charger circuit and power conversion circuit thereof
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    A power supply system includes: a first power storage device; a second power storage device having a lower voltage than the first power storage device; a DC-DC converter including a choke coil, a first switching element, a diode connected in parallel with the first switching element, and a second switching element; a semiconductor relay configured to switch a connection state between a second end of the choke coil and the second power storage device; and a controller configured to perform PWM control of the first switching element and the second switching element to control ON and OFF of the semiconductor relay. When an ON time of the second switching element is controlled to become zero and a current flowing out from the second power storage device exceeds a first reference current, the controller reduces a duty ratio of an ON time of the first switching element.
+title
+    Power supply system
+similar_document
+26
+    Publication,Publication Date,Title
+    JP4687704B2,2011-05-25,Vehicle power supply
+    US9018894B2,2015-04-28,Vehicular power supply system
+    US20150280487A1,2015-10-01,Vehicle-mounted power source device
+    US9325244B2,2016-04-26,Power supply system
+    US8384360B2,2013-02-26,Hybrid battery
+    JP6469424B2,2019-02-13,Vehicle power supply
+    US9954454B2,2018-04-24,DC/DC converter and electrical storage system
+    US9843184B2,2017-12-12,Voltage conversion apparatus
+    US10906415B2,2021-02-02,Power source system for vehicle
+    US11211813B2,2021-12-28,Battery charge control apparatus for vehicle and method of controlling battery charging of vehicle
+    JP2017093226A,2017-05-25,Power supply system for vehicle
+    JP6428524B2,2018-11-28,Vehicle power supply system
+    CN104554093B,2018-09-18,Method for operating motor vehicle power supply system and its power supply system
+    CN109747420B,2022-05-06,Power supply system for vehicle
+    KR101220389B1,2013-01-09,System for power supply electric field load of green car and control method thereof
+    CN109747437B,2022-03-29,Power supply system for vehicle
+    JP2018113814A,2018-07-19,Electric power system for vehicle
+    US11381223B2,2022-07-05,Power supply system
+    KR101836643B1,2018-03-08,Mild hybrid system of vehicle
+    US8067853B2,2011-11-29,Power supply system
+    JP7332287B2,2023-08-23,Automotive electrical system
+    KR101090701B1,2011-12-08,Method for controlling DC-DC converter
+    JP2021035067A,2021-03-01,On-vehicle charger
+    KR102320892B1,2021-11-03,Apparatus for preventing over current of converter system and method thereof
+    JP6421135B2,2018-11-07,Vehicle power supply
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    20
+classfication_items
+113
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    B,6,0,L,1,1,/,1,8,6,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    B,6,0,L,1,1,/,1,8,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,0
+    B
+    B,6,0
+    B,6,0,R
+    B,6,0,R,1,6,/,0,0
+    B,6,0,R,1,6,/,0,2
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,2,9
+    H,0,2,J,7,/,0,0,3,6
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,7
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,3,4
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,3,4
+    H,0,2,J,7,/,3,4,2
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,9,/,0,0
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H,0,2,M,3,/,0,2
+    H,0,2,M,3,/,0,4
+    H,0,2,M,3,/,1,0
+    H,0,2,M,3,/,1,4,5
+    H,0,2,M,3,/,1,5,5
+    H,0,2,M,3,/,1,5,6
+    H,0,2,M,3,/,1,5,8
+    H
+    H,0,3
+    H,0,3,K
+    H,0,3,K,3,/,0,0
+    H,0,3,K,3,/,0,1
+    H,0,3,K,3,/,0,1,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,1,/,0,0
+    H,0,2,J,1,/,0,8
+    H,0,2,J,1,/,0,8,2
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,7
+    H,0,2,J,7,/,0,0,7,1,2
+    H,0,2,J,7,/,0,0,7,1,8,2
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,7
+    H,0,2,J,7,/,0,0,7,2
+    H,0,2,J,7,/,0,0,7,7
+    H,0,2,J,7,/,0,0,8,5
+    H,0,2,J,7,/,0,0,8,6
+
+application_events
+7
+    2018-08-23,Application filed by Toyota Motor Corp
+    2018-08-23,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2019-03-07,Publication of US20190070973A1
+    2022-07-05,Application granted
+    2022-07-05,Publication of US11381223B2
+    Status,Active
+    2040-07-02,Adjusted expiration
+
+active_area
+4
+    J,P
+    U,S
+    E,P
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JPJP2017-169475,2017-09-04,
+    JP2017-169475,2017-09-04,
+    JP2017169475A,2017-09-04,Power system
+
+legal_event
+13
+    Date,Code,Title,Description
+    2018-08-23,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:USAMI, TOMOHIRO;YAMAMOTO, TAKUYA;SIGNING DATES FROM 20180626 TO 20180627;REEL/FRAME:046919/0781
+    2018-08-23,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2018-11-08,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2021-03-04,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2021-06-10,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2021-08-09,STPP,Information on status: patent application and granting procedure in general,Free format text: FINAL REJECTION MAILED
+    2021-11-15,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE AFTER FINAL ACTION FORWARDED TO EXAMINER
+    2021-12-10,STPP,Information on status: patent application and granting procedure in general,Free format text: ADVISORY ACTION MAILED
+    2021-12-16,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2022-03-28,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2022-06-06,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2022-06-15,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

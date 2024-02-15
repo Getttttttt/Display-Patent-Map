@@ -1,0 +1,254 @@
+ID
+    US20130258734A1
+citation_exist
+    Patent Citations (8)
+citation_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP2006074932A,2004-09-03,2006-03-16,Nissan Motor Co Ltd,Electric motor controlling device
+    JP2006254593A                      *,2005-03-10,2006-09-21,Toyota Motor Corp,Voltage converter
+    JP4471024B2                      *,2008-07-14,2010-06-02,トヨタ自動車株式会社,Control device for DC-DC converter
+    WO2010137127A1,2009-05-27,2010-12-02,トヨタ自動車株式会社,Control device for a voltage converter and vehicles equipped with same, and a voltage converter control method
+    JP5534139B2                      *,2009-05-28,2014-06-25,トヨタ自動車株式会社,Average reactor current detector
+    JP2011109884A                      *,2009-11-20,2011-06-02,Toyota Motor Corp,Device and method for acquiring current value of converter
+    JP5235852B2,2009-12-01,2013-07-10,本田技研工業株式会社,DC / DC converter device
+    JP5715366B2,2010-09-30,2015-05-07,セイコーインスツル株式会社,Manufacturing method of near-field light-assisted magnetic recording head
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (19)
+              
+
+
+citedBy_infor
+21
+    Publication number,Priority date,Publication date,Assignee,Title
+    EP3057215A1                      *,2015-02-13,2016-08-17,Toyota Jidosha Kabushiki Kaisha,Blend-over between ccm and dcm in forward boost reverse buck converter
+    EP3057214A1                      *,2015-02-13,2016-08-17,Toyota Jidosha Kabushiki Kaisha,Blend-over between ccm and dcm in forward boost reverse buck converter
+    US20170288594A1                      *,2016-03-31,2017-10-05,Hitachi-Johnson Controls Air Conditioning, Inc.,Inverter control apparatus and air conditioner
+    US20170365867A1                      *,2016-06-16,2017-12-21,Toyota Jidosha Kabushiki Kaisha,Voltage control system, fuel cell system, and control method for voltage control system
+    US10361622B2                      *,2015-12-04,2019-07-23,General Electric Technology Gmbh,Converters for HVDC power transmission and distribution
+    WO2020190614A1                      *,2019-03-15,2020-09-24,Tula eTechnology, Inc.,Boosted converter for pulsed electric machine control
+    US10944352B2,2018-03-19,2021-03-09,Tula eTechnology, Inc.,Boosted converter for pulsed electric machine control
+    US11557996B1,2021-07-08,2023-01-17,Tula eTechnology, Inc.,Methods of reducing vibrations for electric motors
+    US11626827B2,2018-03-19,2023-04-11,Tula eTechnology, Inc.,Pulsed electric machine control
+    US11623529B2,2018-03-19,2023-04-11,Tula eTechnology, Inc.,Pulse modulated control with field weakening for improved motor efficiency
+    US11628730B2,2021-01-26,2023-04-18,Tula eTechnology, Inc.,Pulsed electric machine control
+    US11637513B2,2021-03-15,2023-04-25,Tula eTechnology, Inc.,Methods of optimizing waveforms for electric motors
+    US11637466B1,2021-10-18,2023-04-25,Tula Etechnology Inc.,Mechanical and electromechanical arrangements for field-weakening of an electric machine that utilizes permanent magnets
+    US11673476B2,2021-08-12,2023-06-13,Tula eTechnology, Inc.,Method of optimizing system efficiency for battery powered electric motors
+    US11695361B2,2021-06-14,2023-07-04,Tula eTechnology, Inc.,Electric machines with efficient torque transitions
+    Family To Family Citations,,,,
+    JP6323323B2                      *,2014-12-17,2018-05-16,トヨタ自動車株式会社,Boost control device
+    JP6260587B2                      *,2015-06-29,2018-01-17,トヨタ自動車株式会社,Power supply
+    JP7001100B2,2017-09-29,2022-01-19,日本電産株式会社,How to estimate the output current value in a power converter or power converter
+    DE102020210573A1                      *,2020-08-20,2022-02-24,Robert Bosch Gesellschaft mit beschränkter Haftung,Method and device for determining a parameter, the parameter characterizing a voltage or a current in a circuit arrangement.
+
+abstract
+    An apparatus for controlling a voltage converting apparatus controls a voltage converting apparatus capable of performing one-arm drive using either a first arm or a second arm by alternatively switching on a first switching element and a second switching element each of which is connected to a reactor in series. The apparatus for controlling the voltage converting apparatus is provided with: a current detecting device for detecting a reactor current; an average value estimating device for estimating an average value of the reactor current in units of periods of a gate signal for changing on and off of each of the first switching element and the second switching element, by using the detected reactor current; and a controlling device for controlling operation of the voltage converting apparatus on the basis of the estimated average value of the reactor current.
+title
+    Apparatus for controlling voltage converting apparatus
+similar_document
+25
+    Publication,Publication Date,Title
+    US20130258734A1,2013-10-03,Apparatus for controlling voltage converting apparatus
+    US7379313B2,2008-05-27,Voltage conversion device
+    US9054613B2,2015-06-09,Motor drive apparatus and vehicle with the same mounted thereon
+    JP4710588B2,2011-06-29,Boost converter controller
+    US8575875B2,2013-11-05,Control device for voltage converter, vehicle equipped with the same, and control method for voltage converter
+    US7133602B2,2006-11-07,Power supply apparatus, motor drive control method using the same and motor vehicle having the same mounted thereon
+    US9236736B2,2016-01-12,Power supply system and method for controlling the same
+    US7969039B2,2011-06-28,Method of controlling fuel cell vehicle and method of controlling DC/DC converter apparatus
+    JP5892182B2,2016-03-23,Vehicle power supply
+    US10164551B2,2018-12-25,Boost control apparatus based on output current change rate
+    KR20090015151A,2009-02-11,Motor driving control system and its control method
+    JP2011122835A,2011-06-23,Internal resistance estimation apparatus for power storage device, degradation determination apparatus for power storage device, and power supply system
+    US9837888B2,2017-12-05,Boost control apparatus based on output current change amount
+    JP5780197B2,2015-09-16,Voltage converter
+    JP2011091962A,2011-05-06,Abnormality determination device of current sensor and abnormality determination method
+    US9502977B2,2016-11-22,Control apparatus for voltage converting apparatus
+    JP2013207915A,2013-10-07,Controller of voltage converter
+    US20130214747A1,2013-08-22,Voltage converting apparatus
+    US9276517B2,2016-03-01,Control device of AC motor
+    US20100194317A1,2010-08-05,Alternating-current motor control apparatus
+    JP2011182515A,2011-09-15,Motor drive system and electric vehicle with the same
+    JP2010288366A,2010-12-24,Converter controller
+    JP4829915B2,2011-12-07,DC / DC converter device, fuel cell vehicle, and control method of DC / DC converter device
+    JP6935739B2,2021-09-15,Boost system
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    20
+classfication_items
+131
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,4,2
+    H,0,2,M,7,/,4,4
+    H,0,2,M,7,/,4,8
+    H,0,2,M,7,/,5,3
+    H,0,2,M,7,/,5,3,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,3,0
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H,0,2,M,3,/,0,2
+    H,0,2,M,3,/,0,4
+    H,0,2,M,3,/,1,0
+    H,0,2,M,3,/,1,4,5
+    H,0,2,M,3,/,1,5,5
+    H,0,2,M,3,/,1,5,6
+    H,0,2,M,3,/,1,5,8
+    H,0,2,M,3,/,1,5,8,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B,6,0,L,2,2,1,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B,6,0,L,2,2,1,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,4,0
+
+application_events
+4
+    2013-03-15,Application filed by Toyota Motor Corp
+    2013-03-15,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2013-10-03,Publication of US20130258734A1
+    Status,Abandoned
+
+active_area
+2
+    J,P
+    C,N
+
+not_active_area
+2
+    U,S
+    D,E
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2012074123A,2012-03-28,Controller of voltage converter
+    JP2012-074123,2012-03-28,
+
+legal_event
+3
+    Date,Code,Title,Description
+    2013-03-15,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:NAKANO, MIYOKO;KOBAYASHI, MASASHI;REEL/FRAME:030711/0826Effective date: 20130307
+    2014-04-15,STCB,Information on status: application discontinuation,Free format text: EXPRESSLY ABANDONED  --  DURING EXAMINATION
+

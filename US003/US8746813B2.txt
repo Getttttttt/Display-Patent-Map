@@ -1,0 +1,230 @@
+ID
+    US8746813B2
+citation_exist
+    Patent Citations (13)
+citation_infor
+15
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPS55127804A,1979-03-22,1980-10-03,Mitsubishi Electric Corp,Chopper-control apparatus for electric car
+    JPS59198801A,1983-04-26,1984-11-10,Mitsubishi Electric Corp,Chopper controller for electric railcar
+    JPH10329681A,1997-06-05,1998-12-15,Toyota Motor Corp,Braking force control device
+    US6244674B1                      *,1997-09-17,2001-06-12,Aisin Seiki Kabushiki Kaisha,Brake control system for an electrically operated vehicle
+    JP2004196064A,2002-12-17,2004-07-15,Nissan Motor Co Ltd,Cooperative control device for air over hydraulic brake
+    JP2006103630A,2004-10-08,2006-04-20,Toyota Motor Corp,Vehicular braking control device
+    JP2006224768A,2005-02-16,2006-08-31,Toyota Motor Corp,Vehicular braking device including regenerative braking control for battery saturation
+    CN101049825A,2006-04-03,2007-10-10,株式会社爱德克斯,Braking apparatus for vehicle
+    JP2008110633A,2006-10-30,2008-05-15,Honda Motor Co Ltd,Braking device
+    US8366210B2,2006-04-03,2013-02-05,Advics Co., Ltd.,Braking apparatus for vehicle
+    Family To Family Citations,,,,
+    DE19538794A1                      *,1995-10-18,1997-04-24,Teves Gmbh Alfred,Electronically controllable brake actuation system
+    JP3969169B2                      *,2002-04-24,2007-09-05,株式会社アドヴィックス,Electric brake device for vehicle
+    JP4696950B2                      *,2006-02-15,2011-06-08,株式会社アドヴィックス,Brake control device for vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (22)
+              
+
+
+citedBy_infor
+24
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20130134767A1                      *,2010-09-09,2013-05-30,Bosch Corporation,Vehicle brake device and method of controlling vehicle brake device
+    US20130328386A1                      *,2012-06-06,2013-12-12,Robert Bosch Gmbh,Method for operating a regenerative braking system of a vehicle and control unit for a regenerative braking system of a vehicle
+    US20140054955A1                      *,2011-09-27,2014-02-27,Masaki Ninoyu,Vehicle braking control device
+    US20140183933A1                      *,2012-12-27,2014-07-03,Robert Bosch Gmbh,Method of decelerating a vehicle with regenerative and friction braking
+    US11440518B2                      *,2018-08-08,2022-09-13,Honda Motor Co., Ltd.,Vehicle braking system
+    Family To Family Citations,,,,
+    JP5174127B2                      *,2010-11-11,2013-04-03,本田技研工業株式会社,Hybrid vehicle
+    JP5734319B2                      *,2011-01-31,2015-06-17,本田技研工業株式会社,Brake device for vehicle
+    FR2982205B1                      *,2011-11-08,2014-04-11,Renault Sa,ADAPTING A SIMULATED ENGINE BRAKE SET
+    KR101418328B1                      *,2012-03-19,2014-07-10,주식회사 만도,Integrated Electronic Hydraulic Brake System
+    JP6056430B2                      *,2012-12-04,2017-01-11,日産自動車株式会社,Brake control device for vehicle
+    JP6124123B2                      *,2013-05-07,2017-05-10,三菱自動車工業株式会社,Regenerative brake control system
+    JP5962608B2                      *,2013-07-30,2016-08-03,株式会社アドヴィックス,Vehicle braking system
+    JP5916141B2                      *,2013-10-25,2016-05-11,本田技研工業株式会社,Braking device for vehicle
+    KR101935463B1                      *,2013-12-13,2019-01-04,주식회사 만도,Integrated Electronic Hydraulic Brake System
+    JP6501069B2                      *,2015-07-24,2019-04-17,三菱自動車工業株式会社,Vehicle regenerative control system
+    KR102403608B1                      *,2015-08-20,2022-06-02,주식회사 만도,Electric control brake system in vehicle
+    JP6657839B2                      *,2015-11-20,2020-03-04,いすゞ自動車株式会社,Hybrid vehicle and control method thereof
+    CN109968990B                      *,2017-12-28,2021-11-26,郑州宇通客车股份有限公司,Regenerative braking control method and device
+    CN110356378B                      *,2018-03-26,2021-08-10,比亚迪股份有限公司,Brake control method and device
+    DE102020203581A1                      *,2020-03-20,2021-09-23,Robert Bosch Gesellschaft mit beschränkter Haftung,Method for controlling an electronically slip-regulated external power brake system of a motor vehicle, electronically slip-regulated external power brake system and electronic control device
+    CN111645529B                      *,2020-04-03,2022-05-13,摩登汽车(盐城)有限公司,Control method and system for braking energy recovery
+    JP2022041149A                      *,2020-08-31,2022-03-11,株式会社アドヴィックス,Vehicular braking device
+
+abstract
+    In a vehicle capable of performing regenerative braking and fluid pressure braking, in changing from the regenerative braking to the fluid pressure braking in response to a decrease of a vehicle speed due to braking, a fluid pressure braking force is increased from 0 at a first increasing rate when the vehicle speed falls to or below a first threshold value (V1), and the fluid pressure braking force is increased at a second increasing rate, which is higher than the first increasing rate, when the vehicle speed falls to or below a second threshold value (V2), which is smaller than the first threshold value (V1). With this configuration, while occurrence of a squeal noise of a wheel cylinder can be prevented by setting the first increasing rate of the fluid pressure braking force at a small value, a required braking force can be generated without any problem by setting the second increasing rate, to be used subsequently thereto, of the fluid pressure braking force at a large value.
+title
+    Vehicle braking device
+similar_document
+25
+    Publication,Publication Date,Title
+    US8746813B2,2014-06-10,Vehicle braking device
+    US8794719B2,2014-08-05,Brake device for vehicle
+    JP5516753B2,2014-06-11,Hydraulic brake system
+    JP5240237B2,2013-07-17,Brake device
+    US20120193975A1,2012-08-02,Vehicle brake apparatus
+    JP5123543B2,2013-01-23,Brake device
+    JP5924416B2,2016-05-25,Brake control device for vehicle
+    EP3461705A1,2019-04-03,Electronic brake system and methods for operating the same
+    JP5516752B2,2014-06-11,Hydraulic brake system
+    WO2013187517A1,2013-12-19,Vehicle brake system
+    JP2006193136A,2006-07-27,Brake equipment of vehicle
+    US20110215638A1,2011-09-08,Brake system
+    CN111565986A,2020-08-21,Vehicle brake system and method for determining leakage thereof
+    WO2014199419A1,2014-12-18,Brake device for vehicle
+    JP2015030427A,2015-02-16,Braking device for vehicle
+    JP5561131B2,2014-07-30,Brake system
+    JP5652168B2,2015-01-14,Hydraulic brake system
+    JP2010215069A,2010-09-30,Bbw type brake device
+    JP2012035737A,2012-02-23,Electric braking device
+    JP5113535B2,2013-01-09,Brake device
+    JP5251675B2,2013-07-31,Brake control device
+    JP5719210B2,2015-05-13,Brake device for vehicle
+    JP2012035735A,2012-02-23,Electric braking device
+    JP2007331755A,2007-12-27,Braking control device for vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    15
+classfication_items
+91
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,4
+    B,6,0,T,8,/,4,0
+    B,6,0,T,8,/,4,0,7,2
+    B,6,0,T,8,/,4,0,8,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2010-05-06,Application filed by Honda Motor Co Ltd
+    2011-11-10,Assigned to HONDA MOTOR CO., LTD.
+    2012-02-16,Publication of US20120038208A1
+    2014-06-10,Application granted
+    2014-06-10,Publication of US8746813B2
+    Status,Active
+    2030-05-06,Anticipated expiration
+
+active_area
+2
+    U,S
+    W,O
+
+not_active_area
+3
+    J,P
+    C,N
+    E,P
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2009-112816,2009-05-07,
+    JP2009112816,2009-05-07,
+    PCT/JP2010/057739,2010-05-06,Vehicle braking device
+
+legal_event
+6
+    Date,Code,Title,Description
+    2011-11-10,AS,Assignment,Owner name: HONDA MOTOR CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:MATSUSHITA, SATOSHI;REEL/FRAME:027205/0740Effective date: 20110928
+    2014-05-21,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2016-12-03,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2017-11-23,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551)Year of fee payment: 4
+    2021-11-24,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+

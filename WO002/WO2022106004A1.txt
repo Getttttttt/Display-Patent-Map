@@ -1,0 +1,253 @@
+ID
+    WO2022106004A1
+citation_exist
+    Patent Citations (2)
+citation_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    US10518831B2,2017-04-21,2019-12-31,Wrightspeed, Inc.,Self-powered actively steerable converter dollies for long combination vehicles
+    US20200298878A1                      *,2017-10-10,2020-09-24,Commissariat A L'energie Atomique Et Aux Energies Alternatives,Method for automatically driving a vehicle under constraint, in particular a bus in a storage facility, and device implementing such a method
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (5)
+              
+
+
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    A method for controlling motion of a heavy-duty vehicle (100a, 100b), comprising obtaining (S1) information related to an upcoming vehicle path (p) and vehicle maneuver (m) along the path, obtaining (S2) information related to a road friction coefficient (μ) along the upcoming vehicle path (p), configuring (S3) lateral and longitudinal wheel slip limits (λlim) for at least two wheels of an axle (111, 151, 161, 162) or lumped group-axle (115, 125, 135, 145) on the heavy-duty vehicle (100a, 100b), wherein lateral and longitudinal wheel slip values are related to respective lateral and longitudinal tyre force values (Fx, Fy) via a pre-determined combined tyre slip model, determining (S4) a vehicle motion profile (a) for performing the vehicle maneuver (m) along the path (p) as a solution to a non-linear optimal control problem, NOCP, wherein the NOCP is constrained by the lateral and longitudinal wheel slip limits (λlim) and formulated to account for the road friction coefficient (μ) and/or curvature along the upcoming vehicle path (p), and controlling (S5) the motion of the heavy-duty vehicle (100a, 100b) along the path (p) based on the determined target vehicle motion profile (a).
+title
+    Predictive energy and motion management for multitrailer heavy-duty vehicles
+similar_document
+26
+    Publication,Publication Date,Title
+    US20220126801A1,2022-04-28,Wheel slip based vehicle motion management for heavy duty vehicles
+    CN102398594B,2014-12-24,Optimal corner control for vehicles
+    CN102398601B,2016-04-13,Composite brakig controls
+    Katsuyama et al.,2021,A state-of-the-art review: toward a novel vehicle dynamics control concept taking the driveline of electric vehicles into account as promising control actuators
+    US20230068987A1,2023-03-02,Differential electrical drive arrangement for heavy duty vehicles
+    US20230080456A1,2023-03-16,Methods for controlling a self-powered dolly vehicle during evasive maneuvering
+    EP4247695A1,2023-09-27,Predictive energy and motion management for multitrailer heavy-duty vehicles
+    US20230112013A1,2023-04-13,Methods for controlling a power level in an energy source of a vehicle unit
+    US20230082801A1,2023-03-16,A control architecture for a self-powered dolly vehicle
+    EP4247686A1,2023-09-27,Methods for reducing high-speed off-tracking in multi-trailer heavy duty vehicles
+    Xia et al.,2019,Running states estimation of autonomous four-wheel independent drive electric vehicle by virtual longitudinal force sensors
+    Guastadisegni et al.,2023,Vehicle Stability Control Through Pre-Emptive Braking
+    EP4140839A1,2023-03-01,Vehicle control based on a dynamically configured sideslip limit
+    EP4219252A1,2023-08-02,A method for controlling a heavy-duty vehicle
+    KR20210081401A,2021-07-01,How to make the vehicle follow the desired curvature path
+    US20220153146A1,2022-05-19,Vehicle motion management system and an actuator control system for a vehicle
+    WO2022228653A1,2022-11-03,Vehicle control based on dynamically configured longitudinal wheel slip limits
+    WO2022253411A1,2022-12-08,Energy efficient propulsion based on wheel slip balanced drive
+    WO2023030615A1,2023-03-09,Vehicle control for simplified autonomous drive
+    WO2022194357A1,2022-09-22,An electrically powered trailer with an endurance braking function
+    WO2023193893A1,2023-10-12,Method and system for controlling an electrically powered heavy commercial vehicle
+    CN114523971A,2022-05-24,Vehicle motion management system and motion support system for vehicle
+    JP2023060823A,2023-04-28,Wheel slip boost function for large vehicle
+    CN116547182A,2023-08-04,Automatic driving control method and automatic driving control device
+    WO2022214190A1,2022-10-13,Methods and devices for braking of a heavy-duty vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+5
+    Application,Priority date,Filing date,Title
+    EP20811984.2A,2020-11-19,2020-11-19,Predictive energy and motion management for multitrailer heavy-duty vehicles
+    KR1020237017192A,2020-11-19,2020-11-19,Predictive Energy and Motion Management for Multitrailer Heavy Vehicles
+    CN202080107338.0A,2020-11-19,2020-11-19,Predictive energy and motion management for multi-trailer heavy vehicles
+    PCT/EP2020/082707,2020-11-19,2020-11-19,Predictive energy and motion management for multitrailer heavy-duty vehicles
+
+inventor_number
+    5
+classfication_nums
+    26
+classfication_items
+153
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,1,2
+    B,6,0,T,7,/,1,6
+    B,6,0,T,7,/,1,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,1,2
+    B,6,0,T,7,/,2,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,1,2
+    B,6,0,T,7,/,2,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,0,1
+    B,6,0,T,8,/,1,7,0,8
+    B
+    B,6,2
+    B,6,2,D
+    B,6,2,D,5,3,/,0,0
+    B,6,2,D,5,3,/,0,4
+    B,6,2,D,5,3,/,0,6
+    B
+    B,6,2
+    B,6,2,D
+    B,6,2,D,5,3,/,0,0
+    B,6,2,D,5,3,/,0,4
+    B,6,2,D,5,3,/,0,8
+    B,6,2,D,5,3,/,0,8,5,7
+    B,6,2,D,5,3,/,0,8,6,4
+    B
+    B,6,2
+    B,6,2,D
+    B,6,2,D,5,9,/,0,0
+    B,6,2,D,5,9,/,0,4
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,1,/,0,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,0,1,/,0,0
+    B,6,0,T,2,2,0,1,/,1,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,1,0,/,0,0
+    B,6,0,T,2,2,1,0,/,2,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,8,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,2,0,5,0,/,0,0,0,1
+    B,6,0,W,2,0,5,0,/,0,0,0,2
+    B,6,0,W,2,0,5,0,/,0,0,1,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,3,0,0,/,0,0
+    B,6,0,W,2,3,0,0,/,1,2
+    B,6,0,W,2,3,0,0,/,1,2,5
+    B,6,0,W,2,3,0,0,/,1,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,3,0,0,/,0,0
+    B,6,0,W,2,3,0,0,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,3,0,0,/,0,0
+    B,6,0,W,2,3,0,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,2,/,0,0
+    B,6,0,W,2,5,5,2,/,1,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,2,/,0,0
+    B,6,0,W,2,5,5,2,/,2,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,2,/,0,0
+    B,6,0,W,2,5,5,2,/,3,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,1,0
+    B,6,0,W,2,7,2,0,/,1,0,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,1,0
+    B,6,0,W,2,7,2,0,/,1,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,1,2
+    B,6,0,W,2,7,2,0,/,1,2,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,2,6
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,1,0
+    B,6,0,Y,2,2,0,0,/,1,4
+    B,6,0,Y,2,2,0,0,/,1,4,2
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,1,0
+    B,6,0,Y,2,2,0,0,/,1,4
+    B,6,0,Y,2,2,0,0,/,1,4,2
+    B,6,0,Y,2,2,0,0,/,1,4,2,2
+
+application_events
+6
+    2020-11-19,Application filed by Volvo Truck Corporation
+    2020-11-19,Priority to EP20811984.2A
+    2020-11-19,Priority to KR1020237017192A
+    2020-11-19,Priority to CN202080107338.0A
+    2020-11-19,Priority to PCT/EP2020/082707
+    2022-05-27,Publication of WO2022106004A1
+
+active_area
+2
+    E,P
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/EP2020/082707,2020-11-19,Predictive energy and motion management for multitrailer heavy-duty vehicles
+
+legal_event
+4
+    Date,Code,Title,Description
+    2022-07-06,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 20811984Country of ref document: EPKind code of ref document: A1
+    2023-06-20,NENP,Non-entry into the national phase,Ref country code: DE
+    2023-06-25,ENP,Entry into the national phase,Ref document number: 2020811984Country of ref document: EPEffective date: 20230619
+

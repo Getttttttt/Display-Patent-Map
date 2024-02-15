@@ -1,0 +1,212 @@
+ID
+    WO2014050283A1
+citation_exist
+    Patent Citations (6)
+citation_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH04101692A                      *,1990-08-17,1992-04-03,Meidensha Corp,Dc brushless motor controller
+    JPH07212915A                      *,1994-01-20,1995-08-11,Fuji Electric Co Ltd,電気自動車駆動用電動機の制御方法
+    JPH08331900A                      *,1995-05-31,1996-12-13,Meidensha Corp,回転電機の制御装置
+    JP2000270406A                      *,1999-03-17,2000-09-29,Nissan Motor Co Ltd,車両用回生協調ブレーキ制御装置
+    JP2003047300A                      *,2001-07-30,2003-02-14,Toyota Motor Corp,モータ制御装置及び方法
+    JP2003235286A                      *,2002-02-13,2003-08-22,Nissan Motor Co Ltd,同期機の制御装置
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (9)
+              
+
+
+citedBy_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN114274797A                      *,2021-12-28,2022-04-05,华为数字能源技术有限公司,电机的堵转扭矩控制方法及堵转扭矩控制装置、电动车辆
+    Family To Family Citations,,,,
+    CN105799545A                      *,2014-12-31,2016-07-27,鸿富锦精密工业（深圳）有限公司,电动车刹车回充控制系统及方法
+    JP6299644B2                      *,2015-03-27,2018-03-28,三菱電機株式会社,電動機制御装置
+    KR101855758B1                      *,2015-10-05,2018-05-09,현대자동차 주식회사,모터 토크 제어 장치 및 방법
+    CN113991958A,2017-07-21,2022-01-28,株式会社电装,旋转电机
+    JP6939750B2                      *,2017-12-28,2021-09-22,株式会社デンソー,回転電機
+    CN111566904B,2017-12-28,2023-04-28,株式会社电装,旋转电机
+    WO2019131914A1                      *,2017-12-28,2019-07-04,株式会社デンソー,回転電機
+    JP6980716B2                      *,2019-03-29,2021-12-15,株式会社日立製作所,永久磁石同期機の駆動装置、永久磁石同期機のトルク補償方法、および電気車
+
+abstract
+    回転子に設けられた永久磁石の磁石温度によらず、トルク指令値通りのトルクを回転電機に発生させることができる、回転電機の駆動制御装置の提供するために、駆動制御装置６００は、回転子に永久磁石が設けられた回転電機２００の電流を車両コントローラからのトルク指令値τ*に基づいてベクトル制御し、バッテリ１８０を電源とする回転電機２００の駆動および回転電機２００によるバッテリ１８０の回生充電を行う。そして、駆動制御装置６００は、温度検出部２２８の検出値に基づいて磁石温度Ｔmを算出する温度演算部６２７と、回転電機２００のトルクτがトルク指令値τ*と一致するように、同一トルク指令値τ*に対して磁石温度Ｔmに応じた異なる電流指令値Ｉｄ*,Ｉｑ*を生成する電流指令演算部６２５と、を備える。
+title
+    回転電機の駆動制御装置および電動車両駆動システム
+similar_document
+26
+    Publication,Publication Date,Title
+    WO2014050283A1,2014-04-03,回転電機の駆動制御装置および電動車両駆動システム
+    JP5354086B2,2013-11-27,電動車両およびその制御方法
+    US7852029B2,2010-12-14,Control device and control method of boost converter
+    JP5055246B2,2012-10-24,回転電機の制御装置
+    US9748806B2,2017-08-29,Permanent magnet rotating electrical machine and a motor vehicle using same
+    JP5109290B2,2012-12-26,電動機駆動制御システムおよびその制御方法
+    EP1928084B1,2011-07-20,Motor control method and motor control apparatus
+    WO2012132703A1,2012-10-04,電動機制御装置
+    WO2011161811A1,2011-12-29,モータ駆動装置およびそれを搭載する車両
+    US20120221183A1,2012-08-30,DC Bus Voltage Control
+    US8786244B2,2014-07-22,System and method for current estimation for operation of electric motors
+    US9610858B2,2017-04-04,Three-phase inverter control for electrified vehicles
+    Gu et al.,2013,Driving and braking control of PM synchronous motor based on low-resolution hall sensor for battery electric vehicle
+    Lu et al.,2011,Research on hub motor control of four-wheel drive electric vehicle
+    JP5955761B2,2016-07-20,車両の制御装置
+    JP5534323B2,2014-06-25,電動機制御装置
+    WO2018116668A1,2018-06-28,モータ制御装置および電動車両
+    JP7312065B2,2023-07-20,モータ制御装置、機電一体ユニット、発電機システム、モータ駆動装置および電動車両システム
+    JP5776349B2,2015-09-09,回転電機の制御装置
+    Fu et al.,2003,Vector control of an IPM synchronous machine capable of full range operations for hybrid electric vehicle application
+    JP2013038912A,2013-02-21,電気自動車
+    Park et al.,2011,Current control method of IPMSM in constant power region for HEV
+    Mongellaz et al.,2015,Co-energy-based lookup table model for DC-excited flux-switching motor: Study at vehicle level
+    Kim et al.,2011,A method for improving HEV motor system efficiency considering battery voltage variation
+    KR101830829B1,2018-04-05,전기 자동차를 위한 고성능 약계자 제어 장치
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    6
+classfication_nums
+    17
+classfication_items
+103
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,1,/,0,0
+    H,0,2,P,2,1,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,2
+    B,6,0,L,1,5,/,0,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,9,/,0,0
+    H,0,2,P,2,9,/,6,0
+    H,0,2,P,2,9,/,6,6
+    H,0,2,P,2,9,/,6,6,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,1,0
+    B,6,0,L,2,2,2,0,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,5,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+2
+    2013-07-26,Application filed by 日立オートモティブシステムズ株式会社
+    2014-04-03,Publication of WO2014050283A1
+
+active_area
+2
+    J,P
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2012210973A,2012-09-25,回転電機の駆動制御装置および電動車両駆動システム
+    JP2012-210973,2012-09-25,
+
+legal_event
+4
+    Date,Code,Title,Description
+    2014-05-21,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 13841008Country of ref document: EPKind code of ref document: A1
+    2015-03-25,NENP,Non-entry into the national phase,Ref country code: DE
+    2015-10-21,122,Ep: pct application non-entry in european phase,Ref document number: 13841008Country of ref document: EPKind code of ref document: A1
+

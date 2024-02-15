@@ -1,0 +1,278 @@
+ID
+    US10858010B2
+citation_exist
+    Patent Citations (15)
+citation_infor
+17
+    Publication number,Priority date,Publication date,Assignee,Title
+    US6033041A,1995-09-20,2000-03-07,Mitsubishi Jidosha Kogyo Kabushiki Kaisha,Regenerative braking control system for electric vehicle
+    JP2000205015A,1999-01-08,2000-07-25,Fujitsu Ten Ltd,Acceleration/deceleration control system
+    JP2002152903A,1995-09-20,2002-05-24,Mitsubishi Motors Corp,Regenerative braking controller for electric vehicle
+    US20090112386A1,2007-10-25,2009-04-30,Honda Motor Co., Ltd.,Electric vehicle and regeneration control method for electric vehicle
+    JP2009303342A,2008-06-11,2009-12-24,Honda Motor Co Ltd,Electric vehicle, and method of controlling electric vehicle
+    US20120081063A1                      *,2010-09-30,2012-04-05,Brother Kogyo Kabushiki Kaisha,Motor Control Device
+    US20120245773A1                      *,2011-03-22,2012-09-27,Hitachi Automotive Systems, Ltd.,Control system for electric vehicle
+    WO2015105077A1,2014-01-10,2015-07-16,日産自動車株式会社,Control device for electric-powered vehicle and control method for electric-powered vehicle
+    JP2015133799A,2014-01-10,2015-07-23,日産自動車株式会社,Control apparatus and method for electric vehicle
+    Family To Family Citations,,,,
+    JP3612711B2                      *,2002-07-03,2005-01-19,トヨタ自動車株式会社,Automobile
+    JP5371855B2                      *,2010-03-26,2013-12-18,三菱電機株式会社,Electric vehicle control device and electric vehicle control method
+    US8996217B2                      *,2010-10-26,2015-03-31,Nissan Motor Co., Ltd.,Control device for hybrid vehicle
+    JP5696790B2                      *,2011-11-04,2015-04-08,トヨタ自動車株式会社,Vehicle and vehicle control method
+    WO2014103601A1                      *,2012-12-28,2014-07-03,日産自動車株式会社,Motor control device and motor control method
+    KR102150923B1                      *,2015-05-26,2020-09-02,닛산 지도우샤 가부시키가이샤,Electric vehicle control device and electric vehicle control method
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (15)
+              
+
+
+citedBy_infor
+17
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20220111844A1                      *,2020-10-09,2022-04-14,Toyota Jidosha Kabushiki Kaisha,Vehicle control system
+    US20220250438A1                      *,2021-02-10,2022-08-11,Toyota Jidosha Kabushiki Kaisha,Air conditioner for fuel cell vehicle
+    US11807237B2                      *,2020-10-09,2023-11-07,Toyota Jidosha Kabushiki Kaisha,Vehicle control system
+    Family To Family Citations,,,,
+    JP6764553B2                      *,2016-09-30,2020-10-07,ビークルエナジージャパン株式会社,Battery control device, battery system and vehicle
+    US10322688B2                      *,2016-12-30,2019-06-18,Textron Innovations Inc.,Controlling electrical access to a lithium battery on a utility vehicle
+    EP3758999A1                      *,2018-02-26,2021-01-06,Jaguar Land Rover Limited,A controller for a vehicle
+    EP3628569B1                      *,2018-09-26,2021-07-28,Siemens Aktiengesellschaft,Method for starting a driverless transport vehicle on an inclined transport roadway
+    EP3950402B1                      *,2019-03-27,2023-06-07,NISSAN MOTOR Co., Ltd.,Control apparatus for electric vehicle and control method for electric vehicle
+    CN110920415B                      *,2019-12-13,2021-06-29,华人运通(江苏)技术有限公司,Vehicle torque compensation method and device, automobile and storage medium
+    WO2021176731A1                      *,2020-03-06,2021-09-10,日産自動車株式会社,Electric vehicle control method and electric vehicle control device
+    US20210302183A1                      *,2020-03-31,2021-09-30,Fuelsave Consultoria, S.A.,Vehicle efficiency prediction and control
+    KR20210152209A                      *,2020-06-08,2021-12-15,현대자동차주식회사,Control device and method for hybrid electric vehicle
+    JP2022012210A                      *,2020-07-01,2022-01-17,マツダ株式会社,Vehicle drive system
+    JP7279692B2                      *,2020-08-07,2023-05-23,トヨタ自動車株式会社,Electric car
+    US20220080971A1                      *,2020-09-11,2022-03-17,Ford Global Technologies, Llc,Uphill vehicle launch in one-pedal driving mode
+
+abstract
+    The electric vehicle control method is a control method that includes the motor that gives braking force or driving force to a vehicle in accordance with an accelerator operation, by which the braking force is controlled when an accelerator operation amount is smaller than a given value and the driving force is controlled when the accelerator operation amount is the given value or larger. The electric vehicle control device estimates disturbance torque that acts on the motor as resistance component relating to a gradient and executes correction by which the braking force or the driving force is increased or decreased so as to cancel the resistance component in accordance with a disturbance torque estimated value Td. Then, on a downhill road at a given gradient or more, a correction amount of the braking force or the driving force is reduced.
+title
+    Control method for electric vehicle and control device for electric vehicle
+similar_document
+13
+    Publication,Publication Date,Title
+    US10858010B2,2020-12-08,Control method for electric vehicle and control device for electric vehicle
+    US11021068B2,2021-06-01,Vehicle control device and control method
+    US9845022B2,2017-12-19,Control device for electric motor vehicle and control method for electric motor vehicle
+    US10035430B2,2018-07-31,Control device for electric motor vehicle and control method for electric motor vehicle
+    US10266069B2,2019-04-23,Control device for electric motor vehicle and control method for electric motor vehicle
+    EP3575133B1,2022-03-09,Electric vehicle control method and control device
+    US11027617B2,2021-06-08,Control method for electrically driven vehicle and control device for electrically driven vehicle
+    EP4052951A1,2022-09-07,Control method for electric motor vehicle and control device for electric motor vehicle
+    WO2015080027A1,2015-06-04,Control device for electric vehicle and control method for electric vehicle
+    JP7056219B2,2022-04-19,Motor vehicle control method and motor vehicle control device
+    JP6880674B2,2021-06-02,Electric vehicle control method and electric vehicle control device
+    BR112019015179B1,2023-06-27,CONTROL METHOD FOR ELECTRIC VEHICLE AND CONTROL DEVICE FOR ELECTRIC VEHICLE
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    24
+classfication_items
+155
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,0,2
+    B,6,0,W,4,0,/,0,6
+    B,6,0,W,4,0,/,0,7,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,9,/,0,0
+    B,6,0,L,9,/,1,6
+    B,6,0,L,9,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B,6,0,L,1,5,/,2,0,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B,6,0,L,1,5,/,2,0,1,8
+    B,6,0,L,1,5,/,2,0,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,7,2
+    B,6,0,L,1,5,/,2,0,8,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,2,0,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B,6,0,W,1,0,/,1,8,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,3,/,0,0
+    H,0,2,P,3,/,0,6
+    H,0,2,P,3,/,0,8
+    H,0,2,P,3,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B,6,0,L,2,2,4,0,/,6,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B,6,0,L,2,2,5,0,/,2,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,4,4
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+7
+    2017-01-24,Application filed by Nissan Motor Co Ltd
+    2019-07-22,Assigned to NISSAN MOTOR CO., LTD.
+    2020-05-28,Publication of US20200164885A1
+    2020-12-08,Application granted
+    2020-12-08,Publication of US10858010B2
+    Status,Active
+    2037-01-24,Anticipated expiration
+
+active_area
+9
+    E,P
+    R,U
+    U,S
+    M,X
+    K,R
+    J,P
+    C,N
+    C,A
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2017/002382,2017-01-24,Electric vehicle control method and control device
+
+legal_event
+5
+    Date,Code,Title,Description
+    2019-07-22,AS,Assignment,Owner name: NISSAN MOTOR CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:KUJUBU, NAOTERU;SUZUKI, TATSUYA;SHINDO, IKUMA;SIGNING DATES FROM 20190607 TO 20190709;REEL/FRAME:049824/0086
+    2019-07-22,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2020-06-26,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2020-11-18,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

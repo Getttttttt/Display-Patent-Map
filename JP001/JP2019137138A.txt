@@ -1,0 +1,255 @@
+ID
+    JP2019137138A
+citation_exist
+    Patent Citations (10)
+citation_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH07264711A                      *,1994-03-17,1995-10-13,Honda Motor Co Ltd,電動車両の制動装置
+    WO2013014741A1                      *,2011-07-25,2013-01-31,トヨタ自動車株式会社,車両制御装置
+    JP2013095316A                      *,2011-11-02,2013-05-20,Toyota Motor Corp,ハイブリッド車両用動力伝達装置の制御装置
+    JP2016034766A                      *,2014-08-01,2016-03-17,日立オートモティブシステムズ株式会社,車両用制御装置
+    Family To Family Citations,,,,
+    JPH0964711A,1995-08-22,1997-03-07,Fuji Electric Co Ltd,光電変換装置
+    JP2007126092A                      *,2005-11-07,2007-05-24,Nissan Motor Co Ltd,ハイブリッド車両のコースティング走行時制動力制御装置
+    JP2009137461A                      *,2007-12-06,2009-06-25,Hitachi Ltd,車両制御装置及びそれを備える車両
+    US9017214B2                      *,2011-10-03,2015-04-28,Toyota Jidosha Kabushiki Kaisha,Hybrid vehicle control apparatus
+    KR101694074B1                      *,2015-11-10,2017-01-18,현대자동차주식회사,하이브리드 dct 차량의 변속 제어방법
+    KR101703629B1                      *,2015-12-14,2017-02-07,현대자동차 주식회사,듀얼 클러치 변속기를 구비한 하이브리드 차량의 제어 방법 및 장치
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP2021035064A                      *,2019-08-13,2021-03-01,株式会社豊田自動織機,産業用車両
+    CN111152665B                      *,2020-01-08,2021-04-02,吉林大学,一种基于驾驶风格识别的纯电动汽车amt换挡控制方法
+
+abstract
+    【課題】必要時にレスポンス良くエンジンブレーキを作動させることができるように自動変速機を制御でき、回生制動中における制動力の低下とショックの発生と回生効率の低下を抑制できる変速制御装置を提供する【解決手段】変速制御部は、モータジェネレータの所定時間後の回転数がクラッチの係合許可回転数以上であると予測され、かつ、所定時間後の要求減速度が所定時間後の実現可能減速度より所定の閾値以上大きいと予測される場合には、自動変速機の変速を許可し、それ以外の場合には、モータジェネレータを用いた回生制動中における自動変速機の変速を禁止する。【選択図】図２
+title
+    変速制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    KR101558812B1,2015-10-07,하이브리드 차량의 타행 주행시 모터 토크 제어 방법
+    JP6729142B2,2020-07-22,駆動力制御方法及び駆動力制御装置
+    EP3536569A2,2019-09-11,Braking force control system, device, and method
+    JP2011528644A,2011-11-24,自動車の回生制動方法
+    JP2010030430A,2010-02-12,ハイブリッド車両のアイドルストップ制御装置
+    KR101720641B1,2017-04-10,차량의 제어 장치
+    JP2019137138A,2019-08-22,変速制御装置
+    JP6337664B2,2018-06-06,車両の自動走行制御装置及び車両の自動走行制御方法
+    JP7010296B2,2022-01-26,車両の制御方法及び制御装置
+    JP2010149556A,2010-07-08,ハイブリッド車両の制御装置
+    KR101724505B1,2017-04-07,차량의 변속 제어 장치 및 그 방법
+    JP2015189382A,2015-11-02,ハイブリッド自動車および回生制御方法
+    JP7207004B2,2023-01-18,電動車両の制御装置
+    US11453377B2,2022-09-27,Braking force control apparatus
+    JP5780041B2,2015-09-16,車両用制御装置
+    CN108290571B,2021-06-11,混合动力车辆的再生电力量控制系统、车辆及控制方法
+    JP2016113093A,2016-06-23,ハイブリッド車両の制御装置
+    JP2020157984A,2020-10-01,車両駆動システム
+    JP2020039224A,2020-03-12,走行制御装置および車両
+    JP2019152308A,2019-09-12,制動力制御装置
+    JP6994007B2,2022-02-03,車両の制御装置
+    JP2018127096A,2018-08-16,走行制御装置、車両および走行制御方法
+    JP2018122681A,2018-08-09,走行制御装置、走行制御方法、および走行制御プログラム
+    JP2019092267A,2019-06-13,電動車両の制御装置
+    CN111801259A,2020-10-20,用于计算机动车辆的车轮处的最小扭矩的系统以及用于使用这样的计算系统来确定脚从加速器上抬起的时刻的系统
+
+patent_application
+    NoExist
+patent_priority_application
+5
+    Application,Priority date,Filing date,Title
+    JP2018020272A,2018-02-07,2018-02-07,変速制御装置
+    DE102019101849.8A,2018-02-07,2019-01-25,Schaltsteuerungsgerät
+    US16/263,001,2018-02-07,2019-01-31,Shift control apparatus
+    CN201910108794.6A,2018-02-07,2019-02-03,换档控制装置
+
+inventor_number
+    5
+classfication_nums
+    22
+classfication_items
+132
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,5,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,7,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,0
+    B,6,0,W,1,0,/,1,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,3,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,9
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,0,9,7
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,5,9,/,0,0
+    F,1,6,H,5,9,/,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B,6,0,L,2,2,4,0,/,6,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,5,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,8
+    B,6,0,W,2,5,1,0,/,0,8,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,2,/,0,0
+    B,6,0,W,2,5,5,2,/,1,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,0
+    B,6,0,W,2,7,1,0,/,1,0,0,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+7
+    2018-02-07,Application filed by Toyota Motor Corp
+    2018-02-07,Priority to JP2018020272A
+    2019-08-22,Publication of JP2019137138A
+    2022-02-24,Application granted
+    2022-02-24,Publication of JP7024472B2
+    Status,Active
+    2038-02-07,Anticipated expiration
+
+active_area
+2
+    J,P
+    C,N
+
+not_active_area
+2
+    D,E
+    U,S
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2018020272A,2018-02-07,変速制御装置
+
+legal_event
+9
+    Date,Code,Title,Description
+    2020-09-24,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20200924
+    2021-06-25,A977,Report on retrieval,Free format text: JAPANESE INTERMEDIATE CODE: A971007Effective date: 20210624
+    2021-06-29,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20210629
+    2021-08-17,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20210817
+    2021-12-28,TRDD,Decision of grant or rejection written,
+    2022-01-11,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20220111
+    2022-02-15,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20220124
+    2022-02-15,R151,Written notification of patent or utility model registration,Ref document number: 7024472Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R151
+

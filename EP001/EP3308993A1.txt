@@ -1,0 +1,336 @@
+ID
+    EP3308993A1
+citation_exist
+    Patent Citations (34)
+citation_infor
+36
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2008283786A,2007-05-10,2008-11-20,Toshiba Corp,Secondary battery charging system
+    JP2014180208A,2011-06-30,2014-09-25,Panasonic Corp,Power-supply unit
+    JP2015145238A                      *,2015-04-03,2015-08-13,太陽誘電株式会社,Motor drive control device and electrically-assisted vehicle
+    US20160202710A1                      *,2013-08-29,2016-07-14,Taiyo Yuden Co., Ltd.,Motor driving control apparatus and electrically assisted vehicle
+    Family To Family Citations,,,,
+    JPS4944683B1                      *,1970-05-27,1974-11-29,,
+    US3921745A                      *,1973-07-23,1975-11-25,Mcculloch Corp,Electric bicycle
+    JPH09219908A                      *,1996-02-13,1997-08-19,Yamaha Motor Co Ltd,Motor control device of electric vehicle
+    JPH09254861A,1996-03-26,1997-09-30,Yazaki Corp,Electric power-assisted bicycle
+    JP3819557B2                      *,1997-07-03,2006-09-13,本田技研工業株式会社,Electric power supply control device for electric auxiliary vehicle
+    JP2000118477A                      *,1998-10-12,2000-04-25,Sony Corp,Bicycle with assistance function
+    JP2001122182A,1999-10-22,2001-05-08,Yamaha Motor Co Ltd,Travel control device for small-sized electric vehicle with motor assist function
+    US6342769B1                      *,2000-11-07,2002-01-29,Orville J. Birkestrand,Electronic throttle/brake control system for monitorized wheel hub
+    JP2003231491A                      *,2002-02-08,2003-08-19,Sunstar Eng Inc,Power-assisted bicycle providing aerobic exercise
+    JP3919002B2                      *,2002-08-28,2007-05-23,本田技研工業株式会社,Power supply mechanism for electric vehicles
+    JP2004149001A                      *,2002-10-30,2004-05-27,Sanyo Electric Co Ltd,Power-assisted bicycle
+    JP3727315B2                      *,2003-04-01,2005-12-14,株式会社シマノ,Bicycle power supply
+    JP2005145309A,2003-11-18,2005-06-09,Moric Co Ltd,Battery discharge control method for motor-assisted bicycle
+    EP1998434A2                      *,2007-05-28,2008-12-03,Seiko Epson Corporation,Drive control circuit for electric motor and elctric motor equipped with same
+    JP4944683B2,2007-06-26,2012-06-06,インターバルブ  テクノロジー株式会社,Ball valve seat ring
+    JP5211648B2                      *,2007-11-02,2013-06-12,セイコーエプソン株式会社,PWM control circuit, PWM control method, and apparatus using the same
+    CN201296185Y,2008-09-11,2009-08-26,福斯特资产有限公司,Power-assistant motor controlling device of electric power-assistant bicycle
+    JP2011076903A,2009-09-30,2011-04-14,Sanyo Electric Co Ltd,Battery apparatus and electric vehicle
+    TWM382655U,2010-02-12,2010-06-11,Bi Da Technology Co Ltd,Vehicle wheel inertia-starting and electrical power generation structure
+    CN201660093U,2010-03-19,2010-12-01,美尔顿车业(东莞)有限公司,Automatic power-assisting correction system of electric power-assisted bicycle
+    JP5300792B2,2010-06-11,2013-09-25,株式会社シマノ,Auxiliary power system for bicycles
+    JP2012041030A,2010-08-23,2012-03-01,Aida Yukio,Power-assisted bicycle
+    TWI424679B,2011-04-08,2014-01-21,Ind Tech Res Inst,Sensorless motor control method with energy recovery ability
+    TW201321259A                      *,2011-11-30,2013-06-01,Ind Tech Res Inst,Drive mechanism of an electric bicycle and drive control method thereof
+    JP2015037896A,2012-07-31,2015-02-26,石川　昭一,Assist rotation force transmission device of bicycle
+    CN202827974U,2012-09-11,2013-03-27,浙江天能能源科技有限公司,Electric bicycle with circuit capable of sleeping and automatically awakening
+    CN106163861B                      *,2014-04-03,2019-07-16,雅马哈发动机工程株式会社,Power driven system and transporting equipment with it
+    JP6226825B2,2014-06-20,2017-11-08,ヤマハ発動機株式会社,Electric assist bicycle
+    CN105480369A,2016-01-25,2016-04-13,冯志良,Intelligent power device of bicycle and work method of intelligent power device
+    CN105857115B,2016-06-12,2018-12-25,南京壹佰克智能科技有限公司,A kind of intelligent motor control system for electric assisted bicycle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    TWI715265B                      *,2019-10-24,2021-01-01,英屬開曼群島商睿能創意公司,Electronic bicycle, transmission device, and operation method
+
+abstract
+    A motor driving control apparatus in the embodiment includes : a first controller configured to control powering and regeneration of a motor; a second controller configured to control the first controller; and an assistant unit configured to activate the second controller in a stop state, when a counter electromotive force caused by the motor, which is rotated without control by the first controller, satisfies a predetermined condition, before a power-on instruction for the motor driving control apparatus is made or in a state where the power-on instruction for the motor driving control apparatus is not made.
+title
+    Motor driving control apparatus and electrically assisted vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    TWI298682B,2008-07-11,Bicycle power source apparatus
+    US20160016483A1,2016-01-21,Control apparatus, power supply control apparatus, charge control method, charge control apparatus, and power supply apparatus for vehicles
+    EP2298625B1,2013-08-14,Electric power steering device
+    EP2200146A1,2010-06-23,Power supply device
+    US9843184B2,2017-12-12,Voltage conversion apparatus
+    CN103532118A,2014-01-22,Inrush current limiting circuit
+    EP2302759B1,2020-01-22,Battery charger
+    JP2016201929A,2016-12-01,Power supply device, and control method for power supply device
+    JP7073063B2,2022-05-23,Motor drive control device and electrically power assisted vehicle
+    JP2012143020A,2012-07-26,Charging system
+    JP7198333B2,2022-12-28,Motor drive control device and electrically assisted vehicle
+    JP6651605B2,2020-02-19,Control device for hybrid vehicle
+    JP2008131772A,2008-06-05,Power supply unit
+    JP2017163736A,2017-09-14,Start-assist device for electric vehicle
+    KR101546046B1,2015-08-20,System for preventing battery discharge of electric power cart and method thereof
+    KR100534795B1,2005-12-07,Apparatus for driving converter in hybrid electric vehicle and method of controlling the same
+    JP6375977B2,2018-08-22,Power supply
+    JP5679182B2,2015-03-04,Inverter device and electric tool provided with the same
+    TWI678860B,2019-12-01,Power control device and control method for power control device
+    JP7109221B2,2022-07-29,power converter
+    JP4570559B2,2010-10-27,Charge / discharge circuit
+    JP2022015137A,2022-01-21,Battery pack and power-assisted vehicle
+    KR20230105762A,2023-07-12,Smart battery system for two-wheeled vehicles
+    KR19990055633A,1999-07-15,Electric vehicle battery protector and method
+    KR200294429Y1,2002-11-13,Battery charger with power of saving
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    5
+classfication_nums
+    33
+classfication_items
+196
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,2
+    B,6,0,L,1,/,0,4
+    B,6,0,L,1,/,1,0
+    B,6,0,L,1,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    B
+    B,6,2
+    B,6,2,M
+    B,6,2,M,6,/,0,0
+    B,6,2,M,6,/,4,0
+    B,6,2,M,6,/,4,5
+    B
+    B,6,2
+    B,6,2,M
+    B,6,2,M,6,/,0,0
+    B,6,2,M,6,/,4,0
+    B,6,2,M,6,/,4,5
+    B,6,2,M,6,/,5,0
+    B
+    B,6,2
+    B,6,2,M
+    B,6,2,M,6,/,0,0
+    B,6,2,M,6,/,8,0
+    B,6,2,M,6,/,9,0
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,2,9
+    H,0,2,J,7,/,0,0,3,1
+    H,0,2,J,7,/,0,0,3,2
+    H
+    H,0,2
+    H,0,2,K
+    H,0,2,K,7,/,0,0
+    H,0,2,K,7,/,1,4
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,1,/,0,0
+    H,0,2,P,1,/,0,2
+    H,0,2,P,1,/,0,4
+    H,0,2,P,1,/,0,8
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,7,/,0,0
+    H,0,2,P,2,7,/,0,4
+    H,0,2,P,2,7,/,0,6
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,3,/,0,0
+    H,0,2,P,3,/,0,6
+    H,0,2,P,3,/,0,8
+    H,0,2,P,3,/,1,4
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,6,/,0,0
+    H,0,2,P,6,/,1,4
+    H,0,2,P,6,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,1,0
+    B,6,0,L,2,2,6,0,/,1,6
+    B,6,0,L,2,2,6,0,/,1,6,2
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,2,9
+    H,0,2,J,7,/,0,0,3,0,6
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,2,0,5,/,0,0
+    H,0,2,P,2,2,0,5,/,0,5
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+
+application_events
+4
+    2017-08-29,Priority claimed from JP2017164046A
+    2017-09-21,Application filed by Taiyo Yuden Co Ltd
+    2018-04-18,Publication of EP3308993A1
+    Status,Pending
+
+active_area
+4
+    E,P
+    U,S
+    C,N
+    J,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2016192800,2016-09-30,
+    JP2017164046A,2017-08-29,Motor drive control device and electrically power assisted vehicle
+
+legal_event
+11
+    Date,Code,Title,Description
+    2018-03-22,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2018-03-22,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+    2018-04-18,AK,Designated contracting states,Kind code of ref document: A1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2018-04-18,AX,Request for extension of the european patent,Extension  state: BA ME
+    2018-11-02,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+    2018-12-05,17P,Request for examination filed,Effective date: 20181017
+    2018-12-05,RBV,Designated contracting states (corrected),Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2020-12-04,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: EXAMINATION IS IN PROGRESS
+    2021-01-06,17Q,First examination report despatched,Effective date: 20201203
+    2021-03-23,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: EXAMINATION IS IN PROGRESS
+

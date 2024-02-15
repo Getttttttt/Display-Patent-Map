@@ -1,0 +1,256 @@
+ID
+    US9233676B2
+citation_exist
+    Patent Citations (11)
+citation_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5326158A,1991-12-24,1994-07-05,Toyota Jidosha Kabushiki Kaisha,Brake controlling apparatus for electric vehicle
+    DE19604134A1,1996-02-06,1997-08-07,Bosch Gmbh Robert,Method and device for controlling the brake system of motor vehicles with an electric drive
+    JP2002255018A                      *,2001-02-28,2002-09-11,Bosch Braking Systems Co Ltd,Brake system
+    WO2004101308A1,2003-05-13,2004-11-25,Continental Teves Ag & Co. Ohg,Method for regulating an automotive brake system
+    DE102006055766A1,2006-04-26,2007-10-31,Continental Teves Ag & Co. Ohg,Vehicle braking method for operating a combined motor vehicle brake installation uses a hydraulic and electro-mechanical braking system
+    DE102006055765A1,2006-07-03,2008-01-31,Continental Teves Ag & Co. Ohg,Combined motor vehicle braking system operating method, involves performing brake force distribution in range of reduced deceleration such that part of braking force on vehicle wheels of rear axle is greater than braking force of front axle
+    DE102006055799A1,2006-11-27,2008-05-29,Robert Bosch Gmbh,Vehicle e.g. hybrid-vehicle, regenerative braking method for control device, involves modulating portion of electromechanical drum brake dependent on portion of generator to compensate fluctuations of specific generator-portion
+    CN101687498A,2007-06-19,2010-03-31,大陆-特韦斯贸易合伙股份公司及两合公司,Combined braking system, particularly for motor vehicles
+    WO2010069659A2,2008-12-18,2010-06-24,Robert Bosch Gmbh,Method for controlling the activation of a hydraulic vehicle brake system and electromechanical brake booster
+    Family To Family Citations,,,,
+    JPH1035462A                      *,1996-07-29,1998-02-10,Toyota Motor Corp,Vehicle acceleration slip controller
+    DE102007028070A1                      *,2007-06-19,2008-12-24,Lucas Automotive Gmbh,Brake equipment for a land vehicle
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (3)
+              
+
+
+citedBy_exist
+    
+              Cited By (20)
+              
+
+
+citedBy_infor
+22
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20160052501A1                      *,2014-08-25,2016-02-25,Robert Bosch Gmbh,Method and device for ascertaining at least one variable regarding a state of a brake fluid in a brake system of a vehicle
+    US9969374B2,2013-05-31,2018-05-15,Ford Global Technologies, Llc,Control and delivery of hydraulic fluid in vehicle braking system
+    Family To Family Citations,,,,
+    DE102005049300A1                      *,2005-10-12,2007-04-26,Continental Teves Ag & Co. Ohg,Method for determining the wheel pressure in an electronically controllable motor vehicle brake control system
+    DE102011054290A1                      *,2011-10-07,2013-04-11,Dr. Ing. H.C. F. Porsche Aktiengesellschaft,Method and device for controlling a braking system for a motor vehicle with a braking device
+    DE102011121748A1,2011-12-20,2013-06-20,Lucas Automotive Gmbh,Vehicle braking system
+    DE102012203779A1                      *,2012-03-12,2013-09-12,Robert Bosch Gmbh,Method for operating brake system of vehicle e.g. hybrid car, involves controlling pressure equalization valve of brake circuit, where brake circuit is connected with brake fluid container of brake system in opened state
+    DE102012211278A1,2012-06-29,2014-01-02,Robert Bosch Gmbh,Method for operating a recuperative braking system of a vehicle, control device for a recuperative braking system of a vehicle and recuperative braking system
+    DE102012221968A1                      *,2012-11-30,2014-06-05,Robert Bosch Gmbh,Method for performing a braking operation in a vehicle
+    DE102012024950A1,2012-12-19,2014-06-26,Lucas Automotive Gmbh,Hydraulic brake system with a buffer
+    DE102013219458A1                      *,2013-09-26,2015-04-09,Continental Teves Ag & Co. Ohg,Method for controlling a brake system
+    DE102016203111A1,2015-03-05,2016-09-08,Continental Teves Ag & Co. Ohg,Brake system for motor vehicles
+    ITUB20152565A1                      *,2015-07-28,2017-01-28,Faiveley Transport Italia Spa,Pneumatic braking system for a railway vehicle.
+    CN106608250B                      *,2015-10-26,2019-03-29,比亚迪股份有限公司,The active safety control system and method for vehicle
+    KR101734041B1,2015-11-09,2017-05-24,주식회사 만도,Pressure control apparatus and pressure control method thereof
+    DE102017211995A1                      *,2017-07-13,2019-01-17,Robert Bosch Gmbh,Method for operating a brake system of a motor vehicle, and control and / or regulating device
+    JP7017904B2                      *,2017-10-23,2022-02-09,ロベルト・ボッシュ・ゲゼルシャフト・ミト・ベシュレンクテル・ハフツング,Brake control device, brake control method and brake system
+    KR102406133B1                      *,2017-11-07,2022-06-07,현대자동차 주식회사,Control method of idle stop and go system
+    KR102518656B1                      *,2018-05-23,2023-04-06,현대자동차주식회사,Method for Inertia Drive Control with Torque Sharing of Eco Friendly Vehicle
+    DE102018211687A1                      *,2018-07-13,2020-01-16,Robert Bosch Gmbh,Method for operating a brake system and brake system
+    DE102021214996A1                      *,2021-12-23,2023-06-29,Robert Bosch Gesellschaft mit beschränkter Haftung,Method for operating a brake system of a motor vehicle, control device, brake system
+
+abstract
+    A method for the operation of a brake system having two brake circuits, with a recuperative brake, in particular an electrical generator, a master brake cylinder and a brake pedal simultaneously achieve optimized use of the regenerative braking and a constant braking experience for the driver with the highest safety requirements. When there is a braking demand by the driver with an associated desired braking torque and a first condition is met, at least one outlet valve is opened and brake fluid is conducted with an associated volume of brake fluid into at least one reservoir and the at least one outlet valve is then closed if a second condition is met. The first condition is met if a braking variable corresponding to the braking demand is not less than a specified minimum value. The second condition is met if the volume of brake fluid has flowed into the reservoirs.
+title
+    Method for operating a brake system, brake systems in which the method is carried out and motor vehicles comprising said brakes systems
+similar_document
+25
+    Publication,Publication Date,Title
+    US9233676B2,2016-01-12,Method for operating a brake system, brake systems in which the method is carried out and motor vehicles comprising said brakes systems
+    CN110944889B,2022-05-13,Brake system
+    CN107082027B,2020-02-18,Vehicle brake system
+    JP5863954B2,2016-02-17,CONTROL DEVICE FOR VEHICLE BRAKE SYSTEM AND METHOD FOR OPERATING VEHICLE BRAKE SYSTEM
+    KR102480768B1,2022-12-23,Method for operating regenerative brake system of vehicle, and control device for regenerative brake system of vehicle
+    CN102056780B,2015-03-25,Braking device comprising a pressure accumulator
+    US8651586B2,2014-02-18,Braking device for a motor vehicle
+    US9586486B2,2017-03-07,Control unit for a recuperative brake system of a vehicle and method for braking a vehicle
+    US9533663B2,2017-01-03,Hydraulic brake system
+    KR101956405B1,2019-06-19,Control device for a brake system of a vehicle, brake system for a vehicle, and method for operating a brake system of a vehicle
+    US8991942B2,2015-03-31,Brake control apparatus
+    US8672419B2,2014-03-18,Brake system
+    JP5270654B2,2013-08-21,Brake control device
+    KR102082307B1,2020-02-27,Method for operating a braking system of a vehicle and control device for a braking system of a vehicle
+    KR20120130234A,2012-11-29,Brake system for a vehicle and method for operating a brake system of a vehicle
+    US20140131150A1,2014-05-15,Brake system and actuator control device
+    US10189454B2,2019-01-29,Brake system
+    KR20140122671A,2014-10-20,Brake system for a vehicle and method for operating the brake system
+    US9963134B2,2018-05-08,Method for controlling a brake system, and brake system in which the method is carried out
+    US20170240154A1,2017-08-24,Braking device for electric automobile
+    JP2013520343A,2013-06-06,Brake system for vehicle and method of operating vehicle brake system
+    JP5876160B2,2016-03-02,Method for blending generator brake torque of a generator of a regenerative brake system with two brake circuits, and control device for a regenerative brake system with two brake circuits
+    KR20110125114A,2011-11-18,Hydraulic brake system
+    JP5330939B2,2013-10-30,Brake control device
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    5
+classfication_nums
+    16
+classfication_items
+116
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,4
+    B,6,0,T,8,/,4,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,5
+    B,6,0,T,1,3,/,5,8,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,6,6
+    B,6,0,T,1,3,/,6,8
+    B,6,0,T,1,3,/,6,8,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,2,6
+    B,6,0,T,8,/,2,6,6
+    B,6,0,T,8,/,2,6,7
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,2,1
+    B,6,0,T,8,/,3,2,5,5
+    B,6,0,T,8,/,3,2,7,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,4
+    B,6,0,T,8,/,4,0
+    B,6,0,T,8,/,4,0,7,2
+    B,6,0,T,8,/,4,0,7,7
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,4
+    B,6,0,T,8,/,4,0
+    B,6,0,T,8,/,4,0,7,2
+    B,6,0,T,8,/,4,0,8,1
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,4
+    B,6,0,T,8,/,4,8
+    B,6,0,T,8,/,4,8,0,9
+    B,6,0,T,8,/,4,8,2,7
+    B,6,0,T,8,/,4,8,6,3
+    B,6,0,T,8,/,4,8,7,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B,6,0,W,1,0,/,1,8,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,4,0
+    B,6,0,T,2,2,7,0,/,4,0,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,2
+
+application_events
+7
+    2011-09-01,Application filed by Continental Teves AG and Co oHG
+    2013-04-15,Assigned to CONTINENTAL TEVES AG & CO. OHG
+    2013-08-15,Publication of US20130211685A1
+    2016-01-12,Application granted
+    2016-01-12,Publication of US9233676B2
+    Status,Active
+    2032-08-07,Adjusted expiration
+
+active_area
+7
+    D,E
+    C,N
+    K,R
+    E,P
+    U,S
+    E,S
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+5
+    Application,Filing date,Title
+    DE102010040190.0,2010-09-03,
+    DE102010040190,2010-09-03,
+    DE102010040190A,2010-09-03,Method for operating a brake system, brake system and motor vehicle
+    PCT/EP2011/065157,2011-09-01,Method for operating a brake system, brake systems in which the method is carried out and motor vehicles comprising said brake systems
+
+legal_event
+6
+    Date,Code,Title,Description
+    2013-04-15,AS,Assignment,Owner name: CONTINENTAL TEVES AG & CO. OHG, GERMANYFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:ULLRICH, THORSTEN, DR.;ALBRICH VON ALBRICHSFELD, CHRISTIAN, DR.;KARNER, JURGEN, DR.;AND OTHERS;SIGNING DATES FROM 20130222 TO 20130320;REEL/FRAME:030214/0974
+    2015-12-04,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2015-12-22,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2019-07-02,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+    2023-07-05,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+

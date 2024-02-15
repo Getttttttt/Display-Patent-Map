@@ -1,0 +1,307 @@
+ID
+    JPWO2013141259A1
+citation_exist
+    Patent Citations (13)
+citation_infor
+15
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP3511688B2                      *,1994-09-21,2004-03-29,日産自動車株式会社,四輪駆動車のアンチスキッド制御装置
+    KR100418730B1                      *,1995-09-11,2004-05-20,혼다 기켄 고교 가부시키가이샤,차량의좌우륜간의연결장치
+    JP3138799B2,1995-09-11,2001-02-26,本田技研工業株式会社,車両の左右輪間の連結装置
+    DE102004024086A1                      *,2004-05-14,2005-12-08,Audi Ag,Antriebsvorrichtung für Kraftfahrzeuge
+    JP5031482B2                      *,2007-08-10,2012-09-19,株式会社デンソー,車両用停止制御装置及び制御システム
+    JP5308791B2,2008-11-28,2013-10-09,株式会社日立製作所,駆動装置
+    JP5226627B2,2009-07-31,2013-07-03,本田技研工業株式会社,車両の駆動制御装置
+    JP5275166B2                      *,2009-07-31,2013-08-28,本田技研工業株式会社,駆動装置の油圧制御装置
+    BR112012002219A2                      *,2009-07-31,2016-05-31,Honda Motor Co Ltd,controlador de acionamento para veículos
+    CN103282692B                      *,2010-12-24,2015-12-02,日产自动车株式会社,牵引传动容量控制装置
+    JP5335025B2                      *,2011-04-19,2013-11-06,本田技研工業株式会社,車両用駆動装置
+    CN102745074B                      *,2011-04-19,2014-08-27,本田技研工业株式会社,车辆用驱动装置
+    JP5329685B2,2011-12-22,2013-10-30,本田技研工業株式会社,車両用駆動装置
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (7)
+              
+
+
+citedBy_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP6260564B2                      *,2015-03-25,2018-01-17,トヨタ自動車株式会社,ハイブリッド車両の駆動装置
+    US9802661B1,2015-11-04,2017-10-31,Zoox, Inc.,Quadrant configuration of robotic vehicles
+    US10723211B2,2016-09-07,2020-07-28,Thunder Power New Energy Vehicle Development Company Limited,Integrated powertrain system
+    JP6328721B2                      *,2016-10-12,2018-05-23,Ntn株式会社,駆動源制御装置およびこの駆動源制御装置を備えた車両
+    DE102016224199A1                      *,2016-12-06,2018-06-07,Bayerische Motoren Werke Aktiengesellschaft,Hybridfahrzeug
+    JP2022012210A                      *,2020-07-01,2022-01-17,マツダ株式会社,車両駆動システム
+    CN113071330B                      *,2021-04-16,2022-12-02,中国第一汽车股份有限公司,一种电机扭矩控制方法、系统、车辆及存储介质
+
+abstract
+    電動機制御手段は、第１電動機２Ａの第１モータ目標回転数ＭＡ２、第１モータ実回転数ＭＡ１、第２電動機２Ｂの第２モータ目標回転数ＭＢ２、第２モータ実回転数ＭＢ１を取得し、第１電動機２Ａの第１モータ目標回転数ＭＡ２と第１モータ実回転数ＭＡ１との第１回転数差ＤＡと、第２電動機２Ｂの第２モータ目標回転数ＭＢ２と第２モータ実回転数ＭＢ１との第２回転数差ＤＢと、を求め、第１回転数差ＤＡと第２回転数差ＤＢとのうち何れか小さい方の回転数差に基づいて、第１及び第２回転制御トルクＳＭ１、ＳＭ２を求め、第１及び第２回転制御トルクＳＭ１、ＳＭ２に基づいて、第１電動機２Ａの第１モータトルクＭ１及び第２電動機２Ｂの第２モータトルクＭ２を求める。
+title
+    車両用駆動装置及び車両用駆動装置の制御方法
+similar_document
+22
+    Publication,Publication Date,Title
+    JP5965700B2,2016-08-10,車両用駆動装置
+    JP5329685B2,2013-10-30,車両用駆動装置
+    JP5629842B2,2014-11-26,車両用駆動装置
+    US9174526B2,2015-11-03,Drive controller for vehicle
+    JP5572779B2,2014-08-13,車両用駆動装置及び車両用駆動装置の制御方法
+    JP5568602B2,2014-08-06,車両用駆動装置
+    JP5750395B2,2015-07-22,車両用駆動装置
+    JP5723589B2,2015-05-27,前後輪駆動車両
+    JP5836181B2,2015-12-24,車両用駆動装置及び車両用駆動装置の制御方法
+    US20170282752A1,2017-10-05,Driving device
+    JP5841991B2,2016-01-13,輸送機関の駆動装置
+    JP5948109B2,2016-07-06,車両用駆動装置
+    JP6014346B2,2016-10-25,車両用駆動装置
+    JP5977982B2,2016-08-24,車両用駆動装置
+    JP5657068B2,2015-01-21,車両用駆動装置
+    JP6274837B2,2018-02-07,電動車両
+    JP5914115B2,2016-05-11,車両用駆動装置
+    JP6025901B2,2016-11-16,車両用駆動装置
+    JP5927006B2,2016-05-25,車両用駆動装置
+    JP6694314B2,2020-05-13,車両用駆動装置
+    JP6302628B2,2018-03-28,駆動装置及び駆動装置の制御方法
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    JP2014506254A,2012-03-21,2013-03-19,車両用駆動装置及び車両用駆動装置の制御方法
+
+inventor_number
+    12
+classfication_nums
+    30
+classfication_items
+181
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,3,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,/,0,0
+    B,6,0,K,1,/,0,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,7,/,0,0
+    B,6,0,K,1,7,/,0,4
+    B,6,0,K,1,7,/,0,4,3
+    B,6,0,K,1,7,/,0,4,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,2,3,/,0,0
+    B,6,0,K,2,3,/,0,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,5,0
+    B,6,0,K,6,/,5,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,7,/,0,0
+    B,6,0,K,7,/,0,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,7,/,0,0
+    B,6,0,K,2,0,0,7,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,7,/,0,0
+    B,6,0,K,2,0,0,7,/,0,0,9,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,8
+    B,6,0,L,2,2,4,0,/,4,8,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,1,0
+    B,6,0,L,2,2,7,0,/,1,4
+    B,6,0,L,2,2,7,0,/,1,4,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,4,0,0,/,0,0
+    B,6,0,Y,2,4,0,0,/,4,2
+    B,6,0,Y,2,4,0,0,/,4,2,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2013-03-19,Application filed by Honda Motor Co Ltd
+    2013-03-19,Priority to JP2014506254A
+    2014-08-13,Application granted
+    2014-08-13,Publication of JP5572779B2
+    2015-08-03,Publication of JPWO2013141259A1
+    Status,Active
+    2033-03-19,Anticipated expiration
+
+active_area
+5
+    J,P
+    U,S
+    W,O
+    D,E
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+5
+    Application,Filing date,Title
+    JP2012064075,2012-03-21,
+    JP2012064075,2012-03-21,
+    PCT/JP2013/057895,2013-03-19,車両用駆動装置及び車両用駆動装置の制御方法
+    JP2014506254A,2013-03-19,車両用駆動装置及び車両用駆動装置の制御方法
+
+legal_event
+7
+    Date,Code,Title,Description
+    2014-05-27,TRDD,Decision of grant or rejection written,
+    2014-05-29,A975,Report on accelerated examination,Free format text: JAPANESE INTERMEDIATE CODE: A971005Effective date: 20140527
+    2014-06-04,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20140603
+    2014-07-03,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20140630
+    2014-07-04,R150,Certificate of patent or registration of utility model,Ref document number: 5572779Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R150
+    2019-06-11,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+

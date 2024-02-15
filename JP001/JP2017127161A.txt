@@ -1,0 +1,181 @@
+ID
+    JP2017127161A
+citation_exist
+    Patent Citations (4)
+citation_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP2008043103A                      *,2006-08-08,2008-02-21,Toyota Motor Corp,電源制御装置
+    JP2008071129A                      *,2006-09-14,2008-03-27,Casio Comput Co Ltd,無線ｉｃタグ装置
+    JP5413252B2                      *,2010-03-08,2014-02-12,トヨタ自動車株式会社,車両の制御装置
+    JP2013055867A                      *,2011-09-06,2013-03-21,Nakanishi Metal Works Co Ltd,風力発電機の充電回路装置
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (6)
+              
+
+
+citedBy_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2020055416A                      *,2018-10-02,2020-04-09,マツダ株式会社,車両の駆動装置
+    JP2020127299A                      *,2019-02-05,2020-08-20,マツダ株式会社,車両電源システム
+    Family To Family Citations,,,,
+    JP7051048B2                      *,2018-03-20,2022-04-11,マツダ株式会社,ハイブリッド駆動装置
+    JP7217860B2,2018-03-20,2023-02-06,マツダ株式会社,車両駆動装置
+    WO2019181799A1                      *,2018-03-20,2019-09-26,マツダ株式会社,ハイブリッド駆動装置
+    EP3932725A1                      *,2020-07-02,2022-01-05,Siemens Aktiengesellschaft,Hybrid energy storage for high power and energy demanding mining and railway vehicles
+
+abstract
+    【課題】効率的に回生エネルギーを回収できるエネルギー回生システムを提供することを目的とする。【解決手段】エネルギー回生システムは、電池と、複数のキャパシタと、動力源と、制御部と、を備え、電池とキャパシタは直列接続され、複数のキャパシタは並列に接続され、制御部は、並列に接続されている複数のキャパシタの接続を切り替えて動力源によって発生する回生エネルギーの充放電を交互に繰り返すように制御する。【選択図】図２
+title
+    エネルギー回生システム
+similar_document
+26
+    Publication,Publication Date,Title
+    JP6072319B1,2017-02-01,エネルギー回生システム
+    US20190222022A1,2019-07-18,System for selectively coupling an energy source to a load and method of making same
+    US7568537B2,2009-08-04,Vehicle propulsion system
+    JP6191575B2,2017-09-06,電源装置
+    JP6055483B2,2016-12-27,充放電システム
+    US20160023559A1,2016-01-28,Vehicle driving system and method
+    WO2007142165A1,2007-12-13,車両駆動システムおよびそれを備える車両
+    JP2000295715A,2000-10-20,電気自動車の電源システム
+    JP2013085413A,2013-05-09,電気自動車
+    CN101186185A,2008-05-28,混合动力车能量存储装置及利用该装置进行能量调整方法
+    CN105644377A,2016-06-08,一种双能源电动车
+    EP2636556A1,2013-09-11,Train car system control device
+    US11097620B2,2021-08-24,Circuit system for railroad vehicle
+    JPH06284509A,1994-10-07,電気自動車の電源装置
+    JP2017088086A,2017-05-25,回生システムおよび回生システムの制御方法
+    JP2007191088A,2007-08-02,ハイブリッド車両
+    JP4987033B2,2012-07-25,電源装置
+    KR100981305B1,2010-09-10,전기철도 차량의 회생 에너지 저장 시스템
+    Joshi et al.,2017,Battery ultracapacitor based DC motor drive for electric vehicles
+    JP2016226127A,2016-12-28,電力変換装置、電力変換装置を備える移動体の駆動システム及び電力貯蔵システム
+    JP3558546B2,2004-08-25,電気自動車の電源システム
+    JP4882014B2,2012-02-22,ハイブリッド車両
+    JP4977772B2,2012-07-18,駆動制御装置及び電気車
+    JP3558159B2,2004-08-25,電気自動車の電源システム
+    KR20190097479A,2019-08-21,전기자동차의 배터리팩 자동 전환 시스템 및 그 제어방법
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    JP2016006332A,2016-01-15,2016-01-15,エネルギー回生システム
+    PCT/JP2017/001006,2016-01-15,2017-01-13,エネルギー回生システム
+
+inventor_number
+    25
+classfication_nums
+    10
+classfication_items
+60
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,4
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,2,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,4
+    B,6,0,K,6,/,4,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,4
+    B,6,0,W,1,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,8,0
+    Y,0,2,T,1,0,/,9,2
+
+application_events
+8
+    2016-01-15,Application filed by Fujikura Ltd
+    2016-01-15,Priority to JP2016006332A
+    2017-01-13,Priority to PCT/JP2017/001006
+    2017-02-01,Application granted
+    2017-02-01,Publication of JP6072319B1
+    2017-07-20,Publication of JP2017127161A
+    Status,Active
+    2036-01-15,Anticipated expiration
+
+active_area
+2
+    J,P
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2016006332A,2016-01-15,エネルギー回生システム
+
+legal_event
+12
+    Date,Code,Title,Description
+    2016-10-28,A975,Report on accelerated examination,Free format text: JAPANESE INTERMEDIATE CODE: A971005Effective date: 20161027
+    2016-11-01,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20161101
+    2016-11-17,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20161117
+    2016-12-01,TRDD,Decision of grant or rejection written,
+    2016-12-06,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20161206
+    2017-01-12,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20161227
+    2017-01-13,R151,Written notification of patent or utility model registration,Ref document number: 6072319Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R151
+    2019-03-12,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2020-02-28,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2021-03-02,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2022-02-16,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+

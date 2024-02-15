@@ -1,0 +1,213 @@
+ID
+    JPWO2012132435A1
+citation_exist
+    Patent Citations (21)
+citation_infor
+23
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP3219883B2                      *,1993-01-11,2001-10-15,株式会社東芝,直流電源装置
+    JPH09284902A                      *,1996-04-18,1997-10-31,Suzuki Motor Corp,電気自動車の短絡検出回路
+    JP3861321B2                      *,1996-05-02,2006-12-20,トヨタ自動車株式会社,ハイブリッド車
+    JP4101831B2                      *,1997-09-14,2008-06-18,株式会社エクォス・リサーチ,ナビゲーション装置およびそのプログラムを記憶したコンピュータ読取り可能な記録媒体
+    JP3525218B2                      *,1998-09-18,2004-05-10,本田技研工業株式会社,ハイブリッド車両の回生制御装置
+    US6407534B1                      *,2001-02-06,2002-06-18,Quallion Llc,Detecting a microcurrent and a microcurrent detecting circuit
+    JP3896258B2                      *,2001-04-25,2007-03-22,株式会社日立製作所,自動車電源装置
+    US7075257B2                      *,2002-10-18,2006-07-11,Black & Decker Inc.,Method and device for braking a motor
+    JP4134706B2                      *,2002-12-10,2008-08-20,日産自動車株式会社,車両用制動装置
+    US7279855B2                      *,2003-04-04,2007-10-09,Hitachi, Ltd.,Electric drive device for vehicle and hybrid engine/motor-type four wheel drive device
+    JP3809455B2                      *,2004-06-23,2006-08-16,株式会社キムラタン,充電装置
+    JP4353222B2                      *,2006-09-05,2009-10-28,日産自動車株式会社,電力供給装置及びその制御方法
+    JP2008113521A                      *,2006-10-31,2008-05-15,Tadashi Umemori,充電システム及びモータ駆動システム
+    JP2008263679A                      *,2007-04-10,2008-10-30,Toyota Motor Corp,鉛バッテリ充電制御装置及びこれを用いた鉛バッテリ充電制御方法
+    JP5134904B2                      *,2007-10-10,2013-01-30,富士重工業株式会社,電気自動車の充電装置
+    CN101842957B                      *,2007-11-01,2013-05-08,松下电器产业株式会社,电源装置
+    JP5330812B2                      *,2008-11-20,2013-10-30,トヨタ自動車株式会社,ハイブリッド車両
+    JP5320094B2                      *,2009-02-03,2013-10-23,トヨタ自動車株式会社,電動車両およびその充電制御方法
+    JP2010252549A                      *,2009-04-16,2010-11-04,Nissan Motor Co Ltd,車両間電力放充電システム及び車両間電力放充電方法
+    TWI433427B                      *,2010-11-25,2014-04-01,Ind Tech Res Inst,電池電力系統
+    US8723474B2                      *,2010-12-14,2014-05-13,Industrial Technology Research Institute,Electrical vehicle energy system and operating method thereof
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (6)
+              
+
+
+citedBy_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN112440822A                      *,2019-08-27,2021-03-05,北京新能源汽车股份有限公司,一种电动汽车回馈功率的确定方法、装置及电动汽车
+    Family To Family Citations,,,,
+    US10193358B2                      *,2012-04-23,2019-01-29,Hewlett Packard Enterprise Development Lp,Deep-charging power resources of power resource group having identifier corresponding to range within which modulo falls based on charging time
+    JP5862631B2                      *,2013-10-08,2016-02-16,トヨタ自動車株式会社,蓄電システム
+    DE102014202416A1                      *,2014-02-11,2015-08-13,Robert Bosch Gmbh,Sicherheitseinrichtung für ein Schütz
+    FR3035557B1                      *,2015-04-23,2017-05-12,Labinal Power Systems,Systeme et procede de dissipation de l'energie electrique regeneree par des actionneurs
+    EP3402031A1                      *,2017-05-08,2018-11-14,volabo GmbH,Circuit arrangement and power system
+
+abstract
+    回生制動力発生時の電気エネルギによる素子の破損を防止すること。車両用電源装置（１００）において、電動機（１０８）は、車両（１０）の運動エネルギを電気エネルギに変換して回生制動力を発生させ、インバータ（１０３）は、電動機（１０８）が出力する交流の電気エネルギを直流の電気エネルギに変換する。変換された直流の電気エネルギは、第１スイッチ（１０５ａ，１０５ｂ）、第２スイッチ（１０７ａ，１０７ｂ）を介して蓄電池（１０６）に蓄積される。制御部（１０９）は、電動機（１０８）での回生制動力の発生により電気エネルギが蓄電池に蓄積される可能性があるときに、第２スイッチ（１０７ａ，１０７ｂ）をオンにする。
+title
+    車両用電源装置
+similar_document
+26
+    Publication,Publication Date,Title
+    CN108128271B,2020-12-22,车辆
+    US9086333B2,2015-07-21,Examination system for electric vehicle or hybrid electric vehicle
+    US8742718B2,2014-06-03,Charging apparatus for vehicle
+    JPWO2012132435A1,2014-07-24,車両用電源装置
+    US8810061B2,2014-08-19,Vehicular power supply apparatus, vehicle including the same, and method for controlling vehicle-mounted charger
+    EP2361799A2,2011-08-31,Power supply device and method for detecting non-contact state of load connected to power supply device
+    US20130015700A1,2013-01-17,Communication device, communication system, and vehicle
+    JP2012080689A,2012-04-19,電気自動車用電源装置
+    CN104823347A,2015-08-05,蓄电系统
+    US9884564B2,2018-02-06,Electrically powered vehicle and power supply system
+    US10857904B2,2020-12-08,Vehicle
+    JP2012050281A,2012-03-08,電動車両のバッテリ充電システム
+    JP2010119176A,2010-05-27,車載用電源装置
+    JP2013070474A,2013-04-18,車両および車両の制御方法
+    US11535119B2,2022-12-27,Control of the state of charge of an electrically powered vehicle when traveling on a hill
+    JP2015171262A,2015-09-28,車両用充電装置
+    JP5621873B2,2014-11-12,車両用電源システム
+    JP6686802B2,2020-04-22,電動車両
+    CN206022555U,2017-03-15,一种电动车组合电池包切换控制装置
+    JP2016082691A,2016-05-16,車両
+    JP2012213301A,2012-11-01,車両用電源装置
+    JP2015002637A,2015-01-05,充電制御方法、充電制御装置及び車両用電源装置
+    CN108621843A,2018-10-09,一种充电时防止电动车移动的充电系统
+    JP2018143032A,2018-09-13,充電制御装置及び充電システム
+    JP2023116168A,2023-08-22,車両、車両制御装置および充電システム
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    5
+classfication_nums
+    15
+classfication_items
+88
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,3,/,0,0
+    H,0,2,P,3,/,0,6
+    H,0,2,P,3,/,0,8
+    H,0,2,P,3,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B,6,0,L,2,2,4,0,/,6,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,8,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+3
+    2012-03-28,Application filed by Panasonic Corp, Matsushita Electric Industrial Co Ltd
+    2014-07-24,Publication of JPWO2012132435A1
+    Status,Pending
+
+active_area
+2
+    J,P
+    W,O
+
+not_active_area
+1
+    U,S
+
+patent_application_claiming_priority
+6
+    Application,Filing date,Title
+    JP2011072267,2011-03-29,
+    JP2011072267,2011-03-29,
+    JP2011077919,2011-03-31,
+    JP2011077919,2011-03-31,
+    PCT/JP2012/002159,2012-03-28,車両用電源装置
+
+legal_event
+3
+    Date,Code,Title,Description
+    2014-10-07,A711,Notification of change in applicant,Free format text: JAPANESE INTERMEDIATE CODE: A711Effective date: 20141006
+    2014-10-17,RD02,Notification of acceptance of power of attorney,Free format text: JAPANESE INTERMEDIATE CODE: A7422Effective date: 20141016
+

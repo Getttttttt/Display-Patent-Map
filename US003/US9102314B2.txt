@@ -1,0 +1,224 @@
+ID
+    US9102314B2
+citation_exist
+    Patent Citations (19)
+citation_infor
+21
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH0879908A,1994-08-31,1996-03-22,Meidensha Corp,Powder supply
+    WO1997045287A1,1996-05-24,1997-12-04,Hino Jidosha Kogyo Kabushiki Kaisha,Controller for on-vehicle battery
+    DE19755050A1,1997-12-11,1999-07-01,Bosch Gmbh Robert,Electric system for vehicle
+    DE10042532A1,2000-08-30,2002-03-28,Audi Ag,Two voltage supply unit for motor vehicle, has generator for producing electric power and associated generator regulator
+    DE10059038A1,2000-11-28,2002-05-29,Heinz Leiber,Automobile IC engine starting method has second battery with lower output voltage used for driving integrated starter-generator upon failure of battery with higher output voltage
+    US6430482B1,1999-10-06,2002-08-06,Honda Giken Kogyo Kabushiki Kaisha,Control apparatus for hybrid vehicle
+    US6578649B1                      *,1999-02-24,2003-06-17,Honda Giken Kogyo Kabushiki Kaisha,Hybrid vehicle
+    US20040145186A1,2003-01-29,2004-07-29,Denso Corporation,Electric power generating system for a vehicle
+    WO2005005187A1,2003-07-08,2005-01-20,Robert Bosch Gmbh,Multi-voltage vehicle electric system comprising a multi-voltage generator motor
+    US20050061561A1                      *,2003-09-24,2005-03-24,Ford Global Technologies, Llc,Stabilized electric distribution system for use with a vehicle having electric assist
+    US20050273225A1                      *,2003-09-10,2005-12-08,Ford Motor Company,System and method for controlling activation of a power source of a hybrid electric vehicle
+    US20060033337A1,2004-08-10,2006-02-16,Honda Motor Co., Ltd.,Electric generator control method and apparatus, and vehicle equipped with such apparatus
+    US20060046895A1                      *,2004-08-30,2006-03-02,Thacher Russell J,Vehicular control system for regenerative braking
+    US7193391B2                      *,2004-08-12,2007-03-20,Enerdel, Inc.,Method for cell balancing for lithium battery systems
+    US7573151B2                      *,2007-10-11,2009-08-11,Lear Corporation,Dual energy-storage for a vehicle system
+    US20100097031A1                      *,2008-10-22,2010-04-22,Robert Dean King,Apparatus for energy transfer using converter and method of manufacturing same
+    US8080971B2                      *,2008-06-12,2011-12-20,Northern Illinois University,Active electrical power flow control system for optimization of power delivery in electric hybrid vehicles
+    US8120290B2                      *,2008-10-13,2012-02-21,General Electric Company,Energy management system to improve efficiency of electric and hybrid drive trains
+    US8486571B2                      *,2008-06-27,2013-07-16,Hyundai Motor Company,Method for controlling output of fuel cell in fuel cell hybrid vehicle
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (16)
+              
+
+
+citedBy_infor
+18
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    DE102011075782A1                      *,2011-05-13,2012-11-15,Voith Patent Gmbh,Method for using recuperation power
+    DE102011083255A1                      *,2011-09-23,2013-03-28,Robert Bosch Gmbh,Method for operating dual-memory board network of motor vehicle by computing device, particularly control device, involves providing two sub-networks, two energy storages and starter motor that starts internal combustion engine
+    DE102011088973A1                      *,2011-12-19,2013-06-20,Robert Bosch Gmbh,Method and device for adjusting a voltage limit in a vehicle electrical system
+    DE102012209829A1                      *,2012-04-20,2013-10-24,Robert Bosch Gmbh,Motor vehicle electrical system with subnetworks and generator arrangement, generator arrangement and method for operating a vehicle electrical system
+    GB2519054A                      *,2013-07-26,2015-04-15,Equipmake Ltd,Energy saving in vehicles
+    DE102013014103A1                      *,2013-08-24,2015-02-26,Man Truck & Bus Ag,On-board network for a motor vehicle and method for operating a vehicle electrical system
+    US10286787B2                      *,2013-09-27,2019-05-14,Siemens Industry, Inc.,System and method for all electrical operation of a mining haul truck
+    DE102014208999A1                      *,2014-05-13,2015-11-19,Robert Bosch Gmbh,Apparatus and method for driving an energy storage
+    DE102014223971A1                      *,2014-11-25,2016-05-25,Bayerische Motoren Werke Aktiengesellschaft,Multi-energy storage system for motor vehicle electrical systems
+    DE102015101241A1,2015-01-28,2016-07-28,Bayerische Motoren Werke Aktiengesellschaft,An electric power distribution system and method of operating an electrical power distribution system
+    DE102017215295A1                      *,2017-08-31,2019-02-28,Audi Ag,Device for electropolishing an energy store having at least one lithium-ion cell, charger, method for operating the charger
+    DE102018203079A1                      *,2018-03-01,2019-09-05,Audi Ag,Method for operating a DC-DC converter of a motor vehicle and DC-DC converter and motor vehicle
+    DE102018111681A1                      *,2018-05-15,2019-11-21,Wabco Gmbh,System for an electrically driven vehicle and vehicle with it and method for it
+    DE102019132394A1                      *,2019-11-28,2021-06-02,Audi Ag,Method and control circuit for operating an additional electrical storage device in a motor vehicle and a corresponding motor vehicle
+    DE102021206414A1,2021-06-22,2022-12-22,Psa Automobiles Sa,Recuperation of electrical energy in a second battery of a vehicle
+    DE102022112907B3,2022-05-23,2023-10-26,Next.E.Go Mobile SE,Method for operating a hybrid energy storage system, hybrid energy storage system and motor vehicle
+
+abstract
+    The invention relates to an onboard network (1) for a vehicle (32), in particular a motor vehicle. The onboard network (1) comprises an electric machine (10) designed for operating in generator mode. The onboard network (1) further comprises a voltage transformer (12) that is at least indirectly connected to the electric machine (10) on the input side and a first energy accumulator (14) connected to the voltage transformer (12) on the output side, in particular an accumulator. The electric machine (10) is designed for the recuperation operation. The voltage transformer (12) is designed to detect or limit a charge state of the first energy accumulator (14) and to regulate the charge state of the first energy accumulator (14) such that the first energy accumulator (14) has a reserve capacity (15) during generator operation, preferably when driving the vehicle in an energy-consuming manner. The voltage transformer (12) is further designed to charge the reserve capacity (15) of the first energy accumulator (14) depending on a recuperation signal (23) received on the input side and representing a recuperation operation of the vehicle (32).
+title
+    Onboard network for a vehicle and method for saving energy
+similar_document
+26
+    Publication,Publication Date,Title
+    US9102314B2,2015-08-11,Onboard network for a vehicle and method for saving energy
+    EP3218221B1,2022-08-10,Semi-active partial parallel battery configuration for an  vehicle system and method
+    JP5807180B2,2015-11-10,Vehicle power supply
+    US7791216B2,2010-09-07,Method and system for use with a vehicle electric storage system
+    US6982540B2,2006-01-03,Energy management system for a motor vehicle electrical system
+    CN107078535B,2020-12-08,Multi-accumulator system for an on-board electrical system of a motor vehicle
+    US8434578B2,2013-05-07,Power storage device for hybrid or electric motor vehicles, and associated electric power management method
+    US20170297440A1,2017-10-19,Dc/dc converter, battery energy management system and hybrid vehicle
+    US8589009B2,2013-11-19,Method for controlling the state of charge of an electrical energy store
+    JPWO2009013891A1,2010-09-30,Vehicle power supply
+    JP2013252015A,2013-12-12,Power supply control method and device for vehicle
+    JP6119725B2,2017-04-26,Charger
+    KR101323916B1,2013-10-31,Apparatus and method for early starting of vehicle
+    US7489101B2,2009-02-10,Battery control system for hybrid vehicle and method for controlling a hybrid vehicle battery
+    Moseley et al.,2017,Lead–acid batteries for future automobiles: Status and prospects
+    CN112105521A,2020-12-18,System for an electrically driven vehicle, and associated vehicle and associated method
+    CN103507655A,2014-01-15,Automobile composite energy storage start-stop system capable of recycling braking energy
+    US10377261B2,2019-08-13,Method and device for charging an electric energy storage system in a vehicle
+    Rade,2018,Design and development of hybrid energy storage system for electric vehicle
+    RU2016108642A,2017-09-14,METHOD FOR SUPPLY VOLTAGE OF ON-BOARD CAR VEHICLE
+    JP5915390B2,2016-05-11,Vehicle power supply control method and apparatus
+    JP6131533B2,2017-05-24,Vehicle power supply control method and apparatus
+    EP4011687A1,2022-06-15,Vehicle driving system
+    JP2020103006A,2020-07-02,Vehicular charging control system
+    US8909405B2,2014-12-09,Method and device for controlling an internal combustion engine
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    18
+classfication_items
+82
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    B,6,0,L,1,1,/,0,0,5
+    B,6,0,L,1,1,/,1,8,6,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,4
+    B,6,0,W,1,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,2,4
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,1,0
+    B,6,0,Y,2,2,0,0,/,1,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,0,5
+    Y,0,2,T,1,0,/,7,0,2,2
+    Y,0,2,T,1,0,/,7,0,6,6
+
+application_events
+7
+    2009-12-17,Application filed by Robert Bosch GmbH
+    2011-09-30,Assigned to ROBERT BOSCH GMBH
+    2012-02-16,Publication of US20120038318A1
+    2015-08-11,Application granted
+    2015-08-11,Publication of US9102314B2
+    Status,Active
+    2031-06-03,Adjusted expiration
+
+active_area
+4
+    U,S
+    C,N
+    W,O
+    E,P
+
+not_active_area
+1
+    D,E
+
+patent_application_claiming_priority
+5
+    Application,Filing date,Title
+    DE102009000222.7,2009-01-14,
+    DE102009000222A,2009-01-14,Vehicle electrical system and method for saving energy
+    DE102009000222,2009-01-14,
+    PCT/EP2009/067433,2009-12-17,Onboard network for a vehicle and method for saving energy
+
+legal_event
+5
+    Date,Code,Title,Description
+    2011-09-30,AS,Assignment,Owner name: ROBERT BOSCH GMBH, GERMANYFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:MUELLER, WOLFGANG;PRAG, CHRISTIAN;SIGNING DATES FROM 20110804 TO 20110811;REEL/FRAME:026995/0048
+    2015-07-22,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2019-02-06,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+    2023-01-31,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+

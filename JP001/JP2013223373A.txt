@@ -1,0 +1,189 @@
+ID
+    JP2013223373A
+citation_exist
+    Patent Citations (7)
+citation_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH07163011A                      *,1993-12-09,1995-06-23,Hitachi Ltd,自動車の制御装置
+    JP2001045613A                      *,1999-07-29,2001-02-16,Nissan Motor Co Ltd,電気自動車のモータ制御装置
+    JP2005102492A                      *,2003-09-05,2005-04-14,Nissan Motor Co Ltd,駆動力制御装置
+    JP2005269836A                      *,2004-03-19,2005-09-29,Nissan Motor Co Ltd,車両用制振制御装置および車両用制振制御方法
+    JP2010200567A                      *,2009-02-27,2010-09-09,Nissan Motor Co Ltd,電動車両の制振制御装置
+    JP2010288332A                      *,2009-06-09,2010-12-24,Nissan Motor Co Ltd,電動車両の制御装置
+    Family To Family Citations,,,,
+    JP2000125410A                      *,1998-10-15,2000-04-28,Mitsubishi Electric Corp,電気自動車の制御装置
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (14)
+              
+
+
+citedBy_infor
+16
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2015095950A                      *,2013-11-12,2015-05-18,サンケン電気株式会社,誘導電動機制御装置及び誘導電動機制御方法
+    WO2015083213A1                      *,2013-12-02,2015-06-11,日産自動車株式会社,電動車両の制御装置および電動車両の制御方法
+    WO2016120978A1                      *,2015-01-26,2016-08-04,日産自動車株式会社,電動車両の制御装置および電動車両の制御方法
+    JP2017046419A                      *,2015-08-25,2017-03-02,日産自動車株式会社,電動車両の制御方法、及び、制御装置
+    WO2017183231A1                      *,2016-04-19,2017-10-26,日産自動車株式会社,電動車両の制御方法、及び、電動車両の制御装置
+    JP2017221056A                      *,2016-06-09,2017-12-14,日産自動車株式会社,電動車両の制御方法、及び、制御装置
+    KR20170140355A                      *,2015-05-26,2017-12-20,닛산 지도우샤 가부시키가이샤,전동 차량의 제어 장치 및 전동 차량의 제어 방법
+    JP2017225278A                      *,2016-06-16,2017-12-21,日産自動車株式会社,電動車両の制御方法、及び電動車両の制御装置
+    CN108432120A                      *,2015-12-24,2018-08-21,三菱电机株式会社,旋转电机的控制装置
+    JP6977849B1                      *,2020-09-30,2021-12-08,株式会社明電舎,車両システムの振動抑制制御装置および振動抑制制御方法
+    JP7327107B2,2019-11-21,2023-08-16,株式会社デンソー,負荷制御装置
+    Family To Family Citations,,,,
+    US10696177B2,2016-07-29,2020-06-30,Nissan Motor Co., Ltd.,Vehicle control method and control device
+    DE112020003856T5                      *,2019-08-15,2022-05-12,Nidec Corporation,Dämpfungssteuervorrichtung und dämpfungssteuerverfahren
+    CN116080420B                      *,2023-04-10,2023-06-06,四川大学,一种新能源汽车电驱系统的优化控制系统及方法
+
+abstract
+    【課題】車両の走行シーンによっては、駆動モータトルクが車両の駆動軸トルクに伝達されない不感帯が発生し、出力軸トルクの振動が発生してしまう。【解決手段】車両情報に基づいてモータトルク指令値を設定し、駆動輪につながるモータのトルクを制御する電動車両の制御装置は、モータトルクが車両の駆動軸トルクに伝達されない不感帯を有する車両の駆動力伝達系の固有振動周波数を低減するフィルタリング処理をモータトルク指令値に施し、フィルタリング処理後の最終トルク指令値に従ってモータトルクを制御する。【選択図】図７
+title
+    電動車両の制御装置
+similar_document
+24
+    Publication,Publication Date,Title
+    JP5862436B2,2016-02-16,電動車両の制御装置
+    JP5900609B2,2016-04-06,電動車両の制御装置および電動車両の制御方法
+    RU2737640C1,2020-12-01,Способ и устройство управления электродвигателем электрического транспортного средства
+    JP6669249B2,2020-03-18,電動車両の制御方法、及び、電動車両の制御装置
+    JP6614357B2,2019-12-04,車両の制御方法および制御装置
+    US9621092B2,2017-04-11,Induction motor control apparatus and induction motor control method
+    JP6711064B2,2020-06-17,電動車両の制御方法、及び、電動車両の制御装置
+    JP5850171B2,2016-02-03,電動車両の制御装置および電動車両の制御方法
+    JP6720714B2,2020-07-08,電動車両の制御方法、及び電動車両の制御装置
+    JP6819081B2,2021-01-27,電動車両の制御方法、及び、制御装置
+    JP6686658B2,2020-04-22,電動車両の制御方法、及び、電動車両の制御装置
+    JP6736991B2,2020-08-05,電動車両の制御方法、及び電動車両の制御装置
+    JP2015195698A,2015-11-05,車両の制御装置
+    WO2020194637A1,2020-10-01,電動車両の制御方法、及び、制御装置
+    WO2020100268A1,2020-05-22,電動車両の制御方法、及び、制御装置
+    JP6597174B2,2019-10-30,電動車両の制御装置、及び、電動車両の制御方法
+    WO2014057946A1,2014-04-17,電動車両のモータ制御装置および電動車両のモータ制御方法
+    JP6728632B2,2020-07-22,電動車両の制御方法、及び、制御装置
+    JP2015023623A,2015-02-02,電動車両の制御装置および電動車両の制御方法
+    JP6992298B2,2022-01-13,電動車両の制御装置及び電動車両の制御方法
+    JP2019103249A,2019-06-24,電動車両の制御方法、及び、制御装置
+    JP2017046419A,2017-03-02,電動車両の制御方法、及び、制御装置
+    JP2013240258A,2013-11-28,電動車両の制振制御装置
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    JP2012094713A,2012-04-18,2012-04-18,電動車両の制御装置
+    PCT/JP2013/056249,2012-04-18,2013-03-07,電動車両の制御装置および電動車両の制御方法
+
+inventor_number
+    4
+classfication_nums
+    10
+classfication_items
+63
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,1,0
+    B,6,0,L,2,2,7,0,/,1,4
+    B,6,0,L,2,2,7,0,/,1,4,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+8
+    2012-04-18,Application filed by Nissan Motor Co Ltd
+    2012-04-18,Priority to JP2012094713A
+    2013-03-07,Priority to PCT/JP2013/056249
+    2013-10-28,Publication of JP2013223373A
+    2016-02-16,Application granted
+    2016-02-16,Publication of JP5862436B2
+    Status,Active
+    2032-04-18,Anticipated expiration
+
+active_area
+2
+    J,P
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2012094713A,2012-04-18,電動車両の制御装置
+
+legal_event
+8
+    Date,Code,Title,Description
+    2015-02-25,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20150225
+    2015-09-09,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20150908
+    2015-10-08,A521,Written amendment,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20151008
+    2015-11-20,TRDD,Decision of grant or rejection written,
+    2015-12-02,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20151201
+    2016-01-07,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20151214
+    2016-01-08,R151,Written notification of patent or utility model registration,Ref document number: 5862436Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R151
+

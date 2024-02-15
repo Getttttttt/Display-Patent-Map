@@ -1,0 +1,217 @@
+ID
+    JP2019149911A
+citation_exist
+    Patent Citations (27)
+citation_infor
+29
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2009227221A                      *,2008-03-25,2009-10-08,Mitsuba Corp,ハイブリッド電気自動車
+    WO2017217102A1                      *,2016-06-13,2017-12-21,株式会社ミツバ,Ｓｒモータ制御システム及びｓｒモータ制御方法
+    Family To Family Citations,,,,
+    US5941328A                      *,1997-11-21,1999-08-24,Lockheed Martin Corporation,Electric vehicle with variable efficiency regenerative braking depending upon battery charge state
+    JP4285458B2                      *,2005-08-08,2009-06-24,トヨタ自動車株式会社,車両の電源装置およびその制御方法
+    JP2008206338A                      *,2007-02-21,2008-09-04,Toyota Motor Corp,回転電機の駆動制御装置および車両
+    JP4793793B2                      *,2007-03-15,2011-10-12,トヨタ自動車株式会社,電動機駆動装置
+    JP4893653B2                      *,2008-02-19,2012-03-07,トヨタ自動車株式会社,車両、二次電池の充電状態推定方法および車両の制御方法
+    US8400084B2                      *,2008-06-10,2013-03-19,Ev Motor-Systems Co., Ltd.,Regenerative switched reluctance motor driving system
+    JP5340381B2                      *,2009-03-31,2013-11-13,日立建機株式会社,電源システムを備えた建設機械及び産業車両
+    JP5283751B2                      *,2009-05-13,2013-09-04,三菱電機株式会社,電力変換装置および電力変換装置のコンデンサ電圧の制御方法
+    JP5392409B2                      *,2010-07-14,2014-01-22,トヨタ自動車株式会社,車両用シフト制御装置
+    JP5100804B2                      *,2010-09-13,2012-12-19,三菱電機株式会社,始動制御ユニット、及びそれに対する始動指令信号発生装置
+    JP5808923B2                      *,2011-03-18,2015-11-10,Ntn株式会社,モータ駆動装置及び電気自動車
+    JP5733073B2                      *,2011-07-15,2015-06-10,三菱自動車工業株式会社,電動車両の回生制御装置
+    JP5724704B2                      *,2011-07-15,2015-05-27,三菱自動車工業株式会社,電動車両の回生制御装置
+    JP5682515B2                      *,2011-09-08,2015-03-11,三菱自動車工業株式会社,ハイブリッド電気自動車の制御装置
+    JP5932596B2,2012-10-11,2016-06-08,日立オートモティブシステムズ株式会社,車両の回生制御装置
+    US9509198B2                      *,2012-12-10,2016-11-29,Axiflux Holdings Pty Ltd,Electric motor/generator with integrated differential
+    US9174525B2                      *,2013-02-25,2015-11-03,Fairfield Manufacturing Company, Inc.,Hybrid electric vehicle
+    CN105103404A                      *,2013-04-03,2015-11-25,株式会社自动网络技术研究所,控制装置、供电控制装置、充电控制方法、充电控制装置以及车辆用电源装置
+    JP2014237372A                      *,2013-06-07,2014-12-18,マツダ株式会社,ハイブリッド車
+    JP6187268B2                      *,2014-01-10,2017-08-30,トヨタ自動車株式会社,電動車両
+    CN104494457B                      *,2014-11-26,2016-11-02,东南大学,一种电流源型插电混合动力汽车能量传送驱动装置及方法
+    JP6497807B2                      *,2015-05-18,2019-04-10,日野自動車株式会社,電気自動車
+    JP6404864B2                      *,2015-12-24,2018-10-17,トヨタ自動車株式会社,スイッチトリラクタンスモータの制御装置
+    CN105752075B                      *,2016-03-21,2017-12-05,江苏大学,基于双转子磁通切换电机的混合动力汽车的能量控制方法
+    JP2018019598A                      *,2017-09-15,2018-02-01,トヨタ自動車株式会社,車両制御装置
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP6787300B2                      *,2017-11-22,2020-11-18,トヨタ自動車株式会社,スイッチトリラクタンスモータの制御装置
+
+abstract
+    【課題】回生制御の際のバッテリの寿命低下を抑制することができるスイッチトリラクタンスモータの制御装置を提供すること。【解決手段】スイッチトリラクタンスモータの制御装置は、ロータ、ステータおよびステータに巻回されたコイルを有し、走行用の駆動源として車両に搭載されるものであり、所定の回生領域において、コイルの電流値が第一の目標電流値となるように、コイルに正電圧および負電圧を印加する回生制御を行う制御部を備え、制御部は、バッテリの充電状態値が所定値以上である場合、コイルに負電圧を印加する区間を、バッテリの充電状態値が所定値未満である場合よりも狭くする。【選択図】図８
+title
+    スイッチトリラクタンスモータの制御装置
+similar_document
+25
+    Publication,Publication Date,Title
+    JP4978429B2,2012-07-18,電動機制御装置，電気自動車およびハイブリッド電気自動車
+    JP6062327B2,2017-01-18,インバータ装置および電動車両
+    JP6765985B2,2020-10-07,インバータ装置および電動車両
+    JP3818042B2,2006-09-06,回転電機の制御装置
+    EP3188358A1,2017-07-05,Control device for switched reluctance motor
+    JP3675171B2,2005-07-27,電動機制御装置および制御方法
+    CN108111089B,2020-12-18,开关磁阻马达用的控制装置
+    JP2021052442A,2021-04-01,インバータ制御装置
+    JP4259489B2,2009-04-30,車両用制動制御装置
+    JP3934130B2,2007-06-20,ハイブリッド車両のモータ制御装置
+    JP5614189B2,2014-10-29,車両用回転電機の駆動制御装置
+    JP6881350B2,2021-06-02,スイッチトリラクタンスモータの制御装置
+    JP6787300B2,2020-11-18,スイッチトリラクタンスモータの制御装置
+    WO2015045924A1,2015-04-02,回転電機
+    JP2012182912A,2012-09-20,電動車両およびその制御方法
+    JP2018019528A,2018-02-01,スイッチトリラクタンスモータの制御装置
+    JP2019097301A,2019-06-20,スイッチトリラクタンスモータの制御装置
+    JP5904583B2,2016-04-13,モータの制御装置
+    JP7206722B2,2023-01-18,電動発電機の制御装置
+    WO2021205710A1,2021-10-14,モータ制御装置、電動車両、およびモータ制御方法
+    JP7206723B2,2023-01-18,電動発電機の制御装置
+    JP6481587B2,2019-03-13,スイッチトリラクタンスモータの制御装置
+    JP2019047573A,2019-03-22,スイッチトリラクタンスモータの制御装置
+    JP4978802B2,2012-07-18,回転電機制御システム及び当該回転電機制御システムを備えた車両駆動システム
+
+patent_application
+    NoExist
+patent_priority_application
+4
+    Application,Priority date,Filing date,Title
+    JP2018034884A,2018-02-28,2018-02-28,スイッチトリラクタンスモータの制御装置
+    US16/276,975,2018-02-28,2019-02-15,Controller for switched reluctance motor
+    CN201910124546.0A,2018-02-28,2019-02-20,开关磁阻电机的控制装置
+
+inventor_number
+    14
+classfication_nums
+    13
+classfication_items
+80
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,5,/,0,0
+    H,0,2,P,2,5,/,0,2
+    H,0,2,P,2,5,/,0,8
+    H,0,2,P,2,5,/,0,9,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    H
+    H,0,2
+    H,0,2,K
+    H,0,2,K,1,9,/,0,0
+    H,0,2,K,1,9,/,0,2
+    H,0,2,K,1,9,/,1,0
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,5,/,0,0
+    H,0,2,P,2,5,/,0,2
+    H,0,2,P,2,5,/,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,1,0
+    B,6,0,L,2,2,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,1,0
+    B,6,0,L,2,2,2,0,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+9
+    2018-02-28,Application filed by Toyota Motor Corp
+    2018-02-28,Priority to JP2018034884A
+    2019-02-15,Priority to US16/276,975
+    2019-02-20,Priority to CN201910124546.0A
+    2019-09-05,Publication of JP2019149911A
+    2021-06-02,Application granted
+    2021-06-02,Publication of JP6881350B2
+    Status,Active
+    2038-02-28,Anticipated expiration
+
+active_area
+3
+    J,P
+    U,S
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2018034884A,2018-02-28,スイッチトリラクタンスモータの制御装置
+
+legal_event
+8
+    Date,Code,Title,Description
+    2020-02-25,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20200224
+    2020-09-10,A977,Report on retrieval,Free format text: JAPANESE INTERMEDIATE CODE: A971007Effective date: 20200909
+    2020-10-06,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20201006
+    2021-03-29,TRDD,Decision of grant or rejection written,
+    2021-04-06,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20210406
+    2021-05-10,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20210419
+    2021-05-10,R151,Written notification of patent or utility model registration,Ref document number: 6881350Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R151
+

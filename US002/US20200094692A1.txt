@@ -1,0 +1,295 @@
+ID
+    US20200094692A1
+citation_exist
+    Patent Citations (10)
+citation_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    DE4205979A1                      *,1992-02-27,1993-09-02,Bosch Gmbh Robert,NAVIGATION DEVICE FOR AGRICULTURAL VEHICLES
+    JP3893801B2,1999-07-05,2007-03-14,株式会社明電舎,PWM inverter
+    JP4507554B2                      *,2003-10-23,2010-07-21,日産自動車株式会社,Vehicle and vehicle motor control method
+    JP2005254935A                      *,2004-03-10,2005-09-22,Fujitsu Ten Ltd,Own vehicle presence-informing device
+    JP2008090748A                      *,2006-10-04,2008-04-17,Toyota Motor Corp,Warning apparatus for vehicle
+    JP2010049535A                      *,2008-08-22,2010-03-04,Mazda Motor Corp,Vehicular running support apparatus
+    JP2011024349A,2009-07-16,2011-02-03,Toyota Motor Corp,Vehicle having motor capable of inputting/outputting power from/to drive shaft connected to drive wheel, and vehicle including inverter driving drive motor
+    JP5018926B2                      *,2010-04-19,2012-09-05,株式会社デンソー,Driving assistance device and program
+    US8942919B2                      *,2010-10-27,2015-01-27,Honda Motor Co., Ltd.,BEV routing system and method
+    US9415768B2                      *,2012-12-14,2016-08-16,Mitsubishi Electric Corporation,Control device for hybrid vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20210335057A1                      *,2020-04-22,2021-10-28,John Galasso,Method and system for parking spot exchange
+    Family To Family Citations,,,,
+
+abstract
+    A vehicle control apparatus includes an inverter controller. The inverter controller holds a plurality of control maps for an inverter. The inverter supplies electric power to a drive motor. The drive motor drives a drive wheel of the vehicle. The inverter controller selects any one of the plurality of control maps on a basis of a notification instruction that instructs to notify a driver of information. The inverter controller controls an operation of the inverter on a basis of the control map selected.
+title
+    Vehicle control apparatus
+similar_document
+26
+    Publication,Publication Date,Title
+    JP5896301B2,2016-03-30,Regenerative brake control device
+    US11279375B2,2022-03-22,Method for operating a motor vehicle having a plurality of driver assistance systems
+    JP2017026417A,2017-02-02,Information providing system
+    JP2008129804A,2008-06-05,Travel control plan generation system and computer program
+    CN104507753A,2015-04-08,Video control device for vehicle
+    CN105593096A,2016-05-18,Predictive and adaptative movement support apparatus, movement support method, and driving support system for a hybrid vehicle for mode driving section optimization
+    JP2008206301A,2008-09-04,Display device of vehicle
+    US11192454B2,2021-12-07,Vehicle control apparatus
+    CN103476625A,2013-12-25,Electric vehicle and method for controlling same
+    JP2020165832A,2020-10-08,Route setting device, route setting method, and program
+    CN109641593A,2019-04-16,Travel plan modification device, traveling plan modification method
+    CN104859467B,2017-04-26,Vehicle control apparatus
+    JP2015029416A,2015-02-12,Regenerative brake controller
+    JP6372772B2,2018-08-15,Regenerative brake control device
+    DE102019122006A1,2020-05-28,ELECTRIC MOTOR CONTROL DEVICE, VEHICLE WITH THE SAME, AND METHOD FOR CONTROLLING THE VEHICLE
+    CN109941290B,2020-12-11,Vehicle braking energy feedback control method and device and vehicle
+    DE102016206743A1,2017-10-26,Control unit for the operation of a hybrid vehicle
+    JP2011135716A,2011-07-07,Target charge power setting device, method, and program
+    JP5896316B2,2016-03-30,Regenerative brake control device
+    US20230174095A1,2023-06-08,Method for operating an electric vehicle, data processing system, electric vehicle, computer program product and computer-readable medium
+    CN110001512A,2019-07-12,Motor vehicles with voice collection device
+    DE102011100586A1,2012-03-01,Device for outputting haptic driving recommendation to driver of motor vehicle, has tilting mechanism which tilts steering wheel such that steering wheel plane tilts from rest position in relation to left or right side of driver
+    DE102022114312A1,2022-12-15,MODE FOR REVERSING A VEHICLE
+    JP6202410B2,2017-09-27,Regenerative brake control device
+    JP6202411B2,2017-09-27,Regenerative brake control device
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    6
+classfication_nums
+    30
+classfication_items
+179
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,3,1,/,0,0
+    B,6,0,K,3,1,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,0,8,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,1,4
+    B,6,0,W,5,0,/,1,6
+    G
+    G,0,8
+    G,0,8,G
+    G,0,8,G,1,/,0,0
+    G,0,8,G,1,/,0,9
+    G,0,8,G,1,/,0,9,6,2
+    G,0,8,G,1,/,0,9,6,7
+    G
+    G,0,8
+    G,0,8,G
+    G,0,8,G,1,/,0,0
+    G,0,8,G,1,/,0,9
+    G,0,8,G,1,/,0,9,6,2
+    G,0,8,G,1,/,0,9,6,7
+    G,0,8,G,1,/,0,9,6,7,0,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,2,0,5,0,/,0,0,0,1
+    B,6,0,W,2,0,5,0,/,0,0,1,9
+    B,6,0,W,2,0,5,0,/,0,0,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,1,4
+    B,6,0,W,2,0,5,0,/,1,4,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,4,2,0,/,0,0
+    B,6,0,W,2,4,2,0,/,4,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,8
+    B,6,0,W,2,5,1,0,/,0,8,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,8
+    B,6,0,W,2,5,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,2,2,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,5,/,0,0
+    B,6,0,W,2,5,5,5,/,6,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,1
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+7
+    2019-07-22,Application filed by Subaru Corp
+    2019-07-24,Assigned to Subaru Corporation
+    2020-03-26,Publication of US20200094692A1
+    2021-12-07,Application granted
+    2021-12-07,Publication of US11192454B2
+    Status,Active
+    2040-03-09,Adjusted expiration
+
+active_area
+3
+    J,P
+    C,N
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2018178648A,2018-09-25,Vehicle control device
+    JP2018-178648,2018-09-25,
+    JPJP2018-178648,2018-09-25,
+
+legal_event
+8
+    Date,Code,Title,Description
+    2019-07-22,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2019-07-24,AS,Assignment,Owner name: SUBARU CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:NAGAOKA, NOBUSUKE;NAKAZATO, YOSHIHIRO;KUBOTA, YOSUKE;AND OTHERS;SIGNING DATES FROM 20190530 TO 20190701;REEL/FRAME:049843/0017
+    2021-05-07,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2021-08-10,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2021-08-19,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2021-11-04,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2021-11-17,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

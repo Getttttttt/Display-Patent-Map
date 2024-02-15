@@ -1,0 +1,179 @@
+ID
+    WO2012026170A1
+citation_exist
+    Patent Citations (4)
+citation_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2000118477A                      *,1998-10-12,2000-04-25,Sony Corp,助力機能付き自転車
+    JP2000134711A                      *,1998-10-28,2000-05-12,Hitachi Ltd,電気車の制御装置及び制御方法
+    WO2007010934A1                      *,2005-07-19,2007-01-25,Denso Corporation,交流モータとその制御装置
+    JP2008245502A                      *,2007-03-01,2008-10-09,Mitsuba Corp,電動車両用モータ制御装置
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (7)
+              
+
+
+citedBy_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN105577070A                      *,2014-11-06,2016-05-11,南京蒙奇智能科技有限公司,一种电动装置及其驱动、制动方法
+    CN105634377A                      *,2014-11-06,2016-06-01,南京蒙奇智能科技有限公司,一种时序供电控制的电动车及其驱动、制动方法
+    CN105634378A                      *,2014-11-06,2016-06-01,南京蒙奇智能科技有限公司,一种时序供电式电动装置及其驱动、制动方法
+    EP3331156A4                      *,2014-02-04,2019-05-15,Takeo Iwai,ROTOR ENGINE WITH SOLID MAGNETIC POL WITH MAGNETIC INDUCTION
+    Family To Family Citations,,,,
+    JP5128709B1                      *,2012-02-02,2013-01-23,武雄 岩井,非正弦波駆動電動機
+    JP5819021B1                      *,2015-07-05,2015-11-18,武雄 岩井,電気自動車の駆動用電源装置
+    EP3860870A1                      *,2018-10-03,2021-08-11,Carrier Corporation,Generator temperature control
+
+abstract
+    【課題】給電停止直後の回生制動を給電操作部の操作のみで行い、回生制動で得られた電力を蓄電可能な直流回生電動機及びその回転方向を切替える回転方向切替器。 【解決手段】第１指令信号に応じた給電信号を出力する給電信号生成部と、第２指令信号に応じた回生信号を出力する回生信号生成部と、回転子の磁極を検出して給電信号に極性を付与する検出部及び負荷電流の方向を切換えて間欠的に通電する切換部を有するセグメントと、誘起電力を倍圧整流して蓄電する回生電力制御部とを備え、指令信号に応じて回転駆動又は回生制動する。また、界磁巻線組を選んで給電信号を供給することにより回転方向を切替える回転方向切替器を備え、電気自動車の前進、後退を可能にする。
+title
+    直流回生電動機及び回転方向切替器
+similar_document
+26
+    Publication,Publication Date,Title
+    WO2012026170A1,2012-03-01,直流回生電動機及び回転方向切替器
+    TWI574489B,2017-03-11,推進系統、電動機／發電機／傳動裝置及其操作方法
+    JP5206130B2,2013-06-12,コイル界磁式同期モーター回生システムおよびその制御方法
+    EP2698270B1,2016-11-16,Power source apparatus for electrically powered  vehicle and control method therefor
+    US8896252B2,2014-11-25,Electric motor driving device and vehicle equipped with the same
+    WO2011046147A1,2011-04-21,車両用電源システム
+    US7902791B2,2011-03-08,Controller for variable speed alternating current motor
+    JP5653534B2,2015-01-14,電動車両の制御装置
+    US20170232862A1,2017-08-17,Electric drive system and method for operating an electric machine for an electric vehicle
+    US20110148333A1,2011-06-23,Regenerative switched reluctance motor driving system
+    JP5063822B1,2012-10-31,非正弦波駆動電動機
+    JP2005204482A,2005-07-28,車両用回転電機
+    JP2010206971A,2010-09-16,動力伝達装置及び電力変換装置
+    JP5128709B1,2013-01-23,非正弦波駆動電動機
+    EP3489069B1,2021-10-06,Electric drive system of a hybrid or electric vehicle
+    CN101662199B,2011-11-09,具有启动绕组的单相开关磁阻式多功能电机
+    JP2013184663A,2013-09-19,車両用制御装置
+    JP5409579B2,2014-02-05,車両用電源システム
+    Youssef,2020,Multiphase interleaved bidirectional DC/DC converter for fuel cell/battery powered electric vehicles
+    JP5406406B1,2014-02-05,磁気誘導定磁極回転子モータ
+    JP2011201441A5,2013-05-09,
+    Tummuru et al.,2023,Power management of Hybrid Energy Storage System based Wireless Charging system with Regenerative Braking capability
+    RU217697U1,2023-04-12,Тяговый электропривод фронтального погрузчика
+    Nayanar et al.,2019,Fuzzy & pi controller based energy management strategy of battery/ultracapacitor for electric vehicle
+    MAMUR et al.,2020,Detailed simulation of regenerative braking of BLDC motor for electric vehicles
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    12
+classfication_items
+73
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+2
+    2011-05-24,Application filed by Iwai Takeo
+    2012-03-01,Publication of WO2012026170A1
+
+active_area
+2
+    J,P
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2010-185718,2010-08-23,
+    JP2010185718,2010-08-23,
+
+legal_event
+5
+    Date,Code,Title,Description
+    2012-04-18,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 11819644Country of ref document: EPKind code of ref document: A1
+    2013-02-25,NENP,Non-entry into the national phase,Ref country code: DE
+    2013-09-18,122,Ep: pct application non-entry in european phase,Ref document number: 11819644Country of ref document: EPKind code of ref document: A1
+    2013-10-08,NENP,Non-entry into the national phase,Ref country code: JP
+

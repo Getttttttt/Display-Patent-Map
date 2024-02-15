@@ -1,0 +1,212 @@
+ID
+    WO2021219013A1
+citation_exist
+    Patent Citations (22)
+citation_infor
+24
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20120239283A1                      *,2011-03-14,2012-09-20,GM Global Technology Operations LLC,Consistent range calculation in hybrid vehicles with hybrid and pure battery electric propulsion
+    CN109278562A                      *,2018-11-27,2019-01-29,安徽江淮汽车集团股份有限公司,一种电动汽车剩余里程的估算方法
+    CN109849676A                      *,2017-11-30,2019-06-07,长城汽车股份有限公司,一种续驶里程计算方法及系统
+    EP3575140A1                      *,2018-05-30,2019-12-04,Iveco S.p.A.,Estimation method of the residual range of an electric vehicle
+    CN110549915A                      *,2019-08-08,2019-12-10,武汉格罗夫氢能汽车有限公司,一种氢燃料电池混合动力新能源车续驶里程估算方法
+    CN110861507A                      *,2018-08-10,2020-03-06,上海汽车集团股份有限公司,氢燃料电池车可续航里程的计算方法及装置
+    Family To Family Citations,,,,
+    JP2003230203A                      *,2002-02-01,2003-08-15,Toyota Motor Corp,車両に搭載された燃料電池システムの制御
+    US8712650B2                      *,2005-11-17,2014-04-29,Invent.Ly, Llc,Power management systems and designs
+    WO2013069421A1                      *,2011-11-07,2013-05-16,本田技研工業株式会社,電動車両の表示装置
+    KR101956384B1                      *,2012-05-21,2019-03-08,현대자동차주식회사,전기자동차의 주행가능거리 산출 방법
+    US10696165B2                      *,2012-12-12,2020-06-30,Tevva Motors Limited,Range extender control
+    KR101459464B1                      *,2013-03-19,2014-11-10,현대자동차 주식회사,연료전지 차량의 전력 제어 방법 및 시스템
+    US9630504B2                      *,2014-07-24,2017-04-25,Ford Global Technologies, Llc,Distance to empty prediction with kinetic energy change compensation
+    DE102016215003A1                      *,2016-08-11,2018-02-15,Bayerische Motoren Werke Aktiengesellschaft,Verfahren zum Betrieb eines Kraftfahrzeugs mit einem Brennstoffzellensystem und mit mindestens einer Energiespeichereinrichtung
+    KR20180025660A                      *,2016-09-01,2018-03-09,현대자동차주식회사,전기 모터를 구비한 자동차 및 그를 위한 회생 제동량 표시 방법
+    CN106740822A                      *,2017-02-14,2017-05-31,上汽大众汽车有限公司,混合动力系统及其能量管理方法
+    WO2019030911A1                      *,2017-08-10,2019-02-14,日産自動車株式会社,ハイブリッド車両の制御方法及び制御装置
+    CN108501750A                      *,2018-04-08,2018-09-07,江西优特汽车技术有限公司,一种动力电池续航里程管理系统及方法
+    CN109753697B                      *,2018-12-14,2023-03-03,中国汽车技术研究中心有限公司,一种用于可外接充电式混合动力燃料电池汽车的能耗计算方法
+    CN110154790A                      *,2018-12-27,2019-08-23,民航协发机场设备有限公司,车辆供电系统、车辆供电系统的控制方法及车辆
+    CN110341547B                      *,2019-07-22,2021-04-20,广汽蔚来新能源汽车科技有限公司,电动车辆充电方法、装置、系统和计算机设备
+    CN112389213B                      *,2020-11-25,2022-02-22,中国第一汽车股份有限公司,一种续驶里程预测方法、装置、设备及存储介质
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN115171394A                      *,2022-09-08,2022-10-11,南京智慧交通信息股份有限公司,一种新能源公交车辆实时安全监控系统及其方法
+    Family To Family Citations,,,,
+
+abstract
+    一种确定车辆续航里程的方法，包括：S201、获取车辆依赖于以下各能量进行行驶所各自对应的续航里程：动力电池的当前剩余能量、燃料电池的当前剩余能量以及能量回收功能激活时所回收的能量； S202、基于所获取的各续航里程确定所述车辆的续航里程。还公开了一种确定车辆续航里程的装置、一种计算机处理设备、一种计算机程序和一种计算机可读存储介质。该方法可以准确反映车辆的续航里程，方便用户的行车安排。
+title
+    确定车辆续航里程的方法和装置、设备、计算机程序和介质
+similar_document
+26
+    Publication,Publication Date,Title
+    US10415986B2,2019-09-17,Route-based distance to empty calculation for a vehicle
+    CN111469714B,2021-12-07,增程式电动汽车的启动控制方法、装置、设备及存储介质
+    WO2022007689A1,2022-01-13,车辆的充电提醒方法、设备、程序、存储介质及车辆
+    EP2216199B1,2021-02-03,System for optimizing battery pack cut-off voltage
+    US10656211B2,2020-05-19,Method of predicting time for charging battery of eco-friendly vehicle
+    US10328818B2,2019-06-25,System and method for charging battery
+    MX2013004808A,2013-06-28,Aparato de diagnostico de la bateria del vehiculo.
+    CN104512265A,2015-04-15,车辆电池充电设定点控制
+    CN102951034A,2013-03-06,用于优化能量存储装置循环寿命的系统和方法
+    CN103158716A,2013-06-19,用于计算电动车中的燃料耗尽距离的方法
+    WO2021219013A1,2021-11-04,确定车辆续航里程的方法和装置、设备、计算机程序和介质
+    CN107490766A,2017-12-19,用于测量燃料电池车辆的绝缘电阻的系统和方法
+    US11285836B2,2022-03-29,Method and apparatus for controlling scheduled charging
+    Wang et al.,2014,Driving pattern recognition and energy management for extended range electric bus
+    CN106208178B,2020-09-11,电动车辆的电池充电装置和方法
+    WO2021179798A1,2021-09-16,一种能量协调控制方法、系统及车辆
+    CN104598714A,2015-05-06,车辆用电池的可用容量演算装置及方法及可机读记录媒体
+    CN106803717B,2020-01-14,环境友好车辆的低压dc-dc变换器
+    KR20180063571A,2018-06-12,전기차량의 보조배터리 충전 제어장치 및 그 방법
+    CN114035064A,2022-02-11,一种电池电荷状态校正方法、装置、车辆及存储介质
+    CN111688697A,2020-09-22,一种车辆控制的方法、装置、设备及存储介质
+    JP5709968B1,2015-04-30,充電装置および充電システム
+    CN113733919B,2023-02-14,一种燃料电池汽车剩余续航里程计算方法
+    US20220203958A1,2022-06-30,Driving guide setting system of electric operating vehicle and method of setting the driving guide
+    US10930956B2,2021-02-23,Low flow control method and system for fuel cell
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    EP21797165.4A,2020-04-30,2021-04-28,METHOD AND APPARATUS FOR VEHICLE RANGE DETERMINATION, AND DEVICE, COMPUTER PROGRAM AND MEDIA
+    US17/790,290,2020-04-30,2021-04-28,Method for determining remaining range of vehicle, computer device, and computer-readable storage medium
+
+inventor_number
+    7
+classfication_nums
+    15
+classfication_items
+86
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,7,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,5,0
+    B,6,0,L,2,2,6,0,/,5,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,5,0
+    B,6,0,L,2,2,6,0,/,5,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,4,0
+
+application_events
+4
+    2021-04-28,Application filed by 长城汽车股份有限公司
+    2021-04-28,Priority to EP21797165.4A
+    2021-04-28,Priority to US17/790,290
+    2021-11-04,Publication of WO2021219013A1
+
+active_area
+3
+    C,N
+    U,S
+    E,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    CN202010367987.6A,2020-04-30,确定车辆续航里程的方法、系统
+    CN202010367987.6,2020-04-30,
+
+legal_event
+4
+    Date,Code,Title,Description
+    2021-12-15,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 21797165Country of ref document: EPKind code of ref document: A1
+    2022-07-08,ENP,Entry into the national phase,Ref document number: 2021797165Country of ref document: EPEffective date: 20220628
+    2022-12-01,NENP,Non-entry into the national phase,Ref country code: DE
+

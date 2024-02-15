@@ -1,0 +1,135 @@
+ID
+    WO2018135168A1
+citation_exist
+    Patent Citations (6)
+citation_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2005033981A                      *,2003-07-07,2005-02-03,Hyundai Motor Co Ltd,電気自動車の空調システムを利用した回生制動システム及び回生制動方法
+    JP2005100752A                      *,2003-09-24,2005-04-14,Denso Corp,燃料電池システム
+    WO2014027401A1                      *,2012-08-14,2014-02-20,三菱電機株式会社,列車情報管理装置および機器制御方法
+    JP2014195341A                      *,2013-03-28,2014-10-09,Mazda Motor Corp,車両の充電制御装置
+    Family To Family Citations,,,,
+    JP2003182352A                      *,2001-12-17,2003-07-03,Denso Corp,車両用空気清浄システム
+    JP6364926B2                      *,2014-04-24,2018-08-01,株式会社デンソー,車両用空調装置
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    WO2023140201A1                      *,2022-01-21,2023-07-27,サンデン株式会社,熱媒体加熱装置
+    Family To Family Citations,,,,
+    JP2023121263A                      *,2022-02-21,2023-08-31,サンデン株式会社,加熱装置
+
+abstract
+    本開示は、異なる複数の要求に対応させて補機を制御できるようにすることを目的とする。補機装置は、バッテリ（１０）を電力供給源として動作する補機（４２）と、通信接続された外部装置（６０、８０）から前記補機を異なる用途で動作させる少なくとも２つの要求を取得する要求取得部（Ｓ１００、Ｓ２０２、Ｓ２０４）と、前記要求取得部により取得された前記要求に基づいて前記補機を動作させる補機制御指示値を特定し、該制御指示値を用いて前記補機を制御する補機制御部（Ｓ１０６、Ｓ１１０、Ｓ１１２、Ｓ２１０、Ｓ２１４、Ｓ３０４、Ｓ３０７）と、を備える。
+title
+    補機装置および車両用空調システム
+similar_document
+26
+    Publication,Publication Date,Title
+    CN107565189B,2022-07-12,电池冷却剂回路控制
+    US9947975B2,2018-04-17,Battery coolant circuit control
+    US7890218B2,2011-02-15,Centralized multi-zone cooling for increased battery efficiency
+    CN106335387B,2021-06-04,预调节电动车辆
+    US7615879B2,2009-11-10,Method of controlling an onboard power supply system for a motor vehicle
+    CN103171450B,2015-11-18,用于对车辆的高压电池进行热管理的方法和系统
+    JP5125766B2,2013-01-23,車両用空調装置
+    JP4940234B2,2012-05-30,電気車の制御装置
+    DE102013217739A1,2014-03-13,Thermisches system und verfahren für ein fahrzeug mit einer traktionsbatterie
+    US8489267B1,2013-07-16,Method and system for adapting engine coolant temperature (ECT) warm-up trajectory based on heater core loading to adjust cabin temperature
+    JP5590336B2,2014-09-17,空調制御装置
+    KR20050029706A,2005-03-28,온도 센서가 통합된 전기 가열 장치
+    KR101921809B1,2018-11-23,전기 자동차의 온도 제어 시스템
+    CN102195556A,2011-09-21,用于管理电动马达系统的扭矩容量的系统和方法
+    WO2018135168A1,2018-07-26,補機装置および車両用空調システム
+    JP2008126970A,2008-06-05,車両用加熱装置
+    WO2019182079A1,2019-09-26,冷却装置
+    CN108883709B,2021-07-23,电动车辆的高压设备冷却系统
+    JPWO2017158991A1,2018-09-20,電動車両の高電圧機器冷却システム
+    JP6136799B2,2017-05-31,車両用空調制御装置
+    WO2018096784A1,2018-05-31,補機装置および空調システム
+    JP7176987B2,2022-11-22,熱要求調停装置
+    WO2019235085A1,2019-12-12,車載空調機制御装置及び車両
+    US20150022973A1,2015-01-22,Method and apparatus for controlling a coolant circuit thermally coupled to a power electronics device
+    JP4096885B2,2008-06-04,車両に搭載された電力変換機構の冷却装置
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    6
+classfication_items
+33
+    B
+    B,6,0
+    B,6,0,H
+    B,6,0,H,1,/,0,0
+    B,6,0,H,1,/,0,2
+    B,6,0,H,1,/,0,3
+    B
+    B,6,0
+    B,6,0,H
+    B,6,0,H,1,/,0,0
+    B,6,0,H,1,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+2
+    2017-12-07,Application filed by 株式会社デンソー
+    2018-07-26,Publication of WO2018135168A1
+
+active_area
+2
+    J,P
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2017008753A,2017-01-20,補機装置および車両用空調システム
+    JP2017-008753,2017-04-24,
+
+legal_event
+4
+    Date,Code,Title,Description
+    2018-11-28,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 17892264Country of ref document: EPKind code of ref document: A1
+    2019-07-23,NENP,Non-entry into the national phase,Ref country code: DE
+    2020-01-22,122,Ep: pct application non-entry in european phase,Ref document number: 17892264Country of ref document: EPKind code of ref document: A1
+

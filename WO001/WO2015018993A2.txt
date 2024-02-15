@@ -1,0 +1,255 @@
+ID
+    WO2015018993A2
+citation_exist
+    Patent Citations (29)
+citation_infor
+31
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP3792756B2                      *,1994-08-29,2006-07-05,株式会社豊田中央研究所,アンチロックブレーキ制御装置
+    JPH0937407A                      *,1995-07-18,1997-02-07,Toyota Motor Corp,回生制動制御装置
+    JP3850517B2                      *,1997-06-13,2006-11-29,富士重工業株式会社,アンチロックブレーキ装置付車両の自動変速機制御装置
+    JP3379397B2                      *,1997-08-12,2003-02-24,トヨタ自動車株式会社,液圧ブレーキ装置
+    JP2001268704A                      *,2000-03-16,2001-09-28,Mazda Motor Corp,モータ駆動車両のエネルギ回収制御装置
+    JP3777974B2                      *,2000-11-15,2006-05-24,三菱自動車工業株式会社,車両の制動装置
+    US6859712B2                      *,2001-08-31,2005-02-22,General Motors Corporation,Adaptive compensation method for an anti-lock brake control
+    US20050269875A1                      *,2004-06-08,2005-12-08,Kazuya Maki,Vehicle brake device
+    JP4760246B2                      *,2004-09-30,2011-08-31,トヨタ自動車株式会社,液圧ブレーキ装置
+    US7885751B2                      *,2005-01-07,2011-02-08,Toyota Jidosha Kabushiki Kaisha,Vehicle integrated control apparatus integrally executing vehicle driving support control, driving force control, and braking force control
+    JP2006311791A                      *,2005-03-31,2006-11-09,Advics:Kk,車両用ブレーキ制御装置
+    JP2007030631A                      *,2005-07-25,2007-02-08,Advics:Kk,車両用ブレーキ制御装置
+    JP5095955B2                      *,2006-05-11,2012-12-12,トヨタ自動車株式会社,車両およびその制御方法
+    JP2007308097A                      *,2006-05-22,2007-11-29,Toyota Motor Corp,車両およびその制御方法
+    JP4722779B2                      *,2006-06-22,2011-07-13,日立オートモティブシステムズ株式会社,ブレーキ制御装置
+    KR100901591B1                      *,2006-11-17,2009-06-08,현대자동차주식회사,전기자동차용 회생제동 제어 방법
+    JP2008265397A                      *,2007-04-17,2008-11-06,Nissan Motor Co Ltd,車両の制動制御装置
+    JP2008301590A                      *,2007-05-30,2008-12-11,Honda Motor Co Ltd,電動車両
+    DE102007056359B4                      *,2007-11-16,2016-10-27,Bayerische Motoren Werke Aktiengesellschaft,Verfahren zur Steuerung eines Bremssystems eines Kraftfahrzeugs
+    DE102008001973A1                      *,2008-05-26,2009-12-03,Robert Bosch Gmbh,Verfahren zum Regeln eines Schleppmomentes eines elektromotorisch angetriebenen Kraftfahrzeuges unter Berücksichtigung des auf der Fahrbahnoberfläche vorliegenden Reibwertes und Vorrichtung zum Durchführen eines solchen Verfahrens
+    JP5114575B2                      *,2009-09-25,2013-01-09,トヨタ自動車株式会社,制動制御装置
+    US9333957B2                      *,2010-01-28,2016-05-10,Continental Teves Ag & Co. Ohg,Method for operating a brake system for a motor vehicle and brake system
+    US8303049B2                      *,2010-03-12,2012-11-06,GM Global Technology Operations LLC,Method for operating a vehicle brake system
+    CN102470834B                      *,2010-04-29,2014-11-05,丰田自动车株式会社,车辆用液压制动系统
+    JP5222329B2                      *,2010-08-05,2013-06-26,本田技研工業株式会社,車両用制動装置
+    JP5336445B2                      *,2010-09-01,2013-11-06,日立オートモティブシステムズ株式会社,ブレーキ制御装置
+    FR2982205B1                      *,2011-11-08,2014-04-11,Renault Sa,Adaptation d'une consigne de freinage moteur simulee
+    JP5929173B2,2011-12-26,2016-06-01,株式会社アドヴィックス,ハイブリッド車両用運動制御装置
+    FR3009523B1                      *,2013-08-06,2015-08-07,Renault Sa,Controle du freinage regeneratif dans un vehicule electrique ou hybride
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    FR3069120A1                      *,2017-07-17,2019-01-18,Valeo Equipements Electriques Moteur,Procede de controle- commande d'une machine electrique tournante, notamment pour vehicule automobile
+    Family To Family Citations,,,,
+    FR3009523B1                      *,2013-08-06,2015-08-07,Renault Sa,Controle du freinage regeneratif dans un vehicule electrique ou hybride
+    KR20160071850A                      *,2014-12-12,2016-06-22,현대자동차주식회사,회생 제동 협조 제어 시 제동력 제어 방법
+    EP3323659B1                      *,2016-11-16,2019-06-26,Nio Nextev Limited,Détection de pannes pour véhicules électriques
+
+abstract
+    Un dispositif de contrôle de freinage régénératif (10) d'un véhicule équipé d'un premier moyen de freinage, régénératif, et d'un deuxième moyen de freinage, et conçu pour générerune consigne de freinage régénératif (C el ) en fonction d'un signal de requête de freinage issu d'une pédale conducteurdu véhicule, ledispositifcomprenant: des moyens de réception pour recevoir un signal de drapeau (flag_reg) issu d'un système de sécurité actif du véhicule,et des moyens de traitement agencés de façon à incrémenter une valeur de compteur (Count) lorsque le signal de drapeau reçu change de valeur pour prendre une valeur correspondant à une activation d'une régulation par le système de sécurité actif, et élaborer si le compteur atteintunseuil un signal de commande (S) afin de mettre fin à la génération de la consigne de freinage régénératif.
+title
+    Controle du freinage regeneratif dans un vehicule electrique ou hybride
+similar_document
+26
+    Publication,Publication Date,Title
+    EP2217476B1,2014-03-05,Systeme de controle d&#39;un vehicule comportant une determination de sa vitesse par rapport au sol
+    EP2212176A1,2010-08-04,Systeme pour produire une estimation de la vitesse au sol d&#39;un vehicule a partir de mesures de la vitesse de rotation d&#39;au moins une roue
+    EP3030447B1,2017-06-21,Controle du freinage regeneratif dans un vehicule electrique ou hybride
+    EP2758257B1,2015-11-18,Procede d&#39;estimation de la resistance au roulement d&#39;une roue de vehicule
+    EP2189348A1,2010-05-26,Procédé d&#39;assistance à la conduite pour véhicule automobile
+    WO2015018994A2,2015-02-12,Controle du freinage regeneratif dans un vehicule electrique ou hybride
+    WO2008022935A1,2008-02-28,Dispositif d&#39;anti-patinage amélioré des roues motrices d&#39;un vehicule et procede pour sa mise en oeuvre
+    EP2900541B1,2017-02-22,Gestion d&#39;assistance de direction d&#39;un vehicule automobile
+    EP2776270B1,2016-02-03,Adaptation d&#39;une consigne de freinage moteur simulee
+    EP2082939B1,2011-08-03,Procédé et système d&#39;estimation d&#39;adhérence dans un véhicule automobile
+    FR3005921A1,2014-11-28,Repartition du couple entre le train avant et le train arriere d&#39;un vehicule hybride
+    EP2307253B1,2012-12-12,Dispositif d&#39;evaluation de l&#39;acceleration transversale d&#39;un vehicule automobile et procede correspondant
+    EP2766232B1,2018-05-16,Adaptation d&#39;une consigne de freinage regeneratif
+    WO2007144526A1,2007-12-21,Systeme et procede de commande des efforts appliques aux trains avant et arriere d&#39;un vehicule automobile hybride a quatre roues motrices
+    FR2915802A1,2008-11-07,Procede et systeme de determination d&#39;adherence pour vehicule automobile
+    EP2870038B1,2018-09-05,Systeme et procede de suivi de la trajectoire d&#39;un vehicule
+    EP2212579B1,2011-07-13,Procede d&#39;assistance au demarrage en cote d&#39;un vehicule motorise
+    EP2069173B1,2011-01-12,Procede et systeme de controle d&#39;un vehicule equipe d&#39;un systeme de freinage pilote et d&#39;un systeme quatre roues directrices
+    EP2558324B1,2019-03-06,Procede de commande d&#39;un moyen de couplage mecanique des essieux d&#39;un systeme de transmission d&#39;un vehicule automobile
+    EP2555938B1,2018-05-30,Procede de commande du fonctionnement d&#39;un moyen de couplage mecanique des premier et deuxieme essieux d&#39;un vehicule automobile, procede de fonctionnement d&#39;un systeme de transmission respectif, systemes correspondants, programme realisant les etapes des procedes, support d&#39;enregistrement de donnees avec un tel programme et vehicule automobile avec un systeme respectif
+    FR2977538A1,2013-01-11,Simulation de freinage moteur
+    FR2974342A1,2012-10-26,Dispositif de repartition d&#39;une commande de freinage globale entre une commande de freinage electrique et une commande de freinage complementaire.
+    WO2011138548A2,2011-11-10,Systeme de transmission a differentiel de type a arbre neutre comportant un dispositif de freinage regeneratif
+    FR2914605A3,2008-10-10,Procede de signalisation de la limite d&#39;adherence d&#39;un vehicule et dispositif de mise en oeuvre d&#39;un tel procede
+    FR2930501A3,2009-10-30,Procede et dispositif antiblocage des roues ameliores
+
+patent_application
+    NoExist
+patent_priority_application
+6
+    Application,Priority date,Filing date,Title
+    KR1020167005996A,2013-08-06,2014-07-04,전기 차량 또는 하이브리드 차량에서의 회생 제동 제어
+    US14/909,239,2013-08-06,2014-07-04,Control of regenerative braking in an electric or hybrid vehicle
+    EP14748240.0A,2013-08-06,2014-07-04,Controle du freinage regeneratif dans un vehicule electrique ou hybride
+    JP2016532712A,2013-08-06,2014-07-04,電気自動車又はハイブリッド自動車における回生ブレーキの制御
+    CN201480051504.4A,2013-08-06,2014-07-04,电动车辆或混合动力车辆中的再生制动的控制
+
+inventor_number
+    2
+classfication_nums
+    17
+classfication_items
+105
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,7,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,5
+    B,6,0,T,1,3,/,5,8,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,0,2
+    B,6,0,T,7,/,0,4
+    B,6,0,T,7,/,0,4,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B,6,0,W,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,0,8
+    B,6,0,W,3,0,/,0,9
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,1,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,4,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,8,9
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,4,7
+
+application_events
+8
+    2014-07-04,Application filed by Renault S.A.S
+    2014-07-04,Priority to KR1020167005996A
+    2014-07-04,Priority to US14/909,239
+    2014-07-04,Priority to EP14748240.0A
+    2014-07-04,Priority to JP2016532712A
+    2014-07-04,Priority to CN201480051504.4A
+    2015-02-12,Publication of WO2015018993A2
+    2015-04-16,Publication of WO2015018993A3
+
+active_area
+7
+    F,R
+    W,O
+    J,P
+    E,P
+    K,R
+    U,S
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    FR1357801,2013-08-06,
+    FR1357801A,2013-08-06,Controle du freinage regeneratif dans un vehicule electrique ou hybride
+
+legal_event
+9
+    Date,Code,Title,Description
+    2013-12-07,WWE,Wipo information: entry into national phase,Ref document number: 201480051504.4Country of ref document: CN
+    2016-01-19,REEP,Request for entry into the european phase,Ref document number: 2014748240Country of ref document: EP
+    2016-01-19,WWE,Wipo information: entry into national phase,Ref document number: 2014748240Country of ref document: EP
+    2016-02-01,ENP,Entry into the national phase,Ref document number: 2016532712Country of ref document: JPKind code of ref document: A
+    2016-02-08,NENP,Non-entry into the national phase,Ref country code: DE
+    2016-03-02,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 14748240Country of ref document: EPKind code of ref document: A2
+    2016-03-04,ENP,Entry into the national phase,Ref document number: 20167005996Country of ref document: KRKind code of ref document: A
+    2016-04-06,WWE,Wipo information: entry into national phase,Ref document number: 14909239Country of ref document: US
+

@@ -1,0 +1,258 @@
+ID
+    US10759430B2
+citation_exist
+    Patent Citations (13)
+citation_infor
+15
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5632534A                      *,1993-10-07,1997-05-27,Lucas Industries Public Limited Company,Electric vehicle having a hydraulic brake system
+    US5895100A                      *,1996-01-29,1999-04-20,Toyota Jidosha Kabushiki Kaisha,Brake apparatus for an electric vehicle to maximize regenerative energy
+    US20060196712A1                      *,2005-03-04,2006-09-07,Nissan Motor Co., Ltd.,Vehicle regenerative braking control apparatus and method
+    US7232192B2,2004-07-01,2007-06-19,Ford Global Technologies, Llc,Deadband regenerative braking control for hydraulic hybrid vehicle powertrain
+    US20080173490A1                      *,2007-01-20,2008-07-24,Nissan Motor Co., Ltd.,Regenerative braking coordination device
+    US20080245178A1                      *,2003-09-04,2008-10-09,Toyoda Iron Works Co., Ltd.,Apparatus for applying a reaction force to a pivotally supported pedal member upon depression thereof
+    US7922265B1                      *,2010-06-11,2011-04-12,GM Global Technology Operations LLC,Method for controlling regenerative and hydraulic braking
+    US20130025273A1                      *,2011-07-28,2013-01-31,Yusuke Nozawa,Electric booster
+    US8899696B2                      *,2010-02-15,2014-12-02,Robert Bosch Gmbh,Brake booster, and method and device for the operation thereof
+    US9266507B2                      *,2014-06-02,2016-02-23,Ford Global Technologies, Llc,Adjustable brake pedal system
+    US10391995B2                      *,2015-09-14,2019-08-27,Robert Bosch Gmbh,Brake booster for a motor vehicle
+    Family To Family Citations,,,,
+    JP5830449B2                      *,2012-08-30,2015-12-09,日立オートモティブシステムズ株式会社,Electric vehicle drive system
+    US9545849B2                      *,2014-09-19,2017-01-17,Ford Global Technologies, Llc,Vehicle system and method for adapting lift pedal regeneration
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    DE102019133676A1                      *,2019-12-10,2021-06-10,Audi Ag,Method for controlling the braking operation of a motor vehicle
+    CN113734117B                      *,2021-11-08,2022-02-25,浙江万泉信息技术有限公司,Semi-decoupling braking device for regenerative braking of new energy automobile
+    CN113928286B                      *,2021-11-25,2022-06-24,华为数字能源技术有限公司,Brake mode switching device and brake control system for vehicle
+
+abstract
+    A braking system for braking an electric vehicle is provided. The system includes a brake pedal having a regenerative-braking range of pedal displacement from an initial position of the brake pedal to a maximal-recuperation position of the brake pedal, and a mechanical-braking range of pedal displacement starting from the maximal-recuperation position of the brake pedal. A brake controller activates deceleration of the vehicle based on the pedal displacement. The brake controller activates deceleration of the electric vehicle based on regenerative braking within the regenerative-braking range and based on mechanical braking within the mechanical-braking range. The regenerative-braking range is adjusted based on a state of charge of a traction battery of the electric vehicle.
+title
+    Braking system for braking an electric vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US10759430B2,2020-09-01,Braking system for braking an electric vehicle
+    CN103328294B,2016-10-12,Regenerating control device, method for controlling reproduction and motor vehicle driven by mixed power
+    RU2432550C2,2011-10-27,Display device for hybrid vehicle
+    US7322659B2,2008-01-29,Method and system for brake distribution in a regenerative braking system
+    US20110139555A1,2011-06-16,Electric brake device
+    CN102361786B,2014-03-19,Brake device for vehicle
+    JP2009541132A,2009-11-26,Method for operating a combination vehicle brake system
+    CN102556035A,2012-07-11,Electric motor-driven booster
+    US9610859B1,2017-04-04,System and method for controlling impact reduction of electric vehicle
+    CN101037090A,2007-09-19,Vehicle brake device and method for braking vehicles
+    JP5211181B2,2013-06-12,Electric assist bicycle
+    CN103619684A,2014-03-05,Vehicle, and control method and control device for the vehicle
+    US10005435B2,2018-06-26,Vehicle brake device
+    CN108263216B,2023-08-08,Regenerative braking system and braking method for hub motor driven automobile
+    JP5644868B2,2014-12-24,Vehicle and vehicle control method
+    JP2007022105A,2007-02-01,Braking device for vehicle
+    JP2010041915A,2010-02-18,Vehicle having at least one electric machine which operates as generator
+    CN110979017A,2020-04-10,NBS-based braking energy recovery system and method for electric automobile
+    CN106143163B,2018-08-07,A kind of braking system of electric car with energy feedback
+    WO2012157102A1,2012-11-22,Vehicle and control method for vehicle
+    CN206155172U,2017-05-10,Automatic keep off gas pedal and brake pedal locking device
+    KR102187631B1,2020-12-07,Braking apparatus and braking control method of vehicle
+    CN110816283A,2020-02-21,Braking energy recovery control system and method for electric automobile
+    US10166855B2,2019-01-01,Vehicle, system, and method of calculating an engine torque request value
+    KR20150123358A,2015-11-04,Electronic parking brake with regenerative braking cooperative control function
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    23
+classfication_items
+138
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,0,2
+    B,6,0,T,7,/,0,4
+    B,6,0,T,7,/,0,4,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,0,2
+    B,6,0,T,7,/,0,4
+    B,6,0,T,7,/,0,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    G
+    G,0,5
+    G,0,5,G
+    G,0,5,G,1,/,0,0
+    G,0,5,G,1,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B,6,0,L,2,2,5,0,/,2,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,4
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,1
+    G
+    G,0,5
+    G,0,5,G
+    G,0,5,G,1,/,0,0
+    G,0,5,G,1,/,3,0
+    G,0,5,G,1,/,4,0
+    G,0,5,G,1,/,4,0,5
+    G
+    G,0,5
+    G,0,5,G
+    G,0,5,G,1,/,0,0
+    G,0,5,G,1,/,3,0
+    G,0,5,G,1,/,4,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2018-11-30,Application filed by Hyundai Motor Co, Kia Motors Corp
+    2018-11-30,Assigned to HYUNDAI MOTOR COMPANY, KIA MOTORS CORPORATION
+    2020-03-19,Publication of US20200086875A1
+    2020-09-01,Application granted
+    2020-09-01,Publication of US10759430B2
+    Status,Active
+    2038-11-30,Anticipated expiration
+
+active_area
+4
+    D,E
+    C,N
+    U,S
+    K,R
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    DE102018215653.0A,2018-09-14,Brake system for braking an electric vehicle
+    DE102018215653.0,2018-09-14,
+    DE102018215653,2018-09-14,
+
+legal_event
+6
+    Date,Code,Title,Description
+    2018-11-30,AS,Assignment,Owner name: HYUNDAI MOTOR COMPANY, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:HOFFMANN, STEFAN;REEL/FRAME:047640/0424Effective date: 20181030Owner name: KIA MOTORS CORPORATION, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:HOFFMANN, STEFAN;REEL/FRAME:047640/0424Effective date: 20181030
+    2018-11-30,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2020-04-10,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2020-07-23,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT RECEIVED
+    2020-08-12,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

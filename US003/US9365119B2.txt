@@ -1,0 +1,223 @@
+ID
+    US9365119B2
+citation_exist
+    Patent Citations (16)
+citation_infor
+18
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5722911A                      *,1995-07-24,1998-03-03,Toyota Jidoshi Kabushiki Kaisha,Vehicle control apparatus adapted to charge energy storage device by generator driven by surplus engine power which changes with required vehicle drive force
+    US6209672B1                      *,1998-09-14,2001-04-03,Paice Corporation,Hybrid vehicle
+    JP2010013002A,2008-07-04,2010-01-21,Toyota Motor Corp,Hybrid drive apparatus and drive control device
+    JP2010070031A,2008-09-18,2010-04-02,Toyota Motor Corp,Control device for hybrid vehicle
+    JP4672061B2,2006-10-03,2011-04-20,三菱電機株式会社,Hybrid vehicle
+    KR101048142B1,2009-10-23,2011-07-08,기아자동차주식회사,Regenerative braking torque control device and method for hybrid vehicle
+    JP2012001168A,2010-06-21,2012-01-05,Denso Corp,System for distribution of regenerative energy of hybrid vehicle
+    JP2013216180A,2012-04-06,2013-10-24,Toyota Motor Corp,Control device for hybrid vehicle
+    US20150094889A1                      *,2013-09-30,2015-04-02,Kia Motors Corporation,Method for controlling regenerative braking of vehicle
+    Family To Family Citations,,,,
+    JP3360499B2                      *,1995-09-05,2002-12-24,トヨタ自動車株式会社,Regenerative braking control apparatus and method for electric vehicle
+    JP3514142B2                      *,1998-11-04,2004-03-31,日産自動車株式会社,Vehicle control device
+    CN100402330C                      *,2001-12-27,2008-07-16,雅马哈发动机株式会社,Mixed driving type vehicle running controller and vehicle thereof
+    CN1764039A                      *,2004-10-19,2006-04-26,项青松,Electric vehicle regenerated energy controller
+    US8155814B2                      *,2007-11-03,2012-04-10,GM Global Technology Operations LLC,Method of operating a vehicle utilizing regenerative braking
+    CN101879867B                      *,2010-07-19,2012-07-11,中北大学,Parallel-type vehicle electrical storage energy regeneration brake system and energy-recycling method
+    CN102717714B                      *,2012-06-08,2015-07-01,北京汽车新能源汽车有限公司,Pure electric vehicle braking energy recovery control system and method based on DCT (Data Communication Terminal)
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (9)
+              
+
+
+citedBy_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    WO2016094694A1                      *,2014-12-10,2016-06-16,Gogoro Inc.,Systems and methods of adaptive regenerative braking and collision avoidance for electrically powered vehicles
+    CN106080215B                      *,2016-08-23,2019-05-21,中车青岛四方机车车辆股份有限公司,A kind of rail traffic Brake Energy recycling system and hybrid power rail traffic
+    JP6458794B2                      *,2016-11-29,2019-01-30,トヨタ自動車株式会社,Hybrid vehicle and control method thereof
+    KR101916076B1                      *,2017-01-26,2018-11-07,현대자동차 주식회사,Apparatus and method of controlling vehicle including driving motor
+    US10293808B2                      *,2017-03-03,2019-05-21,Toyota Motor Engineering & Manufacturing North America, Inc.,Constant power control
+    CN107719132A                      *,2017-08-30,2018-02-23,浙江工业大学之江学院,A kind of evaluation method of braking energy of electric automobiles organic efficiency
+    JP7003606B2                      *,2017-12-05,2022-01-20,トヨタ自動車株式会社,Hybrid vehicle and control device mounted on it
+    CN112440751A                      *,2020-11-06,2021-03-05,广东高标电子科技有限公司,Electric vehicle braking energy recovery method
+    CN113104013A                      *,2021-05-21,2021-07-13,重庆军工产业集团有限公司,Gear shifting method based on two-gear AMT pure electric vehicle braking condition
+
+abstract
+    A method for calculating an amount of regenerative braking for an environmentally-friendly vehicle includes: determining a presence of regenerative braking; determining whether charging is limited due to a high voltage component including a battery and a drive motor of the environmentally-friendly vehicle at the time of the regenerative braking for the environmentally-friendly vehicle; calculating a base speed (base rpm) of a driving motor depending on a charging limit in the charging limit state at the time of the regenerative braking for the environmentally-friendly vehicle and dividing a steady torque area and a steady power area based on the calculated base speed; and determining whether an operating mode of the driving motor is a steady power mode, a steady torque mode, or a conversion mode depending on the divided steady torque area or steady torque area and calculating the amount of regenerative braking based on the determined result.
+title
+    Method for calculating amount of regenerative braking for environmentally-friendly vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US9365119B2,2016-06-14,Method for calculating amount of regenerative braking for environmentally-friendly vehicle
+    US20200247384A1,2020-08-06,System and method for controlling hybrid electric vehicle using driving tendency of driver
+    US8688299B2,2014-04-01,Mode change control system for hybrid vehicle
+    US9254840B2,2016-02-09,Apparatus, system and method for controlling engine starting while shifting of hybrid electric vehicle
+    US9267556B2,2016-02-23,Apparatus and method for determining engine clutch transfer torque of environmentally-friendly vehicle
+    US20160121898A1,2016-05-05,Method of controlling coasting operation of hybrid vehicle and apparatus for performing the same
+    CN105460004B,2020-05-01,Apparatus and method for controlling creep torque of hybrid electric vehicle
+    US9481251B2,2016-11-01,Method and apparatus for controlling regenerative braking of hybrid electric vehicle
+    US9707848B2,2017-07-18,Braking control method for eco-friendly vehicle
+    US20160107634A1,2016-04-21,System and method for controlling torque of hybrid vehicle
+    CN106627564B,2021-07-16,Apparatus and method for learning contact point of engine clutch of hybrid electric vehicle
+    US9610859B1,2017-04-04,System and method for controlling impact reduction of electric vehicle
+    US20140121873A1,2014-05-01,Control system and method for hybrid vehicle
+    US11634036B2,2023-04-25,Vehicle having motor and method of controlling the same to prevent collision thereof
+    US20180162360A1,2018-06-14,System and method of controlling driving of vehicle when battery charging is limited
+    US20200172109A1,2020-06-04,Vehicle having electric motor and driving control method for the same
+    US9981554B2,2018-05-29,System and method for controlling braking of electric vehicle
+    US10018234B2,2018-07-10,Apparatus for controlling coasting operation in hybrid vehicle, system including the same, method thereof
+    US9610937B2,2017-04-04,Apparatus and method for controlling torque reduction of hybrid electric vehicle
+    US20180050683A1,2018-02-22,Method of controlling engine driving force during operation of traction control system of hybrid vehicle
+    US20170137018A1,2017-05-18,System and method for controlling torque intervention of hybrid electric vehicle
+    US11325585B2,2022-05-10,Clutch control method for hybrid vehicle with dual clutch transmission
+    US10399559B2,2019-09-03,System and method of controlling engine clutch engagement during TCS operation of hybrid vehicle
+    US9610953B2,2017-04-04,System and method for controlling regenerative braking
+    CN111757830A,2020-10-09,Controller and method for controlling vehicle speed
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    6
+classfication_nums
+    17
+classfication_items
+97
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,7,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,5,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2014-11-21,Application filed by Hyundai Motor Co, Kia Motors Corp
+    2014-11-21,Assigned to HYUNDAI MOTOR COMPANY, KIA MOTORS CORPORATION
+    2016-01-07,Publication of US20160001659A1
+    2016-06-14,Application granted
+    2016-06-14,Publication of US9365119B2
+    Status,Active
+    2034-11-21,Anticipated expiration
+
+active_area
+3
+    K,R
+    U,S
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    KR1020140082018A,2014-07-01,Method for calculating amount of regenerative braking for environmentally-friently vehicle
+    KR10-2014-0082018,2014-07-01,
+
+legal_event
+5
+    Date,Code,Title,Description
+    2014-11-21,AS,Assignment,Owner name: KIA MOTORS CORPORATION, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:HUH, JEE WOOK;OH, KYOUNG CHEOL;CHO, TEH HWAN;AND OTHERS;REEL/FRAME:034226/0744Effective date: 20141117Owner name: HYUNDAI MOTOR COMPANY, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:HUH, JEE WOOK;OH, KYOUNG CHEOL;CHO, TEH HWAN;AND OTHERS;REEL/FRAME:034226/0744Effective date: 20141117
+    2015-12-09,FEPP,Fee payment procedure,Free format text: PAYER NUMBER DE-ASSIGNED (ORIGINAL EVENT CODE: RMPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYFree format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2016-05-25,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2019-11-21,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

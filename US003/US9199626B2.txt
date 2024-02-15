@@ -1,0 +1,429 @@
+ID
+    US9199626B2
+citation_exist
+    Patent Citations (14)
+citation_infor
+16
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2008172927A,2007-01-11,2008-07-24,Toyota Motor Corp,Controller for vehicle equipped with manual speed changing mode
+    Family To Family Citations,,,,
+    JP3591153B2                      *,1996-07-02,2004-11-17,トヨタ自動車株式会社,Drive control device for hybrid vehicle
+    US5923093A                      *,1996-07-02,1999-07-13,Toyota Jidosha Kabushiki Kaisha,Hybrid vehicle drive system adapted to assure smooth brake application by motor/generator or engine
+    JPH11125328A                      *,1997-10-27,1999-05-11,Honda Motor Co Ltd,Hybrid vehicle
+    JP4630408B2                      *,1999-02-18,2011-02-09,トヨタ自動車株式会社,Hybrid vehicle and control method thereof
+    JP3906604B2                      *,1999-05-12,2007-04-18,トヨタ自動車株式会社,Vehicle drive control device
+    JP2005028968A                      *,2003-07-10,2005-02-03,Fuji Heavy Ind Ltd,Traveling device for vehicle
+    JP4567619B2                      *,2006-03-01,2010-10-20,三菱ふそうトラック・バス株式会社,Control device for hybrid electric vehicle
+    JP4348557B2                      *,2006-02-22,2009-10-21,三菱ふそうトラック・バス株式会社,Control device for hybrid electric vehicle
+    JP2007283878A                      *,2006-04-14,2007-11-01,Toyota Motor Corp,Power transmission device, automobile mounted therewith, and control method of power transmission device
+    JP2008001258A                      *,2006-06-23,2008-01-10,Nissan Motor Co Ltd,Control device for hybrid vehicle
+    JP2009234566A                      *,2008-03-03,2009-10-15,Nissan Motor Co Ltd,Clutch controller and clutch control method of hybrid vehicle
+    JP2010047138A                      *,2008-08-22,2010-03-04,Toyota Motor Corp,Vehicle control device
+    EP2703243B1                      *,2011-04-27,2016-04-27,Toyota Jidosha Kabushiki Kaisha,Control device for vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (20)
+              
+
+
+citedBy_infor
+22
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    DE102010004228A1                      *,2010-01-09,2011-07-14,IAV GmbH Ingenieurgesellschaft Auto und Verkehr, 10587,Device for driving a vehicle
+    EP2703243B1                      *,2011-04-27,2016-04-27,Toyota Jidosha Kabushiki Kaisha,Control device for vehicle
+    US10487891B2                      *,2016-02-04,2019-11-26,Ford Global Technologies, Llc,Temperature based clutch control
+    US9441599B2,2012-07-17,2016-09-13,Altigreen Propulsion Labs Private Limited,Induction motor-permanent magnet generator tandem configuration starter-generator for hybrid vehicles
+    US9580065B2                      *,2012-07-17,2017-02-28,Altigreen Propulsion Labs Private Limited,Dual-structured electric drive and power system for hybrid vehicles
+    JP6070934B2                      *,2012-12-21,2017-02-01,三菱自動車工業株式会社,Hybrid vehicle travel mode switching control device
+    JP5984172B2                      *,2013-04-11,2016-09-06,三菱電機株式会社,Cooling control device and cooling control method for motor for electric vehicle
+    US20150031501A1                      *,2013-07-24,2015-01-29,GM Global Technology Operations LLC,Hybrid-electric vehicle with continuously variable transmission
+    EP3056369B1                      *,2013-10-08,2018-09-19,Nissan Motor Co., Ltd,Device for controlling hybrid vehicle
+    JP2015143075A                      *,2014-01-31,2015-08-06,アイシン精機株式会社,Vehicle deceleration control device for hybrid vehicle
+    CN104088971A                      *,2014-05-09,2014-10-08,天津内燃机研究所,Automobile and transmission and clutch for automobile
+    EP3273102B1                      *,2015-03-20,2019-09-25,Nissan Motor Co., Ltd.,Vehicle regenerative speed control device
+    DE102015209245A1                      *,2015-05-20,2016-11-24,Avl Commercial Driveline & Tractor Engineering Gmbh,Method for operating a vehicle combination, vehicle combination, towing vehicle and implement
+    FR3042765B1                      *,2015-10-23,2018-08-03,Psa Automobiles Sa.,METHOD FOR COUPLING A TRACTION ENGINE OF A HYBRID VEHICLE
+    JP6332232B2                      *,2015-10-30,2018-05-30,トヨタ自動車株式会社,Hybrid car
+    JP2017105365A                      *,2015-12-10,2017-06-15,トヨタ自動車株式会社,Hybrid-vehicular drive force control apparatus
+    KR101813542B1                      *,2016-10-06,2018-01-30,현대자동차주식회사,A hybrid vehicle and controlling method for the same
+    EP3540127A4                      *,2016-10-20,2020-11-04,Volvo Construction Equipment AB,Construction machine traveling control system
+    JP6718427B2                      *,2017-12-01,2020-07-08,株式会社Ｓｕｂａｒｕ,Vehicle control device and vehicle control method
+    CN112373318B                      *,2020-10-22,2022-04-15,智新控制系统有限公司,Range-extending vehicle control method and system
+
+abstract
+    A control device of a vehicle includes: an engine; a connection/disconnection device configured to connect/interrupt the engine; a rotating machine disposed to enable transmission of drive power to the wheels; and a running position selection device, the control device including a first manual mode selected by performing a deceleration increasing operation by a driver for increasing vehicle deceleration while the automatic running position is selected and a second manual mode selected by performing a deceleration increasing operation by a driver for increasing the vehicle deceleration while the manual running position is selected, while the vehicle is running with the engine interrupted from the wheels, if the first manual mode is selected, the vehicle deceleration being generated only by the rotating machine, and if the second manual mode is selected, the connection/disconnection device being put into the connected state to generate the vehicle deceleration at least by the engine.
+title
+    Control device of vehicle
+similar_document
+23
+    Publication,Publication Date,Title
+    US9199626B2,2015-12-01,Control device of vehicle
+    US8798837B2,2014-08-05,Vehicle hybrid drive device
+    US9026291B2,2015-05-05,Vehicle hybrid drive device
+    JP4032639B2,2008-01-16,Vehicle regeneration control device
+    JP5352745B2,2013-11-27,Control device for hybrid vehicle
+    US8204659B2,2012-06-19,Engine start control system for hybrid vehicle
+    JP5796382B2,2015-10-21,Control device for hybrid vehicle
+    US9162665B2,2015-10-20,Kick-down shift control device for electric vehicle
+    JP5708184B2,2015-04-30,Vehicle control device
+    JP5817908B2,2015-11-18,Control device
+    JP3826637B2,2006-09-27,Vehicle regenerative braking device
+    WO2014170749A1,2014-10-23,Control device for vehicle
+    US20140148987A1,2014-05-29,Control device for hybrid vehicle
+    JP5737349B2,2015-06-17,Control device for hybrid vehicle
+    JP2015178360A,2015-10-08,Vehicular hybrid running gear
+    JP5471855B2,2014-04-16,Hybrid drive device for vehicle
+    CN114771496A,2022-07-22,Control device for hybrid vehicle
+    US20220281437A1,2022-09-08,Control device of vehicle
+    JP2023059718A,2023-04-27,Control device of hybrid-type electric vehicle
+    JP2023048858A,2023-04-07,Control device of vehicle
+    JP2022068046A,2022-05-09,Control device for vehicle
+    JP2023035722A,2023-03-13,Hybrid-electric vehicular control apparatus
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    11
+classfication_nums
+    57
+classfication_items
+296
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,4
+    B,6,0,K,6,/,4,4,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,4
+    B,6,0,K,6,/,4,4,5
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,5,0
+    B,6,0,K,6,/,5,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,5,0
+    B,6,0,K,6,/,5,4
+    B,6,0,K,6,/,5,4,3
+    B,6,0,L,1,1,/,1,2,3
+    B,6,0,L,1,1,/,1,4
+    B,6,0,L,1,1,/,1,8,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B,6,0,W,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,2,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,4,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,1,0
+    B,6,0,L,2,2,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,1,0
+    B,6,0,L,2,2,7,0,/,1,4
+    B,6,0,L,2,2,7,0,/,1,4,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y,0,2,T,1,0,/,6,2,1,7
+    Y,0,2,T,1,0,/,6,2,3,4
+    Y,0,2,T,1,0,/,6,2,3,9
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,0,5
+    Y,0,2,T,1,0,/,7,0,4,4
+    Y,0,2,T,1,0,/,7,0,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y,0,2,T,1,0,/,7,0,7,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,4,1
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,3
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,4,5
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,4,6
+
+application_events
+7
+    2011-04-27,Application filed by Toyota Motor Corp
+    2013-12-31,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2014-05-08,Publication of US20140129067A1
+    2015-12-01,Application granted
+    2015-12-01,Publication of US9199626B2
+    Status,Active
+    2031-12-29,Adjusted expiration
+
+active_area
+5
+    E,P
+    J,P
+    C,N
+    W,O
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2011/060260,2011-04-27,Control device for vehicle
+
+legal_event
+5
+    Date,Code,Title,Description
+    2013-12-31,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:FURUKAWA, TOMOAKI;KANAYAMA, TAKESHI;HORI, TETSUO;AND OTHERS;REEL/FRAME:031862/0582Effective date: 20131114
+    2015-11-11,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2019-05-16,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+    2023-05-17,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+

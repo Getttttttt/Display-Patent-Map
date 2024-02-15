@@ -1,0 +1,149 @@
+ID
+    JP2022185461A
+citation_exist
+    Patent Citations (5)
+citation_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPS6050061A                      *,1983-08-30,1985-03-19,Toyota Motor Corp,アンチスキッド制御方法
+    JPH0898313A                      *,1994-09-21,1996-04-12,Aisin Seiki Co Ltd,電動車両の制動装置
+    JPH11245801A                      *,1998-05-14,1999-09-14,Akebono Brake Ind Co Ltd,液圧制御装置
+    JP2011056969A                      *,2009-09-04,2011-03-24,Toyota Motor Corp,ブレーキ制御装置
+    JP2020149325A                      *,2019-03-13,2020-09-17,日立建機株式会社,ダンプトラック
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    【課題】駆動輪のスリップが発生した場合に、駆動輪側の制動トルクを低減して駆動輪のロックを回避しつつ、従動輪側の制動トルクを発生して車両全体の制動トルクを確保することができるダンプトラックを提供する。【解決手段】ダンプトラックは、ブレーキペダル８の操作量に対応する回生トルク指令値をインバータ１１へ出力して電動モータ１０を回生制御させるコントローラ１３と、ブレーキペダル９の操作量に対応する油圧を生成する油圧弁１５と、油圧弁１５の油圧によって作動する後輪ブレーキ１６と、油圧弁１５の油圧と電磁比例弁１８の油圧のうちの高い方を選択する高圧選択弁１９と、高圧選択弁１９で選択された油圧によって作動する前輪ブレーキ１７とを備える。コントローラ１３は、後輪６のスリップ率が所定値以上であると判定したときに、回生トルク指令値を低減し、その低減量に対応する駆動指令値を電磁比例弁１８へ出力する。【選択図】図２
+title
+    ダンプトラック
+similar_document
+26
+    Publication,Publication Date,Title
+    US5322352A,1994-06-21,Electric vehicle regenerative and friction braking control system
+    US5378053A,1995-01-03,Maximized regenerative braking vehicle braking controller
+    JP4830600B2,2011-12-07,車両用制動装置
+    JP4806413B2,2011-11-02,アンチロックブレーキシステム制御装置及び制御方法
+    CN104773150B,2019-02-22,用于机动车辆制动系统的操作方法及机动车辆的制动系统
+    US20160101700A1,2016-04-14,Control system and method for a vehicle
+    JP5120297B2,2013-01-16,電気自動車の回生制動制御装置
+    US10029664B2,2018-07-24,Braking system and method for a vehicle
+    JP7280920B2,2023-05-24,ダンプトラック
+    JP4830602B2,2011-12-07,車両用制動装置
+    CN108025709B,2020-09-08,机动车牵引力控制系统和方法
+    US20070080583A1,2007-04-12,Vehicle and control method for changing control mode of driving and braking force based on change rate of wheel vertical load
+    JP2002240692A,2002-08-28,電動ブレーキシステムおよびコンピュータプログラム
+    JP2022026826A,2022-02-10,運搬車両
+    JPH1178818A,1999-03-23,車両のブレーキ制御装置
+    JP6539198B2,2019-07-03,車両用制動装置
+    JP2005219580A,2005-08-18,車両の挙動制御装置
+    JP4457590B2,2010-04-28,車両用ブレーキシステム
+    WO2023136206A1,2023-07-20,車両用制御装置および車両
+    JP2020075621A,2020-05-21,車両用制動力制御装置
+    JP4669759B2,2011-04-13,アンチロックブレーキシステム制御装置
+    US20230211759A1,2023-07-06,Method of controlling braking of a vehicle
+    WO2021059915A1,2021-04-01,ブレーキ装置
+    JP2017034907A,2017-02-09,車両制御装置
+    JP4792763B2,2011-10-12,アンチロックブレーキ制御装置
+
+patent_application
+    NoExist
+patent_priority_application
+4
+    Application,Priority date,Filing date,Title
+    JP2021093163A,2021-06-02,2021-06-02,ダンプトラック
+    CN202280017628.5A,2021-06-02,2022-03-23,自卸卡车
+    PCT/JP2022/013331,2021-06-02,2022-03-23,ダンプトラック
+
+inventor_number
+    8
+classfication_nums
+    7
+classfication_items
+40
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,P
+    B,6,0,P,1,/,0,0
+    B,6,0,P,1,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,1
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,6
+    B,6,0,T,8,/,1,7,6,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,0,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+9
+    2021-06-02,Application filed by Hitachi Construction Machinery Co Ltd
+    2021-06-02,Priority to JP2021093163A
+    2022-03-23,Priority to CN202280017628.5A
+    2022-03-23,Priority to PCT/JP2022/013331
+    2022-12-14,Publication of JP2022185461A
+    2023-05-24,Application granted
+    2023-05-24,Publication of JP7280920B2
+    Status,Active
+    2041-06-02,Anticipated expiration
+
+active_area
+2
+    J,P
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2021093163A,2021-06-02,ダンプトラック
+
+legal_event
+10
+    Date,Code,Title,Description
+    2022-03-22,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20220322
+    2022-06-07,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20220607
+    2022-07-22,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20220722
+    2022-11-22,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20221122
+    2022-12-27,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20221227
+    2023-04-20,TRDD,Decision of grant or rejection written,
+    2023-04-25,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20230425
+    2023-05-16,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20230512
+    2023-05-16,R150,Certificate of patent or registration of utility model,Ref document number: 7280920Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R150
+

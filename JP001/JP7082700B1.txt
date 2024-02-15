@@ -1,0 +1,138 @@
+ID
+    JP7082700B1
+citation_exist
+    Patent Citations (4)
+citation_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH0614600A                      *,1992-06-25,1994-01-21,Shinko Electric Co Ltd,エンジン式発電装置
+    JP2016096714A                      *,2014-10-31,2016-05-26,ゲーエー ジェンバッハー ゲーエムベーハー アンド コー オーゲー,発電プラント
+    JP2018149882A                      *,2017-03-10,2018-09-27,日立建機株式会社,電気駆動式ダンプトラック
+    Family To Family Citations,,,,
+    JPH0879908A,1994-08-31,1996-03-22,Meidensha Corp,電源装置
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    【課題】主巻線と補助巻線とを含む一次巻線を有する誘導発電機を備え、補助巻線側のみの通電となる回生動作中においても、補機用インバータが要求する電力を供給可能なドライブシステムを提供する。【解決手段】発電用コンバータ７の最大電流値は、誘導発電機２の補助巻線の最大出力ＰＡｕｘＭａｘと、走行用インバータ４が回生動作をしないときの前記補助巻線の最小電圧ＶＡｕｘＭｉｎとに基づいて設定されており、誘導発電機２の無負荷電流値は、走行用インバータ４が回生動作をするときの前記補助巻線の最大電流ＩＡｕｘＭａｘＲｅｔが発電用コンバータ７の最大電流を超えないように設定されている。【選択図】 図１
+title
+    ドライブシステム
+similar_document
+26
+    Publication,Publication Date,Title
+    JP5972785B2,2016-08-17,電気車制御装置
+    US8710785B2,2014-04-29,Method of operating an electromechanical converter, a controller and a computer program product
+    JP5365586B2,2013-12-11,電力変換装置
+    JP2017204902A,2017-11-16,電力変換装置および電動車両の制御装置
+    JPH05111109A,1993-04-30,内燃機関駆動電気式車両の制御方法
+    JP2013121313A,2013-06-17,電気自動車のｄｃ−ｄｃコンバータシステムおよび制御方法
+    JP2016131486A,2016-07-21,車両システム用双方向ｄｃ／ｄｃ電力コンバータ
+    WO2011004588A1,2011-01-13,電気車制御装置
+    JP2000125591A,2000-04-28,交流電動機の制御装置
+    US11634039B2,2023-04-25,System and method for integrated battery charging and propulsion in plug-in electric vehicles
+    JP7082700B1,2022-06-08,ドライブシステム
+    EP4005848A1,2022-06-01,Electric vehicle
+    RU2579439C2,2016-04-10,Избирательное управление двигателем переменного тока или двигателем постоянного тока
+    JP2015216825A,2015-12-03,平滑回路を有するパワースイッチング装置
+    JP6002846B2,2016-10-05,電圧制御装置および電圧制御方法
+    Swaminathan et al.,2021,Review on different topologies of power electronic converters and control strategies for motors in electric vehicles
+    US20230370008A1,2023-11-16,Drive System
+    JP2015216824A,2015-12-03,トラクションモータ駆動装置
+    WO2022180703A1,2022-09-01,発電機、制御装置及び制御方法
+    US8576594B2,2013-11-05,Soft starter for phase-shifting autotransformer AC-DC power converter
+    KR102194406B1,2020-12-24,충전 어셈블리
+    JP2008148498A,2008-06-26,低電圧大電流モータ用電源
+    JP2022148644A,2022-10-06,直流発電システム及び鉄道車両用電力供給システム
+    JP6129106B2,2017-05-17,外部給電システム
+    Mamo et al.,2023,Comparative Study of Half-Wave Rectified Excitation PM motors with Different Hybridization Ratios for Variable Speed Drive
+
+patent_application
+    NoExist
+patent_priority_application
+4
+    Application,Priority date,Filing date,Title
+    JP2021054594A,2021-03-29,2021-03-29,ドライブシステム
+    PCT/JP2022/006753,2021-03-29,2022-02-18,ドライブシステム
+    CN202280006322.XA,2021-03-29,2022-02-18,驱动系统
+
+inventor_number
+    9
+classfication_nums
+    6
+classfication_items
+34
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,9,/,0,0
+    B,6,0,L,9,/,1,6
+    B,6,0,L,9,/,1,8
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,4,2
+    H,0,2,M,7,/,4,4
+    H,0,2,M,7,/,4,8
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,9,/,0,0
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,9,/,0,0
+    H,0,2,P,9,/,1,4
+    H,0,2,P,9,/,2,6
+    H,0,2,P,9,/,3,0
+
+application_events
+9
+    2021-03-29,Application filed by Hitachi Construction Machinery Co Ltd
+    2021-03-29,Priority to JP2021054594A
+    2022-02-18,Priority to PCT/JP2022/006753
+    2022-02-18,Priority to CN202280006322.XA
+    2022-06-08,Application granted
+    2022-06-08,Publication of JP7082700B1
+    2022-10-12,Publication of JP2022151999A
+    Status,Active
+    2041-03-29,Anticipated expiration
+
+active_area
+2
+    J,P
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2021054594A,2021-03-29,ドライブシステム
+
+legal_event
+6
+    Date,Code,Title,Description
+    2022-02-18,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20220218
+    2022-04-27,TRDD,Decision of grant or rejection written,
+    2022-05-10,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20220510
+    2022-05-31,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20220527
+    2022-05-31,R150,Certificate of patent or registration of utility model,Ref document number: 7082700Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R150
+

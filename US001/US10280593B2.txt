@@ -1,0 +1,307 @@
+ID
+    US10280593B2
+citation_exist
+    Patent Citations (19)
+citation_infor
+21
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2000136806A,1998-11-04,2000-05-16,Komatsu Ltd,Pressure oil energy recovery equipment and pressure oil energy recovery/regeneration equipment
+    JP2004116603A,2002-09-25,2004-04-15,Komatsu Ltd,Pressure oil recovery device
+    JP2004116656A,2002-09-26,2004-04-15,Komatsu Ltd,Pressure oil energy recovery/regeneration device
+    JP2011202457A,2010-03-26,2011-10-13,Kyb Co Ltd,Controller for hybrid construction machine
+    US20120245782A1,2010-02-12,2012-09-27,Kayaba Industry Co., Ltd.,Control system for hybrid construction machine
+    JP2014025498A,2012-07-25,2014-02-06,Kayaba Ind Co Ltd,Control device of construction machine
+    JP2014037861A,2012-08-15,2014-02-27,Kayaba Ind Co Ltd,Control device for hybrid construction machine
+    US20140245729A1                      *,2011-10-17,2014-09-04,Kabushiki Kaisha Kobe Seiko Sho (Kobe Steel, Ltd.),Hydraulic control device and operating machine having the same
+    US9416799B2                      *,2013-03-15,2016-08-16,Eaton Corporation,Methods and systems for flow sharing in a hydraulic transformer system with multiple pumps
+    US9897119B2                      *,2012-11-07,2018-02-20,Kyb Corporation,Control system for hybrid construction machine
+    Family To Family Citations,,,,
+    JP2006336307A                      *,2005-06-02,2006-12-14,Shin Caterpillar Mitsubishi Ltd,Work machine
+    JP2008014468A                      *,2006-07-10,2008-01-24,Shin Caterpillar Mitsubishi Ltd,Hydraulic control system in working machine
+    JP5078692B2                      *,2008-03-26,2012-11-21,カヤバ工業株式会社,Control device for hybrid construction machine
+    JP5401992B2                      *,2009-01-06,2014-01-29,コベルコ建機株式会社,Power source device for hybrid work machine
+    JP5378061B2                      *,2009-05-08,2013-12-25,カヤバ工業株式会社,Control device for hybrid construction machine
+    JP5265595B2                      *,2010-02-12,2013-08-14,カヤバ工業株式会社,Control device for hybrid construction machine
+    CN102182730A                      *,2011-05-05,2011-09-14,四川省成都普什机电技术研究有限公司,Movable arm flow re-generation system with potential energy recovery device for excavator
+    CN203498888U                      *,2013-08-26,2014-03-26,中外合资沃得重工（中国）有限公司,Hydraulic control device capable of recovering boom potential energy of excavator
+    CN103452149B                      *,2013-08-26,2015-07-15,中外合资沃得重工（中国）有限公司,Potential energy recovery hydraulic control device for movable arm of excavator
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (2)
+              
+
+
+citedBy_exist
+    
+              Cited By (19)
+              
+
+
+citedBy_infor
+21
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20210355973A1                      *,2020-05-18,2021-11-18,Robert Bosch Gmbh,Hydrostatic Drive
+    US11542967B2                      *,2019-12-20,2023-01-03,Dana Motion Systems Italia S.R.L.,Hydraulic system with an energy recovery circuit
+    Family To Family Citations,,,,
+    JP5687150B2                      *,2011-07-25,2015-03-18,日立建機株式会社,Construction machinery
+    BR112017010895A2                      *,2014-11-24,2017-12-26,Xuzhou Heavy Machinery Co Ltd,method and system for recovering and utilizing crane, and crane operating energy
+    JP6383879B2                      *,2015-09-29,2018-08-29,日立建機株式会社,Pressure oil energy regeneration device for work machines
+    JP2018168977A                      *,2017-03-30,2018-11-01,川崎重工業株式会社,Hydraulic system
+    JP6845736B2                      *,2017-04-28,2021-03-24,川崎重工業株式会社,Hydraulic drive system
+    US11566839B2                      *,2017-08-31,2023-01-31,Energy Internet Corporation,Controlled liquefaction and energy management
+    JP6551490B2                      *,2017-11-02,2019-07-31,ダイキン工業株式会社,Hydraulic device
+    EP3707313A4                      *,2017-11-08,2021-08-11,Volvo Construction Equipment AB,Energy recupartion system and method for construction equipment
+    EP3724409A4                      *,2017-12-14,2022-01-12,Volvo Construction Equipment AB,Hydraulic machine
+    US10760246B2                      *,2018-03-08,2020-09-01,Hitachi Construction Machinery Co., Ltd.,Work machine
+    CN112313380B                      *,2019-03-27,2022-07-26,日立建机株式会社,Working machine
+    DE102019205151A1                      *,2019-04-10,2020-10-15,Deere & Company,Hydraulic system and vehicle
+    JP7246297B2                      *,2019-12-16,2023-03-27,日立建機株式会社,construction machinery
+    JP7269436B2                      *,2020-03-30,2023-05-08,日立建機株式会社,working machine
+    CN112281975A                      *,2020-10-20,2021-01-29,徐州徐工挖掘机械有限公司,Double-pump confluence control method for excavator
+    CN113757193A                      *,2021-09-02,2021-12-07,浙江大学,Electro-hydrostatic energy storage unit
+    CN114506799B                      *,2022-04-20,2022-07-08,杭叉集团股份有限公司,Forklift gantry joint action control method and control system
+
+abstract
+    Provided is a hydraulic fluid energy regeneration device for a work machine, including: a regeneration hydraulic motor driven by discharged return hydraulic fluid; a first hydraulic pump mechanically connected to the regeneration hydraulic motor; a second hydraulic pump that delivers an hydraulic fluid for driving a first hydraulic actuator and/or a second hydraulic actuator; a junction line that allows the hydraulic fluid delivered by the second hydraulic pump to be joined; a second regulator that regulates the delivery flow rate of the second hydraulic pump; and a first regulator that regulates the flow rate of the hydraulic fluid coming from the first hydraulic pump and flowing through the junction line. A control unit includes: a first computing part that calculates a demanded pump flow rate in accordance with the input target replacement command for the second hydraulic pump, the first computing part further outputting a control command to the first regulator in such a manner that the flow rate of the hydraulic fluid coming from the first hydraulic pump and flowing through the junction line equals to or lower than the demanded pump flow rate; and a second computing part that subtracts from the demanded pump flow rate the flow rate of the hydraulic fluid coming from the first hydraulic pump to obtain a target pump flow rate, the second computing part further outputting a control command to the second regulator in such a manner that the calculated target pump flow rate is attained.
+title
+    Hydraulic fluid energy regeneration device for work machine
+similar_document
+16
+    Publication,Publication Date,Title
+    US10280593B2,2019-05-07,Hydraulic fluid energy regeneration device for work machine
+    US10584722B2,2020-03-10,Hydraulic fluid energy regeneration apparatus of work machine
+    US10364550B2,2019-07-30,Hydraulic drive system of work machine
+    US10280592B2,2019-05-07,Hydraulic drive system for electrically-operated hydraulic work machine
+    US10760246B2,2020-09-01,Work machine
+    US8087240B2,2012-01-03,Control apparatus for work machine
+    US9518593B2,2016-12-13,Hydraulic drive system for construction machine
+    JP6291394B2,2018-03-14,Hydraulic drive system for work machines
+    US8659177B2,2014-02-25,Motive power regeneration system for working machine
+    EP3203087A1,2017-08-09,Work vehicle hydraulic drive system
+    WO2015114736A1,2015-08-06,Work machine hydraulic energy recovery device
+    US20180291935A1,2018-10-11,Hydraulic drive system of construction machine
+    WO2016088573A1,2016-06-09,Control system for hybrid construction machine
+    JP6782851B2,2020-11-11,Construction machinery
+    US11668074B2,2023-06-06,Electrically driven hydraulic construction machine
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    5
+classfication_nums
+    24
+classfication_items
+174
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,1,7
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,0,5,8
+    E,0,2,F,9,/,2,0,9,5
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,2,1
+    E,0,2,F,9,/,2,2,3,2
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,2,1
+    E,0,2,F,9,/,2,2,3,2
+    E,0,2,F,9,/,2,2,3,5
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,2,1
+    E,0,2,F,9,/,2,2,3,9
+    E,0,2,F,9,/,2,2,4,2
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,7,8
+    E,0,2,F,9,/,2,2,9,2
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,7,8
+    E,0,2,F,9,/,2,2,9,6
+    F
+    F,0,4
+    F,0,4,B
+    F,0,4,B,4,9,/,0,0
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F,1,5,B,1,1,/,1,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,3,/,0,0
+    F,1,5,B,1,3,/,0,2
+    F,1,5,B,1,3,/,0,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,1,/,0,0
+    F,1,5,B,2,1,/,0,8
+    F,1,5,B,2,1,/,0,8,7
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,1,/,0,0
+    F,1,5,B,2,1,/,1,4
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,3,/,0,0
+    E,0,2,F,3,/,0,4
+    E,0,2,F,3,/,2,8
+    E,0,2,F,3,/,3,0
+    E,0,2,F,3,/,3,2
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,0,7
+    F,1,5,B,2,2,1,1,/,2,0,5,1,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,0,7
+    F,1,5,B,2,2,1,1,/,2,0,5,2,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,3
+    F,1,5,B,2,2,1,1,/,2,0,5,4,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,7,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,5,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,1
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,0,6
+    F,1,5,B,2,2,1,1,/,6,3,0,9
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,0,6
+    F,1,5,B,2,2,1,1,/,6,3,1,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,0,6
+    F,1,5,B,2,2,1,1,/,6,3,1,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,6,5
+    F,1,5,B,2,2,1,1,/,6,6,5,2
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,6,5
+    F,1,5,B,2,2,1,1,/,6,6,5,4
+
+application_events
+7
+    2014-05-16,Application filed by Hitachi Construction Machinery Co Ltd
+    2016-08-22,Assigned to HITACHI CONSTRUCTION MACHINERY CO., LTD.
+    2017-01-12,Publication of US20170009428A1
+    2019-05-07,Application granted
+    2019-05-07,Publication of US10280593B2
+    Status,Active
+    2034-12-23,Adjusted expiration
+
+active_area
+6
+    E,P
+    W,O
+    K,R
+    U,S
+    J,P
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2014/063121,2014-05-16,Hydraulic energy regeneration apparatus for machinery
+
+legal_event
+5
+    Date,Code,Title,Description
+    2016-08-22,AS,Assignment,Owner name: HITACHI CONSTRUCTION MACHINERY CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:HIJIKATA, SEIJI;ISHIKAWA, KOUJI;OOKI, TAKATOSHI;AND OTHERS;REEL/FRAME:039495/0371Effective date: 20160802
+    2019-02-07,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2019-04-17,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2022-10-26,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

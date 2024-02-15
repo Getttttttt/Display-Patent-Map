@@ -1,0 +1,270 @@
+ID
+    US20150130423A1
+citation_exist
+    Patent Citations (5)
+citation_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20080234897A1                      *,2005-11-21,2008-09-25,Toyota Jidosha Kabushiki Kaisha,Power Supply Controller
+    US20110039173A1                      *,2008-06-30,2011-02-17,Toyota Jidosha Kabushiki Kaisha,Fuel cell system
+    US20140009855A1                      *,2011-03-31,2014-01-09,Toyota Jidosha Kabushiki Kaisha,Power supply system for vehicle
+    Family To Family Citations,,,,
+    CN101501973B,2006-08-09,2012-06-06,三菱电机株式会社,Controller for electric vehicle
+    JP5210308B2,2007-06-25,2013-06-12,長江 竹嶋,Vehicle and transportation system
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (10)
+              
+
+
+citedBy_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20150175021A1                      *,2013-12-20,2015-06-25,Lsis Co., Ltd.,Power conversion device
+    CN106809040A                      *,2015-12-01,2017-06-09,通用汽车环球科技运作有限责任公司,Method and apparatus for being charged to high-tension battery component
+    EP3226377A1                      *,2016-03-28,2017-10-04,The Boeing Company,System architecture for battery charger based on gan-based  power devices
+    CN109347189A                      *,2015-12-04,2019-02-15,郑州宇通客车股份有限公司,A kind of power supply system for trolley bus and its method for controlling power supply
+    CN110040016A                      *,2018-01-17,2019-07-23,保时捷股份公司,Power supply unit for motor vehicles
+    US20190305710A1                      *,2018-03-28,2019-10-03,Toyota Jidosha Kabushiki Kaisha,Electric power conversion system and control method of electric power conversion system
+    US10471836B2                      *,2015-08-05,2019-11-12,Autonetworks Technologies, Ltd.,Vehicle-mounted charging system
+    US20200023746A1                      *,2018-07-18,2020-01-23,Hyundai Motor Company,Battery charger for electric vehicle
+    US10581362B2                      *,2015-11-28,2020-03-03,Honda Motor Co., Ltd.,Power supply system, transportation device, and power transmission method
+    US11605958B2                      *,2020-09-22,2023-03-14,Sk Signet Inc.,Electric vehicle charging method for preventing inrush current and device for the same
+    Family To Family Citations,,,,
+
+abstract
+    Even when a high voltage in electric railways is applied from power lines, an electric automobile makes it possible to apply an appropriate voltage lower than the high voltage to a motor and an inverter that supplies the motor with electric power. The electric automobile includes, a first DC/DC converter that steps up the battery voltage of a high-voltage battery to a level corresponding to an power line feeding voltage, a second converter connected between power line contact terminals, which are brought into contact with power lines to receive electric power from the power lines under the high power line feeding voltage, and the DC terminals of the inverter for energizing the motor. Therefore, even if the high power line feeding voltage is applied from the power lines, the second DC/DC converter functions as an electric damping device to prevent the high voltage from being applied to the inverter.
+title
+    Electric automobile
+similar_document
+26
+    Publication,Publication Date,Title
+    US9180781B2,2015-11-10,Electric automobile
+    JP5118913B2,2013-01-16,Power supply system, electric vehicle equipped with the same, and control method of power supply system
+    JP5605436B2,2014-10-15,Electric vehicle and control method thereof
+    US10189357B2,2019-01-29,Reduced ripple converter for hybrid drive systems
+    CN102729828B,2014-12-24,Power supply apparatus and method of controlling same
+    CN109070761B,2021-09-17,Switchable reservoir system for a vehicle
+    US10500959B2,2019-12-10,Single supply hybrid drive resonant gate driver
+    EP2428388A1,2012-03-14,Power supply system and vehicle equipped with power supply system
+    WO2007148531A1,2007-12-27,Vehicle power supply apparatus and vehicle incorporating the same
+    JP5407752B2,2014-02-05,Vehicle power supply system and vehicle equipped with the same
+    US10232719B2,2019-03-19,Electric vehicle and vehicle power feeding method
+    CN104487280A,2015-04-01,Vehicle, power source system, and control method of power source system
+    US20120262096A1,2012-10-18,Electric vehicle and operating method of the same
+    US10625622B2,2020-04-21,Power supply device of vehicle
+    JP2013192278A,2013-09-26,Electric vehicle
+    WO2015006389A2,2015-01-15,Techniques for synchronous rectification control of dc-dc converters in electrified vehicles
+    JP6495413B1,2019-04-03,Power system
+    JP6702132B2,2020-05-27,Fuel cell car power supply system
+    JP2010136553A,2010-06-17,Power supply system and electric vehicle loaded therewith
+    JP2016111886A,2016-06-20,Power supply system of vehicle
+    JP5808707B2,2015-11-10,Electric car
+    CN108482102B,2022-11-04,Hybrid power driving system
+    KR102010294B1,2019-08-13,Electric vehicle and operating method of the same
+    JP2019165579A,2019-09-26,Power system of vehicle
+    CN115771415A,2023-03-10,Controlling a DC-DC converter for DC charging
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US14/079,329,2013-11-13,2013-11-13,Electric automobile
+
+inventor_number
+    3
+classfication_nums
+    27
+classfication_items
+153
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,1,0
+    B,6,0,L,5,3,/,1,4
+    B,6,0,L,1,1,/,1,8,0,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,1,4
+    B,6,0,L,1,/,1,6
+    B,6,0,L,1,1,/,1,8,1,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,2,0
+    B,6,0,L,5,3,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B,6,0,L,2,2,1,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B,6,0,L,2,2,1,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,8,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,2,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+
+application_events
+8
+    2013-11-13,Application filed by Honda Motor Co Ltd
+    2013-11-13,Priority to US14/079,329
+    2014-02-05,Assigned to HONDA MOTOR CO., LTD.
+    2015-05-14,Publication of US20150130423A1
+    2015-11-10,Application granted
+    2015-11-10,Publication of US9180781B2
+    Status,Active
+    2034-05-16,Adjusted expiration
+
+active_area
+1
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US14/079,329,2013-11-13,Electric automobile
+
+legal_event
+5
+    Date,Code,Title,Description
+    2014-02-05,AS,Assignment,Owner name: HONDA MOTOR CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:TAJIMA, TAKAMITSU;SHIGENO, KOTARO;REEL/FRAME:032147/0836Effective date: 20131118
+    2015-10-21,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2019-04-25,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+    2023-07-03,FEPP,Fee payment procedure,Free format text: MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+

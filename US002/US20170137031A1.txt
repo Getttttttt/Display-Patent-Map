@@ -1,0 +1,214 @@
+ID
+    US20170137031A1
+citation_exist
+    Patent Citations (29)
+citation_infor
+31
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JPS6046701A                      *,1983-09-26,1985-03-13,Sanyo Electric Co Ltd,Motor-driven vehicle
+    JPS61262005A                      *,1985-05-14,1986-11-20,Nissan Motor Co Ltd,Controller of induction motor for vehicle
+    JP3189981B2                      *,1991-12-05,2001-07-16,本田技研工業株式会社,Electric vehicle braking system
+    US5318355A                      *,1991-12-05,1994-06-07,Honda Giken Kogyo Kabushiki Kaisha,Brake system in electric vehicle
+    JPH05161216A                      *,1991-12-05,1993-06-25,Honda Motor Co Ltd,Speed change controller for motor vehicle
+    JPH05199606A                      *,1992-01-16,1993-08-06,Honda Motor Co Ltd,Break unit for motor vehicle
+    JPH07223532A                      *,1994-02-14,1995-08-22,Toyota Motor Corp,Brake controller for electric automobile
+    CA2182630C                      *,1996-08-02,2003-02-11,Piotr Drozdz,A control system for a hybrid vehicle
+    JP3417453B2                      *,1997-03-27,2003-06-16,三菱自動車工業株式会社,Electric vehicle braking control device
+    JP3536704B2,1999-02-17,2004-06-14,日産自動車株式会社,Vehicle driving force control device
+    US6909200B2,2002-02-28,2005-06-21,Azure Dynamics Inc.,Methods of supplying energy to an energy bus in a hybrid electric vehicle, and apparatuses, media and signals for the same
+    JP2004064840A,2002-07-26,2004-02-26,Nissan Motor Co Ltd,Controlling device for storage system
+    KR100534709B1                      *,2003-12-30,2005-12-07,현대자동차주식회사,Method and apparatus for controlling regenerative braking of electric vehicle
+    JP4228085B2                      *,2007-02-07,2009-02-25,トヨタ自動車株式会社,Vehicle and control method thereof, power output device and control method thereof, and drive device and control method thereof
+    WO2009013891A1                      *,2007-07-25,2009-01-29,Panasonic Corporation,Electric power source device for vehicle
+    JP5131175B2                      *,2008-12-10,2013-01-30,トヨタ自動車株式会社,Electric vehicle and control method thereof
+    JP2010246263A                      *,2009-04-06,2010-10-28,Toyota Motor Corp,Drive unit
+    WO2011021266A1                      *,2009-08-17,2011-02-24,三菱電機株式会社,Power converter for propulsion of electric car
+    JP5263091B2,2009-09-04,2013-08-14,トヨタ自動車株式会社,Brake control device
+    JP2011097666A,2009-10-27,2011-05-12,Toyota Motor Corp,Vehicle and control method therefor
+    JP5273031B2                      *,2009-12-21,2013-08-28,三菱自動車工業株式会社,Control device for right / left driving force adjusting device for vehicle
+    JP5423565B2                      *,2010-04-28,2014-02-19,トヨタ自動車株式会社,Regenerative braking control device
+    CN103328295B                      *,2011-01-21,2016-03-16,日立建机株式会社,The control setup of working truck and working truck
+    WO2012111083A1                      *,2011-02-15,2012-08-23,スズキ株式会社,Control device for vehicle
+    JP5655636B2                      *,2011-03-02,2015-01-21,トヨタ自動車株式会社,Vehicle control device
+    JP2013052830A                      *,2011-09-06,2013-03-21,Toyota Motor Corp,Vehicle
+    KR20140053701A                      *,2012-10-26,2014-05-08,현대자동차주식회사,System for controlling of e-4wd hybrid electricity vehicle and method thereof
+    US9358890B2                      *,2014-01-17,2016-06-07,Ford Global Technologies, Llc,Hybrid vehicle braking system and method
+    CN103818264B                      *,2014-02-26,2016-03-30,浙江工业大学之江学院工业研究院,Electronlmobil regeneration brake system and energy reclaiming method thereof
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (8)
+              
+
+
+citedBy_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20170291494A1                      *,2016-04-06,2017-10-12,Denso Corporation,Electric power generation control device
+    US20200238964A1                      *,2019-01-25,2020-07-30,Advics Co., Ltd.,Brake controller
+    US11376967B2                      *,2016-08-10,2022-07-05,Advics Co., Ltd.,Vehicle brake device
+    Family To Family Citations,,,,
+    DE102017223064A1                      *,2017-12-18,2019-06-19,Audi Ag,Method for controlling a brake system for setting a total braking torque distribution between a first and a second axis of a motor vehicle and a brake system for carrying out the method
+    DE102018206050B4                      *,2018-04-20,2020-01-16,Audi Ag,Method for operating a motor vehicle
+    FR3088880A1                      *,2018-11-28,2020-05-29,Psa Automobiles Sa,METHOD AND DEVICE FOR CONTROLLING MIXED-PHASE DECELERATION, FOR A VEHICLE WITH AUTOMATED DRIVING AND NON-THERMAL DRIVE MACHINE
+    JP6722417B1                      *,2019-02-07,2020-07-15,双葉電子工業株式会社,Motor drive
+    CN110126628B                      *,2019-04-30,2021-11-02,奇瑞汽车股份有限公司,Control method and control device for electric vehicle motor
+
+abstract
+    A vehicle control apparatus is a vehicle control apparatus controlling a vehicle and provided with a regenerative device generating electric power while applying a regenerative braking force by performing regenerative electric power generation, an electric power supply capable of exchanging electric power with the regenerative device, and a hydraulic device applying a hydraulic braking force attributable to a hydraulic pressure, and is provided with an electronic control device controlling the regenerative device and the hydraulic device so as to adjust the ratios of the regenerative braking force and the hydraulic braking force to a required braking force required for the braking of the vehicle based on an input electric power value input into the electric power supply.
+title
+    Vehicle control apparatus for a regenerative braking system based on the battery input power
+similar_document
+26
+    Publication,Publication Date,Title
+    US10239530B2,2019-03-26,Vehicle control apparatus for a regenerative braking system based on the battery input power
+    US8820445B2,2014-09-02,Charge/discharge control device and charge/discharge control method for power storage device, and electric-powered vehicle
+    KR101622525B1,2016-05-18,Hybrid vehicle
+    US9421968B2,2016-08-23,System and method for controlling torque for hybrid vehicle
+    WO2011021266A1,2011-02-24,Power converter for propulsion of electric car
+    JP6227003B2,2017-11-08,Charge / discharge system
+    JP5454987B2,2014-03-26,Fuel cell system
+    US11007893B2,2021-05-18,Control device for electric vehicle and electric vehicle
+    JP6546612B2,2019-07-17,Battery system control device and battery system
+    JP2006312352A,2006-11-16,Control device for driving system
+    US10814739B2,2020-10-27,Multiple storage system and method for operating a multiple storage system
+    JP2010132154A,2010-06-17,Vehicle
+    JP4026013B2,2007-12-26,Torque control device
+    JP6749742B2,2020-09-02,Propulsion system and vehicle driving method
+    JP2019154098A,2019-09-12,Control device
+    WO2019064703A1,2019-04-04,Power regeneration system for work vehicles
+    WO2015071970A1,2015-05-21,Charge/discharge system
+    US20100025135A1,2010-02-04,Vehicle having at least one electric machine which can be operated as a generator
+    JP2019154097A,2019-09-12,Control device
+    JP2014007905A,2014-01-16,Controller for motor drive system
+    JP5411237B2,2014-02-12,Control device for hybrid vehicle
+    KR101157413B1,2012-06-21,Series hybrid electric vehicle and method for controlling power of the same
+    JP5069484B2,2012-11-07,Control device for hybrid vehicle
+    JP2013074793A,2013-04-22,Active switching frequency modulation
+    JP2012244723A,2012-12-10,Charge/discharge controller of power storage device and electric vehicle loading the same
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    11
+classfication_items
+72
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,5
+    B,6,0,T,1,3,/,5,8,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,4
+    B,6,0,T,8,/,5,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B,6,0,W,1,0,/,1,8,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,8
+    B,6,0,W,2,5,1,0,/,0,8,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,8
+    B,6,0,W,2,7,1,0,/,1,8,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2015-06-17,Application filed by Toyota Motor Corp
+    2016-12-20,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2017-05-18,Publication of US20170137031A1
+    2019-03-26,Application granted
+    2019-03-26,Publication of US10239530B2
+    Status,Expired - Fee Related
+    2035-06-17,Anticipated expiration
+
+active_area
+3
+    J,P
+    W,O
+    C,N
+
+not_active_area
+1
+    U,S
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2014-130437,2014-06-25,
+    JP2014130437A,2014-06-25,Vehicle control device
+    PCT/IB2015/000973,2015-06-17,A vehicle control apparatus for a regenerative braking system based on the battery imput power
+
+legal_event
+7
+    Date,Code,Title,Description
+    2016-12-20,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:YAMAGUCHI, TAKUYA;KAWAI, TAKASHI;SIGNING DATES FROM 20161108 TO 20161111;REEL/FRAME:040692/0919
+    2019-03-06,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2022-11-14,FEPP,Fee payment procedure,Free format text: MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2023-05-01,LAPS,Lapse for failure to pay maintenance fees,Free format text: PATENT EXPIRED FOR FAILURE TO PAY MAINTENANCE FEES (ORIGINAL EVENT CODE: EXP.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2023-05-01,STCH,Information on status: patent discontinuation,Free format text: PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362
+    2023-05-23,FP,Lapsed due to failure to pay maintenance fee,Effective date: 20230326
+

@@ -1,0 +1,207 @@
+ID
+    US9835351B1
+citation_exist
+    Patent Citations (18)
+citation_infor
+20
+    Publication number,Priority date,Publication date,Assignee,Title
+    US4217761A                      *,1978-09-28,1980-08-19,Cornaire James L,Heat pump output indicator
+    US5170935A                      *,1991-11-27,1992-12-15,Massachusetts Institute Of Technology,Adaptable control of HVAC systems
+    JP3990143B2,2001-11-13,2007-10-10,株式会社朝日工業社,Outside air cooling system
+    US20080234869A1                      *,2007-03-20,2008-09-25,Kenzo Yonezawa,Remote Performance Monitor and Remote Performance Monitoring Method
+    US20090065173A1                      *,2007-07-16,2009-03-12,Earth To Air Systems, Llc,Direct exchange heating/cooling system
+    US20100094434A1                      *,2007-02-14,2010-04-15,Carrier Corporation,Optimization of air cooled chiller system operation
+    US7797080B2                      *,2004-06-14,2010-09-14,Ogd V-Hvac Inc.,Opto-programmed HVAC controller
+    US7827813B2                      *,2007-01-30,2010-11-09,Johnson Controls Technology Company,Adaptive real-time optimization control
+    US20120173444A1                      *,2011-01-04,2012-07-05,Ory Zik,Method and system for energy efficiency and sustainability management
+    US8543244B2                      *,2008-12-19,2013-09-24,Oliver Joe Keeling,Heating and cooling control methods and systems
+    US8688278B2                      *,2010-01-12,2014-04-01,Honeywell International Inc.,Economizer control
+    JP2014059124A,2012-09-19,2014-04-03,Azbil Corp,Air-conditioning control system and air-conditioning control method
+    US20140244051A1                      *,2011-10-21,2014-08-28,Prime Datum ,Inc a corporation,Direct drive fan system with variable process control
+    US9021820B2                      *,2009-12-17,2015-05-05,Valeo Systemes Thermiques,Optimization of an overall heating capacity of an air conditioning system
+    US20150134124A1                      *,2012-05-15,2015-05-14,Passivsystems Limited,Predictive temperature management system controller
+    US20160054018A1                      *,2013-04-15,2016-02-25,Mitsubishi Electric Building Techno-Service Co., Ltd.,Air-conditioning system control apparatus
+    US20160187896A1                      *,2014-12-24,2016-06-30,Thomas Jones,Intelligent equipment sequencing
+    US20160313020A1                      *,2012-08-17,2016-10-27,Albert Reid Wallace,Hydronic building systems control
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (2)
+              
+
+
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    WO2019110628A1                      *,2017-12-07,2019-06-13,Starklab,System and method for cooling a gas stream by means of an evaporator
+    CN110345593A                      *,2019-08-14,2019-10-18,中原工学院,A kind of large space integrated-type unitary air handling unit
+    CN111256270A                      *,2020-02-19,2020-06-09,符长江,Intelligent fresh air system
+    US20210278100A1                      *,2019-09-18,2021-09-09,Hitachi-Johnson Controls Air Conditioning, Inc.,Air-cooling/heating switching type air-conditioning system and operation control method for same system
+    Family To Family Citations,,,,
+
+abstract
+    An air conditioner controlling method includes: deciding on a supply-air temperature Ts and a return-air temperature Tr as specified design values; deciding that the total heat-exchange efficiency η is zero; selecting two or more stepped levels of the outdoor-air volume percentage α; deriving a linear function which expresses a relation between an outdoor-air temperature To and a mixed-air temperature Tm for each level of the outdoor-air volume percentage α by using the return-air temperature Tr and the total heat-exchange efficiency η; and deciding on the range where the mixed-air temperature Tm is lower than the supply-air temperature Ts for each of the linear functions and the range where the mixed-air temperature Tm in each linear function comes closest to the supply-air temperature Ts as compared with the mixed-air temperatures Tm in the other linear functions.
+title
+    Air conditioner controlling method
+similar_document
+26
+    Publication,Publication Date,Title
+    US11092347B2,2021-08-17,Chilled beam module, system, and method
+    US9835351B1,2017-12-05,Air conditioner controlling method
+    US20020124992A1,2002-09-12,Integrated ventilation cooling system
+    CN100559088C,2009-11-11,A kind of air conditioner in machine room unit
+    CN204730410U,2015-10-28,A kind of full working scope adaptive controller of combined air conditioning box
+    CN101315211A,2008-12-03,Independent humiture-controlled air conditioner
+    CN202310410U,2012-07-04,Air supply control system of machine room equipment
+    CN113137678B,2022-08-30,Floor heating multi-split system and frequency conversion control method thereof
+    CN106440177A,2017-02-22,Fresh air exchange device, air conditioning system and control method
+    Przydróżny et al.,2018,Energy efficient setting of supply air temperature in dual-duct dual-fan ventilation systems with extract air recirculation
+    Zhuang et al.,2019,Optimal design of multi-zone air-conditioning systems for buildings requiring strict humidity control
+    JP5845551B1,2016-01-20,Control method of air conditioner in winter
+    CN201110608Y,2008-09-03,Machinery room air conditioner units
+    Zhuang et al.,2019,Cascade control for supply air temperature in a variable air volume system
+    CN107449119B,2020-05-05,Air flow organization induction enhancing system suitable for air-conditioning room
+    CN111089353A,2020-05-01,Humidity processing system and method for air conditioner
+    JP6170541B2,2017-07-26,Control method of air conditioner
+    Webster et al.,2010,Influence of supply air temperature on underfloor air distribution (UFAD) system energy performance
+    Rasouli et al.,2014,Optimal Control of Energy Recovery Ventilators During Cooling Season.
+    CN207555821U,2018-06-29,A kind of central air-conditioning combines wind cabinet
+    CN105066286A,2015-11-18,Air processing device and control method
+    CN108019880B,2021-05-18,Fresh air volume control method and system
+    Nassif et al.,2005,Simplified model-based optimal control of VAV air-conditioning system
+    CN205119298U,2016-03-30,Air treatment device
+    CN214701042U,2021-11-12,Novel new fan structure
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US15/460,199,2017-03-15,2017-03-15,Air conditioner controlling method
+
+inventor_number
+    4
+classfication_nums
+    17
+classfication_items
+83
+    F,2,4,F,1,1,/,0,0,8
+    F,2,4,F,1,1,/,0,0,1,2
+    F,2,4,F,1,1,/,0,0,6
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,1,1,/,0,0
+    F,2,4,F,1,1,/,6,2
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,1,1,/,0,0
+    F,2,4,F,1,1,/,7,0
+    F,2,4,F,1,1,/,8,0
+    F,2,4,F,1,1,/,8,1
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,1,1,/,0,0
+    F,2,4,F,1,1,/,7,0
+    F,2,4,F,1,1,/,8,0
+    F,2,4,F,1,1,/,8,3
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,1,1,/,0,0
+    F,2,4,F,1,1,/,7,0
+    F,2,4,F,1,1,/,8,0
+    F,2,4,F,1,1,/,8,3
+    F,2,4,F,1,1,/,8,4
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,1,2,/,0,0
+    F,2,4,F,1,2,/,0,0,1
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,3,/,0,0
+    F,2,4,F,3,/,0,4,4
+    F,2,4,F,3,/,0,4,4,2
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,3,/,0,0
+    F,2,4,F,3,/,1,2
+    F,2,4,F,3,/,1,4
+    F,2,4,F,3,/,1,4,1,1
+    F,2,4,F,3,/,1,4,2,3
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,5,/,0,0
+    F,2,4,F,5,/,0,0,0,7
+    F,2,4,F,5,/,0,0,3,5
+    F,2,4,F,2,0,1,1,/,0,0,1,3
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,2,1,1,0,/,0,0
+    F,2,4,F,2,1,1,0,/,1,0
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,2,1,1,0,/,0,0
+    F,2,4,F,2,1,1,0,/,1,0
+    F,2,4,F,2,1,1,0,/,1,2
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,2,2,0,3,/,0,0
+    F,2,4,F,2,2,0,3,/,1,0
+    F,2,4,F,2,2,0,3,/,1,0,4
+    Y
+    Y,0,2
+    Y,0,2,B
+    Y,0,2,B,3,0,/,0,0
+    Y,0,2,B,3,0,/,5,4
+    Y
+    Y,0,2
+    Y,0,2,B
+    Y,0,2,B,3,0,/,0,0
+    Y,0,2,B,3,0,/,5,6
+
+application_events
+7
+    2017-03-15,Application filed by Kojimachi Engineering Co Ltd
+    2017-03-15,Priority to US15/460,199
+    2017-03-15,Assigned to Kojimachi Engineering Co., Ltd.
+    2017-12-05,Application granted
+    2017-12-05,Publication of US9835351B1
+    Status,Active
+    2037-03-15,Anticipated expiration
+
+active_area
+1
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US15/460,199,2017-03-15,Air conditioner controlling method
+
+legal_event
+4
+    Date,Code,Title,Description
+    2017-03-15,AS,Assignment,Owner name: KOJIMACHI ENGINEERING CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:KAGITANI, MICHIO;OKAYASU, ISAO;KOBAYASHI, MUNEMASA;REEL/FRAME:041587/0659Effective date: 20170315
+    2017-11-15,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2021-04-07,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YR, SMALL ENTITY (ORIGINAL EVENT CODE: M2551); ENTITY STATUS OF PATENT OWNER: SMALL ENTITYYear of fee payment: 4
+

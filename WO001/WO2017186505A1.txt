@@ -1,0 +1,269 @@
+ID
+    WO2017186505A1
+citation_exist
+    Patent Citations (7)
+citation_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2003164002A                      *,2001-11-28,2003-06-06,Nissan Motor Co Ltd,電気自動車の回生制動装置
+    EP1683262A1                      *,2003-11-14,2006-07-26,Bernecker+Rainer Industrie-Elektronik Gesellschaft Mbh,Verfahren zum bremsen einer synchronmaschine
+    DE102005058829A1                      *,2005-12-09,2007-06-14,Robert Bosch Gmbh,Aktives Einstellen der Verlustleistung einer elektrischen Maschine im Rekuperationsbetrieb eines Hybrid-Fahrzeugs
+    DE102007038773A1                      *,2007-08-16,2009-03-12,Zf Friedrichshafen Ag,Verfahren zur Durchführung einer zugkraftunterbrochenen Schaltung bei einem parallelen Hybridfahrzeug
+    DE102012024573A1                      *,2012-12-15,2014-06-18,Daimler Ag,Verfahren zum Betrieb einer elektrischen Antriebsmaschine eines Fahrzeugs
+    Family To Family Citations,,,,
+    JP4707750B2,2009-04-24,2011-06-22,三菱電機株式会社,車両の変速機制御装置
+    DE102012208845A1,2012-05-25,2013-11-28,Robert Bosch Gmbh,Fahrzeug mit Rekuperationssystem
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (5)
+              
+
+
+citedBy_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN108382188A                      *,2018-03-27,2018-08-10,中国第汽车股份有限公司,混合动力汽车动力系统及其控制方法
+    CN108674255A                      *,2018-05-22,2018-10-19,张碧陶,新能源汽车的变速机构及控制方法
+    CN109944935A                      *,2017-12-21,2019-06-28,河南森源重工有限公司,一种电动车辆自动降档控制方法和控制系统
+    CN109941285A                      *,2017-12-21,2019-06-28,河南森源重工有限公司,一种电动车辆自动升档控制方法和控制系统
+    Family To Family Citations,,,,
+    DE102019218740A1                      *,2019-12-03,2021-06-10,Psa Automobiles Sa,Kraftfahrzeug
+
+abstract
+    Ein Aspekt der Erfindung betrifft ein Verfahren zum Schalten eines in unterschiedliche Gänge schaltbaren Getriebes für ein Kraftfahrzeug, wobei das Kraftfahrzeug eine elektrische Maschine umfasst, die über eine Kupplung mit dem Eingang eines Getriebes verbunden ist. Gemäß dem Verfahren wird nach Entgegennahme eines Hochschalt-Kommandos zum Schalten des Getriebes in einen höheren Gang die Kupplung zwischen elektrischer Maschine und Getriebe geöffnet, die Drehzahl der elektrischen Maschine reduziert, die Schaltung im Getriebe durchgeführt und die Kupplung wieder geschlossen. Das erfindungsgemäße Verfahren kennzeichnet sich dadurch, dass entschieden wird, ob die Reduktion der Drehzahl der elektrischen Maschine durch deren Betreiben in einer generatorischen, ersten Bremsbetriebsart oder durch deren Betreiben in einer zweiten Bremsbetriebsart mit erhöhter Verlustleistung umgesetzt werden soll.
+title
+    Verfahren und steuervorrichtung zum schalten eines getriebes in einem kraftfahrzeug
+similar_document
+26
+    Publication,Publication Date,Title
+    WO2017186505A1,2017-11-02,Verfahren und steuervorrichtung zum schalten eines getriebes in einem kraftfahrzeug
+    EP2079620B1,2020-10-07,Verfahren zum betreiben eines parallel-hybridantriebs
+    EP2443011A1,2012-04-25,Verfahren und vorrichtung zur bestimmung des beginns einer startphase eines verbrennungsmotors in einem hybridfahrzeug
+    DE102007038585A1,2009-03-19,Verfahren zur Lastpunktverschiebung im Hybridbetrieb bei einem parallelen Hybridfahrzeug
+    DE102007008086A1,2008-09-04,Verfahren zum Betreiben eines Antriebsstranges eines Fahrzeuges während eines Schubbetriebes
+    WO2010089247A1,2010-08-12,Verfahren zum ankoppeln einer brennkraftmaschine eines parallel-hybrid-antriebsstranges
+    WO2017182194A1,2017-10-26,Vorrichtung und verfahren zum ansteuern einer in einem fahrzeug angeordneten synchronmaschine
+    WO2018229140A1,2018-12-20,Verfahren zum ansteuern eines fahrzeugantriebsstrangs
+    DE102005039928B4,2018-12-27,Verfahren zur Steuerung oder Regelung des Antriebssystems beim Anfahren
+    DE102005039929B4,2019-05-16,Verfahren zum Rangieren eines mit einem elektrodynamischen Antriebssystem ausgerüsteten Fahrzeugs
+    EP2621782B1,2018-11-28,Verfahren zum lastfreien öffnen einer trennkupplung
+    DE102010050344A1,2012-05-10,Feldorientierte Regelung einer Drehfeldmaschine
+    DE102006020934A1,2007-11-08,Antriebsstrangvorrichtung eines Fahrzeuges
+    DE102012206157A1,2013-10-17,Steuerungseinrichtung eines Hybridfahrzeugs und Verfahren zum Betreiben desselben
+    DE112013003797B4,2017-07-27,Verfahren zum Betreiben eines Antriebstrangs
+    EP3075620A1,2016-10-05,Verfahren zur durchführung einer gangschaltung bei parallel-hybrid-fahrzeugen
+    DE112019000968T5,2020-11-19,Verfahren und System zum Antrieb eines Elektrofahrzeugs
+    DE19919452B4,2004-11-18,Kraftfahrzeug-Antriebseinrichtung
+    EP2709888A1,2014-03-26,Verfahren zum betreiben eines antriebsstrangs eines hybridfahrzeugs
+    EP3235677B1,2020-10-21,Verfahren zur lagegeberlosen regelung eines elektroantriebs
+    DE102008007995B4,2020-03-12,Antriebseinrichtung und Verfahren zur Steuerung einer Antriebseinrichtung eines Kraftfahrzeugs
+    DE102011088729B4,2022-03-31,Drehzahlfenster basierte Regelstrategie für Elektromaschine
+    DE102017116341A1,2019-01-24,Kupplungseinrichtung, Verfahren zum Starten eines Verbrennungsaggregats, Computerprogramm und Antriebsstrang für ein Kraftfahrzeug
+    WO2018014903A1,2018-01-25,Antriebsstrang für ein hybridfahrzeug ausgelegt zum automatisierten vorwärts- und rückwärtsfahren
+    DE102011002890A1,2012-07-26,Verfahren zur Regelung der Lastpunktverschiebung eines Verbrennungsmotors und zumindest einer elektrischen Maschine mit unterschiedlichem Ansprechverhalten im hybriden Fahrzustand in einem Parallel-Hybrid-Antriebsstrang
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    26
+classfication_items
+163
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,3,/,0,0
+    H,0,2,P,3,/,0,6
+    H,0,2,P,3,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,5,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,3,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,9
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B,6,0,K,2,0,0,6,/,4,8,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,1,0
+    B,6,0,L,2,2,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,8
+    B,6,0,L,2,2,4,0,/,4,8,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,0
+    B,6,0,L,2,2,4,0,/,5,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,2
+    B,6,0,W,2,7,1,0,/,0,2,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,0
+    B,6,0,W,2,7,1,0,/,1,0,0,5
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,6,1,/,0,0
+    F,1,6,H,6,1,/,0,4
+    F,1,6,H,6,1,/,0,4,0,3
+    F,1,6,H,2,0,6,1,/,0,4,2,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+2
+    2017-04-13,Application filed by Bayerische Motoren Werke Aktiengesellschaft
+    2017-11-02,Publication of WO2017186505A1
+
+active_area
+2
+    D,E
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    DE102016207183.1,2016-04-27,
+    DE102016207183.1A,2016-04-27,Verfahren und Steuervorrichtung zum Schalten eines Getriebes in einem Kraftfahrzeug
+
+legal_event
+4
+    Date,Code,Title,Description
+    2018-10-30,NENP,Non-entry into the national phase,Ref country code: DE
+    2018-11-28,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 17717175Country of ref document: EPKind code of ref document: A1
+    2019-05-22,122,Ep: pct application non-entry in european phase,Ref document number: 17717175Country of ref document: EPKind code of ref document: A1
+

@@ -1,0 +1,234 @@
+ID
+    US10625717B2
+citation_exist
+    Patent Citations (25)
+citation_infor
+27
+    Publication number,Priority date,Publication date,Assignee,Title
+    EP0032567A1,1980-01-21,1981-07-29,Knorr-Bremse Ag,Operator's brake valve for indirect pneumatic braking of railway vehicles
+    EP0149493A2,1984-01-17,1985-07-24,Knorr-Bremse Ag,Operator's brake valve for railway vehicles
+    JPH077806A,1993-06-17,1995-01-10,Hitachi Ltd,System for controlling regenerative brake of electric car
+    JPH08251706A,1995-03-10,1996-09-27,Toshiba Transport Eng Kk,Regenerative control device of electric car
+    EP0758591A1                      *,1994-12-06,1997-02-19,Mitsubishi Jidosha Kogyo Kabushiki Kaisha,Braking control device for electric motorcar
+    JPH09135501A,1995-11-06,1997-05-20,Hitachi Ltd,Method for controlling brake in inverter electric railcar
+    JPH09308005A,1996-05-10,1997-11-28,Toshiba Corp,Electric rolling stock controller
+    US5927829A                      *,1995-10-03,1999-07-27,Mitsubishi Jidosha Kogyo Kabushiki Kaisha,Brake apparatus for electric automobile utilizing regenerative braking
+    JP2001028803A,1999-07-13,2001-01-30,Kawasaki Heavy Ind Ltd,Simplified brake system for low-speed working carriage on railroad or the like
+    JP2003092801A,2001-09-20,2003-03-28,Hitachi Ltd,Brake controller for rolling stock
+    US20040054450A1                      *,2002-09-13,2004-03-18,Nissan Motor Co., Ltd.,Coordinated brake control system
+    JP2005033902A,2003-07-10,2005-02-03,Toshiba Corp,Electric vehicle control unit
+    JP2006205912A,2005-01-28,2006-08-10,Toyota Motor Corp,Braking force control device
+    JP2008005620A,2006-06-22,2008-01-10,Toshiba Corp,Control apparatus for electric vehicle
+    US20110278913A1                      *,2010-05-12,2011-11-17,Mando Corporation,Regenerative brake control method
+    JP2012075252A,2010-09-29,2012-04-12,Hitachi Ltd,Brake control device of vehicle and brake control device of multiple unit train
+    WO2015019405A1,2013-08-05,2015-02-12,三菱電機株式会社,Electric vehicle control system and power conversion device
+    JP2015139336A,2014-01-24,2015-07-30,株式会社日立製作所,Automatic train operation device
+    US9616757B2                      *,2014-05-20,2017-04-11,Hyundai Motor Company,Method and apparatus for controlling regenerative braking of vehicle
+    US9669808B2                      *,2011-01-21,2017-06-06,Toyota Jidosha Kabushiki Kaisha,Vehicle engine brake control apparatus
+    Family To Family Citations,,,,
+    JP3821010B2                      *,2002-02-19,2006-09-13,日産自動車株式会社,Braking control device
+    JP2005164010A                      *,2003-12-05,2005-06-23,Toyota Motor Corp,Deceleration control device of vehicle
+    JP2005297855A                      *,2004-04-14,2005-10-27,Toyota Motor Corp,Deceleration control device of vehicle
+    ES2401093T3                      *,2005-09-15,2013-04-16,Mitsubishi Denki Kabushiki Kaisha,Braking control device and braking control method for electric vehicle
+    JP4905037B2                      *,2006-10-02,2012-03-28,株式会社アドヴィックス,Brake control device for vehicle
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (2)
+              
+
+
+citedBy_exist
+    
+              Cited By (12)
+              
+
+
+citedBy_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    CN109572654B                      *,2017-09-29,2021-08-10,株洲中车时代电气股份有限公司,Impact rate control method based on traction braking fusion control system
+    CN108583290A                      *,2018-03-29,2018-09-28,西安科技大学,A kind of energy-recuperation system and method for monorail crusing robot
+    CN111252048B                      *,2018-11-30,2021-04-20,比亚迪股份有限公司,Method and device for controlling vehicle brake, storage medium and vehicle
+    DE112019007996T5                      *,2019-12-25,2022-10-13,Mitsubishi Electric Corporation,BRAKE CONTROL DEVICE, DRIVE CONTROL SYSTEM AND BRAKE CONTROL METHOD
+    CN111806241B                      *,2020-06-28,2022-02-18,同济大学,Method for determining regenerative electric energy recovery space of rail transit train
+    CN112758094B                      *,2021-01-04,2023-01-06,重庆长安汽车股份有限公司,Safe parking device and method for driving assistance system
+    JP2022125595A                      *,2021-02-17,2022-08-29,株式会社豊田自動織機,Industrial vehicle braking control device
+    CN113335243B                      *,2021-07-01,2022-07-01,中车制动系统有限公司,Braking force control method and device
+    CN113580953A                      *,2021-08-10,2021-11-02,安徽云乐新能源汽车有限公司,Electric control type braking and parking integrated system applied to automatic driving
+    CN114103894B                      *,2021-12-10,2023-02-03,中国第一汽车股份有限公司,Braking torque coordination method and device and vehicle
+    DE102021214407A1                      *,2021-12-15,2023-06-15,Siemens Mobility GmbH,Method of operating a vehicle
+    CN114537361B                      *,2022-03-22,2022-11-08,中车制动系统有限公司,Brake control system component failure prediction method
+
+abstract
+    A brake control device includes a mechanical brake output determination unit configured to determine the stage number of a braking force on the basis of a target deceleration of a moving body from one or a plurality of braking force stages output from a mechanical brake included in the moving body, a mechanical braking force estimation unit configured to estimate braking force of the mechanical brake corresponding to the stage number determined by the mechanical brake output determination unit, and a regenerative brake control unit configured to output a regenerative brake command value such that a regenerative brake included in the moving body outputs a braking force corresponding to a difference between target braking force based on the target deceleration and the braking force estimated by the mechanical braking force estimation unit.
+title
+    Brake control device, brake control method, train, and program
+similar_document
+26
+    Publication,Publication Date,Title
+    US10625717B2,2020-04-21,Brake control device, brake control method, train, and program
+    KR101256315B1,2013-04-18,Apparatus and method for controlling train speed
+    US9517780B2,2016-12-13,Apparatus for controlling speed in railway vehicles
+    KR20170080168A,2017-07-10,System for controlling speed of railway vehicles considering brake characteristics
+    KR102120290B1,2020-06-08,Control device for electric vehicle and control method for electric vehicle
+    CN112590871B,2022-09-02,Train safety protection method, device and system
+    JP2011205738A,2011-10-13,Automatic train operating device
+    EP3238980B1,2020-10-21,Automatic train operating device, automatic train control method, and program
+    KR102177284B1,2020-11-11,Control method of motor on caliper based on calculated disc temperature
+    EP2623361A1,2013-08-07,Brake control apparatus for vehicle, and brake control apparatus for multi-car train
+    CN104692199A,2015-06-10,Elevator
+    JP5988897B2,2016-09-07,Propulsion control device
+    CN107539298B,2020-06-12,Method and system for controlling air brake of train
+    CN110191829B,2021-09-24,Method for maintaining the total braking force of a train taking into account the available force engagement situation
+    CN112078585B,2022-03-18,Unmanned longitudinal motion control mode switching method, device, equipment and medium
+    JP2011019299A,2011-01-27,Train control device
+    US20170096153A1,2017-04-06,Regenerative power-amount estimation device and brake plan plotting device
+    CN113085807B,2022-02-01,Train braking method and device, electronic equipment and storage medium
+    JP5914374B2,2016-05-11,Automatic train driving device
+    JP2021075233A,2021-05-20,Brake abnormality determination device, brake state storage device, abnormality determination method, abnormality determination program and brake control device
+    US11400905B2,2022-08-02,Vehicle control device, vehicle control method and program
+    JP2004312917A,2004-11-04,Controller for railway vehicle
+    JP6382760B2,2018-08-29,Drive system and electric vehicle
+    KR101428908B1,2014-08-08,Brake control method
+    JP2009261068A,2009-11-05,Train control device
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    5
+classfication_nums
+    17
+classfication_items
+88
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,0,1
+    B,6,0,T,8,/,1,7,0,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,9,/,0,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,2
+    B
+    B,6,1
+    B,6,1,H
+    B,6,1,H,1,1,/,0,0
+    B,6,1,H,1,1,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,4,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,7,5
+
+application_events
+7
+    2016-11-17,Application filed by Mitsubishi Heavy Industries Engineering Ltd
+    2018-05-17,Assigned to Mitsubishi Heavy Industries Engineering, Ltd.
+    2018-11-15,Publication of US20180326953A1
+    2020-04-21,Application granted
+    2020-04-21,Publication of US10625717B2
+    Status,Active
+    2037-01-25,Adjusted expiration
+
+active_area
+5
+    J,P
+    U,S
+    W,O
+    C,N
+    E,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2015-230112,2015-11-25,
+    JP2015230112A,2015-11-25,Brake control device, brake control method, train, and program
+    PCT/JP2016/084102,2016-11-17,Brake control device, brake control method, train, and program
+
+legal_event
+8
+    Date,Code,Title,Description
+    2018-05-17,AS,Assignment,Owner name: MITSUBISHI HEAVY INDUSTRIES ENGINEERING, LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:YANAI, NORITAKA;OKAZAKI, HIROTAKA;WAKASUGI, KAZUYUKI;AND OTHERS;REEL/FRAME:045837/0059Effective date: 20180404Owner name: MITSUBISHI HEAVY INDUSTRIES ENGINEERING, LTD., JAPFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:YANAI, NORITAKA;OKAZAKI, HIROTAKA;WAKASUGI, KAZUYUKI;AND OTHERS;REEL/FRAME:045837/0059Effective date: 20180404
+    2018-05-17,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2018-09-05,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2019-10-18,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2020-01-15,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2020-01-30,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2020-04-01,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

@@ -1,0 +1,238 @@
+ID
+    US8655531B2
+citation_exist
+    Patent Citations (21)
+citation_infor
+23
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH09309484A,1996-05-24,1997-12-02,Suzuki Motor Corp,Control device of vehicle with electric motor
+    US6015021A,1996-08-28,2000-01-18,Sanyo Electric Co., Ltd.,Electrically assisted vehicle
+    JP2001122183A,1999-10-25,2001-05-08,Yamaha Motor Co Ltd,Self-traveling prevention device for motor-assisted vehicle
+    JP2001122180A,1999-10-22,2001-05-08,Yamaha Motor Co Ltd,Small-sized electric vehicle with motor assist function
+    JP2001122181A,1999-10-22,2001-05-08,Yamaha Motor Co Ltd,Small-sized vehicle with motor assist function
+    US6320336B1,1998-10-12,2001-11-20,Sony Corporation,Bicycle with power assisting function
+    JP3306299B2,1996-06-05,2002-07-24,三洋電機株式会社,Electric car
+    JP2002356192A,2001-05-31,2002-12-10,Sanyo Electric Co Ltd,Power-assisted bicycle
+    EP1298050A1,2001-09-28,2003-04-02,Honda Giken Kogyo Kabushiki Kaisha,Indicator of a motor-assisted bicycle
+    JP2004322882A,2003-04-25,2004-11-18,Matsushita Electric Ind Co Ltd,Electrically-powered bicycle
+    JP2005041352A,2003-07-23,2005-02-17,Moric Co Ltd,Torque controlling method for power-assisted bicycle
+    JP2005132274A,2003-10-31,2005-05-26,Moric Co Ltd,Assist control method for electric power assisted bicycle
+    JP2005304283A,2004-03-18,2005-10-27,Sanyo Electric Co Ltd,Motor control unit
+    US20050246152A1,2002-07-05,2005-11-03,Sunstar Giken Kabushiki Kaisha,Motor assisted bicycle providing server system
+    EP1425211B1,2001-09-13,2006-03-01,Sparta B.V.,Cycle with auxiliary propulsion
+    US20080177433A1                      *,2007-01-24,2008-07-24,Matsushita Electric Industrial Co., Ltd.,Motor driver controller for electric bicycle
+    US20110267178A1                      *,2010-04-28,2011-11-03,Shimano Inc.,Bicycle electrical system
+    Family To Family Citations,,,,
+    JP3428795B2                      *,1996-01-22,2003-07-22,本田技研工業株式会社,Battery fuel gauge
+    US5798702A                      *,1996-04-18,1998-08-25,Suzuki Motor Corporation,Residual battery capacity display device for electric vehicle
+    JP3874736B2                      *,2002-09-12,2007-01-31,株式会社シマノ,Bicycle power supply
+    JP2005104258A                      *,2003-09-30,2005-04-21,Shimano Inc,Electrical instrument holder for bicycle
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (23)
+              
+
+
+citedBy_infor
+25
+    Publication number,Priority date,Publication date,Assignee,Title
+    US9925999B2,2015-09-29,2018-03-27,Radio Flyer Inc.,Power assist wagon
+    USD866676S1,2017-11-02,2019-11-12,Radio Flyer Inc.,Foldable wagon
+    US10583852B2,2016-11-02,2020-03-10,Radio Flyer Inc.,Foldable wagon
+    Family To Family Citations,,,,
+    JP5149938B2                      *,2010-06-11,2013-02-20,株式会社シマノ,Bicycle hub with built-in motor
+    US10086708B2                      *,2011-03-31,2018-10-02,Shimano Inc.,Bicycle component control apparatus
+    US9284016B2                      *,2011-03-31,2016-03-15,Shimano Inc.,Bicycle component control apparatus
+    ITMI20121280A1                      *,2012-07-23,2014-01-24,Campagnolo Srl,INVERTER OF COMMANDS FOR A COMMAND DEVICE FOR A BICYCLE CHANGE
+    GB2505707B                      *,2012-09-11,2015-04-15,Jaguar Land Rover Ltd,A method for controlling an electrical system in a vehicle
+    TWI461928B                      *,2013-01-25,2014-11-21,,
+    JP5960649B2                      *,2013-06-12,2016-08-02,ブリヂストンサイクル株式会社,Bicycle with electric motor
+    US9914501B2                      *,2014-03-18,2018-03-13,Askoll Eva S.R.L.,Battery holder device for electric bicycle
+    TWI568409B                      *,2014-04-23,2017-02-01,立創生醫科技股份有限公司,Physiological parameter measurement and analysis apparatus integrated with bike
+    JP6427433B2                      *,2015-02-03,2018-11-21,マイクロスペース株式会社,Motor drive
+    JP6420199B2                      *,2015-04-28,2018-11-07,株式会社シマノ,Bicycle equipment
+    EP3337722A1,2015-08-25,2018-06-27,Biketec AG,Display unit and electric bicycle
+    DE102015216178B4                      *,2015-08-25,2017-03-23,Biketec Ag,electric bicycle
+    JP6735158B2                      *,2016-06-14,2020-08-05,株式会社シマノ,Bicycle control device
+    JP6894206B2                      *,2016-09-15,2021-06-30,ヤマハ発動機株式会社,Electric auxiliary vehicle
+    JP6841752B2                      *,2017-12-18,2021-03-10,株式会社シマノ,Notification system
+    JP7066498B2,2018-04-24,2022-05-13,株式会社シマノ,Control device for human-powered vehicles
+    JP6947684B2                      *,2018-05-07,2021-10-13,株式会社シマノ,Control device for parts for human-powered vehicles and human-powered vehicles
+    TWI768439B                      *,2020-08-20,2022-06-21,黃湘豪,Non-intruder inspecting and injecting protocol device
+    DE102021121417A1                      *,2020-08-31,2022-03-03,Shimano Inc.,CONTROL DEVICE FOR A HUMAN-PROPELLED VEHICLE, CONTROL SYSTEM FOR A HUMAN-PROPELLED VEHICLE, AND METHOD FOR ADJUSTING THE CONTROL STATE OF THE CONTROL DEVICE
+
+abstract
+    An electrical component control system is provided for controlling a plurality of electrical components that can be installed on an electric bicycle in which human-powered driving is assisted by a motor. The bicycle electrical component control system basically includes a control part that sets a current operation mode from at least three operation modes based on an operating state of each of the electrical bicycle components. The control part controls the electrical bicycle components in accordance with the current operation mode that was selected.
+title
+    Bicycle electrical component control system
+similar_document
+20
+    Publication,Publication Date,Title
+    US8655531B2,2014-02-18,Bicycle electrical component control system
+    US9308964B2,2016-04-12,Bicycle motor control system
+    TWI744395B,2021-11-01,Bicycle control device and bicycle control system containing the device
+    TWI507322B,2015-11-11,Bicycle control device
+    US8749181B2,2014-06-10,Bicycle regenerative brake control device
+    JP5247863B2,2013-07-24,Bicycle control device
+    JP5496158B2,2014-05-21,Bicycle control device
+    US8620551B2,2013-12-31,Bicycle regenerative brake control device
+    JP5237421B2,2013-07-17,Bicycle control device
+    JP5842105B2,2016-01-13,Electric assist bicycle
+    CN105128996A,2015-12-09,Power supply system, electrically assisted system, and electric gear shift system
+    CN105564581A,2016-05-11,Bicycle control apparatus
+    JP2018122666A,2018-08-09,Control device for bicycles and control method of bicycle
+    JP5685635B2,2015-03-18,Bicycle control device
+    JP2010013027A,2010-01-21,Vehicle with assist force
+    CN1182002C,2004-12-29,Vehicle with auxiliary power
+    JPH11245876A,1999-09-14,Human-driven vehicle with auxiliary power
+    JP6781069B2,2020-11-04,Display device for electrically power assisted bicycles and electrically power assisted bicycles
+    JP2023156049A,2023-10-24,Control systems for human-powered vehicles
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    16
+classfication_items
+94
+    B
+    B,6,2
+    B,6,2,M
+    B,6,2,M,6,/,0,0
+    B,6,2,M,6,/,4,0
+    B,6,2,M,6,/,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2011-06-08,Application filed by Shimano Inc
+    2011-06-08,Assigned to SHIMANO INC.
+    2012-12-13,Publication of US20120316710A1
+    2014-02-18,Application granted
+    2014-02-18,Publication of US8655531B2
+    Status,Active
+    2031-09-05,Adjusted expiration
+
+active_area
+5
+    J,P
+    T,W
+    E,P
+    U,S
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2010-134553,2010-06-11,
+    JP2010134553A,2010-06-11,Bicycle electrical component control system
+
+legal_event
+6
+    Date,Code,Title,Description
+    2011-06-08,AS,Assignment,Owner name: SHIMANO INC., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:SAIDA, TAKAO;REEL/FRAME:026408/0534Effective date: 20110607
+    2014-01-29,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2014-12-02,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2017-08-03,FPAY,Fee payment,Year of fee payment: 4
+    2021-08-04,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+

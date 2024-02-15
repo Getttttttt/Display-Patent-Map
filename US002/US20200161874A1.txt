@@ -1,0 +1,249 @@
+ID
+    US20200161874A1
+citation_exist
+    Patent Citations (8)
+citation_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JPH10170293A                      *,1996-12-05,1998-06-26,Nissan Motor Co Ltd,Route searching device for electric automobile
+    JP3536703B2,1999-02-09,2004-06-14,株式会社日立製作所,Hybrid vehicle control method, hybrid vehicle control device, and hybrid vehicle
+    JP3374802B2,1999-09-24,2003-02-10,株式会社日立製作所,Hybrid vehicle
+    US7849944B2                      *,2007-06-12,2010-12-14,Ut-Battelle, Llc,Self-learning control system for plug-in hybrid vehicles
+    JP5458667B2                      *,2009-05-27,2014-04-02,日産自動車株式会社,Battery charging control device for electric vehicle
+    JP2012244784A                      *,2011-05-19,2012-12-10,Fuji Electric Co Ltd,Charger of electric automobile and charging method of electric automobile
+    JP2013005485A                      *,2011-06-13,2013-01-07,Nissan Motor Co Ltd,Charge control device of vehicle battery
+    JP2018129973A                      *,2017-02-10,2018-08-16,本田技研工業株式会社,Charging capacity control system of electric automobile
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (5)
+              
+
+
+citedBy_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20200254992A1                      *,2019-02-11,2020-08-13,Ford Global Technologies, Llc,Lap learning for vehicle energy management optimization
+    US11084395B2                      *,2019-07-01,2021-08-10,Hyundai Motor Company,Battery management system for vehicle, battery management method thereof and vehicle including the same
+    US11453381B2                      *,2019-07-05,2022-09-27,Hyundai Motor Company,Vehicle and method for controlling the same
+    DE102021202989A1,2021-03-26,2022-09-29,Zf Friedrichshafen Ag,Method for operating an exclusively electrically driven motor vehicle and control unit
+    Family To Family Citations,,,,
+    DE102020133118A1                      *,2020-12-11,2022-06-15,Man Truck & Bus Se,Method and device for providing a storage capacity reserve in a traction battery for an upcoming downhill drive
+
+abstract
+    A charging control apparatus: an information acquisition circuit configured to acquire, when a storage battery of a vehicle that is being stopped is charged with the power from the external power supply, location information indicating a current location of the vehicle, and altitude information on surroundings of the current location; a calculation circuit configured to calculate, when a travel route has not been designated, a change amount of a state of charge (SOC) of the storage battery from the current location to at least one predetermined point in the surroundings, based on the location information and the altitude information; and a setting circuit configured to set, based on the calculated change amount of the SOC, a charge amount of the storage battery to be charged with the power from the external power supply.
+title
+    Charging control apparatus for vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US11108259B2,2021-08-31,Charging control apparatus for vehicle
+    US8829848B2,2014-09-09,Battery charging control device and battery charging control method for electric vehicle
+    CN105270412B,2019-06-28,It is predicted using the dump energy driving range of kinetic energy change compensation
+    US20180105060A1,2018-04-19,Systems and methods for charging a battery
+    KR101864197B1,2018-06-04,Electrical vehicle charging system and method for controlling thereof
+    US8148952B2,2012-04-03,Control strategy for HV battery equalization charge during driving operation in fuel cell hybrid vehicles
+    US20170361729A1,2017-12-21,Method and arrangement for determining a value of the state of energy of a battery in a vehicle
+    JP6853805B2,2021-03-31,Electric vehicle
+    JP2002171603A,2002-06-14,Control device for hybrid vehicle
+    US20200062126A1,2020-02-27,Autonomous vehicle route planning
+    US20210215493A1,2021-07-15,Vehicle loading feedback for bev performance
+    KR20110041994A,2011-04-22,Power supply and a vehicle having the same, and method for controlling charge and discharge of power supply
+    KR20150116248A,2015-10-15,System and method of controling driving for electric vehicle
+    CN111776024B,2022-11-22,Auxiliary parking area position determining method and related device
+    EP1925494A2,2008-05-28,Energy management for hybrid energy railway vehicle
+    JP2009071986A,2009-04-02,Calculation device for deterioration degree of in-vehicle battery
+    KR20170011162A,2017-02-02,Method and apparatus of controlling output voltage of dc converter for vehicle including driving motor
+    US20220289065A1,2022-09-15,Management system, management program, and electric vehicle
+    CN110650863A,2020-01-03,Method and apparatus for balancing battery pack
+    JP6673166B2,2020-03-25,vehicle
+    US11260771B2,2022-03-01,Vehicle power supply system
+    US20190299796A1,2019-10-03,Vehicle power supply system
+    US20200116797A1,2020-04-16,Derivation device, derivation method, and storage medium
+    JP2018023243A,2018-02-08,Electric vehicle
+    CN104053572A,2014-09-17,Electrical charging/discharging controller, charging control method, discharging control method, and program
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    22
+classfication_items
+134
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,3
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,1,0
+    B,6,0,L,5,3,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,5,0,/,0,0
+    H,0,2,J,5,0,/,1,0
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,4,7
+    H,0,2,J,7,/,0,0,4,8
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,7
+    H,0,2,J,7,/,0,0,7,1
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,2
+    H,0,2,J,7,/,0,4
+    H,0,2,J,7,/,0,4,2
+    H,0,2,J,7,/,0,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,2
+    B,6,0,L,2,2,4,0,/,6,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B,6,0,L,2,2,4,0,/,6,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,5,0
+    B,6,0,L,2,2,6,0,/,5,2
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,2,3,1,0,/,0,0
+    H,0,2,J,2,3,1,0,/,4,0
+    H,0,2,J,2,3,1,0,/,4,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+6
+    2019-11-08,Application filed by Toyota Motor Corp
+    2020-05-21,Publication of US20200161874A1
+    2021-08-31,Application granted
+    2021-08-31,Publication of US11108259B2
+    Status,Active
+    2039-12-27,Adjusted expiration
+
+active_area
+3
+    J,P
+    U,S
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2018216030A,2018-11-16,Charge control device of vehicle
+    JP2018-216030,2018-11-16,
+    JPJP2018-216030,2018-11-16,
+
+legal_event
+6
+    Date,Code,Title,Description
+    2019-11-08,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2021-02-24,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2021-04-28,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2021-05-10,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2021-08-11,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

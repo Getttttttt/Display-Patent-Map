@@ -1,0 +1,297 @@
+ID
+    US9975449B2
+citation_exist
+    Patent Citations (17)
+citation_infor
+19
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2007186081A,2006-01-13,2007-07-26,Nissan Motor Co Ltd,Drive device of hybrid vehicle
+    JP2008131830A,2006-11-24,2008-06-05,Nissan Motor Co Ltd,Power supplying apparatus in vehicle
+    JP2009018719A,2007-07-12,2009-01-29,Honda Motor Co Ltd,Control device for hybrid car
+    US20090315392A1                      *,2006-07-06,2009-12-24,Toyota Jidosha Kabushiki Kaisha,Power Supply System and Vehicle Including the Same
+    JP2010093981A,2008-10-09,2010-04-22,Toyota Motor Corp,Power supply system
+    US20100133913A1                      *,2007-07-25,2010-06-03,Toyota Jidosha Kabushiki Kaisha,Control device and control method for electric system
+    US20100217466A1                      *,2007-08-10,2010-08-26,Toyota Jidosha Kabushiki Kaisha,Power supply system, vehicle provided with the same and control method of power supply system
+    JP2010259220A,2009-04-24,2010-11-11,Toyota Motor Corp,Power supply system, electric vehicle with the same, and method of controlling power supply system
+    WO2011102082A1,2010-02-17,2011-08-25,富士電機システムズ株式会社,Power conversion apparatus
+    WO2011125187A1,2010-04-07,2011-10-13,トヨタ自動車株式会社,Hybrid-vehicle control device and hybrid vehicle provided therewith
+    JP2012095418A,2010-10-26,2012-05-17,Sharp Corp,Dc power supply system
+    JP2013031238A,2011-07-27,2013-02-07,Mitsubishi Electric Corp,Power conversion device
+    JP2013169140A,2013-03-28,2013-08-29,Toyota Motor Corp,Electrical power system, electric vehicle provided with the same and control method for the same
+    JP2013240177A,2012-05-14,2013-11-28,Mitsubishi Electric Corp,Vehicular power system
+    JP2014144193A                      *,2013-01-30,2014-08-14,Nt Mechatronics Co Ltd,Knockdown stand
+    Family To Family Citations,,,,
+    JP4254693B2                      *,2004-11-08,2009-04-15,トヨタ自動車株式会社,Driving device and automobile equipped with the same
+    JP2012090421A                      *,2010-10-19,2012-05-10,Toyota Motor Corp,Power supply system
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (13)
+              
+
+
+citedBy_infor
+15
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20190257234A1                      *,2016-11-07,2019-08-22,Ihi Corporation,Exhaust gas energy recovery device
+    US11046191B2,2016-12-28,2021-06-29,Mitsubishi Electric Corporation,Drive system and drive control method
+    Family To Family Citations,,,,
+    SE538656C2                      *,2014-10-30,2016-10-11,Scania Cv Ab,Method and system for switching from a first power supply path to a second power supply path
+    BR112017027795B1                      *,2015-06-23,2022-10-04,Nissan Motor Co., Ltd,INVERTER WITH LOADING CAPACITY
+    CN107306087B                      *,2016-04-20,2019-07-02,台达电子企业管理（上海）有限公司,A kind of twin-stage converter and its control method
+    WO2019181030A1                      *,2018-03-20,2019-09-26,株式会社日立製作所,Composite power storage system
+    JP6954205B2                      *,2018-03-28,2021-10-27,トヨタ自動車株式会社,Power converter
+    US10581363B2,2018-06-22,2020-03-03,Ford Global Technologies, Llc,Isolated dual bus hybrid vehicle drivetrain
+    JP7024667B2                      *,2018-08-30,2022-02-24,トヨタ自動車株式会社,Vehicle power system
+    JP6902061B2                      *,2019-02-19,2021-07-14,矢崎総業株式会社,Power distribution system
+    JP2021164188A                      *,2020-03-30,2021-10-11,本田技研工業株式会社,Power supply system and electric vehicle
+    JP7196877B2                      *,2020-05-01,2022-12-27,株式会社デンソー,power converter
+    DE102021114455A1                      *,2020-06-05,2021-12-09,Casco Products Corporation,Power supply
+
+abstract
+    A power convertor including an inverter driving a motor generator, a first DC/DC converter connected to a DC bus of the inverter, a second DC/DC converter varying voltage of the DC bus, and a control device controlling the inverter, the first DC/DC converter, and the second DC/DC converter. The power converter is a power conversion device setting voltage of the DC bus in a second control state higher than a voltage of the DC bus in a first control state by controlling the second DC/DC converter according to the control device. By setting the voltage of the DC bus of the inverter to a low voltage when it is not necessary, it is possible to reduce loss in the inverter and the step-down DC/DC converter, and to downsize the inverter and the step-down DC/DC converter.
+title
+    Power conversion device
+similar_document
+26
+    Publication,Publication Date,Title
+    US9975449B2,2018-05-22,Power conversion device
+    JP6567830B2,2019-08-28,Vehicle propulsion system having a multi-channel DC bus and method of manufacturing the same
+    US10358041B2,2019-07-23,Electric vehicle
+    US8994318B2,2015-03-31,Electrical on-board network and method for operating an electrical on-board network
+    CN108306488B,2021-10-26,Variable voltage converter for obtaining lower minimum step-up ratio
+    KR20100062951A,2010-06-10,Auxiliary drive apparatus and method of manufacturing same
+    JP2016195530A,2016-11-17,Multi-source energy storage system and method for energy management and control
+    CN113711457A,2021-11-26,Conversion device, conversion system, switching device, vehicle including these devices, and control method
+    JP2017154579A,2017-09-07,Vehicle power supply device
+    JP2020099103A,2020-06-25,Battery charge controller for vehicle
+    CN113270932A,2021-08-17,Vehicle power conversion apparatus and method
+    JP2004229461A,2004-08-12,Charge controller and vehicle
+    KR102008751B1,2019-08-12,Vehicle power control device
+    JP4329454B2,2009-09-09,Electric vehicle system
+    KR102063921B1,2020-01-08,Vehicle power control device
+    KR102008753B1,2019-08-09,Vehicle power control device
+    KR102008752B1,2019-08-12,Vehicle power control device
+    US11394300B2,2022-07-19,Power supply
+    KR102008747B1,2019-08-12,Vehicle power control device
+    KR102008749B1,2019-08-12,Vehicle power control device
+    KR102119850B1,2020-06-17,Apparatus for entering limp-home mode of green vehicle and method for thereof
+    KR102008746B1,2019-08-12,Vehicle power control device
+    KR102008748B1,2019-08-12,Vehicle power control device
+    KR102008750B1,2019-08-12,Vehicle power control device
+    JP2022107885A,2022-07-25,Power system of vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    26
+classfication_items
+162
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,3
+    B,6,0,L,1,1,/,1,8,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,1,4
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H,0,2,M,3,/,0,2
+    H,0,2,M,3,/,0,4
+    H,0,2,M,3,/,1,0
+    H,0,2,M,3,/,1,4,5
+    H,0,2,M,3,/,1,5,5
+    H,0,2,M,3,/,1,5,6
+    H,0,2,M,3,/,1,5,8
+    H,0,2,M,3,/,1,5,8,8
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,4,2
+    H,0,2,M,7,/,4,4
+    H,0,2,M,7,/,4,8
+    H,0,2,M,7,/,5,3
+    H,0,2,M,7,/,5,3,7
+    H,0,2,M,7,/,5,3,8,7
+    H,0,2,M,7,/,5,3,8,7,1
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,7,/,0,0
+    H,0,2,P,2,7,/,0,4
+    H,0,2,P,2,7,/,0,6
+    H,0,2,P,2,7,/,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,9
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,8,0
+    Y,0,2,T,1,0,/,9,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+
+application_events
+7
+    2016-01-14,Application filed by Mitsubishi Electric Corp
+    2017-04-10,Assigned to MITSUBISHI ELECTRIC CORPORATION
+    2017-10-26,Publication of US20170305298A1
+    2018-05-22,Application granted
+    2018-05-22,Publication of US9975449B2
+    Status,Active
+    2036-01-14,Anticipated expiration
+
+active_area
+5
+    U,S
+    J,P
+    D,E
+    W,O
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2015009148,2015-01-21,
+    JP2015-009148,2015-01-21,
+    PCT/JP2016/050926,2016-01-14,Power conversion device
+
+legal_event
+4
+    Date,Code,Title,Description
+    2017-04-10,AS,Assignment,Owner name: MITSUBISHI ELECTRIC CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:TAKESHIMA, YOSHIHIRO;YAMADA, MASAKI;SIGNING DATES FROM 20170217 TO 20170220;REEL/FRAME:041940/0803
+    2018-05-02,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2021-11-10,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

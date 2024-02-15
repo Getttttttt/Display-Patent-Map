@@ -1,0 +1,224 @@
+ID
+    US20210126270A1
+citation_exist
+    Patent Citations (7)
+citation_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20160114793A1                      *,2014-10-24,2016-04-28,Toyota Jidosha Kabushiki Kaisha,Fuel cell system, fuel cell vehicle, and method for evaluating operational failure of on-off valve
+    Family To Family Citations,,,,
+    JP3864875B2,2002-09-02,2007-01-10,日産自動車株式会社,Failure diagnosis system for supply on / off valve
+    KR100837933B1,2006-11-29,2008-06-13,현대자동차주식회사,Hydrogen Tank Defect Detecting Device And Method thereof For Fuel Cell Vehicle System
+    JP5790564B2,2012-03-26,2015-10-07,アイシン・エィ・ダブリュ株式会社,Solenoid valve control device and abnormality determination method thereof
+    KR20150072665A,2013-12-20,2015-06-30,현대자동차주식회사,Apparatus for detecting opening and closing of pilot operated solenoid valve for hydrogen tank and method for the same
+    KR101734649B1,2015-06-03,2017-05-11,현대자동차주식회사,Method for calculating hydrogen comsumption amount of fuel cell vehicle
+    JP6391625B2                      *,2016-06-03,2018-09-19,本田技研工業株式会社,FUEL CELL SYSTEM AND FUEL CELL SYSTEM FAILURE JUDGMENT METHOD
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    Disclosed is a system for determining a hydrogen supply failure of a fuel cell, the system including: a fuel cell, a plurality of hydrogen tanks having hydrogen, a hydrogen supply line connected to the hydrogen tanks and supplying hydrogen from the hydrogen tanks to the fuel cell, a plurality of tank valves mounted on the hydrogen tanks, respectively, and discharging hydrogen in the hydrogen tanks to the hydrogen supply line when opening, a pressure sensor sensing pressure in the hydrogen supply line, and a determiner determining poor opening of the hydrogen tanks on the basis of pressure information sensed by the pressure sensor.
+title
+    System and method for determining hydrogen supply failure of fuel cell
+similar_document
+26
+    Publication,Publication Date,Title
+    US9664586B2,2017-05-30,System and method for compensating offset of pressure sensor
+    US5826211A,1998-10-20,Electronic controller having excellent control program and control data overwriting capabilities
+    US9150169B2,2015-10-06,Method and system for diagnosing failure of oil pressure sensor
+    US10964964B2,2021-03-30,Method and system for controlling hydrogen supply for fuel cell
+    US20050198002A1,2005-09-08,Data processing device in vehicle control system
+    US10056628B2,2018-08-21,Method for controlling startup of fuel cell vehicle
+    CN103161589A,2013-06-19,System and method for controlling torque of engine
+    US20060238024A1,2006-10-26,Brake control apparatus and brake control method
+    CN101777024B,2012-09-05,Data moving method and system utilizing the same
+    US10938043B2,2021-03-02,Restarting system, controller and restarting method for fuel cell vehicle
+    CN101922369A,2010-12-22,Fuel injection controller
+    JP2002151126A,2002-05-24,Fuel cell system for vehicle
+    US11489180B2,2022-11-01,System and method for determining hydrogen supply failure of fuel cell
+    US8448625B2,2013-05-28,Method of pilot injection control and system thereof
+    JP4069481B2,2008-04-02,Vehicle behavior estimation device
+    US9612175B2,2017-04-04,Method and system for setting offset of oil pressure sensor
+    US20050120281A1,2005-06-02,Electronic control unit
+    US10876489B2,2020-12-29,Method and system of correcting fuel injection quantity of vehicle
+    US20070239332A1,2007-10-11,Vehicular electronic control device
+    US20170058814A1,2017-03-02,Fuel management system for hybrid vehicle and control method thereof
+    CN110979037A,2020-04-10,Air compressor control method and system of hybrid power vehicle and storage medium
+    EP3178683B1,2021-09-01,Method and apparatus for controlling a compressor of a vehicle air conditioning system
+    US8341343B2,2012-12-25,Controller
+    US11757113B2,2023-09-12,Method and system for correcting offset of hydrogen pressure sensor
+    CN112460479A,2021-03-09,Detection method, device, medium and system for hydrogen cylinder of hydrogen energy automobile and automobile
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    5
+classfication_nums
+    17
+classfication_items
+118
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,9,8
+    H,0,1,M,8,/,0,4,3,1,3
+    H,0,1,M,8,/,0,4,3,8
+    H,0,1,M,8,/,0,4,4,2,5
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,9,8
+    H,0,1,M,8,/,0,4,3,1,3
+    H,0,1,M,8,/,0,4,6,6,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,5,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,7,0
+    B,6,0,L,5,0,/,7,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,0,8,2
+    H,0,1,M,8,/,0,4,2,0,1
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,9,8
+    H,0,1,M,8,/,0,4,3,1,3
+    H,0,1,M,8,/,0,4,3,8
+    H,0,1,M,8,/,0,4,3,8,8
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,9,8
+    H,0,1,M,8,/,0,4,3,1,3
+    H,0,1,M,8,/,0,4,3,8
+    H,0,1,M,8,/,0,4,4,3,2
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,9,8
+    H,0,1,M,8,/,0,4,3,1,3
+    H,0,1,M,8,/,0,4,6,6,4
+    H,0,1,M,8,/,0,4,6,8,6
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,9,8
+    H,0,1,M,8,/,0,4,6,9,4
+    H,0,1,M,8,/,0,4,7,4,6
+    H,0,1,M,8,/,0,4,7,5,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,5,0
+    B,6,0,L,2,2,6,0,/,5,2
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,2,2,5,0,/,0,0
+    H,0,1,M,2,2,5,0,/,2,0
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,3,0
+    Y,0,2,E,6,0,/,3,2
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,3,0
+    Y,0,2,E,6,0,/,5,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,4,0
+
+application_events
+7
+    2020-03-24,Application filed by Hyundai Motor Co, Kia Motors Corp
+    2020-03-24,Assigned to KIA MOTORS CORPORATION, HYUNDAI MOTOR COMPANY
+    2021-04-29,Publication of US20210126270A1
+    2022-11-01,Application granted
+    2022-11-01,Publication of US11489180B2
+    Status,Active
+    2040-11-20,Adjusted expiration
+
+active_area
+4
+    K,R
+    U,S
+    C,N
+    D,E
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    KR1020190131887A,2019-10-23,Dicision system and dicision method of fuel cell hydrogen supply failure
+    KR10-2019-0131887,2019-10-23,
+
+legal_event
+9
+    Date,Code,Title,Description
+    2020-03-24,AS,Assignment,Owner name: HYUNDAI MOTOR COMPANY, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:MIN, BOUNG HO;LEE, DONG HUN;KWON, SOON WOO;REEL/FRAME:052216/0877Effective date: 20200221Owner name: KIA MOTORS CORPORATION, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:MIN, BOUNG HO;LEE, DONG HUN;KWON, SOON WOO;REEL/FRAME:052216/0877Effective date: 20200221
+    2020-03-24,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2020-06-17,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2022-01-18,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2022-04-15,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2022-07-25,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2022-09-27,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2022-10-12,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

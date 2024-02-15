@@ -1,0 +1,268 @@
+ID
+    JP2021146929A
+citation_exist
+    Patent Citations (15)
+citation_infor
+17
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2020023313A                      *,2018-08-02,2020-02-13,三菱自動車工業株式会社,ハイブリッド車両の表示装置
+    Family To Family Citations,,,,
+    JP4667881B2,2005-01-21,2011-04-13,三菱電機株式会社,車両ブレーキ情報表示装置
+    JP4725530B2                      *,2007-02-20,2011-07-13,トヨタ自動車株式会社,車両の表示装置
+    JP5374934B2                      *,2008-06-20,2013-12-25,トヨタ自動車株式会社,走行制御装置
+    US20110302078A1                      *,2010-06-02,2011-12-08,Bryan Marc Failing,Managing an energy transfer between a vehicle and an energy transfer system
+    JP5612694B2                      *,2010-08-06,2014-10-22,齋 石田,車両評価装置、並びに車両評価システム
+    JP5858260B2                      *,2012-02-22,2016-02-10,トヨタ自動車株式会社,車両用遠隔制御システム、サーバー、および、遠隔操作端末
+    US9124109B2                      *,2012-03-30,2015-09-01,Toyota Motor Engineering & Manufacturing North America, Inc.,Console assembly with charging state indicator
+    JP5929956B2                      *,2014-04-22,2016-06-08,トヨタ自動車株式会社,ハイブリッド車両の制御装置
+    JP6701662B2,2015-10-07,2020-05-27,三菱自動車工業株式会社,電動車の回生制動制御装置
+    US20170136914A1                      *,2015-11-17,2017-05-18,Johnson Controls Technology Company,Systems and methods for visualizing battery data
+    JP6856885B2,2016-03-22,2021-04-14,三菱自動車工業株式会社,電動車両
+    CN107305372B                      *,2016-04-25,2020-06-19,岳秀兰,云计算网络架构的远程监控的电动汽车能源监控和补给网
+    JP6620126B2                      *,2017-06-16,2019-12-11,本田技研工業株式会社,ハイブリッド車両
+    JP2019143539A,2018-02-21,2019-08-29,本田技研工業株式会社,車両
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    【課題】出力指標、回生指標に対するユーザの認知性、視認性を向上する。【解決手段】制御装置が、移動体の状態を示す計器を制御する。計器は、連続的に視認される線状又は帯状の形状を有する第１オブジェクトと、出力エネルギー量に関する指標である出力指標の現在値を示す第２オブジェクトと、回生エネルギー量に関する指標である回生指標の現在値を示す第３オブジェクトとを有する。第１オブジェクト上の一部の領域には、当該領域上の位置により出力指標の現在値が示される出力領域が形成され、第１オブジェクト上の出力領域とは異なる領域には、当該領域上の位置により回生指標の現在値が示される回生領域が形成される。表示制御部は、駆動情報より示される出力エネルギー量に基づいて、第２オブジェクトの表示を制御し、駆動情報より示される回生エネルギー量に基づいて、第３オブジェクトの表示を制御する。【選択図】図１
+title
+    制御装置、移動体、及び、プログラム
+similar_document
+26
+    Publication,Publication Date,Title
+    CN103630142B,2017-06-09,对地图数据进行处理以确定节能路线的方法和装置
+    US8068974B2,2011-11-29,Methods and systems for determining driver efficiency and operating modes in a hybrid vehicle
+    CN104080683B,2016-10-19,减速因素推定装置以及驾驶辅助装置
+    JP2009025128A,2009-02-05,地図表示装置、地図表示方法及びコンピュータプログラム
+    WO2015195906A1,2015-12-23,Vehicle information display system and methods
+    JP2010127678A,2010-06-10,走行案内装置、走行案内方法及びコンピュータプログラム
+    CN110281932A,2019-09-27,行驶控制装置、车辆、行驶控制系统、行驶控制方法以及存储介质
+    JP7083366B2,2022-06-10,制御装置、移動体、及び、プログラム
+    CN108340904A,2018-07-31,用于控制混合动力车辆的行驶的系统和方法
+    CN109710658A,2019-05-03,自动驾驶评测方法、装置及设备
+    CN110304060A,2019-10-08,车辆控制装置以及车辆控制方法
+    JP2021146929A,2021-09-27,制御装置、移動体、及び、プログラム
+    JP2016001970A,2016-01-07,車載電池の充放電表示装置
+    CN111717312B,2021-06-25,车辆转向控制方法、系统、装置、终端设备及存储介质
+    CN109878506A,2019-06-14,车辆控制系统、车辆控制方法及存储介质
+    US11491881B2,2022-11-08,Method and system for guiding accelerator pedal of electric vehicle
+    JP7085580B2,2022-06-16,制御装置、移動体、及び、プログラム
+    Lee et al.,2014,Mode confusion in driver interfaces for adaptive cruise control systems
+    US20220169233A1,2022-06-02,Control apparatus
+    CN108454513A,2018-08-28,用于动态发动机声音增强的系统和方法
+    WO2019034233A1,2019-02-21,SYSTEM AND METHOD FOR VEHICLE MODELING AND SIMULATION
+    CN109969164B,2023-04-18,惯性行驶引导装置及控制方法
+    CN108556849A,2018-09-21,车身姿态模拟装置设计方法与极限工况计算方法和装置
+    US20180222321A1,2018-08-09,System and method for hosting applications in a graphical instrument
+    Allison et al.,2018,Inception, ideation and implementation: developing interfaces to improve drivers’ fuel efficiency
+
+patent_application
+    NoExist
+patent_priority_application
+4
+    Application,Priority date,Filing date,Title
+    JP2020049782A,2020-03-19,2020-03-19,制御装置、移動体、及び、プログラム
+    CN202110161555.4A,2020-03-19,2021-02-05,控制装置、移动体以及计算机可读存储介质
+    US17/190,449,2020-03-19,2021-03-03,Control device, moving body and computer-readable storage medium
+
+inventor_number
+    17
+classfication_nums
+    25
+classfication_items
+148
+    G
+    G,0,6
+    G,0,6,F
+    G,0,6,F,3,/,0,0
+    G,0,6,F,3,/,1,4
+    G,0,6,F,3,/,1,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,/,0,0
+    B,6,0,K,1,/,0,4
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,3,5,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,7,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,7,/,0,0
+    B,6,0,T,1,7,/,1,8
+    B,6,0,T,1,7,/,2,2
+    B,6,0,T,1,7,/,2,2,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,4
+    B,6,0,W,1,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    G
+    G,0,9
+    G,0,9,G
+    G,0,9,G,5,/,0,0
+    G,0,9,G,5,/,3,6
+    G,0,9,G,5,/,3,7
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,2,3,7,0,/,0,0
+    B,6,0,K,2,3,7,0,/,1,5
+    B,6,0,K,2,3,7,0,/,1,5,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,2,3,7,0,/,0,0
+    B,6,0,K,2,3,7,0,/,1,6
+    B,6,0,K,2,3,7,0,/,1,6,9
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,2,3,7,0,/,0,0
+    B,6,0,K,2,3,7,0,/,1,6
+    B,6,0,K,2,3,7,0,/,1,7,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,2,3,7,0,/,0,0
+    B,6,0,K,2,3,7,0,/,1,6
+    B,6,0,K,2,3,7,0,/,1,7,4
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,2,3,7,0,/,0,0
+    B,6,0,K,2,3,7,0,/,1,8
+    B,6,0,K,2,3,7,0,/,1,8,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    G
+    G,0,9
+    G,0,9,G
+    G,0,9,G,2,3,4,0,/,0,0
+    G,0,9,G,2,3,4,0,/,0,4
+    G,0,9,G,2,3,4,0,/,0,4,6,4
+    G
+    G,0,9
+    G,0,9,G
+    G,0,9,G,2,3,8,0,/,0,0
+    G,0,9,G,2,3,8,0,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,8,0
+    Y,0,2,T,1,0,/,8,4
+
+application_events
+9
+    2020-03-19,Application filed by Honda Motor Co Ltd
+    2020-03-19,Priority to JP2020049782A
+    2021-02-05,Priority to CN202110161555.4A
+    2021-03-03,Priority to US17/190,449
+    2021-09-27,Publication of JP2021146929A
+    2022-10-27,Application granted
+    2022-10-27,Publication of JP7162025B2
+    Status,Active
+    2040-03-19,Anticipated expiration
+
+active_area
+3
+    J,P
+    C,N
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2020049782A,2020-03-19,制御装置、移動体、及び、プログラム
+
+legal_event
+10
+    Date,Code,Title,Description
+    2020-11-27,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20201127
+    2021-11-16,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20211116
+    2022-01-14,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20220114
+    2022-04-26,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20220426
+    2022-06-20,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20220620
+    2022-09-21,TRDD,Decision of grant or rejection written,
+    2022-09-27,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20220927
+    2022-10-19,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20221017
+    2022-10-19,R150,Certificate of patent or registration of utility model,Ref document number: 7162025Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R150
+

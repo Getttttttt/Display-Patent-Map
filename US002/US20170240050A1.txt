@@ -1,0 +1,285 @@
+ID
+    US20170240050A1
+citation_exist
+    Patent Citations (11)
+citation_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    US6793027B1                      *,1999-08-27,2004-09-21,Yamaha Hatsudoki Kabushiki Kaisha,Hybrid drive system
+    US20070054165A1                      *,2003-07-02,2007-03-08,Toyota Jidosha Kabushiki Kaisha,Energy output device and control method of energy output device
+    Family To Family Citations,,,,
+    JP3228097B2                      *,1995-10-19,2001-11-12,株式会社日立製作所,Charging system and electric vehicle
+    US20020117857A1                      *,2001-02-23,2002-08-29,Eckstein Donald B.,Diesel-electric regenerative hydro power cell
+    US6764781B2                      *,2002-02-13,2004-07-20,General Motors Corporation,Intermittent cooling of fuel cell
+    JP2006074870A                      *,2004-08-31,2006-03-16,Nissan Motor Co Ltd,Power supply system for electric automobile
+    JP4806953B2                      *,2005-04-14,2011-11-02,トヨタ自動車株式会社,FUEL CELL SYSTEM, ITS OPERATION METHOD, AND FUEL CELL VEHICLE
+    JP2007157586A                      *,2005-12-07,2007-06-21,Toyota Motor Corp,Fuel cell system and its control method
+    JP2009089536A                      *,2007-10-01,2009-04-23,Toyota Motor Corp,Power supply system
+    JP5308268B2,2009-08-05,2013-10-09,本田技研工業株式会社,Power supply system
+    EP2800183B1,2011-12-28,2018-08-29,Toyota Jidosha Kabushiki Kaisha,Fuel cell system
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (6)
+              
+
+
+citedBy_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2019053836A                      *,2017-09-13,2019-04-04,トヨタ自動車株式会社,Fuel cell system
+    US20190322180A1                      *,2018-04-23,2019-10-24,National Chiao Tung University,Power supply system with hydrogen fuel cell
+    CN111332123A                      *,2020-03-11,2020-06-26,一汽-大众汽车有限公司,Power-on and power-off control system and control method thereof
+    US10862148B2                      *,2017-08-14,2020-12-08,Nissan Motor Co., Ltd.,Vehicle power source system
+    US20220045517A1                      *,2018-09-14,2022-02-10,Wobben Properties Gmbh,Wind farm comprising a stabilization device and a stabilization device
+    Family To Family Citations,,,,
+    JP7155622B2                      *,2018-06-05,2022-10-19,日産自動車株式会社,power supply system
+
+abstract
+    A power supply method carried out in a system that includes a fuel cell, a secondary battery, a motor, and an auxiliary for the fuel cell includes controlling an intermittent operation by which execution and stoppage of power generation by the fuel cell is switched intermittently to supply power to electric power loads including the motor and the auxiliary, determining whether or not an abnormality occurs in the secondary battery during the intermittent operation, instructing the motor to regenerate power on a condition that it is determined that an abnormality occurs in the secondary battery in the determination of whether or not the abnormality occurs, and supplying power, which is obtained by carrying out the regeneration, to the auxiliary.
+title
+    Power supply method and power supply system
+similar_document
+26
+    Publication,Publication Date,Title
+    US10122177B2,2018-11-06,Power supply method and power supply system
+    CN103192729B,2015-09-23,Elec. vehicle
+    US7946365B2,2011-05-24,Control method for fuel cell vehicle, and fuel cell vehicle
+    JP4893804B2,2012-03-07,Vehicle power supply
+    JP5058024B2,2012-10-24,DC / DC converter failure detection method
+    JP4397739B2,2010-01-13,Method for setting voltage state of fuel cell vehicle
+    JP4400669B2,2010-01-20,Fuel cell system
+    US9985446B2,2018-05-29,Vehicle electric power supply control system and vehicle
+    CN102204001B,2013-12-04,Fuel battery system
+    JP5796457B2,2015-10-21,Battery system and battery system control method
+    US9849805B2,2017-12-26,Fuel cell vehicle
+    US10770761B2,2020-09-08,Fuel cell control device, control method thereof, and fuel cell vehicle
+    JP2009059558A,2009-03-19,Fuel cell system
+    CN107492919A,2017-12-19,Power system and its control method
+    WO2008114758A1,2008-09-25,Fuel cell system
+    CN101803089B,2013-03-06,Fuel cell system
+    JP7259751B2,2023-04-18,power supply system
+    JP2018196274A,2018-12-06,Battery system
+    JP4686842B2,2011-05-25,Control method of fuel cell device
+    JP5780126B2,2015-09-16,Fuel cell system
+    JP4871351B2,2012-02-08,Fuel cell vehicle
+    JP2010244980A,2010-10-28,Fuel cell system and electric vehicle mounted with the same
+    CN104272511A,2015-01-07,Fuel cell system
+    US20220024326A1,2022-01-27,Power supply control system and power supply control method
+    JP2009093916A,2009-04-30,Fuel cell system
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    28
+classfication_items
+167
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,5,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,3,0
+    B,6,0,L,5,8,/,3,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,8
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,6,/,0,0
+    H,0,1,M,1,6,/,0,0,3
+    H,0,1,M,1,6,/,0,0,6
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,9,8
+    H,0,1,M,8,/,0,4,3
+    H,0,1,M,8,/,0,4,3,0,2
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,9,8
+    H,0,1,M,8,/,0,4,3,1,3
+    H,0,1,M,8,/,0,4,6,6,4
+    H,0,1,M,8,/,0,4,6,8,6
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,3,/,0,0
+    H,0,2,J,3,/,3,8
+    H,0,2,J,3,/,3,8,1
+    H,0,2,J,3,/,3,8,7
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,1,4
+    H,0,2,J,7,/,1,4,2,3
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,9,/,0,0
+    H,0,2,J,9,/,0,4
+    H,0,2,J,9,/,0,6
+    H,0,2,J,9,/,0,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,1,0
+    H,0,1,M,2,0,0,8,/,1,0,9,5
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,2,2,2,0,/,0,0
+    H,0,1,M,2,2,2,0,/,2,0
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,2,2,5,0,/,0,0
+    H,0,1,M,2,2,5,0,/,2,0
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,2,3,1,0,/,0,0
+    H,0,2,J,2,3,1,0,/,4,0
+    H,0,2,J,2,3,1,0,/,4,6
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,3,0
+    Y,0,2,E,6,0,/,5,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,4,0
+
+application_events
+7
+    2017-02-17,Application filed by Toyota Motor Corp
+    2017-02-17,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2017-08-24,Publication of US20170240050A1
+    2018-11-06,Application granted
+    2018-11-06,Publication of US10122177B2
+    Status,Active
+    2037-05-20,Adjusted expiration
+
+active_area
+4
+    J,P
+    D,E
+    U,S
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2016-030649,2016-02-22,
+    JP2016030649A,2016-02-22,Power supply method and power supply system
+
+legal_event
+4
+    Date,Code,Title,Description
+    2017-02-17,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:OYA, RYOSUKE;SAITO, HIROMU;REEL/FRAME:041286/0693Effective date: 20161209
+    2018-10-17,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2022-04-20,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

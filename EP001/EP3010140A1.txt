@@ -1,0 +1,225 @@
+ID
+    EP3010140A1
+citation_exist
+    Patent Citations (12)
+citation_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP2004040906A,2002-07-03,2004-02-05,Meidensha Corp,Vector controller for synchronous motor
+    JP2004150931A                      *,2002-10-30,2004-05-27,Honda Motor Co Ltd,Rotation angle detecting device of motor and electric power steering system
+    JP4501448B2                      *,2004-02-17,2010-07-14,トヨタ自動車株式会社,Motor drive device
+    CN101529714B                      *,2006-10-19,2012-11-21,三菱电机株式会社,Vector controller of permanent magnet synchronous motor
+    JP5381117B2                      *,2009-01-21,2014-01-08,株式会社ジェイテクト,Electric power steering device
+    JP4803286B2                      *,2009-07-31,2011-10-26,株式会社デンソー,Vehicle drive motor control device
+    US8487563B2                      *,2009-11-27,2013-07-16,Denso Corporation,Drive motor control apparatus for vehicle, motor control system, method for correcting rotation angle of motor, program for performing the same, rotation detecting apparatus
+    JP5636707B2                      *,2010-03-19,2014-12-10,株式会社デンソーウェーブ,Production equipment control device and production equipment motor stop control method
+    WO2011121792A1,2010-03-29,2011-10-06,トヨタ自動車株式会社,Electric power steering system
+    JP5705585B2,2011-02-25,2015-04-22,Ntn株式会社,Electric car
+    JP5737123B2                      *,2011-10-12,2015-06-17,株式会社デンソー,Rotating machine control device and rotation angle calculation device
+    US8810169B2                      *,2011-10-14,2014-08-19,Deere & Company,Method and system for estimating rotor angle of an electric machine
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    EP3361626A1                      *,2017-02-14,2018-08-15,Konica Minolta, Inc.,Motor controller, image forming apparatus and motor controlling method
+    Family To Family Citations,,,,
+    JP6211353B2                      *,2013-09-03,2017-10-11,Ntn株式会社,Electric vehicle control device
+    CN113824378B                      *,2021-11-19,2022-02-22,天津赛象科技股份有限公司,Nonlinear adaptive AC servo motor angular position control method and system
+
+abstract
+    A control device for an electric vehicle which is able to accurately control a traction motor of the electric vehicle without any delay in control timing during rapid acceleration or rapid deceleration of the motor, is provided. The control device for the electric vehicle includes an ECU (21) and an inverter device (22) including a motor control module (29). A rotation angle sensor (36) configured to detect a rotation angle of a motor (6) is provided, and the motor control module (29) is provided with a rotation angle correction section (38) configured to correct a rotation angle of a rotor of the motor (6) which is used for vector control, by using an angular speed of an electrical angle which is the rotation angle detected by the rotation angle sensor (36) and a differential value of the angular speed of the electrical angle.
+title
+    Electric-vehicle control device
+similar_document
+22
+    Publication,Publication Date,Title
+    US9855858B2,2018-01-02,Control device for electric vehicle
+    EP2034603B1,2011-01-26,Control device and control method of boost converter
+    WO2015080021A1,2015-06-04,Control device for electric vehicle
+    US10017075B2,2018-07-10,Device for controlling electric automobile
+    US9956890B2,2018-05-01,Device for controlling electric automobile
+    US7047116B2,2006-05-16,Electric drive control apparatus, electric drive control method and program therefor
+    US9586484B2,2017-03-07,Electric-vehicle control device
+    US20080056690A1,2008-03-06,Motor control device
+    WO2016052234A1,2016-04-07,Control device for electric vehicle
+    JP2017034785A,2017-02-09,Motor drive unit
+    JP2017017829A,2017-01-19,Left-and-right wheel independent control device of electric automobile
+    JP6772501B2,2020-10-21,Automobile
+    JP2016067147A,2016-04-28,Electric car control device
+    WO2016043077A1,2016-03-24,Vehicle drive control device
+    WO2017126389A1,2017-07-27,Electric motor device
+    JP7091669B2,2022-06-28,Electric vehicle
+    JP2016220271A,2016-12-22,Control device for electric vehicle
+    JP2015035875A,2015-02-19,Controller of electric vehicle
+    JP2015023611A,2015-02-02,Electric vehicle
+    JP2014230384A,2014-12-08,Control device of electric vehicle
+    JP2504224Y2,1996-07-10,Controller for permanent magnet type synchronous motor for vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    18
+classfication_items
+109
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,2
+    B,6,0,L,1,5,/,0,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,1,/,0,0
+    H,0,2,P,2,1,/,1,4
+    H,0,2,P,2,1,/,1,8
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,1,/,0,0
+    H,0,2,P,2,1,/,2,2
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,1,/,0,0
+    H,0,2,P,2,1,/,5,0
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,6,/,0,0
+    H,0,2,P,6,/,1,4
+    H,0,2,P,6,/,1,5
+    H,0,2,P,6,/,1,5,3
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,6,/,0,0
+    H,0,2,P,6,/,1,4
+    H,0,2,P,6,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,8
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,2,0,5,/,0,0
+    H,0,2,P,2,2,0,5,/,0,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+
+application_events
+4
+    2014-06-04,Application filed by NTN Corp, NTN Toyo Bearing Co Ltd
+    2016-04-20,Publication of EP3010140A1
+    2016-12-21,Publication of EP3010140A4
+    Status,Withdrawn
+
+active_area
+3
+    W,O
+    C,N
+    U,S
+
+not_active_area
+2
+    J,P
+    E,P
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2013124312A,2013-06-13,Controller of electric car
+    PCT/JP2014/064827,2014-06-04,Electric-vehicle control device
+
+legal_event
+10
+    Date,Code,Title,Description
+    2016-03-18,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2016-04-20,17P,Request for examination filed,Effective date: 20151207
+    2016-04-20,AK,Designated contracting states,Kind code of ref document: A1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2016-04-20,AX,Request for extension of the european patent,Extension  state: BA ME
+    2016-09-21,DAX,Request for extension of the european patent (deleted),
+    2016-12-21,A4,Supplementary search report drawn up and despatched,Effective date: 20161117
+    2016-12-21,RIC1,Information provided on ipc code assigned before grant,Ipc: H02P  21/00        20160101AFI20161111BHEPIpc: H02P  21/22        20160101ALI20161111BHEPIpc: B60L   9/18        20060101ALI20161111BHEPIpc: B60L   7/14        20060101ALI20161111BHEPIpc: H02P   6/16        20160101ALI20161111BHEPIpc: B60L   7/26        20060101ALI20161111BHEPIpc: B60L  15/02        20060101ALI20161111BHEPIpc: H02P  21/18        20160101ALI20161111BHEPIpc: H02P  27/04        20060101ALI20161111BHEP
+    2017-11-24,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE APPLICATION IS DEEMED TO BE WITHDRAWN
+    2017-12-27,18D,Application deemed to be withdrawn,Effective date: 20170617
+

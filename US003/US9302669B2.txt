@@ -1,0 +1,461 @@
+ID
+    US9302669B2
+citation_exist
+    Patent Citations (16)
+citation_infor
+18
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH0648190A,1992-07-27,1994-02-22,Aqueous Res:Kk,Hybrid type automobile
+    US5620393A                      *,1994-09-02,1997-04-15,Hitachi, Ltd.,Power train controller and control method
+    JPH09284911A,1996-04-08,1997-10-31,Toyota Motor Corp,Driving controller for four wheel driving type hybrid vehicle
+    US5841201A                      *,1996-02-29,1998-11-24,Toyota Jidosha Kabushiki Kaisha,Hybrid vehicle drive system having a drive mode using both engine and electric motor
+    JPH11262105A,1998-03-10,1999-09-24,Honda Motor Co Ltd,Control equipment of hybrid vehicle
+    JP3097559B2,1996-05-27,2000-10-10,トヨタ自動車株式会社,Control device for hybrid vehicle
+    EP1072460A2,1999-07-30,2001-01-31,Honda Giken Kogyo Kabushiki Kaisha,Control system for a hybrid vehicle
+    US20010004029A1                      *,1999-12-20,2001-06-21,Honda Giken Kogyo Kabushiki Kaisha,Control apparatus for hybrid vehicle
+    US20090291801A1                      *,2005-10-26,2009-11-26,Toyota Jidosha Kabushiki Kaisha,Controller of vehicle driving device
+    JP2010120519A,2008-11-19,2010-06-03,Toyota Motor Corp,Device for controlling vehicular power transmission
+    US20100161194A1                      *,2008-12-22,2010-06-24,Gm Global Technology Operations, Inc.,System and method for active traction control of a vehicle
+    DE102010007632A1,2010-02-05,2011-08-11,Dr. Ing. h.c. F. Porsche Aktiengesellschaft, 70435,hybrid vehicle
+    US20120323428A1                      *,2010-03-03,2012-12-20,International Truck Intellectual Property Company Llc,Angular velocity control for hybrid vehicle prime movers
+    Family To Family Citations,,,,
+    JP3578114B2                      *,2001-05-29,2004-10-20,日産自動車株式会社,Acceleration slip detection system for four-wheel drive vehicles
+    JP4527138B2                      *,2007-07-12,2010-08-18,本田技研工業株式会社,Control device for hybrid vehicle
+    CA2872843C                      *,2012-05-10,2016-11-29,Honda Motor Co., Ltd.,Control device for hybrid vehicle
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (3)
+              
+
+
+citedBy_exist
+    
+              Cited By (12)
+              
+
+
+citedBy_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20180281597A1                      *,2017-03-28,2018-10-04,NextEv USA, Inc.,Electric vehicle safety concept using distributed vehicle control units
+    Family To Family Citations,,,,
+    CA2872843C                      *,2012-05-10,2016-11-29,Honda Motor Co., Ltd.,Control device for hybrid vehicle
+    CN104442412B                      *,2013-09-18,2018-01-19,通用电气公司,Device, mobile transporting equipment, electric tractor, electri forklift and associated method
+    JP2015116967A                      *,2013-12-19,2015-06-25,トヨタ自動車株式会社,Hybrid vehicle
+    SE538916C2                      *,2014-01-15,2017-02-14,Scania Cv Ab,Procedure and system for adjusting the performance of a vehicle
+    US9187085B1                      *,2014-04-24,2015-11-17,Ford Global Technologies, Llc,Electric vehicle control based on operating costs associated with power sources
+    JP2016005929A                      *,2014-06-20,2016-01-14,トヨタ自動車株式会社,Vehicular control apparatus
+    JP6428143B2                      *,2014-10-17,2018-11-28,日産自動車株式会社,Control device for hybrid vehicle
+    US10286948B2                      *,2015-12-17,2019-05-14,Continental Automotive Systems, Inc.,Arrangement and method for preventing false detection of electronic stability control primary circuit loss
+    JP6888528B2                      *,2017-11-20,2021-06-16,トヨタ自動車株式会社,Hybrid vehicle control device
+    DE102017221738A1,2017-12-03,2019-06-06,Audi Ag,Method for adjusting power electronics
+    CN112298156A                      *,2020-10-16,2021-02-02,武汉格罗夫氢能汽车有限公司,Anti-misoperation gear management system and method for fuel cell hydrogen energy automobile
+
+abstract
+    Provided is a control device for a hybrid vehicle, which makes it possible to manually select a degree of acceleration in tune with user's preferences and user's intended running quality. Provided is a control device for a hybrid vehicle 1 including an engine and a motor for assisting the engine with power, in which an ECU 20 is provided with a first changing unit, which prepares to increase the assist amount of the motor 12 in response to a user depressing a Plus Sport mode switch 30, and subsequently increases the assist amount of the motor 12 in response to the user pressing an accelerator pedal to cause a variation ΔAP in an accelerator position to be at least a predetermined value.
+title
+    Control device for hybrid vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US9302669B2,2016-04-05,Control device for hybrid vehicle
+    JP4655723B2,2011-03-23,Vehicle and control method thereof
+    US8007401B2,2011-08-30,Hybrid vehicle drive control apparatus and method
+    EP2468598B1,2019-05-08,Vehicle and control method therefor
+    US10138818B2,2018-11-27,Internal combustion engine control system
+    JP5338351B2,2013-11-13,Control device for hybrid vehicle
+    JP2001025109A,2001-01-26,Motor torque controller of electric vehicle
+    EP2247479A1,2010-11-10,Control apparatus and method for controlling a hybrid vehicle
+    CN108725421B,2021-05-14,Vehicle driving force control device
+    US9227620B2,2016-01-05,Engine start control device and engine start control method for hybrid electric vehicle
+    JP5825081B2,2015-12-02,Control device for hybrid vehicle
+    JP2020100360A,2020-07-02,Torque control device of four wheel drive vehicle
+    US20150375745A1,2015-12-31,Vehicle control device
+    JP2016144977A,2016-08-12,Vehicle control system
+    JP7302242B2,2023-07-04,hybrid vehicle
+    US8419591B2,2013-04-16,Vehicle drive system
+    JP3572868B2,2004-10-06,Vehicle control device
+    CN115092111A,2022-09-23,Vehicle drive force control device
+    JP2012222859A,2012-11-12,Electric vehicle
+    JP2021062757A,2021-04-22,Drive control device for hybrid vehicle
+    US20150353089A1,2015-12-10,Drive force control device and drive force control method for vehicle
+    JP2014172456A,2014-09-22,Controller of idling stop car
+    JP2023121041A,2023-08-30,Driving force control device
+    JP3894049B2,2007-03-14,Hybrid vehicle and its control device
+    JP2006161841A,2006-06-22,Controller for hybrid vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    8
+classfication_nums
+    61
+classfication_items
+325
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,0,8,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,2,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,5,0
+    B,6,0,K,6,/,5,2
+    B,6,0,L,1,1,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,9,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,0,2
+    F
+    F,0,2
+    F,0,2,D
+    F,0,2,D,1,1,/,0,0
+    F,0,2,D,1,1,/,0,6
+    F,0,2,D,1,1,/,1,0
+    F,0,2,D,1,1,/,1,0,5
+    F
+    F,0,2
+    F,0,2,D
+    F,0,2,D,2,9,/,0,0
+    F,0,2,D,2,9,/,0,2
+    F
+    F,0,2
+    F,0,2,D
+    F,0,2,D,4,1,/,0,0
+    F,0,2,D,4,1,/,0,2
+    F,0,2,D,4,1,/,0,4
+    F,0,2,D,4,1,/,1,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B,6,0,K,2,0,0,6,/,4,8,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B,6,0,L,2,2,4,0,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,8
+    B,6,0,L,2,2,4,0,/,4,8,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,8,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,1,0
+    B,6,0,L,2,2,7,0,/,1,4
+    B,6,0,L,2,2,7,0,/,1,4,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,6
+    B,6,0,W,2,5,1,0,/,0,6,3,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,8
+    B,6,0,W,2,5,1,0,/,0,8,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B,6,0,W,2,5,4,0,/,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,2,1,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,6
+    B,6,0,W,2,7,1,0,/,0,6,7,7
+    F
+    F,0,2
+    F,0,2,D
+    F,0,2,D,2,2,0,0,/,0,0
+    F,0,2,D,2,2,0,0,/,6,0
+    F,0,2,D,2,2,0,0,/,6,0,2
+    F
+    F,0,2
+    F,0,2,D
+    F,0,2,D,2,2,0,0,/,0,0
+    F,0,2,D,2,2,0,0,/,6,0
+    F,0,2,D,2,2,0,0,/,6,0,4
+    F
+    F,0,2
+    F,0,2,D
+    F,0,2,D,2,2,0,0,/,0,0
+    F,0,2,D,2,2,0,0,/,6,0
+    F,0,2,D,2,2,0,0,/,6,0,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y,0,2,T,1,0,/,6,2,2,1
+    Y,0,2,T,1,0,/,6,2,6
+    Y,0,2,T,1,0,/,6,2,6,5
+    Y,0,2,T,1,0,/,6,2,8,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y,0,2,T,1,0,/,7,0,7,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,7,5
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,3
+
+application_events
+7
+    2013-05-09,Application filed by Honda Motor Co Ltd
+    2014-11-07,Assigned to HONDA MOTOR CO., LTD.
+    2015-05-21,Publication of US20150142234A1
+    2016-04-05,Application granted
+    2016-04-05,Publication of US9302669B2
+    Status,Active
+    2033-05-09,Anticipated expiration
+
+active_area
+4
+    K,R
+    C,N
+    U,S
+    W,O
+
+not_active_area
+3
+    C,A
+    E,P
+    J,P
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2012-108438,2012-05-10,
+    JP2012108438,2012-05-10,
+    PCT/JP2013/063092,2013-05-09,Control device for hybrid vehicle
+
+legal_event
+5
+    Date,Code,Title,Description
+    2014-11-07,AS,Assignment,Owner name: HONDA MOTOR CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:HARA, TAKESHI;TORIKAI, TERUKAZU;ITOU, ERI;AND OTHERS;REEL/FRAME:034129/0586Effective date: 20141020
+    2016-03-16,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2019-09-20,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+    2023-09-20,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+

@@ -1,0 +1,155 @@
+ID
+    WO2023084435A1
+citation_exist
+    Patent Citations (8)
+citation_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    DE102014209653A1                      *,2014-05-21,2015-11-26,Siemens Aktiengesellschaft,Control device, electric machine and method
+    DE102014209652A1                      *,2014-05-21,2015-11-26,Siemens Aktiengesellschaft,Electric machine device, vehicle and method
+    US20170310263A1                      *,2016-04-22,2017-10-26,GM Global Technology Operations LLC,Apparatus and methods of controlling electric drive with reconfigurable winding
+    CN208596978U                      *,2018-08-10,2019-03-12,李洪广,Permasyn morot and electric car
+    CN110011452A                      *,2019-05-07,2019-07-12,李洪广,A kind of three-phase wiring construction of Over Electric Motor with PMSM
+    WO2020194230A1                      *,2019-03-28,2020-10-01,Eldor Corporation S.P.A.,Switching device for an electric motor and an electric motor comprising said switching device
+    US20210083612A1                      *,2019-09-13,2021-03-18,GM Global Technology Operations LLC,Electric drive system with reconfigurable machine windings
+    WO2021079332A1                      *,2019-10-23,2021-04-29,Eldor Corporation S.P.A.,A drive system for a hybrid or electric vehicle
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    An electric or hybrid electric-endothermic traction system comprises an electric machine (2), an inverter (5), a battery pack (Batt), and a switching device (4) associated with the electric machine (2) and configured to switch it between a low-speed configuration, in which the stator windings (3) assume a first electric configuration, and a high-speed configuration, in which the stator windings (3) assume a second electric configuration, wherein the first electric configuration of the stator windings (3) results in a voltage induced by the rotation of the rotor (BEMF1 ) that, on reaching a pre-determined threshold value (ω_th) of the angular velocity of the rotor (2b), exceeds a supply voltage of the battery pack (V_batt), whereas the second electric configuration of the stator windings (3) results in a voltage induced by the rotation of the rotor (BEMF2) that is lower than the voltage of the battery pack (V_batt) for any angular velocity within a range of use of the electric machine (2). An emergency device (7) is connected to the switching device (4), control unit (6) and/or inverter (5) and is configured to send to the switching device (4) a signal (S2) representing a switching of the stator (2a) from the low-speed configuration to the high-speed configuration, if said stator is in the low-speed configuration, or a disabling of the switching device (4), if said stator is in the high-speed configuration.
+title
+    Electric or hybrid electric-endothermic traction system and method for reconfiguring an electric machine
+similar_document
+26
+    Publication,Publication Date,Title
+    JP6418252B2,2018-11-07,Rotating electrical machine control device
+    JP6324426B2,2018-05-16,Motor drive device
+    US9496810B2,2016-11-15,Method and apparatus for controlling an electric machine
+    JP4120708B2,2008-07-16,Power converter
+    CN102570936B,2015-03-25,Rotator control device, rotator system, vehicle, electric car and electric generation system
+    KR101831468B1,2018-02-22,Method for operating a drive assembly in a motor vehicle, comprising an at least three-phase electric machine, and control device for an inverter
+    JPWO2016076429A1,2017-06-01,Inverter control device and vehicle control device
+    US20230191948A1,2023-06-22,System and method for fault handling in a propulsion system for an electric vehicle
+    CN108964572B,2021-07-23,Method and system for active short circuit control of motor
+    CN110505972B,2023-02-28,Vehicle with a steering wheel
+    JP6755388B2,2020-09-16,Drive device for multi-group multi-phase rotary electric machine
+    CN107968612B,2021-12-14,Motor driving circuit
+    CN111095778A,2020-05-01,Inverter control device
+    JP6388758B2,2018-09-12,Initial transient current suppression
+    WO2023084435A1,2023-05-19,Electric or hybrid electric-endothermic traction system and method for reconfiguring an electric machine
+    JP6683167B2,2020-04-15,Rotating electric machine control device and power supply system
+    JP2012090380A,2012-05-10,Vehicle drive control device
+    WO2023084432A1,2023-05-19,An electric or hybrid electric-endothermic traction system and method for reconfiguring an electric machine
+    EP3644485B1,2021-11-24,Control of an electrical power system responsive to sensing a ground fault
+    EP3736164B1,2023-04-05,System and method for fault handling in a propulsion system for an electric vehicle
+    JP7244075B2,2023-03-22,charging system
+    JP2010246281A,2010-10-28,Control device of rotating electric machine
+    CN112005487B,2023-10-24,Power conversion device for rotary electric machine
+    JP6690567B2,2020-04-28,Switch controller
+    JP5744072B2,2015-07-01,In-vehicle rotating electrical machine drive device
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    5
+classfication_nums
+    11
+classfication_items
+64
+    H
+    H,0,2
+    H,0,2,K
+    H,0,2,K,3,/,0,0
+    H,0,2,K,3,/,0,4
+    H,0,2,K,3,/,2,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,8,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,3,/,0,0
+    H,0,2,P,2,3,/,0,0,8,6
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,9,/,0,0
+    H,0,2,P,2,9,/,0,2
+    H,0,2,P,2,9,/,0,3,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,5,0
+    B,6,0,L,2,2,2,0,/,5,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    H
+    H,0,2
+    H,0,2,K
+    H,0,2,K,2,2,1,3,/,0,0
+    H,0,2,K,2,2,1,3,/,0,9
+
+application_events
+2
+    2022-11-10,Application filed by Eldor Corporation S.P.A.
+    2023-05-19,Publication of WO2023084435A1
+
+active_area
+0
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    IT102021000028769,2021-11-12,
+    IT202100028769,2021-11-12,
+
+legal_event
+2
+    Date,Code,Title,Description
+    2023-06-28,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 22814517Country of ref document: EPKind code of ref document: A1
+

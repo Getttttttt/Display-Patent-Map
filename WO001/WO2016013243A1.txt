@@ -1,0 +1,217 @@
+ID
+    WO2016013243A1
+citation_exist
+    Patent Citations (15)
+citation_infor
+17
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2008196922A                      *,2007-02-12,2008-08-28,Denso Corp,走行制御関連データ出力装置
+    JP2010120552A                      *,2008-11-20,2010-06-03,Toyota Motor Corp,ハイブリッド車両
+    JP2011006047A                      *,2009-05-26,2011-01-13,Denso Corp,ハイブリッド車両の駆動制御装置
+    JP2013002850A                      *,2011-06-13,2013-01-07,Nissan Motor Co Ltd,ナビゲーション装置
+    JP2013120061A                      *,2011-12-06,2013-06-17,Nippon Telegr & Teleph Corp <Ntt>,ルート探索装置およびルート探索方法
+    Family To Family Citations,,,,
+    JP3440757B2,1997-06-16,2003-08-25,三菱自動車工業株式会社,電気自動車のモータトルク制御装置
+    JP3374725B2,1997-06-23,2003-02-10,三菱自動車工業株式会社,電気自動車のモータトルク制御装置
+    US5913917A                      *,1997-08-04,1999-06-22,Trimble Navigation Limited,Fuel consumption estimation
+    JP3417389B2,2000-07-24,2003-06-16,トヨタ自動車株式会社,車両のエネルギー蓄積装置用制御装置
+    US7798578B2                      *,2006-08-17,2010-09-21,Ford Global Technologies, Llc,Driver feedback to improve vehicle performance
+    JP5151619B2,2007-10-01,2013-02-27,株式会社デンソー,ハイブリッド車両用の走行計画作成装置および走行計画作成装置用のプログラム
+    CN201151352Y                      *,2007-12-21,2008-11-19,西安交通大学,一种带有能量回收功能缓速器的混合动力系统
+    DE102010063436A1                      *,2010-12-17,2012-06-21,Robert Bosch Gmbh,Verfahren und Vorrichtung zum Bestimmen einer Reichweite eines Fahrzeugs
+    EP2769071B1                      *,2011-10-19,2018-08-15,Fuel Saving Technologies, Inc.,Energy conservation systems and methods
+    CN103802821A                      *,2014-02-19,2014-05-21,中国北方车辆研究所,基于混合动力用复合电源的动力控制方法
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (6)
+              
+
+
+citedBy_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN111148968A                      *,2017-10-27,2020-05-12,神钢建机株式会社,行驶路径导向装置
+    CN108621820B                      *,2017-03-17,2021-10-08,丰田自动车株式会社,电池控制装置和电池控制系统
+    Family To Family Citations,,,,
+    US11094988B2                      *,2017-12-31,2021-08-17,Hyliion Inc.,Regenerative electrical power system with state of charge management in view of predicted and-or scheduled stopover auxiliary power requirements
+    JP2019196125A                      *,2018-05-10,2019-11-14,本田技研工業株式会社,車両制御システム、車両制御方法、およびプログラム
+    CN111516691B                      *,2020-04-10,2021-11-16,吉利汽车研究院（宁波）有限公司,滑行能量回收方法、系统及车辆
+    CN113479071A                      *,2021-07-09,2021-10-08,华人运通(江苏)技术有限公司,一种电动车防溜坡控制系统及方法
+
+abstract
+    車両の電力管理を、小容量の記憶装置で行う技術を提供する。電動機２０２は蓄電池２０１に蓄電された電力を電力源として駆動される。電力管理システム１００Ａは、電力管理装置１０と走行制御装置４０とを備える。電力管理装置１０は走行制御計画部１と、区間有効道路勾配情報蓄積部２とを備える。区間有効道路勾配情報蓄積部２は、車両Ｂが走行する道路区間の勾配についての情報を含む区間道路勾配情報を記憶する。走行制御計画部１は、区間有効道路勾配情報蓄積部２から読み出した区間有効道路勾配情報Ｑに基づいて、車両が走行するための走行制御計画Ｐを作成する。走行制御装置４０は、走行制御計画Ｐに基づいて車両の走行制御を行う。区間有効道路勾配情報Ｑのうち当該車両の走行において下り勾配となることを示すものは、その勾配が当該車両に依存した所定の勾配よりも急峻なものである。
+title
+    電力管理装置、電力管理システム、自動車
+similar_document
+26
+    Publication,Publication Date,Title
+    JP5985109B2,2016-09-06,電力管理装置、電力管理システム、自動車
+    US9327712B2,2016-05-03,System and method for control of a hybrid vehicle with regenerative braking using location awareness
+    US8428804B2,2013-04-23,In-vehicle charge and discharge control apparatus and partial control apparatus
+    US9266443B2,2016-02-23,System and method for adaptive battery charge and discharge rates and limits on known routes
+    JP5120204B2,2013-01-16,走行案内装置、走行案内方法及びコンピュータプログラム
+    US10393880B2,2019-08-27,Vehicle control through machine learning
+    CN102867430B,2015-04-08,电动汽车用的信息终端以及巡航控制装置
+    JP5840090B2,2016-01-06,消費電力量推定装置
+    RU2706632C2,2019-11-19,Способ прогнозирования работы транспортного средства
+    CN110641448A,2020-01-03,混合动力车辆及其行驶控制方法
+    EP2910442B1,2017-12-27,Travel support device, travel support method, and drive support system
+    JP5920309B2,2016-05-18,移動支援装置、移動支援方法、及び運転支援システム
+    CN107921886B,2021-10-26,用于计算用于管理混合动力机动车辆的燃料和电力消耗的设定点的方法
+    JP2009137340A,2009-06-25,電力マネージメントシステム及び電力マネージメント方法
+    JP2015091683A,2015-05-14,車両用エネルギーマネジメント装置
+    JP6448446B2,2019-01-09,車両の制御装置
+    JP2017144801A,2017-08-24,電気自動車
+    GB2499712A,2013-08-28,Route prediction for a hybrid electric vehicle
+    JPWO2014080803A1,2017-01-05,ハイブリッド車両の制御装置
+    JP2016159830A,2016-09-05,ハイブリッド車両用エネルギーマネジメント装置
+    JP4733504B2,2011-07-27,回生制御装置
+    JP5885170B1,2016-03-15,車両用エネルギーマネジメント装置
+    JP2020178428A,2020-10-29,充電量管理システム
+    JP6000431B1,2016-09-28,車両用エネルギーマネジメント装置
+    JP2015168370A,2015-09-28,ハイブリット車両の駆動制御装置及びハイブリット車両の駆動制御方法
+
+patent_application
+    NoExist
+patent_priority_application
+5
+    Application,Priority date,Filing date,Title
+    DE112015003414.5T,2014-07-24,2015-02-26,Energieverwaltungsvorrichtung, Energieverwaltungssystem und Motorfahrzeug
+    US15/323,878,2014-07-24,2015-02-26,Power management device, power management system, and motor vehicle
+    CN201580040019.1A,2014-07-24,2015-02-26,电力管理装置、电力管理系统以及汽车
+    JP2016504401A,2014-07-24,2015-02-26,電力管理装置、電力管理システム、自動車
+
+inventor_number
+    4
+classfication_nums
+    14
+classfication_items
+87
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B,6,0,L,1,5,/,2,0,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B,6,0,L,2,2,4,0,/,6,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,5,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,0,4
+    Y,1,0,S,9,0,3,/,9,0,6
+
+application_events
+6
+    2015-02-26,Application filed by 三菱電機株式会社
+    2015-02-26,Priority to DE112015003414.5T
+    2015-02-26,Priority to US15/323,878
+    2015-02-26,Priority to CN201580040019.1A
+    2015-02-26,Priority to JP2016504401A
+    2016-01-28,Publication of WO2016013243A1
+
+active_area
+5
+    D,E
+    W,O
+    C,N
+    U,S
+    J,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2014-150553,2014-07-24,
+    JP2014150553,2014-07-24,
+
+legal_event
+6
+    Date,Code,Title,Description
+    2016-01-29,ENP,Entry into the national phase,Ref document number: 2016504401Country of ref document: JPKind code of ref document: A
+    2016-03-09,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 15824724Country of ref document: EPKind code of ref document: A1
+    2017-01-04,WWE,Wipo information: entry into national phase,Ref document number: 15323878Country of ref document: US
+    2017-01-24,WWE,Wipo information: entry into national phase,Ref document number: 112015003414Country of ref document: DE
+    2017-08-23,122,Ep: pct application non-entry in european phase,Ref document number: 15824724Country of ref document: EPKind code of ref document: A1
+

@@ -1,0 +1,237 @@
+ID
+    US11529940B2
+citation_exist
+    Patent Citations (12)
+citation_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    US6745117B1,2003-05-16,2004-06-01,Deere & Company,Power-limiting control method and system for a work vehicle
+    US20050072132A1                      *,2000-10-26,2005-04-07,Dettmann Benjamin D.,Battery-powered walk-behind greensmower
+    JP2008298016A,2007-06-01,2008-12-11,Toyota Motor Corp,Vehicle control system
+    US20090189570A1                      *,2008-01-28,2009-07-30,Denso Corporation,Vehicle control system capable of controlling electric-power generation state of vehicle alternator
+    JP2010248870A,2009-04-20,2010-11-04,Sumitomo Heavy Ind Ltd,Hybrid type working machine
+    JP2011039492A,2005-01-25,2011-02-24,Sharp Corp,Instrument panel and automatic vehicle
+    US20110069050A1                      *,2009-09-18,2011-03-24,Litelogic Ip Limited,Display system
+    EP2623359A1,2010-09-28,2013-08-07,Nissan Motor Co., Ltd,Countermeasure device for unauthorized electric vehicle battery replacement
+    US9226444B2,2011-07-14,2016-01-05,Husqvarna Ab,Battery powered lawn care vehicle with efficient drive controller
+    EP3009286A1,2013-11-26,2016-04-20,Komatsu Ltd.,Work vehicle, and work vehicle control method
+    US20180079404A1                      *,2015-03-25,2018-03-22,Kcm Corporation,Hybrid Type Work Vehicle
+    EP3326444A1,2016-11-28,2018-05-30,Honda Motor Co., Ltd.,Electric power equipment
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP2021040603A                      *,2019-09-13,2021-03-18,株式会社 神崎高級工機製作所,Lawn mowing vehicle with automatic traveling function
+
+abstract
+    Provided is an electric power control device that allows a work vehicle to travel while carrying out a utility work smoothly. An electric power control device includes an operational state information acquisition section for acquiring operational state information indicative of an operational state of a work vehicle, a battery information acquisition section for acquiring battery information indicative of a state of a battery which is mounted on the work vehicle, a storage section for storing in advance operational mode information, a travel unit that causes the work vehicle to travel, a distributed electric power calculation section for calculating distributed electric powers to be distributed to the travel unit and an implement unit that effects the utility work respectively, and an instruction section for instructing the distributed electric powers to a travel control section that controls the travel unit and an implement control section that controls the implement unit, respectively.
+title
+    Electric power control device
+similar_document
+24
+    Publication,Publication Date,Title
+    US9825559B2,2017-11-21,Motor control system and control system for electric motor-driven vehicle
+    EP2110295B1,2012-02-29,Electric ground working vehicle
+    US8572939B2,2013-11-05,Working vehicle
+    JP4897584B2,2012-03-14,Vehicle drive control device
+    US10821854B2,2020-11-03,Electric work vehicle
+    US11529940B2,2022-12-20,Electric power control device
+    JP2013201840A,2013-10-03,Display system of electric vehicle
+    JP5847632B2,2016-01-27,Riding electric work machine
+    JP5521941B2,2014-06-18,Riding lawn mower vehicle and control method thereof
+    JP2005137059A,2005-05-26,Travel control method of electric vehicle
+    JP7266427B2,2023-04-28,work vehicle
+    JP5771356B2,2015-08-26,Riding lawn mower
+    JPH10248106A,1998-09-14,Controller for electric vehicle
+    US20140277884A1,2014-09-18,Drive system and method for driving a vehicle
+    JP2013110899A,2013-06-06,Electric motor control mechanism with auxiliary power supply
+    US11247723B2,2022-02-15,Traveling vehicle
+    US20210076561A1,2021-03-18,Lawn mower with autonomous traveling function
+    JP5678549B2,2015-03-04,Riding lawn mower vehicle and control method thereof
+    US20200282969A1,2020-09-10,Traveling Vehicle
+    JPH0511701U,1993-02-12,Electric car
+    JP2012070554A,2012-04-05,Riding type lawn mowing vehicle and control method thereof
+    JP5751465B2,2015-07-22,Riding lawn mower vehicle and control method thereof
+    US20230309442A1,2023-10-05,Electric work vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    20
+classfication_items
+116
+    A
+    A,0,1
+    A,0,1,D
+    A,0,1,D,6,9,/,0,0
+    A,0,1,D,6,9,/,0,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,4
+    B,6,0,W,1,0,/,2,6
+    A
+    A,0,1
+    A,0,1,D
+    A,0,1,D,2,1,0,1,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,2,0
+    B,6,0,Y,2,2,0,0,/,2,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2019-05-14,Application filed by Kubota Corp
+    2019-12-19,Publication of US20190381988A1
+    2020-01-20,Assigned to KUBOTA CORPORATION
+    2022-12-20,Application granted
+    2022-12-20,Publication of US11529940B2
+    Status,Active
+    2040-03-14,Adjusted expiration
+
+active_area
+3
+    J,P
+    U,S
+    E,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2018116420A,2018-06-19,Power controller
+    JPJP2018-116420,2018-06-19,
+    JP2018-116420,2018-06-19,
+
+legal_event
+13
+    Date,Code,Title,Description
+    2019-05-14,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2019-07-31,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2020-01-20,AS,Assignment,Owner name: KUBOTA CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:MATSUDA, KAZUAKI;MANJI, YASUHIRO;SIGNING DATES FROM 20190917 TO 20191002;REEL/FRAME:051552/0813
+    2021-05-11,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2021-08-11,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2021-10-18,STPP,Information on status: patent application and granting procedure in general,Free format text: FINAL REJECTION MAILED
+    2022-03-01,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2022-04-13,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2022-07-19,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2022-08-23,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2022-11-18,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT RECEIVED
+    2022-11-30,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

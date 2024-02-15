@@ -1,0 +1,219 @@
+ID
+    JP2010220381A
+citation_exist
+    NoCitation
+citation_infor
+    NoCitation
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (5)
+              
+
+
+citedBy_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2012090480A                      *,2010-10-21,2012-05-10,Denso Corp,車両用電池パック
+    WO2012140746A1                      *,2011-04-13,2012-10-18,トヨタ自動車株式会社,電動車両の電源装置およびその制御方法
+    JP2015050927A                      *,2013-08-30,2015-03-16,ローベルト ボッシュ ゲゼルシャフト ミット ベシュレンクテル ハフツング,エネルギーアキュムレータを電気再生するための方法
+    JP2015061432A                      *,2013-09-19,2015-03-30,トヨタ自動車株式会社,車両の充電システムおよび車両の充電制御方法
+    KR20200118900A                      *,2013-03-14,2020-10-16,알리손 트랜스미션, 인크.,하이브리드 전기 차량에서 회생 모드동안 전력을 관리하는 시스템 및 방법
+    Family To Family Citations,,,,
+
+abstract
+    【課題】蓄電装置の充電時における充電効率および充電後の走行時における回生効率を考慮してトータルの効率改善を図る電動車両の充電制御装置を提供する。【解決手段】ＥＣＵは、走行終了後の第１の充電期間（時刻ｔ１〜ｔ２）と次回走行開始前の第２の充電期間（時刻ｔ３〜ｔ４）とに分割して外部電源から蓄電装置の充電を実行する。ＥＣＵは、外部電源から蓄電装置の充電時の損失（充電損失）および次回走行時の回生時の損失（回生損失）を予測し、充電損失および次回走行時の回生損失の和が最小となるように、第１および第２の充電期間の分割比αを決定する。【選択図】図５
+title
+    電動車両の充電制御装置およびそれを備えた電動車両ならびに電動車両の充電制御方法
+similar_document
+26
+    Publication,Publication Date,Title
+    US8164301B2,2012-04-24,Charging control apparatus for electrically powered vehicle, electrically powered vehicle, method for charging control for electrically powered vehicle, and computer-readable recording medium having program recorded thereon for computer to execute the charging control
+    JP4957827B2,2012-06-20,電源システムおよびそれを搭載する車両
+    JP5382238B2,2014-01-08,ハイブリッド車両およびその制御方法
+    JP5488407B2,2014-05-14,車両の制御装置
+    CN102470856B,2014-03-12,车辆用控制装置及车辆用控制方法
+    JP6363493B2,2018-07-25,ハイブリッド車両
+    WO2008066092A1,2008-06-05,Secondary battery charge/discharge control device and vehicle using the same
+    JP5267733B2,2013-08-21,蓄電装置の充電装置および充電方法
+    US11535121B2,2022-12-27,Electric powered vehicle and control method for electric powered vehicle
+    JP5747724B2,2015-07-15,車両および車両の制御方法
+    US9868448B2,2018-01-16,Hybrid vehicle
+    US20110068740A1,2011-03-24,Power supply system for vehicle, electric vehicle having the same, and method of controlling power supply system for vehicle
+    JP4321641B2,2009-08-26,ハイブリッド車両、ハイブリッド車両の制御方法およびその制御方法をコンピュータに実行させるためのプログラムを記録したコンピュータ読取可
+    JP6179504B2,2017-08-16,ハイブリッド車両
+    US10850624B2,2020-12-01,Control of fuel consumption in a hybrid vehicle
+    JP2010064499A,2010-03-25,ハイブリッド車両
+    JP2010220381A,2010-09-30,電動車両の充電制御装置およびそれを備えた電動車両ならびに電動車両の充電制御方法
+    JP5501072B2,2014-05-21,ハイブリッド車の制御装置
+    JP6874652B2,2021-05-19,電池システム
+    US10569656B2,2020-02-25,Regenerative control device
+    US9663100B2,2017-05-30,Hybrid vehicle
+    JP6874648B2,2021-05-19,電池システム
+    JP6825043B2,2021-02-03,ハイブリッド車両の制御装置
+    Chan et al.,2006,Development of packaging and electrical interfacing for electrical vehicles
+    JP2011151937A,2011-08-04,車両
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    JP2009064045A,2009-03-17,2009-03-17,電動車両の充電制御装置およびそれを備えた電動車両ならびに電動車両の充電制御方法
+
+inventor_number
+    10
+classfication_nums
+    20
+classfication_items
+122
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,7,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B,6,0,L,5,8,/,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,6
+    B,6,0,L,2,2,4,0,/,6,6,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,8,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,5,0
+    B,6,0,L,2,2,6,0,/,5,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+4
+    2009-03-17,Application filed by Toyota Motor Corp
+    2009-03-17,Priority to JP2009064045A
+    2010-09-30,Publication of JP2010220381A
+    Status,Withdrawn
+
+active_area
+0
+
+not_active_area
+1
+    J,P
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2009064045A,2009-03-17,電動車両の充電制御装置およびそれを備えた電動車両ならびに電動車両の充電制御方法
+
+legal_event
+2
+    Date,Code,Title,Description
+    2012-06-05,A300,Application deemed to be withdrawn because no request for examination was validly filed,Free format text: JAPANESE INTERMEDIATE CODE: A300Effective date: 20120605
+

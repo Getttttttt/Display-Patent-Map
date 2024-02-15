@@ -1,0 +1,250 @@
+ID
+    WO2021158432A1
+citation_exist
+    Patent Citations (5)
+citation_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20150019058A1                      *,2013-07-12,2015-01-15,Stephan P. Georgiev,Regenerative braking regulation in automotive vehicles
+    US20180154875A1                      *,2016-12-02,2018-06-07,Toyota Jidosha Kabushiki Kaisha,Vehicle braking system
+    US20190294173A1                      *,2018-03-22,2019-09-26,Micron Technology, Inc.,Power management, dynamic routing and memory management for autonomous driving vehicles
+    Family To Family Citations,,,,
+    JP5106603B2                      *,2010-08-30,2012-12-26,株式会社シマノ,Bicycle regenerative braking control device
+    US11447016B2                      *,2019-11-01,2022-09-20,Ford Global Technologies, Llc,System and method for battery preconditioning based on selected regenerative braking amount
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US10451425B2                      *,2014-12-05,2019-10-22,Apple Inc.,Autonomous navigation system
+    US20210287546A1                      *,2020-03-11,2021-09-16,Rosco, Inc.,Advanced pedestrian and/or driver alert and/or collision avoidance system
+    US20220212542A1                      *,2021-01-07,2022-07-07,Ford Global Technologies, Llc,Regenerative braking control system for a hybrid or electric vehicle
+
+abstract
+    Embodiments of the present disclosure are directed to dynamically and automatically adjusting a standard regenerative braking intensity. Roadway data, data from one or more sensors of the vehicle and data comprising parameter values for operating states of the vehicle regarding a roadway from a route being navigated by the vehicle are received by a processor of a control system of the vehicle. Standard regenerative braking intensity values based on a vehicle's acceleration is retrieved from memory. Adjusted regenerative braking intensity values are calculated based on at least one of the roadway data, the sensor data and the parameter values of the operating states of the vehicle and the standard regenerative braking intensity values. The adjusted regenerative braking intensity values are transmitted to the control system and an acceleration or deacceleration amount is applied to the vehicle based on the adjusted regenerative braking intensity values.
+title
+    Predictive regenerative braking
+similar_document
+25
+    Publication,Publication Date,Title
+    US20210192941A1,2021-06-24,Feedback performance control and tracking
+    US10992860B2,2021-04-27,Dynamic seam adjustment of image overlap zones from multi-camera source images
+    US9984572B1,2018-05-29,Method and system for sharing parking space availability among autonomous vehicles
+    US10286915B2,2019-05-14,Machine learning for personalized driving
+    US10234302B2,2019-03-19,Adaptive route and motion planning based on learned external and internal vehicle environment
+    US10906549B2,2021-02-02,Systems and methods of autonomously controlling vehicle lane change maneuver
+    US10551207B2,2020-02-04,Autonomous vehicle sensor data and map integration
+    US10845803B2,2020-11-24,Method and apparatus for simultaneous processing and logging of automotive vision system with controls and fault monitoring
+    US10982968B2,2021-04-20,Sensor fusion methods for augmented reality navigation
+    US11726189B2,2023-08-15,Real-time online calibration of coherent doppler lidar systems on vehicles
+    US10946868B2,2021-03-16,Methods and devices for autonomous vehicle operation
+    US20180143639A1,2018-05-24,Autonomy first route optimization for autonomous vehicles
+    US11014569B2,2021-05-25,Vehicle control system using nonlinear dynamic model states and steering offset estimation
+    US20210141092A1,2021-05-13,Scene perception using coherent doppler lidar
+    US11636077B2,2023-04-25,Methods, devices, and systems for processing sensor data of vehicles
+    US11702110B2,2023-07-18,Methods and systems to enhance safety of bi-directional transition between autonomous and manual driving modes
+    US11647164B2,2023-05-09,Methods and systems for camera sharing between autonomous driving and in-vehicle infotainment electronic control units
+    WO2021158432A1,2021-08-12,Predictive regenerative braking
+    US10682920B2,2020-06-16,Ultra-fast charge profile for an electric vehicle
+    US20200094687A1,2020-03-26,Supplemental battery system
+    US11560131B2,2023-01-24,Lane prediction and smoothing for extended motion planning horizon
+    US11571987B2,2023-02-07,Optimization of battery pack size using swapping
+    US11257230B2,2022-02-22,Adaptive feature map anchor pruning
+    EP4206737A1,2023-07-05,Time of flight cameras using passive image sensors and existing light sources
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    CN202180007190.8A,2020-02-03,2021-01-29,Predictive regenerative braking
+
+inventor_number
+    4
+classfication_nums
+    25
+classfication_items
+143
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,1,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,1,2
+    B,6,0,T,7,/,1,6
+    B,6,0,T,7,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,1,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,7,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,5,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,1,0,/,0,0
+    B,6,0,T,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,1,0,/,0,0
+    B,6,0,T,2,2,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,1,0,/,0,0
+    B,6,0,T,2,2,1,0,/,3,0
+    B,6,0,T,2,2,1,0,/,3,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,5,0,/,0,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,1,4
+    B,6,0,W,2,0,5,0,/,1,4,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,6,/,0,0
+    B,6,0,W,2,5,5,6,/,4,5
+    B,6,0,W,2,5,5,6,/,5,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+3
+    2021-01-29,Application filed by Nio Technology (Anhui) Co., Ltd.
+    2021-01-29,Priority to CN202180007190.8A
+    2021-08-12,Publication of WO2021158432A1
+
+active_area
+3
+    U,S
+    C,N
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    US16/780,129,2020-02-03,Predictive regenerative braking
+    US16/780,129,2020-02-03,
+
+legal_event
+5
+    Date,Code,Title,Description
+    2021-09-22,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 21751436Country of ref document: EPKind code of ref document: A1
+    2022-09-06,NENP,Non-entry into the national phase,Ref country code: DE
+    2023-02-15,122,Ep: pct application non-entry in european phase,Ref document number: 21751436Country of ref document: EPKind code of ref document: A1
+    2023-08-02,32PN,Ep: public notification in the ep bulletin as address of the adressee cannot be established,Free format text: NOTING OF LOSS OF RIGHTS PURSUANT TO RULE 112(1) EPC (EPO FORM 1205 DATED 23.06.2023)
+

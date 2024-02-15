@@ -1,0 +1,256 @@
+ID
+    US20230223884A1
+citation_exist
+    Patent Citations (2)
+citation_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP5052245B2,2007-07-23,2012-10-17,日立オートモティブシステムズ株式会社,Electric system controller for hybrid vehicles
+    JP6360442B2,2015-01-14,2018-07-18,株式会社日立製作所,Permanent magnet synchronous motor, winding switching motor drive device, refrigeration and air conditioning equipment using them, and electric vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    A motor drive system includes a battery, double-stator axial gap motors, inverter circuits configured to control power running drive and regenerative drive of the double-stator axial gap motors, step-up/step-down circuits configured to adjust at least voltage of regeneratively generated power of the double-stator axial gap motors, and one or more control devices configured to control drive of the inverter circuits and the step-up/step-down circuits. Each of the double-stator axial gap motors includes two stators. Each of the inverter circuits are connected to a respective one of the two stators. The inverter circuits are connected in series. A single step-up/step-down circuit among the step-up/step-down circuit is provided for each of the axial gap motors. The single step-up/step-down circuit provided for each of the axial gap motors is connected to one of two inverter circuits connected to the two stators among the inverter circuits.
+title
+    Motor drive system
+similar_document
+26
+    Publication,Publication Date,Title
+    JP6315622B2,2018-04-25,vehicle
+    CN101755383B,2012-05-30,Motor control device, drive device, and hybrid drive device
+    US10011270B2,2018-07-03,Apparatus and method of controlling vehicle
+    US9555714B2,2017-01-31,Power supply system of electric-powered vehicle
+    US20150200613A1,2015-07-16,Electric vehicle and control method of electric vehicle
+    JP5573968B2,2014-08-20,Vehicle and vehicle control method
+    BRPI0617921A2,2012-04-17,motor drive system
+    US20190210474A1,2019-07-11,Electric vehicle
+    CN104553880A,2015-04-29,Electric vehicle
+    CN106064569B,2018-09-18,Electric vehicle
+    CN104553881A,2015-04-29,Electric drive vehicle
+    JP4848976B2,2011-12-28,Electric motor control device
+    US20230223884A1,2023-07-13,Motor drive system
+    Sadat et al.,2016,A Novel SVM-DTC Method of In-Wheel Switched Reluctance Motor Considering Regenerative Braking Capability in Electric Vehicle
+    US20230219429A1,2023-07-13,Vehicle drive system
+    JP2010172109A,2010-08-05,Rotary electric machine controller
+    JP6825043B2,2021-02-03,Hybrid vehicle control device
+    JP6259312B2,2018-01-10,Boost converter control device and boost converter control method
+    JP7278926B2,2023-05-22,Electric motor control device, electric vehicle, electric motor control method
+    WO2022075022A1,2022-04-14,Motor control device
+    JP6543745B2,2019-07-10,Control device for hybrid vehicle
+    WO2021020115A1,2021-02-04,Control device and electric vehicle
+    JP2013124084A,2013-06-24,Hybrid vehicle
+    Singh et al.,2022,Efficiency Improvement for Regenerative Braking System for a Vehicular Model Using Supercapacitor
+    JP4115972B2,2008-07-09,Drive control apparatus for hybrid vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    26
+classfication_items
+165
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,7,/,0,0
+    H,0,2,P,2,7,/,0,4
+    H,0,2,P,2,7,/,0,6
+    H,0,2,P,2,7,/,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,2,0
+    B,6,0,L,5,3,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    H
+    H,0,2
+    H,0,2,K
+    H,0,2,K,1,6,/,0,0
+    H,0,2,K,1,6,/,0,4
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,0,0,4,8
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,0,0,6,7
+    H,0,2,M,1,/,0,0,7
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,0,0,6,7
+    H,0,2,M,1,/,0,0,7,4
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,0,0,6,7
+    H,0,2,M,1,/,0,0,8
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H,0,2,M,3,/,0,2
+    H,0,2,M,3,/,0,4
+    H,0,2,M,3,/,1,0
+    H,0,2,M,3,/,1,4,5
+    H,0,2,M,3,/,1,5,5
+    H,0,2,M,3,/,1,5,6
+    H,0,2,M,3,/,1,5,8
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,4,2
+    H,0,2,M,7,/,4,4
+    H,0,2,M,7,/,4,8
+    H,0,2,M,7,/,5,3
+    H,0,2,M,7,/,5,3,7
+    H,0,2,M,7,/,5,3,8,7
+    H,0,2,M,7,/,5,3,8,7,1
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,6,6
+    H,0,2,M,7,/,6,8
+    H,0,2,M,7,/,7,2
+    H,0,2,M,7,/,7,9
+    H,0,2,M,7,/,7,9,7
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,7,/,0,0
+    H,0,2,P,2,7,/,0,4
+    H,0,2,P,2,7,/,0,6
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,3,/,0,0
+    H,0,2,P,3,/,0,6
+    H,0,2,P,3,/,0,8
+    H,0,2,P,3,/,1,4
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,5,/,0,0
+    H,0,2,P,5,/,7,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B,6,0,L,2,2,1,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B,6,0,L,2,2,1,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B,6,0,L,2,2,1,0,/,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,5,0
+    B,6,0,L,2,2,2,0,/,5,4
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,0,0,0,3
+    H,0,2,M,1,/,0,0,2,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+
+application_events
+4
+    2022-12-27,Application filed by Subaru Corp
+    2022-12-27,Assigned to Subaru Corporation
+    2023-07-13,Publication of US20230223884A1
+    Status,Pending
+
+active_area
+4
+    J,P
+    C,N
+    D,E
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2022-002868,2022-01-12,
+    JP2022002868A,2022-01-12,motor drive system
+
+legal_event
+2
+    Date,Code,Title,Description
+    2022-12-27,AS,Assignment,Owner name: SUBARU CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:YOSHIZAWA, SATOSHI;OKADA, TOMOYUKI;REEL/FRAME:062208/0526Effective date: 20221114
+

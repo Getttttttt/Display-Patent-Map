@@ -1,0 +1,193 @@
+ID
+    US9496790B2
+citation_exist
+    Patent Citations (8)
+citation_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5057990A                      *,1990-05-02,1991-10-15,Zdzislaw Gulczynski,Bidirectional switching power apparatus with AC or DC output
+    JP2006230053A,2005-02-15,2006-08-31,Toyota Industries Corp,Current bidirectional regulator
+    US20110107123A1                      *,2008-06-27,2011-05-05,Kazuhito Nishimura,Power control system for distributing power to power demanding facility
+    US20120069604A1                      *,2010-09-21,2012-03-22,Denso Corporation,Compact power converter with high efficiency in operation
+    US20120099348A1,2010-10-20,2012-04-26,Denso Corporation,Power converter with high efficiency in operation
+    US20140354254A1                      *,2013-05-30,2014-12-04,Denso Corporation,Power converter
+    Family To Family Citations,,,,
+    WO2008037668A1                      *,2006-09-26,2008-04-03,Bobinados De Transformadores S.L.,A dc-dc converter with an active snubber
+    JP5176922B2                      *,2008-12-09,2013-04-03,トヨタ自動車株式会社,DC-DC converter and control method thereof
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (6)
+              
+
+
+citedBy_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    EP2824815B1                      *,2012-03-05,2020-09-16,Fuji Electric Co., Ltd.,Power conversion device
+    JP2018057212A                      *,2016-09-30,2018-04-05,パナソニックＩｐマネジメント株式会社,Electric power converter
+    DE102016224472A1                      *,2016-12-08,2018-06-14,Audi Ag,Converter device for a motor vehicle and motor vehicle
+    US10110103B1                      *,2017-06-21,2018-10-23,GM Global Technology Operations LLC,Electric drive system enhancement using a DC-DC converter
+    JP7051726B2                      *,2019-01-24,2022-04-11,株式会社京三製作所,DC pulse power supply
+    JP6962946B2                      *,2019-02-19,2021-11-05,シャープ株式会社,Rectifier circuit and power supply
+
+abstract
+    In a power conversion apparatus, a secondary winding is connected between main terminals of one of two circuit elements included in a main series circuit, and a voltage applied to a primary winding induces a voltage in a secondary winding in a direction from a first main terminal of a secondary winding, which is disposed at a low-potential side of the main series circuit, toward a second main terminal of a secondary winding, which is disposed at a high-potential side of the main series circuit. A rectifying unit blocks a current flowing from the high-potential side of the main series circuit toward the low-potential side of the main series circuit in a current path that includes the secondary winding and bypasses one of the two circuit elements included in the main series circuit.
+title
+    Power conversion device
+similar_document
+26
+    Publication,Publication Date,Title
+    US9496790B2,2016-11-15,Power conversion device
+    JP6369808B2,2018-08-08,Drive device, power conversion device
+    US9431917B2,2016-08-30,Switching power supply including a rectifier circuit having switching elements, and electric power converter
+    JP5333485B2,2013-11-06,Power converter
+    US8368364B2,2013-02-05,DC-DC converter with snubber circuit
+    JP6390959B2,2018-09-19,Drive device, power conversion device
+    US9487098B2,2016-11-08,Power conversion apparatus
+    US8787055B2,2014-07-22,Inverter device
+    JP6008079B2,2016-10-19,Power converter
+    JP6009027B1,2016-10-19,Power converter
+    JP6742145B2,2020-08-19,Bidirectional DC-DC converter, power supply system using the same, and automobile using the power supply system
+    JP5787942B2,2015-09-30,Power conversion device and power conversion method
+    RU2691959C1,2019-06-19,Electric power conversion circuit
+    CN111788768A,2020-10-16,Power conversion device
+    JP6953634B2,2021-10-27,Vehicle charger with DC / DC converter
+    JPH10285915A,1998-10-23,Snubber energy regenerating circuit
+    WO2019202862A1,2019-10-24,Gate drive circuit and power conversion device
+    JP6305492B1,2018-04-04,DC-DC converter
+    JP6567235B1,2019-08-28,Gate drive circuit and power conversion device
+    US11005359B2,2021-05-11,Electric power converter with snubber circuit
+    JP5310184B2,2013-10-09,Bidirectional buck-boost chopper circuit
+    JP2018082572A,2018-05-24,Power conversion apparatus
+    US20140354254A1,2014-12-04,Power converter
+    JP2014003827A,2014-01-09,Charging/discharging system
+    JP2022121050A,2022-08-19,Power conversion device
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    13
+classfication_items
+79
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H,0,2,M,3,/,0,2
+    H,0,2,M,3,/,0,4
+    H,0,2,M,3,/,1,0
+    H,0,2,M,3,/,1,4,5
+    H,0,2,M,3,/,1,5,5
+    H,0,2,M,3,/,1,5,6
+    H,0,2,M,3,/,1,5,8
+    H,0,2,M,3,/,1,5,8,2
+    B,6,0,L,1,1,/,1,8,0,3
+    B,6,0,L,1,1,/,1,8,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,1
+    H,0,1,F
+    H,0,1,F,3,8,/,0,0
+    H,0,1,F,3,8,/,0,2
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H,0,2,M,3,/,0,2
+    H,0,2,M,3,/,0,4
+    H,0,2,M,3,/,1,0
+    H,0,2,M,3,/,1,4,5
+    H,0,2,M,3,/,1,5,5
+    H,0,2,M,3,/,1,5,6
+    H,0,2,M,3,/,1,5,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2015-04-03,Application filed by Denso Corp
+    2015-04-22,Assigned to DENSO CORPORATION
+    2015-10-08,Publication of US20150288290A1
+    2016-11-15,Application granted
+    2016-11-15,Publication of US9496790B2
+    Status,Active
+    2035-05-29,Adjusted expiration
+
+active_area
+2
+    J,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2014078622A,2014-04-07,Power converter
+    JP2014-078622,2014-04-07,
+
+legal_event
+5
+    Date,Code,Title,Description
+    2015-04-22,AS,Assignment,Owner name: DENSO CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:IWAMOTO, FUJIYUKI;UMETANI, KAZUHIRO;SIGNING DATES FROM 20150406 TO 20150411;REEL/FRAME:035466/0358
+    2016-10-26,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2016-12-01,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2020-05-07,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

@@ -1,0 +1,259 @@
+ID
+    US9873420B2
+citation_exist
+    Patent Citations (9)
+citation_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20130144476A1                      *,2010-06-03,2013-06-06,Mira Ltd.,Yaw Motion Control of a Vehicle
+    US20150239442A1                      *,2012-10-01,2015-08-27,Hitachi Automotive Systems, Ltd.,Motion Controlling Apparatus for a Vehicle
+    US20170072940A1                      *,2015-09-12,2017-03-16,GM Global Technology Operations LLC,Method of increasing regeneration in a hybrid vehicle beyond what is calculated from requested vehicle deceleration
+    Family To Family Citations,,,,
+    US6909959B2                      *,2003-03-07,2005-06-21,Stephen James Hallowell,Torque distribution systems and methods for wheeled vehicles
+    JP4639772B2                      *,2004-11-24,2011-02-23,トヨタ自動車株式会社,Vehicle braking device
+    DE102006046093B4                      *,2006-09-28,2022-11-03,Volkswagen Ag,Braking system and method for braking a vehicle with a hybrid drive
+    JP4623090B2                      *,2007-12-25,2011-02-02,トヨタ自動車株式会社,Brake control device
+    WO2011016095A1                      *,2009-08-07,2011-02-10,トヨタ自動車株式会社,Brake control system, and brake control method
+    KR101415208B1                      *,2011-10-14,2014-08-07,주식회사 만도,Apparatus and method of controlling vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    US10166855B2                      *,2015-09-12,2019-01-01,GM Global Technology Operations LLC,Vehicle, system, and method of calculating an engine torque request value
+    Family To Family Citations,,,,
+    US9873420B2                      *,2015-09-12,2018-01-23,GM Global Technology Operations LLC,Method of increasing regeneration in a hybrid vehicle beyond what is calculated from requested vehicle deceleration
+
+abstract
+    A method of controlling a vehicle includes calculating a desired deceleration limited regeneration torque request based on a requested deceleration input from a driver. If current dynamic operating conditions of the vehicle are in a performance region that permits an increase to the regeneration torque request, the desired deceleration limited regeneration torque request is increased based on a regeneration torque overhead, to define a modified axle regeneration torque request. Modified torque values are output based on the modified axle regeneration torque request. If the torque control values will cause an estimated yaw rate that is less than a target yaw rate, then the modified torque values are applied. Otherwise, the modified torque values are re-defined until the estimated yaw rate is not greater than the target yaw rate, and the re-defined values of the modified torque values are applied.
+title
+    Method of increasing regeneration in a hybrid vehicle beyond what is calculated from requested vehicle deceleration
+similar_document
+26
+    Publication,Publication Date,Title
+    US9238412B2,2016-01-19,Normalizing deceleration of a vehicle having a regenerative braking system
+    KR102417515B1,2022-07-05,Brake control system and method for electric vehicle
+    US9975436B2,2018-05-22,Regeneration strategy for a vehicle having decoupled front and rear axle drive actuators
+    EP3347228B1,2022-06-15,Electric vehicle with and method, controller and computer programm for a braking system
+    US10703208B2,2020-07-07,Braking control system and method for eco-friendly vehicle
+    JP2012527211A,2012-11-01,System for controlling torque applied to vehicle wheels provided with at least one electric motor
+    CN111252046A,2020-06-09,Environment-friendly vehicle and steep slope slow descent control method of environment-friendly vehicle
+    KR102569899B1,2023-08-24,Vehicle having electric motor and method of driving controlling for the same
+    JP2011101515A,2011-05-19,Braking force control device of vehicle
+    US9873420B2,2018-01-23,Method of increasing regeneration in a hybrid vehicle beyond what is calculated from requested vehicle deceleration
+    US11801835B2,2023-10-31,Controller for a vehicle based on accelerator pedal position
+    US9981554B2,2018-05-29,System and method for controlling braking of electric vehicle
+    US20230022906A1,2023-01-26,Automated control architecture that handles both grip driving and sliding
+    CN110816281A,2020-02-21,Control unit, device and method for recuperative brake control of a vehicle
+    KR101410451B1,2014-06-20,Apparatus, method and computer readable recording medium for controlling wheels in an independant traction type electric vehicle
+    US9878621B2,2018-01-30,System and method for improved ABS performance during parallel regenerative braking
+    US11312356B2,2022-04-26,Hybrid vehicle and driving control method therefor
+    GB2587715A,2021-04-07,A controller for a vehicle
+    CN104670204B,2017-06-16,Using acceleration transducer wheel drive system and possess the vehicle of this system
+    CN111196259A,2020-05-26,Vehicle with electric motor and brake control method thereof
+    CN104553822A,2015-04-29,Electric-machines-drag torque compensation
+    KR20230112198A,2023-07-27,Apparatus and method for reducing u-turning radius of electrified vehicle
+    US20220297573A1,2022-09-22,Vehicle control device, vehicle control method, and storage medium
+    KR20150018010A,2015-02-23,Apparatus and method for controlling posture of hybrid electric vehicle using regenerative breaking
+    KR20230011529A,2023-01-25,Vehicle having electric motor and method of driving power control for the same
+
+patent_application
+    NoExist
+patent_priority_application
+4
+    Application,Priority date,Filing date,Title
+    US15/141,207,2015-09-12,2016-04-28,Method of increasing regeneration in a hybrid vehicle beyond what is calculated from requested vehicle deceleration
+    CN201610797209.4A,2015-09-12,2016-08-31,Increase the regeneration method in hybrid vehicle based on the calculating of requested vehicle deceleration
+    DE102016116681.2A,2015-09-12,2016-09-06,A method of increasing regeneration in a hybrid vehicle beyond the result of calculating the requested vehicle deceleration
+
+inventor_number
+    3
+classfication_nums
+    24
+classfication_items
+144
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,5,0
+    B,6,0,K,6,/,5,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,0,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,1,0
+    B,6,0,W,4,0,/,1,1,4
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,6
+    B,6,0,W,2,7,1,0,/,0,6,6,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,3,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,4,0
+    B,6,0,W,2,7,2,0,/,4,0,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,4,0
+    B,6,0,W,2,7,2,0,/,4,0,6
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,2
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,1,8
+    B,6,0,Y,2,3,0,0,/,1,8,0,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,2,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,4,7
+
+application_events
+7
+    2016-04-28,Application filed by GM Global Technology Operations LLC
+    2016-04-28,Priority to US15/141,207
+    2017-03-16,Publication of US20170072940A1
+    2018-01-23,Application granted
+    2018-01-23,Publication of US9873420B2
+    Status,Active
+    2036-04-28,Anticipated expiration
+
+active_area
+2
+    U,S
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    US201562217852P,2015-09-12,
+    US15/141,207,2016-04-28,Method of increasing regeneration in a hybrid vehicle beyond what is calculated from requested vehicle deceleration
+
+legal_event
+4
+    Date,Code,Title,Description
+    2016-04-29,AS,Assignment,Owner name: GM GLOBAL TECHNOLOGY OPERATIONS LLC, MICHIGANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:WHITE, MARSELLA L.;PETRUCCI, MICHAEL G.;SIGNING DATES FROM 20151005 TO 20151013;REEL/FRAME:038416/0721
+    2018-01-03,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2021-06-23,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

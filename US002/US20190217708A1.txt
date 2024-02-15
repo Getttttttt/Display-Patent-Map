@@ -1,0 +1,211 @@
+ID
+    US20190217708A1
+citation_exist
+    Patent Citations (21)
+citation_infor
+23
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5227703A                      *,1992-04-21,1993-07-13,General Electric Company,Protection system for alternating current, battery powered electric traction motor vehicle
+    US6086166A                      *,1997-06-10,2000-07-11,Toyota Jidosha Kabushiki Kaisha,Braking torque control system and method for wheeled vehicle having regenerative braking torque generator and frictional braking torque generator
+    US6121740A                      *,1994-06-27,2000-09-19,Ford Global Technologies, Inc.,Control of regeneration energy from an electric motor
+    US8694190B2                      *,2010-10-21,2014-04-08,Hino Motors, Ltd.,Regeneration control device, hybrid vehicle, regeneration control method, and computer program
+    Family To Family Citations,,,,
+    GB9320661D0                      *,1993-10-07,1993-11-24,Lucas Ind Public Limited,Electric vehicle having abs
+    US6768284B2,2002-09-30,2004-07-27,Eaton Corporation,Method and compensation modulator for dynamically controlling induction machine regenerating energy flow and direct current bus voltage for an adjustable frequency drive system
+    JP2005253126A,2004-03-01,2005-09-15,Nissan Motor Co Ltd,Brake controller of hybrid vehicle and vehicle mounting that controller
+    US7131708B2                      *,2004-05-14,2006-11-07,General Motors Corporation,Coordinated regenerative and engine retard braking for a hybrid vehicle
+    JP4561616B2,2005-10-27,2010-10-13,トヨタ自動車株式会社,Motor drive system
+    US7602137B2                      *,2006-02-20,2009-10-13,Black & Decker Inc.,Electronically commutated motor and control system
+    JP4720653B2                      *,2006-07-07,2011-07-13,トヨタ自動車株式会社,Electric motor control device and vehicle equipped with the same
+    CN101209675B                      *,2006-12-26,2010-05-19,比亚迪股份有限公司,Electric automobile energy back-feed control method
+    JP5384068B2                      *,2008-09-24,2014-01-08,トヨタ自動車株式会社,Rotating electrical machine control system
+    JP4710963B2                      *,2008-11-28,2011-06-29,株式会社デンソー,Rotating machine control device and control system
+    US8567547B2,2010-03-23,2013-10-29,Purdue Research Foundation,Regenerative braking method
+    JP2011223698A                      *,2010-04-07,2011-11-04,Nissan Motor Co Ltd,Electric vehicle control apparatus
+    US8612074B2                      *,2010-05-07,2013-12-17,GM Global Technology Operations LLC,Regenerative braking control in vehicles
+    CN103221249B                      *,2010-11-22,2015-06-17,雅马哈发动机株式会社,Two-wheeled electric vehicle
+    JP5545411B2,2011-03-17,2014-07-09,トヨタ自動車株式会社,Electronic equipment casing
+    US9413282B2                      *,2013-10-03,2016-08-09,Texas Instruments Incorporated,Stator resistance estimation for electric motors
+    CN104309489B                      *,2014-09-27,2016-06-01,奇瑞汽车股份有限公司,The regenerative braking device control method of electromobile
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US11040625B2,2015-11-11,2021-06-22,Texas Instruments Incorporated,Optimized regenerative braking control of electric motors using look-up tables
+    RU200672U1                      *,2020-03-12,2020-11-05,федеральное государственное бюджетное образовательное учреждение высшего образования «Томский государственный университет систем управления и радиоэлектроники»,DEVICE IMPLEMENTING CONTROL OF A SATELLITE ANTENNA DRIVE VIA DIGITAL INTERFACE
+    EP4236060A1                      *,2020-12-30,2023-08-30,Nanjing Chervon Industry Co., Ltd.,Electric tool and control method therefor
+    CN115817185B                      *,2023-02-15,2023-05-05,华东交通大学,Method and system for controlling speed of medium-low speed maglev train
+
+abstract
+    A method of regenerative braking includes providing an electric motor including at least one stator and a rotor, a speed of the rotor, a motor controller that regulates a current level in the stator winding, a power inverter which controls an energy flow to the stator terminal, and an energy storage system (ESS) which exchanges energy with the motor. A battery management circuit is between the power inverter and the ESS, and a processor has an associated memory storing a regenerative braking (RB) algorithm. The RB algorithm during braking causes the motor controller to execute determining an RB torque value from the rotor speed that maximizes regenerative braking current, and the power inverter is used to redirect the RB current to maximize a power transfer from the motor to the ESS.
+title
+    Regenerative Braking Controller for Electric Motors
+similar_document
+25
+    Publication,Publication Date,Title
+    US10696163B2,2020-06-30,Regenerative braking controller for electric motors
+    US8390223B2,2013-03-05,Control device for electric motor drive device
+    US8232753B2,2012-07-31,Control device for electric motor drive apparatus
+    US8278865B2,2012-10-02,Control device
+    US8497645B2,2013-07-30,Control device for electric motor drive device
+    US7053581B2,2006-05-30,Electrically operated drive controller, electrically operated drive control method and its program
+    US8779702B2,2014-07-15,Motor control system implementing field weakening
+    US10199967B2,2019-02-05,Motor controller, motor driving apparatus, motor driving system, image forming apparatus, and conveying device
+    KR20180030132A,2018-03-21,Drive system and inverter unit
+    US8754603B2,2014-06-17,Methods, systems and apparatus for reducing power loss in an electric motor drive system
+    JP6998717B2,2022-01-18,Variable magnetic force motor control method and control device
+    JP6687228B1,2020-04-22,AC rotating electric machine control device
+    US11081998B2,2021-08-03,Controller of rotary electric machine
+    JP6787004B2,2020-11-18,Flywheel power storage system
+    JP3985550B2,2007-10-03,Electric vehicle drive control device, electric vehicle drive control method, and program thereof
+    JP2010193665A,2010-09-02,Ac machine controller
+    JP6937211B2,2021-09-22,Variable magnetic field motor control method and control device
+    JP6708843B2,2020-06-10,Drive
+    JP7317249B2,2023-07-28,Rotating electric machine control device and electric power steering device
+    JP2014117092A,2014-06-26,Synchronous motor controller
+    EP4254776A1,2023-10-04,Control device for rotating electric machine and electric power steering device
+    US20230283202A1,2023-09-07,Electric -power conversion apparatus
+    JP4869828B2,2012-02-08,Inverter device and motor control device
+    JP6681266B2,2020-04-15,Electric motor control device and electric vehicle equipped with the same
+
+patent_application
+2
+    Application,Priority date,Filing date,Relation,Title
+    US15/680,261,2015-08-27,2017-08-18,Continuation,Regenerative braking controller for electric motors
+
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    US16/366,263,2015-08-27,2019-03-27,Regenerative braking controller for electric motors
+    US16/877,828,2015-08-27,2020-05-19,Regenerative Braking Controller for Electric Motors
+
+inventor_number
+    3
+classfication_nums
+    15
+classfication_items
+72
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,1,0
+    B,6,0,L,2,2,2,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,5
+    Y,0,2,T,1,0,/,6,4,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,0,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,7,5
+
+application_events
+8
+    2019-03-27,Application filed by Texas Instruments Inc
+    2019-03-27,Priority to US16/366,263
+    2019-07-18,Publication of US20190217708A1
+    2020-05-19,Priority to US16/877,828
+    2020-06-30,Application granted
+    2020-06-30,Publication of US10696163B2
+    Status,Active
+    2035-08-27,Anticipated expiration
+
+active_area
+6
+    U,S
+    W,O
+    E,P
+    C,N
+    U,S
+    U,S
+
+not_active_area
+1
+    U,S
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    US14/837,810,2015-08-27,Regenerative braking controller for electric motors
+    US15/680,261,2017-08-18,Regenerative braking controller for electric motors
+    US16/366,263,2019-03-27,Regenerative braking controller for electric motors
+
+legal_event
+6
+    Date,Code,Title,Description
+    2019-03-27,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2019-09-25,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2019-12-12,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2020-02-10,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2020-06-10,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

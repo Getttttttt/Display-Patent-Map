@@ -1,0 +1,194 @@
+ID
+    US20200198474A1
+citation_exist
+    Patent Citations (5)
+citation_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20180072160A1                      *,2015-04-13,2018-03-15,Siemens Aktiengesellschaft,Drive protection device for protecting a drive
+    Family To Family Citations,,,,
+    DE19933789A1,1999-07-20,2001-02-08,Deutsche Bahn Ag,Monitoring completeness of trains, especially via the main air line, involves checking whether volume and pressure signals and derived parameters correspond to stored values
+    DE102008027520A1,2008-06-10,2010-01-14,Siemens Aktiengesellschaft,Method for a rail vehicle for requesting safety reactions
+    PL2559602T3,2011-08-17,2016-03-31,Siemens Ag Oesterreich,Method and device for blocking the traction of a stationary rail vehicle
+    DE102015203303A1,2015-02-24,2016-08-25,Siemens Aktiengesellschaft,Vehicle, in particular rail vehicle, with drive control device
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN112373418A                      *,2020-11-19,2021-02-19,中节能太阳能科技（镇江）有限公司,AGV's electric circuit structure
+    US11208125B2                      *,2016-08-08,2021-12-28,Transportation Ip Holdings, Llc,Vehicle control system
+    Family To Family Citations,,,,
+    DE102019212521A1                      *,2019-08-21,2021-02-25,Siemens Mobility GmbH,Rail vehicle with safety loops
+
+abstract
+    A device which is configured for controlling a vehicle drive (40) for traction of a vehicle has a drive control apparatus and a monitoring apparatus. In order to ensure a high degree of safety when using the vehicle drive during rapid deceleration of the vehicle, the monitoring apparatus provides a traction release control signal value to the drive control apparatus, under the effect of which the drive control apparatus is enabled to control the vehicle drive, if, in addition to a traction release request signal value due to a rapid deceleration request and an additional traction lock request signal value due to a traction lock request, an additional traction release request signal value due to a traction release condition has effect on the monitoring apparatus. There is also described a vehicle with such a device and to a method for controlling a vehicle drive for traction of a vehicle.
+title
+    Device and method for controlling a drive apparatus for traction of a vehicle
+similar_document
+22
+    Publication,Publication Date,Title
+    RU2586943C2,2016-06-10,Railway vehicle braking system
+    US10875405B2,2020-12-29,Device and method for controlling a drive apparatus for traction of a vehicle
+    KR102189911B1,2020-12-11,Vehicle with brake system
+    CN110785311B,2023-04-21,On-board network for a rail vehicle, method for operating an on-board network, and rail vehicle
+    CA2724443C,2016-11-22,Control device for a rail vehicle
+    CA2893607A1,2014-05-30,Method for a braking operation of a wheel axle of a rail vehicle and braking system for a rail vehicle
+    JP2021522103A,2021-08-30,Electric pneumatic control system for emergency and regular braking, especially for at least one rail vehicle
+    KR102074147B1,2020-02-06,Railway vehicle&#39;s braking command delivery and tracking method
+    CN110997436B,2022-06-24,Device with a drive control device, vehicle and method for operating a drive control device
+    US10486534B2,2019-11-26,Drive protection device for protecting a drive
+    KR101532674B1,2015-07-01,interlock circuit for main control device in cab of the high-speed train
+    DK2559602T3,2016-01-25,A method and device for the blocking of the traction of a stationary rail vehicle
+    US10040435B2,2018-08-07,Method for braking a rail vehicle and open-loop and/or closed-loop control device for a brake system
+    US20220134885A1,2022-05-05,Power supply device, automatic steering vehicle, and power supply method
+    CN105196989A,2015-12-30,Motor train unit brake control equipment and method
+    JP2009142083A,2009-06-25,Train controller
+    KR101855348B1,2018-05-09,Integrated power conversion apparatus for electric railway vehicle and electric railway vehicle including the same
+    Zheng et al.,2019,Vehicle Propulsion System of New MBTA Orange Line Trains
+    US762798A,1904-06-14,Railway signaling system.
+    CN112977539A,2021-06-18,Train emergency control system and train
+    KR20110045861A,2011-05-04,miss control prevention system of Direction Controller and the method
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    15
+classfication_items
+84
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,0,2
+    B,6,0,L,7,/,0,6
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,1,5,/,0,0
+    B,6,1,L,1,5,/,0,0,8,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,0,2
+    B,6,0,L,7,/,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,9,/,0,0
+    B,6,0,L,9,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,1,5,/,0,0
+    B,6,1,L,1,5,/,0,0,7,2
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,3,/,0,0
+    B,6,1,L,3,/,0,0,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+8
+    2018-05-30,Application filed by Siemens Mobility GmbH
+    2019-12-11,Assigned to SIEMENS AKTIENGESELLSCHAFT
+    2019-12-12,Assigned to Siemens Mobility GmbH
+    2020-06-25,Publication of US20200198474A1
+    2020-12-29,Application granted
+    2020-12-29,Publication of US10875405B2
+    Status,Active
+    2038-05-30,Anticipated expiration
+
+active_area
+4
+    D,E
+    E,S
+    E,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    DE102017211193.3A,2017-06-30,Device and method for controlling a drive device for traction of a vehicle
+    DE102017211193,2017-06-30,
+    PCT/EP2018/064133,2018-05-30,Device and method for controlling a drive apparatus for traction of a vehicle
+
+legal_event
+7
+    Date,Code,Title,Description
+    2019-12-06,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2019-12-11,AS,Assignment,Owner name: SIEMENS AKTIENGESELLSCHAFT, GERMANYFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:AMLER, GERALD;REEL/FRAME:051239/0522Effective date: 20191114
+    2019-12-12,AS,Assignment,Owner name: SIEMENS MOBILITY GMBH, GERMANYFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:SIEMENS AKITENGESELLSCHAFT;REEL/FRAME:051257/0195Effective date: 20191125
+    2020-06-26,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2020-07-24,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2020-12-09,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

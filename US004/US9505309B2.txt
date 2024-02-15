@@ -1,0 +1,221 @@
+ID
+    US9505309B2
+citation_exist
+    Patent Citations (26)
+citation_infor
+28
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH07250401A,1994-03-09,1995-09-26,Toyota Motor Corp,Brake controller for electric automobile
+    JPH08163707A,1994-12-06,1996-06-21,Mitsubishi Motors Corp,Brake controller for electric vehicle
+    JPH09215107A,1996-01-29,1997-08-15,Toyota Motor Corp,Braking device of electric vehicle
+    JPH10271608A,1997-03-27,1998-10-09,Mitsubishi Motors Corp,Brake control equipment of electric vehicle
+    JPH1169504A,1997-08-08,1999-03-09,Toyota Motor Corp,Regenerative brake force control device
+    US5892437A                      *,1995-08-21,1999-04-06,University Of Washington,On-board brake warning device for air brake equipped vehicles
+    JP2001097204A,1999-09-28,2001-04-10,Nissan Motor Co Ltd,Braking force control device of automobile
+    JP2004236397A,2003-01-29,2004-08-19,Hitachi Ltd,Controller of power converter for vehicle
+    JP2005261113A,2004-03-12,2005-09-22,Kiyoshi Oishi,Electric vehicle control unit
+    US6984946B2                      *,2002-02-27,2006-01-10,Railpower Technologies Corp.,Method for monitoring and controlling traction motors in locomotives
+    US20060005736A1                      *,2001-03-27,2006-01-12,General Electric Company,Hybrid energy off highway vehicle electric power management system and method
+    US7238139B2                      *,2005-01-06,2007-07-03,Ford Global Technologies, Inc.,Electric and hybrid electric powertrain for motor vehicles
+    JP2008201391A,2007-02-23,2008-09-04,Tcm Corp,Forward/backward movement switching device of electric drive type cargo handling vehicle
+    US7518254B2                      *,2005-04-25,2009-04-14,Railpower Technologies Corporation,Multiple prime power source locomotive control
+    GB2460528A,2008-06-03,2009-12-09,Hitachi Ltd,Fixed-position automatic stop control for an electric vehicle
+    US7739016B2                      *,2006-03-22,2010-06-15,Gm Global Technology Operations, Inc.,Parameter state estimation
+    US8050821B2                      *,2008-12-03,2011-11-01,GM Global Technology Operations LLC,Apparatus and method for regulating hybrid active damping state estimator
+    US8070647B2                      *,2007-11-05,2011-12-06,GM Global Technology Operations LLC,Method and apparatus for adapting engine operation in a hybrid powertrain system for active driveline damping
+    US8135519B2                      *,2007-11-05,2012-03-13,GM Global Technology Operations LLC,Method and apparatus to determine a preferred output torque for operating a hybrid transmission in a fixed gear operating range state
+    US20120063187A1,2010-09-15,2012-03-15,Aisin Aw Co., Ltd.,Inverter device
+    US8140230B2                      *,2008-10-08,2012-03-20,GM Global Technology Operations LLC,Apparatus and method for regulating active driveline damping in hybrid vehicle powertrain
+    US20120139329A1                      *,2010-12-01,2012-06-07,Aptera Motors, Inc.,Regenerative braking system
+    US20120139328A1                      *,2010-12-01,2012-06-07,Aptera Motors, Inc.,Automotive vehicle brake system
+    US20120138395A1                      *,2010-12-01,2012-06-07,Aptera Motors, Inc.,Automotive vehicle regenerative braking control system
+    US8296032B2                      *,2008-12-16,2012-10-23,Ford Global Technologies, Llc,Hybrid vehicle and a method of control for improved power management
+    US8392057B2                      *,2009-12-21,2013-03-05,Cummins Inc.,Hybrid powertrain diagnostics
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (4)
+              
+
+
+citedBy_exist
+    
+              Cited By (6)
+              
+
+
+citedBy_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20140330472A1                      *,2011-12-09,2014-11-06,Toyota Jidosha Kabushiki Kaisha,Vehicle control device
+    US20180251116A1                      *,2017-03-03,2018-09-06,Hyundai Motor Company,System and method of controlling regenerative braking of eco-friendly vehicle
+    Family To Family Citations,,,,
+    EP3466744A4                      *,2016-05-27,2019-05-01,Honda Motor Co., Ltd.,Electric-powered vehicle
+    CN108032862B                      *,2017-12-08,2020-01-17,中车株洲电力机车有限公司,Hybrid power supply power system and power supply method for internal combustion motor train unit
+    CN113119974B                      *,2019-12-31,2022-09-23,北京新能源汽车股份有限公司,Vehicle driving control method and system and vehicle
+    CN115648957B                      *,2022-12-27,2023-05-30,小米汽车科技有限公司,Vehicle control method, device, storage medium and chip
+
+abstract
+    An electric vehicle control device includes a calculation unit that calculates a regenerative-brake-torque load factor when a braking command is detected. The calculation unit includes a brake-torque load-factor determination unit that determines the regenerative-brake-torque load factor according to vehicle speed information that is a detection value of vehicle speed; and a brake-torque load-factor correction unit that corrects the regenerative-brake-torque load factor determined by the brake-torque load-factor determination unit using element temperature information that is temperature information of a switching element included in an inverter.
+title
+    Electric vehicle control device and brake controlling method for electric vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US9505309B2,2016-11-29,Electric vehicle control device and brake controlling method for electric vehicle
+    US10063058B2,2018-08-28,Power converter
+    JP6285223B2,2018-02-28,System and method for motor fault protection
+    US9998061B2,2018-06-12,Motor control device and motor control method
+    JP2014072973A,2014-04-21,Control device of alternating current motor
+    US8878477B2,2014-11-04,Electric motor driving apparatus having failure detection circuit, and failure detection method for the electric motor driving apparatus having failure detection circuit
+    JP5827821B2,2015-12-02,Hybrid vehicle failure diagnosis apparatus and method
+    JP5518181B2,2014-06-11,Power converter and surge voltage suppression method
+    US10821967B2,2020-11-03,Control device and temperature detection condition determination method for motor system
+    JP2010154642A,2010-07-08,Device for protecting power supply circuit of three-phase inverter
+    US9837950B2,2017-12-05,Vehicle control device and railroad vehicle
+    CN105594113B,2018-05-11,Power inverter and control method
+    JP2014124024A,2014-07-03,Inverter device
+    US20160380576A1,2016-12-29,Control device
+    US10530147B2,2020-01-07,Control device with safety shutdown
+    JP6203036B2,2017-09-27,Electric vehicle control device
+    US8937447B2,2015-01-20,Methods and systems for controlling a boost converter
+    CN105978438B,2018-09-11,Inverter for supplying loaded self-adaptive boost voltage
+    JP5349121B2,2013-11-20,Synchronous machine control device for vehicle
+    JP4935889B2,2012-05-23,Driving device for power conversion circuit
+    US10005362B2,2018-06-26,Electric vehicle control device
+    del Olmo et al.,2017,DC-link sensor Fault Detection and isolation for railway traction electric drives
+    JP2015023709A,2015-02-02,Power conversion apparatus
+    KR101393574B1,2014-05-30,Detection method of disconnection of power cable of motor and motor control method
+    RU148478U1,2014-12-10,RECTIFIED RECTIFIED ELECTRIC DRIVE WITH ELECTRONIC SHUNT
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    17
+classfication_items
+87
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,1,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,6
+    B,6,0,L,2,2,4,0,/,6,6,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,4,1
+    Y,0,2,T,1,0,/,7,2,9,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+7
+    2013-03-29,Application filed by Mitsubishi Electric Corp
+    2015-09-23,Assigned to MITSUBISHI ELECTRIC CORPORATION
+    2016-02-25,Publication of US20160052399A1
+    2016-11-29,Application granted
+    2016-11-29,Publication of US9505309B2
+    Status,Active
+    2033-03-29,Anticipated expiration
+
+active_area
+4
+    J,P
+    W,O
+    D,E
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2013/059699,2013-03-29,Electric vehicle control device and method for controlling brake for electric vehicle
+
+legal_event
+4
+    Date,Code,Title,Description
+    2015-09-23,AS,Assignment,Owner name: MITSUBISHI ELECTRIC CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:TAKABAYASHI, HIROKAZU;NAKASHIMA, YUKIO;REEL/FRAME:036638/0392Effective date: 20150825
+    2016-11-09,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2020-05-14,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

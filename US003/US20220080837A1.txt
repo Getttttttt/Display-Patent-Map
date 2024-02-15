@@ -1,0 +1,190 @@
+ID
+    US20220080837A1
+citation_exist
+    Patent Citations (6)
+citation_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20040163860A1                      *,2002-12-20,2004-08-26,Hitachi, Ltd.,Hybrid car and control apparatus therefor, and hybrid four-wheel-drive car and control apparatus therefor
+    US20140379220A1                      *,2010-11-02,2014-12-25,Snu R&Db Foundation,Vehicle with independently driven multiple axes, and controller which independently drives multiple axles
+    US20160167662A1                      *,2013-10-31,2016-06-16,Mitsubishi Electric Corporation,Traction control device
+    US20190176801A1                      *,2017-12-12,2019-06-13,Ford Global Technologies, Llc,Hybrid vehicle drift control system and method
+    US20190337385A1                      *,2018-05-04,2019-11-07,Hyundai Motor Company,Method of controlling implementation of drift driving state of vehicle
+    US20210402877A1                      *,2020-06-29,2021-12-30,Ford Global Technologies, Llc,One-pedal speed control for off-road driving
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20220203828A1                      *,2020-07-27,2022-06-30,Ford Global Technologies, Llc,Manual torque vectoring
+    CN115303243A                      *,2022-08-31,2022-11-08,重庆金康赛力斯新能源汽车设计院有限公司,Vehicle control method, system, electronic device and storage medium
+    US20220396259A1                      *,2021-06-14,2022-12-15,Toyota Research Institute, Inc.,Operator drift maintenance
+    Family To Family Citations,,,,
+
+abstract
+    A vehicle includes driven wheels, an actuator operably coupled to the driven wheels by a drivetrain, and a braking system having friction brakes associated with the driven wheels. A controller is programmed to, in response to the vehicle being in a drift mode, decouple the driven wheels from the actuator, engage the friction brakes to lockup the driven wheels, and place the actuator in speed control and command a torque to the actuator based on a difference between a measured speed of the actuator and a target speed of the actuator.
+title
+    Vehicle with drift mode
+similar_document
+26
+    Publication,Publication Date,Title
+    US20220080837A1,2022-03-17,Vehicle with drift mode
+    US6704627B2,2004-03-09,Drive force distribution apparatus for hybrid vehicle
+    US8040084B2,2011-10-18,Vehicle, control method thereof and braking device
+    JP4631477B2,2011-02-16,Vehicle regenerative braking control device
+    US8700241B2,2014-04-15,Drive control device for standby four-wheel drive vehicle
+    EP1728672B1,2014-04-02,Controller for a hybride four-wheel-drive vehicle
+    US20100108417A1,2010-05-06,Parallel power supplies for hev applications
+    JP2004268901A,2004-09-30,Brake control system
+    GB2386879A,2003-10-01,Regenerative braking system for hybrid electric vehicle
+    US20100211280A1,2010-08-19,Regenerative braking control method for hybrid vehicles and/or four-wheel-drive vehicles and arrangement for vehicle using said method
+    US8746380B2,2014-06-10,Method for operation of a braking system of a hybrid vehicle, braking system and vehicle
+    CN112823117B,2023-03-24,Trailer brake controller, method and software for the same, and trailer vehicle having the same
+    JP2007060761A,2007-03-08,Deceleration controller for hybrid car
+    US10173694B2,2019-01-08,Traveling control device for vehicle
+    US20220080971A1,2022-03-17,Uphill vehicle launch in one-pedal driving mode
+    US20140038772A1,2014-02-06,Traction Control System For A Hybrid Vehicle
+    WO2013088530A1,2013-06-20,Vehicle control apparatus
+    JP2013158200A,2013-08-15,Passive torque split four-wheel-drive vehicle
+    US9694710B2,2017-07-04,Vehicle control device
+    JP4455572B2,2010-04-21,Hybrid vehicle
+    CN113910922A,2022-01-11,Power system control method and power system of four-wheel-drive pure electric vehicle
+    JP2002345105A,2002-11-29,Electric vehicle
+    JP6614052B2,2019-12-04,Automobile
+    JP4916408B2,2012-04-11,Hybrid vehicle and control method thereof
+    JP6838271B2,2021-03-03,Hybrid vehicle and its control method
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US17/023,575,2020-09-17,2020-09-17,Vehicle with drift mode
+
+inventor_number
+    2
+classfication_nums
+    13
+classfication_items
+81
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,5,5
+    B,6,0,T,8,/,1,7,5,5,1
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,5,5
+    B,6,0,T,8,/,1,7,5,5,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,5,5
+    B,6,0,T,8,/,1,7,5,5,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,0,8
+    B,6,0,W,3,0,/,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,0,1,/,0,0
+    B,6,0,T,2,2,0,1,/,1,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+5
+    2020-09-17,Application filed by Ford Global Technologies LLC
+    2020-09-17,Priority to US17/023,575
+    2020-09-17,Assigned to FORD GLOBAL TECHNOLOGIES, LLC
+    2022-03-17,Publication of US20220080837A1
+    Status,Pending
+
+active_area
+1
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US17/023,575,2020-09-17,Vehicle with drift mode
+
+legal_event
+6
+    Date,Code,Title,Description
+    2020-09-17,AS,Assignment,Owner name: FORD GLOBAL TECHNOLOGIES, LLC, MICHIGANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:PETTERSSON, LARS NIKLAS;REEL/FRAME:053800/0237Effective date: 20200917
+    2021-08-20,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2023-06-22,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2023-07-25,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2023-10-27,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+

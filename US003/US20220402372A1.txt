@@ -1,0 +1,156 @@
+ID
+    US20220402372A1
+citation_exist
+    Patent Citations (3)
+citation_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    CN103946060B9                      *,2011-11-24,2016-07-20,Ntn株式会社,Electric vehicle control device
+    WO2015058059A1                      *,2013-10-18,2015-04-23,The Florida State University Research Foundation, Inc.,Slip mitigation control for electric ground vehicles
+    DE102017221986A1                      *,2017-12-06,2019-06-06,Zf Friedrichshafen Ag,Method and control device for operating an electric vehicle or a hybrid vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    A process to control a drive assembly includes the steps of providing a mathematical model associating a first quantity indicative of a torque delivered by a motor-generator with a second quantity indicative of a linear acceleration of a wheel hub unit, which receives the torque, acquiring a first signal indicative of the second quantity, determining a target signal of the first quantity by means of the mathematical model based on the acquired first signal, so that the torque indicated by the target signal involves at least a decrease in a difference between the second quantity and a reference, and controlling the motor-generator according to the determined target signal.
+title
+    Apparatus and process to control a drive assembly
+similar_document
+26
+    Publication,Publication Date,Title
+    US7734384B2,2010-06-08,Tuned battery pack damper for a hybrid electric vehicle
+    CN100379590C,2008-04-09,Electromagnetic suspension apparatus for automotive vehicles and method for controlling electric motor of the same
+    CN106647256B,2021-04-06,Active suspension control system and control method based on H-infinity PID
+    US10005457B2,2018-06-26,Driving force control device for a vehicle
+    CN102407879B,2015-07-29,The mthods, systems and devices that wheel flutter vibration in electric power steering reduces
+    US5610330A,1997-03-11,Effective road profile control method for a spindle-coupled road simulator
+    JP3722127B2,2005-11-30,Electromagnetic suspension device for vehicle
+    US5990645A,1999-11-23,Mechanical vibration detector and vibration damping controller
+    US9849748B2,2017-12-26,Sprung vibration suppression device for vehicle
+    CN103534130B,2016-01-13,To the method that the device for reclaiming the energy produced by retro maneuver vehicle controls
+    US11313762B2,2022-04-26,Dynamometer control device
+    JP5556779B2,2014-07-23,Vehicle control device
+    US20220402372A1,2022-12-22,Apparatus and process to control a drive assembly
+    JPH0658848A,1994-03-04,Road simulation system
+    CN112297873B,2023-05-12,Electric vehicle system and control method for controlling electric vehicle
+    Böcker et al.,2004,Active suppression of torsional oscillations
+    Fukudome,2016,Reduction of longitudinal vehicle vibration using In-Wheel motors
+    Yamada et al.,2017,Model-based longitudinal vibration suppression control for electric vehicles with geared in-wheel motors
+    US20180186359A1,2018-07-05,System and method for propulsion system control
+    Chen et al.,2014,Stiffness-damping matching method of an ECAS system based on LQG control
+    US20070179679A1,2007-08-02,Method for determining effort transmitted between the wheel of a vehicle and a wheel support
+    CN114151538B,2023-08-11,Learning method
+    Perisse et al.,2000,An original feedback control with a reversible electromechanical actuator used as an active isolation system for a seat suspension. Part I: theoretical study
+    US20220111736A1,2022-04-14,Control device for electrified vehicle
+    JPH1114353A,1999-01-22,Correcting device of inclination sensor
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    11
+classfication_items
+63
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,4,5
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,7,/,0,0
+    B,6,0,K,7,/,0,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,7,/,0,0
+    B,6,0,K,2,0,0,7,/,0,0,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B,6,0,L,2,2,4,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+
+application_events
+4
+    2022-06-15,Application filed by Ferrari SpA
+    2022-12-22,Publication of US20220402372A1
+    2023-08-23,Assigned to FERRARI S.P.A.
+    Status,Pending
+
+active_area
+4
+    J,P
+    E,P
+    U,S
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    IT102021000015851,2021-06-17,
+    IT102021000015851A,2021-06-17,APPARATUS AND PROCEDURE FOR CONTROLLING A TRACTION ASSEMBLY
+
+legal_event
+3
+    Date,Code,Title,Description
+    2022-07-28,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2023-08-23,AS,Assignment,Owner name: FERRARI S.P.A., ITALYFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:HARRISON, CHRISTOPHER;VARISCO, STEFANO;REEL/FRAME:064677/0401Effective date: 20230322
+

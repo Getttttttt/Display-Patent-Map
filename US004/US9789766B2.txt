@@ -1,0 +1,209 @@
+ID
+    US9789766B2
+citation_exist
+    Patent Citations (8)
+citation_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    WO2000013304A1,1998-08-31,2000-03-09,Siemens Aktiengesellschaft,Method for limiting an electric current passing through an electrical component and limiting device
+    JP2003009541A,2001-06-22,2003-01-10,Nissan Motor Co Ltd,Inverter
+    JP2003243793A,2002-01-18,2003-08-29,Fci,Electrical connection system for two printed circuit boards mounted on opposite side of mid-plane printed circuit board at angles to each other
+    JP2005354812A,2004-06-11,2005-12-22,Hitachi Ltd,Inverter apparatus
+    DE102007035825A1,2007-07-31,2009-02-05,Robert Bosch Gmbh,Electrical device with a semiconductor device
+    DE102009045068A1,2009-08-27,2011-03-03,Semikron Elektronik Gmbh & Co. Kg,Semiconductor arrangement has semiconductor device supported on carrier with connecting surface, where contact area is arranged on carrier
+    CN102783014A,2010-03-10,2012-11-14,株式会社日立制作所,Power converter
+    CN102934344A,2010-06-03,2013-02-13,日产自动车株式会社,Control device for electric power converter
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (3)
+              
+
+
+citedBy_exist
+    
+              Cited By (25)
+              
+
+
+citedBy_infor
+27
+    Publication number,Priority date,Publication date,Assignee,Title
+    US10040357B2                      *,2015-04-08,2018-08-07,Robert Bosch Gmbh,Method for operating an electrified motor vehicle
+    DE102019107805A1                      *,2019-03-27,2020-10-01,Seg Automotive Germany Gmbh,Method for monitoring a service life of a converter circuit of an electrical machine
+    Family To Family Citations,,,,
+    JP5946436B2                      *,2013-10-21,2016-07-06,カルソニックカンセイ株式会社,Battery parameter estimation apparatus and parameter estimation method
+    EP3203250B1                      *,2016-02-03,2023-05-24,Mitsubishi Electric R&D Centre Europe B.V.,Method and device for estimating a level of damage or a lifetime expectation of a power semiconductor module
+    DE102016211898A1,2016-06-30,2018-01-04,Robert Bosch Gmbh,Method for monitoring a battery
+    DE102016217471A1,2016-09-14,2018-03-15,Robert Bosch Gmbh,Method for operating a vehicle electrical system
+    DE102016218555A1,2016-09-27,2018-03-29,Robert Bosch Gmbh,Method for operating an energy on-board network
+    DE102016218567A1,2016-09-27,2018-03-29,Robert Bosch Gmbh,Method for operating an energy on-board network
+    DE102017218446A1,2016-10-28,2018-05-03,Robert Bosch Gmbh,Method for monitoring a motor vehicle with an automated driving function and device for carrying out the method
+    DE102016221249A1,2016-10-28,2018-05-03,Robert Bosch Gmbh,Method for operating a vehicle electrical system
+    DE102017210366A1                      *,2017-06-21,2018-12-27,Robert Bosch Gmbh,Method for operating a vehicle electrical system
+    US10510195B2                      *,2017-06-29,2019-12-17,Tesla, Inc.,System and method for monitoring stress cycles
+    DE102017216801A1,2017-09-22,2019-03-28,Robert Bosch Gmbh,Method for monitoring at least one component of a motor vehicle
+    WO2019057871A1,2017-09-22,2019-03-28,Robert Bosch Gmbh,Method for monitoring at least one component of a motor vehicle
+    DE102018212770A1                      *,2018-07-31,2020-02-06,Robert Bosch Gmbh,Method for monitoring a component of a motor vehicle
+    DE102018201119A1,2018-01-24,2019-07-25,Robert Bosch Gmbh,Method for monitoring the power supply of a motor vehicle with automated driving function
+    DE102018204622A1,2018-03-27,2019-10-02,Robert Bosch Gmbh,Method for monitoring a motor vehicle with automated driving functions
+    US11211895B2,2018-05-18,2021-12-28,Gkn Automotive Ltd.,Operating an electrical machine
+    DE102018212777A1                      *,2018-07-31,2020-02-06,Robert Bosch Gmbh,Method for monitoring an electrical system of a motor vehicle
+    DE102018220494A1,2018-11-28,2020-05-28,Robert Bosch Gmbh,Method for monitoring an energy store in an electrical system
+    DE102019211155A1                      *,2019-07-26,2021-01-28,Volkswagen Aktiengesellschaft,Method of a vehicle and a network server for servicing vehicle components
+    DE102019211154A1                      *,2019-07-26,2021-01-28,Volkswagen Aktiengesellschaft,Method of a network server for servicing vehicle components
+    DE102019211614A1                      *,2019-08-02,2021-02-04,Robert Bosch Gmbh,Method for protecting an electrical machine in a motor vehicle
+    DE102019211786A1                      *,2019-08-06,2021-02-11,Audi Ag,Method for monitoring the aging of an environment sensor in a motor vehicle and motor vehicle
+    DE102019219427A1,2019-12-12,2021-06-17,Robert Bosch Gmbh,Method for monitoring an energy store in a motor vehicle
+
+abstract
+    A method and arrangement for operating a motor vehicle having a vehicle electrical system having a semiconductor switch, which during the vehicle operation is loaded with load events based on at least one load-influencing factor, and for which a service life load relationship is predefined, for a nominal service life for a nominal load, and with which for at least one point in time within the nominal service life a nominal load proportion corresponding to the at least one point in time is ascertainable, and the method for the at least one point in time including ascertaining an actual load of the semiconductor switch based on establishing past load events at the at least one point in time, the ascertaining of the nominal load proportion corresponding to the at least one point in time with the predefined service life load relationship, and comparing of the actual and nominal load proportion at the at least one point in time and the reducing of the at least one load-influencing factor when the actual load exceeds the nominal load proportion by more than a predefined tolerance value at the at least one point in time.
+title
+    Method for operating an electrified motor vehicle and means for its implementation
+similar_document
+26
+    Publication,Publication Date,Title
+    US9789766B2,2017-10-17,Method for operating an electrified motor vehicle and means for its implementation
+    JP6692884B2,2020-05-13,In particular, a method of operating a car with deterioration over time and energy efficiency
+    CN109313240B,2021-10-08,Method and device for monitoring a battery
+    CN109863058B,2023-09-15,Model predictive battery power limit estimation system and method
+    US9187009B2,2015-11-17,Apparatus and method for controlling cooling of electronic components of fuel cell vehicle
+    US20170166081A1,2017-06-15,Method and system for controlling voltage of fuel cell in stop-mode of fuel cell vehicle
+    JP2013507628A,2013-03-04,Method for determining and / or predicting the maximum possible output of a battery
+    US20150326038A1,2015-11-12,System and method for battery power management
+    US11296530B2,2022-04-05,Method for charging battery at low temperature
+    WO2017154419A1,2017-09-14,Battery management system, battery system and hybrid vehicle control system
+    EP3064952A1,2016-09-07,Energy storage device management apparatus, energy storage device management method, energy storage device module, energy storage device management program, and movable body
+    CN108008314B,2020-02-18,Thermal balance testing method and device for power battery system
+    EP3425721B1,2023-05-31,Thermal management system for batteries
+    JP6422798B2,2018-11-14,Battery management device, battery system, and hybrid vehicle control system
+    CN105359329A,2016-02-24,Method for battery management and battery management system
+    US20210237580A1,2021-08-05,Method for Operating an Electrical Energy Store of an Electrically Operable Motor Vehicle
+    US20170219657A1,2017-08-03,Online battery capacity estimation utilizing passive balancing
+    CN112677768B,2022-11-01,Method and system for determining connection reliability of vehicle high-voltage circuit
+    US20190217867A1,2019-07-18,Method for operating an electrical system of a motor vehicle
+    JP7376189B2,2023-11-08,Simulation system and data distribution method
+    KR102472234B1,2022-11-28,Method and detection system for determining support of energy content and power of battery
+    US10040357B2,2018-08-07,Method for operating an electrified motor vehicle
+    CN111856283A,2020-10-30,Battery evaluation system, battery evaluation method, and program
+    EP3526851B1,2023-03-22,Battery model and control application calibration systems and methods
+    US20120109431A1,2012-05-03,Robust motor torque performance diagnostics algorithm for electric drive systems in hybrid vehicles
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    5
+classfication_nums
+    13
+classfication_items
+67
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,8,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,8,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,4,4
+    H
+    H,0,2
+    H,0,2,H
+    H,0,2,H,3,/,0,0
+    H,0,2,H,3,/,4,2
+    H
+    H,0,2
+    H,0,2,H
+    H,0,2,H,6,/,0,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,5
+
+application_events
+8
+    2014-01-16,Application filed by Robert Bosch GmbH
+    2015-10-15,Assigned to ROBERT BOSCH GMBH
+    2016-01-07,Publication of US20160001657A1
+    2017-10-17,Application granted
+    2017-10-17,Publication of US9789766B2
+    2017-12-20,Assigned to ROBERT BOSCH GMBH, SEG AUTOMOTIVE GERMANY GMBH
+    Status,Active
+    2034-09-07,Adjusted expiration
+
+active_area
+5
+    W,O
+    C,N
+    U,S
+    B,R
+    E,P
+
+not_active_area
+1
+    D,E
+
+patent_application_claiming_priority
+5
+    Application,Filing date,Title
+    DE102013203661,2013-03-04,
+    DE102013203661.2A,2013-03-04,Method for operating an electrified motor vehicle and means for implementing it
+    DE102013203661.2,2013-03-04,
+    PCT/EP2014/050837,2014-01-16,Method for operating an electrified motor vehicle and means for implementing said method
+
+legal_event
+5
+    Date,Code,Title,Description
+    2015-10-15,AS,Assignment,Owner name: ROBERT BOSCH GMBH, GERMANYFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:KOLLER, OLIVER DIETER;TOBIAS, CHRISTOPH;RICHTER, MARTIN;SIGNING DATES FROM 20150910 TO 20150923;REEL/FRAME:036796/0646
+    2017-09-27,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2017-12-20,AS,Assignment,Owner name: SEG AUTOMOTIVE GERMANY GMBH, GERMANYFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:ROBERT BOSCH GMBH;REEL/FRAME:044957/0853Effective date: 20171212Owner name: ROBERT BOSCH GMBH, GERMANYFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:ROBERT BOSCH GMBH;REEL/FRAME:044957/0853Effective date: 20171212
+    2021-04-09,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

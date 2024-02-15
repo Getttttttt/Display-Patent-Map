@@ -1,0 +1,204 @@
+ID
+    JP2010252617A
+citation_exist
+    Patent Citations (3)
+citation_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2006087299A                      *,2005-11-04,2006-03-30,Toshiba Corp,電気車制御装置
+    JP2007210513A                      *,2006-02-10,2007-08-23,Meidensha Corp,直流電力貯蔵装置
+    JP2009027763A                      *,2007-07-17,2009-02-05,Meidensha Corp,直流電力貯蔵装置
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    EP2739502A4                      *,2011-08-05,2015-12-16,Abb Inc,ELECTRIC POWER STORAGE SYSTEM FOR TRACTION SUPPLY
+    JP2017140908A                      *,2016-02-09,2017-08-17,株式会社東芝,蓄電装置および蓄電方法
+    EP3556594A1                      *,2018-04-17,2019-10-23,Siemens Mobility GmbH,Verfahren zum betreiben eines fahrzeugs sowie fahrzeug
+    Family To Family Citations,,,,
+
+abstract
+    【課題】き電線過電圧故障の発生を防止し、電気二重層キャパシタへの充電が上限値に限りなく近くまでできるようにした。【解決手段】ＰＩアンプ２３から出力された電流指令値を、リミッタ２４に入力して制限処理して得た電流指令値と、電気二重層キャパシタの内部抵抗を考慮して電流指令値を絞るフィルタ３４により絞られた新たな電流指令値とを比較器３２により比較し小さい方の電流指令値を充電電流指令値として出力する。比較器３２から出力された充電電流指令値と電気二重層キャパシタの充電電流値検出値との偏差出力を求め、その出力を、ＰＩアンプ２６を介して、双方向チョッパ手段のデューティを決めるＰＩ制御出力を得てからデューティ比を制御するアンプ２８に入力し、そのアンプ２８からデューティ比に見合ったＰＷＭ信号をＣＭＰ生成部２９で生成する。このＰＷＭ信号と回生電力が発生したときの条件信号とからゲート信号を得る。【選択図】図１
+title
+    電気鉄道用き電線電圧補償装置における充電制御方法
+similar_document
+26
+    Publication,Publication Date,Title
+    KR101971324B1,2019-04-22,배터리 시스템
+    JP5434195B2,2014-03-05,燃料電池システム及びこれを備えた車両
+    WO2019155751A1,2019-08-15,車載充電装置、及び車載充電装置の制御方法
+    JP6888681B2,2021-06-16,車両用電源システム
+    JP6187377B2,2017-08-30,車両の充電装置
+    US9669779B2,2017-06-06,Method for operating a multi-voltage electrical system of a motor vehicle, a multi-voltage electrical system and means for implementing the method
+    JP2009044862A,2009-02-26,電気自動車の電源制御装置及び電源システム
+    JP5534518B2,2014-07-02,充電器の異常検出装置
+    JP4934562B2,2012-05-16,蓄電装置を有する車両用制御装置
+    US11091058B2,2021-08-17,Fuel cell system
+    JP2019216491A,2019-12-19,電力制御装置
+    JP5391900B2,2014-01-15,電気鉄道用き電線電圧補償装置における充電制御方法
+    JP6187180B2,2017-08-30,電力変換システム
+    JP2019221063A5,2021-01-21,
+    JP4387813B2,2009-12-24,直流電圧給電装置
+    JP6969505B2,2021-11-24,車載用の電源制御装置および車載用電源システム
+    JP6232133B2,2017-11-15,電子制御装置
+    JP5347780B2,2013-11-20,電気鉄道用き電線電圧補償装置における放電制御方法
+    US10910875B2,2021-02-02,Vehicle backup device
+    JP2005269828A,2005-09-29,ハイブリッドシステム
+    JP2016213918A,2016-12-15,車両の充電制御装置
+    JP2007267582A,2007-10-11,昇降圧チョッパ装置とその駆動方法
+    JP5482491B2,2014-05-07,直流電気鉄道の電力貯蔵装置
+    JP5493604B2,2014-05-14,直流電気鉄道の電力貯蔵装置
+    JP6975768B2,2021-12-01,電圧変換装置
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    JP2009171755A,2009-03-24,2009-07-23,電気鉄道用き電線電圧補償装置における充電制御方法
+
+inventor_number
+    5
+classfication_nums
+    15
+classfication_items
+93
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,0,2
+    B,6,0,L,7,/,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,9,/,0,0
+    B,6,0,L,9,/,1,6
+    B,6,0,L,9,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B,6,0,L,2,2,1,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B,6,0,L,2,2,1,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2009-07-23,Application filed by Meidensha Corp, Meidensha Electric Manufacturing Co Ltd
+    2009-07-23,Priority to JP2009171755A
+    2010-11-04,Publication of JP2010252617A
+    2014-01-15,Application granted
+    2014-01-15,Publication of JP5391900B2
+    Status,Active
+    2029-07-23,Anticipated expiration
+
+active_area
+1
+    J,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2009071092,2009-03-24,
+    JP2009071092,2009-03-24,
+    JP2009171755A,2009-07-23,電気鉄道用き電線電圧補償装置における充電制御方法
+
+legal_event
+7
+    Date,Code,Title,Description
+    2012-05-24,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20120523
+    2013-09-12,A977,Report on retrieval,Free format text: JAPANESE INTERMEDIATE CODE: A971007Effective date: 20130912
+    2013-09-12,TRDD,Decision of grant or rejection written,
+    2013-09-18,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20130917
+    2013-10-21,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20130930
+    2013-10-25,R150,Certificate of patent or registration of utility model,Ref document number: 5391900Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R150Free format text: JAPANESE INTERMEDIATE CODE: R150
+

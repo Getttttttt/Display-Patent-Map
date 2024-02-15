@@ -1,0 +1,289 @@
+ID
+    US20200149996A1
+citation_exist
+    Patent Citations (9)
+citation_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US11225144B2,2005-11-17,2022-01-18,Invently Automotive Inc.,Vehicle power management system
+    US11285810B2,2005-11-17,2022-03-29,Invently Automotive Inc.,Vehicle power management system
+    US10259444B2,2011-06-13,2019-04-16,Ge Global Sourcing Llc,Vehicle control system and method
+    US9545854B2                      *,2011-06-13,2017-01-17,General Electric Company,System and method for controlling and powering a vehicle
+    US9702715B2,2012-10-17,2017-07-11,General Electric Company,Distributed energy management system and method for a vehicle system
+    US9669811B2,2012-12-28,2017-06-06,General Electric Company,System and method for asynchronously controlling brakes of vehicles in a vehicle system
+    US10703219B2,2013-10-04,2020-07-07,Ford Global Technologies, Llc,Vehicle battery charge setpoint control
+    US9714837B2,2014-02-07,2017-07-25,Recargo, Inc.,Presenting routing information for electric vehicles
+    US10160339B2,2015-11-13,2018-12-25,Nio Usa, Inc.,Smart grid management
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (8)
+              
+
+
+citedBy_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN113250836A                      *,2021-06-07,2021-08-13,一汽解放汽车有限公司,Engine control method, engine control device, computer equipment and storage medium
+    US11145141B2                      *,2019-03-08,2021-10-12,Ford Global Technologies, Llc,Electric vehicle predictive range estimating systems and methods
+    US11189114B2                      *,2016-05-04,2021-11-30,Transportation Ip Holdings, Llc,Vehicle control system
+    US11326892B2                      *,2018-10-10,2022-05-10,Hyundai Motor Company,Route guide apparatus and method for electric vehicle
+    US20220242536A1                      *,2019-07-03,2022-08-04,Yara Marine Technologies As,Method and system for controlling propulsive power output of ship
+    EP4059761A1                      *,2021-03-19,2022-09-21,Siemens Mobility GmbH,Vehicle and method for operating a vehicle
+    EP4242052A1                      *,2022-03-10,2023-09-13,Siemens Mobility GmbH,Method for operating a drive system having a plurality of energy stores
+    EP4265470A1                      *,2022-04-21,2023-10-25,Transportation IP Holdings, LLC,Vehicle charging system and method
+    Family To Family Citations,,,,
+
+abstract
+    A method that may include obtaining environmental parameters related to one or more routes of a trip for a first vehicle system, and determining one or more expenditure sections and one or more charging sections of the one or more routes by predicting where the first vehicle system will consume energy and where the first vehicle system will generate the energy, respectively, during the trip based on the environmental parameters. A first trip plan may be obtained for the trip based on the one or more expenditure sections and the one or more charging sections, the trip plan designating one or more operational settings for the first vehicle system for travel during the trip.
+title
+    Vehicle control system
+similar_document
+22
+    Publication,Publication Date,Title
+    US11719602B2,2023-08-08,Vehicle control system
+    US11447034B2,2022-09-20,Vehicle control system and method
+    US8948940B2,2015-02-03,Method and system for controlling energy demand of vehicles on a network
+    US8645047B2,2014-02-04,System and method for optimizing vehicle performance in presence of changing optimization parameters
+    US8271154B2,2012-09-18,Method for controlling a hybrid drive in a rail vehicle
+    US10829104B2,2020-11-10,Hybrid vehicle control system
+    EP2262673B1,2020-12-09,Method for controlling a powered system based on mission plan
+    WO2010078133A1,2010-07-08,System and method for optimizing hybrid engine operation
+    CN107531260A,2018-01-02,For controlling Vehicular system to realize the system and method for different target during stroke
+    US20220119020A1,2022-04-21,Vehicle Control System
+    US11192458B2,2021-12-07,Hybrid propulsion system and method of controlling same
+    AU2022275480A1,2023-01-05,Vehicle control system
+    US20230242155A1,2023-08-03,Vehicle energy management system
+    US20210031817A1,2021-02-04,Control system and method for a vehicle system
+    AU2019200200A1,2019-02-14,Method for controlling a powered system based on mission plan
+    US11565731B2,2023-01-31,Control system and method for a vehicle system
+    US20200207378A1,2020-07-02,Hybrid propulsion system and method of controlling same
+    US20210188336A1,2021-06-24,Vehicle control system
+    US20220153252A1,2022-05-19,Hybrid propulsion system and method of controlling same
+    US20220402399A1,2022-12-22,Vehicle control system and method
+    US20220242391A1,2022-08-04,System and method for managing vehicle operations
+
+patent_application
+2
+    Application,Priority date,Filing date,Relation,Title
+    US16/438,230,2016-03-07,2019-06-11,Continuation-In-Part,Method and system for an engine
+
+patent_priority_application
+6
+    Application,Priority date,Filing date,Title
+    US16/727,220,2016-03-07,2019-12-26,Vehicle control system
+    CA3102406A,2019-12-26,2020-12-11,Vehicle control system
+    AU2020289849A,2019-12-26,2020-12-18,Vehicle control system
+    BR102020026510-5A,2019-12-26,2020-12-23,methods for obtaining environmental parameters and vehicle system
+    AU2022275480A,2019-12-26,2022-11-24,Vehicle control system
+
+inventor_number
+    4
+classfication_nums
+    27
+classfication_items
+163
+    G
+    G,0,1
+    G,0,1,M
+    G,0,1,M,1,5,/,0,0
+    G,0,1,M,1,5,/,0,4
+    G,0,1,M,1,5,/,1,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    F
+    F,0,2
+    F,0,2,B
+    F,0,2,B,6,3,/,0,0
+    F,0,2,B,6,3,/,0,4
+    F,0,2,B,6,3,/,0,4,4
+    F,0,2,B,6,3,/,0,4,7
+    F
+    F,0,2
+    F,0,2,D
+    F,0,2,D,2,9,/,0,0
+    F,0,2,D,2,9,/,0,2
+    F
+    F,0,2
+    F,0,2,D
+    F,0,2,D,2,9,/,0,0
+    F,0,2,D,2,9,/,0,6
+    F
+    F,0,2
+    F,0,2,D
+    F,0,2,D,4,1,/,0,0
+    F,0,2,D,4,1,/,0,0,8
+    F,0,2,D,4,1,/,0,0,8,5
+    F
+    F,0,2
+    F,0,2,D
+    F,0,2,D,4,1,/,0,0
+    F,0,2,D,4,1,/,0,0,9,7
+    F
+    F,0,2
+    F,0,2,D
+    F,0,2,D,4,1,/,0,0
+    F,0,2,D,4,1,/,2,2
+    G
+    G,0,1
+    G,0,1,M
+    G,0,1,M,1,5,/,0,0
+    G,0,1,M,1,5,/,0,4
+    G,0,1,M,1,5,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B,6,0,L,2,2,4,0,/,6,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,5,0
+    B,6,0,L,2,2,6,0,/,5,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    F
+    F,0,2
+    F,0,2,D
+    F,0,2,D,4,1,/,0,0
+    F,0,2,D,4,1,/,2,4
+    F,0,2,D,4,1,/,2,6
+    F,0,2,D,4,1,/,2,8
+    F,0,2,D,2,0,4,1,/,2,8,6
+    F,0,2,D,2,0,4,1,/,2,8,8
+    F
+    F,0,2
+    F,0,2,D
+    F,0,2,D,2,2,0,0,/,0,0
+    F,0,2,D,2,2,0,0,/,0,2
+    F,0,2,D,2,2,0,0,/,1,0
+    F,0,2,D,2,2,0,0,/,1,0,0,2
+    F
+    F,0,2
+    F,0,2,D
+    F,0,2,D,2,2,0,0,/,0,0
+    F,0,2,D,2,2,0,0,/,0,2
+    F,0,2,D,2,2,0,0,/,1,0
+    F,0,2,D,2,2,0,0,/,1,0,1
+    F
+    F,0,2
+    F,0,2,D
+    F,0,2,D,2,2,0,0,/,0,0
+    F,0,2,D,2,2,0,0,/,7,0
+    F
+    F,0,2
+    F,0,2,D
+    F,0,2,D,4,1,/,0,0
+    F,0,2,D,4,1,/,0,2
+    F,0,2,D,4,1,/,1,4
+    F,0,2,D,4,1,/,1,4,9,7
+    F,0,2,D,4,1,/,1,4,9,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,1,0
+    Y,0,2,T,1,0,/,4,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+7
+    2019-12-26,Priority to US16/727,220
+    2019-12-26,Application filed by Transportation IP Holdings LLC
+    2020-05-14,Publication of US20200149996A1
+    2023-08-08,Publication of US11719602B2
+    2023-08-08,Application granted
+    Status,Active
+    2037-12-29,Adjusted expiration
+
+active_area
+1
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    US15/063,043,2016-03-07,Method and systems for diagnosing an engine
+    US16/438,230,2019-06-11,Method and system for an engine
+    US16/727,220,2019-12-26,Vehicle control system
+
+legal_event
+8
+    Date,Code,Title,Description
+    2019-12-26,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2020-06-26,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2022-06-17,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2022-09-15,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2022-12-15,STPP,Information on status: patent application and granting procedure in general,Free format text: FINAL REJECTION MAILED
+    2023-06-20,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2023-07-19,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

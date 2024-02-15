@@ -1,0 +1,334 @@
+ID
+    US20170137020A1
+citation_exist
+    Patent Citations (15)
+citation_infor
+17
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP3097572B2                      *,1996-09-13,2000-10-10,トヨタ自動車株式会社,Power output device and control method thereof
+    JP3402236B2                      *,1999-01-13,2003-05-06,トヨタ自動車株式会社,Power output device, hybrid vehicle, and control method therefor
+    JP2010076679A                      *,2008-09-26,2010-04-08,Aisin Aw Co Ltd,Hybrid drive device
+    CN101920652B                      *,2009-06-17,2014-06-25,上海捷能汽车技术有限公司,Series/parallel double-motor and multi-clutch hybrid drive unit for vehicle
+    JP5391959B2,2009-09-17,2014-01-15,トヨタ自動車株式会社,Drive device for hybrid vehicle
+    CN102085795B                      *,2009-12-04,2015-04-15,上海汽车集团股份有限公司,Hybrid driving system of vehicle clutch and power coupling synchronizer combined gear shift
+    JP2012071699A                      *,2010-09-29,2012-04-12,Toyota Motor Corp,Hybrid vehicle drive control device
+    US8740739B2                      *,2011-08-04,2014-06-03,Ford Global Technologies, Llc,Reconfigurable powersplit powertrain for an electric vehicle
+    US9221454B2                      *,2011-12-28,2015-12-29,Toyota Jidosha Kabushiki Kaisha,Control system of a vehicle
+    US9221327B2,2012-02-01,2015-12-29,Toyota Jidosha Kabushiki Kaisha,Hybrid vehicle driving apparatus
+    JP2013177048A                      *,2012-02-28,2013-09-09,Fine Mec:Kk,Driving device for vehicle
+    WO2013128639A1                      *,2012-03-02,2013-09-06,トヨタ自動車株式会社,Drive device for hybrid vehicle
+    JP5839123B2,2012-07-17,2016-01-06,トヨタ自動車株式会社,Hybrid vehicle drive device
+    JP2015020665A                      *,2013-07-22,2015-02-02,トヨタ自動車株式会社,Control device of vehicle
+    JP2015223263A,2014-05-27,2015-12-14,株式会社三洋物産,Game machine
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    US10150466B2                      *,2015-08-19,2018-12-11,Hyundai Motor Company,Shift control apparatus for hybrid vehicle and method therof
+    Family To Family Citations,,,,
+    JP6703960B2,2017-04-27,2020-06-03,日立オートモティブシステムズ株式会社,Arithmetic device, log recording method, log recording system
+    DE102018200677A1                      *,2018-01-17,2019-07-18,Zf Friedrichshafen Ag,Transmission for a motor vehicle
+
+abstract
+    A driving force control system for a hybrid vehicle is provided to reduce a shock resulting from switching a travelling direction between the forward direction and the backward direction. The control system is applied to a hybrid vehicle in which an operating mode can be selected at least from a series mode and a series parallel mode. A travelling direction of the vehicle is switched by a shifting device between forward direction and backward direction. A controller is configured to maintain the previous operating mode after switching the travelling direction of the vehicle by the shifting device.
+title
+    Driving force control system for hybrid vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US10562402B2,2020-02-18,Control system for hybrid vehicle
+    US10315507B2,2019-06-11,Hybrid vehicle
+    US11052903B2,2021-07-06,Hybrid vehicle drive system
+    US9896088B2,2018-02-20,Drive control system for hybrid vehicle
+    US9815454B2,2017-11-14,Control system for hybrid vehicle
+    US10850600B2,2020-12-01,Drive force control system for hybrid vehicles
+    US9682697B2,2017-06-20,Control system for hybrid vehicle
+    US10647190B2,2020-05-12,Control system for hybrid vehicles
+    US20170259809A1,2017-09-14,Control system for hybrid vehicle
+    US10759413B2,2020-09-01,Control system for hybrid vehicle
+    US10933862B2,2021-03-02,Vehicle control system
+    US20160214598A1,2016-07-28,Driving force control system for a vehicle
+    US10202113B2,2019-02-12,Engine starting control system for hybrid vehicle
+    US9475488B2,2016-10-25,Control system for hybrid drive unit
+    US9771065B2,2017-09-26,Vehicle control system
+    US9868437B2,2018-01-16,Driving force control system for hybrid vehicle
+    US10124795B2,2018-11-13,Driving force control system for hybrid vehicle
+    US10059185B2,2018-08-28,Control system for hybrid vehicle
+    US10836373B2,2020-11-17,Control system for hybrid vehicle
+    US10960897B2,2021-03-30,Control system for four-wheel drive vehicle
+    US10605359B2,2020-03-31,Shift control system for vehicle
+    US20230027461A1,2023-01-26,Driving force control system for hybrid vehicle
+    US11447125B2,2022-09-20,Vehicle control system
+    US11440533B2,2022-09-13,Control system for hybrid vehicle
+    US11247657B2,2022-02-15,Control system for hybrid vehicles
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    36
+classfication_items
+215
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,2,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,3,6
+    B,6,0,K,6,/,3,6,5
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,3,8
+    B,6,0,K,6,/,3,8,7
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,4
+    B,6,0,K,6,/,4,4,5
+    B,6,0,L,1,1,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,4,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,2,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,3,8
+    B,6,0,K,2,0,0,6,/,3,8,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,3,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,0
+    B,6,0,L,2,2,4,0,/,5,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,2
+    B,6,0,W,2,7,1,0,/,0,2,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,0,3,6
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,1,8
+    B,6,0,Y,2,3,0,0,/,1,8,2
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,9,1
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,4,0,0,/,0,0
+    B,6,0,Y,2,4,0,0,/,1,1
+    B,6,0,Y,2,4,0,0,/,1,1,2
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,4,0,0,/,0,0
+    B,6,0,Y,2,4,0,0,/,4,2
+    B,6,0,Y,2,4,0,0,/,4,2,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,0,4
+    Y,1,0,S,9,0,3,/,9,1,2
+    Y,1,0,S,9,0,3,/,9,1,4
+
+application_events
+7
+    2016-11-10,Application filed by Toyota Motor Corp
+    2016-11-10,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2017-05-18,Publication of US20170137020A1
+    2018-11-13,Application granted
+    2018-11-13,Publication of US10124795B2
+    Status,Active
+    2037-03-13,Adjusted expiration
+
+active_area
+3
+    J,P
+    D,E
+    U,S
+
+not_active_area
+1
+    C,N
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2015-223263,2015-11-13,
+    JP2015223263A,2015-11-13,Hybrid vehicle driving force control device
+
+legal_event
+4
+    Date,Code,Title,Description
+    2016-11-10,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:KAWANISHI, HIROSHI;TABATA, ATSUSHI;IMAMURA, TATSUYA;REEL/FRAME:040278/0909Effective date: 20160906
+    2018-10-24,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2022-04-27,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

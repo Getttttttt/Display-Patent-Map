@@ -1,0 +1,187 @@
+ID
+    US9413256B2
+citation_exist
+    Patent Citations (7)
+citation_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPS62173901A,1986-01-24,1987-07-30,Toyota Motor Corp,Output control unit of dc/dc converter for electric vehicle
+    JP2000184508A,1998-12-18,2000-06-30,Nissan Diesel Motor Co Ltd,Hibrid drive system of vehicle
+    US20020027786A1                      *,2000-09-06,2002-03-07,Fujitsu Limited,Power supply control circuit, power supply and power supply control method
+    US20070007938A1                      *,2005-07-11,2007-01-11,Djenguerian Alex B,Method and apparatus to limit output power in a switching power supply
+    JP2011223674A,2010-04-06,2011-11-04,Toyota Motor Corp,Converter control device and electric vehicle including the same
+    JP2012249348A,2011-05-25,2012-12-13,Toyota Motor Corp,Power supply control system
+    US8526204B2                      *,2010-04-22,2013-09-03,Denso Corporation,Power converter with electrical switching element
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (13)
+              
+
+
+citedBy_infor
+15
+    Publication number,Priority date,Publication date,Assignee,Title
+    US11196101B2                      *,2018-05-25,2021-12-07,Toyota Jidosha Kabushiki Kaisha,Battery discharge controller
+    Family To Family Citations,,,,
+    JP5713044B2                      *,2013-04-15,2015-05-07,ダイキン工業株式会社,Control device
+    JP6029619B2                      *,2014-06-16,2016-11-24,オリジン電気株式会社,Converter and converter control method
+    US9948194B2                      *,2015-02-02,2018-04-17,Mitsubishi Electric Corporation,DC/DC converter including phase shift control
+    DE102015105476A1                      *,2015-04-10,2016-10-13,Abb Schweiz Ag,Method and device for supplying power to a low-voltage load
+    CN107660325B                      *,2015-04-27,2020-02-28,三菱电机株式会社,Control device for AC rotating machine and electric power steering device
+    DE102016200662A1                      *,2016-01-20,2017-07-20,Robert Bosch Gmbh,Bidirectional DC / DC converter and method for charging the DC link capacitor of a DC / DC converter from the low-voltage battery
+    WO2017130601A1                      *,2016-01-29,2017-08-03,株式会社村田製作所,Power conversion device
+    US10222429B2                      *,2016-06-20,2019-03-05,Lg Chem, Ltd.,Diagnostic system for a DC-DC voltage converter
+    US10511161B2                      *,2016-07-27,2019-12-17,Lg Chem, Ltd.,Diagnostic system for a DC-DC voltage converter
+    JP6818140B2,2017-06-07,2021-01-20,日立オートモティブシステムズ株式会社,Power converter
+    JP6962233B2                      *,2018-02-22,2021-11-05,株式会社オートネットワーク技術研究所,In-vehicle DCDC converter
+    DE102022111868A1,2022-05-12,2023-11-16,Bayerische Motoren Werke Aktiengesellschaft,Supplying a vehicle's LV sub-board network from its HV sub-board network
+
+abstract
+    An object is to suppress deterioration of a high-voltage side battery regardless of the magnitude of a load current. Provided is a control device of a DC-DC converter that is constituted by a primary side circuit that is electrically connected between an input side and a transformer, and a secondary side circuit that is electrically connected between an output side and the transformer. The control device includes a command generating unit 325 that sets an output current limiting value to a predetermined value on the basis of a detected input voltage, a duty generating unit 330 that calculates a duty configured to turn ON/OFF a switching element on the basis of the output current limiting value and a detected output current, and a switching signal generating unit 335 that generates a switching signal on the basis of the duty. The duty generating unit 330 generates the duty so that an output current is limited to the output current limiting value or less.
+title
+    Control device of DC-DC converter
+similar_document
+26
+    Publication,Publication Date,Title
+    US9413256B2,2016-08-09,Control device of DC-DC converter
+    Hu et al.,2015,An EV SRM drive powered by battery/supercapacitor with G2V and V2H/V2G capabilities
+    US10525833B2,2020-01-07,Tactical vehicle to grid electric power architecture
+    US8299739B2,2012-10-30,Motor drive
+    US8884564B2,2014-11-11,Voltage converter and voltage converter system including voltage converter
+    US20190031125A1,2019-01-31,Electric system architecture for range extended electric vehicles
+    US8508961B2,2013-08-13,Power conversion apparatus
+    KR101284331B1,2013-07-08,Recharge systen for green car and method thereof
+    US10236803B2,2019-03-19,Hybrid-vehicle variable-voltage traction motor drive
+    US9950627B2,2018-04-24,Power conversion device
+    US8558492B2,2013-10-15,Apparatus for driving motor of electric vehicle
+    WO2013102960A1,2013-07-11,Control device for electric vehicle, and electric vehicle
+    US10110103B1,2018-10-23,Electric drive system enhancement using a DC-DC converter
+    JP2017204902A,2017-11-16,Power conversion apparatus and controller for electrically-driven vehicle
+    EP3138725B1,2020-09-02,Dual-source multi-mode vehicle power supply
+    JP2011055700A,2011-03-17,Device for transferring energy using onboard power electronics and method for manufacturing the same
+    US11040634B2,2021-06-22,Power electronics apparatus and control method for an electric machine and for electrical energy stores
+    US20220001854A1,2022-01-06,Regenerative Braking System and Electrically-Driven Work Vehicle Using Regenerative Braking System
+    US20110261597A1,2011-10-27,Inverter type engine generator
+    EP2937969B1,2019-06-12,Power supply apparatus
+    US9673741B2,2017-06-06,System for supplying electrical power to a load and corresponding power supply method
+    US20150054434A1,2015-02-26,Method for discharging at least one capacitor of an electric circuit
+    Shah et al.,2021,Integrated power converter with G2V and V2G capabilities for 4-phase SRM drive based EV application
+    KR101578025B1,2015-12-16,Hybrid power apparatus
+    US20230026820A1,2023-01-26,Vehicle-mounted power supply system
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    6
+classfication_nums
+    11
+classfication_items
+61
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H,0,2,M,3,/,2,2
+    H,0,2,M,3,/,2,4
+    H,0,2,M,3,/,2,8
+    H,0,2,M,3,/,3,2,5
+    H,0,2,M,3,/,3,3,5
+    H,0,2,M,3,/,3,3,5,3,8
+    H,0,2,M,3,/,3,3,5,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H,0,2,M,3,/,2,2
+    H,0,2,M,3,/,2,4
+    H,0,2,M,3,/,2,8
+    H,0,2,M,3,/,3,2,5
+    H,0,2,M,3,/,3,3,5
+    H,0,2,M,3,/,3,3,5,6,9
+    H,0,2,M,3,/,3,3,5,7,6
+    H,0,2,M,3,/,3,3,5,8,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,1,6
+    Y,0,2,T,1,0,/,7,2,8,3
+
+application_events
+8
+    2014-01-31,Application filed by Hitachi Automotive Systems Ltd
+    2015-08-07,Assigned to HITACHI AUTOMOTIVE SYSTEMS, LTD.
+    2015-12-24,Publication of US20150372606A1
+    2016-08-09,Application granted
+    2016-08-09,Publication of US9413256B2
+    2021-03-25,Assigned to HITACHI ASTEMO, LTD.
+    Status,Active
+    2034-01-31,Anticipated expiration
+
+active_area
+4
+    J,P
+    D,E
+    W,O
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2013027261A,2013-02-15,Control device for DC-DC converter
+    JP2013-027261,2013-02-15,
+    PCT/JP2014/052193,2014-01-31,Control device for dc-dc converter
+
+legal_event
+5
+    Date,Code,Title,Description
+    2015-08-07,AS,Assignment,Owner name: HITACHI AUTOMOTIVE SYSTEMS, LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:TAMURA, HIROSHI;KUBO, KENJI;ONO, TAKUMA;AND OTHERS;SIGNING DATES FROM 20150625 TO 20150701;REEL/FRAME:036278/0451
+    2016-07-20,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2020-01-23,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+    2021-03-25,AS,Assignment,Owner name: HITACHI ASTEMO, LTD., JAPANFree format text: CHANGE OF NAME;ASSIGNOR:HITACHI AUTOMOTIVE SYSTEMS, LTD.;REEL/FRAME:056299/0447Effective date: 20210101
+

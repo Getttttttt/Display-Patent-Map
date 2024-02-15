@@ -1,0 +1,121 @@
+ID
+    JPWO2018189896A1
+citation_exist
+    Patent Citations (3)
+citation_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP4244986B2                      *,2005-10-31,2009-03-25,トヨタ自動車株式会社,車両の回生制動装置
+    JP6151972B2                      *,2013-05-30,2017-06-21,株式会社Ｓｕｂａｒｕ,車両用駆動制御装置
+    JP6402240B2                      *,2015-03-23,2018-10-10,ジヤトコ株式会社,車両制御装置、及び車両の制御方法
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US20220089013A1                      *,2019-01-30,2022-03-24,Aisin Corporation,Vehicle drive device
+    JP7294893B2,2019-06-04,2023-06-20,ジヤトコ株式会社,車両用制御装置
+    CN113815351A                      *,2021-11-03,2021-12-21,合肥海源机械有限公司,一种驱动桥无人驾驶控制系统
+
+abstract
+    ロー戻し制御時の油量不足発生の抑制を、車両減速度変化を抑えつつ達成可能な電動車両の制御装置を提供する。モータジェネレータ（ＭＧ）と左右駆動輪（ＬＴ，ＲＴ）との間に配置された無段変速機（ＣＶＴ）と、モータジェネレータ（ＭＧ）の回転数に応じて無段変速機（ＣＶＴ）に油を供給するオイルポンプ（ＯＰ）と、アクセルの解放方向操時にコースト回生トルクを発生させるモータコントローラ（１８）と、車速低減に伴い無段変速機ＣＶＴを発進用変速比（最ロー）に向けて変速するロー戻し制御を行う変速機コントローラ（１５）と、モータコントローラ（１８）に含まれ、ロー戻し制御を行っているとき、コースト回生トルクを含むモータ回生トルクを、車両減速度の変化が許容値以下となる第１の変化速度（Ｋｖ１）で減少させるモータ回生トルクカット部と、を備える電動車両の制御装置とした。
+title
+    電動車両の制御装置および電動車両の制御方法
+similar_document
+17
+    Publication,Publication Date,Title
+    JP6760488B2,2020-09-23,車両の制御方法及び車両の制御装置
+    JP5521340B2,2014-06-11,ハイブリッド車両の制御装置
+    EP3006247B1,2021-05-26,Malfunction determination device and malfunction determination method for hybrid vehicle
+    KR101800143B1,2017-11-21,차량용 제어 장치
+    US10253876B2,2019-04-09,Vehicle regenerative speed control device
+    US9636989B2,2017-05-02,Device for controlling hybrid vehicle
+    EP3272606B1,2019-05-01,Damping control device for hybrid vehicle
+    US10518768B2,2019-12-31,Hybrid vehicle and control method for hybrid vehicle
+    US10160446B2,2018-12-25,Device and method for controlling motor output of a hybrid vehicle
+    US10857992B2,2020-12-08,Control method for hybrid vehicles
+    JP6702505B2,2020-06-03,電動車両の制御装置および電動車両の制御方法
+    CN109072998B,2020-03-27,车辆控制装置
+    JP2018177084A,2018-11-15,ハイブリッド車両の制御方法及びハイブリッド車両の制御装置
+    JP6777225B2,2020-11-04,ハイブリッド車両の制御方法及びハイブリッド車両の制御装置
+    JP6741150B2,2020-08-19,電動車両の制御装置および電動車両の制御方法
+    JP6747583B2,2020-09-02,電動車両の制御方法及び電動車両の制御装置
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    7
+classfication_nums
+    4
+classfication_items
+23
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+6
+    2017-04-14,Application filed by Nissan Motor Co Ltd
+    2019-11-14,Publication of JPWO2018189896A1
+    2020-06-03,Application granted
+    2020-06-03,Publication of JP6702505B2
+    Status,Active
+    2037-04-14,Anticipated expiration
+
+active_area
+2
+    J,P
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2017/015355,2017-04-14,電動車両の制御装置および電動車両の制御方法
+
+legal_event
+8
+    Date,Code,Title,Description
+    2019-07-19,A521,Written amendment,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20190719
+    2019-07-19,A529,Written submission of copy of amendment under section 34 (pct),Free format text: JAPANESE INTERMEDIATE CODE: A5211Effective date: 20190719
+    2019-07-19,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20190719
+    2020-03-31,TRDD,Decision of grant or rejection written,
+    2020-04-07,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20200407
+    2020-05-11,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20200420
+    2020-05-11,R151,Written notification of patent or utility model registration,Ref document number: 6702505Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R151
+

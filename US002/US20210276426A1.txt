@@ -1,0 +1,180 @@
+ID
+    US20210276426A1
+citation_exist
+    Patent Citations (3)
+citation_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20130035817A1                      *,2010-02-19,2013-02-07,Lotus Cars Limited,Land vehicle driven by an electric or hydraulic motor
+    US20210155240A1                      *,2019-11-25,2021-05-27,Toyota Jidosha Kabushiki Kaisha,Electric vehicle
+    Family To Family Citations,,,,
+    US20160243958A1                      *,2015-02-23,2016-08-25,Ford Global Technologies, Llc,Vehicle inclination based battery state of charge target
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20220009490A1                      *,2020-07-10,2022-01-13,Volvo Truck Corporation,Method for controlling a vehicle
+    Family To Family Citations,,,,
+
+abstract
+    A method of dynamic speed modulation in extended braking applications in a battery-powered electric vehicle is disclosed. The method includes determining a sensed parameter of the battery, and determining a parameter threshold of the battery. If the sensed parameter of the battery is the same or exceeds the parameter threshold, decreasing the groundspeed of the vehicle to a predetermined safe speed. If the sensed parameter of the battery is below the parameter threshold, determining the change in the parameter which would be caused by the regenerative braking system at the current groundspeed of the vehicle. If the change in the parameter would cause the sensed parameter to remain, reach or exceed the parameter threshold, correspondingly decreasing or increasing the groundspeed of the vehicle to cause the sensed parameter to approximate but not exceed the parameter threshold of the battery. A controller and electric vehicle capable of same, are also disclosed.
+title
+    Method of dynamic speed modulation in extended braking applications in electric vehicles
+similar_document
+26
+    Publication,Publication Date,Title
+    US9937816B2,2018-04-10,Method for managing the temperature of a battery of an electric or hybrid vehicle
+    US11091057B2,2021-08-17,Method and system for controlling a battery in a vehicle
+    KR102184207B1,2020-11-27,Vehicle comprising a battery and means for determining a maximum allowable power for the battery, and corresponding method
+    KR101575409B1,2015-12-07,System and method for estimating regenerative braking of vehicle
+    KR20200068206A,2020-06-15,Method for charging battery at low temperature
+    US11731516B2,2023-08-22,Method of dynamic speed modulation in extended braking applications in electric vehicles
+    CA3015276A1,2017-08-03,Online battery capacity estimation utilizing passive balancing
+    US10741892B2,2020-08-11,Controller and control method for activating temperature control of a device of a vehicle
+    CN113968160A,2022-01-25,Vehicle charging time estimation method, device, equipment and storage medium
+    WO2018189680A1,2018-10-18,Battery temperature monitoring arrangement for vehicles and method of operation
+    US20170368956A1,2017-12-28,Regenerative power electronics
+    Yue et al.,2014,Model-free learning-based online management of hybrid electrical energy storage systems in electric vehicles
+    CN110315993B,2021-06-15,Generator control method, vehicle control unit and storage medium
+    US9682635B2,2017-06-20,Charging control apparatus
+    US10252625B2,2019-04-09,System for managing the charging of a battery and the regenerative braking of a vehicle at least partially powered by the battery and associated regulation method
+    CN105564257A,2016-05-11,Method and apparatus for operating motor vehicle with electric accumulator
+    KR20160051198A,2016-05-11,Apparatus and Method for Adjusting Power of Secondary Battery
+    KR20220011601A,2022-01-28,Apparatus for Controlling Power of Parallel Multi Battery Pack and Method thereof
+    CA3074534A1,2021-09-04,Method of dynamic speed modulation in extended braking applications in electric vehicles
+    JP7219809B2,2023-02-08,Operating a vehicle with a vehicle deceleration subsystem
+    JP2018074812A,2018-05-10,Vehicle control device and charge target determination method
+    JP2017050981A,2017-03-09,Battery control device
+    KR20200066476A,2020-06-10,System and method of controlling battery power output for a eco-friendly vehicle
+    Ancuța,2023,Analysis of Thermal Influence on the Operation of a Li-Ion Battery Used by an Electric Vehicle
+    EP3912847A1,2021-11-24,System for controlling vehicle power using big data
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US16/809,236,2020-03-04,2020-03-04,Method of dynamic speed modulation in extended braking applications in electric vehicles
+
+inventor_number
+    4
+classfication_nums
+    12
+classfication_items
+72
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+
+application_events
+8
+    2020-03-04,Application filed by Prairie Machine and Parts Mfg Partnership
+    2020-03-04,Priority to US16/809,236
+    2020-04-13,Assigned to PRAIRIE MACHINE & PARTS MFG. - PARTNERSHIP
+    2021-09-09,Publication of US20210276426A1
+    2023-08-22,Application granted
+    2023-08-22,Publication of US11731516B2
+    Status,Active
+    2041-08-12,Adjusted expiration
+
+active_area
+1
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US16/809,236,2020-03-04,Method of dynamic speed modulation in extended braking applications in electric vehicles
+
+legal_event
+7
+    Date,Code,Title,Description
+    2020-03-04,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY
+    2020-03-18,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO SMALL (ORIGINAL EVENT CODE: SMAL); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY
+    2020-04-13,AS,Assignment,Owner name: PRAIRIE MACHINE & PARTS MFG. - PARTNERSHIP, CANADAFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:COTE, DAVE;CHAHLEY, CHRIS;HUGHES, WILLIAM;REEL/FRAME:052377/0280Effective date: 20200326
+    2022-06-23,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2023-06-05,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2023-08-02,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

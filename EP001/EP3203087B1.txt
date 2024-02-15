@@ -1,0 +1,529 @@
+ID
+    EP3203087B1
+citation_exist
+    Patent Citations (8)
+citation_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP2006336844A                      *,2005-06-06,2006-12-14,Shin Caterpillar Mitsubishi Ltd,Working machine
+    US7444809B2                      *,2006-01-30,2008-11-04,Caterpillar Inc.,Hydraulic regeneration system
+    JP5296570B2                      *,2009-02-16,2013-09-25,株式会社神戸製鋼所,Hydraulic control device for work machine and work machine equipped with the same
+    JP2012097670A                      *,2010-11-02,2012-05-24,Hitachi Constr Mach Co Ltd,Work machine
+    US9879404B2                      *,2010-12-13,2018-01-30,Eaton Corporation,Hydraulic system for energy regeneration in a work machine such as a wheel loader
+    JP5572586B2                      *,2011-05-19,2014-08-13,日立建機株式会社,Hydraulic drive device for work machine
+    JP6106097B2                      *,2011-12-28,2017-03-29,日立建機株式会社,Power regeneration device for work machine and work machine
+    JP5928065B2,2012-03-27,2016-06-01,コベルコ建機株式会社,Control device and construction machine equipped with the same
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (10)
+              
+
+
+citedBy_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    SE1600171A1                      *,2016-05-19,2017-11-20,Flutron Ab,Electrohydraulic drive and control system
+    EP3517789B1                      *,2016-09-23,2023-09-13,Hitachi Construction Machinery Co., Ltd.,Hydraulic energy recovery device for work machine
+    US10443628B2                      *,2016-10-26,2019-10-15,Deere & Company,Boom control with integrated variable return metering
+    JP6797015B2                      *,2016-12-22,2020-12-09,川崎重工業株式会社,Hydraulic excavator drive system
+    CN107882100B                      *,2017-10-11,2020-07-21,柳州柳工挖掘机有限公司,Excavator hydraulic control method and control system
+    KR20200098883A                      *,2019-02-13,2020-08-21,두산인프라코어 주식회사,Construction machinery
+    CN109706997A                      *,2019-02-15,2019-05-03,青岛雷沃工程机械有限公司,A kind of excavator hydraulic control system and working method
+    CN110566523B                      *,2019-09-12,2021-06-15,上海华兴数字科技有限公司,Hydraulic system and excavator
+    WO2021187007A1                      *,2020-03-17,2021-09-23,株式会社小松製作所,Hydraulic system
+    CN113789827A                      *,2021-08-30,2021-12-14,江苏汇智高端工程机械创新中心有限公司,Excavator bucket rod control valve system
+
+abstract
+    
+title
+    Work vehicle hydraulic drive system
+similar_document
+17
+    Publication,Publication Date,Title
+    EP3203087B1,2023-03-01,Work vehicle hydraulic drive system
+    EP3203089B1,2022-04-13,Workmachine comprising a hydraulic drive system
+    JP6291394B2,2018-03-14,Hydraulic drive system for work machines
+    KR102062193B1,2020-01-03,Hydraulic oil regenerative device of working machine
+    CN107532409B,2019-12-20,Control device for construction machine
+    EP3578830B1,2022-09-07,Construction machine
+    KR101747519B1,2017-06-14,Hybrid construction machine
+    JP6013503B2,2016-10-25,Construction machinery
+    US20140283915A1,2014-09-25,Hydraulic Control System Having Relief Flow Capture
+    JP2019528415A,2019-10-10,Construction machine control system and construction machine control method
+    JP6615137B2,2019-12-04,Hydraulic drive unit for construction machinery
+    JP6591370B2,2019-10-16,Hydraulic control equipment for construction machinery
+    EP3495569B1,2023-08-02,Hydraulic drive device of work machine
+    US11098462B2,2021-08-24,Construction machine
+    JP6909115B2,2021-07-28,Hydraulic excavator
+    CN113748246A,2021-12-03,Working equipment
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    7
+classfication_nums
+    53
+classfication_items
+392
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,6,4
+    E,0,2,F,9,/,2,2,6,7
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,1,7
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,3,/,0,0
+    E,0,2,F,3,/,0,4
+    E,0,2,F,3,/,2,8
+    E,0,2,F,3,/,3,6
+    E,0,2,F,3,/,4,2
+    E,0,2,F,3,/,4,2,5
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,2,1
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,2,1
+    E,0,2,F,9,/,2,2,2,5
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,2,1
+    E,0,2,F,9,/,2,2,2,5
+    E,0,2,F,9,/,2,2,2,8
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,2,1
+    E,0,2,F,9,/,2,2,3,2
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,2,1
+    E,0,2,F,9,/,2,2,3,2
+    E,0,2,F,9,/,2,2,3,5
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,6,4
+    E,0,2,F,9,/,2,2,7,1
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,7,8
+    E,0,2,F,9,/,2,2,9,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F,1,5,B,1,1,/,0,2
+    F,1,5,B,1,1,/,0,2,4
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F,1,5,B,1,1,/,1,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F,1,5,B,1,1,/,1,6
+    F,1,5,B,1,1,/,1,6,1
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F,1,5,B,1,1,/,1,6
+    F,1,5,B,1,1,/,1,6,1
+    F,1,5,B,1,1,/,1,6,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,3,/,0,0
+    F,1,5,B,1,3,/,0,2
+    F,1,5,B,1,3,/,0,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,1,/,0,0
+    F,1,5,B,2,1,/,1,4
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,3,/,0,0
+    E,0,2,F,3,/,0,4
+    E,0,2,F,3,/,2,8
+    E,0,2,F,3,/,3,0
+    E,0,2,F,3,/,3,2
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,3,/,0,0
+    E,0,2,F,3,/,0,4
+    E,0,2,F,3,/,2,8
+    E,0,2,F,3,/,3,6
+    E,0,2,F,3,/,4,2
+    E,0,2,F,3,/,4,3
+    E,0,2,F,3,/,4,3,5
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,0,3
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,7,8
+    E,0,2,F,9,/,2,2,8,5
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,7,8
+    E,0,2,F,9,/,2,2,9,2
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F,1,5,B,1,1,/,0,2
+    F,1,5,B,1,1,/,0,2,4
+    F,1,5,B,2,0,1,1,/,0,2,4,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,1,/,0,0
+    F,1,5,B,2,1,/,0,8
+    F,1,5,B,2,1,/,0,8,7
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,3
+    F,1,5,B,2,2,1,1,/,2,0,5,3,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,3
+    F,1,5,B,2,2,1,1,/,2,0,5,4,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,7,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,3,0
+    F,1,5,B,2,2,1,1,/,3,0,5
+    F,1,5,B,2,2,1,1,/,3,0,5,6
+    F,1,5,B,2,2,1,1,/,3,0,5,6,5
+    F,1,5,B,2,2,1,1,/,3,0,5,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,3,0
+    F,1,5,B,2,2,1,1,/,3,0,5
+    F,1,5,B,2,2,1,1,/,3,0,5,6
+    F,1,5,B,2,2,1,1,/,3,0,5,9
+    F,1,5,B,2,2,1,1,/,3,0,5,9,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,3,0
+    F,1,5,B,2,2,1,1,/,3,1
+    F,1,5,B,2,2,1,1,/,3,1,4,4
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,3,0
+    F,1,5,B,2,2,1,1,/,3,2
+    F,1,5,B,2,2,1,1,/,3,2,7
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,3,0
+    F,1,5,B,2,2,1,1,/,3,2
+    F,1,5,B,2,2,1,1,/,3,2,9
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,3,0
+    F,1,5,B,2,2,1,1,/,3,5
+    F,1,5,B,2,2,1,1,/,3,5,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,3,0
+    F,1,5,B,2,2,1,1,/,3,5,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,4,0
+    F,1,5,B,2,2,1,1,/,4,1
+    F,1,5,B,2,2,1,1,/,4,1,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,4,0
+    F,1,5,B,2,2,1,1,/,4,1,5
+    F,1,5,B,2,2,1,1,/,4,1,5,2,7
+    F,1,5,B,2,2,1,1,/,4,1,5,4,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,4,0
+    F,1,5,B,2,2,1,1,/,4,2
+    F,1,5,B,2,2,1,1,/,4,2,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,4,0
+    F,1,5,B,2,2,1,1,/,4,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,1
+    F,1,5,B,2,2,1,1,/,6,1,1
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,1
+    F,1,5,B,2,2,1,1,/,6,1,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,0,6
+    F,1,5,B,2,2,1,1,/,6,3,0,9
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,0,6
+    F,1,5,B,2,2,1,1,/,6,3,1,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,2
+    F,1,5,B,2,2,1,1,/,6,3,2,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,3,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,4,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3,5
+    F,1,5,B,2,2,1,1,/,6,3,5,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,6,5
+    F,1,5,B,2,2,1,1,/,6,6,5,2
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,0,5
+    F,1,5,B,2,2,1,1,/,7,0,5,1
+    F,1,5,B,2,2,1,1,/,7,0,5,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,1
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,1
+    F,1,5,B,2,2,1,1,/,7,1,1,4
+    F,1,5,B,2,2,1,1,/,7,1,2,1
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,1
+    F,1,5,B,2,2,1,1,/,7,1,4,2
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,6
+    F,1,5,B,2,2,1,1,/,7,6,1
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,8,0
+    F,1,5,B,2,2,1,1,/,8,8
+
+application_events
+7
+    2014-10-02,Application filed by Hitachi Construction Machinery Co Ltd
+    2017-08-09,Publication of EP3203087A1
+    2018-06-27,Publication of EP3203087A4
+    2023-03-01,Application granted
+    2023-03-01,Publication of EP3203087B1
+    Status,Active
+    2034-10-02,Anticipated expiration
+
+active_area
+6
+    K,R
+    U,S
+    W,O
+    C,N
+    J,P
+    E,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2014/076470,2014-10-02,Work vehicle hydraulic drive system
+
+legal_event
+30
+    Date,Code,Title,Description
+    2017-04-01,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE INTERNATIONAL PUBLICATION HAS BEEN MADE
+    2017-07-07,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2017-07-07,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+    2017-08-09,17P,Request for examination filed,Effective date: 20170502
+    2017-08-09,AK,Designated contracting states,Kind code of ref document: A1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2017-08-09,AX,Request for extension of the european patent,Extension  state: BA ME
+    2018-01-10,DAX,Request for extension of the european patent (deleted),
+    2018-06-27,A4,Supplementary search report drawn up and despatched,Effective date: 20180529
+    2018-06-27,RIC1,Information provided on ipc code assigned before grant,Ipc: F15B  21/14        20060101AFI20180523BHEPIpc: E02F   9/22        20060101ALI20180523BHEP
+    2021-11-05,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: EXAMINATION IS IN PROGRESS
+    2021-12-08,17Q,First examination report despatched,Effective date: 20211104
+    2022-10-06,GRAP,Despatch of communication of intention to grant a patent,Free format text: ORIGINAL CODE: EPIDOSNIGR1
+    2022-10-06,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: GRANT OF PATENT IS INTENDED
+    2022-11-02,INTG,Intention to grant announced,Effective date: 20221007
+    2023-01-17,GRAS,Grant fee paid,Free format text: ORIGINAL CODE: EPIDOSNIGR3
+    2023-01-27,GRAA,(expected) grant,Free format text: ORIGINAL CODE: 0009210
+    2023-01-27,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE PATENT HAS BEEN GRANTED
+    2023-03-01,AK,Designated contracting states,Kind code of ref document: B1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2023-03-01,REG,Reference to a national code,Ref country code: GBRef legal event code: FG4D
+    2023-03-15,REG,Reference to a national code,Ref country code: CHRef legal event code: EPRef country code: ATRef legal event code: REFRef document number: 1551157Country of ref document: ATKind code of ref document: TEffective date: 20230315
+    2023-03-23,REG,Reference to a national code,Ref country code: DERef legal event code: R096Ref document number: 602014086372Country of ref document: DE
+    2023-03-29,REG,Reference to a national code,Ref country code: IERef legal event code: FG4D
+    2023-06-26,REG,Reference to a national code,Ref country code: LTRef legal event code: MG9D
+    2023-07-05,REG,Reference to a national code,Ref country code: NLRef legal event code: MPEffective date: 20230301
+    2023-07-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: RSFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20230301Ref country code: NOFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20230601Ref country code: LVFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20230301Ref country code: LTFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20230301Ref country code: HRFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20230301Ref country code: ESFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20230301
+    2023-08-15,REG,Reference to a national code,Ref country code: ATRef legal event code: MK05Ref document number: 1551157Country of ref document: ATKind code of ref document: TEffective date: 20230301
+    2023-08-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: SEFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20230301Ref country code: PLFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20230301Ref country code: NLFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20230301Ref country code: GRFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20230602Ref country code: FIFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20230301
+    2023-10-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: SMFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20230301Ref country code: ROFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20230301Ref country code: PTFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20230703Ref country code: EEFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20230301Ref country code: CZFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20230301Ref country code: ATFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20230301
+    2023-10-31,PGFP,Annual fee paid to national office [announced via postgrant information from national office to epo],Ref country code: GBPayment date: 20230831Year of fee payment: 10
+

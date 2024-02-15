@@ -1,0 +1,359 @@
+ID
+    JPWO2012056855A1
+citation_exist
+    Patent Citations (12)
+citation_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US4957194A                      *,1987-09-08,1990-09-18,Mazda Motor Corporation,Torque converter slip control device
+    JP3573202B2                      *,2000-11-06,2004-10-06,三菱自動車工業株式会社,ハイブリッド車両のトルク制御装置
+    DE102004002061A1                      *,2004-01-15,2005-08-04,Zf Friedrichshafen Ag,Verfahren zum Steuern und Regeln eines Antriebsstranges eines Hybridfahrzeuges und Antriebsstrang eines Hybridfahrzeugs
+    JP2007069817A,2005-09-08,2007-03-22,Nissan Motor Co Ltd,ハイブリッド車両のエンジン始動制御装置
+    DE102006003711A1                      *,2006-01-26,2007-08-02,Zf Friedrichshafen Ag,Verfahren zur Steuerung eines Kraftfahrzeug-Antriebsstrangs
+    JP4561663B2                      *,2006-03-23,2010-10-13,日産自動車株式会社,ハイブリッド車両のモード切り替え制御装置
+    JP2007261498A,2006-03-29,2007-10-11,Nissan Motor Co Ltd,ハイブリッド車両の伝動状態切り替え制御装置
+    JP5371200B2                      *,2006-05-24,2013-12-18,日産自動車株式会社,ハイブリッド車両のエンジン始動制御装置及びハイブリッド車両のエンジン始動制御方法。
+    DE102006048358A1                      *,2006-10-12,2008-04-17,Robert Bosch Gmbh,Verfahren für die Steuerung eines Hybridantriebs
+    DE102008040660A1                      *,2008-07-24,2010-01-28,Zf Friedrichshafen Ag,Verfahren zum Betreiben eines Antriebsstrangs
+    JP5223603B2,2008-11-04,2013-06-26,日産自動車株式会社,ハイブリッド車両の制御装置
+    JP5391654B2,2008-11-05,2014-01-15,日産自動車株式会社,ハイブリッド車両の制御装置
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (11)
+              
+
+
+citedBy_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP6044257B2                      *,2012-10-19,2016-12-14,日産自動車株式会社,クラッチ制御装置
+    KR101427932B1                      *,2012-12-07,2014-08-08,현대자동차 주식회사,구동모터의 속도 제어를 수반한 하이브리드 차량의 변속 제어 방법 및 시스템
+    CN103465899B                      *,2013-09-23,2016-06-29,湖南南车时代电动汽车股份有限公司,一种混联车发动机启动控制系统及方法
+    US9026296B1                      *,2013-11-08,2015-05-05,Ford Global Technologies, Llc,System for controlling overall coasting torque in a hybrid electric vehicle
+    EP2886901B1                      *,2013-12-18,2019-02-13,AVL List GmbH,Method for controlling the drivetrain of a vehicle
+    KR101519263B1                      *,2013-12-18,2015-05-11,현대자동차주식회사,하이브리드 차량의 주행 제어방법
+    US9835208B2,2016-02-01,2017-12-05,Ford Global Technologies, Llc,Clutch engagement for a transmission when in park
+    KR102440503B1                      *,2017-10-11,2022-09-06,현대자동차주식회사,하이브리드 차량의 엔진 온오프 라인 설정 방법
+    JP7014016B2                      *,2018-04-02,2022-02-01,トヨタ自動車株式会社,ハイブリッド車両
+    BE1026305B1                      *,2018-05-25,2019-12-23,Punch Powertrain Nv,Een aandrijflijn voor een voertuig en werkwijze voor het aansturen van een aandrijflijn in een voertuig
+    CN114103623B                      *,2022-01-27,2022-04-12,坤泰车辆系统(常州)股份有限公司,一种双电机混动驱动系统的纯电模式扭矩分配方法
+
+abstract
+    アクセル増によるエンジン始動要求時であって、第２クラッチのスリップ極性が負のとき、エンジン始動ショックを低減すること。ハイブリッド車両の制御装置は、エンジン１と、モータジェネレータ２と、第１クラッチ４と、第２クラッチ５と、クランキング開始許可制御手段（図１３）と、を備える。第１クラッチ４は、エンジン１とモータジェネレータ２の間に介装され、モータジェネレータ２をスタータモータとするエンジン始動時に締結される。第２クラッチ５は、モータジェネレータ２とタイヤ７，７の間に介装され、エンジン始動時にスリップ締結される。クランキング開始許可制御手段（図１３）は、エンジン始動要求がアクセル開度の増加による駆動力要求の場合であって、第２クラッチ５のスリップ極性が負である場合、スリップ極性が正になるまでエンジン１のクランキングの開始を待たせる。
+title
+    ハイブリッド車両の制御装置
+similar_document
+25
+    Publication,Publication Date,Title
+    JP5488712B2,2014-05-14,ハイブリッド車両の制御装置
+    JP5879788B2,2016-03-08,ハイブリッド車両の制御装置
+    JP5832736B2,2015-12-16,ハイブリッド車両のエンジン始動制御装置
+    JP4569493B2,2010-10-27,ハイブリッド車両のオイルポンプ駆動制御装置
+    JP5679072B2,2015-03-04,ハイブリッド車両の制御装置
+    JP5569654B2,2014-08-13,ハイブリッド車両の制御装置
+    JP6015774B2,2016-10-26,ハイブリッド車両の制御装置
+    JP5488713B2,2014-05-14,電動車両の制御装置
+    JP2009035188A,2009-02-19,ハイブリッド車両の制御装置
+    JP2007069790A,2007-03-22,ハイブリッド車両のエンジン始動制御装置
+    JP2008001258A,2008-01-10,ハイブリッド車両の制御装置
+    JP5239841B2,2013-07-17,ハイブリッド車両の制御装置
+    JP2010149712A,2010-07-08,ハイブリッド車両の駆動制御装置および駆動制御方法
+    JP2010143307A,2010-07-01,ハイブリッド車両の制御装置
+    JP5760378B2,2015-08-12,電動車両の制御装置
+    JP5278403B2,2013-09-04,車両の制御装置
+    JP5141535B2,2013-02-13,ハイブリッド車両の制御装置
+    JP2006335176A,2006-12-14,ハイブリッド車両の走行モード制御装置
+    JP5614228B2,2014-10-29,ハイブリッド車両の制御装置
+    JP2012091620A,2012-05-17,ハイブリッド車両のエンジン始動制御装置
+    JP5874165B2,2016-03-02,ハイブリッド車両の制御装置
+    JP5696502B2,2015-04-08,ハイブリッド車両の制御装置
+    JP5741015B2,2015-07-01,車両の制御装置
+    JP2017100596A,2017-06-08,ハイブリッド車両の制御方法及び制御装置
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    JP2012540750A,2010-10-25,2011-10-04,ハイブリッド車両の制御装置
+
+inventor_number
+    8
+classfication_nums
+    37
+classfication_items
+229
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,4,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,5,0
+    B,6,0,K,6,/,5,4
+    B,6,0,K,6,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    F
+    F,0,2
+    F,0,2,D
+    F,0,2,D,2,9,/,0,0
+    F,0,2,D,2,9,/,0,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,7,/,0,0
+    B,6,0,K,1,7,/,0,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B,6,0,K,2,0,0,6,/,4,8,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,0
+    B,6,0,L,2,2,4,0,/,5,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,1,0
+    B,6,0,L,2,2,7,0,/,1,4
+    B,6,0,L,2,2,7,0,/,1,4,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,2
+    B,6,0,W,2,5,1,0,/,0,2,4,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,6,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,2
+    B,6,0,W,2,7,1,0,/,0,2,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,2
+    B,6,0,W,2,7,1,0,/,0,2,7
+    F
+    F,0,2
+    F,0,2,N
+    F,0,2,N,1,1,/,0,0
+    F,0,2,N,1,1,/,0,8
+    F,0,2,N,1,1,/,0,8,5,1
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,2,5,0,0,/,0,0
+    F,1,6,D,2,5,0,0,/,1,0
+    F,1,6,D,2,5,0,0,/,1,0,6
+    F,1,6,D,2,5,0,0,/,1,0,6,6
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,2,5,0,0,/,0,0
+    F,1,6,D,2,5,0,0,/,3,0
+    F,1,6,D,2,5,0,0,/,3,0,4
+    F,1,6,D,2,5,0,0,/,3,0,4,0,6
+    F,1,6,D,2,5,0,0,/,3,0,4,0,7
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,2,5,0,0,/,0,0
+    F,1,6,D,2,5,0,0,/,5,0
+    F,1,6,D,2,5,0,0,/,5,0,2
+    F,1,6,D,2,5,0,0,/,5,0,2,8,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,1,0
+    Y,0,2,T,1,0,/,4,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,3
+
+application_events
+7
+    2011-10-04,Application filed by Nissan Motor Co Ltd
+    2011-10-04,Priority to JP2012540750A
+    2014-03-20,Publication of JPWO2012056855A1
+    2014-05-14,Application granted
+    2014-05-14,Publication of JP5488712B2
+    Status,Active
+    2031-10-04,Anticipated expiration
+
+active_area
+5
+    U,S
+    J,P
+    W,O
+    E,P
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+5
+    Application,Filing date,Title
+    JP2010238150,2010-10-25,
+    JP2010238150,2010-10-25,
+    PCT/JP2011/072852,2011-10-04,ハイブリッド車両の制御装置
+    JP2012540750A,2011-10-04,ハイブリッド車両の制御装置
+
+legal_event
+5
+    Date,Code,Title,Description
+    2014-01-17,TRDD,Decision of grant or rejection written,
+    2014-01-29,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20140128
+    2014-03-03,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20140210
+    2014-03-07,R151,Written notification of patent or utility model registration,Ref document number: 5488712Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R151
+

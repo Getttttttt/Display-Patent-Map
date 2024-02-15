@@ -1,0 +1,282 @@
+ID
+    JP2019533415A
+citation_exist
+    Patent Citations (21)
+citation_infor
+23
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH05177496A                      *,1991-12-27,1993-07-20,Mori Seiki Co Ltd,安全装置
+    JP2001086643A                      *,1999-09-13,2001-03-30,Kazuya Maeda,電源装置
+    JP2009232652A                      *,2008-03-25,2009-10-08,Aisin Aw Co Ltd,回転電機制御システム及び当該回転電機制御システムを備えた車両駆動システム
+    JP2013013198A                      *,2011-06-28,2013-01-17,Aisin Aw Co Ltd,回転電機制御装置
+    JP2015198461A                      *,2014-03-31,2015-11-09,アイシン・エィ・ダブリュ株式会社,インバータ制御装置
+    Family To Family Citations,,,,
+    JPS5942536B2                      *,1974-07-10,1984-10-16,三菱電機株式会社,直列コンデンサの保護装置
+    EP0177114B1                      *,1984-09-05,1992-04-22,Kabushiki Kaisha Meidensha,Method and system for reconnecting inverter to rotating motors
+    JP3470359B2                      *,1993-10-07,2003-11-25,株式会社明電舎,電力貯蔵用亜鉛−臭素電池の制御方法
+    DE19855370A1,1998-12-01,2000-06-15,Bosch Gmbh Robert,Schutzschaltung für einen Leistungshalbleiter
+    JP2000188044A                      *,1998-12-21,2000-07-04,Mitsubishi Electric Corp,位相制御開閉装置
+    DE102008004202A1,2008-01-14,2009-07-23,Robert Bosch Gmbh,Vorrichtung und Verfahren zur Erkennung eines Kurzschlusses und/oder Unterbrechung einer elektrischen Leitung
+    JP4969547B2                      *,2008-10-14,2012-07-04,トヨタ自動車株式会社,制御装置及び充電制御方法
+    JP5185065B2                      *,2008-10-23,2013-04-17,トヨタ自動車株式会社,制御装置及び制御方法
+    BR112012000097B8                      *,2010-03-30,2023-01-17,Continental Automotive Gmbh,Sistema elétrico embarcado para um veículo, aparelho de controle para controlar um fluxo de corrente em um sistema elétrico embarcado e veículo
+    JP5876939B2                      *,2012-11-07,2016-03-02,ボルボトラックコーポレーション,電源装置
+    JP6099951B2                      *,2012-11-29,2017-03-22,株式会社東芝,電力変換装置
+    DE102013208602A1                      *,2013-05-10,2014-11-13,Robert Bosch Gmbh,Überspannungsschutzvorrichtung und Verfahren zum Betrieb einer Überspannungsschutzvorrichtung
+    DE102013215704A1,2013-08-08,2015-02-12,Robert Bosch Gmbh,Batteriesystem mit einer Batterie-Trenneinheit und einer Batterie-Steuereinheit
+    US9842709B2                      *,2015-03-20,2017-12-12,Eaton Corporation,Electronic trip units powered by current transformers and circuit breakers comprising the same
+    US10418915B2                      *,2015-03-31,2019-09-17,Mitsubishi Electric Corporation,Refrigeration cycle apparatus
+    WO2018037262A1                      *,2016-08-23,2018-03-01,Abb Schweiz Ag,A method for phase controlled energizing of power transformer
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    DE102018220212A1                      *,2018-11-26,2020-05-28,Robert Bosch Gmbh,Verfahren zum Betreiben eines elektrischen Energiespeichers
+    CN110341483B                      *,2019-07-24,2021-06-04,广州小鹏汽车科技有限公司,一种电动汽车电机控制器的检测系统及检测方法
+    DE102022109522A1                      *,2022-04-20,2023-10-26,Compleo Charging Solutions Ag,DC-Versorgungsstation und Betriebsverfahren hierfür
+
+abstract
+    本発明は、電力変換装置を用いた電気エネルギー貯蔵器の充電に関する。本発明では、電力変換装置が、電力変換装置と充電される電気エネルギー貯蔵器との間の電気的接続を監視する。電力変換装置と電気エネルギー貯蔵器との間の電気的接続の遮断、例えば電気エネルギー貯蔵器と電力変換装置との間の断路器の開放が検出された場合には、電力変換装置による、電気エネルギー貯蔵器を充電するための電気エネルギーの更なる提供が即時に止められる。このようにして、電力変換装置での危険な過度の電圧上昇が回避されうる。【選択図】図１
+title
+    電力変換装置、電気的駆動システム、及び、電気エネルギー貯蔵器を充電する方法
+similar_document
+26
+    Publication,Publication Date,Title
+    KR101189237B1,2012-10-09,하이브리드 자동차의 충전장치 및 방법
+    CN109159669B,2021-08-06,一种电驱动系统的保护系统和方法
+    US10432020B2,2019-10-01,Emergency back-up power system for traction elevators
+    CN101330251B,2012-10-10,对永磁电动机控制电路的保护
+    KR102087573B1,2020-03-12,인버터용 작동 상태 회로, 및 인버터의 작동 상태 설정 방법
+    JP6111967B2,2017-04-12,電源システム
+    JP2007325388A,2007-12-13,電動機の制御装置及び車載用電動機駆動システム
+    CN105814771A,2016-07-27,充电器
+    KR20140114372A,2014-09-26,하이브리드 차량들에서의 고 전압 케이블 검출을 위한 시스템 및 방법
+    JP2019533415A,2019-11-14,電力変換装置、電気的駆動システム、及び、電気エネルギー貯蔵器を充電する方法
+    EP2677617B1,2019-12-11,Power supply circuit for an on board energy source or storage device and particularly for super-capacitor storage unit
+    US11005408B2,2021-05-11,Protective device for an electric drive system, electric drive system, and method for operating an electric drive system
+    JP2019126116A,2019-07-25,蓄電部を有するモータ駆動装置及びモータ駆動システム
+    GB2517184A,2015-02-18,Method and system for controlling an isolated HV circuit
+    KR101610068B1,2016-04-07,인버터 보호장치 및 방법
+    CN109586368B,2020-09-15,储能系统启动装置、启动方法及储能系统
+    JP2004112929A,2004-04-08,交流−直流変換装置
+    EP2936673B1,2018-10-24,Method and apparatus for controlling a turbogenerator system
+    JP2012090380A,2012-05-10,車両用駆動制御装置
+    CN104285015A,2015-01-14,用于控制串联混合动力施工机械系统的装置及其方法
+    CN105656297A,2016-06-08,一种直驱型风力发电机组变流器直流母线放电方法
+    JP2017050999A,2017-03-09,電源装置
+    EP3275720B1,2020-01-29,Auxiliary power supply device
+    KR101620366B1,2016-05-24,전기차의 이상전원 차단장치 및 방법
+    KR101284329B1,2013-07-08,하이브리드 자동차의 인버터 보호장치
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    27
+classfication_items
+153
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,9,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,2,9
+    H,0,2,J,7,/,0,0,3,6
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,1,4
+    H,0,2,J,7,/,1,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,2,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,1
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,2
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,9,1
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,2,2,0,7,/,0,0
+    H,0,2,J,2,2,0,7,/,2,0
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,7,/,0,0
+    H,0,2,P,2,7,/,0,4
+    H,0,2,P,2,7,/,0,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+
+application_events
+3
+    2017-08-08,Application filed by Robert Bosch GmbH
+    2019-11-14,Publication of JP2019533415A
+    Status,Pending
+
+active_area
+5
+    D,E
+    C,N
+    J,P
+    U,S
+    E,P
+
+not_active_area
+1
+    K,R
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    DE102016218599.3,2016-09-27,
+    DE102016218599.3A,2016-09-27,Stromrichter, elektrisches Antriebssystem und Verfahren zum Aufladen eines elektrischen Energiespeichers
+    PCT/EP2017/070058,2017-08-08,Stromrichter, elektrisches antriebssystem und verfahren zum aufladen eines elektrischen energiespeichers
+
+legal_event
+9
+    Date,Code,Title,Description
+    2019-07-16,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20190520
+    2019-07-16,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20190520
+    2020-02-18,RD02,Notification of acceptance of power of attorney,Free format text: JAPANESE INTERMEDIATE CODE: A7422Effective date: 20200218
+    2020-06-19,A977,Report on retrieval,Free format text: JAPANESE INTERMEDIATE CODE: A971007Effective date: 20200619
+    2020-06-24,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20200624
+    2020-07-27,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20200727
+    2020-12-22,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20201222
+    2021-08-19,A02,Decision of refusal,Free format text: JAPANESE INTERMEDIATE CODE: A02Effective date: 20210819
+

@@ -1,0 +1,117 @@
+ID
+    JP2022145999A
+citation_exist
+    Patent Citations (6)
+citation_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP2009278840A                      *,2008-05-19,2009-11-26,Nissan Motor Co Ltd,電動車両の回生制動制御装置
+    JP5181847B2                      *,2008-06-05,2013-04-10,日産自動車株式会社,複合ブレーキの協調制御装置
+    JP6120010B2                      *,2014-06-13,2017-04-26,トヨタ自動車株式会社,車両
+    JP6847492B2                      *,2017-06-02,2021-03-24,日立Astemo株式会社,電動車両の制御装置、電動車両の制御システム及び電動車両の制御方法
+    JP7146165B2                      *,2018-02-09,2022-10-04,株式会社アドヴィックス,車両の制動制御装置
+    JP2021027603A                      *,2019-07-31,2021-02-22,株式会社アドヴィックス,車両の制動制御装置
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    【課題】 前後輪に回生制動装置を備えた車両に適用される制動制御装置において、前後制動力の発生に制約があっても、その関係が適正化され得るものを提供する。【解決手段】 アクチュエータは、前輪制動液圧を供給するとともに、前輪制動液圧以上の後輪制動液圧を供給して、前輪、後輪摩擦制動力を発生させる。コントローラは、車両全体の目標車体制動力を演算し、前輪、後輪要求制動力の和が目標車体制動力に一致し、且つ、前輪要求制動力に対する後輪要求制動力の比率が一定値になるように、前輪、後輪要求制動力を演算する。また、前輪、後輪回生制動装置の発生可能な前輪、後輪限界回生制動力を取得する。前輪限界回生制動力に一定値を乗算して後輪制限回生制動力を演算し、後輪限界回生制動力、及び、後輪制限回生制動力のうちの小さい方を後輪基準回生制動力として決定する。そして、後輪基準回生制動力に基づいて、後輪回生制動力を制限する。【選択図】 図４
+title
+    車両の制動制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    US8523297B2,2013-09-03,Brake control system for an electrically driven vehicle
+    US8042886B2,2011-10-25,Vehicle brake system
+    US10059208B2,2018-08-28,Braking control apparatus and braking control method for vehicle
+    US20050269875A1,2005-12-08,Vehicle brake device
+    JP5229290B2,2013-07-03,車両用ブレーキ装置
+    US8818671B2,2014-08-26,Vehicle brake control device
+    JP2013006529A,2013-01-10,車両用ブレーキ装置
+    WO2019156034A1,2019-08-15,車両の制動制御装置
+    JP2015030427A,2015-02-16,車両の制動装置
+    CN111683843B,2022-06-21,车辆的制动控制装置
+    WO2022202763A1,2022-09-29,車両の制動制御装置
+    KR102187631B1,2020-12-07,차량의 제동 장치 및 제동 제어 방법
+    JP2021027603A,2021-02-22,車両の制動制御装置
+    JP4355164B2,2009-10-28,車両の制動装置
+    WO2023033021A1,2023-03-09,車両の制動制御装置
+    JP2023034693A,2023-03-13,車両の制動制御装置
+    WO2022202764A1,2022-09-29,車両の制動制御装置
+    Watanabe et al.,2023,Electronically Controlled Brake System with Two-Channel Pressure Control for Electric Vehicles
+    CN112313124B,2023-04-14,车辆制动控制装置
+    WO2023157874A1,2023-08-24,車両の制動制御装置
+    WO2022181644A1,2022-09-01,車両の制動制御装置
+    JP5521657B2,2014-06-18,ブレーキ制御装置
+    WO2022181645A1,2022-09-01,車両の制動制御装置
+    WO2019198818A1,2019-10-17,車両の制動制御装置
+    JP2000270405A,2000-09-29,電動車両の制動装置
+
+patent_application
+    NoExist
+patent_priority_application
+4
+    Application,Priority date,Filing date,Title
+    JP2021046766A,2021-03-22,2021-03-22,車両の制動制御装置
+    CN202280022284.7A,2021-03-22,2022-03-22,车辆的制动控制装置
+    PCT/JP2022/013005,2021-03-22,2022-03-22,車両の制動制御装置
+
+inventor_number
+    6
+classfication_nums
+    4
+classfication_items
+21
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,0,2
+
+application_events
+6
+    2021-03-22,Application filed by Advics Co Ltd
+    2021-03-22,Priority to JP2021046766A
+    2022-03-22,Priority to CN202280022284.7A
+    2022-03-22,Priority to PCT/JP2022/013005
+    2022-10-05,Publication of JP2022145999A
+    Status,Pending
+
+active_area
+2
+    J,P
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2021046766A,2021-03-22,車両の制動制御装置
+
+legal_event
+    NoExist

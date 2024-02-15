@@ -1,0 +1,204 @@
+ID
+    WO2021085440A1
+citation_exist
+    Patent Citations (5)
+citation_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2005117727A                      *,2003-10-03,2005-04-28,Nissan Motor Co Ltd,バッテリー充電装置
+    JP2013162645A                      *,2012-02-06,2013-08-19,Toyota Motor Corp,車両用制御装置
+    JP2015033154A                      *,2013-07-31,2015-02-16,三菱自動車工業株式会社,電池の充放電制御装置
+    JP2015171208A                      *,2014-03-06,2015-09-28,株式会社豊田自動織機,充電システムの制御方法
+    JP2015208197A                      *,2014-04-23,2015-11-19,パナソニックＩｐマネジメント株式会社,充放電制御装置
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US11772508B2                      *,2019-11-05,2023-10-03,Carrier Corporation,Intelligent charging connector for transport refrigeration system
+
+abstract
+    車両用制御装置（３０，３１，６１）は、車両（１０）の停車中において車両の外部に設置される給電設備（４１）と蓄電装置（２２）との間で電力の伝達を行う第１制御、又は車両の走行中にインバータ（２１）を介して回転電機（２０）と蓄電装置との間で電力の伝達を行う第２制御のいずれを行うかを判定する判定部と、第１制御を行うと判定された場合、給電設備と蓄電装置との間で伝達される電力又は電流のいずれかである制御量を第１制限値（ＷＣｉｎ，ＷＣоｕｔ）以下にする制御を行い、第２制御を行うと判定された場合、回転電機と蓄電装置との間で伝達される電力又は電流のいずれかである制御量を第２制限値（ＷＤｉｎ，ＷＤоｕｔ）以下にするようにインバータの制御を行う制御部と、第１，第２制限値の少なくとも一方を車両のドライバビリティの低下を抑制するような値に設定する設定部と、を備える。
+title
+    車両用制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP5249277B2,2013-07-31,車両充電装置
+    US10286808B2,2019-05-14,Vehicle and method for controlling the same
+    JP5382238B2,2014-01-08,ハイブリッド車両およびその制御方法
+    JP2009248822A,2009-10-29,蓄電量制御装置
+    JP5077702B2,2012-11-21,充電制御装置
+    JP5835136B2,2015-12-24,車載充電制御装置
+    JP5880394B2,2016-03-09,車両の電源装置
+    JP6724701B2,2020-07-15,車載バッテリ充電システム
+    JP5704747B2,2015-04-22,充電制御ユニット
+    US11233256B2,2022-01-25,Power supply system and control method therefor
+    JP2018061337A,2018-04-12,車載バッテリ充電システム
+    RU2659307C2,2018-06-29,Транспортное средство и способ управления транспортным средством
+    KR20120083066A,2012-07-25,전기 자동차의 보조 전원 충전 장치 및 방법
+    WO2021085440A1,2021-05-06,車両用制御装置
+    JP5975068B2,2016-08-23,車両の電源装置
+    JP7253952B2,2023-04-07,車両
+    JP6424596B2,2018-11-21,車両の充電制御装置
+    JP2016059165A,2016-04-21,電動車両の電源システム
+    JP2021078335A,2021-05-20,車両用制御装置
+    KR101866001B1,2018-07-04,하이브리드 차량용 직류 변환기 제어 방법 및 시스템
+    JP2021126037A,2021-08-30,車両用制御装置
+    WO2019026149A1,2019-02-07,電源システム及びその制御方法
+    KR100962790B1,2010-06-09,아이들 스탑 차량의 발전부 시스템을 통한 배터리 충전량 초기화 방법
+    JP7352421B2,2023-09-28,電動車両の電源システム
+    JP6787271B2,2020-11-18,電源システム
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US17/729,630,2019-10-31,2022-04-26,Control apparatus for vehicle
+
+inventor_number
+    6
+classfication_nums
+    17
+classfication_items
+97
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,6,0
+    B,6,0,L,5,3,/,6,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B,6,0,L,5,8,/,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,1
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,4
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,8
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,2
+    H,0,2,J,7,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,2
+
+application_events
+4
+    2020-04-01,Priority claimed from JP2020066083A
+    2020-10-27,Application filed by 株式会社デンソー
+    2021-05-06,Publication of WO2021085440A1
+    2022-04-26,Priority to US17/729,630
+
+active_area
+2
+    W,O
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+5
+    Application,Filing date,Title
+    JP2019-199436,2019-10-31,
+    JP2019199436,2019-10-31,
+    JP2020-066083,2020-04-01,
+    JP2020066083A,2020-04-01,車両用制御装置
+
+legal_event
+4
+    Date,Code,Title,Description
+    2021-06-16,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 20880989Country of ref document: EPKind code of ref document: A1
+    2022-06-01,NENP,Non-entry into the national phase,Ref country code: DE
+    2022-11-09,122,Ep: pct application non-entry in european phase,Ref document number: 20880989Country of ref document: EPKind code of ref document: A1
+

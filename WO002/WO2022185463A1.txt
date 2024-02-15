@@ -1,0 +1,112 @@
+ID
+    WO2022185463A1
+citation_exist
+    Patent Citations (9)
+citation_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2000333305A                      *,1999-05-20,2000-11-30,Nissan Motor Co Ltd,ハイブリッド車両の駆動制御装置
+    JP2002238105A                      *,2001-02-07,2002-08-23,Isuzu Motors Ltd,ハイブリッド型電気自動車
+    JP2004354722A                      *,2003-05-29,2004-12-16,Nissan Motor Co Ltd,音声認識装置
+    JP2015080977A                      *,2013-10-22,2015-04-27,ダイムラー・アクチェンゲゼルシャフトＤａｉｍｌｅｒ ＡＧ,ハイブリッド車両の走行制御装置
+    JP2017158389A                      *,2016-03-04,2017-09-07,本田技研工業株式会社,車両
+    JP2020029148A                      *,2018-08-22,2020-02-27,日産自動車株式会社,ハイブリッド車両の制御方法およびハイブリッド車両の制御装置
+    Family To Family Citations,,,,
+    JP6433345B2,2015-03-09,2018-12-05,アイシン・エィ・ダブリュ株式会社,車両制御システム、車両制御方法および車両制御プログラム
+    JP6848739B2,2017-07-18,2021-03-24,トヨタ自動車株式会社,ハイブリッド車両
+    JP6977622B2,2018-03-06,2021-12-08,トヨタ自動車株式会社,ハイブリッド車両の制御装置
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    内燃機関（２）によって駆動される発電用の第１モータジェネレータ（１）と、バッテリ（５）によって駆動される走行用の第２モータジェネレータ（４）と、を備える。現在走行している道路の先の情報を取得し、降坂路での回生電力でバッテリ（５）のＳＯＣが使用上限ＨＬを越えるか予測する。使用上限ＨＬを越えると予測したときは、ＥＶ走行を事前に行ってＳＯＣを低下させ、さらに、降坂路走行中に回生電力の一部を用いて内燃機関（２）の空回しを行う。バッテリ（５）への充電電力がそれだけ少なくなるので、バッテリ（５）の温度上昇が抑制される。
+title
+    ハイブリッド車両の回生制御方法および回生制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP3904388B2,2007-04-11,ハイブリッド自動車の制御装置
+    CN105905100B,2020-07-14,基于预测的再生能量的电池荷电状态目标
+    JP4909863B2,2012-04-04,ハイブリッド車両の制御装置
+    KR101923933B1,2018-11-30,하이브리드 자동차 및 그를 위한 주행 모드 제어 방법
+    US9067583B2,2015-06-30,Vehicle travel control system
+    JP4450087B2,2010-04-14,ハイブリッド車両およびその制御方法
+    KR101836250B1,2018-03-08,구동 모터를 구비한 차량의 dc 컨버터의 출력 전압을 제어하는 방법 및 장치
+    JP5399616B2,2014-01-29,ハイブリッド車両の充電制御装置
+    JP2005253126A,2005-09-15,ハイブリッド車両の制動力制御装置および該制御装置を搭載した車両
+    JP2001169408A,2001-06-22,ハイブリッド車両の制御装置
+    JP2001095105A,2001-04-06,ハイブリッド車両
+    JP5130249B2,2013-01-30,ハイブリッド車両の充電制御装置
+    JP4417949B2,2010-02-17,鉄道車両の駆動装置
+    JP2017085723A,2017-05-18,電気自動車の制御装置
+    JP2000032606A,2000-01-28,車  輌
+    WO2018096821A1,2018-05-31,車両の走行制御装置
+    JP2010064499A,2010-03-25,ハイブリッド車両
+    JP2008143483A,2008-06-26,ハイブリッド車両の制御装置
+    JP6210677B2,2017-10-11,ハイブリッド電気自動車の走行制御装置
+    JP6435789B2,2018-12-12,ハイブリッド駆動車両の出力制御装置
+    JP5104541B2,2012-12-19,ハイブリッド車両の制御装置
+    KR20190013015A,2019-02-11,하이브리드 자동차 및 그를 위한 주행 모드 제어 방법
+    WO2022185463A1,2022-09-09,ハイブリッド車両の回生制御方法および回生制御装置
+    JP5780041B2,2015-09-16,車両用制御装置
+    KR20190081379A,2019-07-09,하이브리드 차량의 배터리 ｓｏｃ 관리 방법
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    PCT/JP2021/008314,2021-03-04,2021-03-04,ハイブリッド車両の回生制御方法および回生制御装置
+    JP2023503272A,2021-03-04,2021-03-04,ハイブリッド車両の回生制御方法および回生制御装置
+
+inventor_number
+    3
+classfication_nums
+    2
+classfication_items
+13
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+
+application_events
+4
+    2021-03-04,Application filed by 日産自動車株式会社
+    2021-03-04,Priority to PCT/JP2021/008314
+    2021-03-04,Priority to JP2023503272A
+    2022-09-09,Publication of WO2022185463A1
+
+active_area
+1
+    J,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2021/008314,2021-03-04,ハイブリッド車両の回生制御方法および回生制御装置
+
+legal_event
+3
+    Date,Code,Title,Description
+    2022-10-19,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 21928378Country of ref document: EPKind code of ref document: A1
+    2023-03-17,ENP,Entry into the national phase,Ref document number: 2023503272Country of ref document: JPKind code of ref document: A
+

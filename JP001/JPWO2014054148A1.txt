@@ -1,0 +1,225 @@
+ID
+    JPWO2014054148A1
+citation_exist
+    Patent Citations (8)
+citation_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP2005204436A                      *,2004-01-16,2005-07-28,Nissan Motor Co Ltd,車輪独立駆動式電気自動車の駆動力制御装置
+    JP4586962B2                      *,2004-04-20,2010-11-24,トヨタ自動車株式会社,車両の姿勢制御装置
+    JP4650207B2                      *,2005-10-25,2011-03-16,日産自動車株式会社,車両用駆動制御装置
+    JP4876534B2                      *,2005-10-31,2012-02-15,トヨタ自動車株式会社,車両の制駆動力制御装置
+    JP4291823B2                      *,2006-02-08,2009-07-08,トヨタ自動車株式会社,車両の制御装置
+    US8287429B2                      *,2009-05-26,2012-10-16,Toyota Jidosha Kabushiki Kaisha,Shifting control apparatus for vehicular power transmitting system
+    JP5550891B2                      *,2009-12-11,2014-07-16,Ｎｔｎ株式会社,電動車両の制御装置および制御方法
+    JP5250541B2                      *,2009-12-21,2013-07-31,三菱自動車工業株式会社,電動車両の差動制限制御装置
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (8)
+              
+
+
+citedBy_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    GB201515813D0,2015-09-07,2015-10-21,Jaguar Land Rover Ltd,Controller for a braking system
+    JP6706507B2                      *,2016-02-12,2020-06-10,本田技研工業株式会社,車両
+    JP6326469B2,2016-09-21,2018-05-16,株式会社Ｓｕｂａｒｕ,車両の駆動力制御装置
+    CN109017448B                      *,2016-12-14,2020-07-21,大连民族大学,四轮独立驱动电动汽车力矩分配的二次规划方法、制定约束条件及目标函数的方法
+    CN110936823B                      *,2018-09-25,2021-01-12,宝沃汽车（中国）有限公司,车辆运行状态的调整方法、装置及电动汽车
+    CN109878348B                      *,2019-02-14,2021-12-31,同济大学,一种用于前后轴分布式驱动电动车的运动控制系统及方法
+    JP7272330B2                      *,2020-07-22,2023-05-12,トヨタ自動車株式会社,車両制御装置
+    KR20220048144A                      *,2020-10-12,2022-04-19,현대자동차주식회사,차량의 구동력 제어 방법
+
+abstract
+    ４つの車輪１１〜１４を制御する車輪制御装置としての制御ユニット３０は、４つのモータ１９〜２２のトルク制御を行う制御部としてのトルク演算部を備え、トルク演算部は、運転者による入力操作に関する第１の情報に応じて４つのモータ１９〜２２のそれぞれについて所定の基準トルクを設定するとともに、車両１０の運動状態に関する第２の情報に応じて基準トルクに対し第１の配分トルクが加算配分されたトルクで４つのモータ１９〜２２のモータのうちの第１モータを制御し、且つ基準トルクに対し第２の配分トルクが減算配分されたトルクで第１モータとは別の第２モータを制御し、且つ第１モータ及び第２モータのそれぞれについて、トルクの作用方向が加算配分及び減算配分の前後で変化しないように第１の配分トルク及び第２の配分トルクが制限された配分トルク制限モードを含む。
+title
+    車輪制御装置、車両、車輪制御方法
+similar_document
+26
+    Publication,Publication Date,Title
+    JP5841265B2,2016-01-13,車輪制御装置、車両、車輪制御方法
+    JP6847492B2,2021-03-24,電動車両の制御装置、電動車両の制御システム及び電動車両の制御方法
+    US9707944B2,2017-07-18,Braking force control system
+    JP5212663B2,2013-06-19,車両の制駆動力制御装置
+    US9457804B2,2016-10-04,Vehicle braking/driving force control apparatus
+    JP6042706B2,2016-12-14,車両制御装置
+    KR101697809B1,2017-01-18,브레이킹 및 드라이빙 동작들로 드라이빙 역학에 영향을 미치는 방법 및 브레이킹 시스템
+    JP6252455B2,2017-12-27,車両の制御装置
+    JP5736725B2,2015-06-17,車両の制駆動力制御装置
+    JP2014212614A,2014-11-13,車輪制御装置、車両、車輪制御方法
+    CN106828504A,2017-06-13,一种用于汽车的四驱系统及其控制方法
+    US20170106755A1,2017-04-20,Vehicle control apparatus
+    JP2005028934A,2005-02-03,車両姿勢制御装置
+    JP5120297B2,2013-01-16,電気自動車の回生制動制御装置
+    JP6152705B2,2017-06-28,車両制御装置
+    JP5766240B2,2015-08-19,車両用制動装置
+    JP6329105B2,2018-05-23,四輪駆動車両の駆動力制御装置
+    JP2019155970A,2019-09-19,車両の制御装置及び車両の制御方法
+    JP5971186B2,2016-08-17,車輪制御装置、車両
+    CN108248394B,2020-05-22,车辆及其的制动回馈控制方法
+    JP7303736B2,2023-07-05,車両の制御装置
+    JP5650087B2,2015-01-07,車両の駆動力制御装置
+    JP2009035211A,2009-02-19,自動車の車両制御装置、及び自動車の制動システム
+    WO2011132335A1,2011-10-27,電気自動車、制動プログラム、並びに電気自動車の制御装置および制御方法
+    JP5316475B2,2013-10-16,四輪駆動車の前後駆動力配分比制御装置
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    9
+classfication_nums
+    16
+classfication_items
+97
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,1,0
+    B,6,0,L,2,2,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+6
+    2012-10-04,Application filed by Toyota Motor Corp, Toyota Central R&D Labs Inc
+    2016-01-13,Application granted
+    2016-01-13,Publication of JP5841265B2
+    2016-08-25,Publication of JPWO2014054148A1
+    Status,Expired - Fee Related
+    2032-10-04,Anticipated expiration
+
+active_area
+1
+    W,O
+
+not_active_area
+4
+    C,N
+    U,S
+    D,E
+    J,P
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2012/075754,2012-10-04,車輪制御装置、車両、車輪制御方法
+
+legal_event
+16
+    Date,Code,Title,Description
+    2014-12-04,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20141202
+    2015-03-09,A711,Notification of change in applicant,Free format text: JAPANESE INTERMEDIATE CODE: A711Effective date: 20150309
+    2015-03-19,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20150309
+    2015-03-25,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A821Effective date: 20150310
+    2015-08-06,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20150805
+    2015-09-09,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20150909
+    2015-10-23,TRDD,Decision of grant or rejection written,
+    2015-10-28,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20151027
+    2015-11-19,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20151112
+    2015-11-20,R151,Written notification of patent or utility model registration,Ref document number: 5841265Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R151
+    2018-10-16,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2019-10-23,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2020-10-13,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2021-10-12,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2022-11-20,LAPS,Cancellation because of no payment of annual fees,
+

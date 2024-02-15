@@ -1,0 +1,191 @@
+ID
+    US9393875B2
+citation_exist
+    Patent Citations (25)
+citation_infor
+27
+    Publication number,Priority date,Publication date,Assignee,Title
+    DE4435953A1,1993-10-07,1995-05-04,Lucas Ind Plc,Electric vehicle with a hydraulic braking system
+    DE19834222A1,1997-07-30,1999-02-04,Aisin Seiki,Electric vehicle braking regulation system
+    US5923093A                      *,1996-07-02,1999-07-13,Toyota Jidosha Kabushiki Kaisha,Hybrid vehicle drive system adapted to assure smooth brake application by motor/generator or engine
+    US20050269875A1                      *,2004-06-08,2005-12-08,Kazuya Maki,Vehicle brake device
+    JP2006246614A,2005-03-03,2006-09-14,Nissan Motor Co Ltd,Coordination controller of brake with combination system
+    US20070296264A1                      *,2003-03-13,2007-12-27,Continental Teves Ag & Co. Ohg,Method For Controlling A Brake System Of A Motor Vehicle
+    JP2008148534A,2006-12-13,2008-06-26,Toyota Motor Corp,Braking/driving force controller
+    JP2009154600A,2007-12-25,2009-07-16,Toyota Motor Corp,Brake control device
+    US20090187320A1                      *,2008-01-17,2009-07-23,Gm Global Technology Operations, Inc.,Method and apparatus for predicting braking system friction
+    US20090260901A1                      *,2008-04-18,2009-10-22,Kanzaki Kokyukoki Mfg. Co., Ltd.,Electric ground working vehicle
+    JP2010047201A,2008-08-25,2010-03-04,Hitachi Automotive Systems Ltd,Brake device and brake control method
+    US20100222978A1                      *,2008-01-31,2010-09-02,Toyota Jidosha Kabushiki Kaisha,Braking apparatus
+    WO2011016095A1,2009-08-07,2011-02-10,トヨタ自動車株式会社,Brake control system, and brake control method
+    US20110241417A1                      *,2009-11-20,2011-10-06,Toyota Jidosha Kabushiki Kaisha,Braking apparatus
+    US20120031692A1,2010-08-05,2012-02-09,Honda Motor Co., Ltd.,Vehicle braking system
+    US20120074768A1                      *,2010-09-28,2012-03-29,Advics Co., Ltd.,Vehicle brake system
+    US20120158266A1                      *,2009-09-02,2012-06-21,Toyota Jidosha Kabushiki Kaisha,Brake control device
+    US20120226402A1                      *,2011-03-02,2012-09-06,Toyota Jidosha Kabushiki Kaisha,Vehicle control device and vehicle control method
+    US8303046B2                      *,2007-08-10,2012-11-06,Toyota Jidosha Kabushiki Kaisha,Brake apparatus, brake control unit, and brake control method
+    US20120283926A1                      *,2010-01-08,2012-11-08,Honda Motor Co., Ltd.,Braking device and braking method
+    US8366210B2                      *,2006-04-03,2013-02-05,Advics Co., Ltd.,Braking apparatus for vehicle
+    Family To Family Citations,,,,
+    US8602172B2                      *,2008-10-20,2013-12-10,Mitsubishi Electric Corporation,Elevator group management system
+    JP5136592B2,2010-05-20,2013-02-06,株式会社アドヴィックス,Brake device
+    US20110304198A1                      *,2010-06-11,2011-12-15,Cottrell V Daniel D,Method for controlling regenerative and hydraulic braking
+    CN201856653U                      *,2010-10-18,2011-06-08,常熟理工学院,Automobile regenerative braking system and hydraulic braking system cooperative control device
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (4)
+              
+
+
+citedBy_exist
+    
+              Cited By (14)
+              
+
+
+citedBy_infor
+16
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20170291494A1                      *,2016-04-06,2017-10-12,Denso Corporation,Electric power generation control device
+    US11597386B2,2018-08-01,2023-03-07,Cummins Inc.,System and method for regenerative braking torque scheduling
+    Family To Family Citations,,,,
+    JP5787859B2                      *,2012-10-23,2015-09-30,株式会社アドヴィックス,Brake control device for vehicle
+    JP5989022B2                      *,2014-03-25,2016-09-07,株式会社アドヴィックス,Braking device for vehicle
+    DE102015203303A1                      *,2015-02-24,2016-08-25,Siemens Aktiengesellschaft,Vehicle, in particular rail vehicle, with drive control device
+    US9499141B1                      *,2015-09-29,2016-11-22,Faraday & Future Inc.,Sensor-triggering of friction and regenerative braking
+    CN105437984B                      *,2015-12-08,2017-12-26,南车株洲电力机车有限公司,A kind of city rail vehicle braking method
+    JP6683949B2                      *,2016-03-30,2020-04-22,三菱自動車工業株式会社,Vehicle drive device
+    JP6530359B2,2016-09-09,2019-06-12,株式会社アドヴィックス,Vehicle braking system
+    CN108656957B                      *,2017-03-31,2020-06-02,华为技术有限公司,Regenerative braking control method and device
+    CN109968990B                      *,2017-12-28,2021-11-26,郑州宇通客车股份有限公司,Regenerative braking control method and device
+    IT201900000112A1                      *,2019-01-07,2020-07-07,Invaction S R L,Assembly for a vehicle and vehicle comprising said assembly
+    CN112440751A                      *,2020-11-06,2021-03-05,广东高标电子科技有限公司,Electric vehicle braking energy recovery method
+    JP7225187B2                      *,2020-12-03,2023-02-20,本田技研工業株式会社,vehicle braking system
+
+abstract
+    The vehicle braking device has a hydraulic braking force generating device, a regeneration braking force generating device, a braking operation amount detection portion and a required braking force calculation portion. The vehicle braking device controls the hydraulic braking force generating device and the regeneration braking force generating device so as to apply the required braking force to the wheels. The vehicle braking device has a braking force adjustment control portion for executing braking force adjustment control for limiting the rate at which the regeneration braking force is increased and increasing the hydraulic braking force before the current regeneration braking force reaches a maximum regeneration braking force, that is, the maximum braking force that can be generated by the regeneration braking force generating device.
+title
+    Vehicle braking device
+similar_document
+23
+    Publication,Publication Date,Title
+    US9393875B2,2016-07-19,Vehicle braking device
+    US9499147B2,2016-11-22,Vehicle brake system
+    US9688151B2,2017-06-27,Vehicle brake device
+    US9475474B2,2016-10-25,Vehicle brake device
+    US9403514B2,2016-08-02,Brake control device for vehicle
+    US20050269875A1,2005-12-08,Vehicle brake device
+    US9233668B2,2016-01-12,Vehicle braking control device
+    US9446749B2,2016-09-20,Vehicular brake control apparatus
+    US20150091370A1,2015-04-02,Vehicle brake device
+    JP5471726B2,2014-04-16,Brake device for vehicle
+    US9683584B2,2017-06-20,Brake device for vehicle
+    US9656644B2,2017-05-23,Braking control device
+    US9751508B2,2017-09-05,Vehicle brake apparatus
+    EP2891587A1,2015-07-08,Vehicle brake apparatus
+    US9163645B2,2015-10-20,Vehicle brake system
+    JP6235351B2,2017-11-22,Braking device for vehicle
+    JP2013043489A,2013-03-04,Brake device for vehicle
+    US9487191B2,2016-11-08,Brake control device
+    CN108883749B,2020-09-22,Vehicle brake device
+    US10549641B2,2020-02-04,Braking device for vehicle
+    JP4962589B2,2012-06-27,Brake device for vehicle
+    US8998351B2,2015-04-07,Brake control device for vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    5
+classfication_nums
+    8
+classfication_items
+50
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,4
+    B,6,0,T,8,/,4,0
+    B,6,0,T,8,/,4,0,7,2
+    B,6,0,T,8,/,4,0,7,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+
+application_events
+7
+    2013-08-27,Application filed by Advics Co Ltd, Toyota Motor Corp
+    2015-02-26,Assigned to ADVICS CO., LTD., TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2015-08-06,Publication of US20150217644A1
+    2016-07-19,Application granted
+    2016-07-19,Publication of US9393875B2
+    Status,Active
+    2033-08-27,Anticipated expiration
+
+active_area
+5
+    J,P
+    W,O
+    C,N
+    E,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2012-190605,2012-08-30,
+    JP2012190605A,2012-08-30,Braking device for vehicle
+    PCT/JP2013/072900,2013-08-27,Vehicle braking device
+
+legal_event
+4
+    Date,Code,Title,Description
+    2015-02-26,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:OKANO, TAKAHIRO;KAMIYA, YUSUKE;KOMAZAWA, MASAAKI;SIGNING DATES FROM 20150119 TO 20150130;REEL/FRAME:035044/0493Owner name: ADVICS CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:OKANO, TAKAHIRO;KAMIYA, YUSUKE;KOMAZAWA, MASAAKI;SIGNING DATES FROM 20150119 TO 20150130;REEL/FRAME:035044/0493
+    2016-06-29,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2020-01-03,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

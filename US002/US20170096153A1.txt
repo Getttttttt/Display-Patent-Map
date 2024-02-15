@@ -1,0 +1,232 @@
+ID
+    US20170096153A1
+citation_exist
+    Patent Citations (10)
+citation_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP4664730B2                      *,2005-05-10,2011-04-06,株式会社東芝,Vehicle fixed position stop automatic control device and vehicle driving support device.
+    JP4635778B2                      *,2005-08-12,2011-02-23,株式会社Ｉｈｉ,Hybrid drive device
+    JP2009254069A                      *,2008-04-03,2009-10-29,Hitachi Ltd,Method and device for controlling railway vehicle
+    JP2010063286A                      *,2008-09-04,2010-03-18,Toshiba Corp,Train control system
+    JP2010089737A                      *,2008-10-10,2010-04-22,Toshiba Corp,Stop control device
+    JP5836078B2                      *,2011-11-18,2015-12-24,三菱重工業株式会社,Operation management device, operation management method and program, and transportation system
+    JP5793458B2                      *,2012-03-29,2015-10-14,株式会社日立製作所,Railway vehicle driving support device
+    US9764647B2                      *,2013-03-06,2017-09-19,Mitsubishi Electric Corporation,Main conversion device for electric vehicle
+    JP6208559B2                      *,2013-11-22,2017-10-04,公益財団法人鉄道総合技術研究所,Program and operation curve creation device
+    CN105083338B                      *,2015-08-25,2016-08-24,北京交通大学,Maximally utilize the operation control method for train of regenerated energy
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    US11208125B2                      *,2016-08-08,2021-12-28,Transportation Ip Holdings, Llc,Vehicle control system
+    Family To Family Citations,,,,
+    CN110395299B                      *,2019-07-29,2021-08-06,交控科技股份有限公司,Train braking energy utilization method in urban rail transit
+
+abstract
+    A regenerative power-amount estimation device according to an embodiment includes a regenerative power-amount estimation model for each brake notch switching configured to include a transient response of an electric brake corresponding to a switching operation of a brake notch for each switching operation of the brake notch in an operation of railway vehicles. A regenerative power-amount estimation part is configured to estimate an expected amount of regenerative power acquired for a brake plan being temporal transition data of the brake notch, based on the regenerative power-amount estimation model for each brake notch switching.
+title
+    Regenerative power-amount estimation device and brake plan plotting device
+similar_document
+26
+    Publication,Publication Date,Title
+    EP3366507A1,2018-08-29,Brake control device, brake control method, train, and program
+    CN108163018B,2020-08-14,Train accurate parking method for generating parking strategy based on fixed distance
+    KR101583878B1,2016-01-08,Apparatus for controlling speed in railway vehicles
+    US9689681B2,2017-06-27,System and method for vehicle operation
+    US9809235B2,2017-11-07,Automatic train operation system in railway vehicles
+    CN112124364B,2022-09-09,Control method for accurate train stop, ATO, VOBC and train
+    CN109070765A,2018-12-21,Train controller, method and program
+    KR20170080168A,2017-07-10,System for controlling speed of railway vehicles considering brake characteristics
+    CN105699741A,2016-06-22,Electric vehicle acceleration pedal signal diagnostic method and device
+    JPWO2009072473A1,2011-04-21,Train information management device
+    US20170096153A1,2017-04-06,Regenerative power-amount estimation device and brake plan plotting device
+    JP6547222B2,2019-07-24,Automatic train operation device, automatic train control method and program
+    JP5869150B2,2016-02-24,Travel plan creation device, driving support device, and driving control device
+    KR20160079401A,2016-07-06,Method for controlling operation point in regenerative brake of HEV
+    CN105172615A,2015-12-23,Torque control apparatus and method for drive motor
+    RU2666499C1,2018-09-07,Vehicle operation method
+    CN103818393B,2016-01-06,The compensation method of train traction brake system characteristic time lag
+    JP2017127074A,2017-07-20,Electric vehicle control device and electric vehicle control method
+    DE102015112292A1,2016-08-25,System and method for controlling braking of an electric vehicle
+    JP4961854B2,2012-06-27,Vehicle control system
+    JP7021262B2,2022-02-16,Methods and equipment for setting the maximum speed of the vehicle and autonomous driving system
+    CN111361606A,2020-07-03,Punctual arrival control method, device, medium and equipment for locomotive
+    JP5914374B2,2016-05-11,Automatic train driving device
+    DE102012219863A1,2014-04-30,Method for operating vehicle, involves calculating updated arrival time based on calculated velocity profile with respect to remaining route from current vehicle position to second position during travel of vehicle along driving route
+    JP2017083359A,2017-05-18,Vehicle test device and method for calculating vehicle speed deviation of vehicle test device
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    5
+classfication_nums
+    23
+classfication_items
+125
+    B,6,1,L,2,7,/,0,0,3,8
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,2,7,/,0,0
+    B,6,1,L,2,7,/,2,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,5
+    B,6,0,T,1,3,/,5,8,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,6,6
+    B,6,0,T,1,3,/,6,6,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,7,/,0,0
+    B,6,0,T,1,7,/,1,8
+    B,6,0,T,1,7,/,2,2
+    B,6,0,T,1,7,/,2,2,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,1,2
+    B,6,0,T,7,/,1,6
+    B,6,0,T,7,/,1,8
+    B
+    B,6,1
+    B,6,1,H
+    B,6,1,H,1,3,/,0,0
+    B
+    B,6,1
+    B,6,1,H
+    B,6,1,H,1,3,/,0,0
+    B,6,1,H,1,3,/,3,4
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,1,5,/,0,0
+    B,6,1,L,1,5,/,0,0,7,2
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,2,5,/,0,0
+    B,6,1,L,2,5,/,0,2
+    B,6,1,L,2,5,/,0,2,1
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,2,5,/,0,0
+    B,6,1,L,2,5,/,0,2
+    B,6,1,L,2,5,/,0,2,5
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,3,/,0,0
+    B,6,1,L,3,/,0,0,6
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,1,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,6
+    B,6,0,L,2,2,4,0,/,6,6,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,1,5,/,0,0
+    B,6,1,L,1,5,/,0,0,9
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,2,2,0,1,/,0,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+4
+    2016-09-14,Application filed by Toshiba Corp
+    2017-01-30,Assigned to KABUSHIKI KAISHA TOSHIBA
+    2017-04-06,Publication of US20170096153A1
+    Status,Abandoned
+
+active_area
+1
+    J,P
+
+not_active_area
+1
+    U,S
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2015198458A,2015-10-06,Regenerative energy estimation device, brake planning device, and regenerative energy estimation method
+    JP2015-198458,2015-10-06,
+
+legal_event
+3
+    Date,Code,Title,Description
+    2017-01-30,AS,Assignment,Owner name: KABUSHIKI KAISHA TOSHIBA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:EZAWA, TORU;ITAKURA, AKIHIRO;NISHIZAWA, TAKAHIRO;AND OTHERS;SIGNING DATES FROM 20161026 TO 20161028;REEL/FRAME:041564/0807
+    2018-12-27,STCB,Information on status: application discontinuation,Free format text: ABANDONED  --  FAILURE TO PAY ISSUE FEE
+

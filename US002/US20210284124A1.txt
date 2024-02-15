@@ -1,0 +1,348 @@
+ID
+    US20210284124A1
+citation_exist
+    Patent Citations (22)
+citation_infor
+24
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5861724A                      *,1997-06-03,1999-01-19,Jefferson Programmed Power, Llc,Regenerative braking apparatus and method for direct current motors
+    US20030009269A1                      *,2001-06-11,2003-01-09,Hans-Michael Graf,Method for controlling a drive train of a hybrid vehicle
+    US9376971B2                      *,2006-03-20,2016-06-28,General Electric Company,Energy management system and method for vehicle systems
+    US20170120891A1                      *,2015-11-02,2017-05-04,Toyota Jidosha Kabushiki Kaisha,Hybrid vehicle and method for controlling the same
+    US20170158199A1                      *,2015-12-08,2017-06-08,Ford Global Technologies, Llc,Vehicle acceleration determination
+    US9707957B2                      *,2015-09-25,2017-07-18,Toyota Jidosha Kabushiki Kaisha,Hybrid vehicle
+    EP2620343B1                      *,2012-01-28,2019-03-27,Volkswagen Aktiengesellschaft,Method for operating a hybrid drive unit for a motor vehicle and hybrid drive unit
+    US10688986B2                      *,2015-06-23,2020-06-23,Mitsubishi Electric Corporation,Automatic parking control device
+    Family To Family Citations,,,,
+    JP4659461B2,2005-01-11,2011-03-30,曙ブレーキ工業株式会社,Vehicle wheel motor and control method thereof
+    SE533838C2,2009-06-10,2011-02-01,Scania Cv Ab,Method and system for operating an electric machine in a hybrid vehicle
+    DE102010034672A1,2010-08-18,2012-02-23,Volkswagen Ag,Method for managing power in electrical system of motor car, involves determining difference between maximum charging state and target charging state in response to kinetic and potential energies of motor car
+    DE102010054620A1                      *,2010-09-14,2012-03-15,Volkswagen Ag,Method for determining distribution of braking torques of recuperative- and friction brakes on drive axle of e.g. electric car, involves dividing total brake torques into braking torque of friction brake and torque of regenerative brake
+    DE102012222507A1                      *,2012-12-07,2014-06-12,Continental Automotive Gmbh,Method for operating a recuperation brake of a motor vehicle and recuperation brake
+    DE102014002111B4,2014-02-15,2020-10-01,Audi Ag,Method for operating a driver assistance system and motor vehicle that supports the driver during a coasting process
+    JP6056789B2,2014-02-26,2017-01-11,株式会社デンソー,Electric vehicle regenerative braking control device
+    DE102015008423B4,2015-06-30,2018-11-22,Audi Ag,Method for operating a vehicle licensing system of a motor vehicle and motor vehicle
+    GB2545261A,2015-12-11,2017-06-14,Jaguar Land Rover Ltd,Control system and method of controlling a driveline
+    DE102016212071B4                      *,2016-07-04,2019-02-14,Audi Ag,Method for operating an electrically driven or electrically driven vehicle and vehicle
+    DE102016008363B4,2016-07-08,2021-07-22,Audi Ag,Method for operating a driver assistance system that supports the driver during a coasting process in a motor vehicle and motor vehicle
+    DE102017129018A1                      *,2017-12-06,2019-06-06,Man Truck & Bus Ag,Method for operating a motor vehicle
+    JP2019188962A,2018-04-23,2019-10-31,本田技研工業株式会社,Vehicle controller
+    KR20190107277A,2019-08-29,2019-09-19,엘지전자 주식회사,Method for controlling vehicle in autonomous driving system and apparatus thereof
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    A method for controlling the longitudinal dynamics of a vehicle, where the vehicle has a friction brake system brakes, a drive system with an electromotive drive acting on at least one wheel, and a battery for supplying power to the electromotive drive determines state information which describes the state of the vehicle and/or the state of the brake system and/or of the drive system. Route information is determined which describes the route profile of the vehicle. An action plan for implementing a future braking request by the friction brakes and/or the electromotive drive on the basis of the state information and the route information is determined. The action plan specifies, for future times and/or areas on the route, whether a braking request of the vehicle is to be implemented by means of the friction brake and/or the drive system and implements a braking request accordingly.
+title
+    Method for controlling the longitudinal dynamics of a vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US11794721B2,2023-10-24,Method and apparatus for controlling electric machines
+    US10545503B2,2020-01-28,Propulsion efficient autonomous driving strategy
+    CN107554340B,2020-05-22,Battery pack cooling control method, device and system and vehicle
+    CN109383505A,2019-02-26,Peak efficiencies are recommended and are shared
+    JP6989453B2,2022-01-05,Control device for electric vehicles
+    CN106347353B,2020-10-27,Vehicle creep torque control system and method of using the same
+    US20120080178A1,2012-04-05,Energy-efficient controlling of air conditioning system
+    CN110450786B,2022-12-13,Method for determining predicted acceleration information in an electric vehicle and electric vehicle
+    KR102477397B1,2022-12-15,Travel control device, travel control method, and non-transitory storage medium
+    JP2019085098A,2019-06-06,Hybrid vehicle and motor control method for the same
+    US11352001B2,2022-06-07,Method for controlling deceleration of environmentally friendly vehicle
+    CN105745132A,2016-07-06,Method and system for controlling the speed of a vehicle
+    CN115122938A,2022-09-30,Travel control device, travel control method, and non-transitory storage medium
+    CN114516320A,2022-05-20,Travel control device, travel control method, and non-transitory storage medium
+    US11760333B2,2023-09-19,Method for controlling the longitudinal dynamics of a vehicle
+    EP3257714B1,2020-11-25,A vehicle energy management system and method for a vehicle
+    US11052896B2,2021-07-06,Predictive grade optimization in cruise control
+    US20220274490A1,2022-09-01,Device and Method to Determine Available Regenerative Braking Energy in a Route for Vehicle
+    JP6495793B2,2019-04-03,Control device and control method for electric vehicle
+    JP7219809B2,2023-02-08,Operating a vehicle with a vehicle deceleration subsystem
+    EP3835156A1,2021-06-16,Travel control device, travel control method, non-transitory  storage medium, and vehicle
+    US11807214B2,2023-11-07,Travel control device, travel control method, non-transitory storage medium, and vehicle for deciding a power source for traveling based on a predicted amount of regenerative energy and thermal information
+    US20230278540A1,2023-09-07,Traveling control device for vehicle, traveling control method, and storage medium
+    WO2021162037A1,2021-08-19,Control device, control method, and system for controlling heat of vehicle
+    CN116691693A,2023-09-05,Information processing apparatus, information processing system, information processing method, and storage medium
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    5
+classfication_nums
+    39
+classfication_items
+225
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,0,9,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,1,8,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,7,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,7,/,0,0
+    B,6,0,T,1,7,/,1,8
+    B,6,0,T,1,7,/,2,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,4
+    B,6,0,W,3,0,/,1,4,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,0,2
+    B,6,0,W,4,0,/,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,1,0
+    B,6,0,W,4,0,/,1,0,5
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,1,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,2,/,0,0
+    B,6,0,W,2,5,5,2,/,1,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,2,/,0,0
+    B,6,0,W,2,5,5,2,/,2,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,6,/,0,0
+    B,6,0,W,2,5,5,6,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,8
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,1,8
+    B,6,0,Y,2,3,0,0,/,1,8,0,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,2,5
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,1,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,8,3
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,4,0,0,/,0,0
+    B,6,0,Y,2,4,0,0,/,8,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+
+application_events
+7
+    2021-03-11,Application filed by Continental Teves AG and Co oHG
+    2021-05-03,Assigned to CONTINENTAL TEVES AG & CO. OHG
+    2021-09-16,Publication of US20210284124A1
+    2023-09-19,Application granted
+    2023-09-19,Publication of US11760333B2
+    Status,Active
+    2041-03-11,Anticipated expiration
+
+active_area
+3
+    D,E
+    C,N
+    U,S
+
+not_active_area
+1
+    K,R
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    DE102020203127.4,2020-03-11,
+    DE102020203127.4A,2020-03-11,Method for controlling the longitudinal dynamics of a vehicle
+
+legal_event
+9
+    Date,Code,Title,Description
+    2021-03-11,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2021-05-03,AS,Assignment,Owner name: CONTINENTAL TEVES AG & CO. OHG, GERMANYFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:HOFFMANN, JENS, DR.;BACH, UWE;SEMSCH, MARTIN, DR.;AND OTHERS;SIGNING DATES FROM 20201222 TO 20210420;REEL/FRAME:056113/0747
+    2021-08-22,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2022-08-10,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2022-12-14,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2023-05-09,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2023-08-14,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2023-08-30,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

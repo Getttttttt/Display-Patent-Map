@@ -1,0 +1,196 @@
+ID
+    EP3974235A1
+citation_exist
+    Patent Citations (10)
+citation_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US8200406B2                      *,2009-08-03,2012-06-12,Robert Bosch Gmbh,Reducing brake noise during low pressure braking
+    JP5573530B2                      *,2010-09-15,2014-08-20,トヨタ自動車株式会社,Vehicle control device
+    KR101676923B1,2014-11-19,2016-11-16,목포해양대학교 산학협력단,Estimation system and method of optimum carbon fiber content of multi-layered composite for developing CFRP hull structures
+    EP3369621A4                      *,2015-10-27,2019-06-26,Koito Manufacturing Co., Ltd.,Vehicular illumination device, vehicle system, and vehicle
+    JP6738613B2                      *,2016-02-10,2020-08-12,株式会社小糸製作所,Vehicle display system
+    KR101876022B1,2016-05-16,2018-08-02,현대자동차주식회사,An apparatus for controlling engine noise to reflect engine vibration and driving condition
+    JP6354085B2                      *,2016-05-20,2018-07-11,本田技研工業株式会社,Vehicle control system, vehicle control method, and vehicle control program
+    EP3401902B1                      *,2017-05-10,2019-07-03,FCA Italy S.p.A.,Improvement of the acoustic comfort in the passenger compartment of a motor vehicle
+    KR102383462B1                      *,2017-10-17,2022-04-06,현대자동차주식회사,Engine Sound Realtime Active Realization Method and Vehicle thereof
+    CN112204652A                      *,2018-05-31,2021-01-08,哈曼国际工业有限公司,System and method for steady state vehicle sound synthesis
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    A method of controlling a tone of an electric vehicle (EV) includes calculating order components from vibration signals of a rotating motor of the EV, extracting an Nth order component having a determination coefficient R2 which represents linearity with respect to an output torque of the motor and is greater than or equal to a predetermined value, converting an RPM of the motor into a frequency and calculating an order frequency, arranging the order components by applying a vibration level of the Nth order component to a level of the order frequency to be output and setting an EV mode tone, and in a deceleration of the EV, determining a deceleration condition and applying the vibration level of the Nth order component to level control of the order frequency.
+title
+    Method of controlling tone of electric vehicle based on motor vibration in deceleration or regenerative braking conditions
+similar_document
+23
+    Publication,Publication Date,Title
+    US10195902B1,2019-02-05,Real-time engine sound reproduction method and vehicle using the real-time engine sound reproduction method
+    US11049488B2,2021-06-29,EV vehicle driving sound control system and control method
+    US11718183B2,2023-08-08,Method for controlling tone of electric vehicle based on motor vibration
+    EP3667659B1,2021-10-20,System and method for controlling engine tone by artificial intelligence based on sound index of vehicle
+    CN103568998A,2014-02-12,Device and method for controlling quality of sounds generated during vehicle door closing
+    CN108621931B,2022-07-08,Method and system for matching engine sound waves with acceleration of automobile accelerator
+    US10266112B1,2019-04-23,Sound control method for hybrid vehicle
+    EP3974235A1,2022-03-30,Method of controlling tone of electric vehicle based on motor vibration in deceleration or regenerative braking conditions
+    US20230016272A1,2023-01-19,Virtual sound provision apparatus and method for electric vehicles
+    EP1923865A1,2008-05-21,Electronic conversion/enrichment of engine sound
+    US11631304B2,2023-04-18,Apparatus for generating virtual effect for electric vehicle
+    KR20190044881A,2019-05-02,Method for controlling of hybrid vehicle
+    CN113665561B,2022-03-15,Charging control method and system of hybrid electric vehicle and hybrid electric vehicle
+    CN109515311A,2019-03-26,A kind of simulation fuel engines engine electronics sound effect system
+    EP4052980A1,2022-09-07,Vehicle controller
+    US20220084497A1,2022-03-17,Apparatus and method of producing virtual after-burn effect in electric vehicle
+    KR20230130411A,2023-09-12,Apparatus and method for generating sound of electrification vehicle
+    US20220194410A1,2022-06-23,Method of generating virtual effect for electric vehicle
+    JP6586983B2,2019-10-09,Vehicle acoustic control device
+    US8112205B2,2012-02-07,Device and method for controlling torque applied to wheels of a vehicle
+    JP2022033720A,2022-03-02,Improvement of engine sound
+    KR20230137104A,2023-10-04,Apparatus and method for generating virtual sound
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    7
+classfication_nums
+    15
+classfication_items
+93
+    B
+    B,6,0
+    B,6,0,Q
+    B,6,0,Q,5,/,0,0
+    B,6,0,Q,5,/,0,0,5
+    B,6,0,Q,5,/,0,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,1,4
+    G
+    G,1,0
+    G,1,0,K
+    G,1,0,K,1,1,/,0,0
+    G,1,0,K,1,1,/,1,6
+    G,1,0,K,1,1,/,1,7,5
+    G,1,0,K,1,1,/,1,7,8
+    G,1,0,K,1,1,/,1,7,8,5
+    G
+    G,1,0
+    G,1,0,K
+    G,1,0,K,1,5,/,0,0
+    G,1,0,K,1,5,/,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,4,2
+    B
+    B,6,0
+    B,6,0,Q
+    B,6,0,Q,2,3,0,0,/,0,0
+    B,6,0,Q,2,3,0,0,/,1,0
+    B,6,0,Q,2,3,0,0,/,1,1
+    B,6,0,Q,2,3,0,0,/,1,1,2
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,1
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,6,/,0,0
+    B,6,0,Y,2,3,0,6,/,1,1
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,4,0,0,/,0,0
+    B,6,0,Y,2,4,0,0,/,3,0
+    B,6,0,Y,2,4,0,0,/,3,0,4
+    B,6,0,Y,2,4,0,0,/,3,0,4,4
+    G
+    G,1,0
+    G,1,0,K
+    G,1,0,K,2,2,1,0,/,0,0
+    G,1,0,K,2,2,1,0,/,1,0
+    G,1,0,K,2,2,1,0,/,1,2,8
+    G,1,0,K,2,2,1,0,/,1,2,8,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+
+application_events
+3
+    2021-05-19,Application filed by Hyundai Motor Co, Kia Corp
+    2022-03-30,Publication of EP3974235A1
+    Status,Pending
+
+active_area
+3
+    U,S
+    E,P
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    KR1020200126099A,2020-09-28,Method of Voice Control Based on Motor Vibration of EV in Reduction of Velocity and Regeneration of Brake
+
+legal_event
+10
+    Date,Code,Title,Description
+    2022-02-25,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2022-02-25,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+    2022-03-30,AK,Designated contracting states,Kind code of ref document: A1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2022-10-07,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+    2022-11-09,17P,Request for examination filed,Effective date: 20220930
+    2022-11-09,RBV,Designated contracting states (corrected),Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2023-06-21,P01,Opt-out of the competence of the unified patent court (upc) registered,Effective date: 20230512
+    2023-09-15,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: EXAMINATION IS IN PROGRESS
+    2023-10-18,17Q,First examination report despatched,Effective date: 20230918
+

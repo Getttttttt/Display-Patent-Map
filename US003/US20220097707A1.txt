@@ -1,0 +1,301 @@
+ID
+    US20220097707A1
+citation_exist
+    Patent Citations (8)
+citation_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20140149010A1                      *,2012-11-24,2014-05-29,Yonghua Li,Environment-Aware Regenerative Braking Energy Calculation Method
+    US20160185327A1                      *,2013-07-31,2016-06-30,Advics Co., Ltd.,Vehicle control device
+    US20180065629A1                      *,2013-08-20,2018-03-08,General Electronic Company,System and method for controlling a vehicle
+    US20180141557A1                      *,2016-11-23,2018-05-24,Ford Global Technologies, Llc,Regenerative braking downshift control using predictive information
+    Family To Family Citations,,,,
+    US7908067B2,2007-12-05,2011-03-15,Ford Global Technologies, Llc,Hybrid electric vehicle braking downshift control
+    US8596390B2,2007-12-05,2013-12-03,Ford Global Technologies, Llc,Torque control for hybrid electric vehicle speed control operation
+    US8061464B2,2008-04-09,2011-11-22,Ford Global Technologies, Llc,Traction and stability control system and method for a vehicle with mechanically independent front and rear traction wheels
+    US8740744B2,2012-05-07,2014-06-03,Ford Global Technologies, Llc,Adjusting motor torque to compensate for uphill and downhill demands during cruise control in hybrid vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    A method for controlling a vehicle includes monitoring the vehicle speed for a first threshold in conjunction with a driver request for negative torque, after which the method comprises increasing a friction braking ratio. The method further comprises monitoring the speed of the vehicle for a second threshold, wherein the second threshold is lower than the first, after which the method comprises solely using the friction braking for braking holding torque.
+title
+    Powertrain to friction brake standstill handoff for one pedal drive
+similar_document
+26
+    Publication,Publication Date,Title
+    CN106467107B,2021-06-25,Method for controlling vehicle
+    US10793124B2,2020-10-06,Vehicle wheel torque control systems and methods
+    US7926889B2,2011-04-19,Hill hold for an electric vehicle
+    CN107097777B,2022-09-20,System and method for managing torque
+    US11167748B2,2021-11-09,Method for departing from a recuperation phase in a parallel hybrid vehicle
+    CN108016299B,2023-01-24,Regenerative braking method
+    KR20190136353A,2019-12-10,Brake system and controlling method thereof
+    CN111605540A,2020-09-01,Vehicle propulsion torque control system and method
+    US20220097700A1,2022-03-31,One-pedal drive filters and rate limits of powertrain torque
+    CN114248770A,2022-03-29,Uphill vehicle start in single-pedal driving mode
+    US20230022906A1,2023-01-26,Automated control architecture that handles both grip driving and sliding
+    US11305773B1,2022-04-19,Powertrain to friction brake standstill handoff for one pedal drive
+    US11794715B2,2023-10-24,Brake assist during vehicle one pedal drive
+    US20220097660A1,2022-03-31,Brake assist during vehicle one pedal drive
+    WO2014055013A1,2014-04-10,Device and method for comfortable and/or fuel saving driving of a motor vehicle
+    US10752288B2,2020-08-25,Lateral motion control for cornering and regenerative braking energy capture
+    CN107150688B,2021-11-19,Hybrid vehicle and lash mitigation strategy
+    US11623629B2,2023-04-11,One-pedal drive method to control vehicle speed to a stop using feedback powertrain torque controls
+    JP6657839B2,2020-03-04,Hybrid vehicle and control method thereof
+    EP3815995B1,2023-08-23,Eco-friendly vehicle and method of controlling braking for the same
+    US20220227232A1,2022-07-21,Regenerative braking during communication interruptions
+    US11745737B2,2023-09-05,Grade-compensated torque production to propel vehicle during one-pedal drive
+    EP2903874B1,2022-05-11,Device and method for comfortable and/or fuel saving driving of a motor vehicle
+    US20220097600A1,2022-03-31,Vehicle brake light control during one-pedal drive
+    US20230125618A1,2023-04-27,Creep torque feedback to improve controllably maneuvering a vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+4
+    Application,Priority date,Filing date,Title
+    US17/035,468,2020-09-28,2020-09-28,Powertrain to friction brake standstill handoff for one pedal drive
+    DE102021124821.3A,2020-09-28,2021-09-26,SWITCHING FROM POWERTRAIN STALL TO FRICTION BRAKE STALL FOR ONE PEDAL RIDING
+    CN202111146343.5A,2020-09-28,2021-09-28,Static shift of a driveline to a friction brake for single pedal actuation
+
+inventor_number
+    7
+classfication_nums
+    34
+classfication_items
+196
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,7,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,5
+    B,6,0,T,1,3,/,5,8,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,6,6
+    B,6,0,T,1,3,/,6,6,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,0,2
+    B,6,0,T,7,/,0,4
+    B,6,0,T,7,/,0,4,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,2,1
+    B,6,0,T,8,/,3,2,1,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,9,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,1,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B,6,0,L,2,2,4,0,/,6,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B,6,0,L,2,2,5,0,/,2,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,0,1,/,0,0
+    B,6,0,T,2,2,0,1,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,1,0,/,0,0
+    B,6,0,T,2,2,1,0,/,2,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,2,0,/,0,0
+    B,6,0,T,2,2,2,0,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,5,0,/,0,0
+    B,6,0,T,2,2,5,0,/,0,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,5,0,/,0,0
+    B,6,0,T,2,2,5,0,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,8,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,8,9
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,1,8
+    B,6,0,W,2,5,1,0,/,1,8,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,3,0,/,0,0
+    B,6,0,W,2,5,3,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,2,/,0,0
+    B,6,0,W,2,5,5,2,/,1,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,8
+
+application_events
+7
+    2020-09-28,Application filed by Ford Global Technologies LLC
+    2020-09-28,Priority to US17/035,468
+    2022-03-31,Publication of US20220097707A1
+    2022-04-19,Application granted
+    2022-04-19,Publication of US11305773B1
+    Status,Active
+    2040-10-22,Adjusted expiration
+
+active_area
+3
+    U,S
+    D,E
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US17/035,468,2020-09-28,Powertrain to friction brake standstill handoff for one pedal drive
+
+legal_event
+4
+    Date,Code,Title,Description
+    2020-09-28,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2020-10-14,AS,Assignment,Owner name: FORD GLOBAL TECHNOLOGIES, LLC, MICHIGANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:SEMENOV, SERGEY GENNADIEVICH;BOLGER, BRYAN MICHAEL;PORRAS, ANGEL FERNANDO;AND OTHERS;SIGNING DATES FROM 20200928 TO 20201013;REEL/FRAME:054056/0260
+    2022-03-30,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

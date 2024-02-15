@@ -1,0 +1,433 @@
+ID
+    US9834206B1
+citation_exist
+    Patent Citations (27)
+citation_infor
+29
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5414339A                      *,1992-09-17,1995-05-09,Hitachi Ltd,Electric vehicle control system
+    US20010009147A1                      *,1998-04-01,2001-07-26,Denso Corporation,Control system for hybrid vehicle
+    US6275398B1,2000-06-27,2001-08-14,Mitsubishi Denki Kabushiki Kaisha,Voltage control apparatus for vehicle-onboard electric generator
+    US20010041952A1                      *,2000-05-02,2001-11-15,Toyota Jidosha Kabushiki Kaisha,Vehicle with power source system mounted thereon, power source system controller, method of controlling power source system, and method of controlling start of such vehicle
+    US20010048226A1                      *,2000-05-24,2001-12-06,Toyota Jidosha Kabushiki Kaisha,Hybrid vehicle and method of controlling hybrid vehicle
+    RU2297639C1,2005-11-03,2007-04-20,Рязанский военный автомобильный институт им. ген. армии В.П. Дубынина,Device for controlling automobile electric power system
+    US7686723B2,2006-08-15,2010-03-30,Ford Global Technologies, Llc,Hybrid electric vehicle and powertrain
+    US8425377B2,2010-04-27,2013-04-23,Ford Global Technologies, Llc,Multiple-mode power split hybrid powertrain
+    US8508066B2,2009-10-27,2013-08-13,Hyundai Motor Company,Emergency control apparatus and method for use
+    US20140001985A1                      *,2012-06-29,2014-01-02,Ford Global Technologies, Llc,Vehicle system for evaluating a voltage converter
+    US20140062349A1                      *,2012-08-31,2014-03-06,Ford Global Technologies, Llc,Control strategy for an electric machine in a vehicle
+    US20140062348A1                      *,2012-08-31,2014-03-06,Ford Global Technologies, Llc,Control strategy for an electric machine in a vehicle
+    US20140252849A1                      *,2013-03-11,2014-09-11,Ford Global Technologies, Llc,Hybrid electric vehicle power-up sequencing with vvc test
+    US8965618B2                      *,2013-03-15,2015-02-24,Ford Global Technologies, Llc,Control strategy for an electric machine in a vehicle
+    US20150065026A1                      *,2013-08-30,2015-03-05,Ford Global Technologies, Llc,Cabin venting system and method for an electrified vehicle
+    US20150149005A1                      *,2013-11-27,2015-05-28,Ford Global Technologies, Llc,Torque monitoring system and method
+    US20150198673A1                      *,2014-01-15,2015-07-16,Ford Global Technologies, Llc,Battery testing system and method
+    US9087418B2                      *,2013-11-19,2015-07-21,Ford Global Technologies, Llc,Vehicle diagnostic system and method for detecting incorrect cable connections
+    US20150211887A1                      *,2014-01-27,2015-07-30,Ford Global Technologies, Llc,Resolver excitation frequency scheduling for noise immunity
+    US9448135B2                      *,2014-07-16,2016-09-20,Ford Global Technologies, Llc,Torque error detection and torque estimation system
+    US20170246962A1                      *,2016-02-25,2017-08-31,Ford Global Technologies, Llc,Vehicle charge system
+    US9766052B2                      *,2013-04-22,2017-09-19,Ford Global Technologies, Llc,System and method for determining rotor position offset of an electric machine
+    Family To Family Citations,,,,
+    KR101124973B1                      *,2009-12-03,2012-03-27,현대자동차주식회사,Motor control system for hybrid vehicle and method for controlling the same
+    US8606447B2                      *,2011-05-23,2013-12-10,GM Global Technology Operations LLC,Method and apparatus to operate a powertrain system including an electric machine having a disconnected high-voltage battery
+    JP2013039874A                      *,2011-08-16,2013-02-28,Hitachi Constr Mach Co Ltd,Working vehicle
+    JP6009757B2                      *,2011-11-24,2016-10-19,トヨタ自動車株式会社,Vehicle and vehicle control method
+    JP2016107684A                      *,2014-12-02,2016-06-20,トヨタ自動車株式会社,Hybrid vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (9)
+              
+
+
+citedBy_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20170297551A1                      *,2014-10-30,2017-10-19,Scania Cv Ab,Method and system for switching from a first power supply path to a second power supply path
+    US20180244265A1                      *,2017-02-27,2018-08-30,Ford Global Technologies, Llc,Autonomous motor control during loss of motor communications
+    JP2020069926A                      *,2018-10-31,2020-05-07,トヨタ自動車株式会社,Hybrid automobile
+    CN113147403A                      *,2021-04-08,2021-07-23,潍柴动力股份有限公司,Vehicle, battery under-voltage protection system and method
+    US11332001B2,2019-10-30,2022-05-17,Ford Global Technologies, Llc,DC bus voltage regulation in automotive vehicle during contactor open events
+    EP4052943A1                      *,2021-03-04,2022-09-07,Renault s.a.s,Control of a power train of a hybrid motor vehicle operating in a series mode with battery disconnected
+    Family To Family Citations,,,,
+    CN110386004A                      *,2019-07-30,2019-10-29,上海振华重工(集团)股份有限公司,A kind of electric mixed self-adapting dynamical system of straddle carrier oil and its control method
+    CN113104025B                      *,2021-04-25,2022-08-12,金龙联合汽车工业（苏州）有限公司,Limping control method after fault cut of power energy storage device of hybrid electric vehicle
+    CN113547916B                      *,2021-08-24,2022-03-22,李浩然,Constant-pressure mode control method for range-extended electric automobile
+
+abstract
+    A hybrid drive system has a battery and a combustion engine for energy sources. The system has a traction motor, a generator, a variable voltage converter (VVC), a motor inverter, a generator inverter, a bus coupling the VVC to the inverters, and a controller. The controller regulates engine speed, motor torque, and generator torque. The engine speed is determined according to a driver torque demand. In normal conditions, 1) the controller regulates the engine speed by modifying a generator torque command, and 2) the bus voltage is regulated using the VVC and battery. When the controller detects a fault in which the battery and VVC become unavailable for regulating the bus voltage, then the controller regulates a motor inverter power output to match a sum of a generator inverter power output and an estimated power loss of the inverters in order to regulate the bus voltage.
+title
+    Fault-tolerant operation of hybrid electric vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US9834206B1,2017-12-05,Fault-tolerant operation of hybrid electric vehicle
+    US8547055B2,2013-10-01,Method and apparatus to control electric power consumption
+    US8598734B2,2013-12-03,Power supply system and vehicle equipped with the same
+    US7863838B2,2011-01-04,Power supply system provided with a plurality of power supplies, and vehicle provided with such power supply system
+    JP6130634B2,2017-05-17,Apparatus and method for charging an electric vehicle
+    KR100921125B1,2009-10-12,Hybrid Fuel Cell Vehicle with multi-power source and multi-drive system
+    US6953100B2,2005-10-11,Method and apparatus to regulate the supply of power to an electric drive using a hybrid energy supply system in a vehicle
+    US9493092B2,2016-11-15,Electric automobile
+    US9403443B2,2016-08-02,Charge balance system and method
+    US7997364B2,2011-08-16,Hybrid vehicle and control method of hybrid vehicle
+    WO2008004464A1,2008-01-10,Voltage converter and vehicle having the same
+    RU2667019C1,2018-09-13,Vehicle
+    US20160129796A1,2016-05-12,Power supply system of electric-powered vehicle
+    US10958091B2,2021-03-23,Power supply device
+    US20100323844A1,2010-12-23,Motor power control
+    US20090243386A1,2009-10-01,Method of controlling fuel cell vehicle and method of controlling dc/dc converter apparatus
+    KR101055837B1,2011-08-09,Apparatus and method for controlling a fuel cell vehicle having a multi-drive system
+    JP6343599B2,2018-06-13,Drive device
+    JP7039513B2,2022-03-22,Power system
+    US8683244B2,2014-03-25,Control apparatus and control method for vehicle
+    US10239406B2,2019-03-26,Hybrid vehicle
+    US20160009195A1,2016-01-14,Electric power system
+    US20220302737A1,2022-09-22,Power supply system
+    JP3718962B2,2005-11-24,Hybrid vehicle
+    JP6838979B2,2021-03-03,Mobile power distribution system
+
+patent_application
+    NoExist
+patent_priority_application
+4
+    Application,Priority date,Filing date,Title
+    US15/472,718,2017-03-29,2017-03-29,Fault-tolerant operation of hybrid electric vehicle
+    DE102018107180.9A,2017-03-29,2018-03-26,Fault-tolerant operation of hybrid electric vehicles
+    CN201810251952.9A,2017-03-29,2018-03-26,Fault tolerant operation of a hybrid electric vehicle
+
+inventor_number
+    7
+classfication_nums
+    47
+classfication_items
+291
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,5,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,/,0,0
+    B,6,0,K,1,/,0,4
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,3,6
+    B,6,0,K,6,/,3,6,5
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,4
+    B,6,0,K,6,/,4,4,5
+    B,6,0,L,1,1,/,0,8
+    B,6,0,L,1,1,/,1,8,6,1
+    B,6,0,L,1,1,/,1,8,6,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,0
+    B,6,0,W,1,0,/,1,1
+    B,6,0,W,1,0,/,1,1,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,4
+    B,6,0,W,1,0,/,2,6
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,4,2
+    H,0,2,M,7,/,4,4
+    H,0,2,M,7,/,4,8
+    H,0,2,M,7,/,5,3
+    H,0,2,M,7,/,5,3,7
+    H,0,2,M,7,/,5,3,8,7
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,4,2
+    H,0,2,M,7,/,4,4
+    H,0,2,M,7,/,4,8
+    H,0,2,M,7,/,5,3
+    H,0,2,M,7,/,5,3,7
+    H,0,2,M,7,/,5,3,8,7
+    H,0,2,M,7,/,5,3,8,7,1
+    H,0,2,M,7,/,5,3,8,7,5
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,7,/,0,0
+    H,0,2,P,2,7,/,0,4
+    H,0,2,P,2,7,/,0,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,2,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,3,4
+    B,6,0,L,1,1,/,1,8,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B,6,0,L,2,2,1,0,/,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,6
+    B,6,0,W,2,5,1,0,/,0,6,3,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,8
+    B,6,0,W,2,5,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,6
+    B,6,0,W,2,7,1,0,/,0,6,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,6
+    B,6,0,W,2,7,1,0,/,0,6,6,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,2,4
+    B,6,0,W,2,7,1,0,/,2,4,2
+    B,6,0,W,2,7,1,0,/,2,4,4
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,2
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,0,0,6,7
+    H,0,2,M,1,/,0,0,7
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,0,0,6,7
+    H,0,2,M,1,/,0,0,8
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,3,2
+    H,0,2,M,1,/,3,2,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,0,4
+    Y,1,0,S,9,0,3,/,9,0,7
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,0,4
+    Y,1,0,S,9,0,3,/,9,0,9
+    Y,1,0,S,9,0,3,/,9,1
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,3
+
+application_events
+9
+    2017-03-29,Application filed by Ford Global Technologies LLC
+    2017-03-29,Priority to US15/472,718
+    2017-03-29,Assigned to FORD GLOBAL TECHNOLOGIES, LLC
+    2017-12-05,Application granted
+    2017-12-05,Publication of US9834206B1
+    2018-03-26,Priority to DE102018107180.9A
+    2018-03-26,Priority to CN201810251952.9A
+    Status,Active
+    2037-03-29,Anticipated expiration
+
+active_area
+3
+    U,S
+    C,N
+    D,E
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US15/472,718,2017-03-29,Fault-tolerant operation of hybrid electric vehicle
+
+legal_event
+4
+    Date,Code,Title,Description
+    2017-03-29,AS,Assignment,Owner name: FORD GLOBAL TECHNOLOGIES, LLC, MICHIGANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:YANG, SHUITAO;ZHOU, YAN;NEWMAN, KEVIN L.;AND OTHERS;REEL/FRAME:041784/0522Effective date: 20170123
+    2017-11-15,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2021-05-13,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

@@ -1,0 +1,208 @@
+ID
+    US20230126354A1
+citation_exist
+    NoCitation
+citation_infor
+    NoCitation
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    A device and a method for controlling regenerative braking of an electrified vehicle includes a drive motor configured for generating power required to drive wheels, and a controller electrically connected to the drive motor, and the controller detects vehicle data when braking the vehicle, determines whether a wheel slip of the vehicle has occurred based on the vehicle data, determines a first regenerative braking amount based on a deceleration and a vehicle model when the wheel slip has not occurred, determines a second regenerative braking amount based on a maximum road surface utilization rate when the wheel slip has occurred, and controls maximum regenerative braking of the drive motor based on the first regenerative braking amount or the second regenerative braking amount.
+title
+    Device and method for controlling regenerative braking of electrified vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    EP3347228B1,2022-06-15,Electric vehicle with and method, controller and computer programm for a braking system
+    US10421362B2,2019-09-24,Regenerative braking control method and system
+    US8504238B2,2013-08-06,Vehicle stability and steerability control via electronic torque distribution
+    US8190344B2,2012-05-29,Optimization of vehicle stability and steering during a regenerative braking event
+    US8924055B2,2014-12-30,Vehicle control apparatus
+    US9238412B2,2016-01-19,Normalizing deceleration of a vehicle having a regenerative braking system
+    US8504273B2,2013-08-06,Coefficient of friction based limitation of the torque of a vehicle control loop
+    JP2004104991A,2004-04-02,Control method and system for independent braking and controllability of vehicle with regenerative braking
+    US9296368B2,2016-03-29,Determining effective brake pedal position
+    US20220176825A1,2022-06-09,Control system and method for controlling an electric motor
+    JP6443258B2,2018-12-26,Braking / driving force control device and braking / driving force control method
+    JP4089608B2,2008-05-28,Car
+    US20230126354A1,2023-04-27,Device and method for controlling regenerative braking of electrified vehicle
+    US11332143B2,2022-05-17,Method for controlling wheel slip of vehicle
+    US20220097786A1,2022-03-31,Trailer vehicle and trailer brake controller, and method and computer program product therefor
+    US20080079311A1,2008-04-03,Vehicle regenerative braking system and method
+    US10752288B2,2020-08-25,Lateral motion control for cornering and regenerative braking energy capture
+    KR20210014822A,2021-02-10,System and method for controlling wheel slip of vehicle
+    KR102404823B1,2022-06-02,A control apparatus for torque vectoring of vehicle having in-wheel motor
+    US20230034858A1,2023-02-02,Systems and methods for electric vehicle speed control
+    CN114906137A,2022-08-16,Adaptive cruise control with user-defined lateral acceleration threshold
+    US20210039630A1,2021-02-11,Method for controlling wheel slip of vehicle
+    JP2005143183A,2005-06-02,Driver for vehicle
+    US20220324334A1,2022-10-13,System and method for controlling motors of commerical vehicle having electric axle
+    JP6374705B2,2018-08-15,Automobile
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    21
+classfication_items
+124
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,7,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,1,2
+    B,6,0,W,4,0,/,1,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B,6,0,L,2,2,4,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B,6,0,L,2,2,5,0,/,2,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,2,0,5,0,/,0,0,0,1
+    B,6,0,W,2,0,5,0,/,0,0,1,9
+    B,6,0,W,2,0,5,0,/,0,0,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,2,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,3,0,/,0,0
+    B,6,0,W,2,5,3,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,1
+
+application_events
+4
+    2022-03-24,Application filed by Hyundai Motor Co, Kia Corp
+    2022-03-24,Assigned to HYUNDAI MOTOR COMPANY, KIA CORPORATION
+    2023-04-27,Publication of US20230126354A1
+    Status,Pending
+
+active_area
+1
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    KR10-2021-0141938,2021-10-22,
+    KR1020210141938A,2021-10-22,Apparatus and method for controlling regenerative braking in electrification vehicle
+
+legal_event
+3
+    Date,Code,Title,Description
+    2022-03-24,AS,Assignment,Owner name: KIA CORPORATION, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:KIM, JUNG WAN;REEL/FRAME:059391/0395Effective date: 20220215Owner name: HYUNDAI MOTOR COMPANY, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:KIM, JUNG WAN;REEL/FRAME:059391/0395Effective date: 20220215
+    2022-04-27,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+

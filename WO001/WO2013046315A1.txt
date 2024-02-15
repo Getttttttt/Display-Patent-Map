@@ -1,0 +1,155 @@
+ID
+    WO2013046315A1
+citation_exist
+    Patent Citations (3)
+citation_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH05130712A                      *,1991-10-21,1993-05-25,Hitachi Ltd,電気自動車制御装置
+    JP2010279159A                      *,2009-05-28,2010-12-09,Toyota Motor Corp,電動車両の電源システム
+    WO2011016134A1                      *,2009-08-07,2011-02-10,トヨタ自動車株式会社,電動車両の電源システムおよびその制御方法
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN104377752A                      *,2014-09-04,2015-02-25,浙江超威创元实业有限公司,一种备用电源
+    CN110392967A                      *,2017-03-13,2019-10-29,宝马股份公司,用于在供电网络中缓存电能的固定蓄能器以及用于固定蓄能器的运行方法和加装模块
+    JP2020529823A                      *,2017-08-07,2020-10-08,ヴィテスコ テクノロジーズ ゲー・エム・ベー・ハーＶｉｔｅｓｃｏ Ｔｅｃｈｎｏｌｏｇｉｅｓ ＧｍｂＨ,自動車用の蓄電池充電装置、自動車側蓄電池充電装置を動作させるための方法、高電圧搭載電源網および蓄電池充電装置の使用
+    Family To Family Citations,,,,
+
+abstract
+    電力制御ユニット（２０）は、車両走行時に、モータジェネレータ（３０）を駆動制御するために、メインバッテリ（１０）およびモータジェネレータ（３０）の間で電力変換を実行する。外部充電用の充電器（２００）は、メインバッテリ（１０）および第１の電力線（１５７ｐ，１５７ｇ）の間で双方向の電力変換を実行するＤＣ／ＤＣ変換部（２１０）を有する。第１の電力線（１５７ｐ，１５７ｇ）は、電力制御ユニット（２０）内の第２の電力線（１５４ｐ，１５４ｇ）と電気的に接続される。制御装置（８０）は、車両走行時において、メインバッテリ（１０）およびモータジェネレータ（３０）の間での入出力電力に応じて、メインバッテリ（１０）の出力電圧を直流電圧変換して第１の電力線（１５７ｐ，１５７ｇ）へ出力するようにＤＣ／ＤＣ変換部（２１０）を動作させる。
+title
+    電動車両の電源システム
+similar_document
+19
+    Publication,Publication Date,Title
+    JP5610066B2,2014-10-22,電動車両の電源装置およびその制御方法
+    JP5348334B2,2013-11-20,電動車両の電源装置およびその制御方法
+    JP4466772B2,2010-05-26,車両の制御装置
+    JP5534032B2,2014-06-25,電動車両の電源装置およびその制御方法
+    JP5348326B2,2013-11-20,電動車両およびその充電制御方法
+    JP4957873B2,2012-06-20,電動車両の電源システムおよびその制御方法
+    JP4993036B2,2012-08-08,電動車両の電源システム
+    US8681457B2,2014-03-25,Power source system for electric powered vehicle and control method therefor
+    JP5497381B2,2014-05-21,車両
+    JP5131355B2,2013-01-30,ハイブリッド車両
+    JP5825423B2,2015-12-02,電動車両およびその制御方法
+    JP5228824B2,2013-07-03,車両の電源システムおよび車両
+    JP2013038910A,2013-02-21,電源システムおよびそれを備える車両
+    JP5767123B2,2015-08-19,車両
+    WO2013046315A1,2013-04-04,電動車両の電源システム
+    JP6333161B2,2018-05-30,電動車両
+    JP2012210085A,2012-10-25,電源制御装置およびそれを備えたモータ駆動システムならびに電動制御装置の制御方法
+    JP2014143804A,2014-08-07,車両
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    PCT/JP2011/071988,2011-09-27,2011-09-27,電動車両の電源システム
+
+inventor_number
+    4
+classfication_nums
+    10
+classfication_items
+59
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,1,0
+    B,6,0,L,2,2,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+3
+    2011-09-27,Application filed by トヨタ自動車株式会社
+    2011-09-27,Priority to PCT/JP2011/071988
+    2013-04-04,Publication of WO2013046315A1
+
+active_area
+1
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2011/071988,2011-09-27,電動車両の電源システム
+
+legal_event
+5
+    Date,Code,Title,Description
+    2013-05-22,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 11873102Country of ref document: EPKind code of ref document: A1
+    2014-03-27,NENP,Non-entry into the national phase,Ref country code: DE
+    2014-10-22,122,Ep: pct application non-entry in european phase,Ref document number: 11873102Country of ref document: EPKind code of ref document: A1
+    2014-10-24,NENP,Non-entry into the national phase,Ref country code: JP
+

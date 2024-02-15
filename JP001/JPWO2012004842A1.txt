@@ -1,0 +1,217 @@
+ID
+    JPWO2012004842A1
+citation_exist
+    Patent Citations (9)
+citation_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH11115545A                      *,1997-10-09,1999-04-27,Aqueous Reserch:Kk,車両制御装置
+    JP2001027321A                      *,1999-07-15,2001-01-30,Honda Motor Co Ltd,ハイブリッド車両のシフト位置提示装置
+    JP2006163942A                      *,2004-12-08,2006-06-22,Nissan Motor Co Ltd,車両走行状況提示装置及び車両走行状況提示方法
+    JP2007210487A                      *,2006-02-10,2007-08-23,Toyota Motor Corp,ハイブリッド車用運転操作評価装置
+    JP2008162524A                      *,2006-12-29,2008-07-17,Nissan Motor Co Ltd,車両用走行制御装置
+    JP2009073390A                      *,2007-09-21,2009-04-09,Toyota Motor Corp,車両制御装置
+    JP2009271809A                      *,2008-05-09,2009-11-19,Honda Motor Co Ltd,車両走行制御装置及び車両走行制御方法
+    JP2009274611A                      *,2008-05-15,2009-11-26,Honda Motor Co Ltd,ハイブリッド車の制御装置
+    JP2009286185A                      *,2008-05-27,2009-12-10,Toyota Motor Corp,走行制御装置
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (6)
+              
+
+
+citedBy_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP2014147168A                      *,2013-01-28,2014-08-14,Toyota Industries Corp,退避走行時車速制限方法及び車両
+    GB2516257B                      *,2013-07-16,2019-06-19,Bentley Motors Ltd,Brake control with obstacle detection to optimise regenerative braking
+    JP6459824B2                      *,2015-07-24,2019-01-30,トヨタ自動車株式会社,車両制御装置
+    CN106891775A                      *,2017-03-10,2017-06-27,合肥工业大学,一种电动汽车拥堵跟随系统及控制方法
+    CN110920406A                      *,2019-11-20,2020-03-27,台州学院,一种可进行能量回收的自动驾驶车辆
+    DE102019133680B3                      *,2019-12-10,2021-03-04,Audi Ag,Verfahren und System zum Durchführen einer Rekuperation
+
+abstract
+    撮影部７３０が撮影した車両ＣＲの前方及び後方の画像に基づいて、判定部７４０が、車両ＣＲの前方車両が存在するか否かの前方判定、及び、車両ＣＲの後方車両が存在するか否かの後方判定を行う。前方判定の結果及び／又は後方判定の結果が肯定的であった場合には、車間距離取得部７５０が、前方車両までの距離及び／又は後方車両までの距離を算出する。また、導出部７６０Ａは、車両ＣＲの現在位置に基づいて記憶部７１０内の地図情報を参照して、車両ＣＲが今後走行する道路の傾斜情報等を含む道路属性を特定した後に、記憶部７１０内の最大充電効率情報を参照し、車両ＣＲの最大効率速度を求める。引き続き、導出部７６０Ａは、求められた最大効率速度、判定部７４０による判定結果、車間距離取得部７５０による算出結果に基づいて、回生エネルギを利用した充電効率の向上及び交通安全の調和の観点から、推奨される運転操作情報を導出する。
+title
+    運転操作支援装置及び運転操作支援方法
+similar_document
+26
+    Publication,Publication Date,Title
+    US10094677B2,2018-10-09,Route guidance apparatus, route guidance method and computer program
+    US10556589B2,2020-02-11,Vehicle control system, vehicle control method and vehicle control program
+    US10968855B2,2021-04-06,Control support device, vehicle, control support method, recording medium, learned model for causing computer to function, and method of generating learned model
+    KR101974357B1,2019-09-05,하이브리드 자동차 및 그를 위한 엔진 제어 방법
+    US8874358B2,2014-10-28,Route guidance device, method, and program
+    JP5071018B2,2012-11-14,車両消費エネルギ推定装置、車両消費エネルギ推定方法及びコンピュータプログラム
+    WO2012004842A1,2012-01-12,運転操作支援装置及び運転操作支援方法
+    JP6093857B2,2017-03-08,経路探索装置、端末装置及び経路探索方法
+    JP2018199380A,2018-12-20,ハイブリッド車両
+    JP2009104415A,2009-05-14,車両走行履歴情報提供システム
+    JP6268751B2,2018-01-31,目的地情報提供システム及び方法、並びにコンピュータプログラム
+    JP5167968B2,2013-03-21,ハイブリッド車両の運転支援装置、運転支援方法及びプログラム
+    US11293771B2,2022-04-05,Display device, display method and control device
+    JP5408002B2,2014-02-05,地図表示装置、地図表示方法、及び地図表示プログラム
+    KR102252916B1,2021-05-18,하이브리드 자동차 및 그를 위한 엔진 제어 방법
+    US20210158692A1,2021-05-27,Information processing device, information processing system, and computer readable recording medium
+    US20210192946A1,2021-06-24,Driver-assistance device, driver-assistance system, and driver-assistance program
+    JP2018029409A,2018-02-22,電動車両
+    WO2011096068A1,2011-08-11,運転操作支援システム及び運転操作支援方法
+    CN114821511B,2022-09-23,杆体检测方法、装置、车辆、存储介质及芯片
+    JP7314894B2,2023-07-26,車両走行ルート指示装置
+    CN114911630B,2022-11-04,数据处理方法、装置、车辆、存储介质及芯片
+    JP2019191200A,2019-10-31,経路探索装置、端末装置及び経路探索方法
+    JP2012154782A,2012-08-16,車載地図表示装置、サーバ装置、車両用地図表示システム
+    JP5317469B2,2013-10-16,ナビゲーション装置
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    18
+classfication_items
+107
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,0,9,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,0,7
+    B,6,0,L,3,/,0,0,1,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,4
+    B,6,0,W,3,0,/,1,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    G
+    G,0,8
+    G,0,8,G
+    G,0,8,G,1,/,0,0
+    G,0,8,G,1,/,1,6
+    G,0,8,G,1,/,1,6,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,2,/,0,0
+    B,6,0,W,2,5,5,2,/,2,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,4,/,0,0
+    B,6,0,W,2,5,5,4,/,4,0
+    B,6,0,W,2,5,5,4,/,4,0,4
+    B,6,0,W,2,5,5,4,/,4,0,4,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,4,/,0,0
+    B,6,0,W,2,5,5,4,/,8,0
+    B,6,0,W,2,5,5,4,/,8,0,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,6,/,0,0
+    B,6,0,W,2,5,5,6,/,4,5
+    B,6,0,W,2,5,5,6,/,5,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+3
+    2010-07-05,Application filed by Pioneer Corp
+    2013-09-02,Publication of JPWO2012004842A1
+    Status,Pending
+
+active_area
+2
+    J,P
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2010/061379,2010-07-05,運転操作支援装置及び運転操作支援方法
+
+legal_event
+5
+    Date,Code,Title,Description
+    2013-11-06,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20131105
+    2013-12-26,A521,Written amendment,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20131225
+    2014-01-30,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20140129
+    2014-06-12,A02,Decision of refusal,Free format text: JAPANESE INTERMEDIATE CODE: A02Effective date: 20140611
+

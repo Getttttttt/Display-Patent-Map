@@ -1,0 +1,157 @@
+ID
+    US9731607B1
+citation_exist
+    Patent Citations (12)
+citation_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    US3890551A,1974-01-24,1975-06-17,Gen Electric,Regenerative braking circuit
+    US4039914A,1975-11-25,1977-08-02,General Electric Company,Dynamic braking in controlled current motor drive systems
+    US4093900A,1976-08-11,1978-06-06,General Electric Company,Dynamic brake blending for an inverter propulsion system
+    US4095154A,1976-10-21,1978-06-13,General Electric Company,Regenerative braking system for a chopper controlled electric traction motor
+    US4761600A,1987-03-06,1988-08-02,General Electric Company,Dynamic brake control
+    US5117166A,1991-03-28,1992-05-26,General Electric Company,Chopper circuit for dynamic braking in an electric power conversion system
+    US5208741A,1991-03-28,1993-05-04,General Electric Company,Chopper circuit for dynamic braking in an electric power conversion system
+    US5323095A,1991-04-30,1994-06-21,General Electric Company,Propulsion and electric braking system for electric traction motor vehicle
+    US5396214A,1993-10-21,1995-03-07,General Electric Company,Dynamic braking grid resistor configuration for reducing EMI in an electric traction motor vehicle
+    US5436540A,1994-05-16,1995-07-25,General Electric Company,Protection circuit for a gate turn-off device in an electrical braking system for an electric traction motor vehicle
+    US7728535B2,2007-06-21,2010-06-01,General Electric Company,Chopper circuit topologies for adapting an electrical braking system in a traction vehicle
+    US9121913B2                      *,2011-03-21,2015-09-01,Deere & Company,System for detecting a failure associated with an inverter or associated machine
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN111478627A                      *,2020-04-13,2020-07-31,珠海格力电器股份有限公司,Servo motor dynamic braking circuit and control method thereof
+    WO2020204638A1                      *,2019-04-04,2020-10-08,Mando Corporation,Motor control system and method for selectively shorting motor windings
+    CN114161937A                      *,2020-09-11,2022-03-11,Ip传输控股公司,Drive system
+    Family To Family Citations,,,,
+
+abstract
+    A vehicle brake control system includes an inverter configured to convert direct current (DC) into an alternating current (AC) for a motor of a vehicle. The inverter includes switches configured to convert the DC to the AC, as well as a resistor and a bypass switch disposed in series with each other. A controller is communicatively coupled with the inverter switches and the bypass switch. The controller opens the bypass switch so that the DC is conducted through and converted into the AC for the motor during a motoring mode. The controller closes the bypass switch so that regenerated current from the motor is conducted through the resistor of the inverter for partial dissipation of the regenerated current during a dynamic braking mode.
+title
+    Vehicle brake control system
+similar_document
+23
+    Publication,Publication Date,Title
+    AU2012394964B2,2017-06-01,System for multiple inverter-driven loads
+    US8324846B2,2012-12-04,Electric drive retarding system and method
+    AU2012346345B2,2015-10-01,Control strategy for providing regenerative electrical power to trolley line in trolley capable mining truck
+    US8550009B2,2013-10-08,Diesel-electric locomotive
+    CN105634312B,2020-09-11,Head end electric power system based on inverter
+    CN110834550B,2023-04-25,Vehicle alternating current transmission system
+    US9731607B1,2017-08-15,Vehicle brake control system
+    JP2008278615A,2008-11-13,Controller of power converter
+    CN108064206B,2021-09-17,Regenerative braking device and dump truck
+    CN108297701A,2018-07-20,The power drive system of electric vehicle
+    JP2007049836A,2007-02-22,Power converter and electric train for electric railway
+    US10501095B2,2019-12-10,Power system for a locomotive
+    US9056551B2,2015-06-16,Braking system contactor control and/or monitoring system and method
+    JP6294864B2,2018-03-14,System and method for controlling an electrically driven appendage
+    AU2022283719B2,2023-11-09,Drive system
+    CN113840753A,2021-12-24,Electric vehicle
+    US9071178B2,2015-06-30,Continuously variable dynamic brake for a locomotive
+    WO2020008572A1,2020-01-09,Control device for railway vehicles
+    JP7229425B2,2023-02-27,power converter
+    CN108349396B,2021-05-04,Energy conversion device for an electrically driven vehicle
+    US20130140100A1,2013-06-06,Control Strategy For Powering Auxiliary Device In Trolley Capable Mining Truck
+    US873703A,1907-12-17,Electrically-propelled car or locomotive.
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US15/222,540,2016-07-28,2016-07-28,Vehicle brake control system
+
+inventor_number
+    3
+classfication_nums
+    7
+classfication_items
+43
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,0,2
+    B,6,0,L,7,/,0,8
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,3,/,0,0
+    H,0,2,P,3,/,0,6
+    H,0,2,P,3,/,1,8
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,3,/,0,0
+    H,0,2,P,3,/,0,6
+    H,0,2,P,3,/,1,8
+    H,0,2,P,3,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B,6,0,L,2,2,1,0,/,4,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+8
+    2016-07-28,Application filed by General Electric Co
+    2016-07-28,Priority to US15/222,540
+    2016-07-28,Assigned to GENERAL ELECTRIC COMPANY
+    2017-08-15,Application granted
+    2017-08-15,Publication of US9731607B1
+    2018-12-06,Assigned to GE GLOBAL SOURCING LLC
+    Status,Active
+    2036-07-28,Anticipated expiration
+
+active_area
+1
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US15/222,540,2016-07-28,Vehicle brake control system
+
+legal_event
+5
+    Date,Code,Title,Description
+    2016-07-28,AS,Assignment,Owner name: GENERAL ELECTRIC COMPANY, NEW YORKFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:RATADIYA, SARIT;VERMA, RAJEEV;SIGNING DATES FROM 20160725 TO 20160728;REEL/FRAME:039284/0810
+    2017-07-26,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2018-12-06,AS,Assignment,Owner name: GE GLOBAL SOURCING LLC, CONNECTICUTFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:GENERAL ELECTRIC COMPANY;REEL/FRAME:048891/0130Effective date: 20181101
+    2021-02-09,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

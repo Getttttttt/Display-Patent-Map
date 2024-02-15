@@ -1,0 +1,318 @@
+ID
+    WO2020199909A1
+citation_exist
+    Patent Citations (10)
+citation_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN101209711A                      *,2006-12-26,2008-07-02,日产自动车株式会社,用于混合动力车辆的模式转换控制装置
+    US7925426B2                      *,2005-11-17,2011-04-12,Motility Systems,Power management systems and devices
+    CN102224047A                      *,2008-11-20,2011-10-19,丰田自动车株式会社,混合动力汽车和控制混合动力汽车的方法
+    CN102501849A                      *,2011-12-22,2012-06-20,山河智能装备股份有限公司,一种混合动力叉车驱动与能量回收系统
+    CN104554252A                      *,2014-12-25,2015-04-29,重庆恒通电动客车动力系统有限公司,基于gps的混合动力整车控制方法
+    CN108944904A                      *,2017-05-18,2018-12-07,福特全球技术公司,混合动力车辆中的再生制动效率优化
+    CN108973979A                      *,2018-07-18,2018-12-11,乾碳国际公司,混动车辆预测性功率控制系统方案
+    Family To Family Citations,,,,
+    CA2459696A1                      *,2004-03-04,2005-09-04,Tm4 Inc.,System and method for starting a combustion engine of a hybrid vehicle
+    US10384527B2                      *,2013-02-08,2019-08-20,Cummins Electrified Power Na Inc.,Four wheel drive powertrain configurations for two-motor, two-clutch hybrid electric vehicles
+    CA2836450A1                      *,2013-12-16,2015-06-16,Thomson Power, Inc.,Electric vehicle power management driver control system
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (5)
+              
+
+
+citedBy_exist
+    
+              Cited By (13)
+              
+
+
+citedBy_infor
+15
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN113104021A                      *,2020-11-17,2021-07-13,吉林大学,一种基于智能优化的增程式电动汽车能量管理控制方法
+    CN113378459A                      *,2021-06-02,2021-09-10,兰州交通大学,基于卫星和物联网信息的光伏电站超短期功率预测方法
+    WO2023199040A1                      *,2022-04-11,2023-10-19,Hydrogen Vehicle Systems Ltd,System and methods for optimization of hybrid electric vehicle operations through actibe powertrain system control
+    Family To Family Citations,,,,
+    CN109823188A                      *,2019-01-10,2019-05-31,乾碳国际公司,混动商用车再生制动和缓速系统
+    EP3967567B1                      *,2019-05-07,2023-07-12,Mitsubishi Electric Corporation,Air-conditioning control system for railroad vehicle
+    CN113147731A                      *,2020-01-17,2021-07-23,乾碳国际公司,具有节油系统的重卡及其节油控制方法
+    CN113525340A                      *,2020-04-21,2021-10-22,乾碳国际公司,Ace重卡节油机器人系统
+    KR20220000028A                      *,2020-06-24,2022-01-03,현대자동차주식회사,차량의 발전기 제어 방법
+    CN112356823A                      *,2020-10-29,2021-02-12,大运汽车股份有限公司,一种适用于混合动力商用车动力控制方法
+    CN114872532A                      *,2021-02-05,2022-08-09,乾碳国际公司,软件定义混联动力总成及车辆
+    TWI773185B                      *,2021-03-12,2022-08-01,伸業科技實業有限公司,利用定位系統提升車輛性能的方法
+    CN113268836B                      *,2021-07-19,2021-10-08,北京航空航天大学,同轴布置变速器构型向平行轴布置的结构拓扑转换方法
+    CN114454728A                      *,2021-12-14,2022-05-10,中国北方车辆研究所,一种双电机耦合驱动履带车辆电气负载特性分析方法
+
+abstract
+    一种主要针对公路干线物流的混联重卡节油机器人系统。该系统根据车载三维电子地图，卫星导航仪实测的车辆动态三维定位数据，车辆各个子系统的参数及动力电池包荷电状态，和前视毫米波雷达实测的本车辆与同车道前方车辆之间的相对速度和绝对距离等数据，通过节油机器人云端AI大脑与车载AI大脑之间动态协同，由车辆控制器指挥车载电功率分流器，以十毫秒级响应时间，在内燃机(101)、发电机（110）、电池包（130a,130b）和驱动电机(140,170)四者之间精准动态地调配百千瓦级电功率的流动方向和幅度，实时地满足车辆动力学方程瞬态功率平衡，通过预测性自适应巡航节油控制算法，达到车辆油耗和排放最小化、降低司机长途驾驶劳动强度、改善车辆行驶主动安全性等有益效果。
+title
+    重卡节油机器人装置和控制方法
+similar_document
+26
+    Publication,Publication Date,Title
+    WO2020199909A1,2020-10-08,重卡节油机器人装置和控制方法
+    WO2020143495A1,2020-07-16,混动商用车再生制动和缓速系统
+    US20210291803A1,2021-09-23,Hybrid vehicle predictive power control system solution
+    US10759298B2,2020-09-01,Electric-drive motor vehicles, systems, and control logic for predictive charge planning and powertrain control
+    WO2021143594A1,2021-07-22,具有节油系统的重卡及其节油控制方法
+    US11745616B2,2023-09-05,Systems and methods of battery management and control for a vehicle
+    WO2021213253A1,2021-10-28,Ace重卡节油机器人系统
+    Gao et al.,2019,Evaluation of electric vehicle component performance over eco-driving cycles
+    CN110135632B,2022-11-25,基于路径信息的phev自适应最优能量管理方法
+    CN103197667B,2015-06-03,一种混合动力汽车整车控制器的仿真与测试方法
+    Gao et al.,2017,Energy consumption and cost savings of truck electrification for heavy-duty vehicle applications
+    CN102991497B,2014-03-12,一种插电式混合动力客车的控制方法
+    CN105946857A,2016-09-21,基于智能交通系统的并联phev能量管理方法
+    WO2022166616A1,2022-08-11,软件定义混联动力总成及车辆
+    CN111959490A,2020-11-20,插电式混合动力汽车模型参考自适应最优能量管理方法
+    Lu et al.,2012,Fuzzy logic control approach to the energy management of parallel hybrid electric vehicles
+    US20230150502A1,2023-05-18,Systems and methods for predictive engine off coasting and predictive cruise control for a vehicle
+    Zhang et al.,2017,Co-simulation of energy management strategy for hybrid electric vehicle in AVL InMotion
+    CN108340905A,2018-07-31,用于控制混合动力车辆的驾驶的方法
+    RU2733599C1,2020-10-05,Система управления энергоустановкой беспилотного гибридного автомобиля
+    Donateo,2013,CO2 impact of intelligent plug-in vehicles
+    Gao et al.,2019,Electric and Conventional Vehicle Performance over Eco-Driving Cycles: Energy Benefits and Component Loss
+    Janulevičius et al.,2015,Intelligent plug-in hybrid electric vehicle
+    Liang et al.,2009,Analysis of series and parallel hybrid bus fuel consumption on different edmonton transit system routes
+    Lega et al.,2019,Concept design and performance assessment of an electric powertrain for a L7e category vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    EP20783380.7A,2019-03-29,2020-03-16,DEVICE AND METHOD FOR CONTROLLING A FUEL-EFFICIENT ROBOT FOR HEAVY-DUTY TRUCKS
+    US17/599,209,2019-03-29,2020-03-16,Heavy truck fuel-saving robot device and control method
+
+inventor_number
+    4
+classfication_nums
+    30
+classfication_items
+190
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,4
+    B,6,0,K,6,/,4,4,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,2,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,2,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,5,0
+    B,6,0,K,6,/,5,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,4
+    B,6,0,W,1,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,4,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B,6,0,K,2,0,0,6,/,4,8,0,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B,6,0,K,2,0,0,6,/,4,8,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,3,0,0,/,0,0
+    B,6,0,W,2,3,0,0,/,1,2
+    B,6,0,W,2,3,0,0,/,1,2,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,6,/,0,0
+    B,6,0,W,2,5,5,6,/,4,5
+    B,6,0,W,2,5,5,6,/,5,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,6,/,0,0
+    B,6,0,W,2,5,5,6,/,4,5
+    B,6,0,W,2,5,5,6,/,6,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+4
+    2020-03-16,Application filed by 乾碳国际公司, 格桑旺杰, 查为
+    2020-03-16,Priority to EP20783380.7A
+    2020-03-16,Priority to US17/599,209
+    2020-10-08,Publication of WO2020199909A1
+
+active_area
+3
+    C,N
+    W,O
+    U,S
+
+not_active_area
+1
+    E,P
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    CN201910251394.0A,2019-03-29,重卡节油机器人装置和控制方法
+    CN201910251394.0,2019-03-29,
+
+legal_event
+5
+    Date,Code,Title,Description
+    2020-11-18,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 20783380Country of ref document: EPKind code of ref document: A1
+    2021-02-18,DPE1,Request for preliminary examination filed after expiration of 19th month from priority date (pct application filed from 20040101),
+    2021-09-30,NENP,Non-entry into the national phase,Ref country code: DE
+    2021-10-29,ENP,Entry into the national phase,Ref document number: 2020783380Country of ref document: EPEffective date: 20211029
+

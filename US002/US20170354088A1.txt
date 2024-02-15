@@ -1,0 +1,257 @@
+ID
+    US20170354088A1
+citation_exist
+    Patent Citations (25)
+citation_infor
+27
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US3028717A,1957-07-31,1962-04-10,Scott & Sons Co O M,Power mower
+    JPS5085819A                      *,1973-12-03,1975-07-10,,
+    JPH07148676A,1993-11-25,1995-06-13,Matsushita Electric Works Ltd,Dynamic braking circuit for motor-driven tool
+    US6170241B1                      *,1996-04-26,2001-01-09,Tecumseh Products Company,Microprocessor controlled motor controller with current limiting protection
+    US5727372A                      *,1996-05-30,1998-03-17,The Toro Company,On-board charging system for electric lawn mower
+    GB2338392A,1998-06-16,1999-12-22,Black & Decker Inc,Switch for battery powered lawn mower.
+    WO2001086798A1                      *,2000-05-05,2001-11-15,Advanced Materials Corporation,Motor controller system for battery-powered motors
+    JP2006507447A                      *,2002-11-22,2006-03-02,本田技研工業株式会社,Power unit with power generation system
+    JP4169193B2                      *,2003-02-21,2008-10-22,本田技研工業株式会社,Engine driven work machine
+    GB0615241D0,2006-08-01,2006-09-06,Bosch Gmbh Robert,Lawn-care apparatus
+    US7741793B2                      *,2006-10-17,2010-06-22,Mtd Products Inc,Hybrid electric device
+    US7884560B2                      *,2006-10-17,2011-02-08,Mtd Products Inc,Hybrid electric device
+    WO2008048618A2                      *,2006-10-17,2008-04-24,Desa Ip. Llc,Hybrid electric device
+    US8275502B2,2008-01-28,2012-09-25,Textron Innovations Inc.,Braking regeneration energy shunt system
+    JP5178400B2,2008-08-28,2013-04-10,株式会社東芝,Washing and drying machine
+    JP5351752B2,2009-12-28,2013-11-27,株式会社マキタ,Electric tool
+    JP5491346B2                      *,2010-10-13,2014-05-14,株式会社マキタ,Power tools and programs
+    JP5808923B2,2011-03-18,2015-11-10,Ntn株式会社,Motor drive device and electric vehicle
+    JP5427256B2                      *,2012-02-22,2014-02-26,株式会社三共,Game machine
+    JP5804984B2,2012-03-07,2015-11-04,株式会社ツバキＥ＆Ｍ,Motor drive device
+    JP5998548B2                      *,2012-03-14,2016-09-28,富士電機株式会社,Power converter
+    US9192096B2                      *,2012-08-31,2015-11-24,Deere & Company,Electric lawn tractor power management system and method
+    EP3518364B1                      *,2013-01-05,2022-05-11,MTD Products Inc,Alternator overvoltage protection circuit
+    JP6288429B2                      *,2014-02-18,2018-03-07,日立工機株式会社,Electric working machine
+    CN204907275U                      *,2015-07-28,2015-12-30,苏州宝时得电动工具有限公司,Electron braking system and electric tool
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (9)
+              
+
+
+citedBy_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN108254648A                      *,2018-02-05,2018-07-06,重庆针尖内燃机部件制造有限公司,A kind of grass trimmer brake switching detection device and its detection method
+    WO2020125626A1                      *,2018-12-21,2020-06-25,比亚迪股份有限公司,Electric motor driving apparatus, control method, vehicle, and readable storage medium
+    US20210169000A1                      *,2017-11-17,2021-06-10,Honda Motor Co., Ltd.,Work machine
+    US20210194393A1                      *,2019-12-18,2021-06-24,Milwaukee Electric Tool Corporation,Power tool having stamped brake resistor
+    US20220395951A1                      *,2021-06-15,2022-12-15,Milwaukee Electric Tool Corporation,Drop detection in power tools
+    US11582909B2,2019-05-21,2023-02-21,Kubota Corporation,Mower unit
+    Family To Family Citations,,,,
+    FR3104857B1                      *,2019-12-13,2021-12-10,Valeo Systemes Dessuyage,Method of controlling a brushless direct current electric motor
+    CN115001323B                      *,2022-07-20,2022-10-21,江苏东成工具科技有限公司,Brushless direct current motor braking system and method
+    CN115085610B                      *,2022-08-22,2022-12-09,深圳市好盈科技股份有限公司,Linear brake control method and device applied to competition-level remote control model car
+
+abstract
+    An apparatus for controlling operation of a walk-behind electric lawn mower equipped with an electric motor, a blade cutter connected to the electric motor and a rechargeable battery mounted connected to the electric motor and a motor driver circuit. In the apparatus, when an instruction to stop the electric motor is inputted, the operation of the motor driver circuit is controlled to output regenerative electric current from three-phase coils of the electric motor. At that time, it is determined whether a rotational speed of the electric motor is equal to or less than a switching rotational speed and when it is, the motor driver circuit is controlled to switch from the regenerative braking to short-circuit braking that short-circuits the three-phase coils of the electric motor.
+title
+    Electric lawn mower control apparatus
+similar_document
+17
+    Publication,Publication Date,Title
+    US10104834B2,2018-10-23,Electric lawn mower control apparatus
+    US10111378B2,2018-10-30,Electric lawn mower control apparatus
+    JP5346437B2,2013-11-20,Vehicle propulsion system
+    US9408343B2,2016-08-09,Control systems and methods for electric motors of utility vehicles
+    US6750622B2,2004-06-15,Motor controller system for battery-powered motors
+    US8148949B2,2012-04-03,Use of high frequency transformer to charge HEV batteries
+    EP2564684B1,2016-02-10,Electric working vehicle
+    JP5653534B2,2015-01-14,Control device for electric vehicle
+    US9387766B2,2016-07-12,Vehicle with selectively enabled boost converter
+    EP2322376A2,2011-05-18,Apparatus for driving motor of electric vehicle
+    US9597979B1,2017-03-21,Method of controlling regeneration and boost functions of a hybrid powertrain
+    GB2510186A,2014-07-30,Electric vehicle having regenerative braking using braking resistor and super capacitor
+    JP2003061398A,2003-02-28,Generator-motor equipment for vehicle
+    JP7318286B2,2023-08-01,Rotating electric machine unit and rotating electric machine system
+    JP3928835B2,2007-06-13,Generator motor for hybrid vehicles
+    JPH06257451A,1994-09-13,Controller of turbocharger provided with rotary electric machine
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    21
+classfication_items
+130
+    A
+    A,0,1
+    A,0,1,D
+    A,0,1,D,3,4,/,0,0
+    A,0,1,D,3,4,/,0,0,6
+    A
+    A,0,1
+    A,0,1,D
+    A,0,1,D,3,4,/,0,0
+    A,0,1,D,3,4,/,0,1
+    A,0,1,D,3,4,/,4,1,2
+    A,0,1,D,3,4,/,6,3
+    A,0,1,D,3,4,/,6,7
+    A,0,1,D,3,4,/,6,8
+    A,0,1,D,3,4,/,6,8,0,6
+    A
+    A,0,1
+    A,0,1,D
+    A,0,1,D,3,4,/,0,0
+    A,0,1,D,3,4,/,0,1
+    A,0,1,D,3,4,/,4,1,2
+    A,0,1,D,3,4,/,6,3
+    A,0,1,D,3,4,/,7,6
+    A,0,1,D,3,4,/,7,8
+    A
+    A,0,1
+    A,0,1,D
+    A,0,1,D,3,4,/,0,0
+    A,0,1,D,3,4,/,0,1
+    A,0,1,D,3,4,/,4,1,2
+    A,0,1,D,3,4,/,6,3
+    A,0,1,D,3,4,/,8,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    G
+    G,0,1
+    G,0,1,P
+    G,0,1,P,3,/,0,0
+    G,0,1,P,3,/,4,2
+    G,0,1,P,3,/,4,4
+    G,0,1,R,3,1,/,3,6,0,6
+    G
+    G,0,1
+    G,0,1,R
+    G,0,1,R,3,1,/,0,0
+    G,0,1,R,3,1,/,3,6
+    G,0,1,R,3,1,/,3,8,2
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,0,5
+    H,0,1,M,1,0,/,0,5,2
+    H,0,1,M,1,0,/,0,5,2,5
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,4
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,8
+    H,0,1,M,1,0,/,4,8,6
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,6,8
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,1,4
+    H,0,2,J,7,/,1,4,3,8
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,7,/,0,0
+    H,0,2,P,2,7,/,0,4
+    H,0,2,P,2,7,/,0,6
+    H,0,2,P,2,7,/,0,8
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,3,/,0,0
+    H,0,2,P,3,/,0,6
+    H,0,2,P,3,/,1,8
+    H,0,2,P,3,/,2,2
+    A
+    A,0,1
+    A,0,1,D
+    A,0,1,D,2,1,0,1,/,0,0
+    B
+    B,6,0
+    B,6,0,R
+    B,6,0,R,1,6,/,0,0
+    B,6,0,R,1,6,/,0,2
+    B,6,0,R,1,6,/,0,4
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,1,8
+    B,6,0,Y,2,3,0,0,/,1,8,0,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,2,5
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,2,2,2,0,/,0,0
+    H,0,1,M,2,2,2,0,/,2,0
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+
+application_events
+8
+    ,First worldwide family litigation filed
+    2017-06-01,Application filed by Honda Motor Co Ltd
+    2017-06-01,Assigned to HONDA MOTOR CO., LTD.
+    2017-12-14,Publication of US20170354088A1
+    2018-10-23,Application granted
+    2018-10-23,Publication of US10104834B2
+    Status,Active
+    2037-06-06,Adjusted expiration
+
+active_area
+4
+    J,P
+    U,S
+    E,P
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2016-117200,2016-06-13,
+    JP2016117200A,2016-06-13,Control apparatus of electrically-driven lawn mower
+
+legal_event
+4
+    Date,Code,Title,Description
+    2017-06-01,AS,Assignment,Owner name: HONDA MOTOR CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:YUKI, TORU;YAMAGISHI, YOSHIHIKO;NAKAYAMA, SHINSAKU;REEL/FRAME:042564/0063Effective date: 20170523
+    2018-10-03,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2022-04-06,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

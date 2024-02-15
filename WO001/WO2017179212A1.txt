@@ -1,0 +1,222 @@
+ID
+    WO2017179212A1
+citation_exist
+    Patent Citations (16)
+citation_infor
+18
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2006327369A                      *,2005-05-25,2006-12-07,Toyota Motor Corp,車両の制動制御装置
+    JP2015193278A                      *,2014-03-31,2015-11-05,トヨタ自動車株式会社,車両の制御装置
+    Family To Family Citations,,,,
+    JPS638060A                      *,1986-06-26,1988-01-13,Isuzu Motors Ltd,Braking force retention control device
+    US5419623A                      *,1993-07-30,1995-05-30,Kelsey-Hayes Company,System for split-to-high mu detection and control for anti-lock brake systems
+    JPH07215185A,1994-02-03,1995-08-15,Hino Motors Ltd,坂道発進補助装置
+    RU2086441C1                      *,1994-06-17,1997-08-10,Ставропольский политехнический институт,Способ автоматического управления торможением транспортной машины и устройство для его осуществления
+    DE19950028B4                      *,1999-10-09,2018-04-05,Robert Bosch Gmbh,Verfahren und Vorrichtung zur Steuerung eines Fahrzeugs
+    TW486438B                      *,2000-03-09,2002-05-11,Sumitomo Rubber Ind,Device and method for determining coefficient of road surface friction
+    DE10322125A1                      *,2003-05-16,2004-12-02,Robert Bosch Gmbh,Verfahren und Vorrichtung zur Deaktivierung einer Hillholderfunktion
+    DE10351026B3                      *,2003-10-31,2005-06-30,Lucas Automotive Gmbh,Verfahren zum Stabilisieren eines in Stillstand abgebremsten Kraftfahrzeugs und Bremssystem zum Ausführen des Verfahrens
+    CN101331046B                      *,2005-12-27,2011-06-15,本田技研工业株式会社,车辆控制装置
+    DE102007015889B4                      *,2007-04-02,2023-10-05,Bayerische Motoren Werke Aktiengesellschaft,Bremsregelungsanlage für Kraftfahrzeuge
+    JP4893834B2                      *,2009-03-04,2012-03-07,株式会社デンソー,車両制御装置
+    KR101405754B1                      *,2012-09-07,2014-06-10,성균관대학교산학협력단,노면 조건을 고려한 차량의 제동 제어 방법
+    DE102012222489A1                      *,2012-12-06,2014-06-12,Continental Teves Ag & Co. Ohg,Verfahren zur Regelung der Fahrdynamik
+    JP5831486B2                      *,2013-03-29,2015-12-09,トヨタ自動車株式会社,ブレーキシステム
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (5)
+              
+
+
+citedBy_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP6737855B2                      *,2018-09-28,2020-08-12,本田技研工業株式会社,制御装置、制御方法及びプログラム
+    KR102286027B1                      *,2019-04-01,2021-08-05,만도헬라일렉트로닉스(주),차량 제어 장치 및 차량 제어 방법
+    US11623619B2                      *,2019-12-10,2023-04-11,Bendix Commercial Vehicle Systems Llc,Parking brake apparatus and method therefor
+    US11498429B2                      *,2020-09-28,2022-11-15,Ford Global Technologies, Llc,Aggregating braking torque during one-pedal drive mode
+    CN112224213B                      *,2020-10-22,2022-02-18,东风汽车集团有限公司,一种实时监测车轮摩擦力及估计最大摩擦力的方法
+
+abstract
+    制動力制御方法は、車両（１）の車輪速（ｗ）を検出し、車両（１）に制動力を付与した状態で検出した車輪速（ｗ）に基づいて車両（１）が停止したと判定した場合に、車両（１）の運転者によるブレーキ（３）の操作の有無に関わらず車両（１）の停止状態を保持する保持制動力を発生させ、車両（１）の走行路の路面の摩擦係数に応じて保持制動力の発生時期を遅らせる。
+title
+    制動力制御方法及び制動力制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP6590066B2,2019-10-16,制動力制御方法及び制動力制御装置
+    US4763260A,1988-08-09,Antiskid control device
+    US4671579A,1987-06-09,Anti-skid control device for vehicle braking apparatus
+    JP2004123094A,2004-04-22,斜面におけるスリップしきい値を調整するためのアンチロック・ブレーキング・システム制御装置
+    US7302331B2,2007-11-27,Wheel lift identification for an automotive vehicle
+    JP6492593B2,2019-04-03,制駆動力制御装置及び制駆動力制御方法
+    JP2660851B2,1997-10-08,車両のアンチロック制御方法
+    JP6379457B2,2018-08-29,自動二輪車両における路面摩擦係数推定装置およびそれを用いたアンチロックブレーキ制御装置
+    KR101619418B1,2016-05-18,차량의 제동 장치 및 방법
+    KR101583942B1,2016-01-11,구동모터 제어방법 및 제어장치
+    JP6476801B2,2019-03-06,制駆動力制御装置及び制駆動力制御方法
+    KR101890440B1,2018-09-28,브레이크 트랙션 컨트롤 시스템의 브레이크 제동압력 한계값 제한 방법
+    US5551769A,1996-09-03,Method and system for split mu control for anti-lock brake systems
+    JP2004503426A,2004-02-05,Ａｂｓの制御動作を改善する方法
+    JP2006509680A5,2011-05-26,
+    JP2006509680A,2006-03-23,適応ブレーキトルク調整方法
+    JP6788424B2,2020-11-25,車両の制動力制御装置
+    KR102162648B1,2020-10-07,회생 제동 제어 방법
+    JP2008261303A,2008-10-30,車両のトラクションコントロール装置
+    CN114407848B,2023-08-11,一种制动控制方法、装置、电子设备及存储介质
+    JP2019177818A,2019-10-17,車両用制動制御装置
+    JP2017154531A,2017-09-07,車両の悪路判定装置
+    JP6202278B2,2017-09-27,電動車両のスリップ率制御装置
+    JP6127364B2,2017-05-17,車両の制動制御装置
+    JP2015209047A,2015-11-24,ブレーキ装置
+
+patent_application
+    NoExist
+patent_priority_application
+12
+    Application,Priority date,Filing date,Title
+    BR112018071054-7A,2016-04-15,2016-04-15,método de controle de força de frenagem e dispositivo de controle de força de frenagem
+    RU2018140074A,2016-04-15,2016-04-15,Способ управления тормозной силой и устройство управления тормозной силой
+    JP2018511870A,2016-04-15,2016-04-15,制動力制御方法及び制動力制御装置
+    PCT/JP2016/062180,2016-04-15,2016-04-15,制動力制御方法及び制動力制御装置
+    US16/093,051,2016-04-15,2016-04-15,Braking force control method and braking force control device
+    KR1020187032389A,2016-04-15,2016-04-15,제동력 제어 방법 및 제동력 제어 장치
+    MYPI2018703769A,2016-04-15,2016-04-15,Braking force control method and braking force control device
+    MX2018012430A,2016-04-15,2016-04-15,Método de control de la fuerza de frenado y dispositivo de control de la fuerza de frenado.
+    CN201680084553.7A,2016-04-15,2016-04-15,制动力控制方法以及制动力控制装置
+    EP16898672.7A,2016-04-15,2016-04-15,Braking force control method and braking force control device
+    CA3021051A,2016-04-15,2016-04-15,Braking force control method and braking force control device
+
+inventor_number
+    5
+classfication_nums
+    13
+classfication_items
+78
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,5
+    B,6,0,T,1,3,/,5,8,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,0,2
+    B,6,0,T,7,/,0,4
+    B,6,0,T,7,/,0,4,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,1,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,2,1
+    B,6,0,T,8,/,3,2,9
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,1,/,0,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,0,1,/,0,0
+    B,6,0,T,2,2,0,1,/,0,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,1,0,/,0,0
+    B,6,0,T,2,2,1,0,/,1,0
+    B,6,0,T,2,2,1,0,/,1,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,4,0,0,/,0,0
+    B,6,0,Y,2,4,0,0,/,3,0
+    B,6,0,Y,2,4,0,0,/,3,0,3
+    B,6,0,Y,2,4,0,0,/,3,0,3,2
+
+application_events
+3
+    2016-04-15,Application filed by 日産自動車株式会社
+    2016-04-15,Priority to BR112018071054-7A
+    2017-10-19,Publication of WO2017179212A1
+
+active_area
+10
+    K,R
+    C,N
+    J,P
+    W,O
+    R,U
+    C,A
+    B,R
+    M,X
+    E,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2016/062180,2016-04-15,制動力制御方法及び制動力制御装置
+
+legal_event
+10
+    Date,Code,Title,Description
+    2018-08-27,WWE,Wipo information: entry into national phase,Ref document number: 2018511870Country of ref document: JP
+    2018-10-15,ENP,Entry into the national phase,Ref document number: 3021051Country of ref document: CA
+    2018-10-16,NENP,Non-entry into the national phase,Ref country code: DE
+    2018-10-23,REG,Reference to national code,Ref country code: BRRef legal event code: B01ARef document number: 112018071054Country of ref document: BR
+    2018-11-08,ENP,Entry into the national phase,Ref document number: 20187032389Country of ref document: KRKind code of ref document: A
+    2018-11-15,WWE,Wipo information: entry into national phase,Ref document number: 2016898672Country of ref document: EP
+    2018-11-23,ENP,Entry into the national phase,Ref document number: 2016898672Country of ref document: EPEffective date: 20181115
+    2018-11-28,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 16898672Country of ref document: EPKind code of ref document: A1
+    2019-05-07,ENP,Entry into the national phase,Ref document number: 112018071054Country of ref document: BRKind code of ref document: A2Effective date: 20181011
+

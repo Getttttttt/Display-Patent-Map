@@ -1,0 +1,228 @@
+ID
+    US11453377B2
+citation_exist
+    Patent Citations (11)
+citation_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH10280990A,1997-04-04,1998-10-20,Toyota Motor Corp,Fuel cut controller for internal combustion engine
+    JP2006297994A,2005-04-15,2006-11-02,Toyota Motor Corp,Integrated vehicle control apparatus
+    JP2010125936A,2008-11-26,2010-06-10,Toyota Motor Corp,Device for controlling power transmission device for vehicle
+    JP2010155548A,2008-12-26,2010-07-15,Toyota Motor Corp,Device and method for driving support of hybrid vehicle
+    US20120098502A1,2010-10-25,2012-04-26,Mitsubishi Electric Corporation,Vehicle power-generation control apparatus
+    JP2014184817A,2013-03-22,2014-10-02,Toyota Motor Corp,Deceleration control device for hybrid vehicle
+    US20150375747A1                      *,2014-06-30,2015-12-31,Aisin Seiki Kabushiki Kaisha,Control device for vehicle and drive system for vehicle
+    US20160264125A1                      *,2015-03-11,2016-09-15,Toyota Jidosha Kabushiki Kaisha,Control apparatus for hybrid vehicle
+    US20170166194A1,2015-12-14,2017-06-15,Toyota Jidosha Kabushiki Kaisha,Control system of power transmission system of vehicle
+    US20170197610A1                      *,2016-01-13,2017-07-13,Toyota Jidosha Kabushiki Kaisha,Control device for vehicle
+    Family To Family Citations,,,,
+    US9493148B2,2011-04-13,2016-11-15,Ford Global Technologies, Llc,Torque modulation in a hybrid vehicle downshift during regenerative braking
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP7172836B2                      *,2019-04-26,2022-11-16,トヨタ自動車株式会社,Braking force controller
+
+abstract
+    A braking force control apparatus includes: a prediction unit that predicts a time from a present time until a next start of the gear shift operation in the stepped automatic transmission based on a speed of the vehicle; an acquisition unit that acquires a state of a battery charged by a regenerative power generation of the regenerative generator; and a control unit that stops the regenerative power generation by the regenerative generator before the gear shift of the stepped automatic transmission is started, when it is determined, during the regenerative power generation by the regenerative generator, that the regenerative power generation by the regenerative power generator may be stopped due to the state of the battery during the gear shift operation of the stepped automatic transmission, based on a prediction result by the prediction unit and the state of the battery acquired by the acquisition unit.
+title
+    Braking force control apparatus
+similar_document
+23
+    Publication,Publication Date,Title
+    US8491442B2,2013-07-23,Control apparatus and method for controlling a hybrid vehicle
+    US8414450B2,2013-04-09,Control apparatus and method for controlling a hybrid vehicle
+    WO2012053590A1,2012-04-26,Vehicle, control method, and program
+    US11697415B2,2023-07-11,Braking force control system, device, and method
+    US20070276557A1,2007-11-29,Clutch engagement control apparatus and method for hybrid vehicle
+    KR100829311B1,2008-05-13,Control of torque reduction during gear shifting in auto-transmission hev system
+    CN107914699B,2021-05-28,Control method of hybrid electric vehicle
+    JP5093330B2,2012-12-12,Vehicle control device
+    EP3406498A1,2018-11-28,Hybrid vehicle
+    JP2019202650A,2019-11-28,Control device and control method for vehicle
+    RU2750051C1,2021-06-21,Method for controlling regenerative braking and apparatus for controlling regenerative braking
+    US11453377B2,2022-09-27,Braking force control apparatus
+    JP7010296B2,2022-01-26,Vehicle control method and control device
+    US20190241078A1,2019-08-08,Shift control apparatus
+    US20230018675A1,2023-01-19,Braking force control device
+    KR102444664B1,2022-09-19,Hybrid vehicle and method of controlling engine
+    JP2019199098A,2019-11-21,Control device of hybrid vehicle
+    KR20170070508A,2017-06-22,Control method of hybrid electric vehicle
+    RU2719536C1,2020-04-21,Braking force control method, device and system thereof
+    JP3894049B2,2007-03-14,Hybrid vehicle and its control device
+    JP2020180603A,2020-11-05,Brake force control apparatus
+    JP2023109081A,2023-08-07,Vehicle, vehicle cruising range calculation method and program
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    5
+classfication_nums
+    18
+classfication_items
+110
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,5
+    B,6,0,T,1,3,/,5,8,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,1,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,8
+    B,6,0,L,2,2,4,0,/,4,8,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,5,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,6,0,/,0,0
+    B,6,0,T,2,2,6,0,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,1,0
+    B,6,0,W,2,5,1,0,/,1,0,0,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B,6,0,W,2,5,2,0,/,1,0,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+
+application_events
+7
+    2020-04-09,Application filed by Toyota Motor Corp
+    2020-04-09,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2020-10-29,Publication of US20200339098A1
+    2022-09-27,Application granted
+    2022-09-27,Publication of US11453377B2
+    Status,Active
+    2040-05-27,Adjusted expiration
+
+active_area
+3
+    J,P
+    D,E
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2019086025A,2019-04-26,Braking force controller
+    JP2019-086025,2019-04-26,
+    JPJP2019-086025,2019-04-26,
+
+legal_event
+12
+    Date,Code,Title,Description
+    2020-04-09,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:MATSUMIYA, YUKI;SATO, SHUN;FUJIWARA, HIROYA;AND OTHERS;REEL/FRAME:052351/0828Effective date: 20200127
+    2020-04-09,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2020-06-26,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2021-10-05,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2021-12-21,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2022-03-17,STPP,Information on status: patent application and granting procedure in general,Free format text: FINAL REJECTION MAILED
+    2022-05-25,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE AFTER FINAL ACTION FORWARDED TO EXAMINER
+    2022-06-03,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2022-07-15,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2022-08-03,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2022-09-07,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

@@ -1,0 +1,248 @@
+ID
+    US20210001728A1
+citation_exist
+    Patent Citations (7)
+citation_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP3639419B2                      *,1997-10-29,2005-04-20,株式会社日立製作所,Vehicle control method and vehicle control system
+    JP2001039281A                      *,1999-07-30,2001-02-13,Mazda Motor Corp,Vehicular braking system
+    KR100513528B1                      *,2003-06-17,2005-09-07,현대자동차주식회사,Variable type horn control device of vehicle
+    JP5201039B2                      *,2009-03-18,2013-06-05,日産自動車株式会社,Gear ratio control apparatus and gear ratio control method for vehicle
+    JP2013094000A                      *,2011-10-26,2013-05-16,Daihatsu Motor Co Ltd,Power regeneration system
+    CN107074215B                      *,2015-03-31,2020-09-29,日立汽车系统株式会社,Brake control device
+    KR101777329B1                      *,2016-08-10,2017-09-11,엘지전자 주식회사,Regenerative braking control apparatus for vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20210129811A1                      *,2019-10-31,2021-05-06,Robert Bosch Gmbh,Vehicle Braking Control Method and System, Vehicle and Computer-Readable Storage Medium
+    Family To Family Citations,,,,
+    CN112677771A                      *,2020-12-31,2021-04-20,吉林大学,Method for controlling regenerative braking of forerunner electric vehicle based on fuzzy control
+
+abstract
+    A system and method for setting a regenerative braking value are disclosed. The disclosed system may include: a first measurement unit configured to measure the displacement information of a brake pedal of an electric vehicle; a second measurement unit configured to measure the speed of the electric vehicle; a third measurement unit configured to measure the distance from the electric vehicle to an object in front of the electric vehicle; a first computation unit configured to compute the brake force required for a deceleration of the electric vehicle by inputting the displacement information and the speed into a first fuzzy logic algorithm; and a second computation unit configured to compute the regenerative braking value by applying the brake force and the distance to the object to a second fuzzy logic algorithm.
+title
+    System and method for setting regenerative braking value
+similar_document
+26
+    Publication,Publication Date,Title
+    US11285817B2,2022-03-29,System and method for setting regenerative braking value
+    Kim et al.,2012,Sufficient conditions of optimal control based on Pontryagin’s minimum principle for use in hybrid electric vehicles
+    Koschi et al.,2019,Computationally efficient safety falsification of adaptive cruise control systems
+    CN105365592A,2016-03-02,Residual endurance mileage estimation method and system of electric vehicle and electric vehicle
+    Li et al.,2018,Driver intention based coordinate control of regenerative and plugging braking for electric vehicles with in‐wheel PMSMs
+    CN108928238B,2020-10-27,Braking energy recovery method and electric automobile
+    Abbas et al.,2019,Synthesis of pontryagin's maximum principle analysis for speed profile optimization of all-electric vehicles
+    Doan et al.,2018,Simultaneous optimization of speed profile and allocation of wireless power transfer system for autonomous driving electric vehicles
+    Vodovozov et al.,2021,Review on braking energy management in electric vehicles
+    Arof et al.,2019,Study on implementation of neural network controlling four quadrants direct current chopper: part1: using single neural network controller with binary data output
+    Yu et al.,2016,Model predictive control for hybrid electric vehicle platooning using route information
+    Schafer et al.,2021,Modeling and spacing control for an electric vehicle with one-pedal-driving feature
+    Xu et al.,2019,Robust overtaking control of autonomous electric vehicle with parameter uncertainties
+    Sun et al.,2017,Research on adaptive cruise control strategy of pure electric vehicle with braking energy recovery
+    Pan et al.,2022,Energy-optimal adaptive cruise control strategy for electric vehicles based on model predictive control
+    Becerra et al.,2016,Power flow control strategies in parallel hybrid electric vehicles
+    Chong et al.,2017,Load prediction using support vector regression
+    Yan et al.,2022,Design of a deep inference framework for required power forecasting and predictive control on a hybrid electric mining truck
+    Yang et al.,2022,MPGA-based-ECMS for energy optimization of a hybrid electric city bus with dual planetary gear
+    Hou et al.,2023,Multihorizon predictive energy optimization and lifetime management for connected fuel cell electric vehicles
+    Bendjedia et al.,2023,Energy management strategies for a fuel-cell/battery hybrid power system
+    Azad et al.,2016,Chaos oscillator differential search combined with Pontryagin’s minimum principle for simultaneous power management and component sizing of PHEVs
+    Meshginqalam et al.,2022,Integrated convex speed planning and energy management for autonomous fuel cell hybrid electric vehicles
+    Meshginqalam et al.,2020,Two-level MPC speed profile optimization of autonomous electric vehicles considering detailed internal and external losses
+    Yun et al.,2013,Development of a motor Torque distribution strategy of six-wheel-driven electric vehicles for optimized energy consumption
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    23
+classfication_items
+133
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,0,7
+    B,6,0,L,3,/,0,0,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,0,2
+    B,6,0,T,7,/,0,4
+    B,6,0,T,7,/,0,4,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,1,0
+    B,6,0,W,4,0,/,1,0,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,4,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,2,0,/,0,0
+    B,6,0,T,2,2,2,0,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,4,/,0,0
+    B,6,0,W,2,5,5,4,/,8,0
+    B,6,0,W,2,5,5,4,/,8,0,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+8
+    2019-08-07,Application filed by CAMMSYS CORP
+    2019-08-07,Assigned to CAMMSYS CORP.
+    2021-01-07,Publication of US20210001728A1
+    2021-05-27,Assigned to CEVO MOBILITY CORP.
+    2022-03-29,Application granted
+    2022-03-29,Publication of US11285817B2
+    Status,Active
+    2040-07-29,Adjusted expiration
+
+active_area
+2
+    K,R
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    KR1020190079951A,2019-07-03,System and method for setting regenerative braking value
+    KR10-2019-0079951,2019-07-03,
+
+legal_event
+10
+    Date,Code,Title,Description
+    2019-08-07,AS,Assignment,Owner name: CAMMSYS CORP., KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:LEE, CHUNG WOO;REEL/FRAME:049990/0918Effective date: 20190723
+    2019-08-07,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY
+    2019-08-16,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO SMALL (ORIGINAL EVENT CODE: SMAL); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY
+    2021-05-27,AS,Assignment,Owner name: CEVO MOBILITY CORP., KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:CAMMSYS CORP.;REEL/FRAME:056372/0029Effective date: 20210524
+    2021-09-27,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2021-12-10,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2021-12-15,STPP,Information on status: patent application and granting procedure in general,Free format text: FINAL REJECTION MAILED
+    2022-02-18,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2022-03-09,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

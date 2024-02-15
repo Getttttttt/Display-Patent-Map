@@ -1,0 +1,115 @@
+ID
+    WO2020217726A1
+citation_exist
+    Patent Citations (3)
+citation_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2002340165A                      *,2001-05-15,2002-11-27,Aisin Seiki Co Ltd,車両重量の推定装置
+    JP2016513036A                      *,2013-02-11,2016-05-12,ボルボトラックコーポレーション,車両を推進する方法
+    JP2016082692A                      *,2014-10-15,2016-05-16,ダイムラー・アクチェンゲゼルシャフトＤａｉｍｌｅｒ ＡＧ,回生制御装置及び電動車両
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP2023102158A                      *,2022-01-11,2023-07-24,いすゞ自動車株式会社,車両の制御装置および車両
+
+abstract
+    回生制御が可能なモータ（２）の回生制御装置であって、走行により得られる情報に基づいて推定重量（Ｗｅｓ）を算出する重量推定部（５１）と、走行状態に対するモータ（２）の最適回生トルク（ＴＯＰＴ）を規定する回生トルク特性を予め記憶する回生トルク特性記憶部（５２）と、アクセル開度（Ａｃ）に基づいて回生トルク特性から最適回生トルク（ＴＯＰＴ）を求め、モータ（２）を最適回生トルク（ＴＯＰＴ）に制御する回生トルク制御部（５３）と、を備え、回生トルク特性記憶部（５２）は、推定重量（Ｗｅｓ）が閾値（ＷＴｈ）未満か否かでそれぞれ選択される回生トルク弱マップ（Ｍｗ）と回生トルク強マップ（Ｍｓ）とを記憶し、回生トルク制御部（５３）は、重量推定部（５１）が推定重量（Ｗｅｓ）を算出するまでは、回生トルク弱マップ（Ｍｗ）に基づいてモータ（２）を制御する。
+title
+    回生制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP5314906B2,2013-10-16,作業用車両の制御方法および作業用車両
+    KR101588789B1,2016-01-26,구동 모터를 구비한 차량의 크립 토크 제어 방법 및 장치
+    US9227621B2,2016-01-05,Hybrid drive
+    KR101836250B1,2018-03-08,구동 모터를 구비한 차량의 dc 컨버터의 출력 전압을 제어하는 방법 및 장치
+    WO2007097464A1,2007-08-30,ハイブリッド車両の制御装置
+    WO2018011968A1,2018-01-18,トルク制御方法及びトルク制御装置
+    JP2017114312A,2017-06-29,ハイブリッド車両及びその制御方法
+    KR102448101B1,2022-09-28,차량 및 그 제어 방법
+    JP6018018B2,2016-11-02,電気自動車の回生制御装置
+    JP2015080977A,2015-04-27,ハイブリッド車両の走行制御装置
+    US20160200314A1,2016-07-14,Generation control apparatus
+    JPH08251714A,1996-09-27,電気自動車の電源装置
+    JP5262692B2,2013-08-14,車両のブレーキ操作の評価装置、車両のブレーキ操作の評価方法、ブレーキ制御装置及びバッテリ制御装置
+    JP2014222989A,2014-11-27,電気自動車の回生制御装置
+    WO2020217726A1,2020-10-29,回生制御装置
+    JP3776434B2,2006-05-17,駆動力切換制御装置
+    JP6435789B2,2018-12-12,ハイブリッド駆動車両の出力制御装置
+    JP2015073347A,2015-04-16,電気自動車の走行制御装置
+    US20160031437A1,2016-02-04,System and method for controlling engine clutch of hybrid vehicle
+    JP2018103930A,2018-07-05,ハイブリッド車両の制御装置
+    JP7190389B2,2022-12-15,車両用制御装置
+    JP2021044893A,2021-03-18,制動制御装置
+    JP6784684B2,2020-11-11,ハイブリッド車両の走行用バッテリの充電状態を管理するための方法
+    JP2020195254A,2020-12-03,車両用モータ制御装置
+    CN108290571B,2021-06-11,混合动力车辆的再生电力量控制系统、车辆及控制方法
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    3
+classfication_items
+17
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+2
+    2020-03-04,Application filed by ダイムラー・アクチェンゲゼルシャフト
+    2020-10-29,Publication of WO2020217726A1
+
+active_area
+2
+    J,P
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2019085467A,2019-04-26,回生制御装置
+    JP2019-085467,2019-04-26,
+
+legal_event
+4
+    Date,Code,Title,Description
+    2020-12-09,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 20795165Country of ref document: EPKind code of ref document: A1
+    2021-10-27,NENP,Non-entry into the national phase,Ref country code: DE
+    2022-05-04,122,Ep: pct application non-entry in european phase,Ref document number: 20795165Country of ref document: EPKind code of ref document: A1
+

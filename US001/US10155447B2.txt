@@ -1,0 +1,222 @@
+ID
+    US10155447B2
+citation_exist
+    Patent Citations (21)
+citation_infor
+23
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH06165304A,1992-03-31,1994-06-10,Suzuki Motor Corp,Regenerative brake system
+    JPH0937407A,1995-07-18,1997-02-07,Toyota Motor Corp,Controller for regenerative braking
+    JPH09166209A,1995-12-15,1997-06-24,Aqueous Res:Kk,Vehicle control device
+    JP2005039908A,2003-07-17,2005-02-10,Mitsubishi Motors Corp,Regenerative braking control unit of hybrid vehicle
+    JP2007129827A,2005-11-04,2007-05-24,Nissan Motor Co Ltd,Intelligent brake assist system of hybrid vehicle
+    JP2009029388A,2007-07-31,2009-02-12,Nissan Motor Co Ltd,Regenerative braking control device of hybrid vehicle
+    JP2010004670A,2008-06-20,2010-01-07,Toyota Motor Corp,Traveling control device
+    US20110049969A1                      *,2009-09-01,2011-03-03,Mando Corporation,Hydraulic control method of regenerative braking system for vehicle
+    US20110246012A1                      *,2010-04-05,2011-10-06,Continental Automotive Systems, Inc.,Intelligent regenerative braking utilizing environmental data
+    US20120212161A1                      *,2011-02-17,2012-08-23,Seiko Epson Corporation,Electromechanical device, movable body, and robot
+    US20130090822A1                      *,2011-10-11,2013-04-11,Robert Bosch Gmbh,System and method for optimal deceleration of a vehicle using regenerative braking
+    US20130162009A1                      *,2011-12-22,2013-06-27,Coda Automotive, Inc.,Electric vehicle regenerative braking system
+    US20140008966A1                      *,2011-01-31,2014-01-09,Honda Motor Co., Ltd.,Brake device for vehicle
+    US20140285331A1                      *,2011-11-15,2014-09-25,Toyota Jidosha Kabushiki Kaisha,Drive assisting apparatus
+    US20150183433A1                      *,2013-12-26,2015-07-02,Fuji Jukogyo Kabushiki Kaisha,Vehicle control device and vehicle control method
+    US20160375775A1                      *,2013-11-26,2016-12-29,Hitachi Automotive Systems, Ltd.,Drive Control Device of Moving Body
+    US20170259671A1                      *,2016-03-08,2017-09-14,Hyundai Motor Company,Method of controlling regenerative braking cooperation for electric vehicle
+    Family To Family Citations,,,,
+    JP3445198B2                      *,1999-10-06,2003-09-08,ダイハツ工業株式会社,Hybrid vehicle control device and control method thereof
+    JP4851800B2                      *,2006-01-31,2012-01-11,本田技研工業株式会社,Vehicle collision control device
+    JP5686721B2                      *,2011-12-22,2015-03-18,日立オートモティブシステムズ株式会社,Control device for electric vehicle
+    JP2013158186A                      *,2012-01-31,2013-08-15,Toyota Motor Corp,Vehicle braking device
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (6)
+              
+
+
+citedBy_exist
+    
+              Cited By (18)
+              
+
+
+citedBy_infor
+20
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20190202296A1                      *,2017-12-28,2019-07-04,Hyundai Motor Company,Apparatus and method for controlling regenerative braking of vehicle
+    US10953756B2                      *,2015-07-15,2021-03-23,Ford Global Technologies, Llc,Adaptive regenerative braking method and system
+    Family To Family Citations,,,,
+    JP6286192B2                      *,2013-11-26,2018-02-28,日立オートモティブシステムズ株式会社,Drive control device for moving body
+    JP6181678B2                      *,2015-01-29,2017-08-16,トヨタ自動車株式会社,Vehicle braking control device
+    JP6304157B2                      *,2015-07-15,2018-04-04,トヨタ自動車株式会社,Vehicle control device
+    JP6332179B2                      *,2015-07-15,2018-05-30,トヨタ自動車株式会社,Vehicle control device
+    JP6332180B2                      *,2015-07-15,2018-05-30,トヨタ自動車株式会社,Vehicle control device
+    JP6332181B2                      *,2015-07-16,2018-05-30,トヨタ自動車株式会社,Vehicle control device
+    DE102015217905A1                      *,2015-09-18,2017-03-23,Volkswagen Aktiengesellschaft,Automatic adaptation of the brake booster to different brake loads
+    CN114801757A                      *,2016-11-09,2022-07-29,华为技术有限公司,Method and device for recovering braking energy of vehicle
+    DE102016222734A1                      *,2016-11-18,2018-05-24,Bayerische Motoren Werke Aktiengesellschaft,A method, computer readable medium, system, and vehicle comprising the system for assisting an energy efficient deceleration of the vehicle
+    DE102017003082A1                      *,2017-03-31,2018-10-04,Man Truck & Bus Ag,Retarder device for a motor vehicle
+    KR102352414B1                      *,2017-06-27,2022-01-18,현대모비스 주식회사,Braking apparatus and braking control method of vehicle
+    JP6658691B2                      *,2017-07-26,2020-03-04,トヨタ自動車株式会社,Driving support device
+    JP6599424B2                      *,2017-12-22,2019-10-30,本田技研工業株式会社,Control device
+    CN110745124A                      *,2019-10-25,2020-02-04,北京海纳川汽车部件股份有限公司,Vehicle and brake control method and device thereof
+    US11753009B2,2021-04-30,2023-09-12,Nissan North America, Inc.,Intelligent pedal lane change assist
+    US11702075B2                      *,2021-04-30,2023-07-18,Nissan North America, Inc.,System and method for proactive lane assist
+
+abstract
+    To provide a drive control device of a moving body capable of increasing a regeneration amount without hindering a driver's brake operation and causing too much deceleration. A drive control device of a moving body that updates a regenerative pattern of a driving motor of the moving body including a brake that generates a braking force by being linked to an operation amount of a brake pedal, the drive control device including an external world information acquisition unit that acquires external world information and a brake detector that detects ON/OFF of the brake, wherein when the brake detector detects ON, the regenerative pattern is changed based on the external world information acquired by the external world information acquisition unit such that a braking distance only decreases.
+title
+    Drive control device of moving body
+similar_document
+20
+    Publication,Publication Date,Title
+    US10155447B2,2018-12-18,Drive control device of moving body
+    US9944185B2,2018-04-17,Vehicle control device
+    US11358477B2,2022-06-14,Braking/driving force control method and braking/driving force control device
+    US10220848B2,2019-03-05,Braking/driving force control method and braking/driving force control device
+    JP6177666B2,2017-08-09,Drive control device for moving body
+    US10137786B2,2018-11-27,Vehicle control device
+    JP6332179B2,2018-05-30,Vehicle control device
+    US10293817B2,2019-05-21,Control unit for a vehicle
+    JP2014527392A,2014-10-09,Method for controlling the deceleration configuration of a vehicle
+    KR102518656B1,2023-04-06,Method for Inertia Drive Control with Torque Sharing of Eco Friendly Vehicle
+    JP6421565B2,2018-11-14,Driving assistance device
+    KR101628563B1,2016-06-08,Coasting control method for eco-friendly vehicle
+    JP6253646B2,2017-12-27,Vehicle control device
+    JP2018129973A,2018-08-16,Charging capacity control system of electric automobile
+    US20200108722A1,2020-04-09,Operating procedure for a brake system, brake system and motor vehicle
+    KR20150042968A,2015-04-22,Braking control method for hybrid electric vehicle
+    JP2019004573A,2019-01-10,Electric vehicle
+    JP2017061169A,2017-03-30,Vehicular control apparatus
+    JP2014016954A,2014-01-30,Vehicle traveling system
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    15
+classfication_items
+82
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,7,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,9,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+8
+    2014-11-12,Application filed by Hitachi Automotive Systems Ltd
+    2016-05-26,Assigned to HITACHI AUTOMOTIVE SYSTEMS, LTD.
+    2016-12-29,Publication of US20160375775A1
+    2018-12-18,Application granted
+    2018-12-18,Publication of US10155447B2
+    2021-03-25,Assigned to HITACHI ASTEMO, LTD.
+    Status,Active
+    2034-12-21,Adjusted expiration
+
+active_area
+5
+    J,P
+    E,P
+    W,O
+    C,N
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2013243455A,2013-11-26,Drive control device for moving body
+    JP2013-243455,2013-11-26,
+    PCT/JP2014/079911,2014-11-12,Drive control device for movable body
+
+legal_event
+5
+    Date,Code,Title,Description
+    2016-05-26,AS,Assignment,Owner name: HITACHI AUTOMOTIVE SYSTEMS, LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:IMANISHI, YUTO;YOKOYAMA, ATSUSHI;TANIMICHI, TAISETSU;SIGNING DATES FROM 20160407 TO 20160408;REEL/FRAME:038730/0443
+    2018-11-28,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2021-03-25,AS,Assignment,Owner name: HITACHI ASTEMO, LTD., JAPANFree format text: CHANGE OF NAME;ASSIGNOR:HITACHI AUTOMOTIVE SYSTEMS, LTD.;REEL/FRAME:056299/0447Effective date: 20210101
+    2022-06-01,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

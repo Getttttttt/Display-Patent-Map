@@ -1,0 +1,207 @@
+ID
+    JP2022187851A
+citation_exist
+    Patent Citations (1)
+citation_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP2019176536A,2018-03-26,2019-10-10,古河電気工業株式会社,電力変換装置および電力変換装置の制御方法
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    【課題】回路の複雑化を回避しつつ、出力電圧の制御範囲を拡大させることができるコンバータ、コンバータの制御装置、およびコンバータの制御方法を提供すること。【解決手段】バッテリに接続される一次側スイッチング部と、モータに接続される二次側スイッチング部と、前記一次側スイッチング部と前記二次側スイッチング部との間に設けられるトランスと、所望の波形の出力波形プロファイルに沿った電圧が前記モータ側に出力されるように少なくとも前記二次側スイッチング部を制御する制御部と、を備える、コンバータ。【選択図】図４
+title
+    コンバータ、コンバータの制御装置、およびコンバータの制御方法
+similar_document
+26
+    Publication,Publication Date,Title
+    US8188710B2,2012-05-29,Motored vehicle and method of controlling voltage conversion device for rapidly charging a power storage device
+    JP4648054B2,2011-03-09,ハイブリッド車両，電動駆動装置用制御装置及び電動駆動装置
+    US8035252B2,2011-10-11,Power supply system, vehicle with the same, temperature increase control method for power storage device and computer-readable recording medium bearing program for causing computer to execute temperature increase control of power storage device
+    JP5626469B2,2014-11-19,車両の駆動装置および車両の駆動方法
+    US7362597B2,2008-04-22,AC voltage generating apparatus and motive power outputting apparatus
+    US7989978B2,2011-08-02,Power supply system, vehicle with the same, control method of power supply system and computer-readable recording medium bearing program causing computer to execute control method of power supply system
+    JP6696408B2,2020-05-20,駆動システム
+    JP4835383B2,2011-12-14,電力供給ユニットの制御装置および制御方法、その方法をコンピュータに実現させるためのプログラム、そのプログラムを記録した記録媒体
+    US20090314558A1,2009-12-24,Voltage Conversion Apparatus and Vehicle Including the Same
+    CN105227033A,2016-01-06,混合动力车辆可变电压牵引马达驱动
+    JP2006238686A,2006-09-07,ハイブリッド車のためのダブルエンド型インバータ駆動システムのトポロジー
+    JP2006211891A,2006-08-10,ハイブリッド車用のダブルエンド型インバータ駆動システムの統合電力制御方法
+    CN102781711A,2012-11-14,电动车辆及其控制方法
+    WO2018105323A1,2018-06-14,駆動システム
+    CN105720881A,2016-06-29,马达控制装置以及控制方法
+    CN103904982A,2014-07-02,车辆和用于车辆的控制装置
+    CN110311617A,2019-10-08,电动机驱动系统和方法
+    JP4735045B2,2011-07-27,電動機制御装置
+    JP7264940B2,2023-04-25,コンバータ、コンバータの制御装置、およびコンバータの制御方法
+    CN108482102B,2022-11-04,混合动力驱动系统
+    JP7257449B2,2023-04-13,電力変換装置、電力変換装置の制御方法、およびプログラム
+    JP7016946B2,2022-02-07,複合蓄電システム
+    JP2010136475A,2010-06-17,電源システムの制御装置およびそれを備えた車両ならびに電源システムの制御方法
+    JP7376548B2,2023-11-08,電力変換装置、電力変換装置の制御方法、およびプログラム
+    JP5023718B2,2012-09-12,車両用駆動制御装置及び車両用駆動制御方法
+
+patent_application
+    NoExist
+patent_priority_application
+4
+    Application,Priority date,Filing date,Title
+    JP2021096058A,2021-06-08,2021-06-08,コンバータ、コンバータの制御装置、およびコンバータの制御方法
+    CN202210566205.0A,2021-06-08,2022-05-23,转换器、转换器的控制装置及转换器的控制方法
+    US17/824,957,2021-06-08,2022-05-26,Converter, control device for converter, and control method for converter
+
+inventor_number
+    4
+classfication_nums
+    16
+classfication_items
+103
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H,0,2,M,3,/,0,1
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H,0,2,M,3,/,2,2
+    H,0,2,M,3,/,2,4
+    H,0,2,M,3,/,2,8
+    H,0,2,M,3,/,3,2,5
+    H,0,2,M,3,/,3,3,5
+    H,0,2,M,3,/,3,3,5,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,5,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,0,8
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H,0,2,M,3,/,2,2
+    H,0,2,M,3,/,2,4
+    H,0,2,M,3,/,2,8
+    H,0,2,M,3,/,3,2,5
+    H,0,2,M,3,/,3,3,5
+    H,0,2,M,3,/,3,3,5,6,9
+    H,0,2,M,3,/,3,3,5,7,3
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H,0,2,M,3,/,2,2
+    H,0,2,M,3,/,2,4
+    H,0,2,M,3,/,2,8
+    H,0,2,M,3,/,3,2,5
+    H,0,2,M,3,/,3,3,5
+    H,0,2,M,3,/,3,3,5,6,9
+    H,0,2,M,3,/,3,3,5,7,6
+    H,0,2,M,3,/,3,3,5,8,4
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,3,/,0,0
+    H,0,2,P,3,/,0,6
+    H,0,2,P,3,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,2,0
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,6,6
+    H,0,2,M,7,/,6,8
+    H,0,2,M,7,/,7,2
+    H,0,2,M,7,/,7,9
+    H,0,2,M,7,/,7,9,7
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,2,0,1,/,0,0
+    H,0,2,P,2,2,0,1,/,0,9
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,7,/,0,0
+    H,0,2,P,2,7,/,0,4
+    H,0,2,P,2,7,/,0,6
+
+application_events
+9
+    2021-06-08,Application filed by Honda Motor Co Ltd
+    2021-06-08,Priority to JP2021096058A
+    2022-05-23,Priority to CN202210566205.0A
+    2022-05-26,Priority to US17/824,957
+    2022-12-20,Publication of JP2022187851A
+    2023-04-25,Application granted
+    2023-04-25,Publication of JP7264940B2
+    Status,Active
+    2041-06-08,Anticipated expiration
+
+active_area
+3
+    J,P
+    C,N
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2021096058A,2021-06-08,コンバータ、コンバータの制御装置、およびコンバータの制御方法
+
+legal_event
+8
+    Date,Code,Title,Description
+    2022-01-28,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20220128
+    2023-01-17,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20230117
+    2023-03-08,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20230308
+    2023-03-20,TRDD,Decision of grant or rejection written,
+    2023-04-04,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20230404
+    2023-04-17,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20230413
+    2023-04-17,R150,Certificate of patent or registration of utility model,Ref document number: 7264940Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R150
+

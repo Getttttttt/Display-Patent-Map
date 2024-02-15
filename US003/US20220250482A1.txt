@@ -1,0 +1,143 @@
+ID
+    US20220250482A1
+citation_exist
+    Patent Citations (4)
+citation_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP4659390B2                      *,2004-05-31,2011-03-30,富士重工業株式会社,Vehicle braking device and vehicle braking method
+    US8596390B2                      *,2007-12-05,2013-12-03,Ford Global Technologies, Llc,Torque control for hybrid electric vehicle speed control operation
+    GB2508668A                      *,2012-12-10,2014-06-11,Jaguar Land Rover Ltd,Adaptive cruise control (ACC) means for a host vehicle having regenerative and non-regenerative braking means
+    GB2545261A                      *,2015-12-11,2017-06-14,Jaguar Land Rover Ltd,Control system and method of controlling a driveline
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    The present disclosure relates to a method for braking a vehicle, a vehicle including a control unit configured to perform such a method and a computer program element for braking a vehicle. The method for braking a vehicle includes estimating a potential brake energy to be regenerated during a braking event, determining a threshold based on a regenerating capacity of a first axle drive unit, comparing the potential brake energy to be regenerated with the threshold, and switching a second axle drive unit to a regeneration mode for regenerating the brake energy in case the potential brake energy to be regenerated is higher than the threshold.
+title
+    Method for Braking a Vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    CN103569089B,2016-05-11,Vehicle braking system is unified and is operated its method
+    US10967840B2,2021-04-06,System and method of controlling braking of electric vehicle
+    CN103507798B,2016-04-27,Motor vehicle braking system and method for operation thereof
+    US9421962B2,2016-08-23,Method and system for displaying braking information
+    US20160221469A1,2016-08-04,Vehicle and sliding feedback control system of vehicle and method for the same
+    EP2161831B1,2020-02-19,Controller of electric vehicle
+    US20110172863A1,2011-07-14,Dynamic Traction Control
+    CN101985300B,2013-05-08,Torque control method capable of preventing driving wheels from slipping
+    CN106347137B,2022-02-01,Adaptive regenerative braking method and system
+    US20150183424A1,2015-07-02,Apparatus, system and method for controlling engine starting while shifting of hybrid electric vehicle
+    CN107697046A,2018-02-16,Automatic emergency brake method and system
+    KR101048142B1,2011-07-08,Regenerative braking torque control device and method for hybrid vehicle
+    US20120089281A1,2012-04-12,Method and driveline stability control system for a vehicle
+    US20230022163A1,2023-01-26,Control apparatus for vehicle
+    CN107531160B,2020-06-16,Electric motorcycle with wheel anti-lock system
+    US10272896B2,2019-04-30,System and method for diagnosing failures in brake systems and discrete vehicle inputs
+    JP6605031B2,2019-11-13,Electric vehicle moving direction detection
+    US20220250482A1,2022-08-11,Method for Braking a Vehicle
+    KR101724505B1,2017-04-07,Apparatus and method for shift control of vehicle
+    US9878621B2,2018-01-30,System and method for improved ABS performance during parallel regenerative braking
+    US11794715B2,2023-10-24,Brake assist during vehicle one pedal drive
+    JP5467035B2,2014-04-09,Vehicle control device
+    US11312240B2,2022-04-26,Hybrid electric vehicle and braking control method thereof
+    US11441673B2,2022-09-13,Eco-friendly vehicle and transmission hydraulic pressure control method for the same
+    CN103338994B,2016-04-27,Vehicle and control method for vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    8
+classfication_items
+50
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,1,0,/,0,0
+    B,6,0,T,2,2,1,0,/,3,0
+    B,6,0,T,2,2,1,0,/,3,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+
+application_events
+4
+    2022-01-07,Application filed by Volvo Car Corp
+    2022-01-07,Assigned to VOLVO CAR CORPORATION
+    2022-08-11,Publication of US20220250482A1
+    Status,Pending
+
+active_area
+3
+    E,P
+    U,S
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    EP21156421.6A,2021-02-10,Method for braking a vehicle
+    EP21156421.6,2021-02-10,
+
+legal_event
+3
+    Date,Code,Title,Description
+    2022-01-07,AS,Assignment,Owner name: VOLVO CAR CORPORATION, SWEDENFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:ABERG, EMIL;REEL/FRAME:058578/0296Effective date: 20220104
+    2022-02-14,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+

@@ -1,0 +1,170 @@
+ID
+    JP2018148715A
+citation_exist
+    Patent Citations (10)
+citation_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH04312388A                      *,1991-04-09,1992-11-04,Mitsubishi Electric Corp,Drive controller for dc brushless motor
+    JPH0787781A                      *,1993-09-14,1995-03-31,Toshiba Corp,直流ブラシレスモータの駆動装置およびその良否識別方法
+    JP2000170905A                      *,1998-09-28,2000-06-23,Denso Corp,自動変速機のシフトレンジ切換装置
+    Family To Family Citations,,,,
+    US7312595B2,2002-07-09,2007-12-25,Denso Corporation,Motor control apparatus
+    JP2008039112A                      *,2006-08-08,2008-02-21,Toyota Motor Corp,自動変速機のシフト切換装置
+    CN201338543Y                      *,2008-12-05,2009-11-04,无锡机电高等职业技术学校,新型电动自行车控制器
+    JP2011188633A                      *,2010-03-09,2011-09-22,Denso Corp,モータ制御方法、モータ制御装置、および、これを用いた電動パワーステアリング装置
+    JP5670258B2                      *,2011-05-31,2015-02-18,日立オートモティブシステムズ株式会社,ブラシレスモータの駆動装置
+    JP5454962B2                      *,2011-12-05,2014-03-26,株式会社デンソー,モータ制御装置
+    JP6690579B2                      *,2017-03-07,2020-04-28,株式会社デンソー,シフトレンジ制御装置
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (6)
+              
+
+
+citedBy_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2020054030A                      *,2018-09-25,2020-04-02,ミネベアミツミ株式会社,異常検知装置、モータ装置、異常検知方法、及びモータの駆動制御方法
+    Family To Family Citations,,,,
+    JP6690576B2                      *,2017-02-21,2020-04-28,株式会社デンソー,シフトレンジ制御装置
+    JP6690579B2                      *,2017-03-07,2020-04-28,株式会社デンソー,シフトレンジ制御装置
+    JP6698732B2                      *,2018-03-23,2020-05-27,ファナック株式会社,モータ制御装置およびモータ制御装置の制御方法
+    JP7021045B2,2018-10-10,2022-02-16,株式会社デンソー,シフトレンジ制御装置
+    KR102263101B1                      *,2019-12-03,2021-06-09,주식회사 현대케피코,전동식 변속 레버 시스템의 모터 위치 학습 장치 및 위치 학습 방법
+
+abstract
+    【課題】回転角センサの異常時にシフトレンジを適切に切り替え可能であるシフトレンジ制御装置を提供する。【解決手段】シフトレンジ制御装置４０の異常判定部８１は、モータ１０の回転角度を検出するエンコーダ１３の異常を検出する。正常時制御部５１は、エンコーダ１３が正常である場合、エンコーダ１３の検出値を用いてモータ１０の駆動を制御する。異常時制御部８２は、エンコーダ１３が異常である場合、エンコーダ１３の検出値を用いず、通電相切替期間ごとに通電相を切り替える異常時制御であるオープン駆動制御を行う。異常時制御部８２は、１つの相において同一方向への通電が継続される通電継続期間の少なくとも一部において、デューティが１００％より小さい電流低減期間を設ける。これにより、エンコーダ１３の異常時において、要求シフトレンジに応じた目標位置までモータ１０を適切に回転させることができる。【選択図】図４
+title
+    シフトレンジ制御装置
+similar_document
+16
+    Publication,Publication Date,Title
+    JP6690579B2,2020-04-28,シフトレンジ制御装置
+    US10948073B2,2021-03-16,Shift range control device
+    WO2017179337A1,2017-10-19,シフトレンジ制御装置
+    CN109690149B,2020-10-16,换挡挡位控制装置
+    US10941860B2,2021-03-09,Shift range control apparatus
+    JP6565841B2,2019-08-28,シフトレンジ制御装置
+    US11226033B2,2022-01-18,Shift range control device
+    US10644622B2,2020-05-05,Shift range control apparatus
+    US10615724B2,2020-04-07,Shift range control apparatus
+    JP2018165528A,2018-10-25,シフトレンジ制御装置
+    JP2019110674A,2019-07-04,モータ制御装置
+    WO2018047916A1,2018-03-15,シフトレンジ制御装置
+    JP2020118270A,2020-08-06,シフトレンジ制御装置
+    CN113748596B,2023-10-31,马达控制装置
+    JP2019033620A,2019-02-28,モータ制御装置
+
+patent_application
+    NoExist
+patent_priority_application
+6
+    Application,Priority date,Filing date,Title
+    JP2017042626A,2017-03-07,2017-03-07,シフトレンジ制御装置
+    DE112018001221.2T,2017-03-07,2018-02-20,Schaltbereichssteuerungsvorrichtung
+    CN201880016000.7A,2017-03-07,2018-02-20,换挡挡位控制装置
+    PCT/JP2018/005826,2017-03-07,2018-02-20,シフトレンジ制御装置
+    US16/551,919,2017-03-07,2019-08-27,Shift range control apparatus
+
+inventor_number
+    5
+classfication_nums
+    8
+classfication_items
+51
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,6,1,/,0,0
+    F,1,6,H,6,1,/,1,2
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,5,9,/,0,0
+    F,1,6,H,5,9,/,0,2
+    F,1,6,H,5,9,/,0,8
+    F,1,6,H,5,9,/,1,0
+    F,1,6,H,5,9,/,1,0,5
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,6,1,/,0,0
+    F,1,6,H,6,1,/,2,6
+    F,1,6,H,6,1,/,2,8
+    F,1,6,H,6,1,/,3,2
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,6,/,0,0
+    H,0,2,P,6,/,1,4
+    H,0,2,P,6,/,1,6
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,8,/,0,0
+    H,0,2,P,8,/,3,6
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,6,1,/,0,0
+    F,1,6,H,6,1,/,1,2
+    F,1,6,H,2,0,6,1,/,1,2,0,8
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,6,1,/,0,0
+    F,1,6,H,6,1,/,2,6
+    F,1,6,H,6,1,/,2,8
+    F,1,6,H,6,1,/,3,2
+    F,1,6,H,2,0,6,1,/,3,2,6
+
+application_events
+8
+    2017-03-07,Application filed by Denso Corp
+    2017-03-07,Priority to JP2017042626A
+    2018-09-20,Publication of JP2018148715A
+    2019-06-06,Publication of JP2018148715A5
+    2020-04-28,Application granted
+    2020-04-28,Publication of JP6690579B2
+    Status,Active
+    2037-03-07,Anticipated expiration
+
+active_area
+5
+    J,P
+    C,N
+    D,E
+    W,O
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2017042626A,2017-03-07,シフトレンジ制御装置
+
+legal_event
+8
+    Date,Code,Title,Description
+    2019-04-25,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20190425
+    2019-04-25,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20190425
+    2020-02-28,TRDD,Decision of grant or rejection written,
+    2020-03-10,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20200310
+    2020-04-13,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20200323
+    2020-04-13,R151,Written notification of patent or utility model registration,Ref document number: 6690579Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R151
+    2023-04-07,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+

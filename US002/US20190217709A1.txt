@@ -1,0 +1,277 @@
+ID
+    US20190217709A1
+citation_exist
+    Patent Citations (9)
+citation_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20120049617A1                      *,2010-09-01,2012-03-01,Hitachi Automotive Systems, Ltd.,Brake Control Apparatus
+    US20130030601A1                      *,2011-07-28,2013-01-31,Hyundai Motor Company,Control system and method of vehicle using in-wheel motor
+    US8989981B2                      *,2009-09-30,2015-03-24,Hitachi Automotive Systems, Ltd.,Vehicle motion control device
+    US20160280191A1                      *,2013-03-22,2016-09-29,Toyota Jidosha Kabushiki Kaisha,Brake controller
+    US20170183008A1                      *,2015-12-25,2017-06-29,Toyota Jidosha Kabushiki Kaisha,Driving force control system for vehicle
+    US10421362B2                      *,2016-09-30,2019-09-24,Faraday&Future Inc.,Regenerative braking control method and system
+    Family To Family Citations,,,,
+    JP2002104156A,2000-09-27,2002-04-10,Toyota Motor Corp,Braking/driving force control device for vehicle
+    US9199639B2,2010-09-28,2015-12-01,Hitachi Automotive Systems, Ltd.,Motion control system of vehicle
+    JP5212663B2,2010-10-21,2013-06-19,トヨタ自動車株式会社,Vehicle braking / driving force control device
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (8)
+              
+
+
+citedBy_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN111645528A                      *,2020-06-05,2020-09-11,中国第一汽车股份有限公司,Braking energy recovery control method, system, device, vehicle and storage medium
+    CN112248817A                      *,2020-10-30,2021-01-22,宝能(广州)汽车研究院有限公司,Electric vehicle, energy recovery control system, stability control method, and medium therefor
+    US20210284129A1                      *,2020-03-12,2021-09-16,Honda Motor Co., Ltd.,Behavior control apparatus and behavior control method
+    US11413970B2,2019-08-21,2022-08-16,Ford Global Technologies, Llc,System and method for improving traction of a vehicle that includes two electric machines
+    US11505177B2                      *,2018-03-07,2022-11-22,Subaru Corporation,Control apparatus for vehicle and control method for vehicle
+    US20230018321A1                      *,2018-05-03,2023-01-19,Magna International Inc.,Electronically-controlled axle braking system and method
+    Family To Family Citations,,,,
+    CN111645755B                      *,2020-05-18,2021-10-01,长城汽车股份有限公司,Control method and device
+    CN114228698B                      *,2021-12-29,2023-06-16,东风越野车有限公司,Yaw stability control method based on tire pressure of wheels
+
+abstract
+    Methods and systems are provided for operating a hybrid vehicle during operating conditions where vehicle braking is requested. In one example, regenerative braking is allocated to vehicle wheels responsive to actual and estimated vehicle yaw. Additionally, friction braking torque is allocated to vehicle wheels responsive to requested braking torque and regenerative braking torques.
+title
+    Regenerative vehicle braking with wheel slip control and yaw stability control
+similar_document
+22
+    Publication,Publication Date,Title
+    US10730393B2,2020-08-04,Regenerative hybrid vehicle braking system and methods
+    US10814727B2,2020-10-27,Regenerative vehicle braking with wheel slip control and yaw stability control
+    US10399440B2,2019-09-03,Methods and system for regenerative hybrid vehicle braking
+    US10513265B2,2019-12-24,Methods and system for hybrid vehicle regenerative braking
+    US10919518B2,2021-02-16,Methods and system for improving hybrid vehicle transmission gear shifting
+    US10696289B2,2020-06-30,Systems and methods for meeting wheel torque demand in a hybrid vehicle
+    US10960872B2,2021-03-30,Methods and system for determining driver demand
+    US10407053B2,2019-09-10,Systems and methods for hybrid vehicle launch
+    US10118605B2,2018-11-06,Methods and system for a hybrid vehicle
+    US10407056B2,2019-09-10,Systems and methods for starting an engine in a hybrid vehicle
+    US10569760B2,2020-02-25,Systems and methods for battery charging in a hybrid vehicle
+    US10807489B2,2020-10-20,Systems and methods for charging an onboard energy storage device in a hybrid vehicle
+    US10486686B2,2019-11-26,Methods and system for adjusting engine torque
+    US11161510B2,2021-11-02,Methods and system for operating a hybrid vehicle
+    US10571022B2,2020-02-25,Systems and methods for dual clutch transmission clutch adaptation in a hybrid vehicle
+    US20180257631A1,2018-09-13,Methods and system providing vehicle drift
+    US11173892B2,2021-11-16,Methods and system for operating a hybrid vehicle in a performance mode
+    US11358586B2,2022-06-14,Methods and system for launching a hybrid vehicle
+    CN108569272B,2023-05-12,Method and system for operating a drive train
+    CN108569269B,2023-01-24,Method and system for operating a hybrid vehicle
+    US20230286490A1,2023-09-14,Methods and system for stall torque derating
+
+patent_application
+    NoExist
+patent_priority_application
+4
+    Application,Priority date,Filing date,Title
+    US15/871,714,2018-01-15,2018-01-15,Regenerative vehicle braking with wheel slip control and yaw stability control
+    CN201910027613.7A,2018-01-15,2019-01-11,Regenerative vehicle braking with wheel-slip control and Yaw stability control
+    DE102019100701.1A,2018-01-15,2019-01-12,Vehicle safety braking with wheel slip control and yaw stability control
+
+inventor_number
+    6
+classfication_nums
+    25
+classfication_items
+156
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,5
+    B,6,0,T,1,3,/,5,8,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,6,6
+    B,6,0,T,1,3,/,6,6,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,7,4
+    B,6,0,T,1,3,/,7,4,1
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,0,2
+    B,6,0,T,7,/,0,4
+    B,6,0,T,7,/,0,4,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,5,5
+    B,6,0,T,8,/,1,7,5,5,1
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,6
+    B,6,0,T,8,/,1,7,6,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B,6,0,W,2,0,/,1,4
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,1,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,5,0,/,0,0
+    B,6,0,T,2,2,5,0,/,0,3
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,1,0
+    B,6,0,T,2,2,7,0,/,1,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,3,0
+    B,6,0,T,2,2,7,0,/,3,0,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,1,3
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,4,7
+
+application_events
+7
+    2018-01-15,Application filed by Ford Global Technologies LLC
+    2018-01-15,Priority to US15/871,714
+    2019-07-18,Publication of US20190217709A1
+    2020-10-27,Application granted
+    2020-10-27,Publication of US10814727B2
+    Status,Active
+    2038-08-31,Adjusted expiration
+
+active_area
+3
+    U,S
+    C,N
+    D,E
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US15/871,714,2018-01-15,Regenerative vehicle braking with wheel slip control and yaw stability control
+
+legal_event
+8
+    Date,Code,Title,Description
+    2018-01-15,AS,Assignment,Owner name: FORD GLOBAL TECHNOLOGIES, LLC, MICHIGANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:ZHAO, YANAN;KUANG, MING LANG;CROMBEZ, DALE SCOTT;AND OTHERS;SIGNING DATES FROM 20171005 TO 20171209;REEL/FRAME:044623/0501
+    2018-01-15,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2019-10-25,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2020-02-03,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2020-04-09,STPP,Information on status: patent application and granting procedure in general,Free format text: FINAL REJECTION MAILED
+    2020-06-25,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2020-10-07,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

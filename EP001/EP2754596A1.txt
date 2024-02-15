@@ -1,0 +1,436 @@
+ID
+    EP2754596A1
+citation_exist
+    Patent Citations (14)
+citation_infor
+16
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP3171079B2                      *,1995-07-24,2001-05-28,トヨタ自動車株式会社,Vehicle drive control device
+    US5841201A                      *,1996-02-29,1998-11-24,Toyota Jidosha Kabushiki Kaisha,Hybrid vehicle drive system having a drive mode using both engine and electric motor
+    JP3401181B2                      *,1998-02-17,2003-04-28,トヨタ自動車株式会社,Drive control device for hybrid vehicle
+    JP2002135909A                      *,2000-10-26,2002-05-10,Honda Motor Co Ltd,Charging control unit for hybrid vehicle
+    JP3537810B2                      *,2002-03-28,2004-06-14,本田技研工業株式会社,Hybrid vehicle
+    JP4517984B2                      *,2005-09-01,2010-08-04,トヨタ自動車株式会社,Hybrid car
+    JP2007269255A                      *,2006-03-31,2007-10-18,Fuji Heavy Ind Ltd,Driving control device of hybrid vehicle
+    US7826939B2                      *,2006-09-01,2010-11-02,Azure Dynamics, Inc.,Method, apparatus, signals, and medium for managing power in a hybrid vehicle
+    AT9756U1                      *,2006-12-11,2008-03-15,Magna Steyr Fahrzeugtechnik Ag,METHOD FOR CONTROLLING THE HYBRID DRIVE OF A MOTOR VEHICLE AND CONTROL SYSTEM
+    JP2009173196A,2008-01-25,2009-08-06,Toyota Motor Corp,Hybrid vehicle
+    JP2010100251A,2008-10-27,2010-05-06,Toyota Motor Corp,Hybrid vehicle
+    US8888636B2                      *,2008-11-19,2014-11-18,Honda Motor Co., Ltd.,Power output apparatus
+    JP4704494B2                      *,2008-11-19,2011-06-15,本田技研工業株式会社,Power output device
+    RU2518144C2                      *,2009-12-08,2014-06-10,Хонда Мотор Ко., Лтд.,Hybrid vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (23)
+              
+
+
+citedBy_infor
+25
+    Publication number,Priority date,Publication date,Assignee,Title
+    EP3173282A1                      *,2015-10-09,2017-05-31,AVL List GmbH,Electrically propelled vehicle
+    Family To Family Citations,,,,
+    US20150032317A1                      *,2012-02-15,2015-01-29,Toyota Jidosha Kabushiki Kaisha,Control device of hybrid vehicle
+    EP3009295A4                      *,2013-06-14,2017-07-05,Microspace Corporation,Motor drive control device
+    US9849870B2                      *,2013-07-11,2017-12-26,Toyota Jidosha Kabushiki Kaisha,Hybrid vehicle having switch control function of travel mode based on map information
+    CN103569105A                      *,2013-11-21,2014-02-12,天津市松正电动汽车技术股份有限公司,Multi-power drive system energy coordination control method
+    US20150158390A1                      *,2013-12-09,2015-06-11,Textron Inc.,Using DC Motor With A Controller As A Generator
+    KR101519780B1                      *,2014-03-14,2015-05-13,현대자동차주식회사,Control method for battery reservation charge of vehicle
+    US9242576B1                      *,2014-07-25,2016-01-26,GM Global Technology Operations LLC,Method and apparatus for controlling an electric machine
+    US9783183B2                      *,2015-02-23,2017-10-10,Ford Global Technologies, Llc,Battery charging strategy in a hybrid vehicle
+    JP6344336B2                      *,2015-08-25,2018-06-20,トヨタ自動車株式会社,Battery system
+    ITUB20153426A1,2015-09-04,2017-03-04,Ferrari Spa,METHOD FOR THE CONTROL OF A HYBRID VEHICLE WITH ARCHITECTURE IN PARALLEL AND WITH A KNOWN SPEED PROFILE FOR OPTIMIZING FUEL CONSUMPTION
+    ITUB20153411A1                      *,2015-09-04,2017-03-04,Ferrari Spa,METHOD FOR THE CONTROL OF A HYBRID VEHICLE WITH ARCHITECTURE IN PARALLEL AND WITH A SPEED PROFILE NOT KNOWN FOR OPTIMIZING FUEL CONSUMPTION
+    DE102015219340A1                      *,2015-10-07,2017-04-13,Robert Bosch Gmbh,Method and device for operating a drive device, drive device
+    MX2019003109A                      *,2016-09-19,2019-05-27,Essity Hygiene & Health Ab,Dispenser and dispenser monitoring systems and methods.
+    KR20180070290A                      *,2016-12-16,2018-06-26,현대자동차주식회사,Hybrid vehicle and method of controlling mode transition
+    US10364765B2                      *,2017-02-15,2019-07-30,GM Global Technology Operations LLC,Method to select optimal mode on a multi-mode engine with charging
+    US11059374B2                      *,2017-02-21,2021-07-13,Hitachi Automotive Systems, Ltd.,Hybrid vehicle control apparatus and hybrid vehicle
+    JP6742266B2                      *,2017-03-29,2020-08-19,日立オートモティブシステムズ株式会社,Control device for internal combustion engine
+    SE540980C2                      *,2017-06-07,2019-02-12,Scania Cv Ab,Method and system for propelling a vehicle
+    KR102019426B1                      *,2017-12-07,2019-09-06,현대자동차주식회사,Apparatus and method for controlling transmission of vehicle
+    KR102407501B1                      *,2017-12-15,2022-06-13,닛산 지도우샤 가부시키가이샤,Fuel economy display control method and fuel economy display control system
+    JP2022543374A                      *,2019-08-01,2022-10-12,システム７３ リミテッド,MULTI-ENGINE SWITCHING SYSTEM AND PERFORMANCE OPTIMIZATION METHOD
+    CN115615720B                      *,2022-12-16,2023-04-18,中安芯界控股集团有限公司,Power assembly test system for new energy automobile
+
+abstract
+    To provide a control system and a control method for a hybrid vehicle, which make it possible to cause the hybrid vehicle to efficiently travel to thereby make it possible to improve fuel economy. A control system 1 for a hybrid vehicle V includes an ECU 2. The ECU 2 calculates four total efficiencies TE_eng, TE_ch, TE_asst, and TE_ev, using energy ENE_eng2 transmitted from an internal combustion engine 3 to drive wheels DW during operation of the engine 3, energy ENE_mot2 transmitted from an electric motor 4 to the drive wheels DW during operation of the electric motor 4, energy ENE_mot2 charged when motive power of the engine 3 is converted to electric energy by a power generating operation of the electric motor 4 during the operation of the engine 3, and energy assumed to be supplied to whole motive power sources 3 and 4 (ENE_eng1, ENE_eng1 + ENE_mot1, ENE_mot1) (step 2), and selects a travel mode which makes it possible to obtain the highest value of the four total efficiencies TE_eng, TE_ch, TE_asst, and TE_ev according to required torque TRQ and vehicle speed VP (step 3).
+title
+    Hybrid vehicle control device and control method
+similar_document
+22
+    Publication,Publication Date,Title
+    EP2754596A1,2014-07-16,Hybrid vehicle control device and control method
+    EP2754595A1,2014-07-16,Hybrid vehicle control device and control method
+    EP2754597A1,2014-07-16,Hybrid vehicle control device and control method
+    JP5518811B2,2014-06-11,Control device for hybrid vehicle
+    US9180869B2,2015-11-10,Hybrid drive system
+    EP2783935A1,2014-10-01,Gear shift indicating device for hybrid vehicle
+    JP5418691B1,2014-02-19,Hybrid vehicle
+    JPWO2013088558A1,2015-04-27,Control device for hybrid vehicle
+    JP2014122033A,2014-07-03,Control device and control method of hybrid vehicle
+    JP5362793B2,2013-12-11,Vehicle control apparatus and control method
+    JP5512620B2,2014-06-04,Control device for hybrid vehicle
+    JP5512621B2,2014-06-04,Control device and control method for hybrid vehicle
+    JPWO2013084292A1,2015-04-27,Speed change instruction device
+    JP5362792B2,2013-12-11,Control device and control method for hybrid vehicle
+    JP2013052798A,2013-03-21,Control device and control method of hybrid vehicle
+    JP5452557B2,2014-03-26,Control device and control method for hybrid vehicle
+    JP5409729B2,2014-02-05,Control device and control method for hybrid vehicle
+    EP2730813B1,2016-08-24,Control apparatus and control method of vehicle
+    JP5667538B2,2015-02-12,Control device and control method for hybrid vehicle
+    JP5810580B2,2015-11-11,Vehicle and vehicle control method
+    JP5379835B2,2013-12-25,Control device and control method for hybrid vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    8
+classfication_nums
+    46
+classfication_items
+290
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,5,0
+    B,6,0,K,6,/,5,4
+    B,6,0,K,6,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,4
+    B,6,0,W,1,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,4,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B,6,0,K,2,0,0,6,/,4,8,1,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B,6,0,K,2,0,0,6,/,4,8,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,8
+    B,6,0,L,2,2,4,0,/,4,8,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,0
+    B,6,0,L,2,2,4,0,/,5,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,2
+    B,6,0,L,2,2,4,0,/,6,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,4,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,2,0,5,0,/,0,0,0,1
+    B,6,0,W,2,0,5,0,/,0,0,1,9
+    B,6,0,W,2,0,5,0,/,0,0,2,6
+    F
+    F,0,2
+    F,0,2,D
+    F,0,2,D,2,9,/,0,0
+    F,0,2,D,2,9,/,0,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,1,0
+    Y,0,2,T,1,0,/,4,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,8,0
+    Y,0,2,T,1,0,/,8,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,3
+
+application_events
+8
+    2011-09-05,Priority claimed from JP2011193022A
+    2011-09-05,Priority claimed from JP2011193016A
+    2011-09-05,Priority claimed from JP2011193021A
+    2011-09-05,Priority claimed from JP2011193024A
+    2012-09-05,Application filed by Honda Motor Co Ltd
+    2014-07-16,Publication of EP2754596A1
+    2015-10-14,Publication of EP2754596A4
+    Status,Withdrawn
+
+active_area
+2
+    W,O
+    C,N
+
+not_active_area
+4
+    C,A
+    K,R
+    U,S
+    E,P
+
+patent_application_claiming_priority
+6
+    Application,Filing date,Title
+    JP2011193022A,2011-09-05,Control device and control method for hybrid vehicle
+    JP2011193016A,2011-09-05,Control device for hybrid vehicle
+    JP2011193021A,2011-09-05,Control device and control method for hybrid vehicle
+    JP2011193024A,2011-09-05,Control device and control method for hybrid vehicle
+    PCT/JP2012/072577,2012-09-05,Hybrid vehicle control device and control method
+
+legal_event
+10
+    Date,Code,Title,Description
+    2014-06-13,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2014-07-16,17P,Request for examination filed,Effective date: 20140305
+    2014-07-16,AK,Designated contracting states,Kind code of ref document: A1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2014-12-10,DAX,Request for extension of the european patent (deleted),
+    2015-06-03,RIC1,Information provided on ipc code assigned before grant,Ipc: B60L  11/14        20060101ALI20150429BHEPIpc: B60K   6/547       20071001ALI20150429BHEPIpc: B60L  11/00        20060101ALI20150429BHEPIpc: B60W  10/06        20060101ALI20150429BHEPIpc: B60L   7/14        20060101ALI20150429BHEPIpc: B60L   3/00        20060101ALI20150429BHEPIpc: B60W  20/00        20060101ALI20150429BHEPIpc: B60W  10/08        20060101ALI20150429BHEPIpc: B60L   3/04        20060101ALI20150429BHEPIpc: B60K   6/48        20071001AFI20150429BHEPIpc: F02D  29/02        20060101ALI20150429BHEPIpc: B60L  15/20        20060101ALI20150429BHEP
+    2015-10-14,RA4,Supplementary search report drawn up and despatched (corrected),Effective date: 20150911
+    2015-10-14,RIC1,Information provided on ipc code assigned before grant,Ipc: B60W  10/08        20060101ALI20150907BHEPIpc: B60L   3/00        20060101ALI20150907BHEPIpc: B60K   6/48        20071001AFI20150907BHEPIpc: B60L  15/20        20060101ALI20150907BHEPIpc: F02D  29/02        20060101ALI20150907BHEPIpc: B60W  10/06        20060101ALI20150907BHEPIpc: B60L  11/14        20060101ALI20150907BHEPIpc: B60W  20/00        20060101ALI20150907BHEPIpc: B60L   7/14        20060101ALI20150907BHEPIpc: B60K   6/547       20071001ALI20150907BHEPIpc: B60L   3/04        20060101ALI20150907BHEPIpc: B60L  11/00        20060101ALI20150907BHEP
+    2016-08-19,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE APPLICATION IS DEEMED TO BE WITHDRAWN
+    2016-09-21,18D,Application deemed to be withdrawn,Effective date: 20160401
+

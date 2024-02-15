@@ -1,0 +1,152 @@
+ID
+    WO2018051644A1
+citation_exist
+    Patent Citations (9)
+citation_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2010261539A                      *,2009-05-08,2010-11-18,Kayaba Ind Co Ltd,ハイブリッド建設機械
+    JP2013002540A                      *,2011-06-15,2013-01-07,Hitachi Constr Mach Co Ltd,作業機械の動力回生装置
+    Family To Family Citations,,,,
+    JP5378061B2                      *,2009-05-08,2013-12-25,カヤバ工業株式会社,ハイブリッド建設機械の制御装置
+    JP5511425B2                      *,2010-02-12,2014-06-04,カヤバ工業株式会社,ハイブリッド建設機械の制御装置
+    JP5350292B2                      *,2010-02-23,2013-11-27,カヤバ工業株式会社,ハイブリッド建設機械の制御装置
+    JP5323753B2                      *,2010-03-26,2013-10-23,カヤバ工業株式会社,建設機械の制御装置
+    KR101928597B1                      *,2011-06-15,2018-12-12,히다찌 겐끼 가부시키가이샤,작업 기계의 동력 회생 장치
+    JP6052980B2                      *,2012-11-07,2016-12-27,Ｋｙｂ株式会社,ハイブリッド建設機械の制御システム
+    JP6190728B2                      *,2014-01-24,2017-08-30,Ｋｙｂ株式会社,ハイブリッド建設機械の制御システム
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN113423900A                      *,2019-02-13,2021-09-21,斗山英维高株式会社,工程机械
+    Family To Family Citations,,,,
+
+abstract
+    ハイブリッド建設機械の制御システム（１００）は、メインポンプ（７１，７２）と、作動流体によって回転駆動される回生モータ（８８）と、回生モータ（８８）に連結されるモータジェネレータ（９１）と、蓄電器（２６）と、コントローラ（９０）と、を備え、コントローラ（９０）は、アクチュエータが作動していないときに、蓄電器（２６）の電圧が回生開始電圧（Ｖｍｉｎ）よりも小さいと判定した場合には、メインポンプ（７１，７２）から回生モータ（８８）に供給される作動流体の流量が、アクチュエータが作動しているときにメインポンプ（７１，７２）から吐出される作動流体の流量以上となるようにメインポンプ（７１，７２）を制御する。
+title
+    ハイブリッド建設機械の制御システム及び制御方法
+similar_document
+24
+    Publication,Publication Date,Title
+    JP5511425B2,2014-06-04,ハイブリッド建設機械の制御装置
+    JP5378061B2,2013-12-25,ハイブリッド建設機械の制御装置
+    JP5858818B2,2016-02-10,建設機械
+    WO2011004881A1,2011-01-13,ハイブリッド建設機械の制御装置
+    KR101595584B1,2016-02-26,하이브리드 건설기계의 제어장치
+    WO2009119705A1,2009-10-01,ハイブリッド建設機械の制御装置
+    WO2009119704A1,2009-10-01,ハイブリッド建設機械の制御装置
+    KR101832080B1,2018-02-23,하이브리드 건설 기계의 제어 시스템
+    JP5377887B2,2013-12-25,ハイブリッド建設機械の制御装置
+    JP5908371B2,2016-04-26,ハイブリッド建設機械の制御装置
+    WO2015045891A1,2015-04-02,ハイブリッド建設機械の制御システム
+    WO2015111305A1,2015-07-30,ハイブリッド建設機械の制御システム
+    JP5197479B2,2013-05-15,ハイブリッド建設機械
+    JP2016109271A,2016-06-20,建設機械の油圧駆動システム
+    WO2018051644A1,2018-03-22,ハイブリッド建設機械の制御システム及び制御方法
+    KR101649438B1,2016-08-19,건설 기계 및 컨트롤러
+    WO2017204040A1,2017-11-30,ハイブリッド建設機械の制御システム
+    JP5639943B2,2014-12-10,蓄電装置及びハイブリッド建設機械
+    JP6401668B2,2018-10-10,ハイブリッド建設機械の制御システム及び制御方法
+    JP2015178863A,2015-10-08,ハイブリッド建設機械の制御システム
+    JP6043157B2,2016-12-14,ハイブリッド建設機械の制御システム
+    JP2015172428A,2015-10-01,ハイブリッド建設機械の制御システム
+    JP5197478B2,2013-05-15,ハイブリッド建設機械
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    CN201780018214.3A,2016-09-16,2017-07-26,混合动力建筑机械的控制系统及控制方法
+    KR1020187025538A,2016-09-16,2017-07-26,하이브리드 건설기계의 제어 시스템 및 제어 방법
+
+inventor_number
+    3
+classfication_nums
+    6
+classfication_items
+40
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,2,1
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,1,/,0,0
+    F,1,5,B,2,1,/,1,4
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,0,5,8
+    E,0,2,F,9,/,2,0,9,1
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,6,4
+    E,0,2,F,9,/,2,2,7,1
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,3
+    F,1,5,B,2,2,1,1,/,2,0,5,4,6
+
+application_events
+4
+    2017-07-26,Application filed by Ｋｙｂ株式会社
+    2017-07-26,Priority to CN201780018214.3A
+    2017-07-26,Priority to KR1020187025538A
+    2018-03-22,Publication of WO2018051644A1
+
+active_area
+3
+    J,P
+    C,N
+    W,O
+
+not_active_area
+1
+    K,R
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2016-182114,2016-09-16,
+    JP2016182114A,2016-09-16,ハイブリッド建設機械の制御システム及び制御方法
+
+legal_event
+6
+    Date,Code,Title,Description
+    2018-09-04,ENP,Entry into the national phase,Ref document number: 20187025538Country of ref document: KRKind code of ref document: A
+    2018-09-04,WWE,Wipo information: entry into national phase,Ref document number: 1020187025538Country of ref document: KR
+    2018-11-28,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 17850550Country of ref document: EPKind code of ref document: A1
+    2019-03-19,NENP,Non-entry into the national phase,Ref country code: DE
+    2019-10-09,122,Ep: pct application non-entry in european phase,Ref document number: 17850550Country of ref document: EPKind code of ref document: A1
+

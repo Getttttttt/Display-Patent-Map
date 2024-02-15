@@ -1,0 +1,153 @@
+ID
+    JP2022048892A
+citation_exist
+    Patent Citations (3)
+citation_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP5939165B2,2013-01-09,2016-06-22,アイシン・エィ・ダブリュ株式会社,回転電機制御装置
+    EP3474433B1,2016-06-15,2023-07-19,Mitsubishi Electric Corporation,Electric motor drive device
+    JP6845843B2                      *,2018-12-14,2021-03-24,本田技研工業株式会社,車両の電源システム
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    【課題】短絡制御の実施を適正に制御することができる電力変換器の制御装置を提供する。【解決手段】制御回路５０ａ，５０ｂは、回転電機と、上下アームのスイッチＳＷＨ，ＳＷＬを有する電力変換器と、を複数備えるシステムに適用される電力変換器の制御装置において、各電力変換器に対して個別に設けられる。各制御回路５０ａ，５０ｂは、自身以外の制御回路である通信対象に対して、下アームスイッチＳＷＬをオンし、上アームスイッチＳＷＨをオフする短絡制御の制御信号Ｓｇ２を生成するマイコン５１ａ，５１ｂと、制御信号Ｓｇ２を送信する送信部５３ａ，５３ｂと、制御信号Ｓｇ２を受信する受信部５４ａ，５４ｂと、受信部５４ａ，５４ｂを介して、短絡制御を実施する旨の制御信号Ｓｇ２を受信した場合、短絡制御を実施し、短絡制御を実施しない旨の制御信号Ｓｇ２を受信した場合、短絡制御の実施を解除する異常時制御部７０ａ，７０ｂと、を備える。【選択図】 図３
+title
+    電力変換器の制御装置
+similar_document
+22
+    Publication,Publication Date,Title
+    JP5794301B2,2015-10-14,車両および車両の制御方法
+    US8779706B2,2014-07-15,Control apparatus for rotary electric machines
+    US9680405B2,2017-06-13,Onboard motor controller
+    CN108574405B,2019-12-20,驱动装置
+    US20230129767A1,2023-04-27,Control circuit of power converter
+    US9455655B2,2016-09-27,Motor control system
+    JP2010011688A,2010-01-14,回転電機駆動制御装置
+    JP5578033B2,2014-08-27,負荷駆動装置および車両
+    US20220393504A1,2022-12-08,Control apparatus of power converter
+    WO2022059559A1,2022-03-24,電力変換器の制御装置
+    JP7354958B2,2023-10-03,電力変換器の制御回路
+    JP7160056B2,2022-10-25,電力変換器の制御回路
+    WO2022019038A1,2022-01-27,電力変換器の制御回路
+    JP7294227B2,2023-06-20,電力変換器の制御回路
+    JP7338589B2,2023-09-05,電力変換器の制御回路
+    JP7298501B2,2023-06-27,電力変換器の制御回路
+    JP2022061333A,2022-04-18,回転電機の駆動装置
+    US20230006664A1,2023-01-05,Control circuit for power conversion apparatus
+    JP2023012386A,2023-01-25,モータ駆動システム
+    JP2022076768A,2022-05-20,インバータ制御装置
+    JP2020198764A,2020-12-10,回転電機制御システム
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    JP2020154946A,2020-09-15,2020-09-15,電力変換器の制御装置
+    PCT/JP2021/032841,2020-09-15,2021-09-07,電力変換器の制御装置
+
+inventor_number
+    6
+classfication_nums
+    10
+classfication_items
+56
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,4,2
+    H,0,2,M,7,/,4,4
+    H,0,2,M,7,/,4,8
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,5,/,0,0
+    H,0,2,P,5,/,4,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+8
+    2020-09-15,Application filed by Denso Corp
+    2020-09-15,Priority to JP2020154946A
+    2021-09-07,Priority to PCT/JP2021/032841
+    2022-03-28,Publication of JP2022048892A
+    2023-05-18,Application granted
+    2023-05-18,Publication of JP7276293B2
+    Status,Active
+    2040-09-15,Anticipated expiration
+
+active_area
+2
+    J,P
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2020154946A,2020-09-15,電力変換器の制御装置
+
+legal_event
+6
+    Date,Code,Title,Description
+    2022-08-25,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20220825
+    2023-03-29,TRDD,Decision of grant or rejection written,
+    2023-04-04,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20230404
+    2023-05-10,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20230417
+    2023-05-10,R151,Written notification of patent or utility model registration,Ref document number: 7276293Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R151
+

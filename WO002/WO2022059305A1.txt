@@ -1,0 +1,147 @@
+ID
+    WO2022059305A1
+citation_exist
+    Patent Citations (6)
+citation_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH05149524A                      *,1991-11-26,1993-06-15,Babcock Hitachi Kk,スートブロワ制御方法および制御装置
+    JP2008146371A                      *,2006-12-11,2008-06-26,Hitachi Ltd,ボイラプラントの制御装置
+    JP2010139186A                      *,2008-12-12,2010-06-24,Kawasaki Plant Systems Ltd,廃熱ボイラーのハンマリング運転スケジュール制御システム
+    JP2019138602A                      *,2018-02-15,2019-08-22,株式会社日立製作所,運転計画生成装置、及び運転計画生成方法
+    JP2020134040A                      *,2019-02-21,2020-08-31,三菱日立パワーシステムズ株式会社,除煤装置の運転支援システム及び運転支援方法並びにプラント
+    CN212843004U                      *,2020-09-18,2021-03-30,川崎重工业株式会社,余热回收锅炉及其除尘运转计划装置
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    ダスト除去運転計画装置は、伝熱セクションの伝熱管の汚れ抵抗を演算する汚れ抵抗演算装置と、ダスト除去装置の運転計画の決定を機械学習する機械学習装置とを備える。機械学習装置は、排ガス源における燃料中の化石燃料の投入量に対する代替燃料の投入量の比、代替燃料中のダスト付着に関与する成分の割合、伝熱セクションを通過する排ガスのガス流速、伝熱セクションの入口ガス温度及び出口ガス温度、並びに、汚れ抵抗演算装置が求めた汚れ抵抗を状態データとして取得する。機械学習装置は、それまでの学習結果と状態データとに基づいて、汚れ抵抗に基づいて求めた報酬が最適となるように運転計画を選択する。
+title
+    排熱回収ボイラ及びそのダスト除去運転計画装置
+similar_document
+22
+    Publication,Publication Date,Title
+    CN212843004U,2021-03-30,余热回收锅炉及其除尘运转计划装置
+    US8924024B2,2014-12-30,Method for sootblowing optimization
+    US7584024B2,2009-09-01,Method and apparatus for optimizing operation of a power generating plant using artificial intelligence techniques
+    CN101393436B,2012-08-15,用于计算锅炉部件清洁度的双模型方法
+    US7383790B2,2008-06-10,Method and apparatus for controlling soot blowing using statistical process control
+    CN101657765B,2014-02-12,利用从统计和实时数据得到的可达到性能对设备进行通用性能评估的方法和装置
+    CN109960873B,2021-09-10,一种城市固废焚烧过程二噁英排放浓度软测量方法
+    CN106716046A,2017-05-24,用于使用振动分析来检测、监测和移除锅炉热交换器表面上的沉积物的系统和方法
+    WO2022059305A1,2022-03-24,排熱回収ボイラ及びそのダスト除去運転計画装置
+    CN102588943A,2012-07-18,一种锅炉对流受热面灰污监测系统及监测方法
+    JP2002081635A,2002-03-22,音波式清掃装置及び音波式清掃方法
+    CN111237789A,2020-06-05,锅炉吹灰方法、装置和计算机可读存储介质
+    CN202546721U,2012-11-21,锅炉对流受热面灰污监测系统
+    CN102607009A,2012-07-25,锅炉对流受热面灰污监测系统
+    TWI740649B,2021-09-21,找出發電設備的最佳清理時間點之方法
+    JP2023138425A,2023-10-02,機械学習装置および排熱回収システム
+    JP2023069627A,2023-05-18,伝熱面監視装置および伝熱面監視方法
+    Pehlken et al.,2022,How can machine learning improve waste-to-energy plant operation
+    Kumari et al.,2017,Estimation of reheater cleanliness factor based on Kalman filtering method in neural network training
+    JP6634226B2,2020-01-22,プラント機器の効率分析システム及び方法
+    KR20010011706A,2001-02-15,보일러의 슈트 블로잉 제어 시스템
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    JP2022550369A,2020-09-18,2021-07-07,
+
+inventor_number
+    20
+classfication_nums
+    11
+classfication_items
+52
+    F
+    F,2,7
+    F,2,7,D
+    F,2,7,D,1,7,/,0,0
+    F,2,7,D,1,7,/,0,0,4
+    F
+    F,2,2
+    F,2,2,B
+    F,2,2,B,3,5,/,0,0
+    F,2,2,B,3,5,/,1,8
+    F
+    F,2,2
+    F,2,2,B
+    F,2,2,B,3,7,/,0,0
+    F,2,2,B,3,7,/,0,2
+    F,2,2,B,3,7,/,5,6
+    F
+    F,2,3
+    F,2,3,J
+    F,2,3,J,1,5,/,0,0
+    F,2,3,J,1,5,/,0,2
+    F
+    F,2,3
+    F,2,3,J
+    F,2,3,J,1,5,/,0,0
+    F,2,3,J,1,5,/,0,6
+    F
+    F,2,3
+    F,2,3,J
+    F,2,3,J,3,/,0,0
+    F
+    F,2,7
+    F,2,7,D
+    F,2,7,D,1,7,/,0,0
+    F
+    F,2,7
+    F,2,7,D
+    F,2,7,D,1,7,/,0,0
+    F,2,7,D,1,7,/,0,0,8
+    F
+    F,2,8
+    F,2,8,G
+    F,2,8,G,7,/,0,0
+    G
+    G,0,6
+    G,0,6,N
+    G,0,6,N,2,0,/,0,0
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,2,0,/,0,0
+    Y,0,2,E,2,0,/,3,0
+
+application_events
+3
+    2021-07-07,Application filed by 川崎重工業株式会社
+    2021-07-07,Priority to JP2022550369A
+    2022-03-24,Publication of WO2022059305A1
+
+active_area
+3
+    C,N
+    W,O
+    J,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    CN202010986106.9,2020-09-18,
+    CN202010986106.9A,2020-09-18,余热回收锅炉及其除尘运转计划装置
+
+legal_event
+5
+    Date,Code,Title,Description
+    2022-05-04,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 21868992Country of ref document: EPKind code of ref document: A1
+    2023-01-25,ENP,Entry into the national phase,Ref document number: 2022550369Country of ref document: JPKind code of ref document: A
+    2023-04-19,NENP,Non-entry into the national phase,Ref country code: DE
+    2023-09-27,122,Ep: pct application non-entry in european phase,Ref document number: 21868992Country of ref document: EPKind code of ref document: A1
+

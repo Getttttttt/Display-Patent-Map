@@ -1,0 +1,312 @@
+ID
+    US9236736B2
+citation_exist
+    Patent Citations (13)
+citation_infor
+15
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH08223907A,1995-02-06,1996-08-30,Internatl Business Mach Corp <Ibm>,Power unit and power supply supplying method
+    JP2007135375A,2005-11-14,2007-05-31,Nissan Motor Co Ltd,Controller for dc-dc converter
+    JP2009089536A,2007-10-01,2009-04-23,Toyota Motor Corp,Power supply system
+    JP2009159663A,2007-12-25,2009-07-16,Toyota Motor Corp,Motor drive device, electric vehicle, and method of controlling motor drive devices
+    EP2117106A1,2007-01-04,2009-11-11,Toyota Jidosha Kabushiki Kaisha,Power supply system, vehicle using the same, and its control method
+    JP2010068576A,2008-09-09,2010-03-25,Toyota Motor Corp,Converter control device
+    JP2010206912A,2009-03-03,2010-09-16,Hitachi Koki Co Ltd,Charger
+    US20100270095A1                      *,2007-12-26,2010-10-28,Sumitomo Heavy Industries, Ltd.,Hybrid construction machine and method of controlling hybrid construction machine
+    JP2010288346A,2009-06-10,2010-12-24,Toyota Motor Corp,Power supply system for electric vehicle, and the electric vehicle
+    JP2011125144A,2009-12-10,2011-06-23,Toyota Motor Corp,Control device of converter
+    US20120049772A1                      *,2010-08-30,2012-03-01,Intersil Americas Inc.,Controlling a bidirectional dc-to-dc converter
+    Family To Family Citations,,,,
+    JP4978082B2                      *,2006-03-31,2012-07-18,トヨタ自動車株式会社,Power supply system and vehicle equipped with the same
+    JP4380772B2                      *,2007-10-16,2009-12-09,トヨタ自動車株式会社,POWER SUPPLY DEVICE, VEHICLE EQUIPPED WITH THE SAME, CONTROL METHOD FOR POWER SUPPLY DEVICE, AND COMPUTER-READABLE RECORDING MEDIUM CONTAINING PROGRAM FOR CAUSING COMPUTER TO EXECUTE THE CONTROL METHOD
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (18)
+              
+
+
+citedBy_infor
+20
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20170085200A1                      *,2015-09-18,2017-03-23,Faraday&Future Inc.,Methods and apparatus for generating current commands for an interior permanent magnet (ipm) motor
+    US20170085199A1                      *,2015-09-18,2017-03-23,Faraday&Future Inc.,Methods and apparatus for generating current commands for an interior permanent magnet (ipm) motor
+    US10141855B2,2017-04-12,2018-11-27,Accion Systems, Inc.,System and method for power conversion
+    US11545351B2,2019-05-21,2023-01-03,Accion Systems, Inc.,Apparatus for electrospray emission
+    Family To Family Citations,,,,
+    US9190899B2                      *,2011-09-28,2015-11-17,General Electric Company,Power factor correction (PFC) circuit configured to control high pulse load current and inrush current
+    DE102014200336A1                      *,2014-01-10,2015-07-16,Robert Bosch Gmbh,Electrochemical storage composite
+    KR101864466B1                      *,2014-03-19,2018-06-05,한국과학기술원,Power supply device
+    JP2016039675A                      *,2014-08-06,2016-03-22,株式会社デンソー,DCDC converter
+    EP3177971B1                      *,2014-08-08,2020-02-12,Toyo System Co., Ltd.,Feedback control device
+    JP6160601B2                      *,2014-12-02,2017-07-12,トヨタ自動車株式会社,Power system
+    DE102015220223A1                      *,2015-10-16,2017-04-20,Zf Friedrichshafen Ag,Limitation of the current gradient during load shedding
+    JP6458756B2                      *,2016-03-22,2019-01-30,トヨタ自動車株式会社,Automobile
+    JP6399045B2                      *,2016-06-16,2018-10-03,トヨタ自動車株式会社,Voltage control system, fuel cell system, and voltage control system control method
+    JP6790980B2                      *,2017-04-12,2020-11-25,トヨタ自動車株式会社,Hybrid vehicle and its control method
+    CN111226364B                      *,2017-10-17,2022-06-28,株式会社村田制作所,Power supply device, power control device, and relay determination method for power supply device
+    CN112334374B                      *,2018-06-22,2023-07-28,三菱电机株式会社,Drive control device and railway vehicle drive device
+    JP7163714B2                      *,2018-10-18,2022-11-01,トヨタ自動車株式会社,vehicle power supply
+    CN113767536B                      *,2019-05-10,2023-06-06,三菱电机株式会社,DC power supply and distribution system
+
+abstract
+    A power supply system that supplies electric power to a load includes a first power storage device, a second power storage device, a power line for transmitting electric power input and output to and from the load, a converter for executing bidirectional DC voltage conversion between the first power storage device and the power line, and a switch connected between the second power storage device and the power line. When the switch is OFF, the control device performs voltage control of the converter so that a voltage value of the power line becomes a voltage command value, and when the switch is ON, the control device performs current control of the converter so that a current value of the first power storage device becomes a current command value.
+title
+    Power supply system and method for controlling the same
+similar_document
+26
+    Publication,Publication Date,Title
+    US9236736B2,2016-01-12,Power supply system and method for controlling the same
+    US8297391B2,2012-10-30,Power supply system, vehicle provided with the same, power supply system control method and computer-readable recording medium bearing program for causing computer to control the power supply system
+    US8659182B2,2014-02-25,Power supply system and electric powered vehicle including power supply system, and method for controlling power supply system
+    US9493092B2,2016-11-15,Electric automobile
+    US7755306B2,2010-07-13,Electric power control device, electric powered vehicle including the same, and method for controlling electric power of electric vehicle
+    US9077269B2,2015-07-07,Control system for AC electric motor
+    US8575875B2,2013-11-05,Control device for voltage converter, vehicle equipped with the same, and control method for voltage converter
+    US8164282B2,2012-04-24,Motive power output apparatus and vehicle with the same
+    US7969039B2,2011-06-28,Method of controlling fuel cell vehicle and method of controlling DC/DC converter apparatus
+    US20140139150A1,2014-05-22,Vehicle driving device
+    US8292009B2,2012-10-23,Power supply device and vehicle including the same, control method for power supply device, and computer-readable recording medium having program for causing computer to execute that control method recorded thereon
+    US9950627B2,2018-04-24,Power conversion device
+    US8674637B2,2014-03-18,Vehicle
+    US20090314558A1,2009-12-24,Voltage Conversion Apparatus and Vehicle Including the Same
+    JP2007290483A,2007-11-08,Stop control device and stop control method of internal combustion engine
+    US9374022B2,2016-06-21,Control apparatus and control method for voltage conversion apparatus
+    JP4905204B2,2012-03-28,Load drive device
+    JP2009060759A,2009-03-19,Power supply system and charge control method therefor
+    JP4982576B2,2012-07-25,Fuel cell vehicle
+    JP2010035279A,2010-02-12,Power supply system and electric vehicle
+    CN108482102B,2022-11-04,Hybrid power driving system
+    JP2013055853A,2013-03-21,Power supply control device of electric vehicle
+    JP2013090410A,2013-05-13,Electric vehicle
+    JP2012016097A,2012-01-19,Electric vehicle
+    EP2080662B1,2013-02-27,Fuel cell vehicle and DC/DC converter apparatus
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    42
+classfication_items
+179
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,1,/,0,0
+    H,0,2,J,1,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,1,1,/,1,2,3
+    B,6,0,L,1,1,/,1,4
+    B,6,0,L,1,1,/,1,8
+    B,6,0,L,1,1,/,1,8,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,1,/,0,0
+    H,0,2,J,1,/,0,8
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,1,/,0,0
+    H,0,2,J,1,/,0,8
+    H,0,2,J,1,/,0,8,2
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H,0,2,M,3,/,0,2
+    H,0,2,M,3,/,0,4
+    H,0,2,M,3,/,1,0
+    H,0,2,M,3,/,1,4,5
+    H,0,2,M,3,/,1,5,5
+    H,0,2,M,3,/,1,5,6
+    H,0,2,M,3,/,1,5,8
+    H,0,2,M,3,/,1,5,8,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B,6,0,L,2,2,1,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B,6,0,L,2,2,1,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,1,0
+    B,6,0,L,2,2,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,2,0
+    H,0,2,J,2,0,0,1,/,0,0,8
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,2,3,1,0,/,0,0
+    H,0,2,J,2,3,1,0,/,4,0
+    H,0,2,J,2,3,1,0,/,4,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y,0,2,T,1,0,/,6,2,1,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,0,5
+    Y,0,2,T,1,0,/,7,0,4,4
+    Y,0,2,T,1,0,/,7,0,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y,0,2,T,1,0,/,7,0,7,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,2,5
+    Y,0,2,T,1,0,/,7,2,3,3
+    Y,0,2,T,1,0,/,7,2,4,1
+    Y,0,2,T,1,0,/,7,2,7,5
+    Y,1,0,T,3,0,7,/,5,4,9
+
+application_events
+7
+    2011-09-27,Application filed by Toyota Motor Corp
+    2014-03-25,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2014-08-14,Publication of US20140225430A1
+    2016-01-12,Application granted
+    2016-01-12,Publication of US9236736B2
+    Status,Active
+    2032-02-08,Adjusted expiration
+
+active_area
+5
+    J,P
+    U,S
+    C,N
+    E,P
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2011/071987,2011-09-27,Power supply system and method for controlling same
+
+legal_event
+5
+    Date,Code,Title,Description
+    2014-03-25,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:OYOBE, HICHIROSAI;NAKAMURA, MAKOTO;KAMIYA, MUNEHIRO;REEL/FRAME:032521/0220Effective date: 20140225
+    2015-12-22,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2019-06-27,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+    2023-06-28,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+

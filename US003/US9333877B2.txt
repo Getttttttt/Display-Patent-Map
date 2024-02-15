@@ -1,0 +1,285 @@
+ID
+    US9333877B2
+citation_exist
+    Patent Citations (10)
+citation_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2006298064A,2005-04-18,2006-11-02,Nissan Motor Co Ltd,Vehicle creep control apparatus
+    JP2007097250A,2005-09-27,2007-04-12,Nissan Motor Co Ltd,Vehicle driving force controller
+    KR20130136780A,2012-06-05,2013-12-13,현대자동차주식회사,Motor torque control system for green car and method thereof
+    Family To Family Citations,,,,
+    JP2006199213A                      *,2005-01-21,2006-08-03,Toyota Motor Corp,Power output device and automobile mounted with the same and method for controlling power output device
+    KR100962783B1                      *,2007-12-13,2010-06-09,현대자동차주식회사,Motor torque limit method of hybrid electric vehicle
+    US20120279793A1                      *,2010-01-22,2012-11-08,Akira Kikuchi,Electrically driven vehicle
+    JP5096552B2                      *,2010-12-28,2012-12-12,アイシン・エーアイ株式会社,Vehicle power transmission control device
+    KR20130053036A                      *,2011-11-14,2013-05-23,현대자동차주식회사,System and method for controlling creep torque of vehicle
+    CN102887081B                      *,2012-09-27,2015-12-16,重庆长安汽车股份有限公司,A kind of control method of uphill starting of new-energy automobile
+    CN103557319B                      *,2013-10-31,2016-02-24,长城汽车股份有限公司,A kind of automatic gear automobile low speed crawling controlling method
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (21)
+              
+
+
+citedBy_infor
+23
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    KR101795130B1                      *,2015-04-16,2017-12-01,현대자동차주식회사,Apparatus for controlling creep driving of electric vehicle and method therof
+    KR101875641B1                      *,2016-04-08,2018-07-06,현대자동차 주식회사,System and method for torque control of electric vehicle
+    CN105904997B                      *,2016-05-26,2018-05-18,重庆长安汽车股份有限公司,A kind of pure electric automobile low speed moves safely vehicle control method and device
+    KR20180051273A                      *,2016-11-08,2018-05-16,현대자동차주식회사,Method for controlling driving of vehicle using driving information of vehicle and vehicle using the same
+    KR102394562B1                      *,2016-12-13,2022-05-04,현대자동차 주식회사,Method and appratus for heating lambda sensor of mild hybrid electric vehicle
+    CN106627253B                      *,2017-01-04,2019-05-24,重庆长安新能源汽车科技有限公司,A kind of automobile crawling control method and system
+    FR3070347B1                      *,2017-08-22,2019-08-16,Psa Automobiles Sa,MONITORING TIMES OF TRIGGERING BY A THERMAL MOTOR AND NON-THERMAL MOTOR MACHINE OF A HYBRID VEHICLE
+    KR102440503B1                      *,2017-10-11,2022-09-06,현대자동차주식회사,Method for Setting EV On/Off Line of Hybrid Vehicle
+    CN109720214A                      *,2017-10-30,2019-05-07,长城汽车股份有限公司,Car ramp crawling control method and vehicle
+    DE102017221986A1                      *,2017-12-06,2019-06-06,Zf Friedrichshafen Ag,Method and control device for operating an electric vehicle or a hybrid vehicle
+    GB2571334B,2018-02-26,2021-02-10,Jaguar Land Rover Ltd,Control system for a vehicle
+    CN108583367B                      *,2018-04-04,2020-03-13,威马智慧出行科技（上海）有限公司,Motor creep working condition switching coordination control method and system for electric automobile
+    CN108437853A                      *,2018-05-16,2018-08-24,江铃汽车股份有限公司,Electric vehicle is from torque control method when being transitioned into crawling more than crawl speed
+    KR102518590B1                      *,2018-06-04,2023-04-05,현대자동차 주식회사,Vehicle braking system and control method thereof
+    CN111572544B                      *,2019-02-18,2021-08-24,上海汽车集团股份有限公司,Vehicle control method and device
+    CN109774721B                      *,2019-02-28,2021-08-20,国机智骏汽车有限公司,Speed closed-loop control system and method and electric automobile
+    CN110194141B                      *,2019-05-29,2020-11-24,中国第一汽车股份有限公司,Crawling control method and device, transmission and vehicle
+    CN111038283A                      *,2020-01-15,2020-04-21,江铃汽车股份有限公司,Maximum speed limiting method of electric automobile based on acceleration advanced control
+    CN114513743A                      *,2020-11-17,2022-05-17,上海汽车集团股份有限公司,Electric vehicle parking method and related device
+    CN112644409B                      *,2020-12-29,2022-07-22,长城汽车股份有限公司,Vehicle control method and device
+    CN114590236B                      *,2021-03-29,2023-04-28,长城汽车股份有限公司,Electric vehicle control method and device, storage medium and vehicle
+
+abstract
+    A method of controlling a creep torque of a vehicle includes: determining whether the vehicle is in a creep driving state based on an accelerator pedal position value; determining whether a vehicle speed is greater than a set vehicle speed; determining at a first time whether a deceleration condition is satisfied when the vehicle speed is greater than the set vehicle speed; when the deceleration condition is satisfied at the first time, storing a first time at which the deceleration condition is satisfied and determining whether a deceleration release condition is satisfied; when it is determined that the deceleration release condition is satisfied, determining at a second time whether the deceleration condition is satisfied; and when it is determined that the deceleration condition is satisfied at the second time, storing the second time at which the deceleration condition is satisfied.
+title
+    Method and apparatus for controlling creep torque for vehicle including driving motor
+similar_document
+26
+    Publication,Publication Date,Title
+    US9333877B2,2016-05-10,Method and apparatus for controlling creep torque for vehicle including driving motor
+    US9278682B2,2016-03-08,System and method for controlling auto cruise of hybrid electric vehicle
+    US9096221B2,2015-08-04,Method and system for controlling charging and discharging for a hybrid vehicle
+    US9365121B2,2016-06-14,Method and system for controlling charge and discharge of battery
+    US9475489B2,2016-10-25,Method and system for controlling running mode change for hybrid vehicle
+    EP3069920A1,2016-09-21,Apparatus and method for controlling battery state of charge in hybrid electric vehicle
+    US8725339B2,2014-05-13,Method for controlling a hybrid traction assembly and hybrid vehicle controlled according to such a method
+    US20140163793A1,2014-06-12,Method and system for controlling an engine start for hybrid vehicle when a starter motor is in trouble
+    US20160375892A1,2016-12-29,System and method for engine stop control of hybrid vehicle
+    US20160107634A1,2016-04-21,System and method for controlling torque of hybrid vehicle
+    US9481251B2,2016-11-01,Method and apparatus for controlling regenerative braking of hybrid electric vehicle
+    US9796290B2,2017-10-24,Method and apparatus of controlling output voltage of DC converter for vehicle including driving motor
+    US9561726B2,2017-02-07,Apparatus and method for calculating regenerative braking amount of hybrid electric vehicle
+    US9254840B2,2016-02-09,Apparatus, system and method for controlling engine starting while shifting of hybrid electric vehicle
+    US9371069B2,2016-06-21,Apparatus and method for controlling engine clutch of hybrid electric vehicle
+    US9533675B2,2017-01-03,Method for controlling battery of mild hybrid vehicle
+    US20160068151A1,2016-03-10,Method for controlling coasting torque of hybrid vehicle
+    US20150005999A1,2015-01-01,System and method for controlling driving mode of hybrid vehicle
+    US20140032027A1,2014-01-30,Vehicle and vehicle control method
+    US10000196B2,2018-06-19,Apparatus and method for controlling torque reduction of hybrid electric vehicle
+    US9862372B2,2018-01-09,Method and apparatus for controlling engine start for hybrid electric vehicle
+    US11352001B2,2022-06-07,Method for controlling deceleration of environmentally friendly vehicle
+    US9446764B2,2016-09-20,System and method for controlling engine clutch of hybrid vehicle
+    EP3000640A1,2016-03-30,System and method for controlling charging of hybrid vehicle
+    US9791039B1,2017-10-17,Apparatus and method for shift control of vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    25
+classfication_items
+152
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,6,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,5,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,1,0
+    B,6,0,W,4,0,/,1,0,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,8
+    B,6,0,L,2,2,4,0,/,4,8,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,0
+    B,6,0,L,2,2,4,0,/,5,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,8,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2014-12-03,Application filed by Hyundai Motor Co
+    2014-12-03,Assigned to HYUNDAI MOTOR COMPANY
+    2016-02-18,Publication of US20160046205A1
+    2016-05-10,Application granted
+    2016-05-10,Publication of US9333877B2
+    Status,Active
+    2034-12-03,Anticipated expiration
+
+active_area
+3
+    K,R
+    U,S
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    KR1020140106922A,2014-08-18,Method and apparatus of controlling creep torque for vehicle including driving motor
+    KR10-2014-0106922,2014-08-18,
+
+legal_event
+6
+    Date,Code,Title,Description
+    2014-12-03,AS,Assignment,Owner name: HYUNDAI MOTOR COMPANY, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:PARK, DAERO;CHO, JAE HOON;REEL/FRAME:034359/0711Effective date: 20141126
+    2015-12-08,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYFree format text: PAYER NUMBER DE-ASSIGNED (ORIGINAL EVENT CODE: RMPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2016-04-20,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2019-10-22,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+    2023-10-23,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+

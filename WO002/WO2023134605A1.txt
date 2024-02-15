@@ -1,0 +1,110 @@
+ID
+    WO2023134605A1
+citation_exist
+    Patent Citations (6)
+citation_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    WO2019188544A1                      *,2018-03-26,2019-10-03,いすゞ自動車株式会社,回生制御装置
+    CN111038512A                      *,2019-12-25,2020-04-21,联合汽车电子有限公司,车辆减速控制方法及整车控制器
+    CN111959286A                      *,2020-08-31,2020-11-20,东风汽车集团有限公司,一种电动汽车滑行能量回收强度控制方法、装置及介质
+    CN112455436A                      *,2020-11-27,2021-03-09,联合汽车电子有限公司,车辆减速控制方法及整车控制器
+    CN113511081A                      *,2021-06-03,2021-10-19,北京车和家信息技术有限公司,一种电动汽车自适应能量回收的控制方法及装置
+    CN115107525A                      *,2022-01-14,2022-09-27,长城汽车股份有限公司,一种汽车自适应能量回收方法、装置及汽车
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    CN115107525A                      *,2022-01-14,2022-09-27,长城汽车股份有限公司,一种汽车自适应能量回收方法、装置及汽车
+
+abstract
+    本申请公开了一种汽车自适应能量回收方法、装置及汽车，当检测到本车辆即将进入减速需求场景时，获取本车辆的当前车速以及与当前车速对应的第一减速度，将当前车速按照第一减速度进行减速，得到本车辆在滑行状态下经过一个预设减速周期后的预测车速以及本车辆与前方车辆之间的预测车距，若预测车速与前方车辆的车速相等且预测车距等于安全车距，则此时向驾驶员输出滑行提示信息，从而可以使得本车辆在进行能量回收后，与前方车辆之间的车距相对稳定且维持在安全车距，有效避免因车距过大出现踩油门加速带来的能量转换损失，以及因车距过小出现主动制动带来的机械摩擦损失，实现最大能量回收并能保证驾驶的舒适性。
+title
+    一种汽车自适应能量回收方法、装置及汽车
+similar_document
+26
+    Publication,Publication Date,Title
+    US10532743B2,2020-01-14,Method for controlling motor torque in electric vehicle
+    JP5253873B2,2013-07-31,ハイブリッド車両の運転者要求トルクの制御方法
+    US20130085631A1,2013-04-04,System and method for controlling uphill driving of an electric vehicle
+    US10479361B2,2019-11-19,Apparatus and method for controlling braking of vehicle
+    KR102518656B1,2023-04-06,친환경 차량의 토크 분담식 관성주행제어방법
+    US20130103282A1,2013-04-25,System and method of controlling motor vehicle operation
+    US10906547B2,2021-02-02,Controlling engine idle sailing in a vehicle using relative vehicle speed
+    WO2023134605A1,2023-07-20,一种汽车自适应能量回收方法、装置及汽车
+    CN104417558A,2015-03-18,减速度设定系统、方法以及程序
+    US9791039B1,2017-10-17,Apparatus and method for shift control of vehicle
+    CN114013436A,2022-02-08,一种电动汽车自适应巡航控制的扭矩分配方法
+    US11414076B2,2022-08-16,Vehicle control system
+    KR101886443B1,2018-08-07,감속 주행시 타력 주행 제어 방법 및 이의 저장 매체
+    JP2012205476A,2012-10-22,車両の制御装置
+    CN114633629B,2023-06-20,电动汽车的能量回收方法及电子设备
+    CN112238754B,2022-06-10,一种电动汽车的控制方法、控制器及电动汽车
+    US9610952B2,2017-04-04,Apparatus and method for controlling creep torque of a vehicle
+    US11565694B2,2023-01-31,Cruise control method for hybrid vehicle
+    US11752877B2,2023-09-12,Control device of vehicle
+    CN114312703A,2022-04-12,车辆制动前倾的控制方法、装置、车辆及存储介质
+    US20210101525A1,2021-04-08,Vehicle including electric motor and method of controlling brake lamp for the same
+    JP6686767B2,2020-04-22,電動車両
+    KR20230016729A,2023-02-03,비상등 연동 회생 제동 제어 시스템 및 방법
+    JP6693322B2,2020-05-13,電動車両
+    CN116605059A,2023-08-18,一种纯电动汽车智能滑行能量回收控制方法
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    2
+classfication_items
+12
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+2
+    2023-01-09,Application filed by 长城汽车股份有限公司
+    2023-07-20,Publication of WO2023134605A1
+
+active_area
+1
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    CN202210042422.X,2022-01-14,
+    CN202210042422.XA,2022-01-14,一种汽车自适应能量回收方法、装置及汽车
+
+legal_event
+2
+    Date,Code,Title,Description
+    2023-08-30,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 23739947Country of ref document: EPKind code of ref document: A1
+

@@ -1,0 +1,248 @@
+ID
+    US8788144B2
+citation_exist
+    Patent Citations (11)
+citation_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    US6709075B1                      *,2000-08-07,2004-03-23,Ford Global Technologies, Llc,System and method for braking an electric drive vehicle on a low Mu surface
+    US20050029863A1                      *,2002-06-17,2005-02-10,Brown Todd Allen,Control of regenerative braking during a yaw stability control event
+    US20050103551A1                      *,2003-11-18,2005-05-19,Koji Matsuno,Drive power controller for hybrid vehicle
+    US7104617B2                      *,2002-09-06,2006-09-12,Ford Motor Company,Independent braking and controllability control method and system for a vehicle with regenerative braking
+    US20070038340A1                      *,2005-08-10,2007-02-15,Hitachi, Ltd.,Running controller and electric running control system for electric vehicle
+    US20070108838A1                      *,2005-11-14,2007-05-17,Ford Global Technologies, Llc,Regenerative braking control system and method
+    US20080100129A1                      *,2004-09-09,2008-05-01,Lubbers Mark D,Vehicle System Having Regenerative Brake Control
+    US20080100132A1                      *,2006-10-26,2008-05-01,Gab Bae Jeon,Method for control regenerative braking of electric vehicle
+    US20080228368A1                      *,2004-06-24,2008-09-18,Jochen Fuhrer,Method for Controlling a Brake System of a Motor Vehicle with All-Wheel Drive
+    US20090115246A1                      *,2005-06-27,2009-05-07,Honda Motor Co., Ltd,Traction Control Device for Vehicle
+    US20100113215A1                      *,2007-04-05,2010-05-06,Continental Teves Ag & Co., Ohg,Method for operating a vehicle brake system and vehicle brake system
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (22)
+              
+
+
+citedBy_infor
+24
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20150112528A1                      *,2013-10-18,2015-04-23,Hyundai Motor Company,Method and system for controlling anti-lock brake system operation of vehicle
+    US20150217741A1                      *,2014-01-31,2015-08-06,Hitachi Automotive Systems, Ltd.,Brake control system
+    US20160214486A1                      *,2013-09-26,2016-07-28,Hitachi Automotive Systems, Ltd.,Control device for electric vehicle
+    US9637004B2,2015-06-18,2017-05-02,E-Aam Driveline Systems Ab,System and method for delimiting regenerative braking
+    US9958049B1,2017-05-15,2018-05-01,E-Aam Driveline Systems Ab,Electric drive module with Ravigneaux gearset
+    US10316946B2,2017-10-13,2019-06-11,E-Aam Driveline Systems Ab,Two mode electric drive module with Ravigneaux gearset
+    US10399440B2,2017-06-15,2019-09-03,Ford Global Technologies, Llc,Methods and system for regenerative hybrid vehicle braking
+    EP3575130A1                      *,2018-05-30,2019-12-04,Mando Corporation,Vehicle control system and method of controlling the same, and braking device
+    US11230196B2                      *,2010-03-29,2022-01-25,Wrightspeed, Inc.,Vehicle dynamics control in electric drive vehicles
+    US11548495B2,2017-10-11,2023-01-10,Cummins Inc.,Torque deration in response traction control events
+    US11548393B2                      *,2018-09-06,2023-01-10,Audi Ag,Braking method and system for an electric vehicle
+    Family To Family Citations,,,,
+    US8645040B2                      *,2010-05-06,2014-02-04,GM Global Technology Operations LLC,Method for operating a vehicle brake system
+    US9327731B2                      *,2012-02-03,2016-05-03,Arvinmeritor Technology, Llc,Method of controlling a brake system for a vehicle
+    EP2823985B1                      *,2012-03-07,2021-02-17,Nissan Motor Co., Ltd,Brake control device
+    US9878621B2                      *,2012-12-08,2018-01-30,Ford Global Technologies, Llc,System and method for improved ABS performance during parallel regenerative braking
+    DE102013214806A1                      *,2013-03-19,2014-09-25,Continental Teves Ag & Co. Ohg,Method for operating a brake system
+    US10086811B2,2013-04-30,2018-10-02,Arvinmeritor Technology, Llc,Brake system and method of control
+    US9193339B2,2013-11-22,2015-11-24,Arvinmeritor Technology, Llc,Vehicle brake system and method of control
+    US11027613B2                      *,2014-02-03,2021-06-08,Ford Global Technologies, Llc,Regenerative braking control system and method
+    US20150291138A1                      *,2014-04-14,2015-10-15,Ford Global Technologies, Llc,Increased vehicle braking gradient
+    US10087869B2                      *,2016-03-31,2018-10-02,Nissan North America, Inc.,Vehicle anti-lock exhaust brake control system
+    WO2022091272A1                      *,2020-10-28,2022-05-05,日産自動車株式会社,Method for controlling electric vehicle and system for controlling electric vehicle
+
+abstract
+    A method for adjusting braking in a vehicle having wheels and a regenerative braking system is provided. The method comprises the steps of providing regenerative braking torque for the vehicle via the regenerative braking system at a first level if a wheel slip of the vehicle is not present, and providing regenerative braking torque for the vehicle via the regenerative braking system at one of a plurality of modulated levels if the wheel slip is present. Each of the plurality of modulated levels is dependent on a magnitude, a location, or both, of the wheel slip. Each of the modulated levels is less than the first level.
+title
+    Braking torque adjustments based on wheel slip
+similar_document
+26
+    Publication,Publication Date,Title
+    US8788144B2,2014-07-22,Braking torque adjustments based on wheel slip
+    US20120133202A1,2012-05-31,Dynamic regenerative braking torque control
+    US8620547B2,2013-12-31,Methods and systems for controlling braking of a vehicle when the vehicle is stationary
+    US9527484B2,2016-12-27,Regenerative braking control using a dynamic maximum regenerative braking torque calculation
+    US8315751B2,2012-11-20,Methods, program products, and systems for controlling braking in a hybrid vehicle
+    US8485612B2,2013-07-16,Method and system for controlling vehicle braking
+    US20220126801A1,2022-04-28,Wheel slip based vehicle motion management for heavy duty vehicles
+    US8521391B2,2013-08-27,Methods and systems for brake pedal tuning and braking control in vehicles
+    US20090082935A1,2009-03-26,Methods and systems to control braking of a trailer hitched to a vehicle
+    US10647320B2,2020-05-12,Method and a system for controlling vehicle speed
+    MX2014003905A,2014-08-27,A towing vehicle controller providing brake control to a towed vehicle and method.
+    US11072337B2,2021-07-27,Method for ascertaining the coefficient of friction between a vehicle wheel and the roadway
+    US11479221B2,2022-10-25,Method for estimating the achievable total braking forces for the automated deceleration of a utility vehicle, braking system and utility vehicle having said braking system
+    AU2015309172B2,2019-02-21,Managing vehicle deceleration
+    US8209100B2,2012-06-26,Methods and systems for controlling braking in vehicles
+    US8180545B2,2012-05-15,Methods and systems for calibrating braking systems and controlling braking in vehicles
+    US8634994B2,2014-01-21,Methods and systems for vehicle control during braking of the vehicle
+    CN102464017B,2015-04-29,Understeer assessment for vehicles
+    US9162657B2,2015-10-20,Automotive braking system
+    US8620555B2,2013-12-31,Wheel slip determination for vehicles
+    JP4328746B2,2009-09-09,Method and apparatus for managing inner and outer brakes for deceleration vehicle during bend running
+    US20110049974A1,2011-03-03,Methods and systems for braking different axles of a vehicle using a deceleration value
+    CN114475276A,2022-05-13,Control method and system for torque of driving motor
+    JP2004224262A,2004-08-12,Automatic brake controller
+    WO2019162482A1,2019-08-29,Vehicle control method and apparatus
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    US12/627,604,2009-11-30,2009-11-30,Braking torque adjustments based on wheel slip
+    DE102010052166A,2009-11-30,2010-11-22,Brake torque adjustments based on wheel slip
+
+inventor_number
+    5
+classfication_nums
+    17
+classfication_items
+101
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,6
+    B,6,0,T,8,/,1,7,6,3
+    B,6,0,T,8,/,1,7,6,3,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,2,6
+    B,6,0,W,2,5,2,0,/,2,6,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,2,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,2
+
+application_events
+7
+    2009-11-30,Priority to US12/627,604
+    2009-11-30,Application filed by GM Global Technology Operations LLC
+    2011-06-02,Publication of US20110130937A1
+    2014-07-22,Publication of US8788144B2
+    2014-07-22,Application granted
+    Status,Expired - Fee Related
+    2032-10-21,Adjusted expiration
+
+active_area
+0
+
+not_active_area
+2
+    U,S
+    D,E
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US12/627,604,2009-11-30,Braking torque adjustments based on wheel slip
+
+legal_event
+16
+    Date,Code,Title,Description
+    2009-11-30,AS,Assignment,Owner name: GM GLOBAL TECHNOLOGY OPERATIONS, INC., MICHIGANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:KRUEGER, ERIC E.;KIDSTON, KEVIN S.;HOLDORF, ERIC J.;AND OTHERS;SIGNING DATES FROM 20091124 TO 20091130;REEL/FRAME:023580/0876
+    2010-02-25,AS,Assignment,Owner name: UNITED STATES DEPARTMENT OF THE TREASURY, DISTRICTFree format text: SECURITY AGREEMENT;ASSIGNOR:GM GLOBAL TECHNOLOGY OPERATIONS, INC.;REEL/FRAME:023989/0155Effective date: 20090710Owner name: UAW RETIREE MEDICAL BENEFITS TRUST, MICHIGANFree format text: SECURITY AGREEMENT;ASSIGNOR:GM GLOBAL TECHNOLOGY OPERATIONS, INC.;REEL/FRAME:023990/0001Effective date: 20090710
+    2010-11-04,AS,Assignment,Owner name: GM GLOBAL TECHNOLOGY OPERATIONS, INC., MICHIGANFree format text: RELEASE BY SECURED PARTY;ASSIGNOR:UNITED STATES DEPARTMENT OF THE TREASURY;REEL/FRAME:025246/0234Effective date: 20100420
+    2010-11-05,AS,Assignment,Owner name: GM GLOBAL TECHNOLOGY OPERATIONS, INC., MICHIGANFree format text: RELEASE BY SECURED PARTY;ASSIGNOR:UAW RETIREE MEDICAL BENEFITS TRUST;REEL/FRAME:025315/0136Effective date: 20101026
+    2010-11-08,AS,Assignment,Owner name: WILMINGTON TRUST COMPANY, DELAWAREFree format text: SECURITY AGREEMENT;ASSIGNOR:GM GLOBAL TECHNOLOGY OPERATIONS, INC.;REEL/FRAME:025324/0555Effective date: 20101027
+    2011-02-10,AS,Assignment,Owner name: GM GLOBAL TECHNOLOGY OPERATIONS LLC, MICHIGANFree format text: CHANGE OF NAME;ASSIGNOR:GM GLOBAL TECHNOLOGY OPERATIONS, INC.;REEL/FRAME:025781/0299Effective date: 20101202
+    2013-12-06,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2014-06-18,AS,Assignment,Owner name: GM GLOBAL TECHNOLOGY OPERATIONS LLC, MICHIGANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:DRAKE, LEAH L.;PROEFKE, DAVID T.;REEL/FRAME:033131/0896Effective date: 20140618
+    2014-07-02,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2014-11-07,AS,Assignment,Owner name: GM GLOBAL TECHNOLOGY OPERATIONS LLC, MICHIGANFree format text: RELEASE BY SECURED PARTY;ASSIGNOR:WILMINGTON TRUST COMPANY;REEL/FRAME:034287/0001Effective date: 20141017
+    2018-01-11,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551)Year of fee payment: 4
+    2022-03-14,FEPP,Fee payment procedure,Free format text: MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2022-08-29,LAPS,Lapse for failure to pay maintenance fees,Free format text: PATENT EXPIRED FOR FAILURE TO PAY MAINTENANCE FEES (ORIGINAL EVENT CODE: EXP.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2022-08-29,STCH,Information on status: patent discontinuation,Free format text: PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362
+    2022-09-20,FP,Lapsed due to failure to pay maintenance fee,Effective date: 20220722
+

@@ -1,0 +1,321 @@
+ID
+    US10107390B2
+citation_exist
+    Patent Citations (17)
+citation_infor
+19
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20100036575A1                      *,2008-08-08,2010-02-11,Gm Global Technology Operations, Inc.,Vehicle Deceleration Rate Control Method and Apparatus
+    US8070647B2,2007-11-05,2011-12-06,GM Global Technology Operations LLC,Method and apparatus for adapting engine operation in a hybrid powertrain system for active driveline damping
+    US8606483B2,2009-08-12,2013-12-10,GM Global Technology Operations LLC,Road grade coordinated engine control systems
+    EP2743151A1,2012-12-11,2014-06-18,Robert Bosch Gmbh,Control device for a recuperative brake system of a vehicle and method for operating a recuperative brake system of a vehicle
+    US8855844B2,2011-10-11,2014-10-07,Robert Bosch Gmbh,System and method for optimal deceleration of a vehicle using regenerative braking
+    US20150019058A1,2013-07-12,2015-01-15,Stephan P. Georgiev,Regenerative braking regulation in automotive vehicles
+    US20150202964A1                      *,2014-01-17,2015-07-23,Ford Global Technologies, Llc,Hybrid vehicle braking system and method
+    US20150203106A1                      *,2014-01-17,2015-07-23,Ford Global Technologies, Llc,Hybrid vehicle braking limit determination system and method
+    US20150251657A1,2014-03-06,2015-09-10,Ford Global Technologies, Llc,System and method for managing hybrid vehicle regenerative braking
+    US20150291171A1,2012-10-31,2015-10-15,Toyota Jidosha Kabushiki Kaisha,Vehicle travel controller
+    US9187081B2,2013-09-25,2015-11-17,Ford Global Technologies, Llc,Regenerative braking and torque converter control
+    US20160009274A1,2012-05-04,2016-01-14,Ford Global Technologies, Llc,Methods and systems for a driveline disconnect clutch
+    US9475495B2                      *,2015-01-07,2016-10-25,Ford Global Technologies, Llc,Torque converter clutch capacity based on regenerative braking request
+    US20160375893A1                      *,2015-06-29,2016-12-29,Ford Global Technologies, Llc,Methods and system for operating a powertrain during regenerative braking
+    US20170015308A1                      *,2015-07-16,2017-01-19,Ford Global Technologies, Llc,Vehicle disconnect clutch pre-stroke strategy
+    US9598085B2                      *,2014-06-12,2017-03-21,Ford Global Technologies, Llc,Regenerative-braking transmission downshift torque limiting
+    US9738268B1                      *,2016-02-23,2017-08-22,Ford Global Technologies, Llc,Deceleration control system for a hybrid vehicle
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (8)
+              
+
+
+citedBy_exist
+    
+              Cited By (9)
+              
+
+
+citedBy_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    US11221068B2                      *,2018-11-30,2022-01-11,International Engine Intellectual Property Company, Llc,Transmission grade sensor rationality and trim algorithm
+    US11345327B2,2018-08-06,2022-05-31,Xl Hybrids, Inc.,Throttle signal controller for a dynamic hybrid vehicle
+    US11499631B2                      *,2018-01-15,2022-11-15,Toyota Jidosha Kabushiki Kaisha,Motor vehicle
+    Family To Family Citations,,,,
+    JP2017114245A                      *,2015-12-22,2017-06-29,ローベルト ボッシュ ゲゼルシャフト ミット ベシュレンクテル ハフツング,Control device and control method
+    US10328913B2,2016-11-18,2019-06-25,International Business Machines Corporation,Facilitation of automatic adjustment of a braking system
+    CN109159783B                      *,2018-08-23,2020-10-09,北京理工大学,Ground parameter estimation method for distributed electrically-driven tracked vehicle
+    CN111516691B                      *,2020-04-10,2021-11-16,吉利汽车研究院（宁波）有限公司,Sliding energy recovery method and system and vehicle
+    US11623640B2                      *,2021-02-22,2023-04-11,Ford Global Technologies, Llc,Methods and systems for assistive action of a vehicle
+    FR3132488A1                      *,2022-02-07,2023-08-11,Psa Automobiles Sa,Method and device for controlling a vehicle driving assistance system
+
+abstract
+    A vehicle may include a controller configured to, in response to an accelerator pedal release and an expected regenerative braking event, increase an engagement pressure of a torque converter clutch prior to occurrence of the event to a threshold that is based on a regenerative braking torque estimate associated with the event such that during the event, the clutch transfers more torque than the converter.
+title
+    Torque converter clutch engagement pressure
+similar_document
+23
+    Publication,Publication Date,Title
+    US10267412B2,2019-04-23,Upshift control for regenerative braking
+    US10107390B2,2018-10-23,Torque converter clutch engagement pressure
+    US10106149B2,2018-10-23,Torque converter clutch engagement pressure control for regenerative braking
+    US10336334B2,2019-07-02,Regenerative braking downshift control using predictive information
+    US9327709B2,2016-05-03,Cancelling creep torque in a hybrid vehicle
+    US9415773B2,2016-08-16,Predictive engine pull up and pull down in hybrid vehicle
+    US9440654B2,2016-09-13,Hybrid vehicle and method of controlling a hybrid vehicle with mode selection based on look ahead data
+    US9026296B1,2015-05-05,System for controlling overall coasting torque in a hybrid electric vehicle
+    US9783183B2,2017-10-10,Battery charging strategy in a hybrid vehicle
+    US9932031B2,2018-04-03,System and method for hybrid vehicle engine starts
+    US9358969B2,2016-06-07,Load-based vehicle operating control
+    US9365211B2,2016-06-14,Delay changing on/off state of engine during cruise control in a hybrid vehicle
+    CN108819936B,2023-07-21,Regenerative braking efficiency optimization in a hybrid vehicle
+    US9827969B2,2017-11-28,Controlling powertrain torque in a hybrid vehicle
+    US10106148B2,2018-10-23,Electric machine torque control during transient phase of bypass clutch
+    US9738268B1,2017-08-22,Deceleration control system for a hybrid vehicle
+    US20170080923A1,2017-03-23,Inhibit engine pull-down based on past driving history
+    US10150371B2,2018-12-11,Regenerative braking method
+    US20210053552A1,2021-02-25,Hill descent control system for a hybrid/electric vehicle
+    US9296380B2,2016-03-29,Prestroking engine disconnect clutch in a hybrid vehicle
+    US11623627B2,2023-04-11,Engine start control system for a hybrid vehicle
+    US11708007B2,2023-07-25,Control systems and methods for modifying a battery state of charge signal
+
+patent_application
+    NoExist
+patent_priority_application
+4
+    Application,Priority date,Filing date,Title
+    US15/258,541,2016-09-07,2016-09-07,Torque converter clutch engagement pressure
+    CN201710794079.3A,2016-09-07,2017-09-06,Torque converter clutch engagement pressure
+    DE102017120494.6A,2016-09-07,2017-09-06,INCOMPATIBILITY PRESSURE OF A TORQUE CONVERSION COUPLING
+
+inventor_number
+    4
+classfication_nums
+    31
+classfication_items
+192
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,6,1,/,0,0
+    F,1,6,H,6,1,/,1,4
+    F,1,6,H,6,1,/,1,4,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,3,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,3,8
+    B,6,0,K,6,/,3,8,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B,6,0,L,1,5,/,2,0,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,2
+    B,6,0,W,1,0,/,0,2,4
+    B,6,0,W,1,0,/,0,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B,6,0,W,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,4,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,4
+    B,6,0,W,3,0,/,1,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,0,2
+    B,6,0,W,4,0,/,0,6
+    B,6,0,W,4,0,/,0,7,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B,6,0,K,2,0,0,6,/,4,8,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B,6,0,L,2,2,4,0,/,6,4,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,2,0,5,0,/,0,0,0,1
+    B,6,0,W,2,0,5,0,/,0,0,4,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,2,/,0,0
+    B,6,0,W,2,5,5,2,/,1,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,2,/,0,0
+    B,6,0,W,2,5,5,2,/,2,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,4,/,0,0
+    B,6,0,W,2,5,5,4,/,8,0
+    B,6,0,W,2,5,5,4,/,8,0,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,2
+    B,6,0,W,2,7,1,0,/,0,2,1
+    B,6,0,W,2,7,1,0,/,0,2,4
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,1,8
+    B,6,0,Y,2,3,0,0,/,1,8,0,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,2,5
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,5,9,/,0,0
+    F,1,6,H,5,9,/,1,4
+    F,1,6,H,5,9,/,1,8
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,5,9,/,0,0
+    F,1,6,H,5,9,/,6,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+7
+    2016-09-07,Application filed by Ford Global Technologies LLC
+    2016-09-07,Priority to US15/258,541
+    2018-03-08,Publication of US20180066753A1
+    2018-10-23,Application granted
+    2018-10-23,Publication of US10107390B2
+    Status,Active
+    2036-12-13,Adjusted expiration
+
+active_area
+3
+    U,S
+    D,E
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US15/258,541,2016-09-07,Torque converter clutch engagement pressure
+
+legal_event
+4
+    Date,Code,Title,Description
+    2016-09-09,AS,Assignment,Owner name: FORD GLOBAL TECHNOLOGIES, LLC, MICHIGANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:ZHAO, YANAN;NEFCY, BERNARD D.;KUANG, MING LANG;SIGNING DATES FROM 20160822 TO 20160829;REEL/FRAME:039688/0345
+    2018-10-03,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2022-03-09,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

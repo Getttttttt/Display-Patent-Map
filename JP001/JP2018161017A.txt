@@ -1,0 +1,185 @@
+ID
+    JP2018161017A
+citation_exist
+    Patent Citations (10)
+citation_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JPS6019904B2,1980-11-10,1985-05-18,昭和電工株式会社,Ｎ−フエニル−ジクロルマレイミド誘導体及び農園芸用殺菌剤
+    JPH0681430B2                      *,1988-05-06,1994-10-12,株式会社日立製作所,自動車用充電発電機の制御装置
+    JP2708856B2                      *,1989-03-15,1998-02-04,株式会社日立製作所,自動車用充電発電機制御装置
+    JP3684871B2                      *,1998-10-27,2005-08-17,トヨタ自動車株式会社,電力変換器の温度保護制御装置
+    JP4196927B2                      *,2004-10-15,2008-12-17,株式会社デンソー,車両用発電制御装置
+    GB2423652B                      *,2005-02-24,2008-06-11,Alstom,Exciter assemblies
+    JP4703628B2                      *,2007-11-20,2011-06-15,三菱電機株式会社,電力変換器
+    JP4903243B2                      *,2009-05-19,2012-03-28,三菱電機株式会社,発電機装置
+    JP5406263B2                      *,2011-11-10,2014-02-05,三菱電機株式会社,電源監視装置
+    JP6623634B2,2015-09-15,2019-12-25,セイコーエプソン株式会社,物理量センサー、電子機器および移動体
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    【課題】巻線界磁式回転電機において界磁電流を適正に制御する。【解決手段】回転電機ユニット２０は、電機子巻線及び界磁巻線を有する回転電機２１と、複数のスイッチング素子を有し当該スイッチング素子のオンオフに応じて界磁巻線を通電させる界磁回路２３とを備え、発電機能及び力行機能の少なくともいずれかを有する。回転電機ＥＣＵ２４は、パルス幅変調を用いた界磁電流制御によりスイッチング素子のオンオフを制御する。回転電機ＥＣＵ２４は、回転電機２１の動作時において、回転電機２１の状態に基づいて、パルス幅変調のキャリア信号の周波数であるキャリア周波数を設定する設定部と、設定部により設定したキャリア周波数を用いたパルス幅変調により界磁電流を制御する制御部と、を備える。【選択図】 図１
+title
+    回転電機制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP4116292B2,2008-07-09,ハイブリッド車用電動発電システム
+    US7859201B2,2010-12-28,Charge control apparatus, electrically powered vehicle and electric storage charge control method
+    JP5104723B2,2012-12-19,電動機制御装置，駆動装置およびハイブリッド駆動装置
+    KR101283892B1,2013-07-08,친환경 차량에서 ｄｃ-ｄｃ컨버터 제어장치 및 방법
+    US20120249024A1,2012-10-04,Electric motor control device
+    JP5152085B2,2013-02-27,電動車両の電源制御装置
+    CN111201705B,2023-06-13,旋转电机的控制装置
+    US7301247B2,2007-11-27,Power supply device incorporated in vehicle driven by internal combustion engine
+    JP2011109851A,2011-06-02,電源システムの制御装置およびそれを搭載する車両
+    JPWO2019065882A1,2020-04-02,インバータ制御装置
+    JP6299538B2,2018-03-28,回転電機の制御装置
+    JP2010051092A,2010-03-04,充電システムおよびそれを備えた車両
+    JP2011109850A,2011-06-02,電源システムの制御装置およびそれを搭載する車両
+    JP5534323B2,2014-06-25,電動機制御装置
+    JP2011109849A,2011-06-02,電源システムの制御装置およびそれを搭載する車両
+    JP2010104123A,2010-05-06,車両用電源装置
+    JP2018121495A,2018-08-02,回転電機制御装置
+    CN108482102B,2022-11-04,混合动力驱动系统
+    JP6683167B2,2020-04-15,回転電機制御装置、及び電源システム
+    JP4104940B2,2008-06-18,ハイブリッド車両の駆動制御装置
+    JP6711305B2,2020-06-17,回転電機制御装置
+    JP2009284630A,2009-12-03,充電制御装置およびそれを備えた車両
+    CN110626183A,2019-12-31,隔离双总线混合动力车辆动力传动系统
+    US11489475B2,2022-11-01,Power conversion apparatus
+    KR101967561B1,2019-04-09,충전 시스템 및 그 제어 방법
+
+patent_application
+    NoExist
+patent_priority_application
+5
+    Application,Priority date,Filing date,Title
+    JP2017058197A,2017-03-23,2017-03-23,回転電機制御装置
+    PCT/JP2018/008994,2017-03-23,2018-03-08,回転電機制御装置
+    CN201880020108.3A,2017-03-23,2018-03-08,旋转电机控制装置
+    DE112018001552.1T,2017-03-23,2018-03-08,Steuervorrichtung für drehende elektrische Maschine
+
+inventor_number
+    8
+classfication_nums
+    11
+classfication_items
+71
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,7,/,0,0
+    H,0,2,P,2,7,/,0,4
+    H,0,2,P,2,7,/,0,6
+    H,0,2,P,2,7,/,0,8
+    H,0,2,P,2,7,/,0,8,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,2
+    B,6,0,L,1,5,/,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,5,/,0,0
+    H,0,2,P,2,5,/,0,2
+    H,0,2,P,2,5,/,0,2,2
+    H,0,2,P,2,5,/,0,2,4
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,5,/,0,0
+    H,0,2,P,2,5,/,0,2
+    H,0,2,P,2,5,/,0,2,2
+    H,0,2,P,2,5,/,0,3
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,9,/,0,0
+    H,0,2,P,9,/,1,4
+    H,0,2,P,9,/,2,6
+    H,0,2,P,9,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,1,0,1,/,0,0
+    H,0,2,P,2,1,0,1,/,4,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+
+application_events
+8
+    2017-03-23,Application filed by Denso Corp
+    2017-03-23,Priority to JP2017058197A
+    2018-10-11,Publication of JP2018161017A
+    2019-09-12,Publication of JP2018161017A5
+    2020-06-17,Application granted
+    2020-06-17,Publication of JP6711305B2
+    Status,Active
+    2037-03-23,Anticipated expiration
+
+active_area
+4
+    J,P
+    W,O
+    D,E
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2017058197A,2017-03-23,回転電機制御装置
+
+legal_event
+8
+    Date,Code,Title,Description
+    2019-07-31,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20190731
+    2019-07-31,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20190731
+    2020-04-17,TRDD,Decision of grant or rejection written,
+    2020-04-28,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20200428
+    2020-06-01,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20200511
+    2020-06-01,R151,Written notification of patent or utility model registration,Ref document number: 6711305Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R151
+    2023-05-25,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+

@@ -1,0 +1,291 @@
+ID
+    US10202048B2
+citation_exist
+    Patent Citations (21)
+citation_infor
+23
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20040158483A1                      *,2003-02-10,2004-08-12,Lecouturier Jacques M.,Business and technological method for a flexible automobile sharing transit on demand
+    US20040230376A1,2003-03-13,2004-11-18,Shinji Ichikawa,Vehicle traveling speed pattern estimation device/method
+    US20050274553A1,2004-06-09,2005-12-15,Salman Mutasim A,Predictive energy management system for hybrid electric vehicles
+    US20090125160A1                      *,2007-11-13,2009-05-14,Desai Shitalkumar V,Relieving Urban Traffic Congestion
+    US20100201505A1,2007-07-10,2010-08-12,Souroush Honary,Occupancy Declaration/Verification For Passenger Transport Conveyances
+    US8306730B2,2008-11-28,2012-11-06,Mitsubishi Electric Corporation,Navigation system
+    US20130141574A1                      *,2011-12-06,2013-06-06,Xerox Corporation,Vehicle occupancy detection via single band infrared imaging
+    US20130147959A1                      *,2011-12-13,2013-06-13,Xerox Corporation,Determining a pixel classification threshold for vehicle occupancy detection
+    US20130307932A1                      *,2012-05-21,2013-11-21,Xerox Corporation,3d imaging using structured light for accurate vehicle occupancy detection
+    US20130339072A1,2010-12-15,2013-12-19,Aisin Seiki Kabushiki Kaisha,Electric vehicle charge scheduling method and charge scheduling device
+    US20140032098A1                      *,2012-07-26,2014-01-30,Garmin Switzerland Gmbh,Navigation device and method for guiding high-occupancy vehicles
+    JP2014015125A,2012-07-09,2014-01-30,Toyota Motor Corp,Control device for hybrid vehicle
+    US20140188376A1                      *,2012-12-30,2014-07-03,Robert Gordon,Management Center Module for Advanced Lane Management Assist for Automated Vehicles and Conventionally Driven Vehicles
+    US20140313057A1                      *,2013-04-17,2014-10-23,Hovtag Llc,Managing vehicular traffic on a roadway
+    US8942919B2,2010-10-27,2015-01-27,Honda Motor Co., Ltd.,BEV routing system and method
+    US9151626B1,2014-04-11,2015-10-06,Nissan North America, Inc.,Vehicle position estimation system
+    US20150294168A1                      *,2014-04-10,2015-10-15,Xerox Corporation,Method and apparatus for an adaptive threshold based object detection
+    US20150324653A1                      *,2014-05-09,2015-11-12,Xerox Corporation,Vehicle occupancy detection using passenger to driver feature distance
+    US20170124882A1                      *,2015-10-29,2017-05-04,Faraday&Future Inc.,Methods and systems for electronically assisted lane entrance
+    US20170144650A1                      *,2015-11-19,2017-05-25,Toyota Jidosha Kabushiki Kaisha,Control device for hybrid vehicle
+    US20170178416A1                      *,2015-12-21,2017-06-22,International Business Machines Corporation,Determining vehicle occupancy using sensors
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (7)
+              
+
+
+citedBy_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20180345801A1                      *,2017-06-06,2018-12-06,Toyota Motor Engineering & Manufacturing North America, Inc.,Systems and methods for optimizing battery pre-charging using adjusted traffic predictions
+    Family To Family Citations,,,,
+    CN109808703B                      *,2019-01-15,2021-07-20,北京百度网讯科技有限公司,Remote control method and device for automatic driving automobile
+    CN109887276B                      *,2019-01-30,2020-11-03,北京同方软件有限公司,Night traffic jam detection method based on fusion of foreground extraction and deep learning
+    JP7217427B2                      *,2019-03-15,2023-02-03,パナソニックＩｐマネジメント株式会社,Idle lane running management server device, management method and program
+    CN111016878B                      *,2019-12-05,2021-06-11,浙江吉利汽车研究院有限公司,Single-motor hybrid power system power battery electric quantity balance management system and method
+    CN111862589B                      *,2020-01-13,2022-05-27,北京嘀嘀无限科技发展有限公司,High-capacity lane determining method and device
+    CN113942491B                      *,2021-11-29,2023-10-31,中国北方车辆研究所,Series hybrid power system and networking hybrid power vehicle energy management method
+
+abstract
+    System, methods, and other embodiments described herein relate to preemptively controlling one or more vehicle systems of a vehicle. In one embodiment, a method includes, in response to (i) detecting that a present traffic level along a route of the vehicle satisfies a congestion threshold and (ii) detecting that a type of roadway on which the vehicle is traveling is a highway, determining whether the vehicle is traveling in a high occupancy vehicle (HOV) lane by identifying whether a number of passengers in the vehicle satisfies an HOV threshold. The method includes adjusting the one or more vehicle systems within the vehicle according to whether the number of passengers satisfies the HOV threshold to cause the vehicle to operate efficiently while traveling along the route with the present traffic level.
+title
+    Systems and methods for adjusting operation of a vehicle according to HOV lane detection in traffic
+similar_document
+26
+    Publication,Publication Date,Title
+    US10202048B2,2019-02-12,Systems and methods for adjusting operation of a vehicle according to HOV lane detection in traffic
+    US10202112B2,2019-02-12,Systems and methods for preemptively modifying vehicle parameters according to predicted accelerations when merging
+    US10279810B2,2019-05-07,Systems and methods for preemptively adjusting vehicle parameters according to predicted controls relating to a toll booth
+    US10358129B2,2019-07-23,Systems and methods for dynamic vehicle control according to traffic
+    US20200086861A1,2020-03-19,Systems and methods for predicting vehicle trajectory
+    US11216000B2,2022-01-04,System and method for estimating lane prediction errors for lane segments
+    US20200086859A1,2020-03-19,Systems and methods for estimating the risk associated with a vehicular maneuver
+    US11364929B2,2022-06-21,Systems and methods for shared control of a vehicle
+    US10040453B2,2018-08-07,Systems and methods for preemptively modifying vehicle parameters according to predicted accelerations upon a travel lane clearing
+    US10884410B2,2021-01-05,Systems and methods for determining whether a vehicle is capable of navigating an intersection in an autonomous driving mode
+    US11443636B2,2022-09-13,Systems and methods of platoon leadership as a service
+    US11638131B2,2023-04-25,Dynamic adjustment of vehicular micro cloud properties
+    US11094197B2,2021-08-17,System and method for switching from a curbside lane to a lane-of-interest
+    US11410548B2,2022-08-09,Systems and methods of creating and utilizing dependent vehicular micro clouds
+    US20220314990A1,2022-10-06,Determining a setting for a cruise control
+    US20220063612A1,2022-03-03,Systems and methods for improving path selection for automated driving
+    US11727797B2,2023-08-15,Communicating a traffic condition to an upstream vehicle
+    US11708049B2,2023-07-25,Systems and methods for preventing an operation of a car application that reduces a quality of service of a computer system of a vehicle
+    US20230177958A1,2023-06-08,Systems and methods for activation of intelligent parking availability functions
+    US20230083645A1,2023-03-16,Determining a lane change decision based on a downstream traffic state
+    US20220289244A1,2022-09-15,Systems and methods for estimating motion of an automated vehicle for cooperative driving
+    US11708070B2,2023-07-25,Detecting an object outside of a field of view
+    US11634163B2,2023-04-25,Producing, for an autonomous vehicle, a route from an origination to a destination
+    US20230249690A1,2023-08-10,Systems and methods for road type determination
+    US20230196917A1,2023-06-22,Systems and methods for inferring parking departures
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US15/635,938,2017-06-28,2017-06-28,Systems and methods for adjusting operation of a vehicle according to HOV lane detection in traffic
+
+inventor_number
+    5
+classfication_nums
+    30
+classfication_items
+161
+    B,6,0,L,1,1,/,1,8,6,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,4,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,0,2
+    B,6,0,W,4,0,/,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,0,8
+    G,0,6,K,9,/,0,0,8,3,8
+    G
+    G,0,6
+    G,0,6,V
+    G,0,6,V,2,0,/,0,0
+    G,0,6,V,2,0,/,5,0
+    G,0,6,V,2,0,/,5,9
+    G,0,6,V,2,0,/,5,9,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,4,2,0,/,0,0
+    B,6,0,W,2,4,2,0,/,4,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,4,2,0,/,0,0
+    B,6,0,W,2,4,2,0,/,5,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,4,2,0,/,0,0
+    B,6,0,W,2,4,2,0,/,5,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,4,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,6,/,0,0
+    B,6,0,W,2,5,5,6,/,4,5
+    B,6,0,W,2,5,5,6,/,5,0
+    G
+    G,0,6
+    G,0,6,V
+    G,0,6,V,2,0,/,0,0
+    G,0,6,V,2,0,/,5,0
+    G,0,6,V,2,0,/,5,6
+    G
+    G,0,6
+    G,0,6,V
+    G,0,6,V,2,0,/,0,0
+    G,0,6,V,2,0,/,5,0
+    G,0,6,V,2,0,/,5,9
+    G,0,6,V,2,0,/,5,9,7
+    G
+    G,0,6
+    G,0,6,V
+    G,0,6,V,4,0,/,0,0
+    G,0,6,V,4,0,/,1,0
+    G,0,6,V,4,0,/,1,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+
+application_events
+7
+    2017-06-28,Application filed by Toyota Motor Engineering and Manufacturing North America Inc
+    2017-06-28,Priority to US15/635,938
+    2019-01-03,Publication of US20190001836A1
+    2019-02-12,Application granted
+    2019-02-12,Publication of US10202048B2
+    Status,Active
+    2037-06-28,Anticipated expiration
+
+active_area
+1
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US15/635,938,2017-06-28,Systems and methods for adjusting operation of a vehicle according to HOV lane detection in traffic
+
+legal_event
+6
+    Date,Code,Title,Description
+    2017-07-07,AS,Assignment,Owner name: TOYOTA MOTOR ENGINEERING & MANUFACTURING NORTH AMEFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:PAYNE, JOSHUA D.;WROBEL, SHANNON ALICIA;STEFANON, HERALDO F.;AND OTHERS;REEL/FRAME:042933/0778Effective date: 20170627
+    2018-11-30,AS,Assignment,Owner name: TOYOTA MOTOR ENGINEERING & MANUFACTURING NORTH AMERICA, INC., TEXASFree format text: CHANGE OF ADDRESS;ASSIGNOR:TOYOTA MOTOR ENGINEERING & MANUFACTURING NORTH AMERICA, INC.;REEL/FRAME:047688/0784Effective date: 20181128Owner name: TOYOTA MOTOR ENGINEERING & MANUFACTURING NORTH AMEFree format text: CHANGE OF ADDRESS;ASSIGNOR:TOYOTA MOTOR ENGINEERING & MANUFACTURING NORTH AMERICA, INC.;REEL/FRAME:047688/0784Effective date: 20181128
+    2019-01-23,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2019-05-13,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:TOYOTA MOTOR ENGINEERING & MANUFACTURING NORTH AMERICA, INC.;REEL/FRAME:049159/0031Effective date: 20190212
+    2022-07-27,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

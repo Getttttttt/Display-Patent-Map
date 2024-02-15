@@ -1,0 +1,234 @@
+ID
+    US8765312B2
+citation_exist
+    Patent Citations (22)
+citation_infor
+24
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5678410A                      *,1993-08-06,1997-10-21,Toyota Jidosha Kabushiki Kaisha,Combined system of fuel cell and air-conditioning apparatus
+    US5728483A                      *,1996-03-26,1998-03-17,Sanyo Electric Co., Ltd.,System for storing and utilizing hydrogen
+    JPH1094249A,1996-09-12,1998-04-10,Toshiba Corp,Chopper circuit
+    US6018469A,1997-02-05,2000-01-25,Computer Products, Inc.,Low cost high efficiency power converter
+    US6495025B2                      *,2001-04-20,2002-12-17,Aerovironment, Inc.,Electrochemical oxygen generator and process
+    US6534208B1                      *,1999-10-27,2003-03-18,Ballard Power Systems Ag,Device for generating electrical energy, having a fuel cell
+    US20040058215A1                      *,2000-12-29,2004-03-25,Brueck Rolf,Fuel cell system for mobile applications with latent heat storage, and method for thermally insulating the fuel cell system
+    JP2004201463A,2002-12-20,2004-07-15,Toyota Motor Corp,Voltage conversion device, anomaly detecting method, and computer-readable recording medium with program recorded thereon for causing computer to carry out anomaly detection
+    JP2004201409A,2002-12-18,2004-07-15,Toyota Motor Corp,Power module
+    WO2005076433A1,2004-02-03,2005-08-18,Toyota Jidosha Kabushiki Kaisha,Hybrid fuel cell system and voltage conversion control method thereof
+    WO2006098376A1,2005-03-16,2006-09-21,National University Corporation Yokohama National University,Chopper circuit
+    JP2006311776A,2005-05-02,2006-11-09,Toyota Motor Corp,Multiple-phase voltage converter and vehicle
+    JP2006340535A,2005-06-03,2006-12-14,Mitsumi Electric Co Ltd,Current resonance multi-output dc/dc converter and its control method
+    JP2006340476A,2005-06-01,2006-12-14,Mitsumi Electric Co Ltd,Current resonance multi-phase dc/dc converter and its control method
+    US7169493B2                      *,2003-04-30,2007-01-30,Proton Energy Systems, Inc.,Fuel cell system with thermal management and method of operation thereof
+    JP2007159315A,2005-12-07,2007-06-21,Toyota Motor Corp,Multiple phase converter, hybrid fuel cell system, and power supply control method
+    JP2008017564A,2006-07-03,2008-01-24,Kawamura Electric Inc,Step-up chopper
+    JP2008043146A,2006-08-09,2008-02-21,Matsushita Electric Ind Co Ltd,Power-supply device
+    JP2008245348A,2007-03-26,2008-10-09,Fujitsu Ten Ltd,Device and method for controlling booster circuit
+    US7799310B2                      *,2006-04-07,2010-09-21,The Trustees Of Columbia University In The City Of New York,Systems and methods for generating sulfuric acid
+    US20120074919A1,2009-06-02,2012-03-29,Toyota Jidosha Kabushiki Kaisha,Power supply system
+    Family To Family Citations,,,,
+    JP4229177B2                      *,2006-11-30,2009-02-25,ミツミ電機株式会社,Multi-phase DC-DC converter
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (2)
+              
+
+
+citedBy_exist
+    
+              Cited By (13)
+              
+
+
+citedBy_infor
+15
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP5018966B2                      *,2009-06-11,2012-09-05,トヨタ自動車株式会社,Converter control device
+    DE112011105299B4,2011-05-30,2023-06-15,Toyota Jidosha Kabushiki Kaisha,fuel cell system
+    CN103650311B                      *,2011-07-19,2016-05-25,丰田自动车株式会社,Power-supply system
+    JP2015035850A                      *,2013-08-07,2015-02-19,トヨタ自動車株式会社,Power conversion device
+    EP2949500B1                      *,2014-05-27,2017-05-17,Brusa Elektronik AG,Drive circuit and fuel cell compressor energy supply and regulation unit
+    US9768607B2                      *,2015-05-11,2017-09-19,Infineon Technologies Ag,System and method for a multi-phase snubber circuit
+    DE102015214231A1                      *,2015-07-28,2017-02-02,Robert Bosch Gmbh,Method and device for operating an electrical system
+    DE102017212462A1                      *,2017-07-20,2019-01-24,Siemens Aktiengesellschaft,Galvanically coupled electrical converter
+    JP6922635B2,2017-10-10,2021-08-18,株式会社デンソー,Power converter
+    JP6900909B2                      *,2018-01-10,2021-07-07,トヨタ自動車株式会社,Polyphase converter system
+    JP6954205B2                      *,2018-03-28,2021-10-27,トヨタ自動車株式会社,Power converter
+    JP7094780B2                      *,2018-05-31,2022-07-04,矢崎総業株式会社,DC / DC conversion unit
+    JP7151686B2                      *,2019-10-15,2022-10-12,トヨタ自動車株式会社,Power converter controller and fuel cell system
+
+abstract
+    A load variation detecting section determines whether or not the actual load variation falls below a load variation threshold stored in a memory. If a load variation detecting section determines that a specific time period (for example, one minute) has elapsed since the actual load variation fell below a load variation threshold, a power supply section applies same power to reactors for the respective phases. On the other hand, a heat dissipation property calculating section measures temperature-rise rates of the elements for the respective phases, ranks the rates in order from the one having a higher heat dissipation property, and notifies the priority drive phase determining section of the result. A priority drive phase determining section chooses a phase having the highest heat dissipation property as a priority drive phase.
+title
+    Converter controlling apparatus
+similar_document
+19
+    Publication,Publication Date,Title
+    US8765312B2,2014-07-01,Converter controlling apparatus
+    US9024598B2,2015-05-05,Converter control device
+    US9203314B2,2015-12-01,Converter controlling apparatus and multiphase converter
+    US8896282B2,2014-11-25,Converter controller
+    US8815460B2,2014-08-26,Fuel cell system
+    JP5207055B2,2013-06-12,Converter control device
+    JP5018966B2,2012-09-05,Converter control device
+    JP5464323B2,2014-04-09,Converter control device
+    JP2011019338A,2011-01-27,Converter control apparatus
+    JP5862918B2,2016-02-16,Multiphase converter and design method of multiphase converter
+    JP5787114B2,2015-09-30,Fuel cell system
+    WO2010140255A1,2010-12-09,Converter control device
+    JP2010288366A,2010-12-24,Converter controller
+    JP5333007B2,2013-11-06,Fuel cell system
+    WO2010140227A1,2010-12-09,Converter control device
+    WO2011058407A2,2011-05-19,Soft-switching converter and fuel cell system with same
+    JP2010288365A,2010-12-24,Converter controller
+    JP2011019337A,2011-01-27,Converter control apparatus
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    16
+classfication_items
+101
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H,0,2,M,3,/,0,2
+    H,0,2,M,3,/,0,4
+    H,0,2,M,3,/,1,0
+    H,0,2,M,3,/,1,4,5
+    H,0,2,M,3,/,1,5,5
+    H,0,2,M,3,/,1,5,6
+    H,0,2,M,3,/,1,5,8
+    H,0,2,M,3,/,1,5,8,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,3,0
+    B,6,0,L,5,8,/,3,2
+    B,6,0,L,5,8,/,3,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B,6,0,L,2,2,1,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B,6,0,L,2,2,1,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,1
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,0,0,0,3
+    H,0,2,M,1,/,0,0,3,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,8,0
+    Y,0,2,T,1,0,/,9,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,4,0
+
+application_events
+7
+    2009-06-03,Application filed by Toyota Motor Corp
+    2011-12-02,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2012-04-12,Publication of US20120086417A1
+    2014-07-01,Application granted
+    2014-07-01,Publication of US8765312B2
+    Status,Active
+    2030-07-09,Adjusted expiration
+
+active_area
+5
+    D,E
+    C,N
+    J,P
+    W,O
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2009/060117,2009-06-03,Converter control device
+
+legal_event
+6
+    Date,Code,Title,Description
+    2011-12-02,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:OSADA, YASUHIRO;HASEGAWA, TAKAHIKO;SIGNING DATES FROM 20111111 TO 20111117;REEL/FRAME:027319/0263
+    2014-06-11,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2014-12-03,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2017-12-21,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551)Year of fee payment: 4
+    2021-12-15,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+

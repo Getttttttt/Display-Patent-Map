@@ -1,0 +1,281 @@
+ID
+    US20200164880A1
+citation_exist
+    Patent Citations (5)
+citation_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP5900522B2                      *,2014-01-22,2016-04-06,トヨタ自動車株式会社,Vehicle power supply
+    KR20150133539A                      *,2014-05-20,2015-11-30,현대자동차주식회사,Regenerative braking method for vehicle and apparatus of the same
+    KR101655609B1                      *,2014-12-11,2016-09-07,현대자동차주식회사,Method for controlling battery state of charge in hybrid electric vehicle
+    JP2019187130A                      *,2018-04-12,2019-10-24,トヨタ自動車株式会社,Control system for autonomous vehicle
+    US10625627B2                      *,2018-05-22,2020-04-21,Ford Global Technologies, Llc,Method of remedying lithium plating in a high voltage battery
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP7353337B2,2021-09-30,2023-09-29,本田技研工業株式会社,Vehicle braking control device and vehicle capable of braking control
+    Family To Family Citations,,,,
+
+abstract
+    A braking control system and a braking control method for an environmental-friendly vehicle may forcibly discharge a part of the current charge amount of a battery when it is determined that the current charge amount of the battery reaches a maximum charge amount state by regenerative braking to exclude a regenerative braking prohibition condition according to the maximum charge amount state of the battery. The braking of the vehicle is thereby always performed by a sum of the regenerative braking amount and the hydraulic braking amount to reduce a braking load concentrated on a disk of a hydraulic braking brake.
+title
+    Braking control system and method for an environmentally friendly vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US8330424B2,2012-12-11,Battery&#39;s state-of-charge balancing control method for hybrid vehicle
+    CN109017375B,2021-04-27,Whole vehicle energy distribution method and system and electric vehicle
+    US8712616B2,2014-04-29,Regenerative braking control to mitigate powertrain oscillation
+    US8508067B2,2013-08-13,Motor drive system for hybrid vehicle and method for controlling the same in the event of failure
+    US9873334B2,2018-01-23,Method and system for variably adjusting voltage of LDC for hybrid vehicle
+    US20120056470A1,2012-03-08,Braking control method for electric vehicle
+    US8051932B2,2011-11-08,Method of compensating for auxiliary loads of hybrid vehicle
+    CN106364339B,2020-08-07,Apparatus and method for controlling output voltage of DC converter of vehicle including driving motor
+    US20110118920A1,2011-05-19,Regenerative braking torque compensation device, methods for regenerative braking torque compensation and a hybrid vehicle embodying such devices and methods
+    US10124695B2,2018-11-13,Method and device for controlling output of low voltage DC-DC converter in environmentally friendly vehicle
+    US20160068151A1,2016-03-10,Method for controlling coasting torque of hybrid vehicle
+    US20150183418A1,2015-07-02,Apparatus and method for controlling full load mode of hybrid electric vehicle
+    US9371069B2,2016-06-21,Apparatus and method for controlling engine clutch of hybrid electric vehicle
+    CN107458371B,2021-05-04,Method for controlling torque reduction of hybrid vehicle
+    US10086824B2,2018-10-02,Method and apparatus of determining performance for battery for mild hybrid electric vehicle
+    US10272797B2,2019-04-30,Method and system for controlling charging of low-voltage battery
+    Pisanti et al.,2014,Energy management of through-the-road parallel hybrid vehicles
+    CN107972502B,2023-01-17,Method and device for charging an auxiliary battery of a vehicle comprising a drive motor
+    US10933874B2,2021-03-02,Braking control system and method for an environmentally friendly vehicle
+    US9956953B2,2018-05-01,Apparatus and method for controlling engine of hybrid vehicle
+    JP2012205318A,2012-10-22,Braking device
+    KR20080049203A,2008-06-04,Control method for flow regenerative energy
+    KR20200126135A,2020-11-06,Mileage increase method by using load control of electric vehicle
+    US20230076223A1,2023-03-09,Driving Distribution Apparatus of Drone Unit and Method for Controlling the Same
+    Zhao et al.,2020,Energy Management of Dual Energy Source of Hydrogen Fuel Cell Hybrid Electric Vehicles
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    30
+classfication_items
+174
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B,6,0,W,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,H
+    B,6,0,H,1,/,0,0
+    B,6,0,H,1,/,0,0,3,5,7
+    B,6,0,H,1,/,0,0,3,8,5
+    B,6,0,H,1,/,0,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B,6,0,W,1,0,/,1,8,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,4
+    B,6,0,W,1,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,1,0
+    B,6,0,W,4,0,/,1,0,5
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,1,/,0,0
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,6,/,0,0
+    F,1,6,D,6,6,/,0,2
+    F,1,6,D,6,6,/,0,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,8
+    B,6,0,W,2,7,1,0,/,1,8,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,3,0
+    B,6,0,W,2,7,1,0,/,3,0,5
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,2
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,6,/,0,0
+    F,1,6,D,2,0,6,6,/,0,0,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+
+application_events
+7
+    2019-04-04,Application filed by Hyundai Motor Co, Kia Motors Corp
+    2019-04-09,Assigned to HYUNDAI MOTOR COMPANY, KIA MOTORS CORPORATION
+    2020-05-28,Publication of US20200164880A1
+    2021-03-02,Application granted
+    2021-03-02,Publication of US10933874B2
+    Status,Active
+    2039-06-13,Adjusted expiration
+
+active_area
+2
+    U,S
+    C,N
+
+not_active_area
+1
+    K,R
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    KR1020180137844A,2018-11-12,Braking control system and method for environmental-friendly vehicle
+    KR10-2018-0137844,2018-11-12,
+
+legal_event
+5
+    Date,Code,Title,Description
+    2019-04-04,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2019-04-09,AS,Assignment,Owner name: HYUNDAI MOTOR COMPANY, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:CHO, SUNG HYUN;REEL/FRAME:048828/0774Effective date: 20190409Owner name: KIA MOTORS CORPORATION, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:CHO, SUNG HYUN;REEL/FRAME:048828/0774Effective date: 20190409
+    2020-08-11,STPP,Information on status: patent application and granting procedure in general,Free format text: EX PARTE QUAYLE ACTION MAILED
+    2021-02-10,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

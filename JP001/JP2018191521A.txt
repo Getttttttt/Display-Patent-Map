@@ -1,0 +1,233 @@
+ID
+    JP2018191521A
+citation_exist
+    Patent Citations (9)
+citation_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20100125384A1                      *,2008-10-23,2010-05-20,Hydro-Gear Limited Partnership,Control systems and methods for electric motors of utility vehicles
+    JP2012213253A                      *,2011-03-30,2012-11-01,Aisin Aw Co Ltd,電動機制御装置
+    JP2013048608A                      *,2011-08-31,2013-03-14,Kokusan Denki Co Ltd,電動式作業車両
+    JP2013212006A                      *,2012-03-30,2013-10-10,Kubota Corp,乗用電動作業機
+    JP2015089174A                      *,2013-10-29,2015-05-07,トヨタ自動車株式会社,電動車両
+    Family To Family Citations,,,,
+    JP2001128315A,1999-10-25,2001-05-11,Yamaha Motor Co Ltd,ハイブリッド駆動式移動装置
+    US20120159916A1                      *,2007-01-15,2012-06-28,Kanzaki Kokyukoki Manufacturing Co., Ltd.,Control sysytem for motor-driven lawnmower vehicle
+    JP5830449B2                      *,2012-08-30,2015-12-09,日立オートモティブシステムズ株式会社,電動車駆動システム
+    KR102120290B1                      *,2015-07-29,2020-06-08,닛산 지도우샤 가부시키가이샤,전동 차량의 제어 장치 및 전동 차량의 제어 방법
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (5)
+              
+
+
+citedBy_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    FR3039355B1                      *,2015-07-27,2017-07-14,Pellenc Sa,Tondeuse electrique a lames multiples
+    JP7313109B2                      *,2017-04-24,2023-07-24,株式会社クボタ,電動草刈機
+    US11173780B2                      *,2018-01-04,2021-11-16,Delta Systems, Inc.,Hybrid mower with electric blade control system
+    JP7193415B2                      *,2019-05-21,2022-12-20,株式会社クボタ,モーアユニット
+    WO2020253821A1                      *,2019-06-21,2020-12-24,南京德朔实业有限公司,骑乘式割草机
+
+abstract
+    【課題】バッテリの過充電を回避するための、より改善された回生電力の消費を可能とする電動作業車を提供する。【解決手段】複数のモータを有する電動モータユニットと、インバータを制御することによって、バッテリ２０からの電力を調整して電動モータユニットに供給するモータ制御ユニット５０と、バッテリ２０の充電及び放電を制御する充電制御部５３と、バッテリ２０の充電率を含むバッテリ２０の状態を検出するバッテリ状態検出器９と、回生電力の発生を検出する回生電力検出器６とを備える。モータ制御ユニットは、充電率が過充電領域と充放電領域との間に設定されたマージン領域にあって、かつ回生電力が発生した場合、回生電力を停止中のモータに供給するとともに、ベクトル制御によってモータが回転しないような磁束を発生させる非回転電流指令をインバータに与える。【選択図】図３
+title
+    電動作業車
+similar_document
+26
+    Publication,Publication Date,Title
+    JP7026452B2,2022-02-28,電動作業車
+    US10293853B2,2019-05-21,Vehicle having independently driven and controlled right and left drive wheels
+    JP5740593B2,2015-06-24,電磁ブレーキ付作業車両
+    EP2110295B1,2012-02-29,Electric ground working vehicle
+    US10029571B2,2018-07-24,Electric work vehicle
+    JP4513612B2,2010-07-28,車両のトルク配分制御装置
+    JP2012187025A,2012-10-04,乗用作業車
+    WO2014188962A1,2014-11-27,電気自動車の制御装置
+    JP5847632B2,2016-01-27,乗用電動作業機
+    JP2013032039A,2013-02-14,電動トラクタ
+    US9919697B2,2018-03-20,Work vehicle
+    JP2016048987A,2016-04-07,車輪独立駆動式車両の駆動制御装置
+    JP2004350475A,2004-12-09,作業車両の伝動装置
+    CA2940808C,2018-07-10,Haulage vehicle
+    JP2015154792A,2015-08-27,乗用作業車
+    JP2015085783A,2015-05-07,作業車両
+    JP7012610B2,2022-01-28,電力制御装置
+    CN207790326U,2018-08-31,一种车辆
+    JP6614088B2,2019-12-04,電源システム制御装置
+    JP5902041B2,2016-04-13,電気自動車の速度制御装置
+    JP2020142618A,2020-09-10,作業車両
+    JP6999517B2,2022-01-18,走行制御装置
+    KR102529054B1,2023-05-03,전기자동차의 속도 및 방향 제어시스템
+    JP2013017436A,2013-01-31,移動式電動作業機
+    JP2020145831A,2020-09-10,走行車両
+
+patent_application
+    NoExist
+patent_priority_application
+4
+    Application,Priority date,Filing date,Title
+    JP2017095337A,2017-05-12,2017-05-12,電動作業車
+    US15/833,034,2017-05-12,2017-12-06,Electric work vehicle
+    EP17205991.7A,2017-05-12,2017-12-07,Electric work vehicle
+
+inventor_number
+    8
+classfication_nums
+    17
+classfication_items
+100
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    A
+    A,0,1
+    A,0,1,D
+    A,0,1,D,3,4,/,0,0
+    A,0,1,D,3,4,/,0,0,6
+    A
+    A,0,1
+    A,0,1,D
+    A,0,1,D,3,4,/,0,0
+    A,0,1,D,3,4,/,0,1
+    A,0,1,D,3,4,/,4,1,2
+    A,0,1,D,3,4,/,6,3
+    A,0,1,D,3,4,/,6,4
+    A,0,1,D,3,4,/,6,6
+    A
+    A,0,1
+    A,0,1,D
+    A,0,1,D,3,4,/,0,0
+    A,0,1,D,3,4,/,0,1
+    A,0,1,D,3,4,/,4,1,2
+    A,0,1,D,3,4,/,6,3
+    A,0,1,D,3,4,/,7,6
+    A,0,1,D,3,4,/,7,8
+    A
+    A,0,1
+    A,0,1,D
+    A,0,1,D,6,9,/,0,0
+    A,0,1,D,6,9,/,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,2
+    B,6,0,L,1,5,/,0,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,2
+    B
+    B,6,2
+    B,6,2,D
+    B,6,2,D,1,1,/,0,0
+    B,6,2,D,1,1,/,0,2
+    B,6,2,D,1,1,/,0,4
+    A
+    A,0,1
+    A,0,1,D
+    A,0,1,D,2,1,0,1,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+
+application_events
+9
+    2017-05-12,Application filed by Kubota Corp
+    2017-05-12,Priority to JP2017095337A
+    2017-12-06,Priority to US15/833,034
+    2017-12-07,Priority to EP17205991.7A
+    2018-12-06,Publication of JP2018191521A
+    2022-02-28,Application granted
+    2022-02-28,Publication of JP7026452B2
+    Status,Active
+    2037-05-12,Anticipated expiration
+
+active_area
+3
+    J,P
+    U,S
+    E,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2017095337A,2017-05-12,電動作業車
+
+legal_event
+17
+    Date,Code,Title,Description
+    2019-06-26,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20190626
+    2020-04-27,A977,Report on retrieval,Free format text: JAPANESE INTERMEDIATE CODE: A971007Effective date: 20200427
+    2020-05-26,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20200526
+    2020-07-20,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20200720
+    2021-01-05,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20210105
+    2021-02-25,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20210225
+    2021-08-03,A02,Decision of refusal,Free format text: JAPANESE INTERMEDIATE CODE: A02Effective date: 20210803
+    2021-11-04,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20211104
+    2021-11-04,C60,Trial request (containing other claim documents, opposition documents),Free format text: JAPANESE INTERMEDIATE CODE: C60Effective date: 20211104
+    2021-11-29,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A821Effective date: 20211105
+    2021-12-01,A911,Transfer to examiner for re-examination before appeal (zenchi),Free format text: JAPANESE INTERMEDIATE CODE: A911Effective date: 20211130
+    2021-12-07,C21,Notice of transfer of a case for reconsideration by examiners before appeal proceedings,Free format text: JAPANESE INTERMEDIATE CODE: C21Effective date: 20211207
+    2022-01-07,TRDD,Decision of grant or rejection written,
+    2022-01-18,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20220118
+    2022-02-17,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20220215
+    2022-02-17,R150,Certificate of patent or registration of utility model,Ref document number: 7026452Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R150
+

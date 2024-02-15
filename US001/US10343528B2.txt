@@ -1,0 +1,205 @@
+ID
+    US10343528B2
+citation_exist
+    Patent Citations (13)
+citation_infor
+15
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20120158266A1                      *,2009-09-02,2012-06-21,Toyota Jidosha Kabushiki Kaisha,Brake control device
+    US20130297134A1                      *,2011-01-31,2013-11-07,Suzuki Motor Corporation,Regenerative control device and regenerative control method and hybrid motor vehicle
+    US20140172211A1                      *,2012-12-18,2014-06-19,Kia Motors Corporation,Deceleration control method and system for electric vehicle while coasting
+    US20150038296A1,2012-02-29,2015-02-05,Nissan Motor Co., Ltd.,Shift control system for electric vehicle
+    Family To Family Citations,,,,
+    US5472265A                      *,1992-12-10,1995-12-05,Toyota Jidosha Kabushiki Kaisha,Antilock braking control apparatus for electric vehicle
+    US5615933A                      *,1995-05-31,1997-04-01,General Motors Corporation,Electric vehicle with regenerative and anti-lock braking
+    KR100721060B1                      *,2005-12-07,2007-05-22,주식회사 만도,Brake system of vehicles and its braking method
+    KR101316584B1                      *,2009-09-25,2013-10-15,주식회사 만도,Vehicles braking system and method of controlling the same
+    KR101145622B1                      *,2009-09-25,2012-05-15,기아자동차주식회사,Safety system of hybrid electric vehicle and control method thereof
+    KR101134863B1                      *,2009-11-19,2012-04-20,현대자동차주식회사,Regenerated torque control method of electric vehicle
+    KR101337903B1                      *,2011-05-06,2013-12-09,기아자동차주식회사,Motor control method for decreasing vibration during operation of anti-lock brake system
+    JP2015093571A                      *,2013-11-12,2015-05-18,日立オートモティブシステムズ株式会社,Vehicle control device and vehicle control system
+    KR101715230B1,2015-03-16,2017-03-13,주식회사 에이치시티엠,Nondirectional antenna installed in rotor
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (11)
+              
+
+
+citedBy_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    WO2014052329A1,2012-09-25,2014-04-03,Scoot Networks, Inc.,Systems and methods for regulating vehicle access
+    WO2019204144A1,2018-04-16,2019-10-24,Bird Rides, Inc.,On-demand rental of electric vehicles
+    WO2019204145A1,2018-04-20,2019-10-24,Bird Rides, Inc.,Remotely controlling use of an on-demand electric vehicle
+    KR102518656B1                      *,2018-05-23,2023-04-06,현대자동차주식회사,Method for Inertia Drive Control with Torque Sharing of Eco Friendly Vehicle
+    CN108791252B                      *,2018-06-11,2020-03-17,浙江国自机器人技术有限公司,Brake control method and system of drum brake device and related device
+    US11263690B2,2018-08-20,2022-03-01,Bird Rides, Inc.,On-demand rental of electric vehicles
+    CN110525401A                      *,2019-08-15,2019-12-03,芜湖伯特利汽车安全系统股份有限公司,A method of promoting vehicle braking comfort
+    CN113002501A                      *,2019-12-19,2021-06-22,罗伯特·博世有限公司,Method, device and system for adjusting comfortable braking parking and vehicle
+    CN112660195B                      *,2021-01-04,2023-03-28,中车青岛四方车辆研究所有限公司,Pressure control compensation method and device for locomotive brake control system
+    CN112757908B                      *,2021-01-07,2022-11-15,东风柳州汽车有限公司,Climbing safety optimization method, device, equipment and storage medium
+    CN114274931B                      *,2022-03-03,2022-06-17,万向钱潮股份有限公司,Pressure target decision method for multi-axis commercial vehicle brake-by-wire system
+
+abstract
+    The vehicle control apparatus include: an inputter receive a regenerative braking signal and an anti-lock brake system operation signal output, and a driver's current necessary braking pressure value, in a regenerative braking state and in an ABS started state, a determiner determines whether the input driver's current necessary braking pressure value is in a first state in which the driver's current necessary braking pressure value is less than or equal to a set target pressure value, a calculator configured to calculate a current pressure value corresponding to a coast regeneration torque value when the input driver's current necessary braking pressure value is in the first state and a controller to convert the calculated current pressure value into a ratio of the current pressure value to the driver's current necessary braking pressure value to compensate for the target pressure value, and transmit a compensated target pressure value to the braking apparatus.
+title
+    Vehicle control apparatus and control method thereof
+similar_document
+26
+    Publication,Publication Date,Title
+    US10343528B2,2019-07-09,Vehicle control apparatus and control method thereof
+    JP6361916B2,2018-07-25,Vehicle control apparatus and vehicle control method
+    US9666070B2,2017-05-30,Drive assisting device
+    KR101566751B1,2015-11-06,Method and apparatus for controlling regenerative braking of hybrid vehicle
+    KR101724802B1,2017-04-07,Braking control method for eco-friendly vehicle
+    RU2671429C2,2018-10-31,Vehicle regenerative braking control device
+    US10128780B2,2018-11-13,Method and system for controlling the regenerative braking of a vehicle
+    JP6011572B2,2016-10-19,Automobile
+    KR102353346B1,2022-01-18,Braking control apparatus and method for vehicle
+    KR101566755B1,2015-11-06,Apparatus and method for controlling torque intervention of hybrid vehicle
+    US20160031433A1,2016-02-04,Method and apparatus for controlling speed change of hybrid vehicle
+    JP2007131093A,2007-05-31,Deceleration controller for vehicle
+    CN103895631B,2017-07-07,Regenerative brake coordination control method and hybrid vehicle
+    KR20170068172A,2017-06-19,Hybrid vehicle, and braking method of the same
+    JP2016111878A,2016-06-20,Drive torque controller of vehicle
+    CN105905113B,2019-08-09,For controlling the System and method for of the braking of electric vehicle
+    US10442415B2,2019-10-15,Vehicle control apparatus and control method thereof
+    JP2016005291A,2016-01-12,vehicle
+    JP2010158944A,2010-07-22,Driving force distribution controller of hybrid vehicle
+    KR102224165B1,2021-03-05,A motor torque control method for improving braking linearity of hybrid vehicles
+    JP2017034930A,2017-02-09,Electric vehicle
+    KR101526814B1,2015-06-05,Apparatus and Method for Controlling of Creep Torque of Green Vehicle
+    JP6337476B2,2018-06-06,Brake control device for vehicle
+    JP2016199194A,2016-12-01,Control device for hybrid vehicle
+    JP2018065399A,2018-04-26,Controller for hybrid vehicle and hybrid vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    13
+classfication_items
+76
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,5,5
+    B,6,0,T,8,/,1,7,5,5,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,0
+    B,6,0,L,3,/,1,0,6
+    B,6,0,L,3,/,1,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,5,5
+    B,6,0,T,8,/,1,7,5,5,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B,6,0,W,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,2
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+
+application_events
+8
+    2017-08-24,Application filed by Mando Corp
+    2017-08-24,Assigned to MANDO CORPORATION
+    2018-03-01,Publication of US20180056791A1
+    2019-07-09,Application granted
+    2019-07-09,Publication of US10343528B2
+    2022-12-23,Assigned to HL MANDO CORPORATION
+    Status,Active
+    2037-09-09,Adjusted expiration
+
+active_area
+4
+    K,R
+    U,S
+    D,E
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    KR10-2016-0111263,2016-08-31,
+    KR1020160111263A,2016-08-31,Vehicle control apparatus and control method thereof
+
+legal_event
+7
+    Date,Code,Title,Description
+    2017-08-24,AS,Assignment,Owner name: MANDO CORPORATION, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:LEE, EUN-HA;REEL/FRAME:043388/0478Effective date: 20170811
+    2019-03-14,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2019-05-30,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2019-06-19,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2022-12-05,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+    2022-12-23,AS,Assignment,Owner name: HL MANDO CORPORATION, KOREA, REPUBLIC OFFree format text: CHANGE OF NAME;ASSIGNOR:MANDO CORPORATION;REEL/FRAME:062214/0438Effective date: 20220908
+

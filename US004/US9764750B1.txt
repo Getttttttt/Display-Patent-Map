@@ -1,0 +1,183 @@
+ID
+    US9764750B1
+citation_exist
+    Patent Citations (6)
+citation_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20010035049A1                      *,2000-04-28,2001-11-01,Balch Edgar T.,Method, system and storage medium for determining a vehicle reference speed
+    US20050206230A1                      *,2004-02-17,2005-09-22,Railpower Technologies Corp.,Managing wheel slip in a locomotive
+    JP2005289172A,2004-03-31,2005-10-20,Railway Technical Res Inst,Antilock brake system for railroad vehicle, and braking control method for railroad vehicle
+    US7126293B1                      *,2005-06-21,2006-10-24,General Electric Company,Wheel slip correction system
+    JP2008148445A,2006-12-11,2008-06-26,Fuji Electric Systems Co Ltd,Drive control device for railway vehicle
+    US8897937B2,2012-12-06,2014-11-25,Kawasaki Jukogyo Kabushiki Kaisha,Apparatus for controlling railcar and methods for detecting synchronous slide/slip
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN108944963A                      *,2018-07-03,2018-12-07,西南交通大学,The locomotive adhesion control method coordinated based on dynamic axle weight transfer compensation and multiaxis
+    Family To Family Citations,,,,
+
+abstract
+    A control apparatus mounted on a railcar including a plurality of wheelsets includes: a torque basic value setting portion configured to set a basic value of torque applied to each of the plurality of wheelsets; an adhesion determining portion configured to determine whether or not each of the plurality of wheelsets adheres to a rail; and a torque correcting portion configured to correct the basic value of the torque to obtain a corrected value that is smaller than the basic value. The plurality of wheelsets includes one or more specific wheelsets and one or more general wheelsets other than the specific wheelsets. The torque correcting portion calculates the corrected value of the torque, applied to the general wheelset, in accordance with a first rule and calculates the corrected value of the torque, applied to the specific wheelset, in accordance with a second rule different from the first rule.
+title
+    Apparatus and method of reducing slip/slide of railcar
+similar_document
+26
+    Publication,Publication Date,Title
+    KR100903665B1,2009-06-18,Motion control device for vehicle using information added acceleration
+    KR101646369B1,2016-08-12,apparatus for controlling coasting operation of hybrid vehicle and the method the same
+    US10967870B2,2021-04-06,Hill descent system for vehicle and control method thereof
+    US8914214B2,2014-12-16,Brake pressure computing apparatus, brake control system, and non-transitory computer-readable memory medium
+    US8914208B2,2014-12-16,Brake control device
+    US9637004B2,2017-05-02,System and method for delimiting regenerative braking
+    US9573473B2,2017-02-21,Vehicle control device
+    WO2010001819A1,2010-01-07,Road surface friction coefficient estimating device and road surface friction coefficient estimating method
+    US9868439B2,2018-01-16,Vehicle control system
+    CN112339727B,2022-07-26,Rail vehicle antiskid control method and device and rail vehicle system
+    CN105459848A,2016-04-06,Vehicle control device and vehicle control method
+    WO2012011437A1,2012-01-26,Abnormal torque evaluation apparatus for electrically driven vehicle
+    US20230022163A1,2023-01-26,Control apparatus for vehicle
+    CN104108386B,2019-06-25,The method and apparatus for improving vehicle run stability
+    US9764750B1,2017-09-19,Apparatus and method of reducing slip/slide of railcar
+    JPH06237508A,1994-08-23,Load setting device for railroad car
+    US20180037120A1,2018-02-08,Brake control device of railcar
+    JP5018320B2,2012-09-05,Vehicle travel control apparatus and method
+    JP6036115B2,2016-11-30,Vehicle traction control device and vehicle traction control method
+    JP2002104158A,2002-04-10,Road surface frictional state calculating device, tire type determining device, tire abrasion determining device, road surface gradient estimating device, and offset correcting device of acceleration sensor
+    CN108688466A,2018-10-23,Method, controller and motor vehicle for running motor vehicle
+    KR20220026380A,2022-03-04,Method And Apparatus for Controlling Driving Force for Dual-Motor-Equipped Vehicle
+    CN108778863A,2018-11-09,The method for adjusting vehicle&#39;s center of gravity Height Estimation value
+    JPH06222066A,1994-08-12,Body speed calculating method for four-wheel drive vehicle
+    JP2019041558A,2019-03-14,Brake control system
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US15/221,960,2016-07-28,2016-07-28,Apparatus and method of reducing slip/slide of railcar
+
+inventor_number
+    8
+classfication_nums
+    14
+classfication_items
+74
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,2,7,/,0,0
+    B,6,1,L,2,7,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,6,6
+    B,6,0,T,1,3,/,6,6,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,7,/,0,0
+    B,6,0,T,1,7,/,1,8
+    B,6,0,T,1,7,/,2,2
+    B,6,0,T,1,7,/,2,2,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,0,1
+    B,6,0,T,8,/,1,7,0,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,5
+    B
+    B,6,1
+    B,6,1,C
+    B,6,1,C,1,5,/,0,0
+    B,6,1,C,1,5,/,1,4
+    B
+    B,6,1
+    B,6,1,H
+    B,6,1,H,1,3,/,0,0
+    B
+    B,6,1
+    B,6,1,K
+    B,6,1,K,9,/,0,0
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,1,5,/,0,0
+    B,6,1,L,1,5,/,0,0,8,1
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,2,5,/,0,0
+    B,6,1,L,2,5,/,0,2
+    B,6,1,L,2,5,/,0,2,1
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,1,/,0,0
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,2,2,0,1,/,0,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,3,0,/,0,0
+
+application_events
+8
+    2016-07-28,Application filed by Mitsubishi Electric Corp, Kawasaki Jukogyo KK
+    2016-07-28,Priority to US15/221,960
+    2016-11-01,Assigned to MITSUBISHI ELECTRIC CORPORATION, KAWASAKI JUKOGYO KABUSHIKI KAISHA
+    2017-09-19,Application granted
+    2017-09-19,Publication of US9764750B1
+    2022-05-10,Assigned to KAWASAKI RAILCAR MANUFACTURING CO., LTD.
+    Status,Active
+    2036-07-28,Anticipated expiration
+
+active_area
+1
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US15/221,960,2016-07-28,Apparatus and method of reducing slip/slide of railcar
+
+legal_event
+5
+    Date,Code,Title,Description
+    2016-11-01,AS,Assignment,Owner name: KAWASAKI JUKOGYO KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:YOSHIMATSU, YUTA;OKAMOTO, TAKAFUMI;IHARA, KATSUYA;AND OTHERS;SIGNING DATES FROM 20160727 TO 20160825;REEL/FRAME:040183/0770Owner name: MITSUBISHI ELECTRIC CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:YOSHIMATSU, YUTA;OKAMOTO, TAKAFUMI;IHARA, KATSUYA;AND OTHERS;SIGNING DATES FROM 20160727 TO 20160825;REEL/FRAME:040183/0770
+    2017-08-30,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2020-09-24,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+    2022-05-10,AS,Assignment,Owner name: KAWASAKI RAILCAR MANUFACTURING CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:KAWASAKI JUKOGYO KABUSHIKI KAISHA;REEL/FRAME:059881/0263Effective date: 20220428
+

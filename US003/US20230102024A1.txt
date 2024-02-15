@@ -1,0 +1,172 @@
+ID
+    US20230102024A1
+citation_exist
+    Patent Citations (1)
+citation_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP6641646B2,2017-12-28,2020-02-05,マツダ株式会社,Vehicle control device
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    In an electrified vehicle, a vibration damping control device performs vibration damping control for canceling or reducing, with the use of regenerative braking, a predetermined vibration component by monitoring the vibration component and controlling a generator control device depending on the vibration component. A system control device determines whether the vibration damping control is performable based on at least a charge status of a battery. An anti-lock braking system control device transmits a request signal to the system control device while performing anti-lock braking system control. The system control device transmits a command signal to the vibration damping control device when the vibration damping control is determined to be performable and the request signal is received from the anti-lock braking system control device. The vibration damping control device performs the vibration damping control when the command signal is received from the system control device.
+title
+    Electrified vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US8886375B2,2014-11-11,Control apparatus for electric vehicle
+    US8612076B2,2013-12-17,Antilock braking for vehicles
+    AU2013291209B2,2016-08-11,Vehicle brake force generation device
+    US8116927B2,2012-02-14,Dynamic traction control
+    US8825333B2,2014-09-02,Device for controlling vehicle wheel slip using variable slip ratio thresholds
+    CN108025651A,2018-05-11,Electric vehicle with the braking system and method for braking system, controller and computer program
+    US8494702B2,2013-07-23,Method and driveline stability control system for a vehicle
+    WO2017129092A1,2017-08-03,Auxiliary braking system for electric automobile and control method thereof, and electric automobile
+    US11634138B2,2023-04-25,Electric vehicle
+    US11505072B2,2022-11-22,Regenerative braking system and method
+    EP0823348B1,2004-09-29,Electric vehicle traction control system and method
+    CN106114287B,2018-03-06,A kind of electric automobile antiskid control system and control method
+    WO2005009814A1,2005-02-03,Vehicle and control method of vehicle slip-down velocity
+    US20090107749A1,2009-04-30,Closed Loop Traction System for Light-Weight Utility Vehicles
+    EP3231657B1,2019-03-27,Braking/drive power control device and braking/drive power control method
+    US20230102024A1,2023-03-30,Electrified vehicle
+    CN112693322A,2021-04-23,Brake control device
+    KR101337903B1,2013-12-09,Motor control method for decreasing vibration during operation of anti-lock brake system
+    US9393940B2,2016-07-19,Method and system for controlling anti-lock brake system operation of vehicle
+    CN111645527B,2021-11-02,Electric vehicle braking energy recovery control method
+    WO2021080011A1,2021-04-29,Control device
+    US11691520B2,2023-07-04,System for an electrically driven vehicle, vehicle having same and method for same
+    CN104553822A,2015-04-29,Electric-machines-drag torque compensation
+    US20230182699A1,2023-06-15,Vehicle control method and vehicle
+    KR20110038511A,2011-04-14,Method for brake controlling of hybrid vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    14
+classfication_items
+81
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,3
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,6
+    B,6,0,T,8,/,1,7,6,1
+    B,6,0,T,8,/,1,7,6,1,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,2,1
+    B,6,0,T,8,/,3,2,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,4,0,/,0,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,6,0,/,0,0
+    B,6,0,T,2,2,6,0,/,0,9
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+
+application_events
+4
+    2022-07-13,Application filed by Subaru Corp, Toyota Motor Corp
+    2022-07-13,Assigned to Subaru Corporation, TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2023-03-30,Publication of US20230102024A1
+    Status,Pending
+
+active_area
+4
+    J,P
+    U,S
+    C,N
+    D,E
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2021155788A,2021-09-24,electric vehicle
+    JP2021-155788,2021-09-24,
+
+legal_event
+3
+    Date,Code,Title,Description
+    2022-07-13,AS,Assignment,Owner name: SUBARU CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:MURASE, JUNICHI;REEL/FRAME:060496/0145Effective date: 20220509Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:MURASE, JUNICHI;REEL/FRAME:060496/0145Effective date: 20220509
+    2022-08-19,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+

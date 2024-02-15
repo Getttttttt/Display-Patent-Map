@@ -1,0 +1,160 @@
+ID
+    US20230092834A1
+citation_exist
+    Patent Citations (4)
+citation_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP4058932B2                      *,2001-10-25,2008-03-12,トヨタ自動車株式会社,Brake control device for vehicle
+    US20160039292A1                      *,2013-04-09,2016-02-11,Toyota Jidosha Kabushiki Kaisha,Brake control device for vehicle
+    JP6332181B2                      *,2015-07-16,2018-05-30,トヨタ自動車株式会社,Vehicle control device
+    JP2019098972A,2017-12-04,2019-06-24,トヨタ自動車株式会社,Drive support device
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    A vehicle controller includes a controlling unit. The controlling unit calculates a feedback control amount based on a deviation between a target acceleration of a vehicle and an actual acceleration of the vehicle. The controlling unit executes a feedback control of a driving device and a braking device by using the feedback control amount, such that the deviation decreases. A state in which only the driving device, of the driving device and the braking device, operates is a first state. A state in which at least the braking device, of the driving device and the braking device, operates is a second state. When switched from the first state to the second state, the controlling unit calculates the feedback control amount such that the deviation permitted in the feedback control is greater than the deviation prior to a start of switching from the first state to the second state.
+title
+    Vehicle controller and vehicle control method
+similar_document
+26
+    Publication,Publication Date,Title
+    US10046643B2,2018-08-14,Braking force control apparatus for a vehicle
+    JP6618073B2,2019-12-11,Braking control device
+    EP3050765B1,2020-11-11,Control device for electric vehicle
+    US9889831B2,2018-02-13,Braking control device for vehicle
+    JP5488203B2,2014-05-14,Vehicle vibration suppression control device
+    JP2009040306A,2009-02-26,Control device and system for vehicle
+    EP3738816A1,2020-11-18,Vehicle control method, and control device for vehicle system and vehicle
+    WO2013089225A1,2013-06-20,Braking torque controller
+    JP6011175B2,2016-10-19,Brake control device for vehicle
+    US20230092834A1,2023-03-23,Vehicle controller and vehicle control method
+    JP6120010B2,2017-04-26,vehicle
+    CN112706621A,2021-04-27,Deceleration anti-shake control method of new energy vehicle tandem type energy recovery system
+    JP5962356B2,2016-08-03,Brake control device for vehicle
+    US20180319384A1,2018-11-08,Electric braking device for vehicle
+    US20230090665A1,2023-03-23,Vehicle controller and vehicle control method
+    WO2022054473A1,2022-03-17,Vehicle control device, vehicle control method, and vehicle control system
+    US20230089908A1,2023-03-23,Vehicle motion controller
+    JP6225563B2,2017-11-08,Vehicle control device
+    JP5683305B2,2015-03-11,Brake control device
+    US20230093196A1,2023-03-23,Vehicle controller and vehicle control method
+    US20220234571A1,2022-07-28,Vehicle control system
+    JP7163800B2,2022-11-01,Braking/driving force control system
+    US20230086872A1,2023-03-23,Vehicle motion controller
+    WO2022070658A1,2022-04-07,Vehicle control device, vehicle control method, and vehicle control system
+    JP2021049858A,2021-04-01,Brake device for vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    6
+classfication_nums
+    10
+classfication_items
+66
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B,6,0,W,1,0,/,1,8,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B,6,0,W,1,0,/,1,9,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,1,8
+    B,6,0,Y,2,3,0,0,/,1,8,0,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,2,5
+
+application_events
+4
+    2022-08-29,Application filed by Advics Co Ltd, Toyota Motor Corp
+    2022-08-29,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA, ADVICS CO., LTD.
+    2023-03-23,Publication of US20230092834A1
+    Status,Pending
+
+active_area
+4
+    J,P
+    E,P
+    U,S
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2021-151870,2021-09-17,
+    JP2021151870A,2021-09-17,Vehicular control device
+
+legal_event
+3
+    Date,Code,Title,Description
+    2022-08-29,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:FUKUKAWA, SHOGI;ASANO, MASAYUKI;MIYAKE, KAZUKI;AND OTHERS;SIGNING DATES FROM 20220623 TO 20220725;REEL/FRAME:060928/0136Owner name: ADVICS CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:FUKUKAWA, SHOGI;ASANO, MASAYUKI;MIYAKE, KAZUKI;AND OTHERS;SIGNING DATES FROM 20220623 TO 20220725;REEL/FRAME:060928/0136
+    2022-09-30,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+

@@ -1,0 +1,294 @@
+ID
+    US20180083537A1
+citation_exist
+    Patent Citations (18)
+citation_infor
+20
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5977822A                      *,1998-04-04,1999-11-02,Sigmatel, Inc.,Method and apparatus of pulse position demodulation
+    Family To Family Citations,,,,
+    US4371824A                      *,1979-07-05,1983-02-01,Eaton Corporation,Base drive and overlap protection circuit
+    JPS63503431A                      *,1986-06-02,1988-12-08,アメリカン テレフオン アンド テレグラフ カムパニ−,Self-oscillating high frequency power converter
+    US6462971B1                      *,1999-09-24,2002-10-08,Power Integrations, Inc.,Method and apparatus providing a multi-function terminal for a power supply controller
+    US7400121B2                      *,2002-08-06,2008-07-15,Texas Instruments Incorporated,Soft-start system for voltage regulator and method of implementing soft-start
+    US6979987B2,2002-11-14,2005-12-27,Fyre Storm, Inc.,Method of regulating an output voltage of a power converter by sensing the output voltage during a first time interval and calculating a next current value in an inductor sufficient to bring the output voltage to a target voltage within a second time interval immediately following the first time interval and varying a duty cycle of a switch during the second time interval
+    RU40263U1                      *,2004-05-12,2004-09-10,Открытое акционерное общество "РИФ",VEHICLE VOLTAGE CONTROL DEVICE FOR VEHICLE DC
+    SE0401780D0                      *,2004-07-02,2004-07-02,Scandinova Ab,Protection circuit
+    US7568117B1                      *,2005-10-03,2009-07-28,Zilker Labs, Inc.,Adaptive thresholding technique for power supplies during margining events
+    US8598857B2,2005-12-19,2013-12-03,Infineon Technologies Austria Ag,Methods and apparatus for a multiphase power regulator
+    TWI381618B,2008-12-22,2013-01-01,Asustek Comp Inc,Switching power supply applied and computer system
+    EP2224124A1,2009-02-27,2010-09-01,Robert Bosch GmbH,A glow plug controller for vehicles
+    US8406021B2                      *,2009-08-10,2013-03-26,Emerson Climate Technologies, Inc.,System and method for reducing line current distortion
+    US8233250B2,2009-12-23,2012-07-31,R2 Semiconductor, Inc.,Over voltage protection of switching converter
+    US8575778B2                      *,2010-01-12,2013-11-05,Ford Global Technologies, Llc,Variable voltage converter (VVC) with integrated battery charger
+    JP5617926B2,2010-09-24,2014-11-05,富士電機株式会社,Power converter and control method thereof
+    TW201220637A,2010-11-01,2012-05-16,Chung Hsin Elec & Mach Mfg,Charge-controlling system and method therefor
+    TWM418490U,2011-08-11,2011-12-11,Richtek Technology Corp,Switching regulator and control circuit thereof
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (5)
+              
+
+
+citedBy_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US10632862B2                      *,2018-01-30,2020-04-28,GM Global Technology Operations LLC,Electric power system for an autonomous vehicle
+    US10367417B1,2018-04-19,2019-07-30,Shenzhen GOODIX Technology Co., Ltd.,Voltage-based auto-correction of switching time
+    CN109314464B                      *,2018-04-19,2020-08-18,深圳市汇顶科技股份有限公司,Voltage-based automatic correction of switching time
+    US10587185B1,2019-04-16,2020-03-10,Ford Global Technology, Llc,Dynamic carrier waveform modification to avoid concurrent turn-on/turn-off switching
+    WO2021021955A1                      *,2019-07-29,2021-02-04,Advanced Energy Industries, Inc.,Multiplexed power generator output with channel offsets for pulsed driving of multiple loads
+
+abstract
+    A method includes controlling a power supply system to avoid an over-voltage event across one or more switching devices of the power supply system. The controlling is based on switching overlap information that includes instructions for either advancing or retarding a switching signal associated with at least one of the switching devices.
+title
+    Switching overlap avoidance system for controlling power supply system
+similar_document
+26
+    Publication,Publication Date,Title
+    US10277129B2,2019-04-30,Switching overlap avoidance system for controlling power supply system
+    US10500965B2,2019-12-10,Dithering a pulse width modulated base frequency to reduce EV noise
+    US10525841B2,2020-01-07,Gate driver with short circuit protection
+    US9994110B2,2018-06-12,Dual gate solid state devices to reduce switching loss
+    US9849789B2,2017-12-26,Power supply system
+    US10071652B2,2018-09-11,Dual mode IGBT gate drive to reduce switching loss
+    US10432186B2,2019-10-01,Variable resistance power switch feedback
+    US9837887B1,2017-12-05,IGBT gate drive with active turnoff to reduce switching loss
+    US20180241337A1,2018-08-23,Reduced ripple inverter for hybrid drive systems
+    EP2562021B1,2015-07-22,Regenerative load electric power management systems and methods
+    US10137790B2,2018-11-27,System and method for noise reduction in electrified vehicle powertrain with multi-three-phase electric drive
+    US11133796B2,2021-09-28,Dynamic IGBT gate drive to reduce switching loss
+    US20180366970A1,2018-12-20,Junction temperature compensated gate driver
+    CN104901575A,2015-09-09,Inverter controller, power converter, and car
+    JP2013207914A,2013-10-07,Controller of voltage converter
+    US20170222641A1,2017-08-03,Dynamic igbt gate drive to reduce switching loss
+    US10618423B2,2020-04-14,Isolated dual bus hybrid vehicle drivetrain
+    US10090792B2,2018-10-02,Self-balancing parallel power devices with a temperature compensated gate driver
+    US10770970B2,2020-09-08,Flying capacitor based variable voltage converter
+    US20170210233A1,2017-07-27,Variable carrier switching frequency control of variable voltage converter
+    JP2013240162A,2013-11-28,Voltage conversion device
+    US9838002B2,2017-12-05,IGBT gate drive during turnoff to reduce switching loss
+    US10144296B2,2018-12-04,Gate driver with temperature compensated turn-off
+    US20170274776A1,2017-09-28,Dynamic igbt gate drive to reduce switching loss
+    US10581363B2,2020-03-03,Isolated dual bus hybrid vehicle drivetrain
+
+patent_application
+2
+    Application,Priority date,Filing date,Relation,Title
+    US14/088,687,2013-11-25,2013-11-25,Continuation,Switching overlap avoidance system for controlling power supply system
+
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US15/825,638,2013-11-25,2017-11-29,Switching overlap avoidance system for controlling power supply system
+
+inventor_number
+    3
+classfication_nums
+    33
+classfication_items
+162
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H,0,2,M,3,/,0,2
+    H,0,2,M,3,/,0,4
+    H,0,2,M,3,/,1,0
+    H,0,2,M,3,/,1,4,5
+    H,0,2,M,3,/,1,5,5
+    H,0,2,M,3,/,1,5,6
+    H,0,2,M,3,/,1,5,8
+    B,6,0,L,1,1,/,1,2,3
+    B,6,0,L,1,1,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,5,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,3,2
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,5,/,0,0
+    H,0,2,M,5,/,4,0
+    H,0,2,M,5,/,4,2
+    H,0,2,M,5,/,4,4
+    H,0,2,M,5,/,4,5,3
+    H,0,2,M,5,/,4,5,8
+    H,0,2,M,5,/,4,5,8,5
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,9,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,8
+    B,6,0,L,2,2,4,0,/,4,8,6
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,3,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y,0,2,T,1,0,/,6,2,1,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,0,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y,0,2,T,1,0,/,7,0,7,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,1,6
+    Y,0,2,T,1,0,/,7,2,4,1
+    Y,0,2,T,1,0,/,7,2,7,5
+
+application_events
+7
+    2017-11-29,Application filed by Ford Global Technologies LLC
+    2017-11-29,Priority to US15/825,638
+    2018-03-22,Publication of US20180083537A1
+    2019-04-30,Application granted
+    2019-04-30,Publication of US10277129B2
+    Status,Active
+    2033-11-25,Anticipated expiration
+
+active_area
+5
+    U,S
+    D,E
+    R,U
+    C,N
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    US14/088,687,2013-11-25,Switching overlap avoidance system for controlling power supply system
+    US15/825,638,2017-11-29,Switching overlap avoidance system for controlling power supply system
+
+legal_event
+5
+    Date,Code,Title,Description
+    2017-11-29,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2019-03-15,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2019-04-10,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2022-09-14,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

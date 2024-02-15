@@ -1,0 +1,254 @@
+ID
+    EP3862218A1
+citation_exist
+    Patent Citations (7)
+citation_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20030122512A1                      *,2001-11-26,2003-07-03,Seymour Auerbach,Electric powered vehicle
+    GB2550955A                      *,2016-06-02,2017-12-06,Arrival Ltd,Electric vehicle battery management apparatus and method
+    US20180105060A1                      *,2016-10-18,2018-04-19,Ford Global Technologies, Llc,Systems and methods for charging a battery
+    EP3323664A1                      *,2016-11-16,2018-05-23,Nextev Limited,An electric vehicle controller
+    DE102017212496A1                      *,2017-07-20,2019-01-24,Continental Automotive Gmbh,High-voltage battery device and method for operating a high-voltage battery device
+    US20190176729A1                      *,2017-12-07,2019-06-13,Audi Ag,Hv battery arrangement for a motor vehicle, onboard network, motor vehicle, and method for controlling an hv battery arrangement
+    US20200055404A1                      *,2018-08-14,2020-02-20,GM Global Technology Operations LLC,Vehicle and electrical system with dual battery modules
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    GB2614718A                      *,2022-01-13,2023-07-19,Mcmurtry Automotive Ltd,Battery system for an electric vehicle
+    Family To Family Citations,,,,
+
+abstract
+    The present disclosure relates to a dual battery system (1) comprising a first battery (B1) and a second battery (B2), for balancing charge level of the first battery and the second battery, the dual battery system being adapted for powering propulsion of an electric vehicle (3) comprising a first electric motor (El) coupled in driving relationship with one or more rear wheels of the electric vehicle and a second electric motor (E2) coupled in driving relationship with one or more front wheels of the electric vehicle. The first battery is adapted to provide electric power for driving the first electric motor and the second battery is adapted to provide electric power for driving the second electric motor. The dual battery system obtains (100) at least one of data or information of a predetermined and/or imminent charging event of the electric vehicle. The dual battery system furthermore obtains (200) at least one of data or information of charge level of the first battery and second battery respectively. Moreover the dual battery system selects (300), when the charge level of the first battery and the second battery are unbalanced, a driving scenario which comprises charging and/or discharging of at least one of the first battery and the second battery, the driving scenario balancing the charge level of the first battery and the second battery prior to arriving at the predetermined and/or imminent charging event.
+title
+    Balancing charge level of batteries
+similar_document
+22
+    Publication,Publication Date,Title
+    CN108081978B,2023-06-09,Battery pre-heating prior to fast charging
+    US11745619B2,2023-09-05,Multiple chemistry battery systems for electric vehicles
+    US10059217B2,2018-08-28,System and method for controlling battery switching serial/parallel connection of battery modules due to accelerator operation
+    US8436585B2,2013-05-07,Power supply device
+    US20140265554A1,2014-09-18,Dual Lithium-Ion Battery System for Electric Vehicles
+    US9385543B2,2016-07-05,Hybrid storage cell, vehicle and power storage unit employing same, smart grid vehicle system employing vehicle, and power supply network system employing power storage unit
+    US7567061B2,2009-07-28,Battery equalization using a plug-in charger in a hybrid electric vehicle
+    US20180345806A1,2018-12-06,Vehicle battery system and method of controlling same
+    US8314595B2,2012-11-20,Battery equalization using a plug-in charger in a hybrid electric vehicle
+    US20170166078A1,2017-06-15,Battery charge equalization system
+    CN106891755A,2017-06-27,For the intelligent charging system of storage battery of electric motor group
+    JP2017103080A,2017-06-08,Battery system for electric vehicle
+    US20230166634A1,2023-06-01,Balancing charge level of batteries
+    US11364814B2,2022-06-21,Dual battery system for electric vehicle
+    US20140377596A1,2014-12-25,Hybrid battery system for electric and hybrid electric vehicles
+    KR20230052284A,2023-04-19,Electrochemical energy storage systems for high energy and high power requirements
+    US20230226950A1,2023-07-20,Vehicle battery cell balancing
+    US20220314809A1,2022-10-06,System for adjusting regenerative torque according to state of charge of multiple batteries
+    US20220379872A1,2022-12-01,Electrified vehicle control with distribution of powertrain torque to secondary axle
+    KR20210115269A,2021-09-27,E-motor drive hybrid battery pack
+    CN112776668A,2021-05-11,Method for charging an electrical energy accumulator system, electrical energy accumulator system and vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+5
+    Application,Priority date,Filing date,Title
+    EP20155356.7A,2020-02-04,2020-02-04,Balancing charge level of batteries
+    CN202180012751.3A,2020-02-04,2021-01-18,Balancing battery charge levels
+    PCT/EP2021/050956,2020-02-04,2021-01-18,Balancing charge level of batteries
+    US17/921,574,2020-02-04,2021-01-18,Balancing charge level of batteries
+
+inventor_number
+    7
+classfication_nums
+    22
+classfication_items
+133
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,1
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,7,/,0,0
+    B,6,0,K,1,7,/,3,4
+    B,6,0,K,1,7,/,3,5,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,4
+    H,0,1,M,1,0,/,4,4,1
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,6
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,8
+    H,0,1,M,1,0,/,4,8,2
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,4,7
+    H,0,2,J,7,/,0,0,4,8
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,6,3
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,2,3,/,0,0
+    B,6,0,K,2,3,/,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,8,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,1,0
+    B,6,0,L,5,3,/,1,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,1,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,2,5
+    H,0,1,M,2,0,1,0,/,4,2,7,8
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,2,2,2,0,/,0,0
+    H,0,1,M,2,2,2,0,/,2,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+
+application_events
+7
+    2020-02-04,Application filed by Polestar Performance AB
+    2020-02-04,Priority to EP20155356.7A
+    2021-01-18,Priority to CN202180012751.3A
+    2021-01-18,Priority to PCT/EP2021/050956
+    2021-01-18,Priority to US17/921,574
+    2021-08-11,Publication of EP3862218A1
+    Status,Pending
+
+active_area
+4
+    E,P
+    U,S
+    W,O
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    EP20155356.7A,2020-02-04,Balancing charge level of batteries
+
+legal_event
+15
+    Date,Code,Title,Description
+    2021-07-09,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2021-07-09,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+    2021-08-11,AK,Designated contracting states,Kind code of ref document: A1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2021-10-01,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+    2021-11-03,17P,Request for examination filed,Effective date: 20210927
+    2021-11-03,RBV,Designated contracting states (corrected),Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2022-03-11,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: EXAMINATION IS IN PROGRESS
+    2022-04-13,17Q,First examination report despatched,Effective date: 20220315
+    2023-06-08,GRAP,Despatch of communication of intention to grant a patent,Free format text: ORIGINAL CODE: EPIDOSNIGR1
+    2023-06-08,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: GRANT OF PATENT IS INTENDED
+    2023-07-05,INTG,Intention to grant announced,Effective date: 20230609
+    2023-10-07,GRAS,Grant fee paid,Free format text: ORIGINAL CODE: EPIDOSNIGR3
+    2023-10-27,GRAA,(expected) grant,Free format text: ORIGINAL CODE: 0009210
+    2023-10-27,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE PATENT HAS BEEN GRANTED
+

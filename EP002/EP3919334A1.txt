@@ -1,0 +1,359 @@
+ID
+    EP3919334A1
+citation_exist
+    Patent Citations (10)
+citation_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP2002147597A                      *,2000-11-13,2002-05-22,Fuji Heavy Ind Ltd,Control device for automatic transmission for vehicle
+    JP2011033168A                      *,2009-08-05,2011-02-17,Toyota Motor Corp,Control device of automatic transmission for vehicle
+    JP2013213557A                      *,2012-04-03,2013-10-17,Toyota Motor Corp,Control device of vehicle
+    DE112013007167B4                      *,2013-06-17,2019-09-26,Toyota Jidosha Kabushiki Kaisha,Cooling device for an engine system and control method therefor
+    GB2536473A                      *,2015-03-18,2016-09-21,Jaguar Land Rover Ltd,Lubricating system
+    JP6402240B2,2015-03-23,2018-10-10,ジヤトコ株式会社,Vehicle control apparatus and vehicle control method
+    MX364024B                      *,2015-06-22,2019-04-11,Nissan Motor,Vehicle shift control device.
+    JP6225970B2                      *,2015-09-30,2017-11-08,トヨタ自動車株式会社,Control device for internal combustion engine
+    JP2018146019A,2017-03-03,2018-09-20,アイシン・エィ・ダブリュ株式会社,Oil supply device
+    JP6702505B2                      *,2017-04-14,2020-06-03,日産自動車株式会社,Electric vehicle control device and electric vehicle control method
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    There are included a transmission mechanism interposed in a power transfer path between a drive source and wheels; an oil pressure control device that can supply lubricating oil to the transmission mechanism; and a control part that can output an electrical instruction to the oil pressure control device to increase a flow rate of lubricating oil supplied to the transmission mechanism. When the control part outputs an electrical instruction to the oil pressure control device to increase a flow rate of lubricating oil supplied to the transmission mechanism, and determines that the flow rate of lubricating oil supplied to the transmission mechanism from the oil pressure control device does not increase as indicated by the electrical instruction (time t1), the control part considers that the oil pressure control device is in an abnormal state, and can impose a limitation that an absolute value of torque of the transmission mechanism transferred between the wheels and the drive source be reduced (time t1-t5).
+title
+    Vehicle drive device
+similar_document
+26
+    Publication,Publication Date,Title
+    JP5487313B2,2014-05-07,Liquid flow path control device for vehicle drive device
+    JP5641052B2,2014-12-17,Hybrid drive device for vehicle
+    US8989979B2,2015-03-24,Control unit for four-wheel-drive vehicle
+    EP2657098B1,2018-04-04,Hybrid vehicle control apparatus
+    US9758038B2,2017-09-12,Clutch control device for four-wheel drive vehicle
+    US20140349811A1,2014-11-27,Vehicle driving system
+    WO2012053609A1,2012-04-26,Regenerative braking control device of vehicle
+    US9834193B2,2017-12-05,Vehicle control apparatus
+    JP5322751B2,2013-10-23,Vehicle power transmission control device
+    EP3916269B1,2023-04-19,Vehicle driving device and hybrid vehicle
+    JP2002316542A,2002-10-29,Driving gear for hybrid vehicle
+    WO2014080279A1,2014-05-30,Power transmission apparatus for vehicle
+    EP3919334A1,2021-12-08,Vehicle drive device
+    EP1306256A2,2003-05-02,Hybrid vehicle power transmission
+    JP4743992B2,2011-08-10,Vehicle control device
+    CN105358362A,2016-02-24,Control system for hybrid vehicle
+    US20210129846A1,2021-05-06,Vehicle control device
+    JP7131419B2,2022-09-06,HYDRAULIC CONTROL DEVICE FOR VEHICLE DRIVE AND HYBRID VEHICLE
+    JP2018069960A,2018-05-10,Control device for electric vehicle
+    JP2020196362A,2020-12-10,Control device for vehicle
+    WO2022209384A1,2022-10-06,Vehicle drive device
+    JP5445709B2,2014-03-19,Hybrid drive device for vehicle
+    JP2684047B2,1997-12-03,Transfer clutch control device for four-wheel drive vehicle
+    JP2017154694A,2017-09-07,Drive device for vehicle
+    WO2012098669A1,2012-07-26,Drive device for hybrid vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    5
+classfication_nums
+    39
+classfication_items
+252
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,2
+    B,6,0,W,1,0,/,0,2,3
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,3,8
+    B,6,0,K,6,/,3,8,7
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,4
+    B,6,0,K,6,/,4,4,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,5,0
+    B,6,0,K,6,/,5,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,5,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,4
+    B,6,0,W,3,0,/,1,8,4,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,4
+    B,6,0,W,3,0,/,1,8,6
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,6,1,/,0,0
+    F,1,6,H,6,1,/,1,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,5,0
+    B,6,0,K,6,/,5,4
+    B,6,0,K,6,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,0
+    B,6,0,W,1,0,/,1,0,1
+    B,6,0,W,1,0,/,1,0,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,0
+    B,6,0,W,1,0,/,1,0,1
+    B,6,0,W,1,0,/,1,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B,6,0,W,1,0,/,1,8,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B,6,0,W,1,0,/,1,9,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,1,0
+    B,6,0,W,2,5,1,0,/,1,0,7,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,1,0
+    B,6,0,W,2,5,1,0,/,1,0,7,5
+    B,6,0,W,2,5,1,0,/,1,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,1,0
+    B,6,0,W,2,5,1,0,/,1,0,7,5
+    B,6,0,W,2,5,1,0,/,1,0,8,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,6
+    B,6,0,W,2,7,1,0,/,0,6,6,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,6
+    B,6,0,W,2,7,1,0,/,0,6,6,6
+    B,6,0,W,2,7,1,0,/,0,6,7,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,6
+    B,6,0,W,2,7,1,0,/,0,6,7,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    B,6,0,W,2,7,1,0,/,0,8,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,6
+    B,6,0,W,2,7,1,0,/,0,8,7
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,2
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,6,1,/,0,0
+    F,1,6,H,6,1,/,0,0,2,1
+    F,1,6,H,2,0,6,1,/,0,0,3,7
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,6,1,/,0,0
+    F,1,6,H,6,1,/,1,2
+    F,1,6,H,2,0,6,1,/,1,2,5,6
+    F,1,6,H,2,0,6,1,/,1,2,6
+    F,1,6,H,2,0,6,1,/,1,2,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+
+application_events
+4
+    2020-01-30,Application filed by Aisin Corp
+    2021-12-08,Publication of EP3919334A1
+    2022-03-16,Publication of EP3919334A4
+    Status,Pending
+
+active_area
+4
+    U,S
+    E,P
+    J,P
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2019014891,2019-01-30,
+    PCT/JP2020/003451,2020-01-30,Vehicle drive device
+
+legal_event
+10
+    Date,Code,Title,Description
+    2020-08-08,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE INTERNATIONAL PUBLICATION HAS BEEN MADE
+    2021-11-05,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2021-11-05,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+    2021-12-08,17P,Request for examination filed,Effective date: 20210505
+    2021-12-08,AK,Designated contracting states,Kind code of ref document: A1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2021-12-29,RAP3,Party data changed (applicant data changed or rights of an application transferred),Owner name: AISIN CORPORATION
+    2022-03-16,A4,Supplementary search report drawn up and despatched,Effective date: 20220215
+    2022-05-04,DAV,Request for validation of the european patent (deleted),
+    2022-05-04,DAX,Request for extension of the european patent (deleted),
+

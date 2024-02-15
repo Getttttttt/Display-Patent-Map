@@ -1,0 +1,267 @@
+ID
+    US8957616B2
+citation_exist
+    Patent Citations (15)
+citation_infor
+17
+    Publication number,Priority date,Publication date,Assignee,Title
+    US6229719B1,1999-11-12,2001-05-08,Hitachi, Ltd.,Method of inverter control and apparatus of the same
+    US20030227271A1                      *,2002-06-07,2003-12-11,Yoichi Shindo,Brushless motor control method
+    JP2004159398A,2002-11-05,2004-06-03,Toshiba Corp,Power converter
+    US6828744B2                      *,2002-02-26,2004-12-07,Lg Industrial Systems Co., Ltd.,Motor torque control apparatus and method
+    US20060145652A1                      *,2002-12-12,2006-07-06,Ta Caominh,Motor drive controlling device and electric power-steering device
+    US7208903B2                      *,2004-09-06,2007-04-24,Toyota Jidosha Kabushiki Kaisha,Control device for alternating-current motor
+    US20080079385A1,2006-09-28,2008-04-03,Sanyo Electric Co., Ltd.,Motor control device
+    US20080252242A1                      *,2006-11-30,2008-10-16,Denso Corporation,Apparatus and method for driving rotary machine
+    JP4942425B2,2006-08-22,2012-05-30,東芝エレベータ株式会社,Elevator control device
+    US20120217923A1                      *,2011-02-28,2012-08-30,Long Wu,System for Controlling a Motor
+    Family To Family Citations,,,,
+    JP2001309697A                      *,2000-04-25,2001-11-02,Matsushita Electric Ind Co Ltd,Electric motor control device
+    JP3972124B2                      *,2002-07-10,2007-09-05,株式会社日立製作所,Synchronous motor speed control device
+    JP4539218B2                      *,2004-08-02,2010-09-08,日本精工株式会社,Electric power steering device
+    GB0526276D0                      *,2005-12-23,2006-02-01,Trw Ltd,Electric motor control
+    CN100413207C                      *,2006-11-17,2008-08-20,清华大学,Vector control system of alien frequencies power supplied permanent magnet synchronous motor
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (3)
+              
+
+
+citedBy_exist
+    
+              Cited By (8)
+              
+
+
+citedBy_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    KR101622011B1                      *,2013-12-31,2016-05-17,현대모비스 주식회사,Method and apparatus for controlling of 3-phase ac motor
+    US9656570B2                      *,2014-12-15,2017-05-23,Ford Global Technologies, Llc,Current sensor for a vehicle
+    JP2017030466A                      *,2015-07-30,2017-02-09,トヨタ自動車株式会社,Electric vehicle
+    DE102016211498A1                      *,2016-06-27,2017-12-28,Robert Bosch Gmbh,Method and device for external monitoring of power electronics
+    CN107415750A                      *,2017-08-10,2017-12-01,杭州衡源汽车科技有限公司,A kind of charging system and electric automobile
+    CN109703384B                      *,2018-12-29,2023-08-29,苏州唯控汽车科技有限公司,Single-phase charging and three-phase inversion driving interlocking device of modularized vehicle battery system
+    JP6723479B1                      *,2019-05-20,2020-07-15,三菱電機株式会社,Electric motor drive device, compressor drive device, and refrigeration cycle device
+    CN116480242B                      *,2023-04-25,2023-08-29,杭州山松电器有限公司,Deceleration actuator for electric door of automobile, control method of deceleration actuator and automobile
+
+abstract
+    A control device for a three-phase alternate current motor includes: a control phase current acquisition means; a monitor phase current acquisition means; a rotation angle acquisition means; a two-phase control current value calculation means; a one-phase current estimated value estimation means; a voltage command value calculation means; an other phase current estimation means for calculating a monitor or a control phase current estimated value; an abnormality detection means for detecting an abnormality in a monitor phase or a control phase current sensor; a number-of-revolutions calculation means for the motor; a number-of-revolutions determination means for determining whether the number of revolutions is not larger than a predetermined determination value; and a switching means between a two-phase control mode when the number of revolutions is not larger than the determination value and a one-phase control mode when the number of revolutions is larger than the determination value.
+title
+    Control device for AC motor
+similar_document
+20
+    Publication,Publication Date,Title
+    US8957616B2,2015-02-17,Control device for AC motor
+    US8957613B2,2015-02-17,Control device for AC motor
+    US9154064B2,2015-10-06,Control device for AC motor
+    US9473059B2,2016-10-18,Control apparatus for AC motor
+    US9093936B2,2015-07-28,Control apparatus for AC motor
+    US9331627B2,2016-05-03,Control apparatus for AC motor
+    US9077278B2,2015-07-07,AC motor control apparatus
+    US9172322B2,2015-10-27,Control apparatus for AC motor
+    JP5807847B2,2015-11-10,AC motor control device
+    US9318982B2,2016-04-19,Control apparatus for AC motor
+    JP5772843B2,2015-09-02,AC motor control device
+    US9007009B2,2015-04-14,Control apparatus for AC motor
+    US9120388B2,2015-09-01,Rotating electrical machine drive system
+    US9106163B2,2015-08-11,Control device of AC motor
+    US9419554B2,2016-08-16,Control device of AC motor
+    US20130214712A1,2013-08-22,Ac motor control apparatus
+    US9374031B2,2016-06-21,AC motor control apparatus
+    US9035580B2,2015-05-19,AC motor control apparatus
+    US9431935B2,2016-08-30,Control device of AC motor
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    26
+classfication_items
+146
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,6,/,0,0
+    H,0,2,P,6,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,2
+    B,6,0,L,1,5,/,0,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,3,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H,0,2,P,2,1,/,0,0,3,5
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,1,/,0,0
+    H,0,2,P,2,1,/,1,4
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,1,/,0,0
+    H,0,2,P,2,1,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,1,0
+    B,6,0,L,2,2,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,2,0,5,/,0,0
+    H,0,2,P,2,2,0,5,/,0,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2013-09-27,Application filed by Denso Corp
+    2013-10-23,Assigned to DENSO CORPORATION
+    2014-04-03,Publication of US20140091744A1
+    2015-02-17,Application granted
+    2015-02-17,Publication of US8957616B2
+    Status,Active
+    2033-09-27,Anticipated expiration
+
+active_area
+3
+    J,P
+    C,N
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2012-217469,2012-09-28,
+    JP2012217469A,2012-09-28,AC motor control device
+
+legal_event
+6
+    Date,Code,Title,Description
+    2013-10-23,AS,Assignment,Owner name: DENSO CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:SUZUKI, TAKASHI;KAKO, HIROFUMI;ITOH, TAKESHI;SIGNING DATES FROM 20130927 TO 20131008;REEL/FRAME:031457/0406
+    2014-12-05,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2015-01-27,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2018-08-07,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551)Year of fee payment: 4
+    2022-08-10,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+

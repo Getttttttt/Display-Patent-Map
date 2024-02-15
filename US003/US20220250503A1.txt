@@ -1,0 +1,201 @@
+ID
+    US20220250503A1
+citation_exist
+    Patent Citations (11)
+citation_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP2004364350A                      *,2003-06-02,2004-12-24,Nissan Motor Co Ltd,Battery controller of vehicle with twin battery
+    JP2010057236A                      *,2008-08-27,2010-03-11,Sanken Electric Co Ltd,Boosting chopper circuit
+    US9129461B2                      *,2011-07-26,2015-09-08,Gogoro Inc.,Apparatus, method and article for collection, charging and distributing power storage devices, such as batteries
+    CN102324876B                      *,2011-09-08,2014-01-15,山东科技大学,Mining novel lithium iron phosphate double motor chopper speed regulation electric locomotive control system
+    CN104467455A                      *,2014-12-04,2015-03-25,株洲南车时代电气股份有限公司,Multi-system converter device
+    CN204547805U                      *,2015-04-20,2015-08-12,株洲时代装备技术有限责任公司,Based on the accumulation energy type regenerative braking energy reclaiming system of super capacitor
+    CN105235546B                      *,2015-11-18,2018-03-02,中车资阳机车有限公司,A kind of pure electronic AC Drive shunter electrical main drive system of 1000kW power grades
+    JP6891421B2                      *,2016-08-05,2021-06-18,株式会社Ｇｓユアサ,Power storage device for starting the engine, control method of the power storage device for starting the engine, vehicle
+    CN108011414A                      *,2017-11-24,2018-05-08,安徽特凯新能源科技有限公司,A kind of battery management system equipped with non-dissipative equalizing management module
+    CN107733055B                      *,2017-11-29,2023-10-10,中车资阳机车有限公司,Charging system for vehicle-mounted power battery of oil-electricity hybrid power locomotive
+    CN110254294B                      *,2019-07-05,2022-06-24,中车资阳机车有限公司,Power battery grouping topological structure of oil-electricity hybrid power locomotive
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    CN110254294B                      *,2019-07-05,2022-06-24,中车资阳机车有限公司,Power battery grouping topological structure of oil-electricity hybrid power locomotive
+    CN110654268B                      *,2019-10-12,2023-10-27,中车资阳机车有限公司,Equalizing charge control management method for super-power battery for locomotive
+    CN111055689B                      *,2020-01-14,2023-08-18,中车资阳机车有限公司,Control method for double-branch precharge circuit of pure electric rail locomotive
+
+abstract
+    A topology structure of a power battery pack for a diesel-electric hybrid locomotive includes a plurality of components. A chopper unit is connected in parallel to a support capacitor, an AC/DC module, a DC/AC module, a reactor unit and a power battery system. The power battery system includes several groups of power modules. The power module includes a contactor unit, a current sensor, a fuse, a power battery, and a voltage sensor. The contactor unit, the current sensor and the power battery are connected in series. Two ends of the voltage sensor are respectively disposed at two ends of the power battery. A locomotive microcomputer is connected to a DUC controller and a power battery management system. The DUC controller is connected to the DC/AC module, the chopper unit and the contactor unit. The power battery management system is connected to the contactor unit.
+title
+    Topology structure of power battery pack for diesel-electric hybrid locomotive
+similar_document
+26
+    Publication,Publication Date,Title
+    US20220250503A1,2022-08-11,Topology structure of power battery pack for diesel-electric hybrid locomotive
+    US8120365B2,2012-02-21,Power control unit
+    US8330418B2,2012-12-11,Power supply device capable of equalizing electrical properties of batteries
+    CN102910082B,2015-03-25,Main and auxiliary power supply switching system for electric vehicle
+    JP4814825B2,2011-11-16,Hybrid power system
+    US10179519B2,2019-01-15,Multi-battery system for increasing the electric range
+    CN108032862B,2020-01-17,Hybrid power supply power system and power supply method for internal combustion motor train unit
+    KR20120037375A,2012-04-19,Fault tolerant modular battery management system
+    TW202234785A,2022-09-01,Systems and methods for fail-safe battery protection independent from battery management system
+    CN111547078A,2020-08-18,Non-net self-walking storage battery and auxiliary converter system for rail transit
+    CN111532144A,2020-08-14,Non-net self-walking energy storage and high-frequency auxiliary converter system for rail transit
+    CN111071041A,2020-04-28,Vehicle-mounted power supply system
+    CN112895902B,2022-08-19,Power distribution system, control method of power distribution system and new energy automobile
+    CN212386323U,2021-01-22,Electric automobile power-on device
+    CN110116639A,2019-08-13,The method of supplying power to of rail vehicle based on super capacitor
+    CN111532146A,2020-08-14,Non-net self-walking energy storage and unidirectional AC/DC converter system for rail transit
+    CN111532145A,2020-08-14,Non-net self-walking energy storage and unidirectional DC/DC converter system for rail transit
+    CN111591148A,2020-08-28,Netless self-walking energy storage and bidirectional AC/DC converter system for rail transit
+    CN110116657A,2019-08-13,The power supply system and method for rail vehicle
+    CN217607526U,2022-10-18,Power battery charging switching system and power vehicle
+    CN217788503U,2022-11-11,Battery pack for vehicle, battery system and vehicle
+    CN213483580U,2021-06-18,Power supply disconnection structure of battery high-voltage system
+    CN219246765U,2023-06-23,Non-net self-walking auxiliary traction two-in-one storage battery energy storage system for rail transit
+    CN109120056A,2019-01-01,A kind of rail traffic standard EMU booster battery and case system
+    US11811251B2,2023-11-07,On-board distributed power supply system and onboard power supply control method and apparatus
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    6
+classfication_nums
+    15
+classfication_items
+89
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,2,0
+    B,6,0,L,5,3,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    B
+    B,6,1
+    B,6,1,C
+    B,6,1,C,7,/,0,0
+    B,6,1,C,7,/,0,4
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,1,3
+    H,0,2,J,7,/,0,0,1,4
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,2,9
+    H,0,2,J,7,/,0,0,3,1
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,2,2,0,7,/,0,0
+    H,0,2,J,2,2,0,7,/,2,0
+
+application_events
+4
+    2020-06-23,Application filed by CRRC Ziyang Co Ltd
+    2022-01-04,Assigned to CRRC ZIYANG CO., LTD.
+    2022-08-11,Publication of US20220250503A1
+    Status,Pending
+
+active_area
+4
+    C,N
+    U,S
+    A,U
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    CN201910605264.2,2019-07-05,
+    CN201910605264.2A,2019-07-05,Power battery grouping topological structure of oil-electricity hybrid power locomotive
+    PCT/CN2020/097630,2020-06-23,Topology structure of power battery pack of diesel-electric hybrid power locomotive
+
+legal_event
+3
+    Date,Code,Title,Description
+    2022-01-04,AS,Assignment,Owner name: CRRC ZIYANG CO., LTD., CHINAFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:MENG, YUFA;WANG, PINGHUA;CHANG, RUILIN;AND OTHERS;REEL/FRAME:058544/0932Effective date: 20211228
+    2022-06-01,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+

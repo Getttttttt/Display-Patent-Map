@@ -1,0 +1,182 @@
+ID
+    US20230166601A1
+citation_exist
+    Patent Citations (13)
+citation_infor
+15
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20160311423A1                      *,2013-12-16,2016-10-27,Contour Hardening, Inc.,Vehicle resource management system
+    US20160318501A1                      *,2013-12-16,2016-11-03,Thomson Power Inc.,Electric vehicle power management driver control system
+    US20170021737A1                      *,2015-07-21,2017-01-26,Hyundai Motor Company,Method and apparatus of controlling output voltage of dc converter for vehicle including driving motor
+    US20170072932A1                      *,2014-03-03,2017-03-16,Jaguar Land Rover Limited,Brake fluid temperature monitoring
+    US20170282889A1                      *,2014-08-26,2017-10-05,Cummins, Inc.,Electric engine accessory control
+    WO2019163052A1                      *,2018-02-22,2019-08-29,日立建機株式会社,Electrically driven vehicle
+    US20200017043A1                      *,2017-10-18,2020-01-16,Toyota Jidosha Kabushiki Kaisha,Vehicle and method of controlling vehicle
+    US20210197672A1                      *,2019-12-31,2021-07-01,Textron, Inc.,Controlling regenerative braking to reduce skidding of a vehicle
+    Family To Family Citations,,,,
+    JP3353299B2                      *,1993-03-22,2002-12-03,セイコーエプソン株式会社,Electric car
+    JP4259489B2                      *,2005-05-23,2009-04-30,トヨタ自動車株式会社,Brake control device for vehicle
+    US9912025B2                      *,2010-06-16,2018-03-06,GM Global Technology Operations LLC,Usage of regenerative brake power for system restart in start-stop operation of fuel cell hybrid vehicles
+    JP5510343B2                      *,2011-01-14,2014-06-04,株式会社デンソー,Control device for electric vehicle
+    KR101526430B1                      *,2014-06-09,2015-06-05,현대자동차 주식회사,Regenerative braking apparatus for vehicle and method of the same
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20230174108A1                      *,2021-12-08,2023-06-08,GM Global Technology Operations LLC,Energy management system for an electric autonomous vehicle, and a method of operating the same
+    Family To Family Citations,,,,
+
+abstract
+    A brake controller of a machine can be configured to determine brake power associated with braking operations, such as operations to slow the machine or maintain a speed of the machine. The brake controller can allocate the brake power among systems such as a battery system, a resistive grid, auxiliary systems, a mechanical brake system, and/or other systems, based on a defined priority order of the systems. For example, the brake controller can prioritize using a regenerative brake system to charge a battery system during a braking operation up to a currently-available capacity of the battery system, and allocating any remaining brake power to a lower-priority system. The mechanical brake system can be the lowest-priority system, such that use of the mechanical brake system can be avoided unless an amount of brake power exceeds capacities of higher-priority systems to consume the brake power.
+title
+    Brake control system for battery-powered machine
+similar_document
+26
+    Publication,Publication Date,Title
+    US11325578B2,2022-05-10,Systems and methods of energy management and control of vehicle accessories
+    US9975542B1,2018-05-22,Dynamically assisting hybrid vehicles
+    CN204236461U,2015-04-01,For controlling the system of hybrid electric vehicle (HEV) power system used
+    US10112595B2,2018-10-30,Predictive control of powertrain systems based on vehicle-to-vehicle (V2V) communications
+    US8180512B2,2012-05-15,Efficient dual source battery pack system for an electric vehicle
+    CN101857023B,2014-12-31,Method for operating electric vehicle
+    US9043060B2,2015-05-26,Methods, systems, and apparatuses for driveline load management
+    US20200349833A1,2020-11-05,Dynamic speed limit for vehicles and autonomous vehicles
+    US20160236587A1,2016-08-18,Predicting energy consumption for an electric vehicle using variations in past energy consumption
+    CN109383505A,2019-02-26,Peak efficiencies are recommended and are shared
+    US10776168B2,2020-09-15,Vehicle and computing system
+    WO2023097209A1,2023-06-01,Brake control system for battery-powered machine
+    CN107554340A,2018-01-09,Battery bag cooling control method, device, system and vehicle
+    US20220340140A1,2022-10-27,Electric delivery truck control system for electric power management
+    JP2020117211A,2020-08-06,Route modification to continue fully-autonomous driving
+    US20210142592A1,2021-05-13,Systems and methods for dynamic pre-filtering with sampling and caching
+    CN112046334A,2020-12-08,Apparatus for controlling rechargeable battery pack having a plurality of different capacities
+    WO2018004415A1,2018-01-04,Method and system for evaluating the operational performance of advanced driver assistant systems associated with a vehicle
+    WO2021069069A1,2021-04-15,A cyber-physical hybrid electric autonomous or semi-autonomous off-highway dump truck for surface mining industry
+    US20230246467A1,2023-08-03,Systems and methods for prioritizing power flow between electrified vehicles and charging trailers
+    US20230168696A1,2023-06-01,Battery management for machine service operations
+    CN105564257A,2016-05-11,Method and apparatus for operating motor vehicle with electric accumulator
+    US20230166632A1,2023-06-01,Battery management for electric material-dispensing machine
+    US20230166613A1,2023-06-01,Battery support service vehicle
+    US20230271529A1,2023-08-31,A method for controlling an energy storage system of a vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    US17/537,420,2021-11-29,2021-11-29,Brake control system for battery-powered machine
+    PCT/US2022/080297,2021-11-29,2022-11-22,Brake control system for battery-powered machine
+
+inventor_number
+    4
+classfication_nums
+    12
+classfication_items
+66
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,1,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,0,1,/,0,0
+    B,6,0,T,2,2,0,1,/,0,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,1,0,/,0,0
+    B,6,0,T,2,2,1,0,/,2,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,2,0,/,0,0
+    B,6,0,T,2,2,2,0,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,5,0,/,0,0
+    B,6,0,T,2,2,5,0,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+
+application_events
+7
+    2021-11-29,Application filed by Caterpillar Global Mining Equipment LLC
+    2021-11-29,Priority to US17/537,420
+    2021-11-29,Assigned to CATERPILLAR GLOBAL MINING LLC
+    2022-01-10,Assigned to CATERPILLAR GLOBAL MINING EQUIPMENT LLC
+    2022-11-22,Priority to PCT/US2022/080297
+    2023-06-01,Publication of US20230166601A1
+    Status,Pending
+
+active_area
+1
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US17/537,420,2021-11-29,Brake control system for battery-powered machine
+
+legal_event
+5
+    Date,Code,Title,Description
+    2021-11-29,AS,Assignment,Owner name: CATERPILLAR GLOBAL MINING LLC, ARIZONAFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:SCHNEIDER, KARL P;LANE, CAMERON THOMAS;SIGNING DATES FROM 20211118 TO 20211129;REEL/FRAME:058233/0245
+    2022-01-06,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2022-01-10,AS,Assignment,Owner name: CATERPILLAR GLOBAL MINING EQUIPMENT LLC, ARIZONAFree format text: CORRECTIVE ASSIGNMENT TO CORRECT THE NAME OF THE ASSIGNEE FROM "CATERPILLAR GLOBAL MINING LLC" TO "CATERPILLAR GLOBAL MINING EQUIPMENT LLC" PREVIOUSLY RECORDED AT REEL: 058233 FRAME: 0245. ASSIGNOR(S) HEREBY CONFIRMS THE ASSIGNMENT;ASSIGNORS:SCHNEIDER, KARL P;LANE, CAMERON THOMAS;SIGNING DATES FROM 20220103 TO 20220105;REEL/FRAME:058672/0479
+    2023-09-29,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+

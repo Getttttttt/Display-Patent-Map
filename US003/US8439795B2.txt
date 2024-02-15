@@ -1,0 +1,219 @@
+ID
+    US8439795B2
+citation_exist
+    Patent Citations (12)
+citation_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    EP1065115A2,1999-07-02,2001-01-03,Honda Giken Kogyo Kabushiki Kaisha,Driving force control unit for vehicles
+    JP2002142302A,2000-11-06,2002-05-17,Mitsubishi Motors Corp,Motor torque controller for vehicle
+    GB2389199A,2002-05-29,2003-12-03,Visteon Global Tech Inc,An apparatus and method of controlling vehicle creep Control Under Braking
+    US20040204285A1,2003-04-14,2004-10-14,Nissan Motor Co., Ltd.,Motor torque control system for vehicle
+    JP2006050811A,2004-08-05,2006-02-16,Toyota Motor Corp,Electric vehicle
+    US20090234524A1                      *,2008-03-14,2009-09-17,Hyundai Motor Company,Torque control method for hybrid electric vehicle
+    US20100004809A1,2008-03-10,2010-01-07,Toyota Jidosha Kabushiki Kaisha,Control device and control method of hybrid vehicle
+    US20100145588A1                      *,2008-12-04,2010-06-10,Luk Lamellen Und Kupplungsbau Beteiligungs Kg,Creeping process
+    Family To Family Citations,,,,
+    US5457363A                      *,1993-02-09,1995-10-10,Toyota Jidosha Kabushiki Kaisha,Driving-force regulating apparatus for electric vehicle
+    JP3374703B2                      *,1997-06-16,2003-02-10,三菱自動車工業株式会社,Electric vehicle motor torque control device
+    JP2007069804A                      *,2005-09-08,2007-03-22,Nissan Motor Co Ltd,Engine start/response improving device for hybrid vehicle
+    US7610976B2                      *,2006-05-03,2009-11-03,Gm Global Technology Operations, Inc.,Hybrid powertrain with electrically variable transmission having parallel friction launch and method
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (2)
+              
+
+
+citedBy_exist
+    
+              Cited By (21)
+              
+
+
+citedBy_infor
+23
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20130017928A1                      *,2011-07-14,2013-01-17,Kia Motors Corporation,Creep torque control method of vehicle
+    US20130288855A1                      *,2012-04-27,2013-10-31,GM Global Technology Operations LLC,System and method for controlling vehicle creep torque
+    US20130304336A1                      *,2012-05-08,2013-11-14,Eaton Corporation,Transmission creep control
+    US20140309828A1                      *,2011-11-14,2014-10-16,Toyota Jidosha Kabushiki Kaisha,Vehicle
+    US20150057898A1                      *,2012-05-08,2015-02-26,Eaton Corporation,Method to initiate, manage, and adapt vehicle motion at low speeds in a wet clutch dual clutch transmission
+    US10647323B2                      *,2015-12-21,2020-05-12,Zf Friedrichshafen Ag,Method for operating a motor vehicle by creep mode of the clutch
+    Family To Family Citations,,,,
+    KR20130053036A                      *,2011-11-14,2013-05-23,현대자동차주식회사,System and method for controlling creep torque of vehicle
+    JP5834862B2                      *,2011-12-09,2015-12-24,トヨタ自動車株式会社,vehicle
+    JP6015511B2                      *,2013-03-22,2016-10-26,マツダ株式会社,Vehicle travel control device
+    US9557748B2                      *,2013-04-26,2017-01-31,Ford Global Technologies, Llc,Powertrain creep torque control
+    JP6063352B2                      *,2013-05-31,2017-01-18,富士重工業株式会社,Vehicle control device
+    WO2015016022A1                      *,2013-08-01,2015-02-05,日産自動車株式会社,Driving force control device for vehicle and method for controlling same
+    US9327709B2                      *,2014-02-12,2016-05-03,Ford Global Technologies, Llc,Cancelling creep torque in a hybrid vehicle
+    FR3021280B1                      *,2014-05-21,2017-12-22,Renault Sas,METHOD FOR CONTROLLING A MOTOR POWER PACKAGE OF A VEHICLE, DEVICE AND CORRESPONDING VEHICLE.
+    KR101755815B1,2015-07-23,2017-07-07,현대자동차주식회사,Apparatus and method for controlling of creep torque using navigation in eco-friendly vehicle
+    JP6653556B2                      *,2015-11-26,2020-02-26,ジヤトコ株式会社,Control device and control method for electric vehicle
+    JP6710962B2                      *,2015-12-22,2020-06-17,三菱自動車工業株式会社,Control device for electric vehicle
+    KR101875641B1                      *,2016-04-08,2018-07-06,현대자동차 주식회사,System and method for torque control of electric vehicle
+    DE102017219675A1                      *,2017-11-06,2019-05-09,Audi Ag,Method for operating a motor vehicle and motor vehicle
+    CN109398108B                      *,2018-09-27,2020-11-10,北京长城华冠汽车科技股份有限公司,Torque filtering method and device for electric automobile
+    US20230044841A1                      *,2021-08-03,2023-02-09,Caterpillar Inc.,Automatic vehicle speed control system
+
+abstract
+    In a vehicle that generates creep torque using an electric motor, a controlling means that causes, on the basis of the results of the detecting by the vehicle speed detecting means and the braking operation detecting means, the electric motor to generate the creep torque, wherein if the brake is operated when the creep torque is generated, the controlling means decreases the creep torque by a first level, if the brake is not operated when the creep torque is generated, the controlling means increases or decrease the creep torque in a level range on the basis of the speed of the vehicle detected by the vehicle speed detecting means, and the first level is a decreasing level larger than a possible maximum decreasing level in the level range.
+title
+    Apparatus for controlling motor torque
+similar_document
+26
+    Publication,Publication Date,Title
+    US8439795B2,2013-05-14,Apparatus for controlling motor torque
+    KR101588789B1,2016-01-26,Method and apparatus of controlling creep torque for vehicle including driving motor
+    US6494809B1,2002-12-17,Engine control apparatus and engine control method
+    JP3922205B2,2007-05-30,Vehicle motor torque control device
+    EP3798462B1,2022-08-24,Vehicle control device for controlling inertia operation of vehicle
+    KR101618453B1,2016-05-04,one-pedal driving control method of electric car
+    JP4026133B2,2007-12-26,Control device for hybrid vehicle
+    JP2003061205A,2003-02-28,Motor controller for electric vehicle
+    JP2000278815A,2000-10-06,Creep controller for electric vehicle
+    JP2000006683A,2000-01-11,Traveling speed control system for vehicle
+    JP4483697B2,2010-06-16,Power generation control system
+    EP3954916B1,2023-05-03,Vehicle control device for controlling inertia operation of vehicle
+    JP3178337B2,2001-06-18,Hybrid car
+    JP4112351B2,2008-07-02,Automotive engine stop control device
+    JP2012060739A,2012-03-22,Motor torque control device for vehicle
+    KR101643777B1,2016-07-28,Driving control system and the method for electric vehicle
+    JP4072913B2,2008-04-09,Vehicle battery management device
+    CN102092389B,2015-01-14,Method and device for controlling constant speed of vehicle
+    JP2013255342A,2013-12-19,Drive power control device of motor mounted vehicle
+    US11815175B2,2023-11-14,Control device and control method of electric vehicle
+    JP4780867B2,2011-09-28,Torque control device for driving force source for vehicle
+    JP7169151B2,2022-11-10,vehicle controller
+    JP2005269871A,2005-09-29,Hybrid vehicle
+    JP2004136731A,2004-05-13,Brake control device of vehicle
+    JP2006101586A,2006-04-13,Controller for vehicle power generator
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    8
+classfication_nums
+    14
+classfication_items
+79
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,0,6,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+8
+    2011-08-15,Application filed by Mitsubishi Motors Corp
+    2011-09-07,Assigned to MITSUBISHI JIDOSHA KOGYO KABUSHIKI KAISHA
+    2012-03-22,Publication of US20120071296A1
+    2013-05-14,Application granted
+    2013-05-14,Publication of US8439795B2
+    2021-03-01,Assigned to MITSUBISHI JIDOSHA KOGYO KABUSHIKI KAISHA
+    Status,Active
+    2031-09-05,Adjusted expiration
+
+active_area
+4
+    J,P
+    E,P
+    U,S
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2010-209732,2010-09-17,
+    JP2010209732A,2010-09-17,Vehicle motor torque control device
+
+legal_event
+7
+    Date,Code,Title,Description
+    2011-09-07,AS,Assignment,Owner name: MITSUBISHI JIDOSHA KOGYO KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:MIYAMOTO, HIROAKI;SANO, YOSHIAKI;SUGIMOTO, TAKANORI;AND OTHERS;REEL/FRAME:026867/0179Effective date: 20110820
+    2013-04-24,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2013-12-02,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2016-11-03,FPAY,Fee payment,Year of fee payment: 4
+    2020-09-29,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+    2021-03-01,AS,Assignment,Owner name: MITSUBISHI JIDOSHA KOGYO KABUSHIKI KAISHA, JAPANFree format text: CHANGE OF ADDRESS;ASSIGNOR:MITSUBISHI JIDOSHA KOGYO KABUSHIKI KAISHA;REEL/FRAME:055472/0944Effective date: 20190104
+

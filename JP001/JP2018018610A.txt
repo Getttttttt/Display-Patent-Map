@@ -1,0 +1,309 @@
+ID
+    JP2018018610A
+citation_exist
+    Patent Citations (14)
+citation_infor
+16
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2007194177A                      *,2006-01-23,2007-08-02,Nissan Motor Co Ltd,燃料電池システム及び燃料電池の加湿状態判定方法
+    JP2009181841A                      *,2008-01-31,2009-08-13,Toyotomi Co Ltd,燃料電池システムの生成水滞留判定方法と生成水滞留対応方法
+    Family To Family Citations,,,,
+    CA2484934A1                      *,2002-05-17,2003-11-27,Greenlight Power Technologies, Inc.,Method and system for verification, calibration and simulation of a fuel cell test station
+    DE102004055728A1                      *,2003-11-20,2005-07-28,Kabushiki Kaisha Toyota Jidoshokki, Kariya,Brennstoffzellensystem
+    JP2007157414A,2005-12-02,2007-06-21,Toyota Motor Corp,燃料電池システムと燃料電池の含水量測定方法
+    JP4984534B2                      *,2006-01-11,2012-07-25,日産自動車株式会社,燃料電池システム
+    CN101566594B                      *,2008-04-24,2012-07-11,汉能科技有限公司,一种检验燃料电池堆中单片膜电极组缺陷的方法
+    JP5401867B2                      *,2008-08-07,2014-01-29,日産自動車株式会社,燃料電池システムおよび燃料電池の特性回復方法
+    DE102010056416A1                      *,2010-07-07,2012-01-12,Volkswagen Ag,Verfahren zum Betreiben und/oder Regenerieren einer Brennstoffzelle sowie Brennstoffzelle
+    US10267862B2                      *,2012-01-17,2019-04-23,Toyota Jidosha Kabushiki Kaisha,Fuel cell system with minimum cell voltage estimation
+    CN102945976B                      *,2012-11-06,2014-11-12,武汉理工大学,一种分布式燃料电池控制系统与控制方法
+    JP6161580B2                      *,2014-06-30,2017-07-12,本田技研工業株式会社,燃料電池システム及び燃料電池車両
+    JP6135643B2                      *,2014-11-12,2017-05-31,トヨタ自動車株式会社,発電監視装置、燃料電池システムおよび発電監視方法
+    JP6112100B2                      *,2014-11-14,2017-04-12,トヨタ自動車株式会社,燃料電池システム
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (9)
+              
+
+
+citedBy_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US10634727B2                      *,2017-11-29,2020-04-28,GM Global Technology Operations LLC,Fuel cell stack cell voltage sensor diagnostic
+    DE102019200586B4                      *,2019-01-17,2023-05-17,Audi Ag,Spannungswandleranordnung, Brennstoffzellensystem und Verfahren zum Betreiben einer Spannungswandleranordnung
+    JP7136016B2                      *,2019-06-18,2022-09-13,トヨタ自動車株式会社,燃料電池システム
+    DE102019214268A1                      *,2019-09-19,2021-03-25,Robert Bosch Gmbh,Brennstoffzelleneinheit
+    DE102019215285A1                      *,2019-10-04,2021-04-08,Robert Bosch Gmbh,Brennstoffzellenschließsystem
+    KR20210060684A                      *,2019-11-15,2021-05-27,현대자동차주식회사,연료전지 차량의 운전 제어시스템 및 제어방법
+    CN113497261B                      *,2020-04-07,2023-02-28,广州汽车集团股份有限公司,一种燃料电池的输出功率的确定方法及装置
+    CN112713289B                      *,2020-12-25,2022-04-15,中国第一汽车股份有限公司,一种燃料电池控制方法、装置、设备及存储介质
+    CN113193214B                      *,2021-05-12,2022-09-30,中国第一汽车股份有限公司,燃料电池系统排水控制方法、燃料电池系统及电动汽车
+
+abstract
+    【課題】昇温を行う燃料電池システムにおいて、セルが過度に乾燥することを抑制する。【解決手段】燃料電池スタックと第１温度値を計測する第１温度計と発電電圧を計測する発電電圧計とセル電圧計と温度調整機構を制御して燃料電池スタックを昇温させる制御部、を備える燃料電池システム。制御部は、セル電圧が予め定められた電圧値未満である場合に燃料電池スタックの昇温を開始し、昇温の開始後第１温度値が第１基準温度に到達した後、複数の時間計測条件のうち少なくとも一つが満たされる場合に、セルの平均電圧からセル電圧を引いた差が予め定められた電圧差以下に維持された時間を計測し、計測された時間が第１基準時間を経過した場合に昇温を終了する。条件は、暖気運転、間欠運転、回生制動が終了、又は燃料電池スタックが発電可能な状態に移行してから、予め定められた時間が経過したという条件である。【選択図】図４
+title
+    燃料電池システム
+similar_document
+25
+    Publication,Publication Date,Title
+    JP6399053B2,2018-10-03,燃料電池システム
+    JP6493323B2,2019-04-03,燃料電池システム
+    US10122030B2,2018-11-06,Fuel cell system and method of controlling operation of fuel cell
+    JP6252595B2,2017-12-27,燃料電池システム及び燃料電池システムの制御方法
+    JP4962919B2,2012-06-27,燃料電池システムおよび該システムにおける始動時制御方法
+    JP7119705B2,2022-08-17,燃料電池システム
+    CA2641201C,2012-08-14,Fuel cell system having controller controlling higher-efficiency operation and lower-efficiency operation
+    JP5273415B2,2013-08-28,燃料電池システム及び燃料電池システムにおける始動時制御方法
+    JP6137122B2,2017-05-31,燃料電池システムにおける冷却媒体の流量制御方法、および燃料電池システム
+    JP4940640B2,2012-05-30,燃料電池システム
+    CN107959034B,2021-03-12,燃料电池系统及其控制方法
+    US20200036018A1,2020-01-30,Fuel cell system
+    JP6414158B2,2018-10-31,燃料電池システム
+    JP2019154176A,2019-09-12,燃料電池車両
+    JP2008034309A,2008-02-14,燃料電池システム
+    JP6932756B2,2021-09-08,燃料電池車両、及び燃料電池車両の起動方法
+    KR102540935B1,2023-06-08,연료전지시스템의 운전 제어 방법
+    JP2013243022A,2013-12-05,燃料電池システム
+    JP7367611B2,2023-10-24,燃料電池システム
+    JP5803445B2,2015-11-04,燃料電池システム
+    JP2021180160A,2021-11-18,燃料電池システム
+    JP2018147732A,2018-09-20,電動車両
+    JP2020170650A,2020-10-15,燃料電池システム
+    JP2023150499A,2023-10-16,温調装置及び車両
+
+patent_application
+    NoExist
+patent_priority_application
+4
+    Application,Priority date,Filing date,Title
+    JP2016145913A,2016-07-26,2016-07-26,燃料電池システム
+    US15/638,540,2016-07-26,2017-06-30,Fuel cell system
+    CN201710606783.1A,2016-07-26,2017-07-24,燃料电池系统
+
+inventor_number
+    8
+classfication_nums
+    25
+classfication_items
+176
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,9,8
+    H,0,1,M,8,/,0,4,3,1,3
+    H,0,1,M,8,/,0,4,3,2
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,9,8
+    H,0,1,M,8,/,0,4,6,9,4
+    H,0,1,M,8,/,0,4,7,0,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,7,0
+    B,6,0,L,5,0,/,7,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,7,0
+    B,6,0,L,5,0,/,7,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,3,0
+    B,6,0,L,5,8,/,3,2
+    B,6,0,L,5,8,/,3,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,0,0,7
+    H,0,1,M,8,/,0,4,0,2,9
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,0,0,7
+    H,0,1,M,8,/,0,4,0,6,7
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,0,8,2
+    H,0,1,M,8,/,0,4,0,8,9
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,9,8
+    H,0,1,M,8,/,0,4,3
+    H,0,1,M,8,/,0,4,3,0,2
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,9,8
+    H,0,1,M,8,/,0,4,3,1,3
+    H,0,1,M,8,/,0,4,5,3,7
+    H,0,1,M,8,/,0,4,5,4,4
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,9,8
+    H,0,1,M,8,/,0,4,3,1,3
+    H,0,1,M,8,/,0,4,5,3,7
+    H,0,1,M,8,/,0,4,5,4,4
+    H,0,1,M,8,/,0,4,5,5,9
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,9,8
+    H,0,1,M,8,/,0,4,3,1,3
+    H,0,1,M,8,/,0,4,5,3,7
+    H,0,1,M,8,/,0,4,6,0,4
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,9,8
+    H,0,1,M,8,/,0,4,3,1,3
+    H,0,1,M,8,/,0,4,5,3,7
+    H,0,1,M,8,/,0,4,6,0,4
+    H,0,1,M,8,/,0,4,6,1,9
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,9,8
+    H,0,1,M,8,/,0,4,6,9,4
+    H,0,1,M,8,/,0,4,7,4,6
+    H,0,1,M,8,/,0,4,7,5,3
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,9,8
+    H,0,1,M,8,/,0,4,6,9,4
+    H,0,1,M,8,/,0,4,9,5,5
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,8,0
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,2,2,5,0,/,0,0
+    H,0,1,M,2,2,5,0,/,2,0
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,3,0
+    Y,0,2,E,6,0,/,5,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,4,0
+
+application_events
+9
+    2016-07-26,Application filed by Toyota Motor Corp
+    2016-07-26,Priority to JP2016145913A
+    2017-06-30,Priority to US15/638,540
+    2017-07-24,Priority to CN201710606783.1A
+    2018-02-01,Publication of JP2018018610A
+    2018-10-03,Application granted
+    2018-10-03,Publication of JP6399053B2
+    Status,Active
+    2036-07-26,Anticipated expiration
+
+active_area
+2
+    J,P
+    C,N
+
+not_active_area
+1
+    U,S
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2016145913A,2016-07-26,燃料電池システム
+
+legal_event
+9
+    Date,Code,Title,Description
+    2017-11-02,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20171102
+    2018-05-22,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20180522
+    2018-05-25,A977,Report on retrieval,Free format text: JAPANESE INTERMEDIATE CODE: A971007Effective date: 20180523
+    2018-06-21,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20180621
+    2018-07-27,TRDD,Decision of grant or rejection written,
+    2018-08-07,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20180807
+    2018-09-10,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20180820
+    2018-09-14,R151,Written notification of patent or utility model registration,Ref document number: 6399053Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R151
+

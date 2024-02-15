@@ -1,0 +1,262 @@
+ID
+    US20140321182A1
+citation_exist
+    Patent Citations (12)
+citation_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20090121659A1                      *,2005-09-29,2009-05-14,Toyota Jidosha Kabushiki Kaisha,Charge control apparatus, electrically powered vehicle and electric storage charge control method
+    US7594491B2                      *,2006-01-31,2009-09-29,Toyota Jidosha Kabushiki Kaisha,Internal combustion engine start controller
+    US8643316B2                      *,2008-09-05,2014-02-04,Mitsubishi Electric Corporation,Power conversion device
+    Family To Family Citations,,,,
+    JP2007221920A                      *,2006-02-16,2007-08-30,Nissan Motor Co Ltd,Converter controller and converter control method
+    WO2007108115A1                      *,2006-03-22,2007-09-27,Mitsubishi Denki Kabushiki Kaisha,Bidirectional step-up/step-down dc/dc converter apparatus
+    JP4861750B2                      *,2006-06-01,2012-01-25,トヨタ自動車株式会社,Power supply device and control method thereof
+    KR100915149B1                      *,2007-07-19,2009-09-03,(주)에스엠엘전자,Multi-channel capacitive sensing circuit
+    WO2010137127A1,2009-05-27,2010-12-02,トヨタ自動車株式会社,Control device for a voltage converter and vehicles equipped with same, and a voltage converter control method
+    JP2010283931A,2009-06-02,2010-12-16,Toyota Motor Corp,Dc voltage converter
+    EP2439837A4,2009-06-02,2014-04-09,Toyota Motor Co Ltd,Control device for voltage conversion device, vehicle in which the same is installed, and control method for voltage conversion device
+    JP5446804B2                      *,2009-12-07,2014-03-19,富士電機株式会社,Half-bridge power converter
+    JP2011166990A                      *,2010-02-12,2011-08-25,Toyota Motor Corp,Power supply system
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (10)
+              
+
+
+citedBy_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20150244287A1                      *,2012-10-30,2015-08-27,Kabushiki Kaisha Yaskawa Denki,Power conversion apparatus and power conversion method
+    US20150326124A1                      *,2014-05-09,2015-11-12,Toyota Jidosha Kabushiki Kaisha,Boost converter device
+    US20160013739A1                      *,2014-07-11,2016-01-14,Fanuc Corporation,Motor drive device having function of estimating dead time in output stage
+    US20170373597A1                      *,2016-06-27,2017-12-28,Mitsubishi Electric Corporation,Dc power source apparatus
+    US10035424B2                      *,2015-12-02,2018-07-31,Borgward Trademark Holdings Gmbh,Battery management system, vehicle and method for controlling main relay
+    US10361622B2                      *,2015-12-04,2019-07-23,General Electric Technology Gmbh,Converters for HVDC power transmission and distribution
+    Family To Family Citations,,,,
+    US9748829B2                      *,2013-03-08,2017-08-29,Mitsubishi Electric Corporation,Power module
+    KR101797270B1                      *,2014-04-16,2017-11-13,엘에스산전 주식회사,Control sequence module of grid tied inverter system
+    JP6962203B2                      *,2018-01-11,2021-11-05,株式会社デンソー,Boost system
+    JP6958408B2                      *,2018-02-13,2021-11-02,トヨタ自動車株式会社,Boost converter device
+
+abstract
+    A control apparatus for a voltage conversion apparatus includes: duty command signal generation means for generating a duty command signal corresponding to a duty ratio of switching elements carrier signal generation means for generating carrier signals corresponding to respective switching frequencies of the switching elements; switching control signal generation means for generating respective switching control signals of switching ON and OFF states of the switching elements, by comparing the duty command signal with the carrier signals; one arm driving control means for implementing one arm driving by alternatively turning on the first and second switching elements; and phase inverting means for bringing phases of portions, of the carrier signals, corresponding to switching at least right after arm switching, into a state where the phases are shifted from each other by 180 degrees between the first and second switching elements, at the time of the arm switching.
+title
+    Control apparatus and control method for voltage conversion apparatus
+similar_document
+26
+    Publication,Publication Date,Title
+    US9374022B2,2016-06-21,Control apparatus and control method for voltage conversion apparatus
+    US10081255B2,2018-09-25,Vehicle including electronic control unit configured to control inverter
+    KR101021256B1,2011-03-11,Motor driving control system and its control method
+    JP4232789B2,2009-03-04,Stop control device and stop control method for internal combustion engine
+    US8639405B2,2014-01-28,Electric motor drive system for an electric vehicle
+    JP5760778B2,2015-08-12,Motor drive control system
+    JP2013207914A,2013-10-07,Controller of voltage converter
+    JP5482574B2,2014-05-07,AC motor control system
+    JP5807524B2,2015-11-10,Control device for voltage converter
+    US20140217941A1,2014-08-07,Motor control system
+    JP2011091962A,2011-05-06,Abnormality determination device of current sensor and abnormality determination method
+    JP2014113003A,2014-06-19,Vehicle
+    JP2011109851A,2011-06-02,Device for controlling power supply system, and vehicle mounting the same
+    JP5780197B2,2015-09-16,Voltage converter
+    JP2011109850A,2011-06-02,Device for controlling power supply system, and vehicle mounting the same
+    JP4905204B2,2012-03-28,Load drive device
+    US9502977B2,2016-11-22,Control apparatus for voltage converting apparatus
+    JP2011109852A,2011-06-02,Device for controlling power supply system, and vehicle mounting the same
+    JP2010035279A,2010-02-12,Power supply system and electric vehicle
+    JP2011109849A,2011-06-02,Device for controlling power supply system, and vehicle mounting the same
+    US8148927B2,2012-04-03,Alternating-current motor control apparatus
+    JP2013207915A,2013-10-07,Controller of voltage converter
+    JP5618012B2,2014-11-05,Control device and control method for voltage converter
+    JP2010220306A,2010-09-30,Motor control equipment
+    JP5884297B2,2016-03-15,Motor drive control system, vehicle equipped with the same, and motor drive control system control method
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    22
+classfication_items
+137
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,4,2
+    H,0,2,M,7,/,4,4
+    H,0,2,M,7,/,4,8
+    H,0,2,M,7,/,5,3
+    H,0,2,M,7,/,5,3,7
+    H,0,2,M,7,/,5,3,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,0,8
+    H,0,2,M,1,/,0,8,3
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,3,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,1,0
+    B,6,0,L,2,2,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2011-10-07,Application filed by Toyota Motor Corp
+    2014-06-09,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2014-10-30,Publication of US20140321182A1
+    2016-06-21,Application granted
+    2016-06-21,Publication of US9374022B2
+    Status,Expired - Fee Related
+    2032-01-05,Adjusted expiration
+
+active_area
+1
+    W,O
+
+not_active_area
+3
+    U,S
+    C,N
+    E,P
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2011/073216,2011-10-07,Voltage conversion device control device and method
+
+legal_event
+7
+    Date,Code,Title,Description
+    2014-06-09,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:TAKAMATSU, NAOYOSHI;OKAMURA, MASAKI;SIGNING DATES FROM 20140407 TO 20140417;REEL/FRAME:033055/0166
+    2016-06-01,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2020-02-10,FEPP,Fee payment procedure,Free format text: MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2020-07-27,LAPS,Lapse for failure to pay maintenance fees,Free format text: PATENT EXPIRED FOR FAILURE TO PAY MAINTENANCE FEES (ORIGINAL EVENT CODE: EXP.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2020-07-27,STCH,Information on status: patent discontinuation,Free format text: PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362
+    2020-08-18,FP,Lapsed due to failure to pay maintenance fee,Effective date: 20200621
+

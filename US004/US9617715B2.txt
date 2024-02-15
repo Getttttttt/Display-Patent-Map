@@ -1,0 +1,395 @@
+ID
+    US9617715B2
+citation_exist
+    Patent Citations (16)
+citation_infor
+18
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2003028071A,2001-07-18,2003-01-29,Hitachi Constr Mach Co Ltd,Drive control device for hybrid construction machine, hybrid construction machine and drive control program therefor
+    US6672415B1                      *,1999-05-26,2004-01-06,Toyota Jidosha Kabushiki Kaisha,Moving object with fuel cells incorporated therein and method of controlling the same
+    JP2006083550A,2004-09-14,2006-03-30,Hitachi Constr Mach Co Ltd,Hydraulic drive unit for construction equipment
+    US20080154466A1,2006-12-21,2008-06-26,Caterpillar Inc.,System and method for controlling a machine
+    JP2009216058A,2008-03-12,2009-09-24,Sumitomo Heavy Ind Ltd,Control method for construction machinery
+    US20090243518A1                      *,2008-04-01,2009-10-01,Takao Itoh,Motive power output device, vehicle equipped with the device, and control method for motive power output device
+    JP2010106511A,2008-10-29,2010-05-13,Kobelco Contstruction Machinery Ltd,Slewing control device of working machine
+    US20100160111A1,2008-12-18,2010-06-24,Jatco Ltd,Control apparatus for belt-type continuously-variable transmission
+    US20110167811A1,2007-09-19,2011-07-14,Komatsu Ltd,Engine control apparatus
+    US20120240582A1,2011-03-25,2012-09-27,Hitachi Construction Machinery Co., Ltd.,Hybrid construction machine
+    US20130218387A1,2010-09-27,2013-08-22,Toyota Jidosha Kabushiki Kaisha,Control apparatus for hybrid vehicle
+    Family To Family Citations,,,,
+    JP3441995B2                      *,1999-03-01,2003-09-02,日立建機株式会社,Construction equipment valve arrangement
+    DE10241018A1                      *,2002-09-05,2004-03-25,Robert Bosch Gmbh,Motor vehicle with hybrid drive, has engine controller that controls internal combustion engine in idling mode according to power requirements of on-board electrical system of motor vehicle
+    US7182065B2                      *,2004-07-29,2007-02-27,Ford Global Technologies, Llc,Vehicle and method for operating an engine in a vehicle
+    WO2007052538A1                      *,2005-10-31,2007-05-10,Komatsu Ltd.,Control device of work machine
+    DE102005061414A1                      *,2005-12-22,2007-06-28,Robert Bosch Gmbh,Operating hybrid vehicle with first electrical machine revolution rate regulated and second torque regulated, at least some of the tim, involves operating internal combustion engine by regulating its revolution rate
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (11)
+              
+
+
+citedBy_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP6227911B2                      *,2013-07-02,2017-11-08,日立建機株式会社,Hybrid work machine
+    KR101558288B1                      *,2013-07-10,2015-10-12,(주)케이엔알시스템,Mobile Hydraulic Generator And Control Method Of Mobile Hydraulic Generator
+    NL2011596C2                      *,2013-10-11,2015-04-14,Hudson Bay Holding B V,ELECTRIC DRIVE OF MOBILE DEVICE.
+    CN106103851B                      *,2013-12-26,2018-02-09,斗山英维高株式会社,The power control unit of engineering machinery
+    JP6406832B2                      *,2014-02-27,2018-10-17,日立建機株式会社,Construction machine control equipment
+    JP6158126B2                      *,2014-03-20,2017-07-05,ヤンマー株式会社,Hybrid drive
+    JP6324224B2                      *,2014-06-10,2018-05-16,日立建機株式会社,Hybrid construction machinery
+    KR101705744B1                      *,2015-09-01,2017-02-10,가부시키가이샤 고마쓰 세이사쿠쇼,Working vehicle and working vehicle control method
+    WO2019050532A1                      *,2017-09-08,2019-03-14,Cummins Inc.,Hydraulic system for engine starter and generator
+    CN110520575B                      *,2018-03-22,2021-11-02,日立建机株式会社,Working machine
+    JP2019002407A                      *,2018-09-18,2019-01-10,日立建機株式会社,Control device for construction machine
+
+abstract
+    A construction machine including an internal combustion engine controlled based on a torque command, an electric motor mechanically connected to the internal combustion engine, and an electric energy storage device that supplies electric power to the electric motor, the construction machine performing work by driving a hydraulic pressure generator using the internal combustion engine and the electric motor, the construction machine including: a speed control device that controls a speed of the electric motor based on a speed command; and a torque limiter that limits the torque command relative to a torque target, wherein the torque command is limited by the torque limiter in such a manner that a rate of change with time of the torque command is limited to be equal to or less than a predetermined value.
+title
+    Construction machine
+similar_document
+23
+    Publication,Publication Date,Title
+    US9617715B2,2017-04-11,Construction machine
+    KR101952984B1,2019-02-27,Hybrid construction machine and method for controlling same
+    KR101199244B1,2012-11-09,Hybrid construction machine
+    JP5759019B1,2015-08-05,Hybrid work machine
+    JP5767448B2,2015-08-19,Control system and method for hybrid construction machine
+    JP5758994B2,2015-08-05,Control system for hybrid excavator
+    KR20140039198A,2014-04-01,Hydraulic machine
+    WO2013175658A1,2013-11-28,Hybrid work machine and hybrid work machine control method
+    US9567916B2,2017-02-14,Engine control apparatus and construction machine
+    KR101908554B1,2018-10-16,Power shovel and power shovel control method
+    JP4563302B2,2010-10-13,Power distribution control device and hybrid construction machine
+    JP2010173599A,2010-08-12,Control method for hybrid type operation machinery, and control method for servo control system
+    JP5037555B2,2012-09-26,Hybrid construction machine
+    KR101767798B1,2017-08-11,Hybrid work machine
+    JP2001011899A,2001-01-16,Hydraulic circuit for work machine and hybrid work machine
+    JP2019001461A,2019-01-10,Shovel
+    KR102046178B1,2019-11-18,Apparatus and method for controlling dc terminal voltage of construction equipment with elctric motor
+    JP5808635B2,2015-11-10,Control method of hybrid excavator
+    JP6406832B2,2018-10-17,Construction machine control equipment
+    JP2019002407A,2019-01-10,Control device for construction machine
+    JP2015058799A,2015-03-30,Power control device of hybrid construction machinery
+    JP2015175091A,2015-10-05,Shovel and method for controlling the same
+
+patent_application
+3
+    Application,Priority date,Filing date,Relation,Title
+    PCT/JP2012/070557,2011-08-31,2012-08-10,Continuation,Construction machine
+    US14/239,795,2011-08-31,2012-08-10,Continuation,Construction machine
+
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US15/015,453,2011-08-31,2016-02-04,Construction machine
+
+inventor_number
+    5
+classfication_nums
+    53
+classfication_items
+258
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,0,5,8
+    E,0,2,F,9,/,2,0,6,2
+    E,0,2,F,9,/,2,0,7,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B,6,0,L,1,1,/,0,0,5
+    B,6,0,L,1,1,/,1,2,3
+    B,6,0,L,1,1,/,1,8,6,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,5
+    B,6,0,W,2,0,/,1,6
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,3,/,0,0
+    E,0,2,F,3,/,0,4
+    E,0,2,F,3,/,2,8
+    E,0,2,F,3,/,3,0
+    E,0,2,F,3,/,3,2
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,0,5,8
+    E,0,2,F,9,/,2,0,6,2
+    E,0,2,F,9,/,2,0,7
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B,6,0,K,6,/,4,8,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,1,0
+    B,6,0,L,2,2,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,8,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,1,0
+    B,6,0,L,2,2,7,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,2,0,5,0,/,0,0,0,1
+    B,6,0,W,2,0,5,0,/,0,0,4,3
+    B,6,0,W,2,0,5,0,/,0,0,5,2
+    B,6,0,W,2,0,5,0,/,0,0,5,4
+    B,6,0,W,2,0,5,0,/,0,0,5,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,3,0,0,/,0,0
+    B,6,0,W,2,3,0,0,/,1,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,6
+    B,6,0,W,2,5,1,0,/,0,6,5,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,6
+    B,6,0,W,2,5,1,0,/,0,6,5,7
+    B,6,0,W,2,5,1,0,/,0,6,6,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,8
+    B,6,0,W,2,5,1,0,/,0,8,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,8
+    B,6,0,W,2,5,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y,0,2,T,1,0,/,6,2,1,7
+    Y,0,2,T,1,0,/,6,2,2,6
+    Y,0,2,T,1,0,/,6,2,8,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,5
+    Y,0,2,T,1,0,/,6,4,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,0,5
+    Y,0,2,T,1,0,/,7,0,2,2
+    Y,0,2,T,1,0,/,7,0,4,4
+    Y,0,2,T,1,0,/,7,0,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y,0,2,T,1,0,/,7,0,7,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,7,5
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+
+application_events
+7
+    2016-02-04,Application filed by Hitachi Construction Machinery Co Ltd
+    2016-02-04,Priority to US15/015,453
+    2016-06-02,Publication of US20160153176A1
+    2017-04-11,Application granted
+    2017-04-11,Publication of US9617715B2
+    Status,Active
+    2032-08-10,Anticipated expiration
+
+active_area
+4
+    J,P
+    K,R
+    W,O
+    U,S
+
+not_active_area
+3
+    E,P
+    U,S
+    C,N
+
+patent_application_claiming_priority
+6
+    Application,Filing date,Title
+    JP2011189555A,2011-08-31,Construction machinery
+    JP2011189555,2011-08-31,
+    PCT/JP2012/070557,2012-08-10,Construction machine
+    US201414239795A,2014-02-20,
+    US15/015,453,2016-02-04,Construction machine
+
+legal_event
+3
+    Date,Code,Title,Description
+    2017-03-22,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2020-09-25,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

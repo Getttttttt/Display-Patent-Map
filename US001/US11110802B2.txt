@@ -1,0 +1,218 @@
+ID
+    US11110802B2
+citation_exist
+    Patent Citations (26)
+citation_infor
+28
+    Publication number,Priority date,Publication date,Assignee,Title
+    US6425644B2                      *,1999-12-24,2002-07-30,Toyota Jidosha Kabushiki Kaisha,Braking pressure control apparatus having device for diagnosing manually operated hydraulic system
+    DE10325266A1,2002-06-06,2004-01-22,Continental Teves Ag & Co. Ohg,Motor vehicle braking system has detection unit that initiates preliminary intervention available based on data depending on intended intervention at braking force level almost undetectable by driver
+    JP2005329740A,2004-05-18,2005-12-02,Toyota Motor Corp,Vehicular braking system
+    US20060196712A1                      *,2005-03-04,2006-09-07,Nissan Motor Co., Ltd.,Vehicle regenerative braking control apparatus and method
+    JP2007196923A,2006-01-27,2007-08-09,Toyota Motor Corp,Brake controller
+    US7311163B2                      *,2004-11-16,2007-12-25,Eaton Corporation,Regeneration and brake management system
+    US7458650B2                      *,2004-09-10,2008-12-02,Nissan Motor Co., Ltd.,Regenerative braking system for motor vehicles
+    EP2418132A1,2009-04-08,2012-02-15,Honda Motor Co., Ltd.,Brake device for vehicle
+    EP2463165A1,2009-08-07,2012-06-13,Toyota Jidosha Kabushiki Kaisha,Brake control system, and brake control method
+    CN102887138A,2011-07-19,2013-01-23,日立汽车系统株式会社,Control apparatus for vehicle
+    JP2013043489A,2011-08-22,2013-03-04,Advics Co Ltd,Brake device for vehicle
+    JP2013086626A,2011-10-17,2013-05-13,Nissan Motor Co Ltd,Brake control device of electric vehicle
+    WO2013092294A1,2011-12-20,2013-06-27,Lucas Automotive Gmbh,Vehicle brake system
+    US8521350B2                      *,2011-03-02,2013-08-27,Toyota Jidosha Kabushiki Kaisha,Vehicle control device and vehicle control method
+    CN103328281A,2011-02-02,2013-09-25,罗伯特·博世有限公司,Method for braking a vehicle having a hybrid brake system
+    CN103359095A,2012-03-30,2013-10-23,日立汽车系统株式会社,Brake device
+    US8630780B2                      *,2008-05-20,2014-01-14,Robert Bosch Gmbh,Brake system and method for operating a brake system
+    JP2014012429A,2012-07-03,2014-01-23,Advics Co Ltd,Vehicular braking control system
+    WO2014154435A1,2013-03-28,2014-10-02,Robert Bosch Gmbh,Brake system for a vehicle and a method for operating the brake system
+    US8862358B2                      *,2013-03-15,2014-10-14,Ford Global Technologies, Llc,Vehicle and method for controlling regenerative braking
+    US9016808B2                      *,2010-03-31,2015-04-28,Advics Co., Ltd.,Vehicle brake device
+    US9333957B2                      *,2010-01-28,2016-05-10,Continental Teves Ag & Co. Ohg,Method for operating a brake system for a motor vehicle and brake system
+    US9527388B2                      *,2011-01-31,2016-12-27,Suzuki Motor Corporation,Regenerative control device and regenerative control method and hybrid motor vehicle
+    US20170232849A1                      *,2016-02-16,2017-08-17,Toyota Jidosha Kabushiki Kaisha,Vehicle brake system
+    US20180361856A1                      *,2017-06-15,2018-12-20,Ford Global Technologies, Llc,Methods and system for regenerative hybrid vehicle braking
+    US10189454B2                      *,2016-02-16,2019-01-29,Toyota Jidosha Kabushiki Kaisha,Brake system
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (12)
+              
+
+
+citedBy_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US10308120B2                      *,2017-04-12,2019-06-04,Ford Global Technologies, Llc,Optimizing regenerative braking efficiency in a hybrid vehicle
+    US10696164B2,2017-05-18,2020-06-30,Ford Global Technologies, Llc,Optimizing regenerative braking efficiency in a hybrid vehicle
+    DE102017111077A1                      *,2017-05-22,2018-11-22,Lsp Innovative Automotive Systems Gmbh,Braking device, in particular for electrically driven motor vehicles
+    DE102017212360A1                      *,2017-07-19,2019-01-24,Robert Bosch Gmbh,Control device for at least one motorized plunger device and method for operating a hydraulic brake system of a vehicle
+    JP2019018815A                      *,2017-07-21,2019-02-07,日立オートモティブシステムズ株式会社,Vehicle brake device, vehicle brake method and vehicle brake system
+    DE102017221478A1                      *,2017-11-30,2019-06-06,Robert Bosch Gmbh,Method for functional testing of an electromechanical level monitoring device
+    KR102187631B1,2018-03-29,2020-12-07,현대모비스 주식회사,Braking apparatus and braking control method of vehicle
+    DE102018206082A1                      *,2018-04-20,2019-10-24,Robert Bosch Gmbh,Multi-circuit hydraulic open brake system, especially for a highly automated or autonomous vehicle
+    DE102018221077A1                      *,2018-12-06,2020-06-10,Robert Bosch Gmbh,Method for controlling an electronically slip-controllable brake system for a motor vehicle
+    DE102019204708A1                      *,2019-04-02,2020-10-08,Volkswagen Aktiengesellschaft,Method for decelerating a motor vehicle during an emergency braking with an electric motor of an electric drive of the motor vehicle and a braking torque of a service brake system of the motor vehicle and motor vehicle
+    CN111422176B                      *,2020-02-26,2021-03-05,中国地质大学（北京）,Distributed line control brake system and control method for commercial vehicle
+    EP4019315A4                      *,2020-04-28,2022-11-23,Mitsubishi Jidosha Kogyo Kabushiki Kaisha,Vehicle braking device
+
+abstract
+    A method for operating a regenerative braking system of a vehicle by activating at least one motor employable in generator mode taking into consideration a first information with regard to a requested setpoint total braking torque and a second information with regard to an available generator braking torque which is maximally executable by the at least one motor employable in generator mode, if the setpoint total braking torque exceeds a threshold value and/or a piece of warning information regarding a transition to a backup level that is potentially imminent or has occurred of the regenerative braking system, even if the setpoint total braking torque is less than or equal to the maximally executable available generator braking torque, sufficient brake fluid is transferred via at least one hydraulic actuator to a wheel brake cylinder of the regenerative braking system that an air gap of the particular wheel brake cylinder is closed.
+title
+    Method for operating a regenerative braking system of a vehicle and control unit for a regenerative braking system of a vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US11110802B2,2021-09-07,Method for operating a regenerative braking system of a vehicle and control unit for a regenerative braking system of a vehicle
+    KR101729367B1,2017-04-21,Coupling device for connecting a brake input element to a main brake cylinder and method for operating such a coupling device
+    CN107107890B,2021-01-08,Actuating system for a vehicle brake and method for operating an actuating system
+    US9233676B2,2016-01-12,Method for operating a brake system, brake systems in which the method is carried out and motor vehicles comprising said brakes systems
+    US9463782B2,2016-10-11,Brake control system
+    US11458943B2,2022-10-04,Brake device, in particular for electrically driven motor vehicles
+    US20120091788A1,2012-04-19,Brake system for a vehicle and method for operating a brake system for a vehicle
+    JP5863954B2,2016-02-17,CONTROL DEVICE FOR VEHICLE BRAKE SYSTEM AND METHOD FOR OPERATING VEHICLE BRAKE SYSTEM
+    KR101884489B1,2018-08-01,Control device and method for operating a braking system equipped with an electrical drive device and/or generator device
+    KR102082307B1,2020-02-27,Method for operating a braking system of a vehicle and control device for a braking system of a vehicle
+    KR101956394B1,2019-03-11,Braking system for a vehicle and method for operating a braking system for a vehicle
+    KR102197473B1,2020-12-31,Control device for at least one electrical parking brake of a braking system for a vehicle and method for operating a braking system for a vehicle having a brake booster and an electrical parking brake
+    US20120279814A1,2012-11-08,Method for carrying out an emergency braking procedure in a vehicle
+    KR101948947B1,2019-02-15,Braking system and method for operating a braking system for a vehicle
+    US11597367B2,2023-03-07,Hydraulic brake system
+    JP2009292386A,2009-12-17,Brake system
+    CN106240542B,2021-03-09,Back-off by-wire braking mode for brake-by-wire systems in vehicles
+    US9050955B2,2015-06-09,Hydraulic vehicle braking system, vehicle having such a braking system, and method for operating a hydraulic vehicle braking system
+    KR20160003688A,2016-01-11,Control device for a hydraulic brake system of a vehicle, hydraulic brake system for a vehicle and method for operating a hydraulic brake system of a vehicle
+    US9908416B2,2018-03-06,Method for blending a generator braking torque of a generator of a recuperative brake system having two brake circuits, and a control device for a recuperative brake system having two brake circuits
+    CN105984450B,2020-10-30,Control device for a hydraulic assembly and method for implementing anti-lock at a wheel brake cylinder
+    CN102171073A,2011-08-31,Method for operating a brake system in a vehicle
+    KR102487781B1,2023-01-12,Regenerative braking system for a vehicle and method for operating the regenerative braking system in a vehicle
+    US10821949B2,2020-11-03,Electronic brake boost on secondary brake system
+    CN105292093B,2020-06-05,Brake system for a vehicle and method for operating a brake system for a vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    7
+classfication_nums
+    9
+classfication_items
+63
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,4
+    B,6,0,T,8,/,4,0
+    B,6,0,T,8,/,4,0,7,2
+    B,6,0,T,8,/,4,0,8,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,7,4
+    B,6,0,T,1,3,/,7,4,1
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,1,0,/,0,0
+    B,6,0,T,2,2,1,0,/,1,0
+    B,6,0,T,2,2,1,0,/,1,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,4
+    B,6,0,T,8,/,4,0
+    B,6,0,T,8,/,4,0,7,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,4
+    B,6,0,T,8,/,4,8
+    B,6,0,T,8,/,4,8,0,9
+    B,6,0,T,8,/,4,8,2,7
+    B,6,0,T,8,/,4,8,6,3
+    B,6,0,T,8,/,4,8,7,2
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,4,0,0,/,0,0
+    B,6,0,Y,2,4,0,0,/,8,1
+
+application_events
+7
+    2016-01-22,Application filed by Robert Bosch GmbH
+    2018-03-22,Publication of US20180079313A1
+    2018-08-01,Assigned to ROBERT BOSCH GMBH
+    2021-09-07,Application granted
+    2021-09-07,Publication of US11110802B2
+    Status,Active
+    2037-01-02,Adjusted expiration
+
+active_area
+7
+    D,E
+    E,P
+    U,S
+    W,O
+    J,P
+    K,R
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    DE102015204866.7A,2015-03-18,Method for operating a recuperative braking system of a vehicle and control device for a recuperative braking system of a vehicle
+    DE102015204866.7,2015-03-18,
+    PCT/EP2016/051276,2016-01-22,Method for operating a recuperative brake system of a vehicle and control device for a recuperative brake system of a vehicle
+
+legal_event
+14
+    Date,Code,Title,Description
+    2017-09-13,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2018-03-07,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2018-08-01,AS,Assignment,Owner name: ROBERT BOSCH GMBH, GERMANYFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:FOITZIK, BERTRAM;KISTNER, MATTHIAS;BUSSMANN, OTMAR;AND OTHERS;SIGNING DATES FROM 20171024 TO 20180504;REEL/FRAME:046701/0554
+    2019-05-13,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2019-08-18,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2019-11-20,STPP,Information on status: patent application and granting procedure in general,Free format text: FINAL REJECTION MAILED
+    2020-02-26,STPP,Information on status: patent application and granting procedure in general,Free format text: ADVISORY ACTION MAILED
+    2020-07-20,STCV,Information on status: appeal procedure,Free format text: APPEAL BRIEF (OR SUPPLEMENTAL BRIEF) ENTERED AND FORWARDED TO EXAMINER
+    2020-10-23,STPP,Information on status: patent application and granting procedure in general,Free format text: FINAL REJECTION MAILED
+    2021-02-19,STCV,Information on status: appeal procedure,Free format text: APPEAL BRIEF (OR SUPPLEMENTAL BRIEF) ENTERED AND FORWARDED TO EXAMINER
+    2021-05-07,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2021-08-03,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2021-08-18,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

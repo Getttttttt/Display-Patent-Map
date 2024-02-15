@@ -1,0 +1,302 @@
+ID
+    WO2015152405A1
+citation_exist
+    Patent Citations (7)
+citation_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2005245069A                      *,2004-02-24,2005-09-08,Nissan Motor Co Ltd,電動車両制御装置
+    JP2008098149A                      *,2006-09-15,2008-04-24,Toshiba Corp,電源システムおよび電動車
+    JP2011178384A                      *,2010-02-03,2011-09-15,Denso Corp,車載電源装置
+    JP2011230670A                      *,2010-04-28,2011-11-17,Honda Motor Co Ltd,電動車両
+    JP2011255824A                      *,2010-06-10,2011-12-22,Mitsubishi Motors Corp,ハイブリッド車の制御装置
+    WO2013002149A1                      *,2011-06-28,2013-01-03,住友重機械工業株式会社,ショベル及びショベルの制御方法
+    JP2014065453A                      *,2012-09-27,2014-04-17,Toyota Industries Corp,ハイブリッド型荷役車両
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN108162968A                      *,2016-12-05,2018-06-15,郑州宇通客车股份有限公司,功率输出控制方法及装置、功率回馈控制方法及装置
+    Family To Family Citations,,,,
+    JP7268642B2,2020-05-29,2023-05-08,トヨタ自動車株式会社,燃料電池システム、目標動作点を決定する方法、コンピュータプログラム
+
+abstract
+    実施形態の電源システムは、二次電池と、制御部とを持つ。制御部は、前記二次電池の温度が所定温度未満である場合、前記二次電池の電圧が上限電圧と下限電圧の間に収まるように制御する。
+title
+    電源システム、および車両
+similar_document
+26
+    Publication,Publication Date,Title
+    JP5862631B2,2016-02-16,蓄電システム
+    JP4494453B2,2010-06-30,二次電池の制御装置および制御方法
+    US8222862B2,2012-07-17,Electrically powered vehicle
+    CN105609823B,2018-09-28,燃料电池系统及其控制方法、以及燃料电池车辆
+    WO2013051104A1,2013-04-11,充電制御装置および充電制御方法
+    KR101730712B1,2017-04-26,하이브리드 차량
+    CN105633437B,2018-01-30,燃料电池系统、燃料电池车辆及燃料电池系统的控制方法
+    JP2008058278A,2008-03-13,二次電池の内部状態推定装置、二次電池の内部状態推定方法、プログラム、および記録媒体
+    JP2008042960A,2008-02-21,二次電池の充放電制御装置およびそれを搭載したハイブリッド車両
+    JP6250164B2,2017-12-20,エネルギー貯蔵システムのバランス調整を行うための方法及び装置
+    JPWO2012101678A1,2014-06-30,蓄電装置の制御装置および制御方法
+    US9197078B2,2015-11-24,Battery parameter estimation
+    US20160149275A1,2016-05-26,Heating system and battery system
+    US20140103883A1,2014-04-17,Power supply device of vehicle
+    US9365129B2,2016-06-14,Vehicle having an electric motor and method of controlling a display displaying a cruising distance of the vehicle
+    US10604159B2,2020-03-31,Display device
+    JP5126150B2,2013-01-23,蓄電容量推定装置および蓄電容量推定方法
+    JP2015131573A,2015-07-23,ハイブリッド車両
+    JP6186248B2,2017-08-23,インバータの異常判定装置
+    JP5803849B2,2015-11-04,蓄電システム
+    JP2017071299A,2017-04-13,蓄電装置の充放電制御装置
+    JP2009298301A,2009-12-24,車両及びその制御方法
+    JP2016181384A,2016-10-13,電動車両
+    WO2015152405A1,2015-10-08,電源システム、および車両
+    JP2014082923A,2014-05-08,診断装置および診断システム
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    7
+classfication_nums
+    32
+classfication_items
+198
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,4
+    B,6,0,W,1,0,/,2,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,2,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,2,5
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,4
+    H,0,1,M,1,0,/,4,4,3
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,8
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,6,0
+    H,0,1,M,1,0,/,6,3
+    H,0,1,M,1,0,/,6,3,3
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,3,0
+    B,6,0,W,2,5,1,0,/,3,0,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,6
+    B,6,0,W,2,7,1,0,/,0,6,7,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,2,4
+    B,6,0,W,2,7,1,0,/,2,4,2
+    B,6,0,W,2,7,1,0,/,2,4,8
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+
+application_events
+2
+    2015-04-03,Application filed by 株式会社東芝
+    2015-10-08,Publication of WO2015152405A1
+
+active_area
+2
+    J,P
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2014-078036,2014-04-04,
+    JP2014078036A,2014-04-04,電源システム、および車両
+
+legal_event
+5
+    Date,Code,Title,Description
+    2015-11-18,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 15772177Country of ref document: EPKind code of ref document: A1
+    2016-10-04,NENP,Non-entry into the national phase,Ref country code: DE
+    2017-05-03,122,Ep: pct application non-entry in european phase,Ref document number: 15772177Country of ref document: EPKind code of ref document: A1
+    2017-05-08,NENP,Non-entry into the national phase,Ref country code: JP
+

@@ -1,0 +1,188 @@
+ID
+    US20190135135A1
+citation_exist
+    Patent Citations (15)
+citation_infor
+17
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US4326154A                      *,1978-12-08,1982-04-20,Westinghouse Electric Corp.,Regenerative braking control for a transit vehicle
+    JPH07264709A                      *,1994-03-24,1995-10-13,Mitsubishi Electric Corp,Motor controller for electric vehicle
+    US7000318B2                      *,2001-08-23,2006-02-21,General Motors Corporation,Method of designing and manufacturing vehicles
+    JP2003194119A                      *,2001-12-28,2003-07-09,Nissan Motor Co Ltd,Electric braking device
+    JP3750933B2,2002-02-22,2006-03-01,日信工業株式会社,Electric disc brake layout
+    JP3969341B2                      *,2003-03-03,2007-09-05,松下電器産業株式会社,Vehicle power supply
+    US20060108867A1                      *,2004-09-17,2006-05-25,Mihai Ralea,Electromechanical braking system with electrical energy back-up and regenerative energy management
+    JP4711704B2                      *,2005-03-08,2011-06-29,本田技研工業株式会社,Electric brake device
+    JP4513130B2                      *,2007-12-25,2010-07-28,トヨタ自動車株式会社,Fuel cell system and moving body
+    JP2010270788A,2009-05-19,2010-12-02,Akebono Brake Ind Co Ltd,Disc brake
+    JP5560851B2                      *,2010-03-31,2014-07-30,株式会社アドヴィックス,Brake device for vehicle
+    JP5983871B2                      *,2013-05-21,2016-09-06,トヨタ自動車株式会社,Brake device
+    JP6313127B2                      *,2014-06-12,2018-04-18,Ntn株式会社,Electric brake device and electric brake device system
+    US10320202B2                      *,2014-09-30,2019-06-11,Johnson Controls Technology Company,Battery system bi-stable relay control
+    JP6164503B2                      *,2015-06-25,2017-07-19,トヨタ自動車株式会社,Secondary battery internal resistance estimation method and output control method
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    EP3992041A1                      *,2020-10-29,2022-05-04,Hitachi Astemo Netherlands B.V.,Electromechanical brake system with high-voltage motor
+    US11441626B2                      *,2017-01-26,2022-09-13,Ntn Corporation,Electric linear actuator and electric brake device
+    Family To Family Citations,,,,
+    CN113889974B                      *,2021-09-24,2022-06-28,华南农业大学,Protection device based on mechanical centrifugal switch and relay and control method
+
+abstract
+    Provided is an electric brake device that achieves improved responsiveness, cost reduction and also reduces the copper loss in an electric motor, thus reducing power consumption. The electric brake device includes a brake rotor (8), a friction member (9), a friction member actuator (6), an electric motor (4), a controller (2), a main power supply (3), and an auxiliary power supply (22). The auxiliary supply (22) is charged with regenerative power from the motor (4). The controller (2) includes a backflow power interruption (26) preventing the main supply (3) from being charged with the regenerative power from the motor (4), and an auxiliary power supply controller (24) causing the auxiliary supply (22) to supply running power to the motor (4) when powering the electric (4) is started in a state in which the regenerative power in the auxiliary supply (22) is greater than or equal to a set voltage.
+title
+    Electric brake apparatus and electric brake system
+similar_document
+18
+    Publication,Publication Date,Title
+    US10081345B2,2018-09-25,Electric brake system
+    US10352383B2,2019-07-16,Electric brake device
+    JP5514805B2,2014-06-04,Brake control device
+    US11001166B2,2021-05-11,Electric brake apparatus and electric brake system
+    CN108372850B,2021-07-27,Vehicle brake system
+    US20170182984A1,2017-06-29,Electric brake system
+    JP2006219082A,2006-08-24,Electric rotating system for vehicle
+    CN108528269B,2021-05-14,Driving force control device
+    WO2015190380A1,2015-12-17,Electric brake device and electric brake device system
+    US11441626B2,2022-09-13,Electric linear actuator and electric brake device
+    JP5024618B2,2012-09-12,Electric motor control device and electric booster
+    GB2472392A,2011-02-09,Regenerative braking system having an electric drive means to actuate a mechanical braking device
+    JP6513625B2,2019-05-15,Electric brake system
+    US11001246B2,2021-05-11,Electric brake device
+    JP7066408B2,2022-05-13,Electric linear actuator and electric brake device
+    WO2018037612A1,2018-03-01,Electric braking device and controller
+    JP2021024304A,2021-02-22,Brake system
+
+patent_application
+2
+    Application,Priority date,Filing date,Relation,Title
+    PCT/JP2017/025660,2016-07-20,2017-07-14,Continuation,Electric brake apparatus and electric brake system
+
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    12
+classfication_items
+68
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,M
+    B,6,0,M,3,/,0,0
+    B,6,0,M,3,/,0,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,7,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,7,4
+    B,6,0,T,1,3,/,7,4,1
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,1,/,0,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,2,1,2,1,/,0,0
+    F,1,6,D,2,1,2,1,/,1,8
+    F,1,6,D,2,1,2,1,/,2,4
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,2,1,2,5,/,0,0
+    F,1,6,D,2,1,2,5,/,1,8
+    F,1,6,D,2,1,2,5,/,2,0
+    F,1,6,D,2,1,2,5,/,3,4
+    F,1,6,D,2,1,2,5,/,4,0
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,2,1,2,5,/,0,0
+    F,1,6,D,2,1,2,5,/,1,8
+    F,1,6,D,2,1,2,5,/,4,4
+    F,1,6,D,2,1,2,5,/,4,6
+    F,1,6,D,2,1,2,5,/,4,8
+
+application_events
+7
+    2019-01-08,Application filed by NTN Corp
+    2019-01-09,Assigned to NTN CORPORATION
+    2019-05-09,Publication of US20190135135A1
+    2021-05-11,Application granted
+    2021-05-11,Publication of US11001166B2
+    Status,Active
+    2038-02-20,Adjusted expiration
+
+active_area
+4
+    J,P
+    C,N
+    E,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+5
+    Application,Filing date,Title
+    JP2016-142173,2016-07-20,
+    JPJP2016-142173,2016-07-20,
+    JP2016142173A,2016-07-20,Electric brake device and electric brake system
+    PCT/JP2017/025660,2017-07-14,Electric brake apparatus and electric brake system
+
+legal_event
+8
+    Date,Code,Title,Description
+    2019-01-08,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2019-01-09,AS,Assignment,Owner name: NTN CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:MASUDA, YUI;REEL/FRAME:047941/0789Effective date: 20181128
+    2019-05-16,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2021-02-01,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2021-04-09,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT RECEIVED
+    2021-04-12,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2021-04-21,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

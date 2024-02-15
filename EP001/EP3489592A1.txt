@@ -1,0 +1,136 @@
+ID
+    EP3489592A1
+citation_exist
+    Patent Citations (8)
+citation_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    US6066194A                      *,1998-04-17,2000-05-23,American Standard Inc.,Electronic room air cleaner with variable speed motor
+    KR20100078196A                      *,2008-12-30,2010-07-08,린나이코리아 주식회사,Apparatus and method for perceiving defects of fans and filters in a heat recovery ventilator
+    CN105004013A                      *,2015-08-04,2015-10-28,珠海格力电器股份有限公司,Air-conditioning indoor unit filter screen filth blockage detection method and air-conditioning system control method
+    CN105258288A                      *,2015-10-16,2016-01-20,珠海格力电器股份有限公司,Detection method and device for filth blockage of filter screen of air conditioner and air conditioner
+    US20160016104A1                      *,2014-04-04,2016-01-21,Magni-Power Company,System for determining force imparted by a filter in a variable flow environment and related methods of use
+    CA2937558A1                      *,2014-08-30,2016-03-03,Zhongshan Broad-Ocean Motor Co., Ltd.,Electrical device with filter mesh blockage detection function
+    CN106369749A                      *,2016-09-07,2017-02-01,珠海格力电器股份有限公司,Method for determining remaining time of cleaning filter screen, air feeding equipment and control method for air feeding equipment
+    US9702577B1                      *,2015-06-24,2017-07-11,Amazon Technologies, Inc.,Dynamic determination of fan speeds
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    WO2021041134A1                      *,2019-08-29,2021-03-04,Siemens Industry, Inc.,Systems and methods to detect dirt level of filters
+    CN114676657A                      *,2022-05-30,2022-06-28,中山大洋电机股份有限公司,External static pressure estimation method for airflow conveying pipeline and control method for air conditioning system
+    EP4160101A1,2021-09-29,2023-04-05,Daikin Europe N.V.,A ventilation system for a room
+    US11708986B1                      *,2022-07-12,2023-07-25,Intellytic Ventures Ltd,Smart IoT energy saving sound wave air filter system and use for air purifiers and a method of air filtration thereof
+    Family To Family Citations,,,,
+
+abstract
+    The present disclosure relates to a filter contamination detection system (1) particularly for a ventilation system (2) and/or an air conditioner comprising: a housing (20) accommodating: a first air-filter (21), and a first fan (22) for inducing a first airflow through a first air passage (30), comprising an air inlet (31) and an air outlet (32), through the first air-filter (21), and a first fan motor (23) that drives the first fan (22), wherein a controller (40) is configured to determine a filter contamination state of the first air-filter (21) on the basis of:a) a fan motor power measurement and/or fan motor current measurement and/or fan motor resistance measurement during operation of the first fan motor (23) at a constant revolution speed or a constant DC voltage; orb) a fan motor power measurement and/or fan motor current measurement and/or fan motor resistance measurement and/or fan motor revolution speed measurement and/or DC voltage measurement during operation of the first fan motor (23) at a constant airflow rate; orc) a fan motor power measurement and/or fan motor current measurement and/or fan motor resistance measurement and/or fan motor revolution speed measurement and/or DC voltage measurement during operation of the first fan motor (23) at a constant airflow rate until a maximum revolution speed or a predetermined or a selected revolution speed or a maximum DC voltage or a predetermined DC voltage or a selected DC voltage is reached and then keep a constant revolution speed or a constant DC voltage; ord) an airflow rate measurement during operation of the first fan motor (23) at a constant revolution speed or a constant DC voltage.
+title
+    Filter contamination detection method
+similar_document
+26
+    Publication,Publication Date,Title
+    EP3489592A1,2019-05-29,Filter contamination detection method
+    US8346507B2,2013-01-01,System and method for detecting fluid delivery system conditions based on motor parameters
+    JP6731865B2,2020-07-29,Air conditioner outdoor unit, air conditioner, and air conditioning management method
+    JP6352038B2,2018-07-04,Indoor unit for air conditioner, air conditioner equipped with the same, and method for detecting contamination of heat exchanger
+    US11268725B2,2022-03-08,Condition based energy smart air circulation system
+    JP6295422B2,2018-03-20,Ventilation equipment
+    CN109990441B,2020-12-29,Self-cleaning control method for air conditioner
+    JP6642670B1,2020-02-12,Air conditioner and method of adjusting rotation speed of blower fan
+    CN109916049B,2020-12-25,Self-cleaning control method for air conditioner
+    WO2021057469A1,2021-04-01,Method for determining clogging degree of dust filter screen of air conditioner, and air conditioner
+    KR102425661B1,2022-07-27,Ventilator and the control method thereof
+    JPH1096546A,1998-04-14,Condensed water detector for air conditioner and its method
+    JP3972723B2,2007-09-05,Air conditioner
+    US8186230B1,2012-05-29,System and method for airflow sensing and monitoring
+    JP2019027681A,2019-02-21,Filter monitoring device for air conditioning device and remote monitoring system using the same
+    JP2003207188A,2003-07-25,Refrigerating air conditioner and its operation-control method
+    JP2020139673A,2020-09-03,Dirt information estimation system
+    JP2012154558A,2012-08-16,Air conditioner
+    JP6458256B2,2019-01-30,Ventilation equipment
+    CN210267645U,2020-04-07,Airflow filtering part filth blockage detection device and air conditioning equipment
+    US11543147B1,2023-01-03,Systems and methods for detecting air filter fouling in a climate control system
+    KR101873637B1,2018-07-02,Air conditioner and controlling method of the same
+    KR20170004467A,2017-01-11,Ventilator having function of dew condensation prevention and the controlling method the same
+    JP7134353B2,2022-09-09,air conditioner
+    JP2021060134A,2021-04-15,Control device and control method
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    EP17203769.9A,2017-11-27,2017-11-27,Filter contamination detection method
+
+inventor_number
+    6
+classfication_nums
+    3
+classfication_items
+18
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,1,1,/,0,0
+    F,2,4,F,1,1,/,3,0
+    F,2,4,F,1,1,/,3,2
+    F,2,4,F,1,1,/,3,9
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,1,2,/,0,0
+    F,2,4,F,1,2,/,0,0,1
+    F,2,4,F,1,2,/,0,0,6
+    Y
+    Y,0,2
+    Y,0,2,B
+    Y,0,2,B,3,0,/,0,0
+    Y,0,2,B,3,0,/,5,6
+
+application_events
+4
+    2017-11-27,Application filed by Daikin Europe NV, Daikin Industries Ltd
+    2017-11-27,Priority to EP17203769.9A
+    2019-05-29,Publication of EP3489592A1
+    Status,Pending
+
+active_area
+1
+    E,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    EP17203769.9A,2017-11-27,Filter contamination detection method
+
+legal_event
+13
+    Date,Code,Title,Description
+    2019-04-26,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2019-04-26,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+    2019-05-29,AK,Designated contracting states,Kind code of ref document: A1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2019-05-29,AX,Request for extension of the european patent,Extension  state: BA ME
+    2019-09-06,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+    2019-10-09,17P,Request for examination filed,Effective date: 20190903
+    2019-10-09,RBV,Designated contracting states (corrected),Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2020-11-20,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: EXAMINATION IS IN PROGRESS
+    2020-12-23,17Q,First examination report despatched,Effective date: 20201119
+    2021-05-17,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: EXAMINATION IS IN PROGRESS
+    2023-01-18,RAP3,Party data changed (applicant data changed or rights of an application transferred),Owner name: DAIKIN INDUSTRIES, LTD.Owner name: DAIKIN EUROPE N.V.
+    2023-07-12,P01,Opt-out of the competence of the unified patent court (upc) registered,Effective date: 20230530
+

@@ -1,0 +1,176 @@
+ID
+    US20220266695A1
+citation_exist
+    NoCitation
+citation_infor
+    NoCitation
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    A system includes one or more sensors that generate sensor measurements representing a first parameter of one or more components of a power circuit. The system includes a control unit that obtains a reference rate of change value of the first parameter based at least in part on the sensor measurements over time. The control unit compares rates of change of monitored values of the sensor measurements over time to the reference rate of change value over time, and determines a deviation condition in response to the rate of change of a first monitored value of the sensor measurements differing from the reference rate of change value by more than a determined tolerance margin value. The control unit generates a control signal responsive to detecting the deviation condition to change an operating condition of at least one of the components of the power circuit.
+title
+    Deviation detection system for power circuit
+similar_document
+26
+    Publication,Publication Date,Title
+    US11327121B2,2022-05-10,Deviation detection system for energy storage system
+    Kordestani et al.,2019,Failure prognosis and applications—A survey of recent literature
+    Hu et al.,2020,Advanced fault diagnosis for lithium-ion battery systems: A review of fault mechanisms, fault features, and diagnosis procedures
+    Xue et al.,2021,Fault diagnosis and abnormality detection of lithium-ion battery packs based on statistical distribution
+    US20110020122A1,2011-01-27,Integrated condition based maintenance system for wind turbines
+    US20210339652A1,2021-11-04,Method for monitoring an energy store in a vehicle electrical system
+    Marcicki et al.,2010,Nonlinear fault detection and isolation for a lithium-ion battery management system
+    CN105762427B,2019-08-16,Device and method for controlling vehicle mesohigh battery
+    US20190217867A1,2019-07-18,Method for operating an electrical system of a motor vehicle
+    US20190111800A1,2019-04-18,High coverage battery usage monitor
+    US11120648B2,2021-09-14,Health self learning system and method for electrical distribution systems for automated driving vehicles
+    EP4057422A2,2022-09-14,Method for monitoring an energy storage apparatus
+    US20220266695A1,2022-08-25,Deviation detection system for power circuit
+    US20230341827A1,2023-10-26,Shift detection system and method for a power supply system
+    Sankavaram et al.,2012,Data-driven fault diagnosis in a hybrid electric vehicle regenerative braking system
+    KR20220076551A,2022-06-08,Method for measuring the health of an electric vehicle battery
+    CN116954066A,2023-10-27,Drift detection system and method for power supply system
+    JP2023162134A,2023-11-08,Shift detection system and method for power supply systems
+    CN109789843A,2019-05-21,Method for running vehicle-mounted energy net
+    Skliros et al.,2021,Fault simulations and diagnostics for a Boeing 747 Auxiliary Power Unit
+    Ablay,2013,An observer-based fault diagnosis in battery systems of hybrid vehicles
+    Pace et al.,2022,Unsupervised Anomaly Detection Using Batteries in Electric Aerial Vehicle Propulsion Test-Bed
+    CN115320380A,2022-11-11,Method for increasing the availability of an energy storage or conversion system of a vehicle
+    Heier et al.,2018,The use of PHM for a dynamic reliability assessment
+    US20230216327A1,2023-07-06,Energy management system
+
+patent_application
+2
+    Application,Priority date,Filing date,Relation,Title
+    US16/374,447,2019-04-03,2019-04-03,Continuation-In-Part,Deviation detection system for energy storage system
+
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US17/661,634,2019-04-03,2022-05-02,Deviation detection system for power circuit
+
+inventor_number
+    4
+classfication_nums
+    14
+classfication_items
+83
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,7,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,6,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    G
+    G,0,1
+    G,0,1,R
+    G,0,1,R,3,1,/,0,0
+    G,0,1,R,3,1,/,3,6
+    G,0,1,R,3,1,/,3,8,2
+    G,0,1,R,3,1,/,3,8,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    G
+    G,0,1
+    G,0,1,R
+    G,0,1,R,3,1,/,0,0
+    G,0,1,R,3,1,/,3,6
+    G,0,1,R,3,1,/,3,8,2
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,1,0
+
+application_events
+6
+    2019-04-03,Priority claimed from US16/374,447
+    2022-05-02,Application filed by Transportation IP Holdings LLC
+    2022-05-02,Priority to US17/661,634
+    2022-05-02,Assigned to TRANSPORTATION IP HOLDINGS, LLC
+    2022-08-25,Publication of US20220266695A1
+    Status,Pending
+
+active_area
+1
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    US16/374,447,2019-04-03,Deviation detection system for energy storage system
+    US202263363594P,2022-04-26,
+    US17/661,634,2022-05-02,Deviation detection system for power circuit
+
+legal_event
+3
+    Date,Code,Title,Description
+    2022-05-02,AS,Assignment,Owner name: TRANSPORTATION IP HOLDINGS, LLC, CONNECTICUTFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:PRESSMAN, JACOB;KUMAR, AJITH KUTTANNAIR;PEDDER, JACOB KENNETH;SIGNING DATES FROM 20220420 TO 20220427;REEL/FRAME:059782/0457
+    2022-05-18,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+

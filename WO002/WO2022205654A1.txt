@@ -1,0 +1,157 @@
+ID
+    WO2022205654A1
+citation_exist
+    Patent Citations (10)
+citation_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    US6431297B1                      *,1999-02-18,2002-08-13,Kabushiki Kaisha Toshiba,Apparatus for driving electric car by inverter-controlled motor through gear mechanism
+    US20080179999A1                      *,2007-01-25,2008-07-31,Kabushiki Kaisha Toshiba,Motor drive system for railway vehicle
+    US20170070175A1                      *,2014-02-27,2017-03-09,Robert Bosch Gmbh,Electric drive system
+    EP2586646B1                      *,2011-10-28,2019-12-04,Bombardier Transportation GmbH,Electrical power supply assembly for drive units, for operating a rail vehicle on electrical supply networks
+    Family To Family Citations,,,,
+    CN103427653A                      *,2013-08-01,2013-12-04,南京南瑞继保电气有限公司,High-voltage DC-DC conversion device
+    CN104527659B                      *,2014-12-29,2017-08-25,中车北京二七机车有限公司,Transmission system for train traction
+    CN105584386B                      *,2016-02-23,2017-10-20,南京亚派科技股份有限公司,A kind of module-cascade formula can present type traction power set and its control method
+    CN106533191B                      *,2016-11-04,2018-09-28,北京交通大学,A kind of power electronics tractive transformer topological structure and its control method
+    CN107070255A                      *,2017-05-17,2017-08-18,中国铁道科学研究院,A kind of hauling power device
+    CN110733516A                      *,2019-11-05,2020-01-31,中车大连机车车辆有限公司,axle-controlled diesel locomotive and main transmission system and method thereof
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    There is provided an electric traction system (1), comprising: a step-down transformer (35) comprising a primary winding (36) for operatively coupling to an AC power supply (40) and a secondary winding (37) which is inductively coupled to the primary winding (36); a traction converter module (2) comprising a first input terminal (4) and a second input terminal (6) which are operatively coupled to the secondary winding (37), and a plurality of AC-to-AC power converters (11), each of which comprises first and second input nodes (3, 5) configured to receive AC power and output nodes (9) configured to supply AC power, wherein the first and second input nodes (3, 5) of the plurality of AC-to-AC power converters (11) are electrically connected in series between the first input terminal (4) and the second input terminal (6); and at least one electric motor (25) configured to be driven by the traction converter module (2).
+title
+    Electric traction system
+similar_document
+26
+    Publication,Publication Date,Title
+    JP3723983B2,2005-12-07,Series multiple 3-phase PWM cycloconverter
+    AU2012339926B2,2015-11-26,Power converter based on H-bridges
+    US20090045761A1,2009-02-19,Diesel-electric drive system having a synchronous generator with permanent-magnet excitation
+    CN101369735B,2013-04-17,Method of powering emergency auxiliary loads, auxiliary converter and railway vehicle for this method
+    JP3544838B2,2004-07-21,Multiple inverter device and control method thereof
+    US11056980B2,2021-07-06,Power converter
+    CN110061629A,2019-07-26,The power unit improved for multi-level inverter bypasses method and device
+    CN103368478A,2013-10-23,Control device for rotating electrical machine
+    Rufer et al.,2003,Configurable front-end converters for multicurrent locomotives operated on 16 2/3 Hz AC and 3 kV DC systems
+    US20140203559A1,2014-07-24,Connection for improved current balancing between parallel bridge circuits
+    WO2008081189A1,2008-07-10,Power systems
+    CN107921880B,2021-11-19,Vehicle-side power circuit for supplying power in an electric vehicle
+    JP2008535451A,2008-08-28,Matrix converter
+    KR101965558B1,2019-04-04,System for coupling at least one dc source to a controllable energy store and associated operating method
+    WO2007129469A1,2007-11-15,Power transducing device
+    CN113016130A,2021-06-22,Multi-bridge power converter with multiple outputs
+    KR20160060970A,2016-05-31,Apparatus for charging battery of vehicle
+    JP4838031B2,2011-12-14,Multiple inverter control system
+    KR101654755B1,2016-09-22,Elective control of an alternating current motor or direct current motor
+    WO2022205654A1,2022-10-06,Electric traction system
+    WO2023272727A1,2023-01-05,Electric traction system
+    JP3937236B2,2007-06-27,Series multiple 3-phase PWM cycloconverter device, serial multiple 3-phase PWM cycloconverter operation method, and serial multiple 3-phase PWM power converter
+    JP4069460B2,2008-04-02,Series multiple 3-phase PWM cycloconverter
+    WO2023112220A1,2023-06-22,Power conversion device
+    RU2735298C1,2020-10-29,Electrically-driven plant with cascade electric converter
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    8
+classfication_nums
+    11
+classfication_items
+63
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,9,/,0,0
+    B,6,0,L,9,/,1,6
+    B,6,0,L,9,/,2,4
+    B,6,0,L,9,/,2,8
+    B
+    B,6,1
+    B,6,1,C
+    B,6,1,C,9,/,0,0
+    B,6,1,C,9,/,3,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,9,2
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,0,0,6,7
+    H,0,2,M,1,/,0,0,7
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,0,0,6,7
+    H,0,2,M,1,/,0,0,7,4
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,0,0,6,7
+    H,0,2,M,1,/,0,0,7,7
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,0,0,6,7
+    H,0,2,M,1,/,0,0,8
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,5,/,0,0
+    H,0,2,M,5,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,5,0
+    B,6,0,L,2,2,2,0,/,5,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+
+application_events
+2
+    2021-07-02,Application filed by ZhuZhou CRRC Times Electric Co., Ltd., Crrc Zhuzhou Institute Co., Ltd.
+    2022-10-06,Publication of WO2022205654A1
+
+active_area
+1
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    CN202110355484.1,2021-04-01,
+    CN202110355484.1A,2021-04-01,Traction transmission system
+
+legal_event
+2
+    Date,Code,Title,Description
+    2022-11-16,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 21742687Country of ref document: EPKind code of ref document: A1
+

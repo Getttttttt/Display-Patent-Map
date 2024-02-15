@@ -1,0 +1,378 @@
+ID
+    US10527159B2
+citation_exist
+    Patent Citations (15)
+citation_infor
+17
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5934395A                      *,1995-10-18,1999-08-10,Toyota Jidosha Kabushiki Kaisha,Hybrid vehicle drive system having two motor/generator units and engine starting means
+    US20030154945A1,2002-02-20,2003-08-21,Daigo Ando,Power outputting apparatus and vehicle equipped with same
+    JP2004254434A,2003-02-20,2004-09-09,Toyota Motor Corp,Controller for motor
+    US20050082096A1                      *,2003-10-15,2005-04-21,Aisin Aw Co., Ltd.,Electrically powered vehicle drive control device and electrically powered vehicle drive control method
+    WO2012086022A1,2010-12-22,2012-06-28,トヨタ自動車株式会社,Vehicle and vehicle control method
+    JP2012218622A,2011-04-12,2012-11-12,Toyota Motor Corp,Control device of hybrid vehicle
+    JP2013203325A,2012-03-29,2013-10-07,Toyota Motor Corp,Control device of vehicle drive device
+    US20140155214A1                      *,2012-12-05,2014-06-05,Toyota Jidosha Kabushiki Kaisha,Lubricating oil supply apparatus
+    Family To Family Citations,,,,
+    DE112009004490B4                      *,2009-03-11,2015-05-28,Toyota Jidosha Kabushiki Kaisha,Device for reducing a rattling noise for a vehicle
+    DE102011084392A1                      *,2011-10-13,2013-04-18,Zf Friedrichshafen Ag,Transmission parking lock
+    US8645013B2                      *,2011-10-21,2014-02-04,GM Global Technology Operations LLC,Method and apparatus for driveline noise control in a hybrid powertrain
+    JP6173875B2                      *,2013-10-24,2017-08-02,日立オートモティブシステムズ株式会社,Automatic transmission range switching device
+    JP2016161058A                      *,2015-03-03,2016-09-05,日産自動車株式会社,Park lock device of vehicle
+    JP6222164B2                      *,2015-04-27,2017-11-01,トヨタ自動車株式会社,Vehicle power transmission structure
+    US9677668B2                      *,2015-07-16,2017-06-13,GM Global Technology Operations LLC,Hydraulic park gear assembly
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (11)
+              
+
+
+citedBy_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    US10969011B2                      *,2019-04-25,2021-04-06,Ford Global Technologies, Llc,Method and system for disengaging parking pawl in hybrid transmission
+    US20220373083A1                      *,2021-05-20,2022-11-24,Zf Friedrichshafen Ag,Method and Control Unit for Operating a Parking Lock System
+    Family To Family Citations,,,,
+    US11001262B2                      *,2017-01-31,2021-05-11,Ford Global Technologies, Llc,Vehicle systems and methods for avoiding unintentional electrified vehicle movement and for reducing electrified vehicle noise, vibration, and harshness
+    CN111619364A                      *,2019-02-28,2020-09-04,北京新能源汽车股份有限公司,Control method of motor output torque, motor controller and vehicle
+    JP7127609B2                      *,2019-05-15,2022-08-30,トヨタ自動車株式会社,Hybrid vehicle control device
+    CN112031976B                      *,2019-06-04,2023-01-10,北京车和家信息技术有限公司,Engine starting control method and device
+    US11411514B2,2019-09-13,2022-08-09,Rolls-Royce Corporation,Electric machine with torque control
+    CN111688503B                      *,2020-06-17,2021-09-17,中国第一汽车股份有限公司,P gear output control method for electric automobile
+    CN114518631B                      *,2020-11-19,2023-08-18,成都极米科技股份有限公司,Null back elimination method, device, electronic equipment and computer readable storage medium
+    JP7373520B2                      *,2021-03-31,2023-11-02,本田技研工業株式会社,Vehicle control device
+    JP2022191935A                      *,2021-06-16,2022-12-28,日野自動車株式会社,Driving mode control apparatus
+
+abstract
+    A hybrid vehicle control device has: a determining portion determining, during idle engine operation, whether a meshing state is achieved in which the lock member is meshed with the parking gear, or a non-meshing state is achieved in which the lock member is not meshed with the parking gear; and a control portion providing a control of applying the running electric motor torque to the rotary member to eliminate a gap in a meshing portion between gears in the power transmission system and a gap in a meshing portion between the parking gear and the lock member when it is determined that the meshing state is achieved, and providing a control of applying a torque of the differential electric motor to the rotary member to eliminate a gap in the meshing portion between gears in the power transmission system when it is determined that the non-meshing state is achieved.
+title
+    Control device of hybrid vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US10527159B2,2020-01-07,Control device of hybrid vehicle
+    US7877184B2,2011-01-25,Control apparatus and control method for hybrid vehicle
+    US9073549B2,2015-07-07,Vehicle control apparatus
+    US7672770B2,2010-03-02,Deceleration control apparatus for a vehicle
+    US10029674B2,2018-07-24,Control device for hybrid vehicle and hybrid vehicle
+    US8177005B2,2012-05-15,Vehicle, driving device and control method thereof
+    US20140148986A1,2014-05-29,Control system and control method for hybrid vehicle
+    US20090043465A1,2009-02-12,Vehicle control apparatus and method
+    JP2009132270A,2009-06-18,Braking control system of hybrid vehicle
+    US20070179014A1,2007-08-02,Power output apparatus, vehicle including power output apparatus, and control unit and method for power output apparatus
+    JP2007001403A,2007-01-11,Hybrid car and control method therefor
+    US8725336B2,2014-05-13,Power transmission control device for vehicle
+    US10099694B2,2018-10-16,Motor vehicle
+    US20130196816A1,2013-08-01,Control device of vehicle drive device
+    KR101978785B1,2019-05-15,Control apparatus for vehicle and control method for vehicle
+    US11208091B2,2021-12-28,Vehicle control device
+    JP4207996B2,2009-01-14,Hybrid car
+    US9347553B2,2016-05-24,Control device of automatic transmission and method of controlling automatic transmission
+    US20090124454A1,2009-05-14,Controller of vehicle automatic transmission
+    JP4244986B2,2009-03-25,Vehicle regenerative braking device
+    JP5462057B2,2014-04-02,Vehicle power transmission control device
+    US10969011B2,2021-04-06,Method and system for disengaging parking pawl in hybrid transmission
+    US20170166184A1,2017-06-15,Control system for power transmission system
+    US20150191082A1,2015-07-09,Vehicle control device
+    JP2010208407A,2010-09-24,Driving control device for vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    39
+classfication_items
+248
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,5,9,/,0,0
+    F,1,6,H,5,9,/,5,0
+    F,1,6,H,5,9,/,5,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,5
+    B,6,0,W,2,0,/,1,7
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,3,6
+    B,6,0,K,6,/,3,6,5
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,4
+    B,6,0,K,6,/,4,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,5,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,3,0
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,6,1,/,0,0
+    F,1,6,H,6,1,/,0,2
+    F,1,6,H,6,1,/,0,2,9,3
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,6,3,/,0,0
+    F,1,6,H,6,3,/,4,0
+    F,1,6,H,6,3,/,4,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,1,0
+    B,6,0,L,2,2,7,0,/,1,4
+    B,6,0,L,2,2,7,0,/,1,4,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,6
+    B,6,0,W,2,5,1,0,/,0,6,3,8
+    B,6,0,W,2,5,1,0,/,0,6,4,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,2,/,0,0
+    B,6,0,W,2,5,5,2,/,1,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,8
+    B,6,0,W,2,7,1,0,/,1,8,8
+    F
+    F,0,2
+    F,0,2,D
+    F,0,2,D,2,9,/,0,0
+    F,0,2,D,2,9,/,0,2
+    F
+    F,0,2
+    F,0,2,D
+    F,0,2,D,4,1,/,0,0
+    F,0,2,D,4,1,/,0,2
+    F,0,2,D,4,1,/,0,4
+    F,0,2,D,4,1,/,0,8
+    F
+    F,0,2
+    F,0,2,N
+    F,0,2,N,1,1,/,0,0
+    F,0,2,N,1,1,/,0,8
+    F,0,2,N,1,1,/,0,8,1,4
+    F,0,2,N,1,1,/,0,8,1,8
+    F
+    F,0,2
+    F,0,2,N
+    F,0,2,N,1,1,/,0,0
+    F,0,2,N,1,1,/,0,8
+    F,0,2,N,1,1,/,0,8,1,4
+    F,0,2,N,1,1,/,0,8,1,8
+    F,0,2,N,1,1,/,0,8,2,9
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,5,9,/,0,0
+    F,1,6,H,5,9,/,6,8
+    F,1,6,H,5,9,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2018-01-17,Application filed by Toyota Motor Corp
+    2018-01-17,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2018-07-26,Publication of US20180209534A1
+    2020-01-07,Application granted
+    2020-01-07,Publication of US10527159B2
+    Status,Active
+    2038-08-11,Adjusted expiration
+
+active_area
+3
+    J,P
+    U,S
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2017-012503,2017-01-26,
+    JP2017012503A,2017-01-26,Control device for hybrid vehicle
+
+legal_event
+8
+    Date,Code,Title,Description
+    2018-01-17,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:TAKEUCHI, TOMOYA;REEL/FRAME:044644/0085Effective date: 20180110
+    2018-01-17,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2018-05-21,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2019-10-07,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2019-12-07,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2019-12-18,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2023-08-28,FEPP,Fee payment procedure,Free format text: MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+

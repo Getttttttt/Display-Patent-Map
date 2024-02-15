@@ -1,0 +1,254 @@
+ID
+    EP3358145A1
+citation_exist
+    Patent Citations (26)
+citation_infor
+28
+    Publication number,Priority date,Publication date,Assignee,Title
+    DE3216298A1                      *,1981-04-28,1982-12-02,Tokyo Shibaura Denki K.K., Kawasaki, Kanagawa,METHOD AND DEVICE FOR CONTROLLING THE TEMPERATURE OF OVERHEATED STEAM
+    US4558227A                      *,1983-06-14,1985-12-10,Hitachi, Ltd.,Method of controlling operation of thermoelectric power station
+    WO1998026336A1                      *,1996-12-13,1998-06-18,Siemens Corporate Research, Inc.,A method for blade temperature estimation in a steam turbine
+    WO2007090482A1                      *,2006-02-06,2007-08-16,Siemens Aktiengesellschaft,Method and device for anticipating the determination of temperature distribution in a wall of a turbine system
+    Family To Family Citations,,,,
+    US2095853A                      *,1936-04-03,1937-10-12,Gen Electric,Elastic fluid power plant
+    US3939328A                      *,1973-11-06,1976-02-17,Westinghouse Electric Corporation,Control system with adaptive process controllers especially adapted for electric power plant operation
+    GB2002543B                      *,1977-07-29,1982-02-17,Hitachi Ltd,Rotor-stress preestimating turbine control system
+    US4372121A                      *,1981-03-16,1983-02-08,Sokolov Sergei S,Power-plant
+    JPH0665921B2                      *,1984-07-16,1994-08-24,バブコツク日立株式会社,Boiler start control device
+    JP3673017B2                      *,1996-05-23,2005-07-20,株式会社東芝,Steam turbine start control device
+    US7576506B2                      *,2001-12-11,2009-08-18,Delphi Technologies, Inc.,Feedforward parameter estimation for electric machines
+    JP3684208B2                      *,2002-05-20,2005-08-17,株式会社東芝,Gas turbine control device
+    US6939100B2                      *,2003-10-16,2005-09-06,General Electric Company,Method and apparatus for controlling steam turbine inlet flow to limit shell and rotor thermal stress
+    US7053341B2,2004-02-12,2006-05-30,General Electric Company,Method and apparatus for drum level control for drum-type boilers
+    US7184847B2                      *,2004-12-17,2007-02-27,Texaco Inc.,Method and system for controlling a process in a plant
+    JP4723884B2                      *,2005-03-16,2011-07-13,株式会社東芝,Turbine start control device and start control method thereof
+    DE102006034811A1,2006-07-27,2008-01-31,Man Dwe Gmbh,Process for changing the temperature of a tube bundle reactor
+    US20100089042A1                      *,2008-10-14,2010-04-15,Gm Global Technology Operations, Inc.,Two-stage regeneration of diesel particulate filter
+    US8499561B2                      *,2009-09-08,2013-08-06,General Electric Company,Method and apparatus for controlling moisture separator reheaters
+    US8260589B1                      *,2009-12-24,2012-09-04,Indian Institute Of Technology Madras,Methods and systems for modeling a physical object
+    US9447963B2                      *,2010-08-16,2016-09-20,Emerson Process Management Power & Water Solutions, Inc.,Dynamic tuning of dynamic matrix control of steam temperature
+    US9217565B2                      *,2010-08-16,2015-12-22,Emerson Process Management Power & Water Solutions, Inc.,Dynamic matrix control of steam temperature with prevention of saturated steam entry into superheater
+    US9148709B2                      *,2011-08-03,2015-09-29,Infineon Technologies Ag,Sensor interface with variable control coefficients
+    US9080765B2                      *,2011-08-22,2015-07-14,General Electric Company,Systems and methods for heat recovery steam generation optimization
+    US9598977B2,2013-11-05,2017-03-21,General Electric Company,Systems and methods for boundary control during steam turbine acceleration
+    EP3058382A4                      *,2013-12-16,2017-08-09,TDG Aerospace Inc.,Monitoring systems and methods
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    CN107611926B                      *,2017-09-15,2020-11-06,珠海格力电器股份有限公司,Overload protection device and method, storage medium, compressor and electric appliance
+
+abstract
+    A method (100) includes determining, via a processor (39), a commanded temperature rate for a component of a steam turbine system (41). The method (100) further includes determining, via the processor (39), a measured temperature rate for the component of the steam turbine system (41). The method (100) additionally includes determining, via the processor (39), a variable multiplier based at least in part on the commanded temperature rate and the measured temperature rate. The method (100) also includes deriving, via the processor (39), a multiplied temperature rate command by applying the variable multiplier to the commanded temperature rate.
+title
+    Systems and methods for controlling machinery stress via temperature trajectory
+similar_document
+24
+    Publication,Publication Date,Title
+    US8384232B2,2013-02-26,Generating energy from fluid expansion
+    US20160273456A1,2016-09-22,Gas turbine system and method
+    EP2339128A2,2011-06-29,Method for starting a turbomachine
+    EP2339148A2,2011-06-29,Method and system for controlling a fuel flow to a turbomachine
+    US10082089B2,2018-09-25,Systems and methods to improve shut-down purge flow in a gas turbine system
+    KR102084922B1,2020-03-05,Combined cycle plant, control device and starting method
+    EP2339127A2,2011-06-29,Method for starting a turbomachine
+    EP3369895A2,2018-09-05,System and method for monitoring a lubrication system of a turbomachine using a model
+    EP3358145B1,2021-05-19,Systems and methods for controlling machinery stress via temperature trajectory
+    US10352251B2,2019-07-16,Systems and methods for controlling load rate of change using a variable multiplier
+    US9500136B2,2016-11-22,Systems and methods for generating variable ramp rates for turbomachinery
+    EP3348902B1,2019-12-04,System and method for controlling drum levels using flow
+    US10907511B2,2021-02-02,System and method for recovering turbine system extractions
+    US10082091B2,2018-09-25,Systems and methods to improve shut-down purge flow in a gas turbine system
+    EP3165741A1,2017-05-10,System and method for determining fuel splits for a gas turbine
+    US10309320B2,2019-06-04,Method for regulating a gas turbine
+    Cruz-Manzo et al.,2018,Analysis of performance of a twin-shaft gas turbine during hot-end damage in the gas generator turbine
+    US20130104561A1,2013-05-02,Active fuel control on gas turbine shutdown sequence
+    US11428115B2,2022-08-30,Control of rotor stress within turbomachine during startup operation
+    JP6246897B2,2017-12-13,Method and gas turbine for reducing CO emissions of a gas turbine
+    JP2020084841A,2020-06-04,Two-shaft gas turbine
+    Endale Turie,2012,Gas Turbine Plant Modeling for Dynamic Simulation
+    JP2014145357A,2014-08-14,System to improve gas turbine output and hot gas path component life utilizing humid air for nozzle overcooling
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    5
+classfication_nums
+    17
+classfication_items
+95
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,1,3,/,0,0
+    F,0,1,K,1,3,/,0,2
+    F
+    F,0,1
+    F,0,1,D
+    F,0,1,D,1,3,/,0,0
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,1,1,/,0,0
+    F,0,1,K,1,1,/,0,2
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,1,3,/,0,0
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,1,3,/,0,0
+    F,0,1,K,1,3,/,0,0,3
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,1,7,/,0,0
+    F,0,1,K,1,7,/,0,4
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,1,7,/,0,0
+    F,0,1,K,1,7,/,0,6
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,2,3,/,0,0
+    F,0,1,K,2,3,/,0,2
+    F,0,1,K,2,3,/,0,6
+    F,0,1,K,2,3,/,1,0
+    F,0,1,K,2,3,/,1,0,1
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,2,3,/,0,0
+    F,0,1,K,2,3,/,0,2
+    F,0,1,K,2,3,/,0,6
+    F,0,1,K,2,3,/,1,0
+    F,0,1,K,2,3,/,1,0,6
+    F,0,1,K,2,3,/,1,0,8
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,7,/,0,0
+    F,0,1,K,7,/,1,6
+    F
+    F,2,2
+    F,2,2,B
+    F,2,2,B,1,/,0,0
+    F,2,2,B,1,/,0,2
+    F,2,2,B,1,/,1,8
+    F,2,2,B,1,/,1,8,0,7
+    F,2,2,B,1,/,1,8,1,5
+    G
+    G,0,1
+    G,0,1,K
+    G,0,1,K,1,3,/,0,0
+    G
+    G,0,5
+    G,0,5,D
+    G,0,5,D,2,3,/,0,0
+    G,0,5,D,2,3,/,1,9
+    G,0,5,D,2,3,/,1,9,1,7
+    F
+    F,0,5
+    F,0,5,D
+    F,0,5,D,2,2,2,0,/,0,0
+    F,0,5,D,2,2,2,0,/,7,0
+    F,0,5,D,2,2,2,0,/,7,2
+    F
+    F,0,5
+    F,0,5,D
+    F,0,5,D,2,2,7,0,/,0,0
+    F,0,5,D,2,2,7,0,/,3,0
+    F,0,5,D,2,2,7,0,/,3,0,3
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,2,0,/,0,0
+    Y,0,2,E,2,0,/,1,4
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,2,0,/,0,0
+    Y,0,2,E,2,0,/,1,6
+
+application_events
+6
+    2018-02-01,Application filed by General Electric Co
+    2018-08-08,Publication of EP3358145A1
+    2021-05-19,Application granted
+    2021-05-19,Publication of EP3358145B1
+    Status,Active
+    2038-02-01,Anticipated expiration
+
+active_area
+3
+    U,S
+    J,P
+    E,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US15/426,649,2017-02-07,Systems and methods for controlling machinery stress via temperature trajectory
+
+legal_event
+40
+    Date,Code,Title,Description
+    2018-07-06,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2018-07-06,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+    2018-08-08,AK,Designated contracting states,Kind code of ref document: A1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2018-08-08,AX,Request for extension of the european patent,Extension  state: BA ME
+    2019-02-15,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+    2019-03-20,17P,Request for examination filed,Effective date: 20190208
+    2019-03-20,RBV,Designated contracting states (corrected),Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2020-12-20,GRAP,Despatch of communication of intention to grant a patent,Free format text: ORIGINAL CODE: EPIDOSNIGR1
+    2020-12-20,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: GRANT OF PATENT IS INTENDED
+    2021-01-20,INTG,Intention to grant announced,Effective date: 20201221
+    2021-04-13,GRAS,Grant fee paid,Free format text: ORIGINAL CODE: EPIDOSNIGR3
+    2021-04-16,GRAA,(expected) grant,Free format text: ORIGINAL CODE: 0009210
+    2021-04-16,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE PATENT HAS BEEN GRANTED
+    2021-05-19,AK,Designated contracting states,Kind code of ref document: B1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2021-05-19,REG,Reference to a national code,Ref country code: GBRef legal event code: FG4D
+    2021-05-31,REG,Reference to a national code,Ref country code: CHRef legal event code: EP
+    2021-06-10,REG,Reference to a national code,Ref country code: DERef legal event code: R096Ref document number: 602018017144Country of ref document: DE
+    2021-06-15,REG,Reference to a national code,Ref country code: ATRef legal event code: REFRef document number: 1394147Country of ref document: ATKind code of ref document: TEffective date: 20210615
+    2021-06-23,REG,Reference to a national code,Ref country code: IERef legal event code: FG4D
+    2021-09-10,REG,Reference to a national code,Ref country code: LTRef legal event code: MG9D
+    2021-10-15,REG,Reference to a national code,Ref country code: ATRef legal event code: MK05Ref document number: 1394147Country of ref document: ATKind code of ref document: TEffective date: 20210519
+    2021-10-27,REG,Reference to a national code,Ref country code: NLRef legal event code: MPEffective date: 20210519
+    2021-10-29,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: FIFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20210519Ref country code: LTFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20210519Ref country code: HRFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20210519Ref country code: ATFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20210519Ref country code: BGFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20210819
+    2021-11-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: ISFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20210919Ref country code: GRFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20210820Ref country code: NOFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20210819Ref country code: LVFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20210519Ref country code: PTFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20210920Ref country code: PLFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20210519Ref country code: RSFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20210519Ref country code: SEFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20210519
+    2021-12-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: NLFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20210519
+    2022-01-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: ROFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20210519Ref country code: DKFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20210519Ref country code: CZFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20210519Ref country code: SMFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20210519Ref country code: SKFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20210519Ref country code: EEFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20210519Ref country code: ESFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20210519
+    2022-02-22,REG,Reference to a national code,Ref country code: DERef legal event code: R097Ref document number: 602018017144Country of ref document: DE
+    2022-03-25,PLBE,No opposition filed within time limit,Free format text: ORIGINAL CODE: 0009261
+    2022-03-25,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: NO OPPOSITION FILED WITHIN TIME LIMIT
+    2022-04-27,26N,No opposition filed,Effective date: 20220222
+    2022-06-01,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: ISFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20210919Ref country code: ALFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20210519
+    2022-09-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: MCFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20210519
+    2022-10-14,REG,Reference to a national code,Ref country code: CHRef legal event code: PL
+    2022-10-24,REG,Reference to a national code,Ref country code: BERef legal event code: MMEffective date: 20220228
+    2022-10-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: LUFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20220201
+    2023-01-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: LIFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20220228Ref country code: IEFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20220201Ref country code: CHFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20220228
+    2023-02-28,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: BEFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20220228
+    2023-04-28,PGFP,Annual fee paid to national office [announced via postgrant information from national office to epo],Ref country code: FRPayment date: 20230119Year of fee payment: 6
+    2023-05-31,PGFP,Annual fee paid to national office [announced via postgrant information from national office to epo],Ref country code: ITPayment date: 20230120Year of fee payment: 6Ref country code: GBPayment date: 20230120Year of fee payment: 6Ref country code: DEPayment date: 20230119Year of fee payment: 6
+

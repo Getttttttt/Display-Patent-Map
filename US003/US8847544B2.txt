@@ -1,0 +1,366 @@
+ID
+    US8847544B2
+citation_exist
+    Patent Citations (9)
+citation_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2000040536A,1998-07-23,2000-02-08,Toyota Motor Corp,Battery warming up device
+    JP2003272712A,2002-03-18,2003-09-26,Mitsubishi Motors Corp,Battery control device
+    JP2007221886A,2006-02-15,2007-08-30,Toyota Motor Corp,Charging/discharging controller of secondary battery
+    JP2009225587A,2008-03-17,2009-10-01,Toyota Motor Corp,Electric vehicle
+    JP2009224256A,2008-03-18,2009-10-01,Denso Corp,Battery warming up system
+    Family To Family Citations,,,,
+    JP2003274565A                      *,2002-03-13,2003-09-26,Nissan Motor Co Ltd,Power storage system
+    JP2008182805A                      *,2007-01-24,2008-08-07,Omron Corp,Power unit
+    JP5435920B2                      *,2008-10-06,2014-03-05,富士通テン株式会社,Electronic control device, plug-in vehicle, and power supply path switching method
+    JP4781425B2                      *,2008-12-25,2011-09-28,本田技研工業株式会社,Power supply system between vehicle and house
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (28)
+              
+
+
+citedBy_infor
+30
+    Publication number,Priority date,Publication date,Assignee,Title
+    US9114719B1,2010-06-02,2015-08-25,Bryan Marc Failing,Increasing vehicle security
+    US10686385B2                      *,2017-03-23,2020-06-16,HELLA GmbH & Co. KGaA,Apparatus to realize fast battery charging and motor driving for electric vehicles using one AC/DC converter
+    US11296530B2                      *,2018-12-05,2022-04-05,Hyundai Motor Company,Method for charging battery at low temperature
+    Family To Family Citations,,,,
+    JP5696615B2                      *,2011-07-28,2015-04-08,トヨタ自動車株式会社,Charging device, vehicle, and charging device control method
+    JP2013240241A                      *,2012-05-17,2013-11-28,Toyota Motor Corp,Electric power supply device, vehicle with the same, and control method for electric power supply device
+    WO2014003085A1,2012-06-27,2014-01-03,Semiconductor Energy Laboratory Co., Ltd.,Power storage unit and solar power generation unit
+    JP5578209B2                      *,2012-08-22,2014-08-27,トヨタ自動車株式会社,Vehicle power control device
+    JP6003775B2                      *,2013-04-01,2016-10-05,トヨタ自動車株式会社,Power supply system, vehicle including the same, and control method of power supply system
+    CN103879300A                      *,2014-01-08,2014-06-25,天津清源电动车辆有限责任公司,Method for controlling range extender of extended-range electric vehicle
+    WO2015104287A1                      *,2014-01-10,2015-07-16,Alphalys Holdings Sa,Power supply for a load
+    JP6303761B2                      *,2014-04-22,2018-04-04,トヨタ自動車株式会社,vehicle
+    KR101620172B1                      *,2014-07-03,2016-05-13,현대자동차주식회사,Method for cold start for vehicle
+    JP6292154B2,2015-03-19,2018-03-14,トヨタ自動車株式会社,Power system
+    FR3046706B1                      *,2016-01-07,2018-02-16,Commissariat A L'energie Atomique Et Aux Energies Alternatives,METHOD AND DEVICE FOR CHARGING A BATTERY
+    JP6776611B2                      *,2016-05-16,2020-10-28,スズキ株式会社,Vehicle battery control
+    KR20170137478A                      *,2016-06-03,2017-12-13,현대자동차주식회사,Switching Device and Method for operating thereof
+    US10547191B2                      *,2016-06-15,2020-01-28,Schneider Electric It Corporation,Power management unit for intelligent traffic system applications
+    JP6520848B2                      *,2016-07-04,2019-05-29,トヨタ自動車株式会社,Battery charging system for electric vehicles
+    CN106302822A                      *,2016-10-21,2017-01-04,国网黑龙江省电力有限公司信息通信公司,Charging pile method for remote management
+    JP6624107B2                      *,2017-02-10,2019-12-25,株式会社豊田中央研究所,Vehicle heat management control device, heat management control program
+    JP2018139167A                      *,2017-02-24,2018-09-06,株式会社日本製鋼所,Output conversion device, power supply device, and control method
+    EP3664205A4                      *,2017-07-31,2020-08-19,Nissan Motor Co., Ltd.,Power supply system and control method therefor
+    DE102017214643B4                      *,2017-08-22,2023-06-29,Bayerische Motoren Werke Aktiengesellschaft,Preconditioning of an energy store of a motor vehicle
+    JP7070294B2                      *,2018-09-27,2022-05-18,トヨタ自動車株式会社,Vehicle control device
+    JP7010191B2                      *,2018-10-23,2022-02-10,トヨタ自動車株式会社,Secondary battery system and charge control method for secondary batteries
+    JP7163826B2                      *,2019-03-04,2022-11-01,トヨタ自動車株式会社,Charger and how to control the charger
+    US11390168B1                      *,2021-02-16,2022-07-19,Ford Global Technologies, Llc,Control system for a power outlet on a hybrid or electric vehicle
+    JP2023000568A                      *,2021-06-18,2023-01-04,トヨタ自動車株式会社,power supply unit
+
+abstract
+    An electric load is electrically connected to a path between an external power supply and a power storage device. An ECU executes temperature-rise control, when the temperature of the power storage device is low, ensuring power consumption of the electric load in association with charging/discharging of the power storage device. During execution of temperature-rise control, the ECU sets a power command value of the external charger, alternately causing a discharging mode having the output power of the external charger positively controlled and in which power consumption of the electric load is ensured in association with discharging of the power storage device, and a charging mode having the output power of the external charger negatively controlled and in which power consumption of the electric load is ensured in association with charging of the power storage device.
+title
+    Power supply device for electric powered vehicle, control method thereof, and electric powered vehicle
+similar_document
+20
+    Publication,Publication Date,Title
+    US8847544B2,2014-09-30,Power supply device for electric powered vehicle, control method thereof, and electric powered vehicle
+    US8773065B2,2014-07-08,Power supply system for electric powered vehicle, control method thereof, and electric powered vehicle
+    US8860363B2,2014-10-14,Power supply system for electric powered vehicle, control method thereof, and electric powered vehicle
+    US9421867B2,2016-08-23,Electric vehicle
+    US10301993B2,2019-05-28,Hybrid vehicle
+    US9315105B2,2016-04-19,Electrically-driven vehicle and method for controlling the same
+    JP5605436B2,2014-10-15,Electric vehicle and control method thereof
+    US8659182B2,2014-02-25,Power supply system and electric powered vehicle including power supply system, and method for controlling power supply system
+    EP2641771B1,2017-04-19,Vehicle charging device
+    US8509978B2,2013-08-13,Electric powered vehicle and control method for the same
+    US20090315518A1,2009-12-24,Power supply device and vehicle
+    US9701186B2,2017-07-11,Vehicle
+    KR101307911B1,2013-09-13,Unit for controling oil pump for plug-in hybrid vehicle
+    JP5347438B2,2013-11-20,Battery protection device
+    EP3020591A1,2016-05-18,Power source device for vehicle
+    JP6007876B2,2016-10-12,Power supply vehicle and power supply system
+    US10464550B2,2019-11-05,Abnormality detection of current sensor for electrically heated catalyst device in hybrid vehicle
+    KR101251908B1,2013-04-08,Method for controling oil pump for plug-in hybrid vehicle
+    JP2023059430A,2023-04-27,vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    53
+classfication_items
+233
+    H,0,2,J,7,/,0,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B,6,0,L,1,1,/,0,0,5
+    B,6,0,L,1,1,/,1,8,0,3
+    B,6,0,L,1,1,/,1,8,1,6
+    B,6,0,L,1,1,/,1,8,6,2
+    B,6,0,L,1,1,/,1,8,9
+    B,6,0,L,1,1,/,1,8,9,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,1,0
+    B,6,0,L,5,3,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,3,0
+    B,6,0,L,5,8,/,3,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,3,0
+    B,6,0,L,5,8,/,3,2
+    B,6,0,L,5,8,/,3,4
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,4
+    H,0,1,M,1,0,/,4,4,3
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,6,0
+    H,0,1,M,1,0,/,6,1
+    H,0,1,M,1,0,/,6,1,5
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,6,0
+    H,0,1,M,1,0,/,6,3
+    H,0,1,M,1,0,/,6,3,7
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,6,8
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,7
+    H,0,2,J,7,/,0,0,7,1,8,8
+    H,0,2,J,7,/,0,0,7,1,9,2
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,7
+    H,0,2,J,7,/,0,0,7,1,8,8
+    H,0,2,J,7,/,0,0,7,1,9,2
+    H,0,2,J,7,/,0,0,7,1,9,4
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,2
+    H,0,2,J,7,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,1,0
+    B,6,0,L,2,2,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,8,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,5,0
+    B,6,0,L,2,2,6,0,/,5,8
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,6,0
+    H,0,1,M,1,0,/,6,2
+    H,0,1,M,1,0,/,6,2,5
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,2,2,2,0,/,0,0
+    H,0,1,M,2,2,2,0,/,2,0
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,2,2
+    Y,0,2,T,1,0,/,7,0,4,4
+    Y,0,2,T,1,0,/,7,0,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y,0,2,T,1,0,/,7,0,8,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,1,6
+    Y,0,2,T,1,0,/,7,2,4,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,2
+    Y,0,2,T,9,0,/,1,2,1
+    Y,0,2,T,9,0,/,1,2,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+    Y,0,2,T,9,0,/,3,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,4,0
+
+application_events
+7
+    2010-10-28,Application filed by Toyota Motor Corp
+    2013-04-18,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2013-09-26,Publication of US20130249495A1
+    2014-09-30,Application granted
+    2014-09-30,Publication of US8847544B2
+    Status,Active
+    2030-10-28,Anticipated expiration
+
+active_area
+2
+    W,O
+    U,S
+
+not_active_area
+3
+    E,P
+    J,P
+    C,N
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2010/069142,2010-10-28,Power supply apparatus for electric vehicle, method of controlling power supply apparatus, and electric vehicle
+
+legal_event
+5
+    Date,Code,Title,Description
+    2013-04-18,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:ANG, WANLENG;REEL/FRAME:030232/0776Effective date: 20130320
+    2014-09-10,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2018-03-15,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551)Year of fee payment: 4
+    2022-03-16,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+

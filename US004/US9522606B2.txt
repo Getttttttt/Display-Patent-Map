@@ -1,0 +1,181 @@
+ID
+    US9522606B2
+citation_exist
+    Patent Citations (11)
+citation_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2004120844A,2002-09-25,2004-04-15,Fuji Electric Systems Co Ltd,Step-up converter controller
+    US20060114702A1                      *,2004-11-30,2006-06-01,Toyota Jidosha Kabushiki Kaisha,Voltage conversion device and computer-readable recording medium with program recorded thereon for computer to execute control of voltage conversion by voltage conversion device
+    JP2006311635A,2005-04-26,2006-11-09,Nissan Motor Co Ltd,Step-up converter controller
+    JP2009148119A,2007-12-17,2009-07-02,Sumitomo Heavy Ind Ltd,Drive controller of step-up/step-down converter
+    JP2011055676A,2009-09-04,2011-03-17,Denso Corp,Motor controller
+    US8008899B2                      *,2008-03-19,2011-08-30,The Swatch Group Research And Development Ltd.,Method of controlling a DC-DC convertor in discontinuous mode
+    US8169199B2                      *,2006-06-01,2012-05-01,Toyota Jidosha Kabushiki Kaisha,Power supply with overvoltage protection by zero current stagnation detection
+    Family To Family Citations,,,,
+    JPH05336757A                      *,1992-05-28,1993-12-17,Toshiba Corp,Monitor for power converter
+    JP2006288047A                      *,2005-03-31,2006-10-19,Shindengen Electric Mfg Co Ltd,Dc-dc converter
+    JP5487700B2                      *,2009-04-23,2014-05-07,日産自動車株式会社,DCDC converter control device
+    JP5185247B2                      *,2009-12-28,2013-04-17,日立オートモティブシステムズ株式会社,Control device for in-vehicle internal combustion engine
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (8)
+              
+
+
+citedBy_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN109217664A                      *,2018-10-18,2019-01-15,东莞市钜大电子有限公司,A kind of Fuzzy PI of boots breadboardin load unit
+    Family To Family Citations,,,,
+    KR101606679B1                      *,2013-04-09,2016-03-25,미쓰비시덴키 가부시키가이샤,Multiaxial driving apparatus
+    US20150314693A1                      *,2014-04-30,2015-11-05,Maurice Mills,Electrical vehicle battery recharging system
+    US10239407B2,2016-01-25,2019-03-26,Ford Global Technologies, Llc,Variable carrier switching frequency control of variable voltage converter
+    JP6954205B2                      *,2018-03-28,2021-10-27,トヨタ自動車株式会社,Power converter
+    JP7120164B2                      *,2019-06-13,2022-08-17,株式会社明電舎,Control device and control method for DCDC converter
+    JP2022083137A                      *,2020-11-24,2022-06-03,株式会社エフ・シー・シー,Electric vehicle
+    CN116729197A                      *,2023-06-15,2023-09-12,浙江华宇钠电新能源科技有限公司,Voltage follow-up control method and control system for sodium ion battery
+
+abstract
+    A control system includes a boost-buck converter, a control apparatus and a voltage sensor. The boost-buck converter is provided between a battery and a motor-generator. The control apparatus controls the boost-buck converter. The voltage sensor outputs a sensor output value of a system voltage supplied to the motor. The control apparatus calculates a current stagnation continuation period based on the sensor output value of the voltage sensor and corrects a duty ratio of the boost-buck converter in accordance with a calculation value of the continuation period. The continuation period includes a predetermined time point, at which current stagnation is assumed to be generated. The current stagnation indicates that at least a reactor current stagnates. In the continuation period, a system voltage-related voltage continues to have a voltage difference of the same polarity side relative to a reference voltage.
+title
+    Boost-buck converter control system
+similar_document
+26
+    Publication,Publication Date,Title
+    US9522606B2,2016-12-20,Boost-buck converter control system
+    US8027181B2,2011-09-27,Load drive device and vehicle equipped with the same
+    US7855901B2,2010-12-21,AC voltage output apparatus and hybrid vehicle including the same
+    US8058848B2,2011-11-15,Vehicle charging system
+    US8760097B2,2014-06-24,Control device for converter and electrically powered vehicle provided with the same
+    US7486035B2,2009-02-03,Power output apparatus and vehicle including such power output apparatus
+    US9438116B2,2016-09-06,Control unit for a boost converter device
+    US8305786B2,2012-11-06,Power controller for electric vehicle
+    US7525278B2,2009-04-28,Voltage conversion apparatus, power output apparatus, and control method of voltage converter
+    US8292009B2,2012-10-23,Power supply device and vehicle including the same, control method for power supply device, and computer-readable recording medium having program for causing computer to execute that control method recorded thereon
+    US20110298427A1,2011-12-08,Battery heating apparatus for vehicle
+    US7355869B2,2008-04-08,Voltage conversion device and computer-readable recording medium having program recorded thereon for computer to control voltage conversion
+    US20070058404A1,2007-03-15,Voltage conversion device
+    US9647547B2,2017-05-09,Voltage conversion device for stepping up voltage
+    US9467087B2,2016-10-11,Switching control device
+    US10177662B2,2019-01-08,Boost converter apparatus
+    CN105515374B,2018-06-05,Power conversion system
+    JP2009060759A,2009-03-19,Power supply system and charge control method therefor
+    JP2011167011A,2011-08-25,Dc-dc converter system
+    JP2006033966A,2006-02-02,Motor drive unit
+    JP4853289B2,2012-01-11,Power supply device and vehicle including the same
+    JP6495412B1,2019-04-03,Power system
+    JP2012161211A,2012-08-23,Power supply device
+    JP2015202018A,2015-11-12,voltage conversion device
+    JP7294071B2,2023-06-20,power system
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    13
+classfication_items
+62
+    B,6,0,L,1,1,/,1,8,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H,0,2,M,3,/,0,2
+    H,0,2,M,3,/,0,4
+    H,0,2,M,3,/,1,0
+    H,0,2,M,3,/,1,4,5
+    H,0,2,M,3,/,1,5,5
+    H,0,2,M,3,/,1,5,6
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H,0,2,M,3,/,0,2
+    H,0,2,M,3,/,0,4
+    H,0,2,M,3,/,1,0
+    H,0,2,M,3,/,1,4,5
+    H,0,2,M,3,/,1,5,5
+    H,0,2,M,3,/,1,5,6
+    H,0,2,M,3,/,1,5,8
+    H,0,2,M,3,/,1,5,8,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B,6,0,L,2,2,1,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B,6,0,L,2,2,1,0,/,1,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,0,5
+    Y,0,2,T,1,0,/,7,0,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,2,5
+    Y,0,2,T,1,0,/,7,2,3,3
+
+application_events
+7
+    2014-03-21,Application filed by Denso Corp
+    2014-03-21,Assigned to DENSO CORPORATION
+    2014-10-02,Publication of US20140292076A1
+    2016-12-20,Application granted
+    2016-12-20,Publication of US9522606B2
+    Status,Active
+    2035-06-19,Adjusted expiration
+
+active_area
+2
+    J,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2013-70622,2013-03-28,
+    JP2013070622A,2013-03-28,Buck-boost converter control system
+
+legal_event
+5
+    Date,Code,Title,Description
+    2014-03-21,AS,Assignment,Owner name: DENSO CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:NAKAMURA, MAKOTO;FUNADA, MASASHI;MORII, AKIYOSHI;SIGNING DATES FROM 20140228 TO 20140311;REEL/FRAME:032497/0539
+    2016-11-30,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2016-12-02,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2020-06-10,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

@@ -1,0 +1,288 @@
+ID
+    US20140039754A1
+citation_exist
+    Patent Citations (14)
+citation_infor
+16
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20040003801A1                      *,2002-05-10,2004-01-08,Jan-Roger Linna,Capillary heating control and fault detection system and methodology for fuel system in an internal combustion engine
+    Family To Family Citations,,,,
+    US5045836A                      *,1990-07-13,1991-09-03,Nobles Jr Eugene R,Vehicle anti-freeze monitor
+    JP2902946B2,1994-05-30,1999-06-07,三洋電機株式会社,Abnormality determination device for absorption type water heater
+    DE19533628A1                      *,1995-09-12,1997-03-13,Teves Gmbh Alfred,Circuit for measurement of alcohol concentration in aqueous solution for vehicle antifreeze solutions
+    JPH1034056A                      *,1996-07-23,1998-02-10,Kyushu Plant Kk,Controller for feeding coating material and method therefor
+    JP2003072096A                      *,2001-08-31,2003-03-12,Hitachi Ltd,Ink jet recorder
+    JP2005078974A,2003-09-01,2005-03-24,Nissan Motor Co Ltd,Fuel cell system
+    JP2007048476A,2005-08-05,2007-02-22,Nissan Motor Co Ltd,Fuel cell cooling system
+    JP2007127079A                      *,2005-11-04,2007-05-24,Toyota Motor Corp,Cooling system and control method therefor
+    JP2007211671A,2006-02-09,2007-08-23,Toyota Motor Corp,Cooling control system of internal combustion engine
+    JP2007247506A                      *,2006-03-15,2007-09-27,Toyota Motor Corp,Antifreezing solution concentration estimating device of internal combustion engine cooling system
+    US20090192728A1                      *,2008-01-30,2009-07-30,Honeywell International Inc.,Apparatus, system, and method for onboard degraded and deadlined mechanical system alerting
+    WO2010062826A1                      *,2008-11-26,2010-06-03,Micromem Technologies Inc.,Hall effect-based real-time lubrication monitoring system modes of operation and use thereof
+    JP2011218936A                      *,2010-04-08,2011-11-04,Toyota Motor Corp,Device for cooling of vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (11)
+              
+
+
+citedBy_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20160109411A1                      *,2014-10-01,2016-04-21,Sensor Networks, Inc.,Asset-condition monitoring system
+    US9688296B2                      *,2015-10-19,2017-06-27,Electro-Motive Diesel, Inc.,Remote data backup for locomotive on-board equipment
+    US10908130B2,2014-10-01,2021-02-02,Sensor Networks, Inc.,Asset integrity monitoring using cellular networks
+    US11465519B2                      *,2018-06-27,2022-10-11,Abb Schweiz Ag,Electric vehicle charge equipment
+    Family To Family Citations,,,,
+    DE102012223454A1                      *,2012-12-17,2014-06-18,Continental Automotive Gmbh,Coolant circuit
+    JP6471133B2                      *,2016-10-25,2019-02-13,本田技研工業株式会社,Vehicle power supply
+    DE102016124652B3                      *,2016-12-16,2018-02-01,Iav Gmbh Ingenieurgesellschaft Auto Und Verkehr,Method for determining a coolant concentration
+    JP7103115B2                      *,2018-09-25,2022-07-20,株式会社デンソー,Power converter
+    JP7081434B2                      *,2018-10-09,2022-06-07,トヨタ自動車株式会社,Vehicle cooling system
+    CN110259568A                      *,2019-06-28,2019-09-20,潍柴动力股份有限公司,A kind of engine coolant detection method and engine-cooling system
+    CN112455212B                      *,2020-12-04,2022-04-19,浙江吉利控股集团有限公司,Cooling control method and system for vehicle electric driving cooling loop
+
+abstract
+    A diagnosing device is provided for a vehicle having a flow passage for circulating a liquid medium for cooling an inverter of the vehicle, and a pump provided on the flow passage to circulate the liquid medium. The diagnosing device includes a temperature sensor for measuring a temperature related to a temperature of the liquid medium, and a calculating unit for calculating a concentration of the liquid medium. The calculating unit calculates a viscosity of the liquid medium based on a flow rate of the liquid medium flowing through the flow passage and performance of the pump, and when the calculation as to the viscosity of the liquid medium is executed with a plurality temperature conditions, the calculating unit calculates the concentration of the liquid medium based on a relationship between the plurality of temperature conditions and the corresponding viscosities of the liquid medium.
+title
+    Diagnosing device for vehicle and method for diagnosing vehicle
+similar_document
+17
+    Publication,Publication Date,Title
+    US8855851B2,2014-10-07,Diagnosing device for vehicle and method for diagnosing vehicle
+    US8649931B2,2014-02-11,Cooling system for vehicle
+    US20140027089A1,2014-01-30,Cooling system and vehicle with the same
+    US8220574B2,2012-07-17,Inverter control device and vehicle
+    JP5590214B2,2014-09-17,Vehicle cooling system
+    US7952236B2,2011-05-31,Control apparatus for load device, and vehicle
+    US20130343105A1,2013-12-26,Inverter overheating protection control apparatus and inverter overheating protection control method
+    CN103875071B,2015-08-05,The abnormal detector of cooling device and method for detecting abnormality
+    JP6024597B2,2016-11-16,Diagnostic device for temperature detection means
+    WO2008102714A1,2008-08-28,Drive control device for rotating electric machine, and vehicle
+    JP2009171702A,2009-07-30,Vehicle drive system
+    CN106064569A,2016-11-02,Electric vehicle
+    JP2011087406A,2011-04-28,Electric vehicle
+    JP2010213539A,2010-09-24,Device for control of vehicle
+    JP7119932B2,2022-08-17,Power converter for electric vehicles
+    JP2016129462A,2016-07-14,Vehicle control device
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    29
+classfication_items
+169
+    G
+    G,0,7
+    G,0,7,C
+    G,0,7,C,5,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    F
+    F,0,1
+    F,0,1,P
+    F,0,1,P,1,1,/,0,0
+    F,0,1,P,1,1,/,1,4
+    F
+    F,0,1
+    F,0,1,P
+    F,0,1,P,1,1,/,0,0
+    F,0,1,P,1,1,/,1,4
+    F,0,1,P,1,1,/,2,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,/,0,0
+    B,6,0,K,2,0,0,1,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,1,0
+    B,6,0,L,2,2,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,6
+    B,6,0,L,2,2,4,0,/,6,6,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,4,4
+    F
+    F,0,1
+    F,0,1,P
+    F,0,1,P,3,/,0,0
+    F,0,1,P,2,0,0,3,/,0,0,1
+    F
+    F,0,1
+    F,0,1,P
+    F,0,1,P,2,0,3,1,/,0,0
+    F,0,1,P,2,0,3,1,/,2,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+7
+    2011-04-13,Application filed by Toyota Motor Corp
+    2013-09-10,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2014-02-06,Publication of US20140039754A1
+    2014-10-07,Application granted
+    2014-10-07,Publication of US8855851B2
+    Status,Expired - Fee Related
+    2031-04-13,Anticipated expiration
+
+active_area
+1
+    W,O
+
+not_active_area
+4
+    C,N
+    J,P
+    E,P
+    U,S
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2011/059166,2011-04-13,Vehicle diagnostic device and vehicle diagnostic method
+
+legal_event
+6
+    Date,Code,Title,Description
+    2013-09-10,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:NISHIZAWA, JUN;REEL/FRAME:031173/0711Effective date: 20130807
+    2018-05-21,FEPP,Fee payment procedure,Free format text: MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.)
+    2018-11-12,LAPS,Lapse for failure to pay maintenance fees,Free format text: PATENT EXPIRED FOR FAILURE TO PAY MAINTENANCE FEES (ORIGINAL EVENT CODE: EXP.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2018-11-12,STCH,Information on status: patent discontinuation,Free format text: PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362
+    2018-12-04,FP,Lapsed due to failure to pay maintenance fee,Effective date: 20181007
+

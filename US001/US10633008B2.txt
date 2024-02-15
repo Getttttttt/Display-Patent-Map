@@ -1,0 +1,249 @@
+ID
+    US10633008B2
+citation_exist
+    Patent Citations (6)
+citation_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH07304353A,1994-05-13,1995-11-21,Toshiba Corp,Feeding voltage controller for railway substation
+    JP2013059144A,2011-09-07,2013-03-28,Hitachi Ltd,Drive system of railway vehicle
+    JP2015168348A,2014-03-07,2015-09-28,三菱電機株式会社,Direct current feeder voltage control device, direct current feeder voltage control system, and direct current feeder voltage control method
+    Family To Family Citations,,,,
+    JP4624202B2                      *,2005-07-21,2011-02-02,株式会社日立製作所,vehicle
+    JP5023139B2                      *,2009-12-08,2012-09-12,株式会社日立製作所,Train control system and railway control system
+    US9180790B2                      *,2012-02-22,2015-11-10,Mitsubishi Electric Corporation,DC feeder voltage control apparatus and DC feeder voltage control system
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (3)
+              
+
+
+citedBy_exist
+    
+              Cited By (12)
+              
+
+
+citedBy_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    DE102016214051A1                      *,2016-07-29,2018-02-01,Siemens Aktiengesellschaft,Method for power supply and power supply for arranged on a railway track operating elements
+    US10279823B2                      *,2016-08-08,2019-05-07,General Electric Company,System for controlling or monitoring a vehicle system along a route
+    DE112017007586T5                      *,2017-05-23,2020-03-05,Mitsubishi Electric Corporation,Line merging device, line merging system and contact information transmission method
+    WO2018225194A1                      *,2017-06-07,2018-12-13,三菱電機株式会社,Dc feed voltage calculation apparatus, dc feed voltage control system, dc feed voltage calculation program, and dc feed voltage calculation method
+    JP7049166B2                      *,2018-04-19,2022-04-06,三菱電機株式会社,DC feeder voltage controller, DC feeder voltage control method, and DC feeder voltage control program
+    JP6548796B1                      *,2018-08-24,2019-07-24,公益財団法人鉄道総合技術研究所,POWER CONVERSION SYSTEM, TRAFFIC SYSTEM, AND POWER CONVERSION METHOD
+    FR3106679B1                      *,2020-01-27,2022-02-11,Alstom Transp Tech,Method, and system, for measuring the energy behavior of a transport network, associated computer program
+    CN111319517B                      *,2020-03-04,2022-05-10,西南交通大学,Method for detecting position of train pantograph in virtual in-phase power supply system
+    EP3888968A1                      *,2020-03-31,2021-10-06,Volkswagen Ag,Method for controlling a road-guided overhead line system and control unit
+    CN111823876B                      *,2020-08-05,2022-03-08,中车株洲电力机车研究所有限公司,Intelligent power supply control method and system
+    CN112406966A                      *,2020-11-24,2021-02-26,广州市扬新技术研究有限责任公司,Method for positioning running position of single locomotive in interval
+    CN113071538B                      *,2021-04-28,2021-12-10,西南交通大学,Method and system for identifying train running direction of single-line AT traction network
+
+abstract
+    A DC-feeding-voltage calculating apparatus includes storage that stores train model information including information for controlling a regenerative power reducing amount in a train in an electrified section; feeding network model information including position information on a substation; and substation model information including control information on a substation voltage. On the basis of: the stored information; a voltage value, current values of feeders by train direction, the voltage and current values being measured in the substation; and first train information on a train including a wireless communication apparatus, an estimator estimates second train information on a train not including a wireless communication apparatus and outputs train operation information. A calculator, on the basis of the stored information and the train operation information, calculates a substation voltage setting value for controlling the substation voltage such that regenerative power is increased in a regenerative car in the electrified section.
+title
+    DC-feeding-voltage calculating apparatus, DC-feeding-voltage control system, and DC-feeding-voltage calculating method
+similar_document
+26
+    Publication,Publication Date,Title
+    US10633008B2,2020-04-28,DC-feeding-voltage calculating apparatus, DC-feeding-voltage control system, and DC-feeding-voltage calculating method
+    US9180790B2,2015-11-10,DC feeder voltage control apparatus and DC feeder voltage control system
+    US8994210B2,2015-03-31,Driver circuit for an electric vehicle and a diagnostic method for determining when an electrical short circuit to a ground voltage is present between a contactor coil and a voltage driver
+    EP2810847B1,2018-05-23,Circuit breaker controller for electrically powered train
+    US8583311B2,2013-11-12,Overhead wire transportation system and control method thereof
+    BR112017007723B1,2022-03-22,energy storage device
+    US10195955B2,2019-02-05,System and method for reducing the electric power consumption of railway system
+    JP6184335B2,2017-08-23,Power converter and failure sign detection method
+    JP6080787B2,2017-02-15,DC feeding voltage control device, DC feeding voltage control system, and DC feeding voltage control method
+    KR102179305B1,2020-11-16,Power supply system and method for controlling the system
+    US20140001836A1,2014-01-02,Driver circuit for an electric vehicle and a diagnostic method for determining when a voltage driver is shorted to a ground voltage
+    US10106037B2,2018-10-23,Battery control device
+    WO2020075510A1,2020-04-16,Rail vehicle and power control method for rail vehicle
+    TWI726188B,2021-05-01,Railway vehicle, power supply line voltage estimation device, and method for estimating voltage of power supply line
+    KR102207942B1,2021-01-26,Design Method of DC electric railway power supply system including energy storage system
+    CN110509956B,2021-07-23,Magnetic suspension train positioning equipment and method
+    Dobrynin et al.,2020,An Overhead Line Voltage Monitoring System
+    WO2018020907A1,2018-02-01,Feeder measurement system
+    CN109017434A,2018-12-18,A kind of magnetic suspension train power supply system, method and apparatus
+    JP7116581B2,2022-08-10,Feeder device and feeder system
+    Kumagai et al.,2016,Comparative evaluations of regenerative and electro-dynamic braking and power substations along graded section of a Japanese suburban rail line
+    JP2021075162A,2021-05-20,Railway system and charge/discharge control method
+    KR101803398B1,2017-11-30,A system for providing position the rail interval abnormal point using distance measuring sensor
+    Minobe et al.,2015,1E14 The examination which measures power consumption simultaneously in the train and substation of a railway in a direct-current electrified section (Environment and Energy)
+    JP2005192297A,2005-07-14,Estimation method of simultaneous pantograph bouncing rate for a plurality of pantographs
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    5
+classfication_nums
+    24
+classfication_items
+124
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,3,/,0,0
+    B,6,1,L,3,/,0,0,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,/,0,0
+    B,6,0,L,5,/,1,8
+    B,6,0,L,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,/,0,0
+    B,6,0,L,5,/,1,8
+    B,6,0,L,5,/,2,2
+    B,6,0,L,5,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,9,/,0,0
+    B
+    B,6,0
+    B,6,0,M
+    B,6,0,M,1,/,0,0
+    B,6,0,M,1,/,0,2
+    B
+    B,6,0
+    B,6,0,M
+    B,6,0,M,3,/,0,0
+    B,6,0,M,3,/,0,2
+    B
+    B,6,0
+    B,6,0,M
+    B,6,0,M,3,/,0,0
+    B,6,0,M,3,/,0,6
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,2,5,/,0,0
+    B,6,1,L,2,5,/,0,2
+    B,6,1,L,2,5,/,0,2,5
+    B,6,1,L,2,7,/,0,0,7,7
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,2,7,/,0,0
+    B,6,1,L,2,7,/,4,0
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,1,/,0,0
+    H,0,2,J,1,/,0,6
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,1,/,0,0
+    H,0,2,J,1,/,1,0
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,1,3,/,0,0
+    H,0,2,J,1,3,/,0,0,0,0,2
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,1,3,/,0,0
+    H,0,2,J,1,3,/,0,0,0,0,6
+    H,0,2,J,1,3,/,0,0,0,2,2
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,1,3,/,0,0
+    H,0,2,J,1,3,/,0,0,0,3
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,1,3,/,0,0
+    H,0,2,J,1,3,/,0,0,0,3,2
+    H,0,2,J,1,3,/,0,0,0,3,4
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,3,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,7,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,4,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+7
+    2016-03-15,Application filed by Mitsubishi Electric Corp
+    2018-07-16,Assigned to MITSUBISHI ELECTRIC CORPORATION
+    2019-01-17,Publication of US20190016356A1
+    2020-04-28,Application granted
+    2020-04-28,Publication of US10633008B2
+    Status,Active
+    2036-03-15,Anticipated expiration
+
+active_area
+4
+    J,P
+    W,O
+    U,S
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2016/058170,2016-03-15,Direct current feeder voltage calculation apparatus, direct current feeder voltage control system, and direct current feeder voltage calculation method
+
+legal_event
+9
+    Date,Code,Title,Description
+    2018-07-16,AS,Assignment,Owner name: MITSUBISHI ELECTRIC CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:MOCHIMARU, HIRONORI;FUJITA, KEIKI;UEDA, KENJI;AND OTHERS;SIGNING DATES FROM 20180607 TO 20180611;REEL/FRAME:046359/0436
+    2018-07-16,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2018-10-30,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2019-08-07,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2019-10-16,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2020-01-03,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2020-04-08,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2023-10-11,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

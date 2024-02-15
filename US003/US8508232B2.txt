@@ -1,0 +1,186 @@
+ID
+    US8508232B2
+citation_exist
+    Patent Citations (10)
+citation_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    US4728898A                      *,1986-03-17,1988-03-01,Staley Electric Co., Inc.,Method and apparatus for detecting and locating faults in an AC transmission line using two indicators
+    US5422822A                      *,1991-06-20,1995-06-06,Honda Giken Kogyo Kabushiki Kaisha,Apparatus for detecting remanent stored energy in storage battery and apparatus for warning of reduction in remanent stored energy in storage battery
+    US5691078A                      *,1994-11-21,1997-11-25,Seiko Epson Corporation,Remaining battery capacity meter and method for computing remaining capacity
+    JP2003014825A                      *,2001-07-04,2003-01-15,Advantest Corp,Electric source device and test device
+    JP2003047111A,2001-07-31,2003-02-14,Sanyo Electric Co Ltd,Power unit for automobile
+    US6701262B2                      *,2000-08-23,2004-03-02,Autonetworks Technologies, Ltd.,Current detecting circuit
+    JP2006014480A,2004-06-25,2006-01-12,Sanyo Electric Co Ltd,Power supply device of vehicle
+    JP2009139223A,2007-12-06,2009-06-25,Sanyo Electric Co Ltd,Current detection circuit
+    Family To Family Citations,,,,
+    JP3340332B2                      *,1996-11-20,2002-11-05,オリジン電気株式会社,High voltage generator with disconnection determination function
+    JP2002270383A                      *,2001-03-08,2002-09-20,Auto Network Gijutsu Kenkyusho:Kk,Blown-out lamp detecting equipment, blown-out lamp detecting method and program
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (20)
+              
+
+
+citedBy_infor
+22
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20120286738A1                      *,2011-05-11,2012-11-15,Moog Unna Gmbh,Emergency power supply mechanism and procedure for the emergency power supply
+    US20150280469A1                      *,2012-11-19,2015-10-01,Byd Company Limited,Protective device and protective system for battery assembly
+    US9851413B2,2014-12-29,2017-12-26,Samsung Electronics Co., Ltd.,Method and apparatus for estimating current
+    US11322925B2,2016-08-23,2022-05-03,Gs Yuasa International Ltd.,Overcurrent detection device, energy storage apparatus, and current detection method
+    Family To Family Citations,,,,
+    JP5606871B2                      *,2010-10-26,2014-10-15,ラピスセミコンダクタ株式会社,Semiconductor circuit, semiconductor device, wiring abnormality diagnosis method, and abnormality diagnosis program
+    JP6051542B2                      *,2012-03-07,2016-12-27,ミツミ電機株式会社,Battery voltage monitoring circuit
+    DE102012209177A1                      *,2012-05-31,2013-12-05,Robert Bosch Gmbh,Battery system with separately connected determination circuit as well as battery and motor vehicle with battery system
+    DE102012013405A1,2012-07-05,2014-01-09,Audi Ag,Diagnostic device for checking a control signal line
+    US9329237B2                      *,2014-01-10,2016-05-03,Freescale Semiconductor, Inc.,Switch detection device and method of use
+    KR102235499B1                      *,2014-01-29,2021-04-05,엘지이노텍 주식회사,Current sensing apparatus
+    KR102302783B1                      *,2014-07-25,2021-09-16,현대모비스 주식회사,Vehicle Driving System and Method
+    CN105115408B                      *,2015-10-07,2018-09-14,兰如根,More gear identification circuits of two detection lines detection
+    JP2017108204A                      *,2015-12-07,2017-06-15,ルネサスエレクトロニクス株式会社,Semiconductor device, power supply device, and method of controlling semiconductor device
+    US10305271B2,2016-06-30,2019-05-28,Microsoft Technology Licensing, Llc,Multi-pack and component connectivity detection
+    JP6972998B2                      *,2017-12-07,2021-11-24,株式会社デンソーウェーブ,Industrial control unit
+    WO2019148421A1                      *,2018-02-01,2019-08-08,Oppo广东移动通信有限公司,Terminal device and electric leakage detection method and detection apparatus therefor
+    JP7207074B2                      *,2019-03-27,2023-01-18,株式会社Ｇｓユアサ,BATTERY MANAGEMENT DEVICE, POWER STORAGE DEVICE, BATTERY MANAGEMENT METHOD, AND COMPUTER PROGRAM
+    JP7279460B2                      *,2019-03-27,2023-05-23,株式会社Ｇｓユアサ,BATTERY MANAGEMENT DEVICE, POWER STORAGE DEVICE, BATTERY MANAGEMENT METHOD, AND COMPUTER PROGRAM
+    US20230147606A1                      *,2020-03-18,2023-05-11,Sanyo Electric Co., Ltd.,Management device and power supply system
+    CN114755487B                      *,2022-06-15,2022-09-20,深圳市航智精密电子有限公司,Fluxgate current sensor and current measuring method
+
+abstract
+    The battery system has a current detection circuit 2, an amplifier 6, and a detection circuit 7 that detects the current flowing through batteries 1 from amplifier 6 output. The current detection circuit 2 is provided with a voltage source circuit 8 that supplies a test voltage to the input-side of the amplifier 6. Current detection lines 10 connect the current detection resistor 5 to the input-side of the amplifier 6, and the detection circuit 7 stores a reference voltage corresponding to the current detection lines 10 in the connected state. When the voltage source circuit 8 supplies the test voltage to the input-side of the amplifier 6, the detection circuit 7 compares the amplifier 6 output voltage with the reference voltage. The detection circuit 7 detects an open-circuit in the current detection lines 10 by the shift in voltage from the reference voltage.
+title
+    Battery system with a current detection circuit
+similar_document
+25
+    Publication,Publication Date,Title
+    US8508232B2,2013-08-13,Battery system with a current detection circuit
+    JP5450812B2,2014-03-26,Battery system, electric vehicle, moving object, power storage device, power supply device, and battery voltage detection device
+    US8970062B2,2015-03-03,Automotive power source apparatus and vehicle equipped with the power source apparatus
+    US8487629B2,2013-07-16,Battery system, electric vehicle, and battery control apparatus
+    US8917039B2,2014-12-23,Car power source apparatus and vehicle equipped with the power source apparatus
+    US9244108B2,2016-01-26,Device for detecting the insulation resistance of a high voltage battery system
+    US7728599B2,2010-06-01,Battery management system and driving method thereof
+    US7834635B2,2010-11-16,Car power source apparatus
+    US10386400B2,2019-08-20,Abnormality detection device and method for insulation and welding
+    KR101943722B1,2019-01-29,Device and method for monitoring an electrical insulation in a vehicle electrical system
+    JP5866001B2,2016-02-17,Battery monitoring device and battery system monitoring device
+    US20100134069A1,2010-06-03,Battery system with practical voltage detection
+    JP5868495B2,2016-02-24,Battery monitoring device and battery system monitoring device
+    JP5072561B2,2012-11-14,Current detection circuit
+    US20090295329A1,2009-12-03,Vehicle power supply device
+    WO2012029522A1,2012-03-08,Battery system, electric vehicle, moving body, power storage device, power source device, and battery control device
+    WO2015145496A1,2015-10-01,Current detection apparatus and power supply system
+    US20090237085A1,2009-09-24,Voltage detection circuit
+    US9960610B2,2018-05-01,Voltage detecting device, voltage detecting method, and battery pack system
+    JP2014090635A,2014-05-15,Power storage system
+    CN111971564B,2023-06-16,Voltage detection circuit for vehicle
+    US11592470B2,2023-02-28,Insulation abnormality detection apparatus
+    JPH05333121A,1993-12-17,Charge and discharge display circuit
+    JP2023134236A,2023-09-27,power supply diagnostic device
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    10
+classfication_items
+57
+    G
+    G,0,1
+    G,0,1,R
+    G,0,1,R,3,1,/,0,0
+    G,0,1,R,3,1,/,5,0
+    G,0,1,R,3,1,/,5,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    G
+    G,0,1
+    G,0,1,R
+    G,0,1,R,3,1,/,0,0
+    G,0,1,R,3,1,/,3,6
+    G,0,1,R,3,1,/,3,6,4,4
+    G,0,1,R,3,1,/,3,6,4,8
+    G
+    G,0,1
+    G,0,1,R
+    G,0,1,R,3,1,/,0,0
+    G,0,1,R,3,1,/,3,6
+    G,0,1,R,3,1,/,3,9,6
+    G
+    G,0,1
+    G,0,1,R
+    G,0,1,R,3,1,/,0,0
+    G,0,1,R,3,1,/,5,0
+    G,0,1,R,3,1,/,5,2
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,1,3
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,4,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+
+application_events
+7
+    2010-09-07,Application filed by Sanyo Electric Co Ltd
+    2010-09-07,Assigned to SANYO ELECTRIC CO., LTD.
+    2011-03-10,Publication of US20110057658A1
+    2013-08-13,Application granted
+    2013-08-13,Publication of US8508232B2
+    Status,Active
+    2032-01-24,Adjusted expiration
+
+active_area
+2
+    J,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2009206281A,2009-09-07,Battery system having current detection circuit and vehicle equipped with this battery system
+    JP2009-206281,2009-09-07,
+
+legal_event
+5
+    Date,Code,Title,Description
+    2010-09-07,AS,Assignment,Owner name: SANYO ELECTRIC CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:YUGOU, MASAKI;FURUKAWA, KIMIHIKO;YAMAUCHI, YUTAKA;REEL/FRAME:024942/0752Effective date: 20100901
+    2013-07-24,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2017-02-02,FPAY,Fee payment,Year of fee payment: 4
+    2020-09-23,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+

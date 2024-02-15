@@ -1,0 +1,343 @@
+ID
+    US8886375B2
+citation_exist
+    Patent Citations (8)
+citation_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH10297462A,1997-04-28,1998-11-10,Toyota Motor Corp,Braking force controller
+    JPH114503A,1997-06-10,1999-01-06,Toyota Motor Corp,Brake device for car
+    US20070108838A1                      *,2005-11-14,2007-05-17,Ford Global Technologies, Llc,Regenerative braking control system and method
+    US7500534B2                      *,2003-07-30,2009-03-10,Toyota Jidosha Kabushiki Kaisha,Vehicle slip control system and method
+    Family To Family Citations,,,,
+    DE2232034C2                      *,1972-06-30,1983-12-15,Robert Bosch Gmbh, 7000 Stuttgart,Monitoring device for an anti-lock control system installed in a vehicle
+    JPH05270387A                      *,1992-03-27,1993-10-19,Toyota Motor Corp,Brake control device for electric automobile
+    JP2001191911A                      *,2000-01-05,2001-07-17,Toyota Motor Corp,Brake hydraulic pressure controller
+    JP2009101876A,2007-10-23,2009-05-14,Kanto Auto Works Ltd,Canvas top structure
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (26)
+              
+
+
+citedBy_infor
+28
+    Publication number,Priority date,Publication date,Assignee,Title
+    US9180848B2,2012-07-19,2015-11-10,Honda Motor Co., Ltd.,Vehicle brake force generation device
+    Family To Family Citations,,,,
+    JP2010075036A                      *,2008-08-22,2010-04-02,Fuji Heavy Ind Ltd,Controlling apparatus of electric automobile
+    JP5516081B2                      *,2010-05-31,2014-06-11,日産自動車株式会社,Torque response control device for electric motor for vehicle
+    JP5472028B2                      *,2010-10-19,2014-04-16,三菱自動車工業株式会社,Motor torque control device
+    JP5316576B2                      *,2011-04-14,2013-10-16,株式会社デンソー,Vehicle control device
+    KR101337903B1,2011-05-06,2013-12-09,기아자동차주식회사,Motor control method for decreasing vibration during operation of anti-lock brake system
+    US9266433B2                      *,2012-07-23,2016-02-23,Ford Global Technologies, Llc,Low cost charger circuit with precharge
+    EP2792532A1                      *,2013-04-16,2014-10-22,ABB Oy,Preventing of slip in an electrically powered vehicle
+    CN103223940B                      *,2013-05-02,2015-12-02,北京航空航天大学,A kind of electric car coordination control system
+    JP6182770B2,2013-08-30,2017-08-23,日立オートモティブシステムズ株式会社,Electric vehicle control system
+    JP6002105B2                      *,2013-09-26,2016-10-05,株式会社Kcm,Hybrid work vehicle
+    JP6153857B2                      *,2013-12-06,2017-06-28,本田技研工業株式会社,Braking device for vehicle
+    JP2015143039A                      *,2014-01-31,2015-08-06,トヨタ自動車株式会社,vehicle
+    CN104175902B                      *,2014-07-25,2016-04-13,南京航空航天大学,The torque distribution control method of electric wheel truck wheel hub motor torque-split system
+    CN105059125B                      *,2015-08-13,2018-01-02,奇瑞汽车股份有限公司,The brake control method and device of vehicle
+    CN106608201B,2015-10-26,2019-04-19,比亚迪股份有限公司,Electric vehicle and its active safety control system and method
+    CN105857087B                      *,2016-06-03,2017-12-15,清华大学,Downshift control method for coordinating and Mechatronic Systems in HEV/EV process of regenerative braking based on AMT
+    WO2018181807A1                      *,2017-03-31,2018-10-04,日信工業株式会社,Vehicular brake system
+    US20210061325A1                      *,2018-01-16,2021-03-04,Mitsubishi Electric Corporation,Signal control device and abnormality detection method
+    EP3623242B1                      *,2018-09-17,2022-09-07,KNORR-BREMSE Systeme für Nutzfahrzeuge GmbH,A system and a method for controlling an electric vehicle
+    JP7109743B2                      *,2019-01-30,2022-08-01,マツダ株式会社,vehicle system
+    CN111661050A                      *,2019-03-06,2020-09-15,郑州宇通客车股份有限公司,Vehicle and braking torque control method thereof
+    JP2021030835A                      *,2019-08-22,2021-03-01,トヨタ自動車株式会社,Brake force control apparatus
+    CN112339569A                      *,2020-11-17,2021-02-09,奇瑞商用车（安徽）有限公司,New energy vehicle braking energy recovery control method
+    CN113060008B                      *,2021-05-12,2022-12-02,中国第一汽车股份有限公司,Electric vehicle brake control method and electric vehicle
+    KR20230045726A,2021-09-28,2023-04-05,에이치엘만도 주식회사,Apparatus for controlling vehicle and control method thereof
+
+abstract
+    When a diagnosis result of an ABS control system is normal, a determination is made as to whether or not to execute ABS control based on a slip ratio of a vehicle wheel, whereupon motor torque control is executed based on an operational state of an ABS. In other words, when ABS control is not executed, the motor-generator is controlled to a regenerative state, and when ABS control is executed, the motor-generator is controlled to a power running state. When the diagnosis result of the ABS control system is abnormal, on the other hand, regenerative braking by the motor-generator is prohibited immediately and the motor-generator is controlled to the power running state.
+title
+    Control apparatus for electric vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US8886375B2,2014-11-11,Control apparatus for electric vehicle
+    US8634987B2,2014-01-21,Control apparatus for electric vehicle
+    US10967840B2,2021-04-06,System and method of controlling braking of electric vehicle
+    US20100049414A1,2010-02-25,Control apparatus for electric vehicle
+    JP5924628B2,2016-05-25,Braking force generator for vehicle
+    US7761214B2,2010-07-20,Vehicle deceleration control device
+    KR20020091799A,2002-12-06,Braking force control apparatus for a vehicle
+    US9440540B2,2016-09-13,Electric vehicle and control method
+    US8494702B2,2013-07-23,Method and driveline stability control system for a vehicle
+    JP6153857B2,2017-06-28,Braking device for vehicle
+    JP5506632B2,2014-05-28,Brake device for vehicle
+    US9981554B2,2018-05-29,System and method for controlling braking of electric vehicle
+    EP3351442B1,2022-02-09,Regenerative brake control device
+    JP2009143292A,2009-07-02,Motion controller for vehicle
+    JP4665390B2,2011-04-06,Brake control device for vehicle
+    JP3622656B2,2005-02-23,Vehicle braking force control device
+    CN110877531A,2020-03-13,Braking method and braking system for electric vehicle
+    JP2018094972A,2018-06-21,Electrically-driven vehicular brake device
+    JP2013133006A,2013-07-08,Brake control device of vehicle
+    JP2005153790A,2005-06-16,Four-wheel drive vehicle
+    JP6488215B2,2019-03-20,Braking device for vehicle
+    JP2018187964A,2018-11-29,Vehicular braking system
+    KR20110038511A,2011-04-14,Method for brake controlling of hybrid vehicle
+    JP2016043718A,2016-04-04,Vehicle control device
+    JP6198696B2,2017-09-20,Vehicle braking system
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    35
+classfication_items
+204
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,6
+    B,6,0,T,8,/,1,7,6,3
+    B,6,0,T,8,/,1,7,6,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,7,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,8,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B,6,0,L,2,2,4,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B,6,0,L,2,2,4,0,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,8,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,4,0
+    B,6,0,T,2,2,7,0,/,4,0,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,2,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,5,8
+
+application_events
+9
+    2010-04-15,Application filed by Fuji Jukogyo KK
+    2010-04-15,Assigned to FUJI JUKOGYO KABUSHIKI KAISHA
+    2010-10-21,Publication of US20100268408A1
+    2014-10-31,Assigned to FUJI JUKOGYO KABUSHIKI KAISHA
+    2014-11-11,Application granted
+    2014-11-11,Publication of US8886375B2
+    2017-05-12,Assigned to Subaru Corporation
+    Status,Active
+    2031-12-03,Adjusted expiration
+
+active_area
+3
+    J,P
+    U,S
+    D,E
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2009101876A,2009-04-20,Electric vehicle control device
+    JP2009-101876,2009-04-20,
+
+legal_event
+7
+    Date,Code,Title,Description
+    2010-04-15,AS,Assignment,Owner name: FUJI JUKOGYO KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:YUKI, MINORU;REEL/FRAME:024238/0668Effective date: 20100331
+    2014-10-22,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2014-10-31,AS,Assignment,Owner name: FUJI JUKOGYO KABUSHIKI KAISHA, JAPANFree format text: CHANGE OF ADDRESS;ASSIGNOR:FUJI JUKOGYO KABUSHIKI KAISHA;REEL/FRAME:034114/0841Effective date: 20140818
+    2017-05-12,AS,Assignment,Owner name: SUBARU CORPORATION, JAPANFree format text: CHANGE OF NAME;ASSIGNOR:FUJI JUKOGYO KABUSHIKI KAISHA;REEL/FRAME:042624/0886Effective date: 20170401
+    2018-04-27,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551)Year of fee payment: 4
+    2022-04-27,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+

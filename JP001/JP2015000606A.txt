@@ -1,0 +1,306 @@
+ID
+    JP2015000606A
+citation_exist
+    Patent Citations (5)
+citation_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH08183367A                      *,1994-12-29,1996-07-16,Mitsubishi Motors Corp,オートクルーズ制御方法
+    JPH11275708A                      *,1998-03-19,1999-10-08,Toyota Motor Corp,車両の制動エネルギー制御装置とその制御方法
+    JP2004189056A                      *,2002-12-10,2004-07-08,Nissan Motor Co Ltd,車両用制動装置
+    JP2007001491A                      *,2005-06-24,2007-01-11,Toyota Motor Corp,車両用駆動装置の制御装置
+    JP2009149173A                      *,2007-12-19,2009-07-09,Mitsubishi Fuso Truck & Bus Corp,オートクルーズ装置
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN110182200A                      *,2019-07-24,2019-08-30,潍柴动力股份有限公司,一种用于串联式混合动力系统的制动控制方法
+    Family To Family Citations,,,,
+    JP6536457B2                      *,2016-04-06,2019-07-03,株式会社デンソー,発電制御装置
+    JP7236917B2,2019-04-04,2023-03-10,株式会社小松製作所,作業車両、作業車両の制御装置および制御方法
+
+abstract
+    【課題】内燃機関１０と電動発電機２０の両方を車両１の走行用の駆動源とする機能を有するハイブリッドシステムを備えたハイブリッド車両１において、制動エネルギーを充電エネルギーとして最大限に利用しながら、車両１の減速時の制動トルクを十分に確保することができるハイブリッド車両及びその制御方法を提供する。【解決手段】ハイブリッド車両１の減速時の目標要求制動トルクＴｔが、電動発電機２０の回生トルクＴ１のみで十分な場合には電動発電機２０による回生トルクＴ１のみを与え、不十分な場合には電動発電機２０による回生トルクＴ１に加えて、圧縮開放ブレーキによる制動トルクＴ２を発生する。また、目標要求制動トルクＴｔが、電動発電機２０の回生トルクＴ１と圧縮開放ブレーキによる制動トルクＴ２の和でも不十分な場合には排気ブレーキ１２による制動トルクＴ３を加える。【選択図】図１
+title
+    ハイブリッド車両及びその制御方法
+similar_document
+26
+    Publication,Publication Date,Title
+    JP4328973B2,2009-09-09,ハイブリッド電気自動車の制御装置
+    CN101913320B,2013-01-09,一种气压混合动力传动系统和控制方法
+    JP2008520877A5,2008-10-02,
+    US9650034B2,2017-05-16,Apparatus and method for controlling hybrid vehicle
+    JP6512116B2,2019-05-15,車両
+    JP6182990B2,2017-08-23,ハイブリッド車両及びその制御方法
+    JP2013181393A,2013-09-12,エンジンの過給システム
+    JP5808997B2,2015-11-10,ハイブリッド自動車の制御装置
+    JP6260118B2,2018-01-17,ハイブリッド車両及びその制御方法
+    JP4760726B2,2011-08-31,車両
+    KR102200095B1,2021-01-07,마일드 하이브리드 자동차의 에너지 회생 장치 및 방법
+    JP2006220045A,2006-08-24,車両の減速時制御方法
+    JP2016175495A,2016-10-06,ハイブリッド車両及びその制御方法
+    WO2012176309A1,2012-12-27,車両
+    JP2013075540A,2013-04-25,ハイブリッド車両
+    WO2017086420A1,2017-05-26,ハイブリッド車両及びその制御方法
+    JP4455572B2,2010-04-21,ハイブリッド車両
+    KR102354195B1,2022-01-21,Phev 청소차 주행 제어장치
+    JP6137015B2,2017-05-31,車両走行制御装置
+    RU152878U1,2015-06-20,Гибридный силовой агрегат колесного транспортного средства
+    JP6801220B2,2020-12-16,ハイブリッド車両
+    KR101876881B1,2018-07-11,마일드 하이브리드 차량의 배터리 충전 제어방법 및 이에 의해 제어되는 차량
+    KR20100020382A,2010-02-22,하이브리드 자동차의 브레이크 제어 장치 및 방법
+    JP3966214B2,2007-08-29,車両制御装置
+    EP3708816B1,2022-12-07,Method and device for improving an engine brake procedure
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    JP2013124933A,2013-06-13,2013-06-13,ハイブリッド車両及びその制御方法
+    PCT/JP2014/063867,2013-06-13,2014-05-26,ハイブリッド車両及びその制御方法
+
+inventor_number
+    8
+classfication_nums
+    30
+classfication_items
+191
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,5,0
+    B,6,0,K,6,/,5,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,5
+    B,6,0,T,1,3,/,5,8,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,9,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B,6,0,W,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,3,6
+    F
+    F,0,2
+    F,0,2,D
+    F,0,2,D,2,9,/,0,0
+    F,0,2,D,2,9,/,0,2
+    F
+    F,0,2
+    F,0,2,D
+    F,0,2,D,9,/,0,0
+    F,0,2,D,9,/,0,4
+    F,0,2,D,9,/,0,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,3
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,8,9
+    F
+    F,0,2
+    F,0,2,D
+    F,0,2,D,4,1,/,0,0
+    F,0,2,D,4,1,/,0,2
+    F,0,2,D,4,1,/,0,4
+    F,0,2,D,4,1,/,1,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+8
+    2013-06-13,Application filed by Isuzu Motors Ltd
+    2013-06-13,Priority to JP2013124933A
+    2014-05-26,Priority to PCT/JP2014/063867
+    2015-01-05,Publication of JP2015000606A
+    2017-08-23,Application granted
+    2017-08-23,Publication of JP6182990B2
+    Status,Active
+    2033-06-13,Anticipated expiration
+
+active_area
+2
+    J,P
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2013124933A,2013-06-13,ハイブリッド車両及びその制御方法
+
+legal_event
+8
+    Date,Code,Title,Description
+    2016-05-11,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20160511
+    2016-12-27,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20161227
+    2017-02-15,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20170215
+    2017-06-20,TRDD,Decision of grant or rejection written,
+    2017-06-27,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20170627
+    2017-07-31,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20170710
+    2017-08-04,R150,Certificate of patent or registration of utility model,Ref document number: 6182990Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R150
+

@@ -1,0 +1,186 @@
+ID
+    EP2492132A3
+citation_exist
+    Patent Citations (6)
+citation_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2001069604A                      *,1999-08-31,2001-03-16,Shizuki Electric Co Inc,Electric vehicle controller and dc/dc converter
+    JP2002369304A                      *,2001-06-11,2002-12-20,Hitachi Ltd,Controller electric rolling stock
+    JP2006094613A                      *,2004-09-22,2006-04-06,Railway Technical Res Inst,Railway rolling stock system
+    JP2009183078A                      *,2008-01-31,2009-08-13,Hitachi Ltd,Drive system of electric vehicle
+    EP2578436A1                      *,2010-06-01,2013-04-10,Hitachi, Ltd.,Drive device for railway vehicle
+    Family To Family Citations,,,,
+    JP4546988B2                      *,2007-04-27,2010-09-22,株式会社日立製作所,Control device for power converter
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    CN104210369B                      *,2014-09-01,2016-04-06,湖州市道场乡资产经营有限公司,A kind of regenerative brake energy absorption device of vehicle
+    KR101733889B1                      *,2015-11-20,2017-05-10,주식회사 만도,Brake control apparatus and brake control method
+    RU174098U1                      *,2016-12-29,2017-10-02,Акционерное общество "Научно-исследовательский институт железнодорожного транспорта",ELECTRIC DRIVE WITH AUTONOMOUS VOLTAGE INVERTERS AND TWO PHASE ELECTRIC MACHINE
+    WO2020024259A1                      *,2018-08-03,2020-02-06,Robert Bosch Gmbh,Methods for discharging and for charging a hybrid battery system and battery system
+
+abstract
+    In conventional techniques, it is necessary to use a storage element having a large capacitance such as a lithium-ion battery and there are the problems of reduction in capacitance and cost of the system. Using a capacitor as a storage element, a path of a current flowing in a direction in which the capacitor is discharged is provided by a charge/discharge device in addition to a path of a current flowing in a direction in which the capacitor is charged by a high speed-range electric braking function, whereby a current corresponding to a difference in potential between a regenerative current (current flowing in the direction in which the capacitor is charged) and a chopper current from the charge/discharge device (current flowing in the direction in which the capacitor is discharged) is made to flow in the capacitor 7.
+title
+    Drive device for railway vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    WO2014147475A3,2015-02-26,Electrical storage system, and full charge capacity estimation method for electrical storage device
+    WO2012146962A3,2013-01-17,Battery system and control method thereof
+    EP3239488A3,2017-11-22,Electric energy generation using variable speed hybrid electric supercharger assembly
+    WO2008093170A3,2009-02-26,Ultra-fast ultracapacitor pack/device charger
+    EP2680395A3,2014-02-26,Battery pack having linear voltage profile, and SOC algorithm applying to the battery pack
+    WO2013057571A8,2013-09-06,Motor vehicle having traction motor
+    WO2009058460A3,2009-09-24,System and method for battery control of hybrid locomotrives
+    EP2777975A3,2015-10-14,Power relay assembly driving apparatus and driving method thereof
+    EP2405525A3,2012-05-09,Battery pack having boosting charge function and method thereof
+    EP2685589A3,2017-12-27,Battery pack, method of charging the same, and vehicle including the same
+    WO2011057699A3,2012-01-12,Multi-voltage on-board power supply system for a motor vehicle
+    WO2011078575A3,2011-10-27,Power-converting apparatus for hybrid vehicles
+    WO2015006277A3,2015-05-07,Light vehicles with on-board rapid charging systems and associated methods
+    EP2492132A3,2015-12-30,Drive device for railway vehicle
+    WO2010056604A3,2010-08-12,Strategy for maintaining state of charge of a low-voltage battery bank in a hybrid electric vehicle having a high-voltage traction battery bank
+    EP2582032A3,2014-05-28,Cascaded H-bridge multicell medium voltage converter with bidirectional infeeds for the cells
+    WO2011071639A3,2011-08-04,Pulse width modulated battery charging
+    WO2010140031A3,2011-05-05,Power supply apparatus for an electric or hybrid vehicle
+    CN104670028A,2015-06-03,Urban rail vehicle traction system
+    EP2525465A3,2015-09-09,Electric vehicle profiles for power grid operation
+    WO2014097435A9,2015-07-30,Electricity storage system
+    FR2962076B1,2013-03-08,COOLING SYSTEM FOR THE BATTERY OF A VEHICLE, IN PARTICULAR AN ELECTRIC HYBRID MOTOR VEHICLE
+    WO2012155942A3,2013-06-20,Battery system for a motor vehicle
+    WO2011085197A3,2011-11-24,Energy storage devices including a solid multilayer electrolyte
+    EP2749701A3,2015-01-21,Hybrid type construction machine
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    5
+classfication_nums
+    5
+classfication_items
+28
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,9,/,0,0
+    B,6,0,L,9,/,1,6
+    B,6,0,L,9,/,1,8
+    B,6,0,L,9,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+
+application_events
+7
+    2012-02-08,Application filed by Hitachi Ltd
+    2012-08-29,Publication of EP2492132A2
+    2015-12-30,Publication of EP2492132A3
+    2018-07-11,Application granted
+    2018-07-11,Publication of EP2492132B1
+    Status,Active
+    2032-02-08,Anticipated expiration
+
+active_area
+2
+    J,P
+    E,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2011035300A,2011-02-22,Railway vehicle drive system
+
+legal_event
+54
+    Date,Code,Title,Description
+    2012-08-28,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2012-08-29,17P,Request for examination filed,Effective date: 20120224
+    2012-08-29,AK,Designated contracting states,Kind code of ref document: A2Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2012-08-29,AX,Request for extension of the european patent,Extension  state: BA ME
+    2015-11-27,PUAL,Search report despatched,Free format text: ORIGINAL CODE: 0009013
+    2015-12-30,AK,Designated contracting states,Kind code of ref document: A3Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2015-12-30,AX,Request for extension of the european patent,Extension  state: BA ME
+    2015-12-30,RIC1,Information provided on ipc code assigned before grant,Ipc: B60L   9/22        20060101ALI20151123BHEPIpc: B60L  11/00        20060101AFI20151123BHEPIpc: B60L   7/10        20060101ALI20151123BHEP
+    2017-04-07,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: EXAMINATION IS IN PROGRESS
+    2017-05-10,17Q,First examination report despatched,Effective date: 20170406
+    2018-03-12,GRAP,Despatch of communication of intention to grant a patent,Free format text: ORIGINAL CODE: EPIDOSNIGR1
+    2018-03-12,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: GRANT OF PATENT IS INTENDED
+    2018-04-11,INTG,Intention to grant announced,Effective date: 20180313
+    2018-06-08,GRAA,(expected) grant,Free format text: ORIGINAL CODE: 0009210
+    2018-06-08,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE PATENT HAS BEEN GRANTED
+    2018-07-11,AK,Designated contracting states,Kind code of ref document: B1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2018-07-11,REG,Reference to a national code,Ref country code: GBRef legal event code: FG4D
+    2018-07-13,REG,Reference to a national code,Ref country code: CHRef legal event code: EP
+    2018-07-15,REG,Reference to a national code,Ref country code: ATRef legal event code: REFRef document number: 1016514Country of ref document: ATKind code of ref document: TEffective date: 20180715
+    2018-07-30,GRAS,Grant fee paid,Free format text: ORIGINAL CODE: EPIDOSNIGR3
+    2018-08-08,REG,Reference to a national code,Ref country code: IERef legal event code: FG4D
+    2018-08-09,REG,Reference to a national code,Ref country code: DERef legal event code: R096Ref document number: 602012048516Country of ref document: DE
+    2018-11-14,REG,Reference to a national code,Ref country code: NLRef legal event code: MPEffective date: 20180711
+    2018-11-26,REG,Reference to a national code,Ref country code: LTRef legal event code: MG4D
+    2018-11-27,REG,Reference to a national code,Ref country code: DERef legal event code: R079Ref document number: 602012048516Country of ref document: DEFree format text: PREVIOUS MAIN CLASS: B60L0011000000Ipc: B60L0050000000
+    2018-12-15,REG,Reference to a national code,Ref country code: ATRef legal event code: MK05Ref document number: 1016514Country of ref document: ATKind code of ref document: TEffective date: 20180711
+    2018-12-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: NLFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180711
+    2019-01-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: BGFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20181011Ref country code: PLFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180711Ref country code: LTFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180711Ref country code: RSFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180711Ref country code: ATFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180711Ref country code: ISFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20181111Ref country code: GRFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20181012Ref country code: NOFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20181011Ref country code: SEFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180711Ref country code: FIFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180711
+    2019-02-28,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: ESFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180711Ref country code: HRFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180711Ref country code: ALFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180711Ref country code: LVFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180711
+    2019-04-12,REG,Reference to a national code,Ref country code: DERef legal event code: R097Ref document number: 602012048516Country of ref document: DE
+    2019-04-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: EEFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180711Ref country code: CZFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180711Ref country code: ROFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180711
+    2019-05-17,PLBE,No opposition filed within time limit,Free format text: ORIGINAL CODE: 0009261
+    2019-05-17,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: NO OPPOSITION FILED WITHIN TIME LIMIT
+    2019-05-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: SMFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180711Ref country code: DKFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180711Ref country code: SKFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180711
+    2019-06-19,26N,No opposition filed,Effective date: 20190412
+    2019-08-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: SIFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180711
+    2019-09-30,REG,Reference to a national code,Ref country code: CHRef legal event code: PL
+    2019-10-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: MCFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180711Ref country code: LUFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20190208
+    2019-11-20,REG,Reference to a national code,Ref country code: BERef legal event code: MMEffective date: 20190228
+    2019-11-27,REG,Reference to a national code,Ref country code: IERef legal event code: MM4A
+    2019-12-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: LIFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20190228Ref country code: CHFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20190228
+    2020-01-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: IEFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20190208
+    2020-02-28,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: FRFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20190228Ref country code: BEFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20190228
+    2020-03-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: TRFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180711
+    2020-06-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: PTFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20181111Ref country code: MTFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20190208
+    2021-05-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: CYFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180711
+    2021-07-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: HUFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT; INVALID AB INITIOEffective date: 20120208
+    2022-01-31,PGFP,Annual fee paid to national office [announced via postgrant information from national office to epo],Ref country code: GBPayment date: 20211230Year of fee payment: 11
+    2022-04-29,PGFP,Annual fee paid to national office [announced via postgrant information from national office to epo],Ref country code: DEPayment date: 20211230Year of fee payment: 11
+    2022-06-01,PGFP,Annual fee paid to national office [announced via postgrant information from national office to epo],Ref country code: ITPayment date: 20220111Year of fee payment: 11
+    2022-06-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: MKFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180711
+    2023-09-01,REG,Reference to a national code,Ref country code: DERef legal event code: R119Ref document number: 602012048516Country of ref document: DE
+    2023-10-25,GBPC,Gb: european patent ceased through non-payment of renewal fee,Effective date: 20230208
+

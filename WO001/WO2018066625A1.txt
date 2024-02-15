@@ -1,0 +1,141 @@
+ID
+    WO2018066625A1
+citation_exist
+    Patent Citations (4)
+citation_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2005039885A                      *,2003-07-15,2005-02-10,Honda Motor Co Ltd,ハイブリット車両の制御装置
+    JP2012076636A                      *,2010-10-04,2012-04-19,Mitsubishi Motors Corp,車両の制動制御装置
+    JP2015119543A                      *,2013-12-18,2015-06-25,日産自動車株式会社,車両の制御装置
+    JP2016010189A                      *,2014-06-23,2016-01-18,三菱自動車工業株式会社,運転支援装置
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    回転電機制御装置（５０）は、回転電機制御部（５２）と、リレー制御部（５３）と、を備える。回転電機制御部（５２）は、車両（９０）の動力源である回転電機（３）の駆動を制御する。リレー制御部（５３）は、回転電機（３）に給電可能な電源（１０）からの給電の許容または禁止を切り替えるリレー部（１５）を制御する。回転電機制御部（５２）は、リレー部（１５）の遮断を要する異常確定前であって、リレー部（１５）を遮断する可能性があるリレーオフ準備段階において、回転電機（３）の回生量を低減させる回生量低減処理を行う。
+title
+    回転電機制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    EP3235670B1,2018-10-17,Power controller of hybrid vehicle
+    JP4751854B2,2011-08-17,車両の制御装置、制御方法、その方法を実現するプログラムおよびそのプログラムを記録した記録媒体
+    JP5514661B2,2014-06-04,電動車両の駆動制御装置
+    US8639413B2,2014-01-28,Vehicle power supply system and method for controlling the same
+    JP5346988B2,2013-11-20,電動車両制御装置
+    CN110239356B,2022-07-29,搭载于车辆的燃料电池系统及其控制方法
+    CN110446639B,2022-12-27,作业车辆的电力再生系统
+    JP2008168754A,2008-07-24,ハイブリッド車両の制御装置
+    US9764645B2,2017-09-19,Electric vehicle
+    WO2013115098A1,2013-08-08,車速制御装置およびそれを搭載した車両
+    JP2016052164A,2016-04-11,車輪独立駆動式車両の駆動制御装置
+    JP4590960B2,2010-12-01,電動機駆動装置
+    JP2010215106A,2010-09-30,ハイブリッド車両の制御システム
+    JP6614088B2,2019-12-04,電源システム制御装置
+    WO2018066625A1,2018-04-12,回転電機制御装置
+    JP5790488B2,2015-10-07,電気自動車
+    JP2012125051A,2012-06-28,電気自動車の電源制御装置
+    JP5790394B2,2015-10-07,電気自動車
+    JP5069330B2,2012-11-07,車両用電気エネルギー制御装置
+    JP6769209B2,2020-10-14,電動車両
+    JP6683052B2,2020-04-15,コンバータ装置
+    JP2015216725A,2015-12-03,車両の駆動電動機制御装置
+    WO2023080058A1,2023-05-11,電動車両の制御装置
+    JP6047407B2,2016-12-21,車両制御システム
+    WO2021085441A1,2021-05-06,制御装置
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    9
+classfication_items
+50
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B,6,0,L,5,8,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,9,/,0,0
+    B,6,0,L,9,/,1,6
+    B,6,0,L,9,/,1,8
+    H
+    H,0,2
+    H,0,2,H
+    H,0,2,H,7,/,0,0
+    H,0,2,H,7,/,0,6
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,1,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+
+application_events
+2
+    2017-10-05,Application filed by 株式会社デンソー
+    2018-04-12,Publication of WO2018066625A1
+
+active_area
+2
+    J,P
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2016-198061,2016-10-06,
+    JP2016198061A,2016-10-06,回転電機制御装置
+
+legal_event
+4
+    Date,Code,Title,Description
+    2018-11-28,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 17858461Country of ref document: EPKind code of ref document: A1
+    2019-04-09,NENP,Non-entry into the national phase,Ref country code: DE
+    2019-10-30,122,Ep: pct application non-entry in european phase,Ref document number: 17858461Country of ref document: EPKind code of ref document: A1
+

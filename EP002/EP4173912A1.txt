@@ -1,0 +1,152 @@
+ID
+    EP4173912A1
+citation_exist
+    Patent Citations (7)
+citation_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    WO2002083473A1                      *,2001-04-10,2002-10-24,Volvo Lastvagnar Ab,Method for reconditioning a friction couple in a service brake and a vehicle including a friction couple arranged in said vehicle
+    WO2005021345A1                      *,2003-08-22,2005-03-10,Daimlerchrysler Ag,Method for cleaning brake linings pertaining to a vehicle brake
+    DE102010000823A1                      *,2010-01-12,2011-07-14,Robert Bosch GmbH, 70469,Device and method for removing rust on vehicle wheel brakes
+    DE102016007436A1                      *,2016-06-09,2017-12-14,Audi Ag,Method for cleaning a friction brake of a vehicle
+    US20200156614A1                      *,2018-11-20,2020-05-21,Hyundai Motor Company,Apparatus and method for removing rust on a brake disk
+    EP3712002A1                      *,2019-03-20,2020-09-23,FCA Italy S.p.A.,Management of the cleaning of friction bodies of automotive braking systems
+    DE102020214711A1                      *,2020-04-17,2021-10-21,Hyundai Motor Company,SYSTEM FOR ESTIMATING THE DEGREE OF BRAKING DAMAGE OF A VEHICLE AND METHOD OF CONTROLLING IT
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    The disclosure relates to a method for determining a starting condition for cleaning a brake disk. A first step (S1) of this method determines that an amount of rust on the brake disk exceeds a predefined threshold. Additionally, an energy quantity being necessary for removing the amount of rust from the brake disk is determined (S2). In a further step (S3), a distribution of brake energy over a current drive is estimated by using at least one parameter describing historic driving behavior and at least one parameter characterizing the current drive cycle. Subsequently, a starting speed and a starting brake force request is derived (S4). Additionally, a method for cleaning a brake disk is presented which comprises the determination of a starting condition for cleaning the brake disk by the method mentioned before. Moreover, a data processing device comprising means for carrying out said methods is explained.
+title
+    Method for determining a starting condition for cleaning a brake disk, method for cleaning a brake disk and data processing device
+similar_document
+26
+    Publication,Publication Date,Title
+    CN108248609B,2022-07-19,Hybrid vehicle and method of predicting driving pattern in hybrid vehicle
+    US20150336458A1,2015-11-26,Method and apparatus for controlling regenerative braking of vehicle
+    AU2015352452A1,2017-05-18,Apparatus and method for vehicle economy improvement
+    US11192453B2,2021-12-07,Eco-friendly vehicle and hill descent control method for the same
+    CN105564250B,2020-09-25,Brake control method and system for environmentally friendly vehicle
+    CN105083027B,2019-08-09,Method and apparatus for controlling the regenerative braking of hybrid-power electric vehicle
+    US20140067175A1,2014-03-06,Method and system for controlling charging of battery for hybrid electric vehicle
+    CN109421688A,2019-03-05,Brake pad life prediction system for regenerative braking vehicle
+    US10921145B2,2021-02-16,Hybrid electric vehicle and method of searching for path thereof
+    US20110144880A1,2011-06-16,Motor vehicle regenerative braking method
+    CN102529954B,2016-08-03,Hybrid vehicle driver coach
+    US10654467B2,2020-05-19,Hybrid vehicle and method of performing temperature control therefor
+    CN108162953B,2020-04-21,Vehicle congestion area control method and device
+    CN107074238B,2019-11-19,Engine control system
+    CN111195850A,2020-05-26,Device and method for removing rust on brake disc
+    CN110239543A,2019-09-17,Braking force controller, device and method
+    US20170259671A1,2017-09-14,Method of controlling regenerative braking cooperation for electric vehicle
+    JP5655831B2,2015-01-21,Driving environment estimation apparatus and method
+    CN113727892A,2021-11-30,Method for operating a vehicle brake system and brake system
+    EP4173912A1,2023-05-03,Method for determining a starting condition for cleaning a brake disk, method for cleaning a brake disk and data processing device
+    EP3061660A1,2016-08-31,Enhanced brake disc wiping functionality for vehicles with brake-by-wire systems
+    CN114475260B,2023-07-14,Energy recovery method and device, electric automobile and storage medium
+    JP6855178B2,2021-04-07,A method for driving a vehicle-specific braking system with an electric motor, and a control device for at least one electric motor of the vehicle-specific braking system.
+    CN114633629B,2023-06-20,Energy recovery method of electric automobile and electronic equipment
+    CN109421687A,2019-03-05,Braking system delay self-learning method and computer readable storage medium
+
+patent_application
+    NoExist
+patent_priority_application
+4
+    Application,Priority date,Filing date,Title
+    EP21205327.6A,2021-10-28,2021-10-28,Method for determining a starting condition for cleaning a brake disk, method for cleaning a brake disk and data processing device
+    CN202211309698.6A,2021-10-28,2022-10-25,Method for cleaning a brake disc, data processing device and method for determining a start condition
+    US18/050,209,2021-10-28,2022-10-27,Method for determining a starting condition for cleaning a brake disk, method for cleaning a brake disk and data processing device
+
+inventor_number
+    5
+classfication_nums
+    8
+classfication_items
+44
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,7,/,0,0
+    B,6,0,T,1,7,/,1,8
+    B,6,0,T,1,7,/,2,2
+    B,6,0,T,1,7,/,2,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,1,2
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,1,/,0,0
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,5,/,0,0
+    F,1,6,D,6,5,/,0,0,3,7
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,5,/,0,0
+    F,1,6,D,6,5,/,0,0,4,3
+
+application_events
+6
+    2021-10-28,Application filed by Volvo Car Corp
+    2021-10-28,Priority to EP21205327.6A
+    2022-10-25,Priority to CN202211309698.6A
+    2022-10-27,Priority to US18/050,209
+    2023-05-03,Publication of EP4173912A1
+    Status,Pending
+
+active_area
+3
+    E,P
+    C,N
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    EP21205327.6A,2021-10-28,Method for determining a starting condition for cleaning a brake disk, method for cleaning a brake disk and data processing device
+
+legal_event
+9
+    Date,Code,Title,Description
+    2023-03-31,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2023-03-31,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+    2023-05-03,17P,Request for examination filed,Effective date: 20220810
+    2023-05-03,AK,Designated contracting states,Kind code of ref document: A1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2023-06-22,GRAP,Despatch of communication of intention to grant a patent,Free format text: ORIGINAL CODE: EPIDOSNIGR1
+    2023-06-22,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: GRANT OF PATENT IS INTENDED
+    2023-07-19,INTG,Intention to grant announced,Effective date: 20230623
+    2023-10-28,GRAS,Grant fee paid,Free format text: ORIGINAL CODE: EPIDOSNIGR3
+

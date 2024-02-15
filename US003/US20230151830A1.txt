@@ -1,0 +1,440 @@
+ID
+    US20230151830A1
+citation_exist
+    Patent Citations (11)
+citation_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    DE1940946A1                      *,1969-08-12,1971-02-25,Dornier Ag,Device for pressure compensation for multiple adjusting cylinders
+    CN1039288A                      *,1989-07-24,1990-01-31,权宇,Composite control valve of pressure and flow proportional to electric current
+    CN100513802C                      *,2006-05-19,2009-07-15,卢宇,Five-parallelled composite proportional operating valve set
+    JP4817974B2                      *,2006-06-05,2011-11-16,カヤバ工業株式会社,Power equipment for construction machinery
+    WO2010114030A1                      *,2009-04-01,2010-10-07,住友重機械工業株式会社,Hybrid type working machine
+    CN102241379B                      *,2010-05-13,2014-05-07,济南谨恒节能技术有限公司,Energy-saving travelling type hydraulic transport machine
+    US20170023149A1                      *,2015-07-22,2017-01-26,Cnh Industrial America Llc,Hydraulic signal control system and method
+    JP2017155926A                      *,2016-03-04,2017-09-07,本田技研工業株式会社,Pump drive power adjustment mechanism of hydraulic circuit
+    CN111501894A                      *,2020-05-19,2020-08-07,江苏徐工工程机械研究院有限公司,Driving stabilization system, backhoe loader and control method
+    CN212477899U                      *,2020-05-19,2021-02-05,江苏徐工工程机械研究院有限公司,Driving stabilization system and backhoe loader
+    CN112648244B                      *,2021-02-19,2022-06-14,太原理工大学,Pump-valve-cooperated multi-actuator electro-hydraulic system and control method thereof
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    CN114518284B                      *,2022-04-02,2022-07-22,太原理工大学,High-power electro-hydraulic control system for compression-shear testing machine
+    CN114505438B                      *,2022-04-02,2022-07-12,太原理工大学,High-power electro-hydraulic control press machine system
+
+abstract
+    The present disclosure relates to a hydraulic-electric coupling driven multi-actuator system and control method, and belongs to technical fields of hydraulic transmission and electro-mechanical transmission. The hydraulic-electric coupling driven multi-actuator system comprises one or more hydraulic-electric hybrid driven actuators, first inverters, control valves, centralized hydraulic units and control units, wherein the number of the first inverters and the number of the control valves are the same as that of the hydraulic-electric hybrid driven actuators; each hydraulic-electric hybrid driven actuator is correspondingly connected with one first inverter and one control valve; the centralized hydraulic units are connected with the control valves and configured to supply oil for the hydraulic-electric hybrid driven actuators and to perform power compensation; and the control units are respectively connected with the hydraulic-electric hybrid driven actuators, and each control unit is configured to control output torque of a first motor of the corresponding hydraulic-electric hybrid driven actuator based on pressure information of the hydraulic-electric hybrid driven actuator, such that pressure of driving cavities of the hydraulic-electric hybrid driven actuators is equal, which greatly reduces throttling loss caused by the load differences of the actuators.
+title
+    Hydraulic-electric coupling driven multi-actuator system and control method
+similar_document
+26
+    Publication,Publication Date,Title
+    US20230151830A1,2023-05-18,Hydraulic-electric coupling driven multi-actuator system and control method
+    CN112648244B,2022-06-14,Pump-valve-cooperated multi-actuator electro-hydraulic system and control method thereof
+    CN107420384B,2019-04-30,System is used in the storage of lifting device gravitional force P-V
+    Ge et al.,2018,A novel hydraulic excavator boom driving system with high efficiency and potential energy regeneration capability
+    CN104196080B,2016-02-03,Variable speed volume directly drives pure electric hydraulic crawler excavator and drives and energy-recuperation system
+    CN105839689A,2016-08-10,Multi-energy multi-motor hydraulic excavator electro-hydraulic mixing driving system and control method
+    CN108755794B,2020-11-06,Hydraulic excavator based on hydraulic-electric composite drive
+    CN107503395B,2020-03-17,Throttling volume direct-drive composite oil inlet and outlet independent control electro-hydraulic system
+    CN107235440A,2017-10-10,A kind of liquid electricity mixing energy conserving system for lifting mechanism
+    Minav et al.,2010,Energy recovery efficiency comparison in an electro-hydraulic forklift and in a diesel hybrid heavy forwarder
+    CN107700576B,2020-01-07,Kinetic potential energy recycling system of hydraulic excavator
+    CN107524187B,2020-01-07,Hydraulic-electric hybrid recycling system for braking energy of rotary motion
+    CN109113120A,2019-01-01,A kind of electric-hydraulic combined swing arm energy recycling system
+    CN108708423B,2020-07-21,Many executor return circuits of hybrid drive
+    CN208330867U,2019-01-04,A kind of distributed direct drive excavator hydraulic system of servo motor driving bivariate pump
+    CN108678048B,2021-01-29,Energy storage lifting system driven by liquid and electricity in hybrid mode
+    CN214743136U,2021-11-16,Super capacitor energy storage type secondary regulation flow coupling system
+    CN108799258A,2018-11-13,A kind of swing arm energy-recuperation system
+    RU2688130C1,2019-05-17,Hydraulic power recuperation unit
+    CN111219369B,2021-09-21,Closed hydraulic circuit double-hydraulic-cylinder actuator system
+    CN107448440B,2019-05-03,Back pressure and the electric-hydraulic combined regulation multi executors system of power oil
+    CN107503997A,2017-12-22,Back pressure and the double actuator systems of power matching hydraulic hybrid regulation and control
+    CN113775604B,2023-07-25,Distributed pump control system and low-pressure loss control method
+    CN113775603A,2021-12-10,Electro-hydraulic multi-actuator flow control system and method
+    CN107701531B,2019-08-30,Power and the electro-hydraulic combination of rigidity and flexibility of back pressure oil regulate and control multi executors system
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    6
+classfication_nums
+    47
+classfication_items
+331
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F,1,5,B,1,1,/,1,6
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,0,5,8
+    E,0,2,F,9,/,2,0,9,5
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,0,2,5
+    E,0,2,F,9,/,2,0,3,7
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,0,5,8
+    E,0,2,F,9,/,2,0,7,9
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,0,3
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,1,7
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,2,1
+    E,0,2,F,9,/,2,2,2,5
+    E,0,2,F,9,/,2,2,2,8
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,6,4
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,/,0,0
+    F,1,5,B,1,/,0,2
+    F,1,5,B,1,/,0,2,4
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F,1,5,B,1,1,/,0,2
+    F,1,5,B,1,1,/,0,4
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F,1,5,B,1,1,/,1,6
+    F,1,5,B,1,1,/,1,6,1
+    F,1,5,B,1,1,/,1,6,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F,1,5,B,1,1,/,1,6
+    F,1,5,B,1,1,/,1,7
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,3,/,0,0
+    F,1,5,B,1,3,/,0,2
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,3,/,0,0
+    F,1,5,B,1,3,/,0,2
+    F,1,5,B,1,3,/,0,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,5,/,0,0
+    F,1,5,B,1,5,/,0,8
+    F,1,5,B,1,5,/,0,8,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,1,/,0,0
+    F,1,5,B,2,1,/,0,2
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,1,/,0,0
+    F,1,5,B,2,1,/,0,8
+    F,1,5,B,2,1,/,0,8,7
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,1,/,0,0
+    F,1,5,B,2,1,/,1,4
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,2,5,/,0,0
+    F,1,6,H,2,5,/,1,8
+    F,1,6,H,2,5,/,2,0
+    F,1,6,H,2,5,/,2,4
+    F,1,6,H,2,5,/,2,4,1,8
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,3,4
+    H,0,2,J,7,/,3,4,5
+    H
+    H,0,2
+    H,0,2,K
+    H,0,2,K,7,/,0,0
+    H,0,2,K,7,/,1,0
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,3,/,0,0
+    E,0,2,F,3,/,0,4
+    E,0,2,F,3,/,2,8
+    E,0,2,F,3,/,3,6
+    E,0,2,F,3,/,4,2
+    E,0,2,F,3,/,4,3
+    E,0,2,F,3,/,4,3,5
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,6,4
+    E,0,2,F,9,/,2,2,7,1
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,7,8
+    E,0,2,F,9,/,2,2,9,2
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,7,8
+    E,0,2,F,9,/,2,2,9,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,/,0,0
+    F,1,5,B,1,/,0,2
+    F,1,5,B,1,/,0,2,7
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,5,/,0,0
+    F,1,5,B,1,5,/,0,8
+    F,1,5,B,1,5,/,1,4
+    F,1,5,B,2,0,1,5,/,1,4,9,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,5,/,0,0
+    F,1,5,B,1,5,/,2,0
+    F,1,5,B,2,0,1,5,/,2,0,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,0,7
+    F,1,5,B,2,2,1,1,/,2,0,5,1,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,3
+    F,1,5,B,2,2,1,1,/,2,0,5,4,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,7,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,1
+    F,1,5,B,2,2,1,1,/,2,1,2
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,3,0
+    F,1,5,B,2,2,1,1,/,3,0,5
+    F,1,5,B,2,2,1,1,/,3,0,5,2,5
+    F,1,5,B,2,2,1,1,/,3,0,5,3
+    F,1,5,B,2,2,1,1,/,3,0,5,3,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,3,0
+    F,1,5,B,2,2,1,1,/,3,0,5
+    F,1,5,B,2,2,1,1,/,3,0,5,6
+    F,1,5,B,2,2,1,1,/,3,0,5,9
+    F,1,5,B,2,2,1,1,/,3,0,5,9,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,5,0
+    F,1,5,B,2,2,1,1,/,5,0,5
+    F,1,5,B,2,2,1,1,/,5,0,5,0,9
+    F,1,5,B,2,2,1,1,/,5,0,5,3,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,5,0
+    F,1,5,B,2,2,1,1,/,5,2
+    F,1,5,B,2,2,1,1,/,5,2,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,0,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,0,6
+    F,1,5,B,2,2,1,1,/,6,3,0,9
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,0,6
+    F,1,5,B,2,2,1,1,/,6,3,1,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,4
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,6,5
+    F,1,5,B,2,2,1,1,/,6,6,5,2
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,6,5
+    F,1,5,B,2,2,1,1,/,6,6,5,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,6,5
+    F,1,5,B,2,2,1,1,/,6,6,5,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,1
+    F,1,5,B,2,2,1,1,/,7,1,3,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,1
+    F,1,5,B,2,2,1,1,/,7,1,4,2
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,2,5,/,0,0
+    F,1,6,H,2,5,/,1,8
+    F,1,6,H,2,5,/,2,0
+    F,1,6,H,2,0,2,5,/,2,0,6,2
+    F,1,6,H,2,0,2,5,/,2,0,8,1
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,2,2,0,7,/,0,0
+    H,0,2,J,2,2,0,7,/,5,0
+
+application_events
+4
+    2022-11-11,Assigned to TAIYUAN UNIVERSITY OF TECHNOLOGY
+    2022-12-15,Application filed by Taiyuan University of Technology
+    2023-05-18,Publication of US20230151830A1
+    Status,Pending
+
+active_area
+2
+    C,N
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    CN202111358343.1A,2021-11-17,Liquid-electric coupling driving multi-actuator system and control method
+    CN202111358343.1,2021-11-17,
+
+legal_event
+4
+    Date,Code,Title,Description
+    2022-11-11,AS,Assignment,Owner name: TAIYUAN UNIVERSITY OF TECHNOLOGY, CHINAFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:QUAN, LONG;QIAO, SHUFEI;HAO, YUNXIAO;AND OTHERS;REEL/FRAME:061732/0083Effective date: 20221107
+    2023-06-21,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2023-10-24,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+

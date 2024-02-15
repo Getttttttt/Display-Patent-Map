@@ -1,0 +1,159 @@
+ID
+    WO2023043472A1
+citation_exist
+    Patent Citations (10)
+citation_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20090008175A1                      *,2007-07-02,2009-01-08,Genie Industries, Inc.,Vehicle with variable-length wheelbase
+    US20110198141A1                      *,2010-02-16,2011-08-18,Genie Industries, Inc.,Hydraulic electric hybrid drivetrain
+    EP2705977A2                      *,2012-07-19,2014-03-12,Linde Material Handling GmbH,Control method for electric vehicles
+    US20150275798A1                      *,2014-03-26,2015-10-01,Kabushiki Kaisha Toyota Jidoshokki,Vehicle equipped with a hydraulically-operated device
+    EP3127855A1                      *,2015-08-06,2017-02-08,Sherpa Autodiagnostik GmbH,Drive for an electrohydraulically operated lifting device, in particular lifting platform
+    WO2019119021A1                      *,2017-12-22,2019-06-27,Melvelle Equipment Corp. Pty Ltd,Railway track trolley
+    US20190193507A1                      *,2016-08-04,2019-06-27,Jaguar Land Rover Limited,System for use in a vehicle
+    US20200239000A1                      *,2019-01-29,2020-07-30,GM Global Technology Operations LLC,System and method for determining roadway bank angle
+    US20200317488A1                      *,2019-04-05,2020-10-08,Oshkosh Corporation,Fully-electric scissor lift
+    EP3868700A1                      *,2020-02-18,2021-08-25,Kabushiki Kaisha Aichi Corporation,Travel control device for vehicle with an aerial work platform
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    WO2020205159A1                      *,2019-04-05,2020-10-08,Oshkosh Corporation,Systems and methods for limiting operation of a lift device
+
+abstract
+    A lift device and a method of controlling the lift device are provided. The lift device has a lifting mechanism supporting a lifting platform relative to the chassis. An electric motor is drivingly coupled to a traction device, and a traction battery is in electrical communication with the electric motor. A user input is provided to control a speed of the lift device by inputting a requested speed. A controller is configured to, in response to the lift device being on a non-zero grade and if the requested speed is greater than a predetermined speed, command the electric motor to output a braking torque and provide electrical power to the traction battery, and limit the speed of the lift device to the predetermined speed.
+title
+    Lift device and method of controlling on a grade
+similar_document
+26
+    Publication,Publication Date,Title
+    EP2885179B1,2018-12-12,Vehicle speed control system and method employing torque balancing
+    JP3374802B2,2003-02-10,Hybrid vehicle
+    CN100376438C,2008-03-26,Car and method of controlling the car
+    JP6205417B2,2017-09-27,Vehicle speed control system and method using torque balance
+    US8190344B2,2012-05-29,Optimization of vehicle stability and steering during a regenerative braking event
+    CN203832404U,2014-09-17,Electric automobile integrating drive-by-wire control technology and wheel hub motor driving technology
+    US10981571B2,2021-04-20,Methods and system for operating a vehicle
+    US20090102145A1,2009-04-23,Braking/Driving Control Apparatus and Vehicle having the Apparatus
+    US8965615B2,2015-02-24,Method for the energy-optimized operation of a floor-bound heavy-duty transportation vehicle that can be displaced on rubber tires and has an electric drive
+    CN105263777A,2016-01-20,Vehicle traction control
+    US20070227789A1,2007-10-04,Vehicle control unit and vehicle
+    GB2508463A,2014-06-04,Vehicle speed control system that predicts a change in vehicle drag that may result in a speed overshoot/undershoot
+    AU2010281479A1,2012-02-02,Method and system for controlling a driving direction of an electric drive machine
+    US20230079946A1,2023-03-16,Lift device and method of controlling on a grade
+    Chiang et al.,2014,Integrated slip-based torque control of antilock braking system for in-wheel motor electric vehicle
+    US11414000B2,2022-08-16,Self-leveling single axle dump truck
+    CN103025594B,2016-02-03,For the controller of drive system
+    CN115151461A,2022-10-04,Electric vehicle with anti-rollback control
+    GB2566494A,2019-03-20,System and method for a trailer towable by a vehicle
+    US20230077831A1,2023-03-16,Lift device and method of controlling
+    US20230034858A1,2023-02-02,Systems and methods for electric vehicle speed control
+    US11124192B2,2021-09-21,Electrified vehicle configured to selectively increase energy recovery threshold based on friction prediction and corresponding method
+    EP2903874A1,2015-08-12,Device and method for comfortable and/or fuel saving driving of a motor vehicle
+    US20230364999A1,2023-11-16,Methods and system for controlling regenerative torque
+    Cheong et al.,2009,Cornering stability improvement for 4 wheel drive hybrid electric vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    6
+classfication_nums
+    10
+classfication_items
+57
+    B
+    B,6,6
+    B,6,6,F
+    B,6,6,F,1,7,/,0,0
+    B,6,6,F,1,7,/,0,0,6
+    B
+    B,6,6
+    B,6,6,F
+    B,6,6,F,1,1,/,0,0
+    B,6,6,F,1,1,/,0,4
+    B,6,6,F,1,1,/,0,4,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,1,2
+    B
+    B,6,6
+    B,6,6,F
+    B,6,6,F,1,1,/,0,0
+    B,6,6,F,1,1,/,0,4
+    B,6,6,F,1,1,/,0,4,2
+    B
+    B,6,6
+    B,6,6,F
+    B,6,6,F,9,/,0,0
+    B,6,6,F,9,/,0,6
+    B,6,6,F,9,/,0,7,5
+    B,6,6,F,9,/,0,7,5,0,4
+    B
+    B,6,6
+    B,6,6,F
+    B,6,6,F,9,/,0,0
+    B,6,6,F,9,/,0,6
+    B,6,6,F,9,/,0,7,5
+    B,6,6,F,9,/,0,7,5,0,9
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,5,/,0,0
+    F,1,5,B,1,5,/,2,0
+    F,1,5,B,1,5,/,2,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,4,0
+
+application_events
+2
+    2021-12-29,Application filed by Terex South Dakota, Inc.
+    2023-03-23,Publication of WO2023043472A1
+
+active_area
+1
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    US17/475,788,2021-09-15,
+    US17/475,788,2021-09-15,Lift device and method of controlling on a grade
+
+legal_event
+2
+    Date,Code,Title,Description
+    2023-05-03,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 21957706Country of ref document: EPKind code of ref document: A1
+

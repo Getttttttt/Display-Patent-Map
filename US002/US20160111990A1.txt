@@ -1,0 +1,267 @@
+ID
+    US20160111990A1
+citation_exist
+    Patent Citations (23)
+citation_infor
+25
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20120130597A1                      *,2010-11-22,2012-05-24,Denso Corporation,Control apparatus for vehicle
+    Family To Family Citations,,,,
+    US5080059A,1987-07-17,1992-01-14,Yoshida Louis T,Method and apparatus for managing alternator loads on engines
+    US5038728A,1988-05-25,1991-08-13,Nutronics Corporation,Method & apparatus for managing alternator loads on engines
+    US5512813A                      *,1992-12-24,1996-04-30,Mitsubishi Denki Kabushiki Kaisha,AC generator output controlling apparatus and method
+    US5502368A,1994-06-06,1996-03-26,Ecoair Corp.,Hybrid alternator with voltage regulator
+    US5867384A,1997-07-08,1999-02-02,Johnson Services Company,Feedback controller
+    JP3967043B2                      *,1999-09-02,2007-08-29,日産自動車株式会社,Control device for hybrid vehicle
+    JP3714405B2                      *,2001-03-15,2005-11-09,日産自動車株式会社,Vehicle control device
+    US7019414B2,2004-06-22,2006-03-28,General Motors Corporation,Alternator load control to extend displacement on demand range
+    US7355292B2                      *,2005-06-02,2008-04-08,Denso Corporation,Power generation control apparatus for internal combustion engine
+    US7245038B2,2005-10-07,2007-07-17,Gm Global Technology Operations, Inc.,Extending fuel economy operating range in gasoline direct injection (GDI) engines
+    JP4064428B2                      *,2006-05-24,2008-03-19,本田技研工業株式会社,Control device for internal combustion engine
+    JP4466620B2                      *,2006-07-10,2010-05-26,トヨタ自動車株式会社,Power supply system and vehicle equipped with the same
+    US7812467B1,2007-07-09,2010-10-12,Woodward Governor Company,Smart alternator load control
+    EP2628860B1                      *,2010-10-15,2019-07-03,Hitachi Construction Machinery Co., Ltd.,Hybrid construction machine
+    US8569902B2,2010-10-27,2013-10-29,Ford Global Technologies, Llc,Methods and systems for engine starting
+    CN103402809B                      *,2011-01-13,2016-11-09,卡明斯公司,For controlling system, the method and apparatus of the power output distribution in hybrid powertrain
+    WO2013022816A1,2011-08-06,2013-02-14,Cummins Inc.,Hybrid diesel electric powertrains and emissions testing thereof
+    JP5911513B2                      *,2011-12-14,2016-04-27,三菱電機株式会社,Generator control device for hybrid vehicle
+    US20130218408A1,2012-02-17,2013-08-22,Chrysler Group Llc,Method and apparatus for improving vehicle fuel economy with energy storage efficiency model
+    GB201218674D0                      *,2012-10-17,2012-11-28,Trw Ltd,Control strategy for a motor of an electric assisted steering system
+    JP5751240B2                      *,2012-11-07,2015-07-22,トヨタ自動車株式会社,AC motor control system
+    JP5947705B2                      *,2012-12-12,2016-07-06,トヨタ自動車株式会社,AC motor control system
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (9)
+              
+
+
+citedBy_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20170259688A1                      *,2016-03-09,2017-09-14,Ford Global Technologies, Llc,Battery Capacity Estimation Based on Open-Loop And Closed-Loop Models
+    US9840212B2                      *,2014-01-06,2017-12-12,Argus Cyber Security Ltd.,Bus watchman
+    CN108068625A                      *,2016-11-16,2018-05-25,福特全球技术公司,The operation of power electronics during battery communication loss
+    US20190145370A1                      *,2017-11-14,2019-05-16,GM Global Technology Operations LLC,Method and apparatus for operating a starter for an internal combustion engine
+    US20190263379A1                      *,2018-02-27,2019-08-29,Ford Global Technologies, Llc,Hybrid vehicle and powertrain
+    CN112009451A                      *,2019-05-28,2020-12-01,通用汽车环球科技运作有限责任公司,Method and apparatus for controlling vehicle operation
+    US11052898B2                      *,2019-03-06,2021-07-06,Ford Global Technologies, Llc,Methods and system for managing torque of a driveline
+    CN114013421A                      *,2020-07-17,2022-02-08,上海汽车集团股份有限公司,Method and device for removing carbon deposition of particle catcher
+    WO2022039751A1                      *,2020-08-21,2022-02-24,Cummins Inc.,Close loop battery charge current control
+    Family To Family Citations,,,,
+
+abstract
+    An alternator voltage may be controlled based on a proportional gain scheduling in response to an engine load of an internal combustion engine and/or a state of charge (SOC) deviation for a battery based on a target SOC of the battery and an actual SOC of the battery. The alternator voltage may be a voltage less than a current battery voltage under high engine loads to enable the battery to power an accessory system and the alternator voltage may be a voltage greater than a voltage of the battery under low engine loads or engine loads less than high engine loads to enable the alternator to charge the battery.
+title
+    Systems and methods for battery regeneration based on engine loading
+similar_document
+26
+    Publication,Publication Date,Title
+    US9821663B2,2017-11-21,Systems and methods for battery regeneration based on engine loading
+    US9446757B2,2016-09-20,Active motor damping control of a hybrid electric vehicle powertrain
+    US6976388B2,2005-12-20,Diagnostic method for a torque control of an electrically variable transmission
+    US10569763B2,2020-02-25,HEV engine start vibration reduction system
+    US9527507B2,2016-12-27,Hybrid vehicle
+    US7204230B2,2007-04-17,Vehicle and method for controlling an engine
+    KR100873688B1,2008-12-15,Torque Distribution and Control Method of Hybrid Drive
+    US9316195B2,2016-04-19,Systems and methods for optimization and control of internal combustion engine starting
+    US20150112523A1,2015-04-23,Hybrid vehicle engine start
+    US9162669B2,2015-10-20,Systems and methods for control of powertrains with regenerative start/stop alternator functionality
+    US20120167857A1,2012-07-05,Accessory drive configuration
+    US9709014B2,2017-07-18,Systems and methods for optimization and control of internal combustion engine starting
+    US9841467B2,2017-12-12,Methods and systems for detecting vehicle charging system faults
+    US10093307B2,2018-10-09,Automobile including motor for running the automobile
+    CN101351351A,2009-01-21,Method for monitoring multi-engine drives
+    US20210094442A1,2021-04-01,Battery cell rebalancing method
+    US20190219163A1,2019-07-18,Hybrid vehicle control using adaptive transmission torque converter clutch capacity estimation
+    CN109760663A,2019-05-17,Hybrid vehicle control system
+    US20120065822A1,2012-03-15,Speed control method and speed control device for automatic transmission
+    US20150344035A1,2015-12-03,Systems and methods for controlling engine shutdown of a vehicle equipped with start-stop logic and vehicle launch
+    US9644563B2,2017-05-09,Energy management system
+    DE102014111730B4,2017-11-02,METHOD AND DEVICE FOR ELIMINATING TORQUE OF A POWER MACHINE IN A DRIVE TRAY SYSTEM
+    CN106853821A,2017-06-16,Hybrid vehicle, HCU and its method to idle speed control
+    US8922036B2,2014-12-30,Vehicular power generation system and power generation control method for the same
+    CN110159440A,2019-08-23,The engine start control device of vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    US14/518,582,2014-10-20,2014-10-20,Systems and methods for battery regeneration based on engine loading
+    PCT/US2015/056173,2014-10-20,2015-10-19,Systems and methods for battery regeneration based on engine loading
+
+inventor_number
+    4
+classfication_nums
+    22
+classfication_items
+131
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,3
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,9,/,0,0
+    H,0,2,P,9,/,0,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,8
+    B,6,0,W,3,0,/,1,8,8,2
+    F
+    F,0,2
+    F,0,2,N
+    F,0,2,N,1,1,/,0,0
+    F,0,2,N,1,1,/,0,8
+    F,0,2,N,1,1,/,0,8,6,2
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,9,/,0,0
+    H,0,2,P,9,/,4,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,2,0,5,0,/,0,0,0,1
+    B,6,0,W,2,0,5,0,/,0,0,1,9
+    B,6,0,W,2,0,5,0,/,0,0,2,2
+    B,6,0,W,2,0,5,0,/,0,0,2,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,4
+    F
+    F,0,2
+    F,0,2,N
+    F,0,2,N,1,1,/,0,0
+    F,0,2,N,1,1,/,0,4
+    F
+    F,0,2
+    F,0,2,N
+    F,0,2,N,1,1,/,0,0
+    F,0,2,N,1,1,/,0,8
+    F,0,2,N,1,1,/,0,8,1,4
+    F
+    F,0,2
+    F,0,2,N
+    F,0,2,N,2,2,0,0,/,0,0
+    F,0,2,N,2,2,0,0,/,0,6
+    F
+    F,0,2
+    F,0,2,N
+    F,0,2,N,2,2,0,0,/,0,0
+    F,0,2,N,2,2,0,0,/,0,6
+    F,0,2,N,2,2,0,0,/,0,6,1
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,1,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+
+application_events
+9
+    2014-10-20,Application filed by Cummins Inc
+    2014-10-20,Priority to US14/518,582
+    2015-03-12,Assigned to CUMMINS INC.
+    2015-10-19,Priority to PCT/US2015/056173
+    2016-04-21,Publication of US20160111990A1
+    2017-11-21,Application granted
+    2017-11-21,Publication of US9821663B2
+    Status,Active
+    2034-11-24,Adjusted expiration
+
+active_area
+2
+    U,S
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US14/518,582,2014-10-20,Systems and methods for battery regeneration based on engine loading
+
+legal_event
+4
+    Date,Code,Title,Description
+    2015-03-12,AS,Assignment,Owner name: CUMMINS INC., INDIANAFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:BOOKS, MARTIN T.;SUJAN, VIVEK A.;MURALIDHAR, PRAVEEN C.;SIGNING DATES FROM 20150224 TO 20150310;REEL/FRAME:035152/0627
+    2017-11-01,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2021-05-21,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

@@ -1,0 +1,265 @@
+ID
+    US11318862B2
+citation_exist
+    Patent Citations (13)
+citation_infor
+15
+    Publication number,Priority date,Publication date,Assignee,Title
+    US7847522B2                      *,2006-08-10,2010-12-07,Sony Corporation,Battery device
+    US20110298427A1                      *,2010-06-04,2011-12-08,Honda Motor Co., Ltd.,Battery heating apparatus for vehicle
+    WO2014167914A1                      *,2013-04-10,2014-10-16,日産自動車株式会社,Battery charging system and method
+    US9020674B2                      *,2012-04-13,2015-04-28,Toyota Motor Engineering & Manufacturing North America, Inc.,Diversion of energy from regenerative braking
+    US9090162B2                      *,2012-08-09,2015-07-28,Robert Bosch Gmbh,Battery pack condensation prevention
+    US20160126760A1,2014-11-04,2016-05-05,Toyota Jidosha Kabushiki Kaisha,Battery system
+    US9796241B2                      *,2011-04-18,2017-10-24,Denso Corporation,Vehicle temperature control apparatus and in-vehicle thermal system
+    US20170347396A1                      *,2016-05-24,2017-11-30,Advanced Materials Enterprises Co., Ltd,Temperature manipulating apparatus and method of preparation thereof
+    US20180001774A1                      *,2016-07-04,2018-01-04,Toyota Jidosha Kabushiki Kaisha,Battery charging system and battery charging method for electrically driven vehicle
+    US20180198173A1                      *,2017-01-12,2018-07-12,Toyota Jidosha Kabushiki Kaisha,Electric vehicle
+    US10286808B2                      *,2016-12-19,2019-05-14,Hyundai Motor Company,Vehicle and method for controlling the same
+    US10770766B2                      *,2015-09-28,2020-09-08,Honda Motor Co., Ltd.,Heating control device
+    US11097635B2                      *,2018-07-19,2021-08-24,Hyundai Motor Company,Battery heat management integration system and operation method thereof
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (2)
+              
+
+
+citedBy_exist
+    
+              Cited By (6)
+              
+
+
+citedBy_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    CN112092679B                      *,2020-09-07,2021-12-28,中国第一汽车股份有限公司,Heating control method, device, equipment and storage medium
+    CN112406632B                      *,2020-11-04,2022-02-08,岚图汽车科技有限公司,Electric automobile heat management method and system
+    CN113442788B                      *,2021-06-29,2023-02-21,中国第一汽车股份有限公司,Electric vehicle charging control method and system and storage medium
+    WO2023114873A1                      *,2021-12-16,2023-06-22,Zero Nox, Inc.,Electric vehicle battery conditioning
+    CN114497822B                      *,2022-01-05,2023-09-12,东风柳州汽车有限公司,Battery heating control method, device, equipment and storage medium
+    CN114475363B                      *,2022-01-28,2023-05-23,重庆长安新能源汽车科技有限公司,Power battery driving heating control method and device and electric automobile
+
+abstract
+    A vehicle battery heating apparatus is to be mounted in a vehicle that travels with electricity from a battery. The apparatus includes a battery, a heater, a sensor, a controller, and a memory. The battery is mountable in the vehicle to allow the vehicle to travel. The heater heats the battery. The sensor obtains a temperature of the battery. The controller heats the battery with the heater. The memory stores heating target temperatures for respective remaining capacities of the battery. The controller obtains a remaining capacity of the battery, obtains a target temperature from the memory in accordance with the obtained remaining capacity, and sets a target temperature for heating the battery which is not on charge while the vehicle is stopped to the obtained target temperature. The heater heats the battery to the set target temperature.
+title
+    Vehicle battery heating apparatus
+similar_document
+26
+    Publication,Publication Date,Title
+    US11318862B2,2022-05-03,Vehicle battery heating apparatus
+    CN107571860B,2020-08-21,Method for operating an electrically driven or drivable vehicle and vehicle
+    US10464547B2,2019-11-05,Vehicle with model-based route energy prediction, correction, and optimization
+    US9676283B2,2017-06-13,Method and system for pre-cooling traction battery in anticipation of recharging at charging station
+    JP5077701B2,2012-11-21,Power supply control device
+    JP5407945B2,2014-02-05,Charge control system
+    US9728990B2,2017-08-08,Fast charge mode for extended trip
+    CN102859324B,2016-06-29,Information provider unit and information providing method
+    CN102985279B,2015-06-03,Battery-capacity management device
+    CN104973045A,2015-10-14,Energy reservation coordination for hybrid vehicle
+    US10946766B2,2021-03-16,Electrically powered vehicle
+    WO2010113496A1,2010-10-07,Hybrid vehicle
+    CN109155016A,2019-01-04,For the method and apparatus to electric vehicle charging
+    CN108116252B,2022-11-01,Temperature raising system for vehicle battery
+    CN112566810A,2021-03-26,Vehicle power supply system and vehicle allocation system
+    CN106574843A,2017-04-19,Charging at charging stations for range extension
+    CN109195828A,2019-01-11,For the method and apparatus to electric vehicle charging
+    JP6989453B2,2022-01-05,Control device for electric vehicles
+    KR20150023424A,2015-03-05,Method for recharging a battery of a hybrid vehicle when the vehicle is stationary
+    JP7269835B2,2023-05-09,vehicle battery warmer
+    US20120150378A1,2012-06-14,Determination and Usage of Reserve Energy in Stored Energy Systems
+    JP2014202635A,2014-10-27,Destination arrival estimation device of vehicle
+    JP6765208B2,2020-10-07,Railroad vehicle
+    EP3160809A1,2017-05-03,A method for controlling state of charge of a plug-in hybrid vehicle
+    JP2020035595A,2020-03-05,Control arrangement of vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    9
+classfication_nums
+    21
+classfication_items
+133
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,6,0
+    H,0,1,M,1,0,/,6,1
+    H,0,1,M,1,0,/,6,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B,6,0,L,5,8,/,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,2,5
+    H,0,1,M,1,0,/,4,2,5,7
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,8
+    H,0,1,M,1,0,/,4,8,6
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,6,0
+    H,0,1,M,1,0,/,6,2
+    H,0,1,M,1,0,/,6,2,5
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,6,0
+    H,0,1,M,1,0,/,6,3
+    H,0,1,M,1,0,/,6,3,3
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,6,0
+    H,0,1,M,1,0,/,6,3
+    H,0,1,M,1,0,/,6,3,7
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,6,0
+    H,0,1,M,1,0,/,6,5
+    H,0,1,M,1,0,/,6,5,7
+    H,0,1,M,1,0,/,6,5,7,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,2
+    B,6,0,L,2,2,4,0,/,6,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,0
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,2,2,2,0,/,0,0
+    H,0,1,M,2,2,2,0,/,2,0
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+8
+    2019-08-28,Priority claimed from JP2019156213A
+    2019-11-05,Application filed by Subaru Corp
+    2019-11-06,Assigned to Subaru Corporation
+    2020-06-04,Publication of US20200171975A1
+    2022-05-03,Application granted
+    2022-05-03,Publication of US11318862B2
+    Status,Active
+    2040-02-26,Adjusted expiration
+
+active_area
+2
+    C,N
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+7
+    Application,Filing date,Title
+    JP2018-224486,2018-11-30,
+    JP2018224486,2018-11-30,
+    JPJP2018-224486,2018-11-30,
+    JP2019156213A,2019-08-28,vehicle battery warmer
+    JP2019-156213,2019-08-28,
+    JPJP2019-156213,2019-08-28,
+
+legal_event
+11
+    Date,Code,Title,Description
+    2019-11-05,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2020-03-31,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2021-04-28,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2021-08-06,STPP,Information on status: patent application and granting procedure in general,Free format text: FINAL REJECTION MAILED
+    2021-10-06,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2021-10-13,STPP,Information on status: patent application and granting procedure in general,Free format text: EX PARTE QUAYLE ACTION MAILED
+    2021-12-06,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO EX PARTE QUAYLE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2022-01-14,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2022-04-01,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2022-04-13,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

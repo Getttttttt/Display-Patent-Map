@@ -1,0 +1,216 @@
+ID
+    US9272696B2
+citation_exist
+    Patent Citations (23)
+citation_infor
+25
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH08163707A,1994-12-06,1996-06-21,Mitsubishi Motors Corp,Brake controller for electric vehicle
+    JPH08164837A,1994-12-15,1996-06-25,Mitsubishi Motors Corp,Brake alarming device of vehicle
+    US5775784A,1994-11-29,1998-07-07,Mitsubishi Jidosha Kogyo Kabushiki Kaisha,Braking control system for electric automobile
+    US20020036429A1                      *,2000-09-27,2002-03-28,Toyota Jidosha Kabushiki Kaisha,Control apparatus and method of vehicle braking and driving force
+    US20040108771A1                      *,2002-12-10,2004-06-10,Nissan Motor Co., Ltd.,Vehicle braking control system
+    US20050218718A1                      *,2004-04-06,2005-10-06,Toyota Jidosha Kabushiki Kaisha,Deceleration control apparatus and method for a vehicle
+    JP2006027545A,2004-07-21,2006-02-02,Fuji Heavy Ind Ltd,Failure diagnosing device of brake device for vehicle and failure diagnosing method of brake device for vehicle
+    JP2006205912A,2005-01-28,2006-08-10,Toyota Motor Corp,Braking force control device
+    US20060220453A1                      *,2005-03-31,2006-10-05,Shigeru Saito,Brake control apparatus for vehicle
+    US20070018499A1                      *,2005-07-25,2007-01-25,Koichi Kokubo,Brake control apparatus for vehicle
+    US20070247001A1                      *,2003-12-01,2007-10-25,Nissan Motor Co., Ltd.,Braking Device for Vehicle
+    KR100820489B1,2006-11-20,2008-04-08,현대자동차주식회사,Compensation method for amount of regenerative braking when regenerative braking of vehicle is out of order
+    US20080173490A1                      *,2007-01-20,2008-07-24,Nissan Motor Co., Ltd.,Regenerative braking coordination device
+    US7416039B1                      *,2002-09-20,2008-08-26,Anderson Donald C,Regenerative self propelled vehicles
+    US20080265662A1                      *,2007-04-26,2008-10-30,Gm Global Technology Operations, Inc.,Brake System Fault Pedal Gain Change Method and System
+    JP2011202736A,2010-03-25,2011-10-13,Toyota Motor Corp,Brake control device of vehicle
+    US20110303497A1                      *,2010-06-14,2011-12-15,Gm Global Technology Operations, Inc.,Method and system for controlling vehicle braking
+    US20120118683A1                      *,2009-07-27,2012-05-17,Commissariat A L'energie Atomique Et Aux Ene Alt,Hybrid braking system for automobile with improved braking distribution
+    US20130014499A1                      *,2010-04-21,2013-01-17,U.S. Environmental Protection Agency,Methods for Safe Operation of Hydraulic Hybrid Vehicles with Over-Center Pump/Motors
+    US20130041565A1                      *,2010-04-23,2013-02-14,Nissan Motor Co., Ltd.,Vehicle brake control system
+    US20130162009A1                      *,2011-12-22,2013-06-27,Coda Automotive, Inc.,Electric vehicle regenerative braking system
+    US20130345913A1                      *,2012-06-21,2013-12-26,GM Global Technology Operations LLC,Vehicle brake system and method of operating the same
+    US20140163833A1                      *,2012-12-07,2014-06-12,Hyundai Motor Company,Method and system for controlling braking of vehicle
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (12)
+              
+
+
+citedBy_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20150081192A1                      *,2013-09-17,2015-03-19,Robert Bosch Gmbh,Method and device for monitoring a drive of a motor vehicle
+    Family To Family Citations,,,,
+    US9677529B2                      *,2013-12-25,2017-06-13,Denso Corporation,Vehicle diagnosis system and method
+    CA2940808C                      *,2014-09-30,2018-07-10,Hitachi Construction Machinery Co., Ltd.,Haulage vehicle
+    US9308824B1                      *,2014-10-31,2016-04-12,GM Global Technology Operations LLC,Active brake retraction during regeneration
+    JP6439565B2                      *,2015-04-20,2018-12-19,トヨタ自動車株式会社,Secondary battery system
+    KR101684112B1,2015-05-14,2016-12-07,현대자동차주식회사,Method for maintaining stability of system of fuel cell vehicle
+    US20170217419A1                      *,2016-01-29,2017-08-03,Global Technology Operations Llc,Vehicle brake system health diagnostic, prognostic, and reporting apparatus
+    US10647311B2                      *,2017-11-09,2020-05-12,Robert Bosch Gmbh,System and method for motor brake boost function failure
+    CN111605535A                      *,2019-02-22,2020-09-01,西门子交通有限公司,Monitoring of vehicle braking force
+    CN112013109B                      *,2019-05-30,2021-12-21,上海汽车集团股份有限公司,Longitudinal acceleration monitoring method and device
+    CN112373455B                      *,2020-11-12,2022-03-29,安徽江淮汽车集团股份有限公司,Automobile motor braking method, device, equipment and storage medium
+    AT525681B1                      *,2021-11-18,2023-09-15,Datasoft Embedded Gmbh,Method for selectively connecting a mechanical friction brake to an electrodynamic brake
+
+abstract
+    A failure diagnosis method for a brake system of a vehicle determines whether the failure occurs in a regenerative braking device, a front-wheel friction braking device or a rear-wheel friction braking device. The method may include comparing a driver's required acceleration/deceleration with a current acceleration/deceleration of the vehicle, determining that a failure has occurred in the brake system of the vehicle when the driver's required acceleration/deceleration is different from the current acceleration/deceleration of the vehicle and comparing a driver's required braking torque with a regenerative braking maximum torque, and determining that the failure does not occur in the brake system of the vehicle when the driver's required acceleration/deceleration is substantially equal to the current acceleration/deceleration of the vehicle.
+title
+    Failure diagnosis method for brake system of vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US9272696B2,2016-03-01,Failure diagnosis method for brake system of vehicle
+    US8744713B2,2014-06-03,Method for controlling braking of vehicle
+    EP3056404B1,2018-08-01,Vehicle motion control device
+    US8914208B2,2014-12-16,Brake control device
+    US20140288758A1,2014-09-25,Electric vehicle control device
+    US20170096070A1,2017-04-06,Method for controlling braking of regenerative braking co-operative control system for vehicle
+    US10953868B2,2021-03-23,Control method when vehicle tire bursts, vehicle control system and vehicle
+    EP2915692A1,2015-09-09,Vehicle control device
+    US9302661B2,2016-04-05,Braking system for hybrid vehicle and control method for the same
+    US9333962B2,2016-05-10,Method for detecting malfunction of brake system using yaw rate
+    US20180304919A1,2018-10-25,Control apparatus and method of motor-driven power steering system
+    KR102429495B1,2022-08-05,Apparatus and method for controlling creep torque of eco vehicle
+    US20120323460A1,2012-12-20,Vehicle state calculating device and vehicle control device
+    US20130332041A1,2013-12-12,Brake pressure compensation system and method thereof
+    US20200086885A1,2020-03-19,Vehicle Control Device
+    US10166867B2,2019-01-01,Method to control reaction force of an accelerator pedal system
+    US10940852B2,2021-03-09,Method and system for enhanced yaw response for a vehicle
+    US10179578B2,2019-01-15,Method for controlling braking of vehicle to prevent jerk when parking or stopping vehicle
+    KR20140083398A,2014-07-04,Method of regenerative brake cooperation control
+    US20180244249A1,2018-08-30,Rear wheel regenerative braking control system for vehicle and method therefor
+    US9981554B2,2018-05-29,System and method for controlling braking of electric vehicle
+    JP6855178B2,2021-04-07,A method for driving a vehicle-specific braking system with an electric motor, and a control device for at least one electric motor of the vehicle-specific braking system.
+    KR20190067098A,2019-06-14,Method and control device for operating an electric vehicle or a hybrid vehicle
+    JP4328746B2,2009-09-09,Method and apparatus for managing inner and outer brakes for deceleration vehicle during bend running
+    CN112339744A,2021-02-09,Method for controlling wheel slip of a vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    7
+classfication_nums
+    13
+classfication_items
+78
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,7,/,0,0
+    B,6,0,T,1,7,/,1,8
+    B,6,0,T,1,7,/,2,2
+    B,6,0,T,1,7,/,2,2,1
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,7,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,6,6
+    B,6,0,T,1,3,/,6,6,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,7,/,0,0
+    B,6,0,T,1,7,/,1,8
+    B,6,0,T,1,7,/,2,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,8,8
+    B,6,0,T,8,/,8,8,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,5,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,4,0
+    B,6,0,T,2,2,7,0,/,4,0,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,4,0
+    B,6,0,T,2,2,7,0,/,4,1,3
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+
+application_events
+7
+    2013-12-11,Application filed by Hyundai Motor Co, Sungkyunkwan University Research and Business Foundation
+    2013-12-11,Assigned to Research & Business Foundation Sungkyunkwan University, HYUNDAI MOTOR COMPANY
+    2014-10-30,Publication of US20140324283A1
+    2016-03-01,Application granted
+    2016-03-01,Publication of US9272696B2
+    Status,Expired - Fee Related
+    2033-12-26,Adjusted expiration
+
+active_area
+1
+    K,R
+
+not_active_area
+1
+    U,S
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    KR10-2013-0047981,2013-04-30,
+    KR1020130047981A,2013-04-30,Fail diagnosis method for brake system of vehicle
+
+legal_event
+8
+    Date,Code,Title,Description
+    2013-12-11,AS,Assignment,Owner name: HYUNDAI MOTOR COMPANY, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:KIM, IN SU;JEONG, JONG YUN;HYUN, DONG YOON;AND OTHERS;REEL/FRAME:031760/0744Effective date: 20131105Owner name: RESEARCH & BUSINESS FOUNDATION SUNGKYUNKWAN UNIVERFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:KIM, IN SU;JEONG, JONG YUN;HYUN, DONG YOON;AND OTHERS;REEL/FRAME:031760/0744Effective date: 20131105
+    2015-12-09,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2016-02-10,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2019-10-21,FEPP,Fee payment procedure,Free format text: MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2020-04-06,LAPS,Lapse for failure to pay maintenance fees,Free format text: PATENT EXPIRED FOR FAILURE TO PAY MAINTENANCE FEES (ORIGINAL EVENT CODE: EXP.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2020-04-06,STCH,Information on status: patent discontinuation,Free format text: PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362
+    2020-04-28,FP,Lapsed due to failure to pay maintenance fee,Effective date: 20200301
+

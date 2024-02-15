@@ -1,0 +1,284 @@
+ID
+    WO2014058383A3
+citation_exist
+    Patent Citations (8)
+citation_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    DE102009002521A1                      *,2009-04-21,2010-10-28,Zf Friedrichshafen Ag,Method for operating a vehicle with a sailing or rolling mode
+    WO2010128898A1                      *,2009-05-08,2010-11-11,Volvo Lastvagnar Ab,Method and device for controlling an automatic freewheeling function in a vehicle
+    DE102009027556A1                      *,2009-07-09,2011-01-13,Robert Bosch Gmbh,Method for operating an alternator of a motor vehicle
+    DE102009027553A1                      *,2009-07-08,2011-01-20,Robert Bosch Gmbh,Method for operating a recuperation device of a motor vehicle
+    DE102009057393A1                      *,2009-12-08,2011-06-09,Daimler Ag,Method for controlling operation of e.g. passenger car, involves determining consumption-reduced operating mode when imminent unpowered driving phase of vehicle is present and controlling drive strand depending on mode
+    DE102010030247A1                      *,2010-06-17,2011-12-22,Zf Friedrichshafen Ag,Method for operating a drive train
+    WO2012005655A1                      *,2010-07-08,2012-01-12,Scania Cv Ab,Energy control system and method for a hybrid vehicle
+    US20120098502A1                      *,2010-10-25,2012-04-26,Mitsubishi Electric Corporation,Vehicle power-generation control apparatus
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (11)
+              
+
+
+citedBy_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    SE538539C2,2014-07-07,2016-09-13,Scania Cv Ab,Control of preparatory actions in a vehicle
+    US9545849B2,2014-09-19,2017-01-17,Ford Global Technologies, Llc,Vehicle system and method for adapting lift pedal regeneration
+    FR3028236B1                      *,2014-11-07,2016-12-16,Valeo Systemes De Controle Moteur,ENGINE CONTROL SYSTEM
+    WO2016168213A2                      *,2015-04-13,2016-10-20,Honeywell International, Inc.,System and approach for vehicle cruise control
+    DE102015006453A1                      *,2015-05-19,2016-11-24,Man Truck & Bus Ag,Method for controlling power flows in a motor vehicle
+    SE538927C2                      *,2015-06-17,2017-02-21,Scania Cv Ab,A method and a system for providing an auxiliary unit control profile for controlling an auxiliary unit in a motor vehicle
+    DE102015214436A1                      *,2015-07-30,2017-02-02,Schaeffler Technologies AG & Co. KG,A method for predicting a period of a possible sailing phase of a sailing vehicle
+    DE102015222218A1                      *,2015-11-11,2017-05-11,DB RegioNetz Verkehrs GmbH,Method for the coordinated control of components of a hybrid rail vehicle for reducing the energy consumption, in particular the fuel consumption
+    CN107139732B                      *,2017-04-01,2020-09-11,苏州汇川联合动力系统有限公司,Synchronous motor energy feedback protection method and system
+    DE102017129018A1,2017-12-06,2019-06-06,Man Truck & Bus Ag,Method for operating a motor vehicle
+    SE2150826A1                      *,2021-06-29,2022-12-30,Scania Cv Ab,Control device and method for controlling traveling speed of a vehicle
+
+abstract
+    The present invention proposes a method and a system for identification of cost-free energy and utilisation of said cost-free energy in at least one vehicle-borne system. The method comprises simulation of at least one future speed profile v sim  along a section of road ahead of a vehicle on the basis of information related to the section of road. The method comprises identification, on the basis of at least one future speed profile v sim , of whether cost-free energy will be available for the vehicle along the section of road. Available cost-free energy is defined here as surplus energy which the vehicle has during a simulated period of rolling roll Sim  and during a simulated active braking process brake Sim  if the simulated period of rolling roll Sim  is followed by the simulated braking process brake Sim . The method comprises also utilisation of this available cost-free energy for replenishment of at least one energy store in at least one vehicle-borne system which obtains energy from a power train of the vehicle.
+title
+    Identification and use of free energy
+similar_document
+26
+    Publication,Publication Date,Title
+    WO2014058383A3,2014-11-27,Identification and use of free energy
+    GB201110265D0,2011-08-03,Parking assistance system for transverse parking spaces
+    AU2015352452B2,2020-01-23,Apparatus and method for vehicle economy improvement
+    GB201202958D0,2012-04-04,An apparatus and method for estimating the effective frontal area of a vehicle
+    MX2017001845A,2018-08-08,Parallel parking assistant.
+    WO2012012008A3,2012-04-05,System for advertising and communicating at a vehicle charging station and method of using the same
+    WO2013117976A3,2013-12-19,Information provision apparatus and information provision method
+    WO2012085611A8,2013-03-21,Vehicular driving assist apparatus, method, and vehicle
+    WO2012150143A3,2013-07-25,Method for operating railbound vehicles
+    MX346394B,2017-03-17,A towing vehicle controller providing brake control to a towed vehicle and method.
+    ITTO20110587A1,2013-01-05,METHOD AND APPARATUS FOR BRAKING A TRACTOR EQUIPPED WITH A TRAILER
+    WO2013182704A3,2014-01-30,Powertrain control system and method
+    EP2610837A3,2015-06-03,Traffic information distribution system and traffic information system, traffic information distribution program, and traffic  information distribution method
+    WO2012092557A3,2012-08-23,System and method for controlling a vehicle
+    WO2013081764A3,2014-08-28,Scheduling system and method for a transportation network
+    WO2013024016A3,2013-04-11,Brake system having an electromagnetic track brake device
+    PL409184A1,2015-09-28,Method for controlling the vehicle stability
+    MX351705B,2017-10-25,Automatic regulated parking system and method.
+    WO2013034732A3,2013-07-04,Tool for developing braking systems for rail vehicles
+    WO2011051816A3,2011-06-23,System and method for obtaining document information
+    IT1402579B1,2013-09-13,DEVICE FOR LOCKING WHEEL RIMS FOR VEHICLES ON CARS, MULTI-TIRE OR SIMILAR MACHINES
+    WO2013034717A8,2013-05-23,Method for determining an effective amount of an adhesion-increasing medium
+    WO2015018994A3,2015-04-16,Control of regenerative braking in an electric or hybrid vehicle
+    ITMO20110185A1,2013-01-27,DEVICE FOR LOCKING WHEEL RIMS FOR VEHICLES ON CARS, MULTI-TIRE OR SIMILAR MACHINES
+    EP3898380A4,2022-09-14,System and method for determining grade and acceleration due to motoring and braking
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    DE112013004514.1T,2012-10-10,2013-10-10,Detection and use of free energy
+
+inventor_number
+    4
+classfication_nums
+    27
+classfication_items
+162
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,0,7,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,0,9,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,3,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,5,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,7,/,0,0
+    B,6,0,T,1,7,/,0,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,0,7,2
+    B,6,0,W,2,0,3,0,/,1,8,0,9
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,1,0
+    B,6,0,W,2,7,2,0,/,1,0,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+5
+    2012-10-10,Priority claimed from SE1251147A
+    2013-10-10,Application filed by Scania Cv Ab
+    2013-10-10,Priority to DE112013004514.1T
+    2014-04-17,Publication of WO2014058383A2
+    2014-11-27,Publication of WO2014058383A3
+
+active_area
+2
+    W,O
+    D,E
+
+not_active_area
+0
+
+patent_application_claiming_priority
+5
+    Application,Filing date,Title
+    SE1251147A,2012-10-10,Control system for a vehicle, and a method in connection with the control system
+    SE1251147-3,2012-10-10,
+    SE1351200-9,2013-10-10,
+    SE1351200A,2013-10-10,Identification and utilization of surplus energy in a vehicle-mounted system
+
+legal_event
+5
+    Date,Code,Title,Description
+    2014-06-11,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 13818842Country of ref document: EPKind code of ref document: A2
+    2014-08-14,DPE1,Request for preliminary examination filed after expiration of 19th month from priority date (pct application filed from 20040101),
+    2015-04-07,WWE,Wipo information: entry into national phase,Ref document number: 1120130045141Country of ref document: DERef document number: 112013004514Country of ref document: DE
+    2015-11-04,122,Ep: pct application non-entry in european phase,Ref document number: 13818842Country of ref document: EPKind code of ref document: A2
+

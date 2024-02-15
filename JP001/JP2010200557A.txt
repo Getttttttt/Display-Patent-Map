@@ -1,0 +1,132 @@
+ID
+    JP2010200557A
+citation_exist
+    Patent Citations (3)
+citation_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2003125502A                      *,1995-09-05,2003-04-25,Toyota Motor Corp,電気車両の回生制動制御方法及び過充電防止方法
+    JP2006034034A                      *,2004-07-20,2006-02-02,Nissan Motor Co Ltd,燃料電池車両の制御装置
+    JP2007047117A                      *,2005-08-12,2007-02-22,Ishikawajima Harima Heavy Ind Co Ltd,残量計算装置
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (5)
+              
+
+
+citedBy_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2015080325A                      *,2013-10-16,2015-04-23,トヨタ自動車株式会社,車両
+    JP5850172B2                      *,2012-10-22,2016-02-03,トヨタ自動車株式会社,電池の充電制御装置
+    CN105408161A                      *,2013-07-29,2016-03-16,日产自动车株式会社,车辆的再生制动控制装置
+    JP2016111773A                      *,2014-12-04,2016-06-20,三菱自動車工業株式会社,モータ制御装置
+    EP2907686A4                      *,2012-10-11,2016-08-10,Hitachi Automotive Systems Ltd,REGENERATION CONTROL DEVICE FOR A VEHICLE
+    Family To Family Citations,,,,
+
+abstract
+    【課題】電動モータによって走行駆動する車両のドライバに急激なブレーキ抜け感を与えない回生協調制御装置および回生協調制御方法を提供する。【解決手段】バッテリ残容量データ取得部１１０でバッテリの状態を継続的に検出してバッテリ残容量データを取得すると共に所定の条件を充足するデータ更新タイミング毎に既得のバッテリ残容量データに補正を加えて当該既得のバッテリ残容量データを更新する。一方既得のバッテリ残容量データの補正に係る補正量を、バッテリ残容量データ取得部１１０での該当するデータ更新タイミング到来以前に、補正量推定部１２０で推定する。この推定の結果、該補正量が大きく、回生電力の大幅な絞り込みが生じると見込まれる場合には、回生協調制御における回生制動の比率を予め低減させて摩擦制動の比率を高めておき、総制動力の不足を未然に回避する。【選択図】  図１
+title
+    回生協調制御装置および回生協調制御方法
+similar_document
+26
+    Publication,Publication Date,Title
+    EP3050765B1,2020-11-11,Control device for electric vehicle
+    JP4415959B2,2010-02-17,ブレーキ制御装置
+    JP5381954B2,2014-01-08,車両駆動力制御装置
+    US20160221446A1,2016-08-04,Driving force control device and driving force control method
+    KR20190076358A,2019-07-02,차량의 코스트 리젠 토크 적용 방법
+    JP4487956B2,2010-06-23,ブレーキ制御装置
+    JP6162657B2,2017-07-12,車両用走行制御装置
+    JP2012116425A,2012-06-21,電動車両のブレーキ制御装置
+    US9895978B2,2018-02-20,Braking force control method for vehicle
+    JP2010200557A,2010-09-09,回生協調制御装置および回生協調制御方法
+    JP2005329740A,2005-12-02,車両制動システム
+    KR20170030962A,2017-03-20,전기 자동차의 충격 완화 제어 방법 및 시스템
+    JP6219242B2,2017-10-25,車両用走行制御装置
+    KR101905959B1,2018-10-08,차량의 제동 제어 장치 및 방법
+    JP5506632B2,2014-05-28,車両用ブレーキ装置
+    JP2011036062A,2011-02-17,４輪独立駆動車両の制御装置
+    JP5817095B2,2015-11-18,電動車両の制御装置
+    WO2021219597A1,2021-11-04,Torque redistribution and adjustment method, and corresponding control unit and electric vehicle
+    JP2011183822A,2011-09-22,ブレーキ制御装置
+    JP5853682B2,2016-02-09,車両のブレーキ制御装置
+    WO2021080011A1,2021-04-29,制御装置
+    JP5817421B2,2015-11-18,電動車両のブレーキ制御装置
+    JP6429276B2,2018-11-28,制動制御装置または制動制御方法
+    JP2009173085A,2009-08-06,車両用トルク制御装置
+    JP2011223698A,2011-11-04,電動車両の制御装置
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    JP2009044862A,2009-02-26,2009-02-26,回生協調制御装置および回生協調制御方法
+
+inventor_number
+    4
+classfication_nums
+    4
+classfication_items
+25
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+
+application_events
+4
+    2009-02-26,Application filed by Nissan Motor Co Ltd
+    2009-02-26,Priority to JP2009044862A
+    2010-09-09,Publication of JP2010200557A
+    Status,Pending
+
+active_area
+1
+    J,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2009044862A,2009-02-26,回生協調制御装置および回生協調制御方法
+
+legal_event
+6
+    Date,Code,Title,Description
+    2010-09-18,RD04,Notification of resignation of power of attorney,Free format text: JAPANESE INTERMEDIATE CODE: A7424Effective date: 20100917
+    2011-12-20,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20111219
+    2013-02-21,A977,Report on retrieval,Free format text: JAPANESE INTERMEDIATE CODE: A971007Effective date: 20130221
+    2013-02-27,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20130226
+    2013-07-03,A02,Decision of refusal,Free format text: JAPANESE INTERMEDIATE CODE: A02Effective date: 20130702
+

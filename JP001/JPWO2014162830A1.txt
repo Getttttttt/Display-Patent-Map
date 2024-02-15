@@ -1,0 +1,192 @@
+ID
+    JPWO2014162830A1
+citation_exist
+    Patent Citations (6)
+citation_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2005073457A                      *,2003-08-27,2005-03-17,Toyota Motor Corp,車両の制御装置
+    JP2005312187A                      *,2004-04-21,2005-11-04,Toyota Motor Corp,自動車
+    JP2007131212A                      *,2005-11-11,2007-05-31,Toyota Motor Corp,車両の制御装置
+    JP2007168789A                      *,2007-02-14,2007-07-05,Toyota Motor Corp,ハイブリッド車両の制御装置
+    JP2011130629A                      *,2009-12-21,2011-06-30,Mitsubishi Motors Corp,電動車両の差動制限制御装置
+    JP2012130226A                      *,2010-12-17,2012-07-05,Toyota Motor Corp,車両駆動装置
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (5)
+              
+
+
+citedBy_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN112977071A                      *,2019-12-13,2021-06-18,长城汽车股份有限公司,新能源车辆的控制方法、装置及新能源车辆
+    Family To Family Citations,,,,
+    JP6948936B2,2017-12-21,2021-10-13,株式会社クボタ,電動作業車
+    US10793124B2,2018-03-07,2020-10-06,Ford Global Technologies, Llc,Vehicle wheel torque control systems and methods
+    CN111746305B                      *,2020-07-10,2021-07-06,江西科技学院,线控四轮驱动轮毂电机电动汽车节能控制方法及系统
+    CN113910919B                      *,2021-10-27,2023-06-06,东风越野车有限公司,一种轮毂电机车辆轮端同步步长目标转矩控制方法、系统和介质
+
+abstract
+    S21で目標加速度αを求め、S22で、α実現用のモータトルク指令値tTmを求め、S23で、tTmがモータ定格トルクを超えないよう制限して加速トルク指令値tTm_Limと定める。S24で、目標ヨーレートtφを検索し、S25で、tφを実現するヨーモーメントMyを演算する。S26で、Myを生じさせる左右輪モータトルク差ΔtTmを演算し、S27で、左右輪の加速トルク指令値tTm_Limをトルク差ΔtTmの半値（ΔtTm/2）だけ加減算して、過渡ヨーレート制御用モータトルク指令値tTm_Yを求める。S28でtTm_Yが、制御応答の高いほどモータ定格トルクよりも大きく定めた過渡ヨーレート制御時モータトルク許容上限値Tm_Lim_Yを超えることのないよう制限して、モータの駆動制御に資する。
+title
+    左右モータ駆動車輪の駆動力制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP4513612B2,2010-07-28,車両のトルク配分制御装置
+    WO2014162830A1,2014-10-09,左右モータ駆動車輪の駆動力制御装置
+    EP3028893B1,2019-06-19,Vehicle
+    JP5550891B2,2014-07-16,電動車両の制御装置および制御方法
+    US20150088380A1,2015-03-26,Active torque steer compensation during negative powertrain torque for hybrid and electric vehicles
+    JP2006081343A,2006-03-23,車両の回生制動制御装置
+    JP4005594B2,2007-11-07,回生制御装置
+    JP5790871B2,2015-10-07,電動車両の駆動力制御装置および電動車両の駆動力制御方法
+    KR20170118208A,2017-10-24,차량
+    JP2015192471A,2015-11-02,車両運動制御装置
+    JP2007325372A,2007-12-13,電動車両の制御装置
+    JP2008141875A,2008-06-19,走行装置及び駆動制御装置
+    JP2012056367A,2012-03-22,電動車両の制御装置
+    WO2015002033A1,2015-01-08,駆動トルク制御装置
+    WO2017138587A1,2017-08-17,車輪独立駆動式車両の駆動制御装置
+    JP4935022B2,2012-05-23,車両の左右トルク配分制御装置
+    JP2006187047A,2006-07-13,４輪独立駆動車の駆動力制御装置
+    JP6730656B2,2020-07-29,車両の回頭制御装置
+    WO2016125686A1,2016-08-11,車両の制駆動トルク制御装置
+    JP2007056933A,2007-03-08,車両の左右トルク配分制御装置
+    JP2011217515A,2011-10-27,車両の制御装置
+    JP2015116069A,2015-06-22,左右輪独立モータ駆動装置
+    JP2014080084A,2014-05-08,ハイブリッド自動車のローリング抑制方法
+    JP7149713B2,2022-10-07,スリップ制御装置
+    JP2013183502A,2013-09-12,後輪電動駆動車の制動制御装置
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    12
+classfication_nums
+    14
+classfication_items
+87
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,0
+    B,6,0,L,3,/,1,0,6
+    B,6,0,L,3,/,1,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+3
+    2014-03-11,Application filed by Nissan Motor Co Ltd
+    2017-02-16,Publication of JPWO2014162830A1
+    Status,Pending
+
+active_area
+2
+    W,O
+    J,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2013077961,2013-04-03,
+    JP2013077961,2013-04-03,
+    PCT/JP2014/056333,2014-03-11,左右モータ駆動車輪の駆動力制御装置
+
+legal_event
+2
+    Date,Code,Title,Description
+    2017-02-28,A02,Decision of refusal,Free format text: JAPANESE INTERMEDIATE CODE: A02Effective date: 20170228
+

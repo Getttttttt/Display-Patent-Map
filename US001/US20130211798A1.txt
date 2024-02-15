@@ -1,0 +1,278 @@
+ID
+    US20130211798A1
+citation_exist
+    Patent Citations (20)
+citation_infor
+22
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5788004A                      *,1995-02-17,1998-08-04,Bayerische Motoren Werke Aktiengesellschaft,Power control system for motor vehicles with a plurality of power-converting components
+    US6167339A                      *,1997-05-30,2000-12-26,Continential Isad Electronic Systems Gmbh,Drive system for a vehicle and method for operating a drive system
+    US6201312B1                      *,1998-02-17,2001-03-13,Toyota Jidosha Kabushiki Kaisha,Drive control system for hybrid vehicles
+    US20040065489A1                      *,2002-05-24,2004-04-08,Ballard Power Systems Ag,Method and apparatus to regulate the supply of power to an electric drive using a hybrid energy supply system in a vehicle
+    US20060052916A1                      *,2004-09-07,2006-03-09,Hoch Martin M,Gasoline fuel cell power system transient control
+    US20060087291A1                      *,2004-10-24,2006-04-27,Yutaka Yamauchi,Method of controlling rechargeable battery power and a power source apparatus
+    US20060192523A1                      *,2003-07-07,2006-08-31,Kazutoshi Nomoto,Electronic equipment, power source management control device for electronic equipment, and power source device
+    US20070284166A1                      *,2006-06-09,2007-12-13,Oliver Maier,Advanced controls concept for hybrid fuel cell systems
+    US7398147B2                      *,2005-08-02,2008-07-08,Ford Global Technologies, Llc,Optimal engine operating power management strategy for a hybrid electric vehicle powertrain
+    US20090118943A1                      *,2007-11-05,2009-05-07,Gm Global Technology Operations, Inc.,Method and apparatus to determine a preferred output torque in mode and fixed gear operation with clutch torque constraints for a hybrid powertrain system
+    US7704634B2                      *,2002-04-23,2010-04-27,Sumitomo Electric Industries, Ltd.,Method for designing redox flow battery system
+    US20100266921A1                      *,2006-08-15,2010-10-21,Gm Global Technology Operations, Inc.,Power control for hybrid fuel cell systems
+    US20110172865A1                      *,2010-06-10,2011-07-14,Ford Global Technologies, Llc,Method For Optimizing Powertrain Efficiency For A Vehicle
+    US20120095637A1                      *,2009-06-16,2012-04-19,Toyota Jidosha Kabushiki Kaisha,Fuel cell system
+    US20140244064A1                      *,2011-09-28,2014-08-28,Kyocera Corporation,Energy management system, energy management apparatus, and power management method
+    US20140308589A1                      *,2009-06-10,2014-10-16,Toyota Jidosha Kabushiki Kaisha,Fluid compressor and fuel cell vehicle
+    US20140330470A1                      *,2011-11-24,2014-11-06,Ntn Corporation,Electric vehicle control device
+    Family To Family Citations,,,,
+    TW535308B,2000-05-23,2003-06-01,Canon Kk,Detecting method for detecting internal state of a rechargeable battery, detecting device for practicing said detecting method, and instrument provided with said
+    DE102008006738A1,2008-01-30,2009-08-13,Daimler Ag,Method for determining a polarization curve of a fuel cell system, and method for operating a fuel cell system and fuel cell system
+    US8450021B2                      *,2010-03-15,2013-05-28,GM Global Technology Operations LLC,Method for HV bus voltage control in fuel cell vehicles featuring HV lithium batteries
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (5)
+              
+
+
+citedBy_exist
+    
+              Cited By (10)
+              
+
+
+citedBy_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20150202987A1                      *,2012-07-13,2015-07-23,Commissariat à I'énergie atomique et aux énergies alternatives,Motor vehicle drive unit including a fuel cell and an energy storage system
+    US20150251648A1                      *,2012-12-14,2015-09-10,Mitsubishi Electric Corporation,Control device for hybrid vehicle
+    EP3020592A1                      *,2014-11-15,2016-05-18,Toyota Jidosha Kabushiki Kaisha,Vehicle including fuel cell system
+    CN109693578A                      *,2019-02-01,2019-04-30,中国第一汽车股份有限公司,A kind of fuel-cell vehicle vehicle power distribution control method and system
+    US20210194025A1                      *,2019-12-23,2021-06-24,Toyota Jidosha Kabushiki Kaisha,Fuel cell vehicle
+    US20220169150A1                      *,2020-11-27,2022-06-02,Ford Global Technologies, Llc,Fuel cell vehicle and control strategy based on artificial battery discharge limit
+    Family To Family Citations,,,,
+    CN106274529A                      *,2016-08-26,2017-01-04,东莞氢宇新能源科技有限公司,A kind of hybrid power system
+    CN109677269B                      *,2018-12-20,2020-09-29,潍柴动力股份有限公司,Calibration method and system for power efficient point
+    DE102019214745A1                      *,2019-09-26,2021-04-01,Robert Bosch Gmbh,Fuel cell system, electric drive system and method for operating a fuel cell system
+    CN114523858B                      *,2022-02-22,2022-11-29,电子科技大学,Power distribution method of hydrogen-electricity hybrid power system
+
+abstract
+    A method a system and method for optimizing the power distribution between a fuel cell stack and a high voltage battery in a fuel cell vehicle. The method includes defining a virtual battery hydrogen power for the battery that is based on a relationship between a battery power request from the battery and an efficiency of the battery and defining a virtual stack hydrogen power for the fuel cell stack that is based on a relationship between a stack power request from the fuel cell stack and an efficiency of the fuel cell stack. The virtual battery hydrogen power and the virtual stack hydrogen power are converted into polynomial equations and added together to provide a combined power polynomial equation. The combined power polynomial equation is solved to determine a minimum of the fuel cell stack power request by setting a derivative of the virtual stack hydrogen power to zero.
+title
+    Analytic method of fuel consumption optimized hybrid concept for fuel cell systems
+similar_document
+21
+    Publication,Publication Date,Title
+    US9020799B2,2015-04-28,Analytic method of fuel consumption optimized hybrid concept for fuel cell systems
+    US7682719B2,2010-03-23,Method for adaptive prediction of stack voltage in automotive fuel cell systems
+    US7597976B2,2009-10-06,Floating base load hybrid strategy for a hybrid fuel cell vehicle to increase the durability of the fuel cell system
+    US7831343B2,2010-11-09,Efficiency optimized hybrid operation strategy
+    US8952649B2,2015-02-10,Efficiency based stand-by mode for fuel cell propulsion systems
+    US9880226B2,2018-01-30,Estimating coolant conductivity in a multi-voltage fuel cell system without disconnecting contactors
+    CN102044690B,2014-07-09,Method to perform adaptive voltage suppression of a fuel cell stack based on stack parameters
+    US7847513B2,2010-12-07,System for controlling the power output of a fuel cell stack and battery
+    US8404392B2,2013-03-26,Method of entering and exiting a regenerative/stand-by mode on a fuel cell system where the fuel cell is separated from the regenerative source by a blocking power diode
+    CN104051751B,2016-09-14,The fuel battery power carried out by bias estimation is controlled
+    US10312538B2,2019-06-04,Fuel cell system for vehicle and control method thereof
+    US8450021B2,2013-05-28,Method for HV bus voltage control in fuel cell vehicles featuring HV lithium batteries
+    JP2009117070A,2009-05-28,Fuel cell system
+    CN110834553A,2020-02-25,External power supply system and power supply method for fuel cell vehicle
+    US8604637B2,2013-12-10,Method for high voltage bus control in fuel cell vehicles
+    US9437889B2,2016-09-06,Powering a fuel cell stack during standby
+    Arora et al.,2018,Effect of supercapacitors directly hybridized with PEMFC on the component contribution and the performance of the system
+    Kim et al.,2023,Establishment of energy management strategy of 50 kW PEMFC hybrid system
+    JP7271365B2,2023-05-11,Display control device, display control method, and program
+    Chandrasekar,2021,A Novel Thermal Management Simulation Model Analysis for The Fuel Cell Electric Truck Systems
+
+patent_application
+    NoExist
+patent_priority_application
+4
+    Application,Priority date,Filing date,Title
+    US13/396,145,2012-02-14,2012-02-14,Analytic method of fuel consumption optimized hybrid concept for fuel cell systems
+    DE102013100403.2A,2012-02-14,2013-01-15,Analytical method for a fuel consumption optimized hybrid concept for fuel cell systems
+    CN201310050168.9A,2012-02-14,2013-02-08,For the analytical method of the fuel consumption optimization hybrid power concept of fuel cell system
+
+inventor_number
+    2
+classfication_nums
+    25
+classfication_items
+143
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,2
+    G
+    G,0,6
+    G,0,6,F
+    G,0,6,F,1,7,/,0,0
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,6
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,6,/,0,0
+    H,0,1,M,1,6,/,0,0,3
+    H,0,1,M,1,6,/,0,0,6
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,9,8
+    H,0,1,M,8,/,0,4,9,9,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B,6,0,L,2,2,1,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    F
+    F,0,2
+    F,0,2,D
+    F,0,2,D,4,1,/,0,0
+    F,0,2,D,4,1,/,0,2
+    F,0,2,D,4,1,/,1,4
+    F,0,2,D,4,1,/,1,4,0,1
+    F,0,2,D,4,1,/,1,4,0,6
+    G
+    G,0,5
+    G,0,5,B
+    G,0,5,B,2,2,1,9,/,0,0
+    G,0,5,B,2,2,1,9,/,2,0
+    G,0,5,B,2,2,1,9,/,2,6
+    G,0,5,B,2,2,1,9,/,2,6,6,8
+    G
+    G,1,6
+    G,1,6,Z
+    G,1,6,Z,9,9,/,0,0
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,2,2,2,0,/,0,0
+    H,0,1,M,2,2,2,0,/,2,0
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,2,2,5,0,/,0,0
+    H,0,1,M,2,2,5,0,/,2,0
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,9,8
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,3,0
+    Y,0,2,E,6,0,/,5,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,4,0
+
+application_events
+7
+    2012-02-14,Application filed by GM Global Technology Operations LLC
+    2012-02-14,Priority to US13/396,145
+    2013-08-15,Publication of US20130211798A1
+    2015-04-28,Application granted
+    2015-04-28,Publication of US9020799B2
+    Status,Active
+    2033-04-15,Adjusted expiration
+
+active_area
+3
+    U,S
+    D,E
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US13/396,145,2012-02-14,Analytic method of fuel consumption optimized hybrid concept for fuel cell systems
+
+legal_event
+8
+    Date,Code,Title,Description
+    2012-03-13,AS,Assignment,Owner name: GM GLOBAL TECHNOLOGY OPERATIONS LLC, MICHIGANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:MAIER, OLIVER;REEL/FRAME:027857/0963Effective date: 20120210
+    2013-06-26,AS,Assignment,Owner name: WILMINGTON TRUST COMPANY, DELAWAREFree format text: SECURITY AGREEMENT;ASSIGNOR:GM GLOBAL TECHNOLOGY OPERATIONS LLC;REEL/FRAME:030694/0500Effective date: 20101027
+    2014-11-07,AS,Assignment,Owner name: GM GLOBAL TECHNOLOGY OPERATIONS LLC, MICHIGANFree format text: RELEASE BY SECURED PARTY;ASSIGNOR:WILMINGTON TRUST COMPANY;REEL/FRAME:034287/0415Effective date: 20141017
+    2014-12-04,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2015-04-08,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2018-10-11,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+    2022-09-21,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+

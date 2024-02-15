@@ -1,0 +1,358 @@
+ID
+    US20220281436A1
+citation_exist
+    Patent Citations (4)
+citation_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    US6617703B2                      *,2001-09-05,2003-09-09,Hitachi, Ltd.,Auxiliary drive and automobile equipped with the same
+    US9481371B2                      *,2014-07-29,2016-11-01,Hyundai Motor Company,Method and apparatus for controlling speed change of hybrid vehicle
+    US20200182350A1                      *,2018-12-07,2020-06-11,Hyundai Motor Company,Apparatus and method for controlling transmission of vehicle and vehicle system
+    US11498568B2                      *,2019-10-23,2022-11-15,Hyundai Motor Company,Vehicle and method of controlling the same
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    A system and a method for controlling shifting stage of a hybrid vehicle may include a speed detecting device that detects a vehicle speed, an automatic transmission that changes a shifting stage of the vehicle, and a shift controller connected to the speed detecting device and the automatic transmission. The shift controller is configured to determine a start of shift control based on a travel environment and a travel state of the vehicle, compares the vehicle speed with a target vehicle speed when the start of the shift control is determined, and performs the shift control based on a state of charge of a battery of the vehicle and a regenerative braking amount of the vehicle when the shift controller concludes that the vehicle speed exceeds the target vehicle speed.
+title
+    System and method for controlling shift of hybrid vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US10717427B2,2020-07-21,Hybrid vehicle and method of controlling engine start
+    CN107415711B,2020-08-07,Hybrid electric vehicle, cooperative system, and control method for hybrid electric vehicle
+    US8428804B2,2013-04-23,In-vehicle charge and discharge control apparatus and partial control apparatus
+    US20100204863A1,2010-08-12,Vehicle drive power generation control apparatus
+    US20100185384A1,2010-07-22,Route guidance device, method, and program
+    US8818589B2,2014-08-26,System and method for controlling a vehicle
+    US11345347B2,2022-05-31,Brake control device for vehicle
+    US20210402976A1,2021-12-30,Method of Controlling Generator for Vehicle
+    US20190164451A1,2019-05-30,Systems and methods for sharing driver coaching data
+    CN109878495B,2022-01-18,Hybrid vehicle, control device for hybrid vehicle, and control method
+    JP7003607B2,2022-01-20,Hybrid vehicle and control device mounted on it
+    US11738738B2,2023-08-29,System and method for controlling shift of hybrid vehicle
+    US10737685B2,2020-08-11,Hybrid vehicle and control device mounted thereon
+    KR20180116652A,2018-10-25,Hybrid vehicle and method of controlling engine
+    JP7003606B2,2022-01-20,Hybrid vehicle and control device mounted on it
+    US20200130669A1,2020-04-30,Communication control device, communication system, method of controlling communication
+    JP7013826B2,2022-02-01,Hybrid vehicle and control device mounted on it
+    US11808818B2,2023-11-07,Degradation determination device for secondary battery
+    US20220126727A1,2022-04-28,Degradation determination device for secondary battery
+    JP7031572B2,2022-03-08,Drive system
+    US20220113355A1,2022-04-14,Degradation determination device for secondary battery
+    JP7110957B2,2022-08-02,battery system
+    CN112319459B,2023-05-12,Method, device and medium for self-adapting to mountain road working condition of hybrid power vehicle
+    KR102461846B1,2022-11-01,Vehicle and method for controlling the same
+    JP7067004B2,2022-05-16,Hybrid car
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    6
+classfication_nums
+    43
+classfication_items
+261
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,3,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,2,6,/,0,0
+    B,6,0,K,2,6,/,0,2
+    B,6,0,K,2,6,/,0,2,1
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,0
+    B,6,0,W,1,0,/,1,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,4
+    B,6,0,W,1,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B,6,0,W,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,0,7,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,1,0
+    B,6,0,W,4,0,/,1,0,5
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,5,9,/,0,0
+    F,1,6,H,5,9,/,3,6
+    F,1,6,H,5,9,/,4,4
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,5,9,/,0,0
+    F,1,6,H,5,9,/,3,6
+    F,1,6,H,5,9,/,4,6
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,6,1,/,0,0
+    F,1,6,H,6,1,/,0,2
+    F,1,6,H,6,1,/,0,2,0,2
+    F,1,6,H,6,1,/,0,2,0,4
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,6,1,/,0,0
+    F,1,6,H,6,1,/,2,1
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B,6,0,K,2,0,0,6,/,4,8,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,8
+    B,6,0,L,2,2,4,0,/,4,8,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,0
+    B,6,0,L,2,2,4,0,/,5,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,2
+    B,6,0,L,2,2,4,0,/,6,2,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,4,2,0,/,0,0
+    B,6,0,W,2,4,2,0,/,4,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,8
+    B,6,0,W,2,5,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,3,0,/,0,0
+    B,6,0,W,2,5,3,0,/,1,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,3,0,/,0,0
+    B,6,0,W,2,5,3,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,5,/,0,0
+    B,6,0,W,2,5,5,5,/,6,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,6,/,0,0
+    B,6,0,W,2,5,5,6,/,4,5
+    B,6,0,W,2,5,5,6,/,5,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,2
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,1,8
+    B,6,0,Y,2,3,0,0,/,1,8,0,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,0,6,6
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,1,8
+    B,6,0,Y,2,3,0,0,/,1,8,0,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,2,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,4
+    Y,0,4,S
+    Y,0,4,S,1,0,/,0,0
+    Y,0,4,S,1,0,/,1,2
+    Y,0,4,S,1,0,/,1,2,6
+
+application_events
+7
+    2021-07-09,Application filed by Hyundai Motor Co, Kia Corp
+    2021-07-09,Assigned to HYUNDAI MOTOR COMPANY, KIA CORPORATION
+    2022-09-08,Publication of US20220281436A1
+    2023-08-29,Application granted
+    2023-08-29,Publication of US11738738B2
+    Status,Active
+    2042-04-11,Adjusted expiration
+
+active_area
+1
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    KR1020210030007A,2021-03-08,Transmission control apparatus and method for controlling transmission of hybrid vehicle
+    KR10-2021-0030007,2021-03-08,
+
+legal_event
+6
+    Date,Code,Title,Description
+    2021-07-09,AS,Assignment,Owner name: KIA CORPORATION, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:SHIN, YONG UK;JEON, BYEONG WOOK;JEONG, DONG HOON;AND OTHERS;REEL/FRAME:056802/0098Effective date: 20210621Owner name: HYUNDAI MOTOR COMPANY, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:SHIN, YONG UK;JEON, BYEONG WOOK;JEONG, DONG HOON;AND OTHERS;REEL/FRAME:056802/0098Effective date: 20210621
+    2021-07-09,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2021-10-15,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2023-06-08,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2023-08-09,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

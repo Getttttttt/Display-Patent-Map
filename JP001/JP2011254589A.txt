@@ -1,0 +1,144 @@
+ID
+    JP2011254589A
+citation_exist
+    Patent Citations (4)
+citation_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP2007282406A                      *,2006-04-07,2007-10-25,Tokyo Metropolitan Univ,自動車の制動力制御システム
+    JP4946319B2                      *,2006-09-29,2012-06-06,日産自動車株式会社,車両の駆動力配分装置
+    JP2008228407A                      *,2007-03-09,2008-09-25,Tokyo Metropolitan Univ,車両の制駆動制御装置
+    JP5251380B2                      *,2007-10-16,2013-07-31,株式会社日立製作所,制駆動制御装置及びそれを備えた車両
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2018137992A                      *,2018-04-20,2018-08-30,株式会社Ｓｕｂａｒｕ,車両制御装置
+    WO2021049259A1                      *,2019-09-13,2021-03-18,株式会社ミツバ,制動補助装置及び電動車両
+    US11267457B2                      *,2019-12-09,2022-03-08,Ford Global Technologies, Llc,Systems and methods for managing electric motor torques in a hybrid electric vehicle
+    Family To Family Citations,,,,
+    CN106696761B                      *,2017-01-25,2019-03-12,福州大学,一种电动汽车智能驱动控制系统及其驱动控制方法
+
+abstract
+    【課題】２つの電気モータのうち一方の電気モータの機能が停止しても、安定した走行が可能な電気自動車およびプログラムを提供する。【解決手段】第１および第２の電気モータ３ｆ、３ｒから出力された制駆動力を左右への動力配分制御が可能は差動装置４ｆ、４ｒを介して前輪側および後輪側の左右輪に伝達する第１および第２の駆動系を有する電気自動車１において、車両２５の前後方向、横方向、旋回方向の加速度を検出する加速度センサ２６と、電気モータから制駆動力を出力することができない障害の発生を検出する障害検出部と、障害検出部が障害の発生を検出したとき、加速度センサ２６が検出した前後方向、横方向、旋回方向の加速度からそれぞれの加速度変化率を求め、それらの加速度変化率のうち最も大きい加速度変化率に対応する方向の加速度が障害の発生前の値となるように障害の発生していない側の第１又は第２の駆動系を制御する制御部とを備える。【選択図】図１
+title
+    電気自動車およびプログラム
+similar_document
+26
+    Publication,Publication Date,Title
+    WO2012023305A1,2012-02-23,自動車
+    WO2012086223A1,2012-06-28,電気自動車
+    JP5924628B2,2016-05-25,車両用制動力発生装置
+    CN105683009B,2018-01-26,制动力控制系统
+    US9744862B2,2017-08-29,Slip-controlled braking system for electrically driven motor vehicles
+    US20190275994A1,2019-09-12,Vehicle wheel torque control systems and methods
+    KR20180058322A,2018-06-01,전기자동차의 제동 제어 장치 및 방법
+    JP2007282406A,2007-10-25,自動車の制動力制御システム
+    JP2006081343A,2006-03-23,車両の回生制動制御装置
+    JP4997347B1,2012-08-08,電気自動車
+    JP2011193702A,2011-09-29,電気自動車および制動プログラム
+    WO2011151935A1,2011-12-08,電気自動車、プログラム、並びに電気自動車の制御装置および制御方法
+    JP2011229286A,2011-11-10,電気自動車およびプログラム
+    CN108528269A,2018-09-14,驱动力控制装置
+    JP5359664B2,2013-12-04,４輪独立駆動車両の制御装置
+    CN104080641A,2014-10-01,车速控制装置和搭载了该车速控制装置的车辆
+    WO2011151936A1,2011-12-08,電気自動車、プログラム、並びに電気自動車の制御装置および制御方法
+    JP2011254590A,2011-12-15,電気自動車およびプログラム
+    JP2011229211A,2011-11-10,回生制御装置
+    JP6153857B2,2017-06-28,車両用制動装置
+    WO2011114557A1,2011-09-22,電気自動車、制動プログラム、並びに電気自動車の制御装置および制御方法
+    JP2010200590A,2010-09-09,電気自動車の回生制動制御装置
+    JP2003209905A,2003-07-25,ハイブリッド車両の制御装置
+    JP6152705B2,2017-06-28,車両制御装置
+    JP2011189912A,2011-09-29,電気自動車および制動プログラム
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    JP2010125086A,2010-05-31,2010-05-31,電気自動車およびプログラム
+    PCT/JP2010/066855,2010-05-31,2010-09-28,電気自動車、プログラム、並びに電気自動車の制御装置および制御方法
+
+inventor_number
+    8
+classfication_nums
+    7
+classfication_items
+41
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,9,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+5
+    2010-05-31,Application filed by Univance Corp
+    2010-05-31,Priority to JP2010125086A
+    2010-09-28,Priority to PCT/JP2010/066855
+    2011-12-15,Publication of JP2011254589A
+    Status,Pending
+
+active_area
+2
+    J,P
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2010125086A,2010-05-31,電気自動車およびプログラム
+
+legal_event
+    NoExist

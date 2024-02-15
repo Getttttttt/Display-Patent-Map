@@ -1,0 +1,231 @@
+ID
+    JP2013085456A
+citation_exist
+    Patent Citations (15)
+citation_infor
+17
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH06153313A                      *,1992-11-13,1994-05-31,Honda Motor Co Ltd,電動車両の制動装置
+    JPH08182109A                      *,1994-12-27,1996-07-12,Toyota Motor Corp,電気自動車の走行制御装置
+    JPH1134827A                      *,1997-07-17,1999-02-09,Aisin Seiki Co Ltd,車両ブレーキ制御装置
+    JP2006321429A                      *,2005-05-20,2006-11-30,Toyota Motor Corp,車両用制御装置
+    JP2007112160A                      *,2005-10-17,2007-05-10,Toyota Motor Corp,車両制動装置および車両制動装置の異常検出方法
+    Family To Family Citations,,,,
+    DE19951119A1                      *,1999-10-23,2001-04-26,Bosch Gmbh Robert,Verfahren und Vorrichtung zur Steuerung einer Fahrzeugs
+    JP2006520177A,2003-03-12,2006-08-31,コンティネンタル・テーベス・アクチエンゲゼルシヤフト・ウント・コンパニー・オッフェネ・ハンデルスゲゼルシヤフト,自動車のブレーキシステムを制御する方法
+    US20040251095A1,2003-06-12,2004-12-16,Hydro-Quebec,Electric vehicle braking system
+    KR100534709B1                      *,2003-12-30,2005-12-07,현대자동차주식회사,전기자동차의 회생제동 제어 방법 및 장치
+    US8135526B2,2007-11-03,2012-03-13,GM Global Technology Operations LLC,Method for controlling regenerative braking and friction braking
+    US8612076B2,2008-10-31,2013-12-17,Mahindra Reva Electric Vehicles Pvt. Ltd.,Antilock braking for vehicles
+    DE102009039347A1,2009-08-29,2011-03-03,Daimler Ag,Verfahren zum Betreiben eines Kraftwagens
+    SE534115C2                      *,2009-09-23,2011-05-03,Scania Cv Ab,Bromssystem där friktionsbroms och regenerativ broms aktiveras i beroende av pedalnedtryckning
+    DE102010040190A1                      *,2010-09-03,2012-03-08,Continental Teves Ag & Co. Ohg,Verfahren zum Betreiben eines Bremssystems, Bremssystem und Kraftfahrzeug
+    JP5691453B2                      *,2010-12-03,2015-04-01,日産自動車株式会社,電動車両のブレーキ制御装置
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (8)
+              
+
+
+citedBy_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN111660823A                      *,2020-06-24,2020-09-15,南京汽车集团有限公司,一种基于纯电动货车液压储能系统制动再生的控制方法
+    Family To Family Citations,,,,
+    AT14292U1                      *,2013-04-15,2015-07-15,Ve Vienna Engineering Forschungs Und Entwicklungs Gmbh,Verfahren zum Betätigen einer elektrisch betätigten Reibungsbremse
+    KR101583942B1,2014-06-17,2016-01-11,현대자동차주식회사,구동모터 제어방법 및 제어장치
+    DE102016007838B4                      *,2016-06-28,2019-03-28,Audi Ag,Verfahren zum Steuern einer Bremsrekuperationsvorrichtung sowie Bremsrekuperationsvorrichtung
+    KR101916074B1                      *,2016-11-08,2019-01-30,현대자동차 주식회사,차량의 회생제동 제어 장치 및 그 방법
+    FR3096636B1                      *,2019-05-28,2022-11-04,Psa Automobiles Sa,Procede de gestion d'une deceleration d'un véhicule automobile en cas de freinage critique
+    CN113997914B                      *,2020-07-28,2022-06-21,株洲中车时代电气股份有限公司,一种轨道车辆制动控制方法及装置
+    CN114655179A                      *,2022-02-25,2022-06-24,智己汽车科技有限公司,一种无人驾驶车辆的联合制动系统及方法
+
+abstract
+    【課題】制動デバイスを備えた自動車用制動システムを制御する方法及び装置の提供。【解決手段】制動システムが制動デバイス４０を備え、制動デバイス４０が油圧制動ユニット４１と回生制動ユニット４２とを備え、かつブレーキペダル１０の作動度と制動システムの特性を検出するように設計されている方法であって、制動システムの検出された特性に基づき、油圧制動ユニット４１の油圧制動力特性曲線を計算するステップと、所定の基準に基づきかつ計算された油圧制動力特性曲線に応じて特性マップから回生制動ユニット４２の発電機ベース制動力特性曲線を選択するステップと、計算された油圧制動力特性曲線と選択された発電機ベース制動力特性曲線に基づき、ブレーキペダル１０の検出された作動度に従い油圧制動ユニット４１と回生制動ユニット４２を制御するステップとを含む。【選択図】図２
+title
+    制動デバイスを備えた自動車用制動システムを制御する方法及び装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP5600152B2,2014-10-01,制動デバイスを備えた自動車用制動システムを制御する方法及び装置
+    EP3050765B1,2020-11-11,Control device for electric vehicle
+    CN108025651B,2021-05-07,具有制动系统的车辆以及用于制动系统的方法和控制器
+    JP5030532B2,2012-09-19,回生ブレーキ装置を持つ車両、その車両の制御方法、回生ブレーキ装置を制御する方法、及びその方法をコンピューターに実行させるコンピューター・プログラム
+    JP5640007B2,2014-12-10,自動車の回生制動方法
+    JP6167363B2,2017-07-26,電動車両の制御装置及び電動車両の制御方法
+    CN103097701B,2015-11-25,用于车辆的控制装置
+    EP2987693B1,2019-01-30,Braking apparatus of vehicle
+    US20040262994A1,2004-12-30,Method and device for reducing the brake load at at least one wheel brake
+    JP5846070B2,2016-01-20,電動駐車ブレーキ制御装置
+    KR101618453B1,2016-05-04,전기동력자동차의 원-페달 운전제어방법
+    JP6223487B2,2017-11-01,電動車両用制動装置
+    JP2007131093A,2007-05-31,車両用減速制御装置
+    JP6255775B2,2018-01-10,ブレーキ制御装置
+    KR101339245B1,2014-01-02,능동형 브레이크 시스템 및 그것의 제어방법
+    CN111086394B,2023-04-28,至少暂时电驱动的车辆的制动系统、机动车和制动控制方法
+    JP5251319B2,2013-07-31,電動ブレーキ装置
+    JP2017061293A,2017-03-30,電動機を備えた車両固有のブレーキシステムを運転するための方法、および車両固有のブレーキシステムの少なくとも１つの電動機のための制御装置
+    CN110198872B,2021-12-21,制动系统
+    JP6429276B2,2018-11-28,制動制御装置または制動制御方法
+    JP6124123B2,2017-05-10,回生協調ブレーキ制御システム
+    JP5760489B2,2015-08-12,車両のブレーキシステム
+    JP2021132453A,2021-09-09,車両の制動制御装置
+    JP3797266B2,2006-07-12,制動制御装置
+    JP6528113B2,2019-06-12,ブレーキ制御装置
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    6
+classfication_nums
+    16
+classfication_items
+95
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,0,2
+    B,6,0,T,7,/,0,4
+    B,6,0,T,7,/,0,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,5
+    B,6,0,T,1,3,/,5,8,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,5,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B,6,0,W,1,0,/,1,8,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+
+application_events
+6
+    2012-10-02,Application filed by Dr Ing HCF Porsche AG
+    2013-05-09,Publication of JP2013085456A
+    2014-10-01,Application granted
+    2014-10-01,Publication of JP5600152B2
+    Status,Expired - Fee Related
+    2032-10-02,Anticipated expiration
+
+active_area
+3
+    D,E
+    U,S
+    K,R
+
+not_active_area
+2
+    J,P
+    F,R
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    DE102011054290.6,2011-10-07,
+    DE102011054290A,2011-10-07,Verfahren und Vorrichtung zum Steuern eines Bremssystems für ein Kraftfahrzeug mit einer Bremseinrichtung
+
+legal_event
+16
+    Date,Code,Title,Description
+    2013-09-19,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20130918
+    2013-12-18,A601,Written request for extension of time,Free format text: JAPANESE INTERMEDIATE CODE: A601Effective date: 20131217
+    2013-12-24,A602,Written permission of extension of time,Free format text: JAPANESE INTERMEDIATE CODE: A602Effective date: 20131220
+    2014-01-18,A601,Written request for extension of time,Free format text: JAPANESE INTERMEDIATE CODE: A601Effective date: 20140117
+    2014-01-23,A602,Written permission of extension of time,Free format text: JAPANESE INTERMEDIATE CODE: A602Effective date: 20140122
+    2014-02-07,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20140206
+    2014-07-10,TRDD,Decision of grant or rejection written,
+    2014-07-17,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20140716
+    2014-08-21,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20140814
+    2014-08-22,R150,Certificate of patent or registration of utility model,Ref document number: 5600152Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R150
+    2017-08-22,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2018-08-21,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2019-08-20,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2020-08-14,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2021-08-22,LAPS,Cancellation because of no payment of annual fees,
+

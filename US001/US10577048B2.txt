@@ -1,0 +1,175 @@
+ID
+    US10577048B2
+citation_exist
+    Patent Citations (14)
+citation_infor
+16
+    Publication number,Priority date,Publication date,Assignee,Title
+    EP0559231A1,1992-03-06,1993-09-08,Yamaha Hatsudoki Kabushiki Kaisha,Bicycle with electric motor
+    TWM244257U,1997-10-23,2004-09-21,Honda Motor Co Ltd,Electric assisted bicycle
+    US20040206563A1,2003-04-15,2004-10-21,Kabushiki Kaisha Moric,Assist control of power assisted vehicle
+    TW200944426A,2008-04-25,2009-11-01,Univ Chienkuo Technology,Structure of electricity generation by pedaling on electric bicycle
+    JP2010035376A,2008-07-31,2010-02-12,Panasonic Corp,Motor bicycle
+    US20110006760A1                      *,2007-12-21,2011-01-13,Schaeffler Technologies Gmbh & Co. Kg,Bottom bracket with a torque sensor
+    JP2011083081A,2009-10-05,2011-04-21,Taiyo Yuden Co Ltd,Regenerative brake device and motor-assisted vehicle provided with the same
+    WO2012035682A1,2010-09-16,2012-03-22,パナソニック株式会社,Electric bicycle
+    US20120081080A1                      *,2010-09-30,2012-04-05,Honda Motor Co., Ltd.,Control apparatus for motor-assisted bicycle
+    TW201231350A,2010-12-22,2012-08-01,Microspace Corp,Motor drive control device
+    TWI371899B,2008-09-30,2012-09-01,Nat Univ Chung Hsing,Energy recharging and pedal assisting controller for electrical bicycles
+    US20120239235A1                      *,2009-09-22,2012-09-20,Klaus Voigtlaender,Device and method for regulating an energy recovery in a pedal-driven vehicle
+    US20140121877A1,2012-10-29,2014-05-01,Taiyo Yuden Co., Ltd.,Motor drive controller and electric power-assisted vehicle
+    JP5666639B2,2013-02-28,2015-02-12,太陽誘電株式会社,Motor drive control device and electric assist vehicle
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    DE102017219398A1,2017-10-27,2019-05-02,Brose Antriebstechnik GmbH & Co. Kommanditgesellschaft, Berlin,Hybrid drive for an electric bicycle
+    JP2019189191A                      *,2018-04-27,2019-10-31,株式会社シマノ,Control apparatus
+    CN110104110A                      *,2019-05-06,2019-08-09,深圳市瑞源祥橡塑制品有限公司,Sense control method is trampled, sense control device is trampled and tramples sense control system
+    TWI790752B                      *,2021-09-17,2023-01-21,財團法人自行車暨健康科技工業研究發展中心,Method for establishing feedforward control of assisting force of electric assisted bicycle through environmental variables
+
+abstract
+    In one aspect, a controller for driving a motor of the present invention includes a driving control unit that controls driving of a motor, and a regenerative control unit that instructs the driving control unit to start regeneration when a signal from a pedal rotation sensor that detects a rotation direction of the pedal indicates that the rotation direction of the pedal is backwards, the regenerative control unit controlling an amount of the regeneration in accordance with a backward rotation amount of the pedal while the rotation direction of the pedal is backwards, the backward rotation amount being obtained by the pedal rotation sensor.
+title
+    Controller for driving a motor, and electric power assisted vehicle
+similar_document
+16
+    Publication,Publication Date,Title
+    US8725340B1,2014-05-13,Motor drive controller and electric power-assisted vehicle
+    US10577048B2,2020-03-03,Controller for driving a motor, and electric power assisted vehicle
+    JP6619836B2,2019-12-11,Motor drive control device
+    TWI572522B,2017-03-01,Motor drive control device and electric auxiliary vehicle
+    US9136780B2,2015-09-15,Controller for driving a motor and electric power-assisted vehicle
+    TWI533590B,2016-05-11,Motor drive control device
+    TWI650268B,2019-02-11,Motor drive control unit
+    JP7308198B2,2023-07-13,MOTOR CONTROL DEVICE AND METHOD, AND POWER-ASSISTED VEHICLE
+    JP5940637B2,2016-06-29,Motor drive control device and electric assist vehicle
+    CN110228559B,2021-08-17,Motor drive control device and electric auxiliary vehicle
+    JP6106150B2,2017-03-29,Motor drive control device and electric assist vehicle
+    JP4364365B2,2009-11-18,Method and apparatus for controlling vehicle with electric assist function
+    JP2020142732A,2020-09-10,Motor drive controller and power-assisted vehicle
+    WO2023281846A1,2023-01-12,Motor control device for electrically assisted vehicle, and electrically assisted vehicle
+    TWI599497B,2017-09-21,Motor drive control device
+
+patent_application
+2
+    Application,Priority date,Filing date,Relation,Title
+    US14/882,174,2014-10-15,2015-10-13,Division,Controller for driving a motor, and electric power assisted vehicle
+
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US15/881,525,2014-10-15,2018-01-26,Controller for driving a motor, and electric power assisted vehicle
+
+inventor_number
+    5
+classfication_nums
+    11
+classfication_items
+54
+    B
+    B,6,2
+    B,6,2,M
+    B,6,2,M,6,/,0,0
+    B,6,2,M,6,/,4,0
+    B,6,2,M,6,/,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B,6,0,L,1,5,/,2,0,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,1,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,7,5
+
+application_events
+7
+    2018-01-26,Application filed by Taiyo Yuden Co Ltd
+    2018-01-26,Priority to US15/881,525
+    2018-07-12,Publication of US20180194430A1
+    2020-03-03,Application granted
+    2020-03-03,Publication of US10577048B2
+    Status,Active
+    2035-11-05,Adjusted expiration
+
+active_area
+2
+    U,S
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    US201462064379P,2014-10-15,
+    US14/882,174,2015-10-13,Controller for driving a motor, and electric power assisted vehicle
+    US15/881,525,2018-01-26,Controller for driving a motor, and electric power assisted vehicle
+
+legal_event
+9
+    Date,Code,Title,Description
+    2018-01-26,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2018-04-18,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2019-05-15,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2019-09-22,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2019-10-11,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2020-01-22,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2020-02-12,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2023-08-16,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

@@ -1,0 +1,213 @@
+ID
+    US20180281597A1
+citation_exist
+    Patent Citations (14)
+citation_infor
+16
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20040231897A1                      *,2003-05-21,2004-11-25,Toyota Jidosha Kabushiki Kaisha,Power output apparatus, method of controlling power output apparatus, and automobile with power output apparatus mounted thereon
+    US20050255964A1                      *,2004-05-15,2005-11-17,Heap Anthony H,Method of providing electric motor torque reserve in a hybrid electric vehicle
+    US20130002179A1                      *,2010-03-26,2013-01-03,Ntn Corporation,Controller apparatus for electric vehicle
+    US8437897B2                      *,2008-04-01,2013-05-07,Robert Bosch Gmbh,Method and device for controlling an electrical machine of a hybrid drive with increased availability
+    US20130116876A1                      *,2010-07-09,2013-05-09,V-Ens Co., Ltd.,Electric vehicle and method for controlling emergency thereof
+    US8706346B2                      *,2010-11-01,2014-04-22,GM Global Technology Operations LLC,Robust motor torque performance diagnostics algorithm for electric drive systems in hybrid vehicles
+    US20140350779A1                      *,2013-05-24,2014-11-27,Denso Corporation,Anomaly diagnosis system
+    US20150142234A1                      *,2012-05-10,2015-05-21,Honda Motor Co., Ltd.,Control device for hybrid vehicle
+    US20150166056A1                      *,2013-12-18,2015-06-18,Hyundai Motor Company,Method for monitoring torque in hybrid electric vehicle
+    US20150167615A1                      *,2012-07-31,2015-06-18,Hitachi Automotive Systems, Ltd.,Motor Control Device
+    US20160056739A1                      *,2014-08-19,2016-02-25,Denso Corporation,Apparatus for controlling rotary machine
+    US20170334437A1                      *,2016-05-19,2017-11-23,Honda Motor Co., Ltd.,Vehicle control system
+    US20180186352A1                      *,2015-06-30,2018-07-05,Hitachi Automotive Systems, Ltd.,Acceleration/deceleration control apparatus
+    US20180237014A1                      *,2017-02-21,2018-08-23,Toyota Jidosha Kabushiki Kaisha,Drive force control system
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (10)
+              
+
+
+citedBy_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20200336439A1                      *,2019-04-19,2020-10-22,Marvell Asia Pte, Ltd.,Control of ethernet link-partner gpio using oam
+    IT201900018362A1                      *,2019-10-10,2021-04-10,Texa Spa,METHOD AND CONTROL SYSTEM FOR AT LEAST TWO ELECTRIC TRACTION MOTORS OF A VEHICLE
+    US10995760B1                      *,2019-10-31,2021-05-04,Commercial Energy Solutions, LLC,Computer-controlled power takeoff driven motorized pump system
+    US20210188036A1                      *,2019-12-20,2021-06-24,Commercial Energy Solutions, LLC,Power takeoff-driven refrigeration
+    US20210387546A1                      *,2018-10-11,2021-12-16,Vitesco Technologies GmbH,Method and back end device for predictively controlling a charging process for an electric energy store of a motor vehicle
+    CN113859150A                      *,2021-09-28,2021-12-31,一汽解放汽车有限公司,Vehicle control system
+    US11273715B1                      *,2018-11-19,2022-03-15,Alan Vordermeier,Charging system for battery powered electric vehicles
+    US20220161809A1                      *,2019-04-01,2022-05-26,Knorr-Bremse Systeme Fuer Nutzfahrzeuge Gmbh,Method and device for controlling at least one actuator of an actuator system
+    US20220250647A1                      *,2020-01-31,2022-08-11,Toyota Jidosha Kabushiki Kaisha,Vehicle, Vehicle Control Interface Box, and Autonomous Driving Vehicle
+    US20230018561A1                      *,2021-07-15,2023-01-19,GM Global Technology Operations LLC,Apparatus and method for energy management for dual energy storage
+    Family To Family Citations,,,,
+
+abstract
+    Systems of an electrical vehicle and the operations thereof are provided. Embodiments include an electric vehicle, rechargeable electric vehicle, and/or hybrid-electric vehicle and associated systems. The electric vehicle includes redundant vehicle control systems that monitor each other to prevent a dangerous reduction or change in torque to the electric motor(s). By monitoring each other, the redundant VCUs can ensure that a failure of the opposite VCU does not endanger the vehicle and may be shut down when the opposite VCU when the VCU's behavior is outside acceptable operating circumstances.
+title
+    Electric vehicle safety concept using distributed vehicle control units
+similar_document
+19
+    Publication,Publication Date,Title
+    US10395440B2,2019-08-27,Battery agnostic provisioning of power
+    US10471838B2,2019-11-12,High voltage fast charge utilizing two charge ports
+    US10274532B1,2019-04-30,Resilient high-voltage interlock loop
+    US11705749B2,2023-07-18,Split battery for autonomous driving
+    US10753761B2,2020-08-25,Universal battery and modular power system
+    US10360020B2,2019-07-23,Virtual machine (VM) approach to embedded system hot update
+    US20180281597A1,2018-10-04,Electric vehicle safety concept using distributed vehicle control units
+    US10059213B2,2018-08-28,Charging devices within wheel portions
+    US10209981B2,2019-02-19,Structure for updating software in remote device
+    US10076960B2,2018-09-18,Wheel assembly with inductive charging for vehicle using regenerative braking
+    US10392853B2,2019-08-27,Powered accessory port closure lid
+    US10775263B2,2020-09-15,Systems and methods for diagnosing seal integrity in a battery
+    US11027650B2,2021-06-08,Method and apparatus for improving operation of a motor vehicle
+    US20180212967A1,2018-07-26,Portable device used to support secure lifecycle of connected devices
+    US10556599B2,2020-02-11,Conditional progressive degradation of electric vehicle power supply system
+    US10363938B2,2019-07-30,Authentication using electromagnet signal detection
+    US11050272B2,2021-06-29,Open line detection during pre-charge
+    US20180201144A1,2018-07-19,Authentication using electromagnet signal detection
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US15/471,822,2017-03-28,2017-03-28,Electric vehicle safety concept using distributed vehicle control units
+
+inventor_number
+    2
+classfication_nums
+    16
+classfication_items
+90
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,8,4
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,/,0,0
+    B,6,0,K,1,/,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,9,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,6,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+6
+    2017-03-28,Application filed by NIO USA Inc
+    2017-03-28,Priority to US15/471,822
+    2017-03-28,Assigned to NextEv USA, Inc.
+    2017-08-18,Assigned to NIO USA, INC.
+    2018-10-04,Publication of US20180281597A1
+    Status,Abandoned
+
+active_area
+0
+
+not_active_area
+1
+    U,S
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US15/471,822,2017-03-28,Electric vehicle safety concept using distributed vehicle control units
+
+legal_event
+11
+    Date,Code,Title,Description
+    2017-03-28,AS,Assignment,Owner name: NEXTEV USA, INC., CALIFORNIAFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:HERB, ROBERT;REEL/FRAME:042107/0988Effective date: 20170327
+    2017-08-18,AS,Assignment,Owner name: NIO USA, INC., CALIFORNIAFree format text: CHANGE OF NAME;ASSIGNOR:NEXTEV USA, INC.;REEL/FRAME:043600/0972Effective date: 20170718
+    2019-03-10,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2019-06-10,STPP,Information on status: patent application and granting procedure in general,Free format text: FINAL REJECTION MAILED
+    2019-08-15,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE AFTER FINAL ACTION FORWARDED TO EXAMINER
+    2019-08-28,STPP,Information on status: patent application and granting procedure in general,Free format text: ADVISORY ACTION MAILED
+    2019-10-03,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2019-11-26,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2020-06-05,STPP,Information on status: patent application and granting procedure in general,Free format text: FINAL REJECTION MAILED
+    2020-12-14,STCB,Information on status: application discontinuation,Free format text: ABANDONED  --  FAILURE TO RESPOND TO AN OFFICE ACTION
+

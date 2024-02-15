@@ -1,0 +1,122 @@
+ID
+    WO2012144663A1
+citation_exist
+    Patent Citations (7)
+citation_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH05130707A                      *,1991-10-31,1993-05-25,Hitachi Ltd,電気車用制御装置
+    JPH0865814A                      *,1994-08-25,1996-03-08,Honda Motor Co Ltd,電気自動車用充電制御装置
+    KR20050036663A                      *,2003-10-16,2005-04-20,한국철도기술연구원,비접촉 급전방식을 이용한 전기 차량 운행 시스템
+    KR20050070734A                      *,2003-12-30,2005-07-07,현대자동차주식회사,전기자동차의 회생제동 제어 방법 및 장치
+    JP2006087299A                      *,2005-11-04,2006-03-30,Toshiba Corp,電気車制御装置
+    KR20060030211A                      *,2004-10-05,2006-04-10,현대자동차주식회사,차량의 회생 제동 제어방법
+    JP2006246700A                      *,2001-12-25,2006-09-14,Toshiba Corp,電力変換装置
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    WO2023283190A1                      *,2021-07-06,2023-01-12,Milwaukee Electric Tool Corporation,Constant power charging of a power tool battery pack
+    Family To Family Citations,,,,
+
+abstract
+    본 발명은 배터리로 충전되는 회생제동 전력과 레귤레이터 충전전력을 회생 제동 기능 on/off를 통해 안정적으로 제어하여 안전성 및 효율성을 높인 비접촉 자기 유도 충전 방식을 갖는 이동체의 충전 전력 분배 제어 방법에 관한 것으로, 급전 선로로부터 자기장의 형태로 공급되는 AC 전류를 입력받아 집전하고 자기유도 에너지를 생성하는 단계; 레귤레이터로부터 전력공급이 있는지 없는지를 판단하는 단계; 레귤레이터로부터 전력공급이 있는 경우에는 회생제동 기능을 off하고 집전된 자기유도 에너지를 구동모터로 공급하여 배터리 충전을 하는 단계; 레귤레이터로부터 전력공급이 없는 경우에는 회생제동 기능을 on하고 회생 제동 에너지를 공급하여 배터리 충전을 하는 단계를 포함한다.
+title
+    충전 전력 분배 제어 방법
+similar_document
+26
+    Publication,Publication Date,Title
+    WO2012018206A2,2012-02-09,전기자동차의 배터리 제어장치 및 그 제어방법
+    WO2012018204A2,2012-02-09,전기자동차 및 그 배터리의 충전제어방법
+    WO2012018205A2,2012-02-09,전기자동차 및 그 보조배터리의 충전제어방법
+    WO2011083993A2,2011-07-14,배터리 제어 장치 및 방법
+    WO2013089516A1,2013-06-20,전기자동차 및 그 제어방법
+    WO2015083898A1,2015-06-11,에너지 저장시스템을 겸비한 전기자동차용 배터리팩 교체시스템
+    WO2015088084A1,2015-06-18,전기차량에서 외부 차량과 상호 전력 공급을 수행하는 방법 및 장치
+    WO2014030839A1,2014-02-27,릴레이 제어 시스템 및 그 제어 방법
+    WO2015016600A1,2015-02-05,배터리 제어 장치 및 방법
+    WO2011152639A2,2011-12-08,배터리 팩 그리고 배터리 팩의 충전 방법
+    WO2012005553A2,2012-01-12,전기자동차, 충전스탠드 및 그 충전방법
+    WO2013042988A2,2013-03-28,배터리 충전 시스템 및 이를 이용한 충전 방법
+    WO2015126035A1,2015-08-27,전압 측정을 통한 배터리 랙 파손 방지 장치, 시스템 및 방법
+    WO2016017963A1,2016-02-04,전기 자동차의 급속 충전 제어 장치
+    WO2018186528A1,2018-10-11,컨버터 분리형 전기차 충전 시스템 및 전주에 설치된 전기차 충전 장치
+    WO2018105874A1,2018-06-14,배터리 팩 충전 시스템
+    WO2012138173A2,2012-10-11,전기자동차 및 그 속도제어방법
+    WO2019225794A1,2019-11-28,전기차 과전압 방지 기능을 갖는 비접촉 수전장치, 충전 시스템 및 그 제어 방법
+    WO2013089517A1,2013-06-20,전기자동차 및 그 제어방법
+    WO2018101702A1,2018-06-07,차량간 충전이 가능한 전기 자동차용 충전 시스템
+    WO2018186527A1,2018-10-11,배전선로에 연계된 변압기의 부하량에 기초한 전주에 설치된 전기차 충전 장치, 전기차 충전 시스템 및 전주에 설치된 전기차 충전 장치 제어 방법
+    WO2020071682A1,2020-04-09,Bms 간 통신 시스템 및 방법
+    WO2018190464A1,2018-10-18,충전케이블 연장 길이를 제어하는 전주에 설치된 전기차 충전 장치 및 전주에 설치된 전기차 충전 장치 제어 방법
+    WO2019164198A1,2019-08-29,보조 에너지 저장 장치를 이용한 방전 차량 점프 스타트 시스템
+    WO2012141344A1,2012-10-18,회생제동 제어 방법
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    PCT/KR2011/002767,2011-04-19,2011-04-19,충전 전력 분배 제어 방법
+
+inventor_number
+    13
+classfication_nums
+    3
+classfication_items
+18
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+
+application_events
+3
+    2011-04-19,Application filed by 한국과학기술원
+    2011-04-19,Priority to PCT/KR2011/002767
+    2012-10-26,Publication of WO2012144663A1
+
+active_area
+1
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/KR2011/002767,2011-04-19,충전 전력 분배 제어 방법
+
+legal_event
+4
+    Date,Code,Title,Description
+    2012-12-12,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 11863828Country of ref document: EPKind code of ref document: A1
+    2013-10-21,NENP,Non-entry into the national phase,Ref country code: DE
+    2014-05-21,122,Ep: pct application non-entry in european phase,Ref document number: 11863828Country of ref document: EPKind code of ref document: A1
+

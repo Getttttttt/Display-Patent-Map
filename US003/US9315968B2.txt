@@ -1,0 +1,237 @@
+ID
+    US9315968B2
+citation_exist
+    Patent Citations (11)
+citation_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    US6349543B1,1998-06-30,2002-02-26,Robert Moshe Lisniansky,Regenerative adaptive fluid motor control
+    EP1319763A1,2001-12-13,2003-06-18,Komatsu Ltd.,Work vehicle with turning upper structure
+    WO2010090555A1,2009-02-03,2010-08-12,Volvo Construction Equipment Ab,Swing system and construction machinery or vehicle comprising a swing system
+    US20110020146A1,2008-03-31,2011-01-27,Teruo Akiyama,Rotation drive controlling system for construction machine
+    US7905089B2,2007-09-13,2011-03-15,Caterpillar Inc.,Actuator control system implementing adaptive flow control
+    US7908852B2,2008-02-28,2011-03-22,Caterpillar Inc.,Control system for recovering swing motor kinetic energy
+    EP2341191A1,2009-12-30,2011-07-06,Volvo Construction Equipment Holding Sweden AB,Swing motor control method in open center type hydraulic system for excavator
+    US20120090309A1,2009-06-02,2012-04-19,Doosan Infracore Co., Ltd.,Swing Control Apparatus and Swing Control Method for Construction Machinery
+    US8269360B2,2006-01-17,2012-09-18,Uusi, Llc,Electronic control for a hydraulically driven auxiliary power source
+    US20120240566A1,2009-11-10,2012-09-27,Kawasaki Jukogyo Kabushiki Kaisha,Hydraulic controller
+    US20130139678A1,2010-08-27,2013-06-06,Hitachi Construction Machinery Co., Ltd.,Hydraulic drive system for hydraulic working machine
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (5)
+              
+
+
+citedBy_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20160186406A1                      *,2013-08-22,2016-06-30,Yanmar Co., Ltd.,Industrial vehicle
+    US11519502B2,2017-09-22,2022-12-06,Caterpillar Inc.,Hydraulic control system and method
+    Family To Family Citations,,,,
+    JP6732539B2                      *,2016-05-26,2020-07-29,日立建機株式会社,Work machine
+    JP7069620B2                      *,2017-09-29,2022-05-18,コベルコ建機株式会社,Hydraulic system
+    CN112943751B                      *,2021-02-02,2023-08-15,上海三一重机股份有限公司,Auxiliary job control method, device, electronic equipment and storage medium
+
+abstract
+    A hydraulic control system for a machine is disclosed. The hydraulic control system includes a pump configured to pressurize a fluid, and a swing motor selectively driven by pressurized fluid from the pump. The swing motor is configured to move a part of the machine. The hydraulic control system also includes a controller in communication with the pump. The controller is configured to receive an input indicative of a difference between a desired speed and an actual speed of the swing motor, and determine if the swing motor is accelerating, decelerating, or operating at neutral mode. The controller is configured to determine an amount of return fluid from an actuator of the machine that is available as makeup fluid for the swing motor if the swing motor is operating at neutral mode. The controller is configured to control the pump based on at least the amount of return fluid.
+title
+    Hydraulic control system for machine
+similar_document
+20
+    Publication,Publication Date,Title
+    US9897120B2,2018-02-20,Hydraulic system having energy recovery
+    US8850806B2,2014-10-07,Hydraulic control system having swing motor energy recovery
+    US8776511B2,2014-07-15,Energy recovery system having accumulator and variable relief
+    US8919113B2,2014-12-30,Hydraulic control system having energy recovery kit
+    US9086081B2,2015-07-21,Hydraulic control system having swing motor recovery
+    US9139982B2,2015-09-22,Hydraulic control system having swing energy recovery
+    US20140208728A1,2014-07-31,Method and Hydraulic Control System Having Swing Motor Energy Recovery
+    US9556591B2,2017-01-31,Hydraulic system recovering swing kinetic and boom potential energy
+    US20140174069A1,2014-06-26,Hydraulic control system having swing motor energy recovery
+    US20140060018A1,2014-03-06,Hydraulic control system
+    US9951795B2,2018-04-24,Integration of swing energy recovery and engine anti-idling systems
+    US9315968B2,2016-04-19,Hydraulic control system for machine
+    US9388828B2,2016-07-12,Hydraulic control system having swing motor energy recovery
+    US20150047331A1,2015-02-19,Hydraulic system for machine
+    US9328744B2,2016-05-03,Hydraulic control system having swing energy recovery
+    US9388829B2,2016-07-12,Hydraulic control system having swing motor energy recovery
+    US9187878B2,2015-11-17,Hydraulic control system having swing oscillation dampening
+    US20140174065A1,2014-06-26,Hydraulic control system for swing motor
+    US20140174064A1,2014-06-26,Hydraulic control system for swing motor
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    US14/028,618,2013-09-17,2013-09-17,Hydraulic control system for machine
+    PCT/US2014/052980,2013-09-17,2014-08-27,Hydraulic control system for machine
+
+inventor_number
+    3
+classfication_nums
+    16
+classfication_items
+120
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,0,8
+    E,0,2,F,9,/,1,0
+    E,0,2,F,9,/,1,2
+    E,0,2,F,9,/,1,2,1
+    E,0,2,F,9,/,1,2,3
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,3,/,0,0
+    E,0,2,F,3,/,0,4
+    E,0,2,F,3,/,2,8
+    E,0,2,F,3,/,3,6
+    E,0,2,F,3,/,4,2
+    E,0,2,F,3,/,4,3
+    E,0,2,F,3,/,4,3,5
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,1,7
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,2,1
+    E,0,2,F,9,/,2,2,3,2
+    E,0,2,F,9,/,2,2,3,5
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,7,8
+    E,0,2,F,9,/,2,2,9,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,/,0,0
+    F,1,5,B,1,/,0,2
+    F,1,5,B,1,/,0,2,4
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,1,/,0,0
+    F,1,5,B,2,1,/,1,4
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,1,/,0,0
+    F,1,5,B,2,1,/,0,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,3
+    F,1,5,B,2,2,1,1,/,2,0,5,4,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,1
+    F,1,5,B,2,2,1,1,/,2,1,2
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,3,0
+    F,1,5,B,2,2,1,1,/,3,0,5
+    F,1,5,B,2,2,1,1,/,3,0,5,6
+    F,1,5,B,2,2,1,1,/,3,0,5,6,5
+    F,1,5,B,2,2,1,1,/,3,0,5,7,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,0,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,0,6
+    F,1,5,B,2,2,1,1,/,6,3,1,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,6,5
+    F,1,5,B,2,2,1,1,/,6,6,5,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,0,5
+    F,1,5,B,2,2,1,1,/,7,0,5,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,8,0
+    F,1,5,B,2,2,1,1,/,8,8
+
+application_events
+9
+    2013-09-17,Application filed by Caterpillar Inc
+    2013-09-17,Priority to US14/028,618
+    2013-09-17,Assigned to CATERPILLAR INC.
+    2014-08-27,Priority to PCT/US2014/052980
+    2015-03-19,Publication of US20150075147A1
+    2016-04-19,Application granted
+    2016-04-19,Publication of US9315968B2
+    Status,Expired - Fee Related
+    2034-10-18,Adjusted expiration
+
+active_area
+1
+    W,O
+
+not_active_area
+1
+    U,S
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US14/028,618,2013-09-17,Hydraulic control system for machine
+
+legal_event
+7
+    Date,Code,Title,Description
+    2013-09-17,AS,Assignment,Owner name: CATERPILLAR INC., ILLINOISFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:SHANG, TONGLIN;CHEN, DAYAO;REEL/FRAME:031218/0913Effective date: 20130911
+    2016-03-30,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2019-12-09,FEPP,Fee payment procedure,Free format text: MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2020-05-25,LAPS,Lapse for failure to pay maintenance fees,Free format text: PATENT EXPIRED FOR FAILURE TO PAY MAINTENANCE FEES (ORIGINAL EVENT CODE: EXP.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2020-05-25,STCH,Information on status: patent discontinuation,Free format text: PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362
+    2020-06-16,FP,Lapsed due to failure to pay maintenance fee,Effective date: 20200419
+

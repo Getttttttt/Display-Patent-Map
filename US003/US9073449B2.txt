@@ -1,0 +1,256 @@
+ID
+    US9073449B2
+citation_exist
+    Patent Citations (19)
+citation_infor
+21
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH05168109A,1991-12-12,1993-07-02,Toyota Motor Corp,Automatic speed change controller for electric automobile
+    JPH06284788A,1993-03-25,1994-10-07,Toyota Motor Corp,Motor control apparatus
+    JPH0739018A,1993-07-16,1995-02-07,Nissan Motor Co Ltd,Motive-power controller of motor-driven vehicle
+    JPH0746721A,1993-08-03,1995-02-14,Nissan Motor Co Ltd,Method and apparatus for controlling motor for electric vehicle
+    JP2000092613A,1998-09-08,2000-03-31,Hitachi Ltd,Vehicle control method
+    JP2000333304A,1999-05-18,2000-11-30,Toyota Motor Corp,Power outputting device and control method therefor, and hybrid vehicle
+    JP2001231102A,2000-02-16,2001-08-24,Mitsubishi Motors Corp,Motor efficiency indicating device for electric vehicle
+    JP2006256609A,2000-05-22,2006-09-28,Suzuki Motor Corp,Battery residual capacity estimation device
+    JP2006345677A,2005-06-10,2006-12-21,Denso Corp,Vehicle drive unit by motor
+    JP2008128074A,2006-11-20,2008-06-05,Toyota Motor Corp,Internal combustion engine device and control method thereof, and vehicle
+    US20090119064A1                      *,2007-11-07,2009-05-07,Dell Products L.P.,Systems and Methods for Efficient Utilization of Power Sources In a Redundant Configuration
+    US20100076657A1                      *,2006-12-19,2010-03-25,Toyota Jidosha Kabushiki Kaisha,Vehicle and control method thereof
+    JP2010143491A,2008-12-19,2010-07-01,Toyota Motor Corp,Controller for vehicular power transmission device
+    JP2010213429A,2009-03-10,2010-09-24,Hitachi Ltd,Rotary electric machine
+    JP2011001822A,2009-06-16,2011-01-06,Hitachi Automotive Systems Ltd,Electrically controlled throttle characteristic learning control device and method therefor
+    US20110172865A1                      *,2010-06-10,2011-07-14,Ford Global Technologies, Llc,Method For Optimizing Powertrain Efficiency For A Vehicle
+    US20110301793A1                      *,2010-06-08,2011-12-08,Industrial Technology Research Institute,Method and system for controlling hydraulic apparatus for continuously variable transmission of hybrid vehicle system
+    US20120325573A1                      *,2010-03-02,2012-12-27,International Truck Intellectual Property Company, Llc,Regenerative brake system reset feature and adaptive calibration for hybrid and electric vehicles
+    Family To Family Citations,,,,
+    GB2472297B                      *,2010-07-19,2014-04-23,Protean Electric Ltd,Electric motor
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (3)
+              
+
+
+citedBy_exist
+    
+              Cited By (16)
+              
+
+
+citedBy_infor
+18
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    FR3025755B1                      *,2014-09-11,2016-09-02,Renault Sa,METHOD FOR LIMITING THE MOTOR TORQUE OF AN ELECTRIC MOTOR AND CORRESPONDING DEVICE
+    US10173664B2                      *,2015-09-12,2019-01-08,GM Global Technology Operations LLC,Expanding regenerative capacity up to vehicle dynamic limits through integration with mitigative subsystems
+    CN106515719B                      *,2015-09-13,2019-07-19,通用汽车环球科技运作有限责任公司,By with subtract malaria system combination power of regeneration expanded into up to vehicle dynamic limit
+    US9802617B1                      *,2016-05-12,2017-10-31,Nissan North America, Inc.,Vehicle accessory power management assembly
+    CN106828191A                      *,2017-02-15,2017-06-13,精进电动科技股份有限公司,The asymmetric power allocative efficiency optimization method of bi-motor and system
+    US11639114B2                      *,2017-07-21,2023-05-02,Proterra Operating Company, Inc.,Efficiency optimization of multi-motor electric vehicles
+    DE102018202182A1                      *,2018-02-13,2019-08-14,Volkswagen Aktiengesellschaft,Method for determining a load distribution, control, powertrain and motor vehicle
+    CN108482185B                      *,2018-03-05,2021-05-04,东南大学,Electric automobile energy management and driving method based on dynamic planning algorithm
+    KR20200123841A                      *,2018-03-19,2020-10-30,툴라 이테크놀로지 아이엔씨.,Pulse electromechanical control
+    US11623529B2,2018-03-19,2023-04-11,Tula eTechnology, Inc.,Pulse modulated control with field weakening for improved motor efficiency
+    US11628730B2,2021-01-26,2023-04-18,Tula eTechnology, Inc.,Pulsed electric machine control
+    US11637513B2,2021-03-15,2023-04-25,Tula eTechnology, Inc.,Methods of optimizing waveforms for electric motors
+    WO2022265986A1,2021-06-14,2022-12-22,Tula eTechnology, Inc.,Electric machines with efficient torque transitions
+    US11557996B1,2021-07-08,2023-01-17,Tula eTechnology, Inc.,Methods of reducing vibrations for electric motors
+    US11345241B1,2021-08-12,2022-05-31,Tula eTechnology, Inc.,Method of optimizing system efficiency for battery powered electric motors
+    US11637466B1,2021-10-18,2023-04-25,Tula Etechnology Inc.,Mechanical and electromechanical arrangements for field-weakening of an electric machine that utilizes permanent magnets
+
+abstract
+    An efficiency map generating apparatus (100) generates an efficiency map of motors (M) connected to drive wheels of a mobile body and includes an instructed torque detecting unit (111) that detects an instructed torque input for the multiple motors (M), a torque distributing unit (112) that distributes torque to each of the multiple motors (M) based on the instructed torque, a power consumption detecting unit (113) that detects power consumption of the motors (M), a rotation count detecting unit (103) that detects the rotation counts of the motors (M), and an efficiency map generating unit (114) that generates a motor efficiency map (115) based on the torque in multiple combinations, the power consumption, and the rotation counts, where the torque distributing unit (112) causes any of the multiple motors (M) to generate regenerative torque.
+title
+    Efficiency map generating apparatus, efficiency map generating method, and program
+similar_document
+24
+    Publication,Publication Date,Title
+    US9073449B2,2015-07-07,Efficiency map generating apparatus, efficiency map generating method, and program
+    US9045057B2,2015-06-02,Efficiency map generating apparatus, efficiency map generating method, and program
+    JP4965751B1,2012-07-04,Torque distribution device, torque distribution method, torque distribution value generation method, and program
+    JP5096636B1,2012-12-12,Torque distribution device, torque distribution method, torque distribution value generation method, and program
+    JP5096637B1,2012-12-12,Torque distribution device, torque distribution method, torque distribution value generation method, and program
+    JP2012228163A,2012-11-15,Torque distribution device and torque distribution method
+    CN104773176A,2015-07-15,Method for determining the mass or weight of an electric vehicle or an electric hybrid vehicle, device and vehicle
+    CN105377622A,2016-03-02,Slip control device for electric vehicle
+    US6958587B1,2005-10-25,Torque distribution for multiple propulsion system vehicles
+    Li et al.,2012,In-wheel motor electric ground vehicle energy management strategy for maximizing the travel distance
+    JP5055992B2,2012-10-24,Hybrid vehicle driving force control device
+    WO2012066662A1,2012-05-24,Display system for electric vehicle and electric vehicle provided therewith
+    JP2012191831A,2012-10-04,Device and method for generating efficiency map
+    JP2012191832A,2012-10-04,Device and method for generating efficiency map
+    JP2012171616A,2012-09-10,Torque distributor and method of distributing torque
+    JP5096623B2,2012-12-12,Torque distribution device and torque distribution method
+    JP2012175904A,2012-09-10,Torque distribution device and torque distribution method
+    Fujimoto et al.,2012,Advanced safety range extension control system for electric vehicle with front-and rear-active steering and left-and right-force distribution
+    Mauri et al.,2013,Design and realization of high efficiency fun-to-drive urban LEV
+    Biernat et al.,2013,Powertrain system with the ultracapacitor-based auxiliary energy storage for an urban battery electric vehicle
+    Ponzano,2022,Hybrid car regenerative braking system reverse engineering and modelling from track testing analysis
+    Meis et al.,2014,Development, Parameterization and Verification of a Series Hybrid Vehicle Model to investigate Energy Management Strategies
+    JP2011205889A,2011-10-13,Electric vehicle drive-force control device
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    7
+classfication_nums
+    22
+classfication_items
+119
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,2
+    B,6,0,L,1,5,/,0,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,3,/,0,0
+    H,0,2,P,2,3,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,8
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,5,/,0,0
+    H,0,2,P,5,/,7,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,3
+    Y,0,2,T,1,0,/,6,4,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,8,3
+
+application_events
+7
+    2011-03-10,Application filed by Pioneer Corp
+    2013-10-04,Assigned to PIONEER CORPORATION
+    2014-01-16,Publication of US20140018988A1
+    2015-07-07,Application granted
+    2015-07-07,Publication of US9073449B2
+    Status,Active
+    2031-03-10,Anticipated expiration
+
+active_area
+3
+    J,P
+    W,O
+    U,S
+
+not_active_area
+1
+    E,P
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2011/055664,2011-03-10,Efficiency map generation device, efficiency map generation method, and program
+
+legal_event
+6
+    Date,Code,Title,Description
+    2013-10-04,AS,Assignment,Owner name: PIONEER CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:KITANO, KAZUTOSHI;KATO, MASAHIRO;TAKEUCHI, YOSHIKAZU;AND OTHERS;SIGNING DATES FROM 20130905 TO 20130912;REEL/FRAME:031344/0306
+    2015-06-17,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2015-12-04,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2018-12-28,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+    2022-12-21,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+

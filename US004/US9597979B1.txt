@@ -1,0 +1,366 @@
+ID
+    US9597979B1
+citation_exist
+    Patent Citations (7)
+citation_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20160052505A1                      *,2014-08-19,2016-02-25,General Electric Company,Vehicle propulsion system having an energy storage system and optimized method of controlling operation thereof
+    Family To Family Citations,,,,
+    JP2008092761A                      *,2006-10-05,2008-04-17,Chugoku Electric Power Co Inc:The,Power supply for motor drive
+    JP2013517174A                      *,2010-01-13,2013-05-16,フィスカー  オートモーティブ  インコーポレイテッド,System and method for controlling direct electrical connection and coupling in a vehicle drive system
+    JP5764311B2                      *,2010-10-27,2015-08-19,ヤンマー株式会社,Power transmission device
+    US20140121867A1                      *,2012-11-01,2014-05-01,GM Global Technology Operations LLC,Method of controlling a hybrid powertrain with multiple electric motors to reduce electrical power losses and hybrid powertrain configured for same
+    KR101526402B1                      *,2013-10-18,2015-06-05,현대자동차 주식회사,Method and system for controlling fuel cell vehicle
+    JP5987846B2                      *,2014-01-27,2016-09-07,トヨタ自動車株式会社,Hybrid vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (8)
+              
+
+
+citedBy_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    US10436167B1                      *,2018-04-24,2019-10-08,GM Global Technology Operations LLC,Starter system and method of control
+    CN110831800A                      *,2017-07-26,2020-02-21,标致雪铁龙汽车股份有限公司,Method for controlling an alternator for charging an on-board network battery for a hybrid vehicle
+    US10605217B2,2017-03-07,2020-03-31,GM Global Technology Operations LLC,Vehicle engine starter control systems and methods
+    CN113071472A                      *,2020-01-06,2021-07-06,通用汽车环球科技运作有限责任公司,Engine start/stop control for hybrid electric powertrain
+    AU2020260383B2                      *,2018-07-31,2022-03-03,Transportation Ip Holdings, Llc,Vehicle propulsion system
+    US20220144241A1                      *,2020-11-12,2022-05-12,Ford Global Technologies, Llc,Engine start control system for a hybrid vehicle
+    US20220212653A1                      *,2021-01-04,2022-07-07,Ford Global Technologies, Llc,Method and system for controlling vehicle engine pull-down
+    Family To Family Citations,,,,
+    CN112964985B                      *,2021-02-24,2022-05-10,重庆长安新能源汽车科技有限公司,Combined test system and method for electric drive system and power battery system
+
+abstract
+    A method of controlling a powertrain of a hybrid vehicle includes comparing an operating efficiency of a motor-generator-inverter to an upper MGI efficiency threshold when a boost operating mode is selected. When the operating efficiency of the motor-generator-inverter is equal to or greater than the upper MGI efficiency threshold, the motor-generator-inverter is controlled to operate in the boost operating mode. The operating efficiency of the motor-generator-inverter is compared to a lower MGI efficiency threshold when a regenerative operating mode is selected. When the operating efficiency of the motor-generator-inverter is equal to or greater than the lower MGI efficiency threshold, the motor-generator-inverter is controlled to operate in the regenerative operating mode.
+title
+    Method of controlling regeneration and boost functions of a hybrid powertrain
+similar_document
+26
+    Publication,Publication Date,Title
+    US9597979B1,2017-03-21,Method of controlling regeneration and boost functions of a hybrid powertrain
+    JP4991555B2,2012-08-01,Hybrid vehicle and operation control method of hybrid vehicle
+    US8020650B2,2011-09-20,Control of a starter-alternator during a high-voltage battery fault condition
+    US8659182B2,2014-02-25,Power supply system and electric powered vehicle including power supply system, and method for controlling power supply system
+    US9522600B2,2016-12-20,Motor generator unit with multiplexed output
+    US8606447B2,2013-12-10,Method and apparatus to operate a powertrain system including an electric machine having a disconnected high-voltage battery
+    JP2019112063A,2019-07-11,Vehicle propulsion system with multi-channel dc bus and method of manufacturing the same
+    JP6659203B2,2020-03-04,System for transferring energy from an energy source and method of manufacturing the same
+    US8497591B2,2013-07-30,System and method for off-highway vehicle engine cranking
+    EP2322376A2,2011-05-18,Apparatus for driving motor of electric vehicle
+    US20150258946A1,2015-09-17,Split-rail vehicle power architecture
+    JP5653534B2,2015-01-14,Control device for electric vehicle
+    US20100225258A1,2010-09-09,Control of an alternator-starter for a hybrid electric vehicle having a disconnected high-voltage battery
+    US9649945B2,2017-05-16,Vehicle and method of controlling the vehicle
+    US10124794B2,2018-11-13,Vehicle and control method therefor
+    KR20170071657A,2017-06-26,Power control system for hybrid vehicle
+    US10483841B2,2019-11-19,Motor vehicle
+    JP6744350B2,2020-08-19,vehicle
+    JP5533716B2,2014-06-25,Vehicle power generation control system
+    US10661677B2,2020-05-26,Electrical power system for hybrid or electric vehicle
+    US20200162005A1,2020-05-21,Partial-load phase deactivation of polyphase electric machine
+    KR101507863B1,2015-04-07,Driving apparatus for electric vehicle
+    US8939244B2,2015-01-27,Vehicle
+    US20180134277A1,2018-05-17,Hybrid vehicle
+    CN112334374B,2023-07-28,Drive control device and railway vehicle drive device
+
+patent_application
+    NoExist
+patent_priority_application
+4
+    Application,Priority date,Filing date,Title
+    US15/097,439,2016-04-13,2016-04-13,Method of controlling regeneration and boost functions of a hybrid powertrain
+    CN201710203332.3A,2016-04-13,2017-03-30,The method for controlling the regeneration and boost function of hybrid power system
+    DE102017107742.1A,2016-04-13,2017-04-10,METHOD FOR CONTROLLING THE REGENERATION AND BOOST FUNCTIONS OF A HYBRID DRIVE
+
+inventor_number
+    6
+classfication_nums
+    38
+classfication_items
+244
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,4,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,2,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,3,8
+    B,6,0,K,6,/,3,8,7
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B,6,0,K,6,/,4,8,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B,6,0,W,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,5
+    B,6,0,W,2,0,/,1,9
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,8
+    B,6,0,W,2,5,1,0,/,0,8,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,1,0
+    Y,0,2,T,1,0,/,4,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,0,4
+    Y,1,0,S,9,0,3,/,9,0,6
+
+application_events
+9
+    2016-04-13,Application filed by GM Global Technology Operations LLC
+    2016-04-13,Priority to US15/097,439
+    2016-04-13,Assigned to GM Global Technology Operations LLC
+    2017-03-21,Application granted
+    2017-03-21,Publication of US9597979B1
+    2017-03-30,Priority to CN201710203332.3A
+    2017-04-10,Priority to DE102017107742.1A
+    Status,Active
+    2036-04-13,Anticipated expiration
+
+active_area
+3
+    U,S
+    C,N
+    D,E
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US15/097,439,2016-04-13,Method of controlling regeneration and boost functions of a hybrid powertrain
+
+legal_event
+5
+    Date,Code,Title,Description
+    2016-04-13,AS,Assignment,Owner name: GM GLOBAL TECHNOLOGY OPERATIONS LLC, MICHIGANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:HAO, LEI;ATLURI, VENKATA PRASAD;GOPALAKRISHNAN, SURESH;AND OTHERS;SIGNING DATES FROM 20160406 TO 20160411;REEL/FRAME:038269/0978
+    2016-12-02,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2017-03-01,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2020-09-10,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

@@ -1,0 +1,213 @@
+ID
+    US20120175200A1
+citation_exist
+    Patent Citations (14)
+citation_infor
+16
+    Publication number,Priority date,Publication date,Assignee,Title
+    US4778223A                      *,1985-11-14,1988-10-18,Toyota Jidosha Kabushiki Kaisha,Anti-skid braking system for automotive vehicle
+    US5378053A                      *,1993-12-07,1995-01-03,Alliedsignal Inc.,Maximized regenerative braking vehicle braking controller
+    US5915801A                      *,1995-07-18,1999-06-29,Toyota Jidosha Kabushiki Kaisha,Regenerative brake controller for controlling value of regenerative braking torque simulating engine braking torque
+    US6405117B1                      *,2001-06-21,2002-06-11,General Motors Corporation,Method of diagnosing a vehicle brake system using brake pedal position and vehicle deceleration
+    US6490518B1                      *,2001-06-29,2002-12-03,General Motors Corporation,Anti-lock brake control method having adaptive exit criteria
+    US6728621B1                      *,2002-10-04,2004-04-27,General Motors Corporation,Anti-lock braking system controller for adjusting slip thresholds on inclines
+    US7293843B2                      *,2003-04-21,2007-11-13,Toyota Jidosha Kabushiki Kaisha,Braking system for vehicle
+    US7474947B2                      *,2004-04-06,2009-01-06,Honda Motor Co., Ltd.,Vehicle customizing system
+    US7868750B2                      *,2008-02-06,2011-01-11,Ford Global Technologies, Llc,System and method for controlling a safety restraint status based on driver status
+    US8029072B2                      *,2006-01-11,2011-10-04,Toyota Jidosha Kabushiki Kaisha,Brake control system and brake control method
+    US20120133202A1                      *,2010-11-29,2012-05-31,Gm Global Technology Operations, Inc.,Dynamic regenerative braking torque control
+    US8237554B2                      *,2008-06-13,2012-08-07,Ford Global Technologies, Llc,System and method for programming keys to vehicle to establish primary and secondary drivers
+    US8251463B2                      *,2002-03-28,2012-08-28,Ford Global Technologies,Vehicle regenerative braking system with system monitor and redundant control capability
+    US8434830B2                      *,2008-02-01,2013-05-07,Advics Co., Ltd.,Brake control apparatus
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (9)
+              
+
+
+citedBy_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20140067222A1                      *,2012-09-04,2014-03-06,Mando Corporation,Control apparatus and method for brake
+    US20140158448A1                      *,2012-12-08,2014-06-12,John Phillip McCormick,Parallel regeneration brake torque modulation system and method
+    CN104143011A                      *,2013-05-09,2014-11-12,广州汽车集团股份有限公司,Braking system matching analysis method and system
+    US9096216B1                      *,2014-03-06,2015-08-04,Ford Global Technologies, Llc,Vehicle and method of operation providing brake pedal activated downshifts
+    US9676280B2                      *,2015-06-09,2017-06-13,Caterpillar Inc.,Braking management in a dual braking system
+    US10427681B2                      *,2017-08-28,2019-10-01,Bendix Commercial Vehicle Systems Llc,Method and apparatus to control vehicle deceleration during adaptive cruise control
+    CN110546028A                      *,2017-02-03,2019-12-06,宾利汽车有限公司,Regenerative braking system
+    US20190389468A1                      *,2018-06-21,2019-12-26,Deere & Company,Enhanced braking method and apparatus for hybrid machine
+    DE102015221483B4,2014-11-07,2021-08-26,Honda Motor Co., Ltd.,Vehicle brake control device
+    Family To Family Citations,,,,
+
+abstract
+    A system is provided for customized vehicle deceleration. The system includes a braking system and a brake pedal position sensor that transmits a brake pedal position signal. A user interface is configured for transmitting a profile selection signal in response to a user input. A controller is configured for receiving the brake pedal position signal, the profile selection signal and an available torque signal, the available torque signal being indicative of a braking system torque capability. The controller analyzes the profile selection signal, to select a brake profile from pre-existing data. The controller compares the brake pedal position signal to the brake profile to determine a deceleration value. The controller compares the deceleration value to the available torque signal to determine a torque command. The controller transmits a torque command signal to the braking system for initiating braking.
+title
+    Customized Vehicle Deceleration
+similar_document
+26
+    Publication,Publication Date,Title
+    US20120175200A1,2012-07-12,Customized Vehicle Deceleration
+    CN101804809B,2013-07-31,Apparatus and method for determining driveline lash estimate
+    EP1979185B1,2017-01-04,Vehicle, control method thereof and braking device
+    EP1851082B1,2011-05-18,Power output device, control method for the same and vehicle equipped therewith
+    US10611262B2,2020-04-07,Adaptive cruise control system
+    US20110304198A1,2011-12-15,Method for controlling regenerative and hydraulic braking
+    US10479211B2,2019-11-19,Regenerative braking apparatus for vehicle and method using the same
+    CN106965798A,2017-07-21,Controller of vehicle
+    US20210122371A1,2021-04-29,Regenerative Braking Control System and Method of AWD Hybrid Vehicle
+    JP5405655B2,2014-02-05,Brake booster system for vehicle brake system and method for operation of vehicle brake system
+    US20170361834A1,2017-12-21,System for mitigating vehicle sway
+    CN104340216A,2015-02-11,Methods and systems for reducing the speed of vehicle
+    US9371903B2,2016-06-21,Method for shifting a shift-by-wire transmission without engine power
+    KR20140112448A,2014-09-23,Phasing of traction control based on vehicle speed and road slope
+    CN111661035A,2020-09-15,Automatic parking control method and device and vehicle
+    KR101500376B1,2015-03-18,Method and system for displaying efficiency of regenerative braking for environmentally-friendly vehicle
+    US8315763B2,2012-11-20,Control apparatus for vehicle
+    KR20140083398A,2014-07-04,Method of regenerative brake cooperation control
+    US20200265654A1,2020-08-20,Vehicle distance-to-empty prediction system
+    US20180058575A1,2018-03-01,Shift-by-wire control of vehicle transmission
+    US20210122250A1,2021-04-29,Control apparatus for vehicle
+    EP3085592B1,2017-08-30,Driver assistance during tailbacks or slow traffic
+    US10969011B2,2021-04-06,Method and system for disengaging parking pawl in hybrid transmission
+    US11110939B2,2021-09-07,Systems and methods for providing active driver feedback during electrified vehicle operation
+    CN115402279B,2023-09-19,Vehicle-based algorithm for finding optimal gain for trailer braking
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US12/987,612,2011-01-10,2011-01-10,Customized Vehicle Deceleration
+
+inventor_number
+    4
+classfication_nums
+    15
+classfication_items
+93
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,4
+    B,6,0,K,6,/,4,4,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,0,2
+    B,6,0,T,7,/,0,4
+    B,6,0,T,7,/,0,4,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B,6,0,W,1,0,/,1,8,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,2,0,/,0,0
+    B,6,0,T,2,2,2,0,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,8,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,1,4
+    B,6,0,W,2,0,5,0,/,1,4,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+
+application_events
+5
+    2011-01-10,Application filed by Ford Global Technologies LLC
+    2011-01-10,Priority to US12/987,612
+    2011-01-10,Assigned to FORD GLOBAL TECHNOLOGIES, LLC
+    2012-07-12,Publication of US20120175200A1
+    Status,Abandoned
+
+active_area
+0
+
+not_active_area
+1
+    U,S
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US12/987,612,2011-01-10,Customized Vehicle Deceleration
+
+legal_event
+3
+    Date,Code,Title,Description
+    2011-01-10,AS,Assignment,Owner name: FORD GLOBAL TECHNOLOGIES, LLC, MICHIGANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:SAGAN, CLEMENT NEWMAN;MCCORMICK, JOHN PHILLIP;SCHEUING, ELIZABETH ANN;SIGNING DATES FROM 20110103 TO 20110106;REEL/FRAME:025611/0246
+    2014-12-05,STCB,Information on status: application discontinuation,Free format text: ABANDONED  --  FAILURE TO RESPOND TO AN OFFICE ACTION
+

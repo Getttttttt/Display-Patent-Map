@@ -1,0 +1,197 @@
+ID
+    WO2019229999A1
+citation_exist
+    Patent Citations (7)
+citation_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2006074841A,2004-08-31,2006-03-16,Matsushita Electric Ind Co Ltd,洗濯機のモータ制御装置
+    JP2009220791A                      *,2008-03-18,2009-10-01,Toyota Motor Corp,車両およびその制御方法
+    JP2016063597A                      *,2014-09-17,2016-04-25,ダイムラー・アクチェンゲゼルシャフトＤａｉｍｌｅｒ ＡＧ,駆動制御装置
+    JP2018085844A                      *,2016-11-24,2018-05-31,三菱自動車工業株式会社,キャリブレーション装置
+    Family To Family Citations,,,,
+    JP2016076429A                      *,2014-10-08,2016-05-12,旭硝子株式会社,伸縮電線
+    CN110098779A                      *,2014-11-14,2019-08-06,爱信艾达株式会社,逆变器控制装置
+    CN110063012B                      *,2016-11-21,2021-02-12,爱信艾达株式会社,逆变器控制装置
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    駆動輪にトルクを伝達するモータと、直流電力を交流電力に変換してモータに供給するインバータと、インバータへ直流電力を供給する直流電源と、を備える車両においてインバータのスイッチングを制御するインバータ制御方法であって、インバータへの電力供給が停止されているか否かを判定し、インバータへの電力供給が停止されている場合に、インバータが有するスイッチング素子をオン状態にする短絡スイッチング制御を実行し、モータの状態を表す変数であって車両に振動が発生するか否かの判定指標となるモータ状態パラメータを取得する。そして、インバータへの電力供給が停止されている場合に、取得したモータ状態パラメータに基づいて、車両に振動が発生する以前に短絡スイッチング制御を停止する。
+title
+    インバータ制御方法及びインバータ制御システム
+similar_document
+26
+    Publication,Publication Date,Title
+    US9475403B2,2016-10-25,DC bus voltage control
+    US7888894B2,2011-02-15,Electric motor control system, series hybrid vehicle, electric motor control apparatus, and electric motor control method
+    US8639405B2,2014-01-28,Electric motor drive system for an electric vehicle
+    JP5482574B2,2014-05-07,交流電動機の制御システム
+    JP2009131043A,2009-06-11,モータ制御装置
+    US20140176029A1,2014-06-26,Vehicle and control device for vehicle
+    JP2017200379A,2017-11-02,自動車
+    JP2006094588A,2006-04-06,駆動モータ制御装置
+    US9656554B2,2017-05-23,Vehicle and control device for vehicle
+    JP2011050183A,2011-03-10,インバータ装置
+    JP6863046B2,2021-04-21,自動車
+    JP4765939B2,2011-09-07,電動車両
+    JP3985550B2,2007-10-03,電動車両駆動制御装置、電動車両駆動制御方法及びそのプログラム
+    JP6973641B2,2021-12-01,インバータ制御方法及びインバータ制御システム
+    JP5696607B2,2015-04-08,交流電動機の制御装置および制御方法
+    US8148927B2,2012-04-03,Alternating-current motor control apparatus
+    JP7142719B2,2022-09-27,モータ制御装置
+    JP5884747B2,2016-03-15,交流電動機の制御装置
+    JP6962462B2,2021-11-05,インバータ制御方法及びインバータ制御システム
+    WO2023276696A1,2023-01-05,車両用制御装置、及びプログラム
+    WO2023276615A1,2023-01-05,車両用制御装置、及びプログラム
+    JP3742582B2,2006-02-08,電気自動車の制御装置
+    WO2023002809A1,2023-01-26,制御装置、及びプログラム
+    JP2018143054A,2018-09-13,車両
+    JP2010088241A,2010-04-15,交流電動機の制御システム
+
+patent_application
+    NoExist
+patent_priority_application
+6
+    Application,Priority date,Filing date,Title
+    JP2020522558A,2018-06-01,2018-06-01,インバータ制御方法及びインバータ制御システム
+    PCT/JP2018/021283,2018-06-01,2018-06-01,インバータ制御方法及びインバータ制御システム
+    US17/059,658,2018-06-01,2018-06-01,An inverter control method and an inverter control system
+    EP18920844.0A,2018-06-01,2018-06-01,INVERTER CONTROL PROCEDURE AND INVERTER CONTROL SYSTEM
+    CN201880093902.0A,2018-06-01,2018-06-01,逆变器控制方法及逆变器控制系统
+
+inventor_number
+    4
+classfication_nums
+    13
+classfication_items
+86
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    H
+    H,0,2
+    H,0,2,H
+    H,0,2,H,7,/,0,0
+    H,0,2,H,7,/,1,0
+    H,0,2,H,7,/,1,2
+    H,0,2,H,7,/,1,2,2
+    H
+    H,0,2
+    H,0,2,H
+    H,0,2,H,9,/,0,0
+    H,0,2,H,9,/,0,4
+    H,0,2,H,9,/,0,4,1
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,4,2
+    H,0,2,M,7,/,4,4
+    H,0,2,M,7,/,4,8
+    H,0,2,M,7,/,5,3
+    H,0,2,M,7,/,5,3,7
+    H,0,2,M,7,/,5,3,8,7
+    H,0,2,M,7,/,5,3,8,7,1
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,7,/,0,0
+    H,0,2,P,2,7,/,0,4
+    H,0,2,P,2,7,/,0,6
+    H,0,2,P,2,7,/,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,1,0
+    B,6,0,L,2,2,7,0,/,1,4
+    B,6,0,L,2,2,7,0,/,1,4,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2018-06-01,Application filed by 日産自動車株式会社
+    2018-06-01,Priority to JP2020522558A
+    2018-06-01,Priority to PCT/JP2018/021283
+    2018-06-01,Priority to US17/059,658
+    2018-06-01,Priority to EP18920844.0A
+    2018-06-01,Priority to CN201880093902.0A
+    2019-12-05,Publication of WO2019229999A1
+
+active_area
+3
+    J,P
+    C,N
+    W,O
+
+not_active_area
+2
+    E,P
+    U,S
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2018/021283,2018-06-01,インバータ制御方法及びインバータ制御システム
+
+legal_event
+5
+    Date,Code,Title,Description
+    2020-01-15,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 18920844Country of ref document: EPKind code of ref document: A1
+    2020-11-27,WWE,Wipo information: entry into national phase,Ref document number: 2020522558Country of ref document: JP
+    2020-12-02,NENP,Non-entry into the national phase,Ref country code: DE
+    2021-01-15,ENP,Entry into the national phase,Ref document number: 2018920844Country of ref document: EPEffective date: 20210111
+

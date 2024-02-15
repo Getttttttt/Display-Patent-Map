@@ -1,0 +1,348 @@
+ID
+    JP2021075266A
+citation_exist
+    Patent Citations (19)
+citation_infor
+21
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP4702086B2,2006-02-15,2011-06-15,トヨタ自動車株式会社,車両用運転支援装置
+    JP4816780B2,2009-09-11,2011-11-16,株式会社デンソー,車載充放電制御装置およびそれに含まれる部分制御装置
+    CN105102287B                      *,2013-03-14,2019-04-12,艾里逊变速箱公司,用于混合动力电动车再生模式期间能量管理的系统和方法
+    JP5642253B1                      *,2013-11-08,2014-12-17,三菱電機株式会社,車両用エネルギーマネジメント装置
+    US9751521B2                      *,2014-04-17,2017-09-05,Palo Alto Research Center Incorporated,Control system for hybrid vehicles with high degree of hybridization
+    US9327712B2                      *,2014-04-22,2016-05-03,Alcatel Lucent,System and method for control of a hybrid vehicle with regenerative braking using location awareness
+    KR101655609B1                      *,2014-12-11,2016-09-07,현대자동차주식회사,하이브리드 자동차의 배터리 충전 상태 제어 장치 및 방법
+    US9533674B2                      *,2015-02-23,2017-01-03,Ford Global Technologies, Llc,Battery state of charge engine shut-off threshold based on predicted operation
+    MX366082B                      *,2015-06-09,2019-06-27,Nissan Motor,Dispositivo de control de transicion de modo para vehiculo hibrido.
+    US9637111B2                      *,2015-06-09,2017-05-02,Mitsubishi Electric Research Laboratories, Inc.,Method and system for selecting power sources in hybrid electric vehicles
+    JP6347235B2                      *,2015-07-30,2018-06-27,トヨタ自動車株式会社,ハイブリッド車両の制御装置
+    US10093304B2                      *,2015-09-11,2018-10-09,Ford Global Technologies, Llc,Enhanced electric drive mode having predicted destinations to reduce engine starts
+    JP6436071B2                      *,2015-12-07,2018-12-12,株式会社デンソー,車両の制御装置
+    JP2018083574A                      *,2016-11-25,2018-05-31,株式会社デンソー,車両の走行制御装置
+    WO2018104850A1                      *,2016-12-08,2018-06-14,Kpit Technologies Limited,Model predictive based control for automobiles
+    KR101838512B1                      *,2017-04-04,2018-03-14,현대자동차주식회사,하이브리드 자동차 및 그를 위한 충전 모드 제어 방법
+    KR102274125B1                      *,2017-06-28,2021-07-06,현대자동차주식회사,친환경 자동차의 관성 주행 제어 방법
+    US10676088B2                      *,2018-06-08,2020-06-09,GM Global Technology Operations LLC,Powertrain control system and method of operating the same
+    WO2020259828A1                      *,2019-06-26,2020-12-30,Volvo Truck Corporation,A method for controlling a vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    US11780441B2,2020-11-17,2023-10-10,Toyota Jidosha Kabushiki Kaisha,Traveling control apparatus, traveling control method, and non-transitory storage medium
+    Family To Family Citations,,,,
+    JP2022191935A                      *,2021-06-16,2022-12-28,日野自動車株式会社,運転モード制御装置
+    KR20230092060A                      *,2021-12-16,2023-06-26,현대자동차주식회사,차량용 최적 배터리 효율 운전 제어 방법
+
+abstract
+    【課題】回生エネルギーの回収量を定量的に予想して走行制御に用いる走行制御装置を提供する。【解決手段】走行制御装置は、動力源として電動機および内燃エンジンを備える車両に搭載される。走行制御装置は、各時刻における車両の速度を予想した速度プロファイルを作成する作成部と、速度プロファイルを所定の近似モデルで近似し、近似結果に基づいて、電動機の回生制動によって回収可能なエネルギーである回生エネルギーの予想量を推定する推定部と、回生エネルギーの予想量に基づいて、走行に用いる動力源を決定する決定部とを備える。【選択図】図２
+title
+    走行制御装置、方法およびプログラム
+similar_document
+21
+    Publication,Publication Date,Title
+    JP4930446B2,2012-05-16,車両走行制御装置
+    CN107571860B,2020-08-21,用于运行电驱动的或能电驱动的车辆的方法及车辆
+    JP2021075266A,2021-05-20,走行制御装置、方法およびプログラム
+    US7360615B2,2008-04-22,Predictive energy management system for hybrid electric vehicles
+    CN102458943B,2015-05-06,用于确定车辆控制系统的速率参考值的方法和模块
+    CN102803040B,2015-08-05,用于确定车辆控制系统的参考值的方法和模块
+    EP2335990B1,2014-07-02,Driving support device, method, and storage medium
+    US11780441B2,2023-10-10,Traveling control apparatus, traveling control method, and non-transitory storage medium
+    CN110450786B,2022-12-13,用于确定电动车辆中的预测的加速信息的方法和电动车辆
+    US20220306074A1,2022-09-29,Driving control device, driving control method, and non-transitory storage medium
+    US20220126810A1,2022-04-28,Driving control device, method, and non-transitory storage medium
+    JP7238750B2,2023-03-14,走行制御装置、方法、プログラムおよび車両
+    US11807214B2,2023-11-07,Travel control device, travel control method, non-transitory storage medium, and vehicle for deciding a power source for traveling based on a predicted amount of regenerative energy and thermal information
+    CN112937308B,2023-11-14,行驶控制装置、行驶控制方法、非临时性存储介质及车辆
+    JP2021080941A,2021-05-27,ギア段決定装置、方法およびシミュレーション装置
+    US20230278540A1,2023-09-07,Traveling control device for vehicle, traveling control method, and storage medium
+    EP2335989A1,2011-06-22,Driving support device, method, and program
+    US20230280168A1,2023-09-07,Information processing device, system, and method
+    KR102529600B1,2023-05-08,하이브리드 차량 제어 방법 및 하이브리드 차량 제어를 위한 soc 궤적 생성 방법
+    JP6040792B2,2016-12-07,走行制御装置
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    11
+classfication_nums
+    40
+classfication_items
+234
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,4,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,2,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,0,2
+    B,6,0,W,4,0,/,0,6
+    B,6,0,W,4,0,/,0,7,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,0,8
+    B,6,0,W,4,0,/,0,9
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,1,0
+    B,6,0,W,4,0,/,1,0,0,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,1,0
+    B,6,0,W,4,0,/,1,0,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,1,2
+    B,6,0,W,4,0,/,1,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,0,9,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B,6,0,L,2,2,4,0,/,6,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B,6,0,L,2,2,4,0,/,6,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B,6,0,L,2,2,4,0,/,6,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,2,0,5,0,/,0,0,0,1
+    B,6,0,W,2,0,5,0,/,0,0,1,9
+    B,6,0,W,2,0,5,0,/,0,0,2,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,3,0,/,0,0
+    B,6,0,W,2,5,3,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,3,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,2,/,0,0
+    B,6,0,W,2,5,5,2,/,0,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,2,/,0,0
+    B,6,0,W,2,5,5,2,/,1,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,5,/,0,0
+    B,6,0,W,2,5,5,5,/,2,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,6,/,0,0
+    B,6,0,W,2,5,5,6,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,1,0
+    B,6,0,W,2,7,2,0,/,1,0,3
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,2
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,1,8
+    B,6,0,Y,2,3,0,0,/,1,8,0,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,2,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,8,0
+    Y,0,2,T,1,0,/,9,2
+    Y
+    Y,0,4
+    Y,0,4,S
+    Y,0,4,S,1,0,/,0,0
+    Y,0,4,S,1,0,/,1,2
+    Y,0,4,S,1,0,/,1,2,6
+
+application_events
+3
+    2020-09-04,Application filed by Toyota Motor Corp
+    2021-05-20,Publication of JP2021075266A
+    Status,Pending
+
+active_area
+6
+    J,P
+    R,U
+    C,N
+    K,R
+    E,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2019205032,2019-11-12,
+    JP2019205032,2019-11-12,
+
+legal_event
+2
+    Date,Code,Title,Description
+    2023-07-18,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20230718
+

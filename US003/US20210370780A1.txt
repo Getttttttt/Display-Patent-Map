@@ -1,0 +1,375 @@
+ID
+    US20210370780A1
+citation_exist
+    Patent Citations (27)
+citation_infor
+29
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5797467A                      *,1994-05-17,1998-08-25,Watanabe; Masaei,Device for preventing an accelerator of a vehicle from being erroneously operated
+    US6330838B1                      *,2000-05-11,2001-12-18,Teleflex Incorporated,Pedal assembly with non-contact pedal position sensor for generating a control signal
+    US20030217880A1                      *,2002-03-12,2003-11-27,Akira Isogai,Cruise control apparatus performing automatic adjustment of object recognition processing in response to driver actions relating to vehicle speed alteration
+    US20090171538A1                      *,2007-12-27,2009-07-02,Hyundai Motor Company,System and method for controlling driving force of hybrid electric vehicle
+    US8255121B2                      *,2009-07-07,2012-08-28,GM Global Technology Operations LLC,Autonomous control for vehicle pedal mis-apply situations
+    US20120221209A1                      *,2011-02-28,2012-08-30,Denso Corporation,Accelerator pedal erroneous operation responding apparatus and storage medium
+    US20130131945A1                      *,2011-11-21,2013-05-23,Kenji Kimura,Vehicular control apparatus and vehicular control method
+    US20130261915A1                      *,2012-03-30,2013-10-03,Denso Corporation,Vehicle control device
+    US20150046054A1                      *,2013-08-12,2015-02-12,Mazda Motor Corporation,Braking device for vehicle
+    US20150274018A1                      *,2014-03-25,2015-10-01,Ford Global Technologies, Llc,Regenerative braking control system and method
+    US9371001B2                      *,2012-04-20,2016-06-21,The Trustees Of Dartmouth College,Sudden acceleration shutdown device using hydraulic brake pressure detector to disable vehicle on driver panic
+    US20170052257A1                      *,2014-05-30,2017-02-23,Panasonic Intellectual Property Management Co., Ltd.,Sensing system and driving support system
+    US20170058806A1                      *,2015-08-27,2017-03-02,Robert Bosch Gmbh,Method and device for operating a drive system for a motor vehicle
+    US20170174211A1                      *,2015-12-22,2017-06-22,Toyota Jidosha Kabushiki Kaisha,Vehicle control apparatus
+    US10071721B2                      *,2016-02-22,2018-09-11,Hyundai Motor Company,Control method and apparatus of hybrid electric vehicle
+    US20190054921A1                      *,2017-08-18,2019-02-21,Hyundai Motor Company,Method for controlling hybrid vehicle
+    US20190135288A1                      *,2017-11-07,2019-05-09,Hyundai Motor Company,Method for controlling sudden unintended acceleration due to misoperation of engine in power split type hev system
+    US20190344802A1                      *,2018-05-08,2019-11-14,Toyota Jidosha Kabushiki Kaisha,Vehicle driving force control apparatus
+    US20200156642A1                      *,2018-11-20,2020-05-21,Toyota Jidosha Kabushiki Kaisha,Vehicle control apparatus
+    US10737687B2                      *,2017-06-29,2020-08-11,Hyundai Motor Company,Vehicle and method for controlling the same
+    US20210155232A1                      *,2019-11-22,2021-05-27,Toyota Jidosha Kabushiki Kaisha,Collision avoidance assist control apparatus
+    US20210213967A1                      *,2020-01-14,2021-07-15,Toyota Jidosha Kabushiki Kaisha,Driving assistance apparatus
+    US20210221365A1                      *,2020-01-20,2021-07-22,Toyota Jidosha Kabushiki Kaisha,Driving assistance apparatus
+    US20210291822A1                      *,2020-03-19,2021-09-23,Honda Motor Co., Ltd.,Vehicle control apparatus and vehicle
+    US20210323542A1                      *,2020-04-15,2021-10-21,Subaru Corporation,Driving support device for vehicle
+    Family To Family Citations,,,,
+    KR102086178B1,2014-12-01,2020-03-06,현대자동차주식회사,Method and System for Automoblie Control Driver's Miss Manipulation
+    KR101996419B1,2016-12-30,2019-07-04,현대자동차주식회사,Sensor integration based pedestrian detection and pedestrian collision prevention apparatus and method
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20220097670A1                      *,2020-09-28,2022-03-31,Ford Global Technologies, Llc,One-pedal drive method to control vehicle speed to a stop using feedback powertrain torque controls
+    US20220234597A1                      *,2021-01-22,2022-07-28,Toyota Jidosha Kabushiki Kaisha,Vehicle control device, storage medium for storing computer program for vehicle control, and method for controlling vehicle
+    US20220266829A1                      *,2021-02-22,2022-08-25,Ford Global Technologies, Llc,Methods and systems for assistive action of a vehicle
+    US11491977B2                      *,2019-06-11,2022-11-08,Hl Klemove Corp.,Driver assistance system and method of controlling the same
+    Family To Family Citations,,,,
+
+abstract
+    A method of controlling an electrified vehicle to prevent a collision thereof includes: determining whether an accelerator pedal is erroneously operated in the situation in which an obstacle is detected to be present in a traveling path; and when it is determined that the accelerator pedal is erroneously operated, performing braking control such that at least one of hydraulic braking or regenerative braking is selectively performed in a plurality of braking sections determined based on a current vehicle speed and a distance to the obstacle.
+title
+    Vehicle having motor and method of controlling the same to prevent collision thereof
+similar_document
+25
+    Publication,Publication Date,Title
+    US11634036B2,2023-04-25,Vehicle having motor and method of controlling the same to prevent collision thereof
+    US10768635B2,2020-09-08,Hybrid electric vehicle and platooning control method therefor
+    US11192532B2,2021-12-07,Vehicle control system, method of controlling the same, and breaking device
+    KR101684542B1,2016-12-08,System and method for engine stop control of hybrid vehicle
+    US11180149B2,2021-11-23,Vehicle and method for controlling the same
+    US11628834B2,2023-04-18,Hybrid electric vehicle and method of controlling the same to avoid collision thereof
+    US9365119B2,2016-06-14,Method for calculating amount of regenerative braking for environmentally-friendly vehicle
+    US10399555B2,2019-09-03,Hybrid vehicle and method of controlling charge mode therefor
+    US20190178662A1,2019-06-13,Hybrid electric vehicle and method of searching for path thereof
+    US10981555B2,2021-04-20,Vehicle equipped with electric motor and parking control method therefor
+    US11136020B2,2021-10-05,Hybrid vehicle and method of calibrating traveling direction for the same
+    JP2016047676A,2016-04-07,Hybrid-vehicular control apparatus
+    KR102422141B1,2022-07-18,Hybrid vehicle and method of controlling thereof
+    US11498568B2,2022-11-15,Vehicle and method of controlling the same
+    KR100598847B1,2006-07-10,Method of excessively controlling regenerating braking torque for hybrid electric vehicle
+    US20210009130A1,2021-01-14,Eco-friendly vehicle and launch control method therefor
+    JP6614052B2,2019-12-04,Automobile
+    US20220111838A1,2022-04-14,Vehicle and Method of Controlling the Same
+    US11565694B2,2023-01-31,Cruise control method for hybrid vehicle
+    US11167651B2,2021-11-09,Method of controlling vibration reduction of vehicle
+    US11565697B2,2023-01-31,Vehicle equipped with electric motor and parking control method therefor
+    WO2022024373A1,2022-02-03,Control method for series hybrid vehicle and series hybrid vehicle
+    KR20220169617A,2022-12-28,Hybrid electric vehicle and method of engine start control for the same
+    KR20230077884A,2023-06-02,Electrified vehicle and method of driving control for the same
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    7
+classfication_nums
+    41
+classfication_items
+244
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,0,7
+    B,6,0,L,3,/,0,0,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,R
+    B,6,0,R,2,1,/,0,0
+    B,6,0,R,2,1,/,0,1
+    B,6,0,R,2,1,/,0,1,3
+    B,6,0,R,2,1,/,0,1,3,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,1,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,1,2
+    B,6,0,T,7,/,2,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B,6,0,W,1,0,/,1,8,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,1,0
+    B,6,0,W,4,0,/,1,0,7
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B,6,0,K,2,0,0,6,/,4,8,2,5
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,3,8
+    B,6,0,K,6,/,3,8,7
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B,6,0,L,2,2,5,0,/,2,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,1,0
+    B,6,0,W,2,5,1,0,/,1,0,0,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B,6,0,W,2,5,2,0,/,1,0,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,2,/,0,0
+    B,6,0,W,2,5,5,2,/,5,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,4,/,0,0
+    B,6,0,W,2,5,5,4,/,8,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,0,8
+    B,6,0,W,3,0,/,0,9
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,1
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,2
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,0,8
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,0,8
+    B,6,0,Y,2,3,0,0,/,0,9
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,1,8
+    B,6,0,Y,2,3,0,0,/,1,8,0,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,0,9,1
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,1,8
+    B,6,0,Y,2,3,0,0,/,1,8,0,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,2,5
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,4,0,0,/,0,0
+    B,6,0,Y,2,4,0,0,/,8,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2020-12-03,Application filed by Hyundai Motor Co, Kia Motors Corp
+    2020-12-04,Assigned to KIA MOTORS CORPORATION, HYUNDAI MOTOR COMPANY
+    2021-12-02,Publication of US20210370780A1
+    2023-04-25,Application granted
+    2023-04-25,Publication of US11634036B2
+    Status,Active
+    2041-08-16,Adjusted expiration
+
+active_area
+2
+    K,R
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    KR10-2020-0066558,2020-06-02,
+    KR1020200066558A,2020-06-02,Vehicle having motor and method of collision avoidance control for the same
+
+legal_event
+6
+    Date,Code,Title,Description
+    2020-12-03,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2020-12-04,AS,Assignment,Owner name: KIA MOTORS CORPORATION, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:CHO, JIN KYEOM;KIM, YEON BOK;KIM, SUNG DEOK;AND OTHERS;REEL/FRAME:054541/0620Effective date: 20201118Owner name: HYUNDAI MOTOR COMPANY, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:CHO, JIN KYEOM;KIM, YEON BOK;KIM, SUNG DEOK;AND OTHERS;REEL/FRAME:054541/0620Effective date: 20201118
+    2021-08-21,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2022-10-13,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2023-04-05,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

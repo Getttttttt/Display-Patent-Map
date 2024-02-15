@@ -1,0 +1,296 @@
+ID
+    JP2019127211A
+citation_exist
+    Patent Citations (26)
+citation_infor
+28
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH11227584A                      *,1998-02-12,1999-08-24,Unisia Jecs Corp,ブレーキ装置
+    JP2010254259A                      *,2009-04-28,2010-11-11,Toyota Motor Corp,ブレーキ制御装置
+    JP2012086773A                      *,2010-10-22,2012-05-10,Nissan Motor Co Ltd,車両用走行制御装置
+    WO2012063572A1                      *,2010-11-08,2012-05-18,日産自動車株式会社,電動車両のブレーキ制御装置
+    WO2012090924A1                      *,2010-12-28,2012-07-05,日産自動車株式会社,車両の回生制御装置
+    JP2013071549A                      *,2011-09-27,2013-04-22,Honda Motor Co Ltd,車体挙動安定化装置
+    WO2013125049A1                      *,2012-02-26,2013-08-29,トヨタ自動車株式会社,車両の駆動力制御装置
+    JP2014236567A                      *,2013-05-31,2014-12-15,富士重工業株式会社,車両用制御装置
+    JP2015116085A                      *,2013-12-13,2015-06-22,トヨタ自動車株式会社,車両制御装置
+    US20160267726A1                      *,2015-03-09,2016-09-15,Ford Global Technologies, Llc,Regenerative braking coaching system
+    Family To Family Citations,,,,
+    EP0965507B1                      *,1997-03-06,2006-11-02,Toyota Jidosha Kabushiki Kaisha,Braking force controller
+    US6792344B2                      *,1997-04-25,2004-09-14,Hitachi, Ltd.,Automotive control apparatus and method
+    JP3391745B2                      *,1999-09-22,2003-03-31,富士重工業株式会社,カーブ進入制御装置
+    JP4543484B2                      *,2000-03-07,2010-09-15,株式会社アドヴィックス,ブレーキ液圧制御装置
+    JP3921109B2                      *,2002-03-20,2007-05-30,日産ディーゼル工業株式会社,車両のハイブリッドシステム
+    US6655754B2                      *,2002-04-02,2003-12-02,Ford Global Technologies, Llc,Vehicle brake system having adaptive torque control
+    JP2005124336A                      *,2003-10-17,2005-05-12,Yaskawa Electric Corp,交流電動機の制御方法及び制御装置
+    JP4839864B2                      *,2006-01-31,2011-12-21,トヨタ自動車株式会社,車両およびその制御方法並びに制動装置
+    JP5168548B2                      *,2008-02-29,2013-03-21,日立オートモティブシステムズ株式会社,ブレーキ装置
+    WO2011016095A1                      *,2009-08-07,2011-02-10,トヨタ自動車株式会社,ブレーキ制御装置及びブレーキ制御方法
+    US9760092B2                      *,2012-03-16,2017-09-12,Waymo Llc,Actively modifying a field of view of an autonomous vehicle in view of constraints
+    JP2015123842A                      *,2013-12-26,2015-07-06,日信工業株式会社,ブレーキシステム
+    JP5924702B2                      *,2014-07-09,2016-05-25,三菱電機株式会社,ハイブリッド車の発電制御装置およびハイブリッド車の発電制御方法
+    JP2018011406A,2016-07-12,2018-01-18,住友電装株式会社,ワイヤハーネス保護用樹脂パイプ
+    US10308120B2                      *,2017-04-12,2019-06-04,Ford Global Technologies, Llc,Optimizing regenerative braking efficiency in a hybrid vehicle
+    US10513248B2                      *,2017-06-30,2019-12-24,Veoneer Nissin Brake Systems Japan Co., Ltd.,Brake fluid pressure filtering and control systems and methods
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP6515875B2                      *,2016-06-10,2019-05-22,株式会社デンソー,車載電源システム
+    KR102429505B1                      *,2017-12-28,2022-08-05,현대자동차주식회사,차량의 회생 제동 제어 장치 및 방법
+    JP7067490B2                      *,2019-01-07,2022-05-16,トヨタ自動車株式会社,車両用電池制御装置
+    KR20210088792A                      *,2020-01-06,2021-07-15,현대자동차주식회사,마일드 하이브리드 차량의 제어방법 및 제어장치
+
+abstract
+    【課題】発電機の発電トルクを適切に制御する。【解決手段】車両用制御装置であって、車輪に動力伝達経路を介して連結される発電機と、乗員に操作されるブレーキ操作部と、車輪を制動する車輪制動部と、車輪制動部に供給されるブレーキ液の圧力を制御する液圧ユニットと、を備えるブレーキ機構と、ブレーキ操作部の操作量であるブレーキストロークＢｓを検出する第１センサと、ブレーキ液の圧力であるブレーキ液圧Ｂｐを検出する第２センサと、第１制御モードが実行される場合に、車両減速時の理想減速度ＤｘをブレーキストロークＢｓに基づき設定する第１理想減速度設定部８０ａと、第２制御モードが実行される場合に、車両減速時の理想減速度Ｄｘをブレーキ液圧Ｂｐに基づき設定する第２理想減速度設定部８０ｂと、第１または第２理想減速度設定部８０ａ，８０ｂが設定する理想減速度Ｄｘに基づいて、発電機の発電トルクを制限するＩＳＧコントローラ２４と、を有する。【選択図】図７
+title
+    車両用制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    US8634987B2,2014-01-21,Control apparatus for electric vehicle
+    JP4179352B2,2008-11-12,車両の電力制御装置
+    JP5810232B1,2015-11-11,車両用制御装置
+    JP5725037B2,2015-05-27,車両および車両用制御方法
+    JP6626519B2,2019-12-25,車両用制御装置
+    EP2409871A2,2012-01-25,Drive control device for electric vehicle, and electric vehicle
+    WO2013065167A1,2013-05-10,車両および車両の制御方法
+    CN103328291B,2016-08-24,车辆及车辆用控制方法
+    JP6606444B2,2019-11-13,車両用制御装置
+    CN111055691B,2023-03-14,车辆的制动控制装置
+    JP2019069679A,2019-05-09,ハイブリッド車両
+    JP5696790B2,2015-04-08,車両および車両の制御方法
+    JP5919434B2,2016-05-18,内燃機関制御装置及び内燃機関制御方法
+    JP2006254553A,2006-09-21,車両の制御装置
+    JP6546959B2,2019-07-17,車両
+    US10112488B2,2018-10-30,Electrically powered vehicle
+    JP2018177077A,2018-11-15,車両用制御装置
+    KR102354195B1,2022-01-21,Phev 청소차 주행 제어장치
+    JP2021084502A,2021-06-03,制御装置
+    CN113924238A,2022-01-11,电动装置控制方法以及电动装置
+    JP7119728B2,2022-08-17,車両の電源装置
+    JP6916674B2,2021-08-11,車両用制御装置
+    JPH11289608A,1999-10-19,ハイブリッド車両の制御装置
+    JP2018024392A,2018-02-15,車両用制御装置
+    JP2020088992A,2020-06-04,回生ブレーキ制御システム
+
+patent_application
+    NoExist
+patent_priority_application
+5
+    Application,Priority date,Filing date,Title
+    JP2018011406A,2018-01-26,2018-01-26,車両用制御装置
+    CN201811167832.7A,2018-01-26,2018-10-08,车辆用控制装置
+    US16/169,556,2018-01-26,2018-10-24,Vehicle control apparatus
+    DE102018132271.2A,2018-01-26,2018-12-14,Fahrzeugsteuervorrichtung
+
+inventor_number
+    5
+classfication_nums
+    26
+classfication_items
+154
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    F
+    F,0,2
+    F,0,2,D
+    F,0,2,D,2,9,/,0,0
+    F,0,2,D,2,9,/,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,0,8
+    B,6,0,W,3,0,/,0,9
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,2,0,/,0,0
+    B,6,0,T,2,2,2,0,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,1
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,5,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,1,8
+    B,6,0,W,2,5,1,0,/,1,8,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,3,0,/,0,0
+    B,6,0,W,2,5,3,0,/,1,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,4,/,0,0
+    B,6,0,W,2,5,5,4,/,8,0
+    B,6,0,W,2,5,5,4,/,8,0,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,1,0
+    B,6,0,W,2,7,2,0,/,1,0,6
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,1,8
+    B,6,0,Y,2,3,0,0,/,1,8,0,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,2,5
+    F
+    F,0,2
+    F,0,2,D
+    F,0,2,D,2,9,/,0,0
+    F,0,2,D,2,9,/,0,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+
+application_events
+7
+    2018-01-26,Application filed by Subaru Corp
+    2018-01-26,Priority to JP2018011406A
+    2019-08-01,Publication of JP2019127211A
+    2019-12-25,Application granted
+    2019-12-25,Publication of JP6626519B2
+    Status,Active
+    2038-01-26,Anticipated expiration
+
+active_area
+4
+    J,P
+    C,N
+    U,S
+    D,E
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2018011406A,2018-01-26,車両用制御装置
+
+legal_event
+10
+    Date,Code,Title,Description
+    2018-11-09,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20181109
+    2019-07-03,A977,Report on retrieval,Free format text: JAPANESE INTERMEDIATE CODE: A971007Effective date: 20190703
+    2019-07-16,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20190716
+    2019-09-17,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20190917
+    2019-10-31,TRDD,Decision of grant or rejection written,
+    2019-11-05,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20191105
+    2019-12-05,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20191129
+    2019-12-06,R150,Certificate of patent or registration of utility model,Ref document number: 6626519Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R150
+    2022-11-11,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+

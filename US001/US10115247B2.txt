@@ -1,0 +1,274 @@
+ID
+    US10115247B2
+citation_exist
+    Patent Citations (6)
+citation_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    GB2256178A,1991-05-31,1992-12-02,David Saunders,Battery powered vehicle recharging system.
+    JP2005287184A,2004-03-30,2005-10-13,Railway Technical Res Inst,Monitor apparatus
+    US20110030574A1                      *,2008-04-30,2011-02-10,Mitsubishi Electric Corporation,Electric railway system
+    US20120287542A1                      *,2011-05-12,2012-11-15,Bianco James S,Service Line Safety Monitor
+    US20150231986A1                      *,2014-02-20,2015-08-20,Ford Global Technologies, Llc,Battery Capacity Estimation Using State of Charge Initialization-On-The-Fly Concept
+    Family To Family Citations,,,,
+    US20110030674A1,2009-08-07,2011-02-10,Mykola Zaloga,Energy generating roof system
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (2)
+              
+
+
+citedBy_exist
+    
+              Cited By (18)
+              
+
+
+citedBy_infor
+20
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20180056802A1                      *,2016-08-31,2018-03-01,Siemens Aktiengesellschaft,Method for charging an electrically operated vehicle with the aid of a charging cable, charging cable and residual current arrangement for detecting a direct current
+    US20200171964A1                      *,2018-11-30,2020-06-04,Proterra Inc.,Charging system for an electric vehicle
+    Family To Family Citations,,,,
+    EP2516203A4                      *,2009-12-23,2017-03-22,Proterra Inc.,Charging stations for electric vehicles
+    DE102015215174A1                      *,2015-08-07,2017-02-09,Siemens Aktiengesellschaft,Device and a method for the overhead operation of a rail vehicle
+    DE102016205012A1                      *,2016-03-24,2017-09-28,Schunk Bahn- Und Industrietechnik Gmbh,Positioning unit and method of contacting
+    DE102016109074A1,2016-05-18,2017-11-23,Dr. Ing. H.C. F. Porsche Aktiengesellschaft,Method and arrangement for charging a vehicle battery
+    MX2018015850A                      *,2016-06-17,2019-03-28,Abb Schweiz Ag,Device for charging an electric vehicle and a method for verifying the contact between a device for charging an electric vehicle and the electric vehicle.
+    DE102016218303A1                      *,2016-09-23,2018-03-29,Audi Ag,Method for determining a state of a vehicle-external charging device and motor vehicle
+    JP7042597B2                      *,2017-12-04,2022-03-28,株式会社東芝,Vehicle control device and electric vehicle
+    CN110549898B                      *,2018-05-31,2021-07-20,比亚迪股份有限公司,Station type charging system and method for vehicle
+    FR3083325B1                      *,2018-06-29,2021-04-09,Alstom Transp Tech,METHOD OF DETECTION OF A FAILURE IN THE ELECTRICAL SUPPLY OF A VEHICLE
+    CN110194095B                      *,2019-06-28,2020-09-11,北京机械设备研究所,Cab-free automatic driving truck and automatic driving control method
+    CN110803049A                      *,2019-10-24,2020-02-18,上海奥威科技开发有限公司,Automatic rapid charging system and charging method for electric vehicle
+    JP7302486B2,2020-01-10,2023-07-04,トヨタ自動車株式会社,Evaluation method
+    FR3109914B1                      *,2020-05-11,2022-05-27,Alstom Transp Tech,System for supplying electrical energy to a vehicle, in particular railway, and method for supplying railway energy including such a system
+    DE102020209581A1,2020-07-30,2022-02-03,Volkswagen Aktiengesellschaft,Device and method for diagnosing a state of a charging interface
+    SE2150281A1                      *,2021-03-11,2022-09-12,Ctek Sweden Ab,Method for detecting performance deterioration of components
+    CN113468729B                      *,2021-06-15,2022-05-24,国网湖南省电力有限公司,Method and system for measuring and calculating operation errors of electric power station metering device without calibration mode
+
+abstract
+    A method is provided for controlling charging of an electric energy storage system in a vehicle including an electric machine which is arranged for propulsion of the vehicle. The method includes initiating the charging upon connection of the energy storage system to an external power supply via a first connector element associated with the vehicle and a second connector element associated with the external power supply, and monitoring a contact resistance defined by the connection of the connector elements. Furthermore, the method includes measuring and calculating the power loss over the connector elements during the charging, and generating an error signal if the power loss is higher than a predetermined threshold value, the error signal being dependent on the magnitude of the power loss. An arrangement for controlling charging of an electric energy storage system in a vehicle is also provided.
+title
+    Method and arrangement for controlling charging of an electrical storage system in a vehicle including measuring power loss over connector elements during charging and generating an error signal based on power loss
+similar_document
+11
+    Publication,Publication Date,Title
+    US10115247B2,2018-10-30,Method and arrangement for controlling charging of an electrical storage system in a vehicle including measuring power loss over connector elements during charging and generating an error signal based on power loss
+    US20210055355A1,2021-02-25,Method for monitoring the status of a plurality of battery cells in a battery pack
+    US10151801B2,2018-12-11,Method and system for monitoring the status of battery cells
+    US10259338B2,2019-04-16,Method and system for optimizing the lifetime of an energy storage system
+    JP6250164B2,2017-12-20,Method and apparatus for balancing an energy storage system
+    US11175341B2,2021-11-16,Method and arrangment for classifying a voltage fault condition in an electrical storage system
+    US11146078B2,2021-10-12,Method and arrangement for balancing a battery pack
+    US11437827B2,2022-09-06,Control of a relatively low current fed to a battery pack
+    US9931946B2,2018-04-03,Method and arrangement for controlling charging of an energy storage system
+    US9656568B2,2017-05-23,Method and arrangement for error detection during charging of an energy storage system
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    29
+classfication_items
+164
+    G
+    G,0,7
+    G,0,7,C
+    G,0,7,C,5,/,0,0
+    G,0,7,C,5,/,0,8
+    G,0,7,C,5,/,0,8,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,1,0
+    B,6,0,L,5,3,/,1,4
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B,6,0,L,1,1,/,1,8,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,/,0,0
+    B,6,0,L,5,/,1,8
+    B,6,0,L,5,/,2,2
+    B,6,0,L,5,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,/,0,0
+    B,6,0,L,5,/,1,8
+    B,6,0,L,5,/,2,2
+    B,6,0,L,5,/,2,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,/,0,0
+    B,6,0,L,5,/,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,1,0
+    B,6,0,L,5,3,/,1,4
+    B,6,0,L,5,3,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,3,0
+    B,6,0,L,5,3,/,3,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,1,3
+    H,0,2,J,7,/,0,0,2,1
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,4,2
+    H,0,2,J,7,/,0,0,4,5
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B,6,0,K,2,0,0,6,/,4,8,2,5
+    B,6,0,L,1,1,/,1,8,3,7
+    B,6,0,L,1,1,/,1,8,7,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+
+application_events
+7
+    2014-05-05,Application filed by Volvo Truck Corp
+    2017-01-31,Assigned to VOLVO TRUCK CORPORATION
+    2017-05-04,Publication of US20170124783A1
+    2018-10-30,Application granted
+    2018-10-30,Publication of US10115247B2
+    Status,Active
+    2034-05-05,Anticipated expiration
+
+active_area
+3
+    U,S
+    W,O
+    E,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/EP2014/001187,2014-05-05,A method and arrangement for controlling charging of an electrical storage system in a vehicle
+
+legal_event
+4
+    Date,Code,Title,Description
+    2017-01-31,AS,Assignment,Owner name: VOLVO TRUCK CORPORATION, SWEDENFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:ALM, FILIP;LENNEVI, JERKER;SIGNING DATES FROM 20161017 TO 20170126;REEL/FRAME:041131/0059
+    2018-10-10,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2022-04-19,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

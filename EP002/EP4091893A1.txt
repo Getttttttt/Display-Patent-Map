@@ -1,0 +1,308 @@
+ID
+    EP4091893A1
+citation_exist
+    Patent Citations (6)
+citation_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    CN100406289C                      *,2006-06-08,2008-07-30,上海交通大学,Series-parallel mixed power system
+    CN101445043B                      *,2008-10-11,2010-10-06,比亚迪股份有限公司,Hybrid power-driven system control method
+    US9260002B2                      *,2012-09-25,2016-02-16,Cummins Inc.,Engine start systems and technique for hybrid electric vehicles
+    CN108973979B                      *,2018-07-18,2021-09-28,乾碳国际公司,Hybrid vehicle predictive power control system scheme
+    CN109823188A                      *,2019-01-10,2019-05-31,乾碳国际公司,The mixed gentle speed system of dynamic commercial vehicle regenerative braking
+    CN111746259A                      *,2019-03-29,2020-10-09,乾碳国际公司,Heavy truck oil-saving robot device and control method
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    CN113720667B                      *,2021-09-02,2022-09-06,苏州幻宝安全与环境工程有限公司,Water sample treatment system and method for environmental monitoring
+    WO2023141102A1                      *,2022-01-18,2023-07-27,Cummins Inc.,Powertrain and fleet management via cloud computing
+    CN115214605B                      *,2022-09-21,2023-02-10,临工重机股份有限公司,Control method and system for series hybrid vehicle, vehicle and storage medium
+    CN116160875B                      *,2023-04-23,2023-07-18,新誉轨道交通科技有限公司,Control method and control device of range extender system
+
+abstract
+    An ACE heavy truck fuel saving system provided by the present disclosure is based on a double-motor mixed hybrid powertrain system architecture, especially an electrical power split device. Under the condition that no new hardware device is added, the transmission path, direction and amplitude of hundred-kilowatt-level mechanical or electric power flow among all vehicle-mounted power subsystems are dynamically regulated and controlled through software definition or remote iteration updating, new functions of vehicle longitudinal driving control and electromechanical energy management are flexibly established or the existing functions are timely improved, the SAE LI-level automatic driving function is achieved, therefore, the power performance, fuel consumption, pollutant emission and active safety of the complete vehicle can be optimized at the same time, and the actual energy-saving and emission-reducing effect of ACE heavy truck operation is basically decoupled from the performance of a vehicle engine and the driving level of a driver. A cloud-end and vehicle-end collaborative fuel saving data set is combined with a machine learning fuel saving algorithm, so that the fuel saving system has the capabilities of automatic learning and autonomous evolution in the life cycle of the vehicle, and energy saving and emission reduction of the vehicle can be continuously optimized.
+title
+    Heavy truck with fuel-saving system, and fuel-saving control method therefor
+similar_document
+26
+    Publication,Publication Date,Title
+    US20220176965A1,2022-06-09,Heavy truck fuel-saving robot device and control method
+    EP3909803A1,2021-11-17,Regenerative brake and retarding system for hybrid commercial vehicle
+    US20210291803A1,2021-09-23,Hybrid vehicle predictive power control system solution
+    EP4091893A1,2022-11-23,Heavy truck with fuel-saving system, and fuel-saving control method therefor
+    US10759298B2,2020-09-01,Electric-drive motor vehicles, systems, and control logic for predictive charge planning and powertrain control
+    EP4140841A1,2023-03-01,Ace heavy truck fuel-saving robot system
+    Gao et al.,2019,Evaluation of electric vehicle component performance over eco-driving cycles
+    Li et al.,2014,Correctional DP-based energy management strategy of plug-in hybrid electric bus for city-bus route
+    US11235665B2,2022-02-01,Regenerative braking control system
+    Lacandia et al.,2013,Adaptive energy management strategy calibration in PHEVs based on a sensitivity study
+    WO2022166616A1,2022-08-11,Software-defined hybrid powertrain and vehicle
+    US11169519B2,2021-11-09,Route modification to continue fully-autonomous driving
+    Eckerle et al.,2017,Future Challenges for engine manufacturers in view of future emissions legislation
+    Gujarathi et al.,2017,Fuzzy logic based energy management strategy for converted parallel plug-in hybrid electric vehicle
+    Ouddah et al.,2017,Optimal Energy Management Strategy of Plug-in Hybrid Electric Bus in Urban Conditions.
+    Lu et al.,2012,Fuzzy logic control approach to the energy management of parallel hybrid electric vehicles
+    Wang,2016,Battery electric vehicle energy consumption modelling, testing and prediction: a practical case study
+    US20230150502A1,2023-05-18,Systems and methods for predictive engine off coasting and predictive cruise control for a vehicle
+    CN108340905B,2023-04-11,Method for controlling driving of hybrid vehicle
+    RU2733599C1,2020-10-05,Control system of power plant of unmanned hybrid vehicle
+    Donateo,2013,CO2 impact of intelligent plug-in vehicles
+    Donateo,2012,Intelligent usage of internal combustion engines in hybrid electric vehicles
+    Cole,2016,The Effectiveness of Energy storage in hybrid Vehicles
+    Dalton et al.,2020,Cummins Electric Truck with Range-Extending Engine (ETREE) Project (Final Technical Report)
+    de Jager et al.,2013,Receding horizon real-time energy management strategy for hybrid vehicles
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    5
+classfication_nums
+    31
+classfication_items
+192
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,4
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,4
+    B,6,0,K,6,/,4,4,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,4
+    B,6,0,K,6,/,4,4,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,5,0
+    B,6,0,K,6,/,5,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,5,0
+    B,6,0,K,6,/,5,4
+    B,6,0,K,6,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B,6,0,L,5,0,/,6,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B,6,0,W,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,5
+    B,6,0,W,2,0,/,1,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,2,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,4,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,6,0,/,0,0
+    B,6,0,W,6,0,/,0,0,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,2,0,5,0,/,0,0,0,1
+    B,6,0,W,2,0,5,0,/,0,0,1,9
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,3,0,0,/,0,0
+    B,6,0,W,2,3,0,0,/,1,2
+    B,6,0,W,2,3,0,0,/,1,2,5
+    B,6,0,W,2,3,0,0,/,1,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,6,/,0,0
+    B,6,0,W,2,5,5,6,/,4,5
+    B,6,0,W,2,5,5,6,/,5,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,6,/,0,0
+    B,6,0,W,2,5,5,6,/,4,5
+    B,6,0,W,2,5,5,6,/,6,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,2
+    B,6,0,W,2,7,1,0,/,0,2,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+
+application_events
+4
+    2021-01-06,Application filed by Lcb International Inc
+    2022-11-23,Publication of EP4091893A1
+    2023-01-18,Publication of EP4091893A4
+    Status,Withdrawn
+
+active_area
+2
+    C,N
+    U,S
+
+not_active_area
+1
+    E,P
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    CN202010055674.7A,2020-01-17,Heavy truck with fuel-saving system and fuel-saving control method thereof
+    PCT/CN2021/070458,2021-01-06,Heavy truck with fuel-saving system, and fuel-saving control method therefor
+
+legal_event
+13
+    Date,Code,Title,Description
+    2021-07-23,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE INTERNATIONAL PUBLICATION HAS BEEN MADE
+    2022-10-21,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2022-10-21,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+    2022-11-23,17P,Request for examination filed,Effective date: 20220809
+    2022-11-23,AK,Designated contracting states,Kind code of ref document: A1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2023-01-18,A4,Supplementary search report drawn up and despatched,Effective date: 20221221
+    2023-01-18,RIC1,Information provided on ipc code assigned before grant,Ipc: B60W  20/20        20160101ALI20221215BHEPIpc: B60K   6/547       20071001ALI20221215BHEPIpc: B60K   6/52        20071001ALI20221215BHEPIpc: B60W  20/14        20160101ALI20221215BHEPIpc: B60W  20/12        20160101ALI20221215BHEPIpc: B60K   6/442       20071001ALI20221215BHEPIpc: B60W  10/02        20060101ALI20221215BHEPIpc: B60K   6/44        20071001ALI20221215BHEPIpc: B60W  20/16        20160101ALI20221215BHEPIpc: B60W  10/08        20060101ALI20221215BHEPIpc: B60W  10/06        20060101ALI20221215BHEPIpc: B60K   6/46        20071001ALI20221215BHEPIpc: B60W  20/40        20160101AFI20221215BHEP
+    2023-04-26,DAV,Request for validation of the european patent (deleted),
+    2023-04-26,DAX,Request for extension of the european patent (deleted),
+    2023-07-07,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE APPLICATION HAS BEEN WITHDRAWN
+    2023-07-12,P01,Opt-out of the competence of the unified patent court (upc) registered,Effective date: 20230601
+    2023-08-09,18W,Application withdrawn,Effective date: 20230630
+

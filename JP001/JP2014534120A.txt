@@ -1,0 +1,169 @@
+ID
+    JP2014534120A
+citation_exist
+    Patent Citations (8)
+citation_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH09310728A                      *,1996-02-06,1997-12-02,Robert Bosch Gmbh,電気駆動装置を備えた車両のブレーキ装置の制御方法および制御装置
+    JP2007500104A                      *,2003-05-13,2007-01-11,コンティネンタル・テーベス・アクチエンゲゼルシヤフト・ウント・コンパニー・オッフェネ・ハンデルスゲゼルシヤフト,自動車のブレーキシステムをコントロールするための方法
+    WO2011092308A1                      *,2010-01-28,2011-08-04,Continental Teves Ag & Co. Ohg,Verfahren zum betreiben eines bremssystems für ein kraftfahrzeug und bremssystem
+    Family To Family Citations,,,,
+    US5941608A                      *,1996-03-07,1999-08-24,Kelsey-Hayes Company,Electronic brake management system with manual fail safe
+    DE102007010514A1                      *,2007-03-05,2008-09-11,Continental Teves & Co. Ohg,Verfahren zur Kalibrierung von analogisierten Ventilen in einer Druckregelvorrichtung
+    DE102008003664B4                      *,2008-01-09,2023-03-23,Robert Bosch Gmbh,Bremssystem und Verfahren zum Betreiben eines Bremssystems
+    DE102008004201A1,2008-01-14,2009-07-16,Robert Bosch Gmbh,Bremssystem und Verfahren zum Steuern eines Bremssystems
+    DE102008041760A1,2008-06-11,2009-12-17,Robert Bosch Gmbh,Bremseinrichtung für ein Kraftfahrzeug
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (6)
+              
+
+
+citedBy_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    CA2533701A1,2003-07-31,2005-02-17,Isis Pharmaceuticals, Inc.,Oligomeric compounds and compositions for use in modulation of small non-coding rnas
+    CN104149638A                      *,2014-08-01,2014-11-19,青岛盛嘉信息科技有限公司,一种基于全数字控制的制动方法
+    DE102014225578A1,2014-12-11,2016-06-16,Robert Bosch Gmbh,Pumpenvorrichtung für ein Bremssystem eines Fahrzeugs
+    CN106608250B                      *,2015-10-26,2019-03-29,比亚迪股份有限公司,车辆的主动安全控制系统和方法
+    DE102018215134A1                      *,2018-09-06,2020-03-12,Audi Ag,Bremsverfahren und -system für ein Elektrofahrzeug
+    CN112297860B                      *,2020-10-27,2022-02-08,吉林大学,一种纯电动汽车再生制动力分配方法
+
+abstract
+    本発明は、２つのブレーキ回路（１０）を備える回生式ブレーキシステムの発電機の発電機ブレーキトルクをブレンドする方法に関するものであり、次の各ステップを有しており、すなわち、ブレーキシステムの少なくとも２つのブレーキ回路のうちの１つのブレーキ回路（１０）をブレンドモードへと制御し、このときブレーキシステムのマスタブレーキシリンダ（１８）と、ブレンドモードへと制御されたブレーキ回路（１０）の備蓄容積部（４８ａ）との間の液圧接続が少なくとも一時的に解放され、それにより、マスタブレーキシリンダ（１８）からブレンドモードへと制御されたブレーキ回路（１０）の備蓄容積部（４８ａ）へブレーキ液が移送され、少なくとも２つのブレーキ回路のうちの別のブレーキ回路を非ブレンドモードへと制御し、このときマスタブレーキシリンダ（１８）と、非ブレンドモードへと制御されたブレーキ回路（１２）の備蓄容積部との間の液圧接続は非ブレンドモード中に遮断される。本発明は、２つのブレーキ回路（１０，１２）を備える回生式ブレーキシステムのための制御装置（１００）も同じく対象としている。【選択図】図１ｃ
+title
+    ２つのブレーキ回路を備える回生式ブレーキシステムの発電機の発電機ブレーキトルクをブレンドする方法、および２つのブレーキ回路を備える回生式ブレーキシステムのための制御装置
+similar_document
+23
+    Publication,Publication Date,Title
+    US9233676B2,2016-01-12,Method for operating a brake system, brake systems in which the method is carried out and motor vehicles comprising said brakes systems
+    JP5863954B2,2016-02-17,車両のブレーキシステムのための制御装置、および車両のブレーキシステムを作動させる方法
+    KR101884489B1,2018-08-01,전기 구동 장치 및/또는 발전기 장치를 장착한 브레이크 시스템의 제어 장치 및 작동 방법
+    US9586486B2,2017-03-07,Control unit for a recuperative brake system of a vehicle and method for braking a vehicle
+    KR102261066B1,2021-06-07,차량의 회생 브레이크 시스템의 작동 방법, 차량의 회생 브레이크 시스템용 제어 장치, 및 회생 브레이크 시스템
+    JP5961261B2,2016-08-02,車両のブレーキシステムのための制御装置、車両のためのブレーキシステム、および車両のブレーキシステムを作動させる方法
+    JP5876160B2,2016-03-02,２つのブレーキ回路を備える回生式ブレーキシステムの発電機の発電機ブレーキトルクをブレンドする方法、および２つのブレーキ回路を備える回生式ブレーキシステムのための制御装置
+    JP6663075B2,2020-03-11,車両のブレーキシステム及び車両のブレーキシステムの運転方法
+    JP5639666B2,2014-12-10,車両用ブレーキ・システムおよび車両ブレーキ・システムの作動方法
+    JP5735546B2,2015-06-17,車両用ブレーキ・システムおよび車両ブレーキ・システムの作動方法
+    KR101973892B1,2019-04-29,브레이크 장치
+    KR101956394B1,2019-03-11,차량 브레이크 시스템과, 차량 브레이크 시스템 작동 방법
+    KR102480768B1,2022-12-23,차량의 회생 브레이크 시스템의 작동 방법, 및 차량의 회생 브레이크 시스템용 제어 장치
+    JP6234547B2,2017-11-22,車両の液圧ブレーキシステムのための制御装置、車両のための液圧ブレーキシステム、および車両の液圧ブレーキシステムを作動させる方法
+    KR20140023366A,2014-02-26,차량 브레이크 시스템용 제어 장치 및 차량 브레이크 시스템의 작동 방법
+    JP2013520343A,2013-06-06,車両用ブレーキ・システムおよび車両ブレーキ・システムの作動方法
+    KR101991518B1,2019-06-20,차량의 회생 제동 시스템의 작동 방법 및 회생 제동 시스템용 제어 장치
+    KR20140002706A,2014-01-08,차량용 브레이크 시스템 및 차량용 브레이크 시스템의 작동 방법
+    KR101948949B1,2019-02-15,차량 브레이크 시스템용 제어 장치 및 차량 브레이크 시스템의 작동 방법
+    KR102487781B1,2023-01-12,차량용 회생 제동 시스템 및 차량의 회생 제동 시스템을 작동시키기 위한 방법
+    JP6576627B2,2019-09-18,車両のブレーキシステムのための制御装置、車両のためのブレーキシステム、並びに、車両のブレーキシステムを運転するための方法
+    JP2013112341A,2013-06-10,車両のブレーキシステム用制御装置、車両用ブレーキシステムおよび車両のブレーキシステムを作動させる方法
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    6
+classfication_items
+42
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,4
+    B,6,0,T,8,/,4,8
+    B,6,0,T,8,/,4,8,0,9
+    B,6,0,T,8,/,4,8,2,7
+    B,6,0,T,8,/,4,8,6,3
+    B,6,0,T,8,/,4,8,7,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,7,4
+    B,6,0,T,1,3,/,7,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,0,2
+    B,6,0,T,7,/,0,4
+    B,6,0,T,7,/,0,4,2
+
+application_events
+6
+    2012-09-24,Application filed by Robert Bosch GmbH
+    2014-12-18,Publication of JP2014534120A
+    2016-03-02,Application granted
+    2016-03-02,Publication of JP5876160B2
+    Status,Active
+    2032-09-24,Anticipated expiration
+
+active_area
+6
+    U,S
+    C,N
+    K,R
+    E,P
+    J,P
+    W,O
+
+not_active_area
+1
+    D,E
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    DE102011086706.6,2011-11-21,
+    DE102011086706A,2011-11-21,Verfahren zum Verblenden eines Generator-Bremsmoments eines Generators eines rekuperativen Bremssystems mit zwei Bremskreisen und Steuervorrichtung für ein rekuperatives Bremssystem mit zwei Bremskreisen
+    PCT/EP2012/068730,2012-09-24,Verfahren zum verblenden eines generator-bremsmoments eines generators eines rekuperativen bremssystems mit zwei bremskreisen und steuervorrichtung für ein rekuperatives bremssystem mit zwei bremskreisen
+
+legal_event
+16
+    Date,Code,Title,Description
+    2014-09-08,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20140521
+    2014-09-08,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20140521
+    2015-05-11,A977,Report on retrieval,Free format text: JAPANESE INTERMEDIATE CODE: A971007Effective date: 20150511
+    2015-05-19,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20150518
+    2015-08-03,A601,Written request for extension of time,Free format text: JAPANESE INTERMEDIATE CODE: A601Effective date: 20150803
+    2015-11-18,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20151118
+    2015-12-16,TRDD,Decision of grant or rejection written,
+    2015-12-25,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20151224
+    2016-01-28,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20160120
+    2016-01-29,R150,Certificate of patent or registration of utility model,Ref document number: 5876160Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R150
+    2019-01-29,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2020-01-28,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2021-01-27,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2022-01-21,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2023-01-17,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+

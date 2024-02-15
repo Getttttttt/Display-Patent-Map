@@ -1,0 +1,318 @@
+ID
+    EP3628530A1
+citation_exist
+    Patent Citations (13)
+citation_infor
+15
+    Publication number,Priority date,Publication date,Assignee,Title
+    US6484830B1                      *,2000-04-26,2002-11-26,Bowling Green State University,Hybrid electric vehicle
+    US20100096926A1                      *,2008-10-22,2010-04-22,Robert Dean King,Apparatus for transferring energy using power electronics and machine inductance and method of manufacturing same
+    US20150069938A1                      *,2013-09-06,2015-03-12,Toyota Jidosha Kabushiki Kaisha,Hybrid vehicle and method for controlling hybrid vehicle
+    EP3100898A1                      *,2014-01-30,2016-12-07,BYD Company Limited,Vehicle and braking feedback control method thereof
+    Family To Family Citations,,,,
+    US5939861A                      *,1996-05-24,1999-08-17,Hino Jidosha Kogyo Kabushiki Kaisha,Control system for on-vehicle battery
+    JP2001238303A                      *,2000-02-24,2001-08-31,Mitsubishi Motors Corp,Regenerative controller of hybrid electric vehicle
+    US8672069B2,2009-08-25,2014-03-18,Deere & Company,Hybrid vehicle with multiple electric drive systems
+    US8427086B2,2010-04-26,2013-04-23,Deere & Company,Brake resistor control
+    US8528675B2,2011-03-02,2013-09-10,Deere & Company,Electrical cabinet
+    US8474560B1,2011-12-28,2013-07-02,Deere & Company,Inverter mounting on an electric drive loader
+    US10933752B2                      *,2017-10-31,2021-03-02,Tomcar Holding Company LLC,Regenerative braking for electric and hybrid vehicles
+    US10814743B2                      *,2018-01-23,2020-10-27,GM Global Technology Operations LLC,Energy management system and method for vehicle with high power and high energy battery packs
+    US10913444B2,2018-09-25,2021-02-09,Deere & Company,Power system architecture for hybrid electric vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (5)
+              
+
+
+citedBy_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    US10913444B2,2018-09-25,2021-02-09,Deere & Company,Power system architecture for hybrid electric vehicle
+    EP4238806A1                      *,2022-03-01,2023-09-06,Volvo Truck Corporation,An electric machine drive arrangement for a heavy-duty vehicle
+    Family To Family Citations,,,,
+    DE102019202335A1                      *,2019-02-21,2020-08-27,Audi Ag,Method for operating at least two pulse-controlled inverters, a circuit arrangement and a motor vehicle connected to a direct current network
+    US11563241B2                      *,2021-02-10,2023-01-24,Dennis Palatov,Apparatus and methods for removable battery module with internal relay and internal controller
+    US20220355140A1                      *,2021-05-05,2022-11-10,Oshkosh Corporation,Operational modes for a driveline of an electrified fire fighting vehicle
+
+abstract
+    An improved power system architecture for a hybrid electric vehicle includes a power control unit including a motor inverter, a generator inverter, and a DC-to-DC converter, and vehicle power management (VPM) circuitry directly connected to each of the motor inverter, generator inverter, and DC-to-DC converter. In this arrangement, communication timing is greatly reduced, thereby allowing for feedforward control of the motor inverter, generator inverter, and DC-to-DC converter. The feedforward control enables the VPM circuitry to predict current influx or draw by a motor and determine the corresponding currents to provide to or from the generator and battery prior to or simultaneously with the actual current influx or draw by the motor. This improves vehicle dynamics and responsiveness, as well as enables complete recapture of braking currents and eliminates the need for a brake chopper resistor, thereby improving overall vehicle efficiency.
+title
+    Power system architecture for hybrid electric vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    EP3628530B1,2022-01-19,Power system architecture for hybrid electric vehicle
+    KR101199244B1,2012-11-09,Hybrid construction machine
+    US7049792B2,2006-05-23,Method and apparatus for a hybrid battery configuration for use in an electric or hybrid electric motive power system
+    EP2193954B1,2020-10-21,Auxiliary drive apparatus and method of manufacturing same
+    JP4111138B2,2008-07-02,Electric load device, electric load device control method, and computer-readable recording medium storing a program for causing computer to execute electric load control
+    US8297392B2,2012-10-30,Hybrid energy management system
+    US10236803B2,2019-03-19,Hybrid-vehicle variable-voltage traction motor drive
+    CN101284532B,2012-03-28,Control method of battery charge state SOC for hybrid electric vehicle
+    US20120082536A1,2012-04-05,Hybrid excavator and method of controlling hybrid excavator
+    US20120277942A1,2012-11-01,System and method for charging capacitors of an electric vehicle
+    US20100224428A1,2010-09-09,Power supply device and vehicle including the same, control method for power supply device, and computer-readable recording medium having program for causing computer to execute that control method recorded thereon
+    US10239530B2,2019-03-26,Vehicle control apparatus for a regenerative braking system based on the battery input power
+    US6435311B2,2002-08-20,Elevator control calculating power consumed and power generated by a controlled elevator
+    JP2008017563A,2008-01-24,Vehicle controller, vehicle controlling method, and vehicle
+    JP6979395B2,2021-12-15,Electric vehicle
+    JP7041095B2,2022-03-23,Power system
+    JP7069075B2,2022-05-17,Power system
+    JP7096203B2,2022-07-05,Power system
+    CN113799613B,2022-04-15,Braking energy feedback inhibition method for electric industrial vehicle
+    JP2017147829A,2017-08-24,Power supply system, transportation equipment, and control method of power transmission system
+    JP4019953B2,2007-12-12,Voltage conversion device, voltage conversion method, power supply method, and computer-readable recording medium storing a program for causing a computer to execute control of power supply
+    JP2014514914A,2014-06-19,A unit comprising an electric energy source having at least two elements of different technologies and an inverter for controlling an alternating current electric motor
+    US9190939B2,2015-11-17,Device and method for managing the electric braking of a vehicle
+    CA2591696C,2011-01-11,Method and apparatus for a hybrid battery configuration for use in an electric or hybrid electric motive power system
+    JP2022093977A,2022-06-24,Power system
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    7
+classfication_nums
+    27
+classfication_items
+161
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B,6,0,W,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,2,0
+    B,6,0,L,5,3,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B,6,0,L,2,2,1,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B,6,0,L,2,2,1,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+6
+    2019-09-23,Application filed by Deere and Co
+    2020-04-01,Publication of EP3628530A1
+    2022-01-19,Application granted
+    2022-01-19,Publication of EP3628530B1
+    Status,Active
+    2039-09-23,Anticipated expiration
+
+active_area
+2
+    U,S
+    E,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US16/141,583,2018-09-25,Power system architecture for hybrid electric vehicle
+
+legal_event
+46
+    Date,Code,Title,Description
+    2020-02-28,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2020-02-28,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+    2020-04-01,AK,Designated contracting states,Kind code of ref document: A1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2020-04-01,AX,Request for extension of the european patent,Extension  state: BA ME
+    2020-10-09,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+    2020-11-11,17P,Request for examination filed,Effective date: 20201001
+    2020-11-11,RBV,Designated contracting states (corrected),Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2020-12-18,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: EXAMINATION IS IN PROGRESS
+    2021-01-19,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: EXAMINATION IS IN PROGRESS
+    2021-01-20,17Q,First examination report despatched,Effective date: 20201221
+    2021-09-09,GRAP,Despatch of communication of intention to grant a patent,Free format text: ORIGINAL CODE: EPIDOSNIGR1
+    2021-09-09,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: GRANT OF PATENT IS INTENDED
+    2021-10-06,INTG,Intention to grant announced,Effective date: 20210910
+    2021-12-10,GRAS,Grant fee paid,Free format text: ORIGINAL CODE: EPIDOSNIGR3
+    2021-12-17,GRAA,(expected) grant,Free format text: ORIGINAL CODE: 0009210
+    2021-12-17,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE PATENT HAS BEEN GRANTED
+    2022-01-19,AK,Designated contracting states,Kind code of ref document: B1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2022-01-19,REG,Reference to a national code,Ref country code: GBRef legal event code: FG4D
+    2022-01-31,REG,Reference to a national code,Ref country code: CHRef legal event code: EP
+    2022-02-10,REG,Reference to a national code,Ref country code: DERef legal event code: R096Ref document number: 602019011007Country of ref document: DE
+    2022-02-15,REG,Reference to a national code,Ref country code: ATRef legal event code: REFRef document number: 1463610Country of ref document: ATKind code of ref document: TEffective date: 20220215
+    2022-02-16,REG,Reference to a national code,Ref country code: IERef legal event code: FG4D
+    2022-05-10,REG,Reference to a national code,Ref country code: LTRef legal event code: MG9D
+    2022-05-25,REG,Reference to a national code,Ref country code: NLRef legal event code: MPEffective date: 20220119
+    2022-06-15,REG,Reference to a national code,Ref country code: ATRef legal event code: MK05Ref document number: 1463610Country of ref document: ATKind code of ref document: TEffective date: 20220119
+    2022-06-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: NLFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220119
+    2022-07-29,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: SEFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220119Ref country code: RSFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220119Ref country code: PTFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220519Ref country code: NOFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220419Ref country code: LTFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220119Ref country code: HRFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220119Ref country code: ESFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220119Ref country code: BGFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220419
+    2022-08-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: PLFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220119Ref country code: LVFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220119Ref country code: GRFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220420Ref country code: FIFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220119Ref country code: ATFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220119
+    2022-09-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: ISFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220519
+    2022-10-20,REG,Reference to a national code,Ref country code: DERef legal event code: R097Ref document number: 602019011007Country of ref document: DE
+    2022-10-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: SMFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220119Ref country code: SKFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220119Ref country code: ROFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220119Ref country code: EEFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220119Ref country code: DKFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220119Ref country code: CZFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220119
+    2022-10-31,PGFP,Annual fee paid to national office [announced via postgrant information from national office to epo],Ref country code: DEPayment date: 20220819Year of fee payment: 4
+    2022-11-25,PLBE,No opposition filed within time limit,Free format text: ORIGINAL CODE: 0009261
+    2022-11-25,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: NO OPPOSITION FILED WITHIN TIME LIMIT
+    2022-11-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: ALFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220119
+    2022-11-30,PGFP,Annual fee paid to national office [announced via postgrant information from national office to epo],Ref country code: FRPayment date: 20220926Year of fee payment: 4
+    2022-12-28,26N,No opposition filed,Effective date: 20221020
+    2023-02-28,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: SIFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220119
+    2023-04-28,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: MCFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220119
+    2023-04-28,REG,Reference to a national code,Ref country code: CHRef legal event code: PL
+    2023-05-25,REG,Reference to a national code,Ref country code: BERef legal event code: MMEffective date: 20220930
+    2023-06-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: LUFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20220923
+    2023-07-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: LIFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20220930Ref country code: ITFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220119Ref country code: IEFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20220923Ref country code: CHFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20220930
+    2023-09-29,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: BEFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20220930
+    2023-10-31,PGFP,Annual fee paid to national office [announced via postgrant information from national office to epo],Ref country code: GBPayment date: 20230927Year of fee payment: 5
+

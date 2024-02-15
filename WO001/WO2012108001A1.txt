@@ -1,0 +1,213 @@
+ID
+    WO2012108001A1
+citation_exist
+    Patent Citations (3)
+citation_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2000166004A                      *,1998-11-25,2000-06-16,Toyota Motor Corp,車両の回生制動制御装置
+    JP2007276575A                      *,2006-04-04,2007-10-25,Toyota Motor Corp,車両の制御装置
+    JP2010241166A                      *,2009-04-01,2010-10-28,Nissan Motor Co Ltd,車両の四輪駆動制御装置及び四輪駆動制御方法
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2015085794A                      *,2013-10-30,2015-05-07,富士重工業株式会社,４輪駆動形式ハイブリッド車の制御装置
+    CN108621804A                      *,2018-05-14,2018-10-09,浙江吉利控股集团有限公司,四轮独立电驱动车辆再生制动稳定控制方法、装置及车辆
+    Family To Family Citations,,,,
+
+abstract
+    前後輪駆動車両の回生制動時において車両挙動の安定性を向上させることができる前後輪駆動車両用の駆動制御装置を提供する。　回生制動トルク決定手段１３２は、制御カップリング装置５４のトルク伝達制限時には、第２電動機Ｍ２の回生制動トルクＴgrを非トルク伝達制限時よりも小さく設定する。また、上記トルク伝達制限時に、第２電動機Ｍ２の回生制動トルクＴgrが上記非トルク伝達制限時と変わらないとすれば、その非トルク伝達制限時と比較して後側駆動輪３２がスリップし車両挙動が不安定になり易い。従って、制御カップリング装置５４のトルク伝達制限時が加味されずに第２電動機Ｍ２の回生制動トルクＴgrが発生させられる場合と比較して、車両６の回生制動時において車両挙動の安定性を向上させることができる。特に、このような効果は、例えば低μ路にて顕著なものになる。
+title
+    前後輪駆動車両用の駆動制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    US8700241B2,2014-04-15,Drive control device for standby four-wheel drive vehicle
+    US7216943B2,2007-05-15,Hybrid vehicle
+    JP4228085B2,2009-02-25,車両およびその制御方法、動力出力装置およびその制御方法、ならびに駆動装置およびその制御方法
+    US9238412B2,2016-01-19,Normalizing deceleration of a vehicle having a regenerative braking system
+    JP4325615B2,2009-09-02,ハイブリッド車両のエンジン停止制御装置
+    JP5310746B2,2013-10-09,四輪駆動車両用動力伝達装置の制御装置
+    WO2010058470A1,2010-05-27,車両用動力伝達装置の制御装置
+    WO2013062124A1,2013-05-02,ハイブリッド車両の制御装置
+    JP2004268901A,2004-09-30,制動制御装置
+    US20100211280A1,2010-08-19,Regenerative braking control method for hybrid vehicles and/or four-wheel-drive vehicles and arrangement for vehicle using said method
+    JP2007060761A,2007-03-08,ハイブリッド車の減速度制御装置
+    KR101714238B1,2017-03-22,친환경자동차의 제동 제어 방법
+    JP2011011721A,2011-01-20,ハイブリッド電気自動車の制御装置
+    JP5348226B2,2013-11-20,車両の制動制御装置
+    US11590944B2,2023-02-28,Braking control device
+    JP2006197757A,2006-07-27,車両の回生制動制御装置
+    JP2009214580A,2009-09-24,ハイブリッド車およびその制御方法
+    JP2012091573A,2012-05-17,トルク制御装置及びトルク制御方法
+    JP4285483B2,2009-06-24,車両およびその制御方法
+    WO2012108001A1,2012-08-16,前後輪駆動車両用の駆動制御装置
+    JP2010241166A,2010-10-28,車両の四輪駆動制御装置及び四輪駆動制御方法
+    JP5977982B2,2016-08-24,車両用駆動装置
+    JP2007296933A,2007-11-15,車両およびその制御方法
+    JP3906826B2,2007-04-18,ハイブリッド４輪駆動車の制御装置
+    JP4136978B2,2008-08-20,ハイブリッド車両の動力伝達装置
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    PCT/JP2011/052644,2011-02-08,2011-02-08,前後輪駆動車両用の駆動制御装置
+
+inventor_number
+    3
+classfication_nums
+    18
+classfication_items
+111
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,4
+    B,6,0,K,6,/,4,4,5
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,5,0
+    B,6,0,K,6,/,5,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,0
+    B,6,0,L,3,/,1,0,6
+    B,6,0,L,3,/,1,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,1,9
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,2
+    B,6,0,W,1,0,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,0,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,7,/,0,0
+    B,6,0,K,1,7,/,3,4
+    B,6,0,K,1,7,/,3,4,8
+    B,6,0,K,1,7,/,3,5
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,2,3,/,0,0
+    B,6,0,K,2,3,/,0,8
+    B,6,0,K,2,3,/,0,8,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,4,0
+    B,6,0,W,2,7,2,0,/,4,0,3
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+
+application_events
+3
+    2011-02-08,Application filed by トヨタ自動車株式会社
+    2011-02-08,Priority to PCT/JP2011/052644
+    2012-08-16,Publication of WO2012108001A1
+
+active_area
+1
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2011/052644,2011-02-08,前後輪駆動車両用の駆動制御装置
+
+legal_event
+5
+    Date,Code,Title,Description
+    2012-10-03,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 11858226Country of ref document: EPKind code of ref document: A1
+    2013-08-08,NENP,Non-entry into the national phase,Ref country code: DE
+    2014-03-05,122,Ep: pct application non-entry in european phase,Ref document number: 11858226Country of ref document: EPKind code of ref document: A1
+    2014-03-17,NENP,Non-entry into the national phase,Ref country code: JP
+

@@ -1,0 +1,164 @@
+ID
+    WO2017087038A1
+citation_exist
+    Patent Citations (7)
+citation_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5905360A                      *,1996-08-22,1999-05-18,Toyota Jidosha Kabushiki Kaisha,Battery system and electric motor vehicle using the battery system with charge equalizing features
+    US20120179346A1                      *,2011-01-06,2012-07-12,Ford Global Technologies, Llc,Regenerative Braking Feedback Display And Method
+    US20120179318A1                      *,2011-01-06,2012-07-12,Ford Global Technologies, Llc,Information Display System And Method
+    WO2015016965A1                      *,2013-07-31,2015-02-05,Johnson Controls Technology Company,Passive architectures for batteries having two different chemistries
+    Family To Family Citations,,,,
+    JP4277928B1                      *,2007-12-07,2009-06-10,トヨタ自動車株式会社,vehicle
+    DE102012217193A1                      *,2012-09-24,2014-06-12,Bayerische Motoren Werke Aktiengesellschaft,Method for operating a vehicle electrical system
+    JP6240902B2                      *,2014-01-31,2017-12-06,パナソニックＩｐマネジメント株式会社,Information providing method, information providing apparatus, and battery pack
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20210291655A1                      *,2020-03-19,2021-09-23,Honda Motor Co.,Ltd.,Control device, moving body and computer-readable storage medium
+    Family To Family Citations,,,,
+    JP6707843B2                      *,2015-11-17,2020-06-10,オムロン株式会社,Battery residual quantity display device, battery system and battery residual quantity display method
+    KR101927175B1                      *,2016-08-30,2019-03-12,현대자동차 주식회사,Vehicle system, battery system and control method thereof
+    TWI718783B                      *,2019-11-28,2021-02-11,新普科技股份有限公司,Method for establishing visual images of models of battery status
+
+abstract
+    A battery system may include a first battery module that outputs a first voltage and a first current, a second battery module configured to output a second voltage and second current, and a display that depicts visualizations. The battery system may include a processor that may receive an indication to monitor a selected battery module comprising the first battery module or the second battery module, receive properties to monitor regarding the selected battery module, receive data regarding the properties from sensor circuitry configured receive the data from one or more sensors associated with the selected battery module, and generate visualizations that correspond to the one or more properties. Each of the visualizations may indicate a current value that corresponds to each of the properties based on the data. The processor may then display the visualizations on the display.
+title
+    Systems and methods for visualizing battery data
+similar_document
+22
+    Publication,Publication Date,Title
+    US11038363B2,2021-06-15,Battery system to be implemented in an automotive vehicle, wake-up control unit configured to determine whether a short circuit is expected to be present in an electrical system, and short circuit detection unit of an electrical system
+    CN109997050B,2021-10-15,System and method for state of charge and capacity estimation of rechargeable batteries
+    CN107128186B,2022-08-26,System and method for battery state of health monitoring
+    US10099562B2,2018-10-16,Cooling strategy for battery systems
+    JP4116609B2,2008-07-09,Power supply control device, electric vehicle and battery control unit
+    US10114058B2,2018-10-30,System and method for high voltage leakage detection
+    US11112463B2,2021-09-07,Integrated battery sensor for multiple battery modules
+    US9381824B2,2016-07-05,Circuit and method for detection of battery cell drain
+    EP3323184B1,2020-01-29,A method and system for balancing a battery pack
+    US20160082844A1,2016-03-24,Methods and systems for multiple source energy storage, management, and control
+    US10809305B2,2020-10-20,System and method for detecting and responding to a battery over-discharge condition within a vehicle
+    US10151801B2,2018-12-11,Method and system for monitoring the status of battery cells
+    US20160272080A1,2016-09-22,Battery Open-Circuit Voltage Measurement Using Reverse Current Pulse
+    US10547089B2,2020-01-28,Optimization of cruising voltage for life and fuel economy performance in advanced start-stop systems
+    CN108604803B,2022-02-22,Integrated battery safety interlock
+    WO2017087038A1,2017-05-26,Systems and methods for visualizing battery data
+    US20150061688A1,2015-03-05,Vehicle High/Low Voltage Systems Isolation Testing
+    JP6412847B2,2018-10-24,Power storage device and control method
+    JP2015052461A,2015-03-19,Power storage system and charging rate estimation method
+    US11135939B2,2021-10-05,System and method for hybrid-electric vehicle battery capacity estimation
+    Jombo et al.,2022,Fault Detection and Isolation in Electric Vehicle Powertrain
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    10
+classfication_items
+63
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,6
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,1,4
+    H,0,2,J,7,/,1,4,2,3
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+
+application_events
+2
+    2016-07-10,Application filed by Johnson Controls Technology Company
+    2017-05-26,Publication of WO2017087038A1
+
+active_area
+1
+    W,O
+
+not_active_area
+1
+    U,S
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    US14/943,797,2015-11-17,Systems and methods for visualizing battery data
+    US14/943,797,2015-11-17,
+
+legal_event
+4
+    Date,Code,Title,Description
+    2017-07-19,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 16748384Country of ref document: EPKind code of ref document: A1
+    2018-05-18,NENP,Non-entry into the national phase,Ref country code: DE
+    2018-12-19,122,Ep: pct application non-entry in european phase,Ref document number: 16748384Country of ref document: EPKind code of ref document: A1
+

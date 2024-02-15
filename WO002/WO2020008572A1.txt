@@ -1,0 +1,152 @@
+ID
+    WO2020008572A1
+citation_exist
+    Patent Citations (3)
+citation_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH08126101A                      *,1994-10-20,1996-05-17,Fuji Electric Co Ltd,車両用電力変換装置の過電圧保護装置
+    WO2011074045A1                      *,2009-12-18,2011-06-23,三菱電機株式会社,電気車の駆動制御装置
+    JP2017184448A                      *,2016-03-30,2017-10-05,三菱電機株式会社,電動機制御装置および電動機制御方法
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    制御装置（２０）は、トルク制御部（２１）、および、回路制御部（２３）を備える。トルク制御部（２１）は、運転指令に応じて電力変換部が有するスイッチング素子のオンオフを切り替える。運転指令がブレーキ指令を含み、フィルタコンデンサの電圧が基準電圧以上である場合に、回路制御部（２３）は、フィルタコンデンサの電圧と正の相関を有し、フィルタコンデンサの電圧の時間変化に伴って時間変化する通流率で、降圧回路を動作させる。また、運転指令が力行指令を含む場合に、回路制御部（２３）は、停止指令を取得すると、フィルタコンデンサの電圧と基準電圧との大小関係に依存せず、降圧回路を動作させる。
+title
+    鉄道車両用制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP5274723B1,2013-08-28,電気車制御装置
+    JP2008278615A,2008-11-13,電力変換器の制御装置
+    JP5766640B2,2015-08-19,電気車制御装置
+    KR20120037997A,2012-04-20,전기차 추진용 전력 변환 장치
+    US9013125B2,2015-04-21,Electric power converter of electric rolling stock
+    JP5968518B2,2016-08-10,電気車用主変換装置
+    JP6725298B2,2020-07-15,電車用電力変換制御装置
+    WO2020008575A1,2020-01-09,鉄道車両用制御装置および離線判定方法
+    TWI670189B,2019-09-01,軌道車輛用電路系統
+    US9731607B1,2017-08-15,Vehicle brake control system
+    JP3345249B2,2002-11-18,電気車制御装置
+    JP2017055500A,2017-03-16,鉄道車両の制御システム及び制御方法
+    JP3974092B2,2007-09-12,電気車制御装置
+    WO2020008572A1,2020-01-09,鉄道車両用制御装置
+    JP6851502B2,2021-03-31,鉄道車両用電力変換システム
+    CN111347941B,2022-03-18,轨道车辆辅助供电系统及其控制方法
+    JP7229425B2,2023-02-27,電力変換装置
+    JP4153879B2,2008-09-24,車両駆動制御装置
+    JP6786268B2,2020-11-18,蓄電システム
+    JPH11286229A,1999-10-19,電力回生インバータ装置
+    JP7301686B2,2023-07-03,電力変換システム
+    JP2015089194A,2015-05-07,鉄道車両の制御システム、制御方法、及び電力変換装置
+    JP2007209200A,2007-08-16,電気車制御装置
+    JP2004236397A,2004-08-19,車両用電力変換器の制御装置
+    JP2001354053A,2001-12-25,給電システム
+
+patent_application
+    NoExist
+patent_priority_application
+4
+    Application,Priority date,Filing date,Title
+    DE112018007793.4T,2018-07-04,2018-07-04,Steuervorrichtung für eisenbahnfahrzeuge
+    JP2020528609A,2018-07-04,2018-07-04,鉄道車両用制御装置
+    PCT/JP2018/025397,2018-07-04,2018-07-04,鉄道車両用制御装置
+
+inventor_number
+    4
+classfication_nums
+    9
+classfication_items
+54
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,9,/,0,0
+    B,6,0,L,9,/,1,6
+    B,6,0,L,9,/,1,8
+    B,6,0,L,9,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+5
+    2018-07-04,Application filed by 三菱電機株式会社
+    2018-07-04,Priority to DE112018007793.4T
+    2018-07-04,Priority to JP2020528609A
+    2018-07-04,Priority to PCT/JP2018/025397
+    2020-01-09,Publication of WO2020008572A1
+
+active_area
+3
+    D,E
+    W,O
+    J,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2018/025397,2018-07-04,鉄道車両用制御装置
+
+legal_event
+4
+    Date,Code,Title,Description
+    2020-02-19,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 18925246Country of ref document: EPKind code of ref document: A1
+    2020-12-25,ENP,Entry into the national phase,Ref document number: 2020528609Country of ref document: JPKind code of ref document: A
+    2021-07-14,122,Ep: pct application non-entry in european phase,Ref document number: 18925246Country of ref document: EPKind code of ref document: A1
+

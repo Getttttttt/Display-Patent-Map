@@ -1,0 +1,231 @@
+ID
+    US11332018B2
+citation_exist
+    Patent Citations (20)
+citation_infor
+22
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20040206561A1                      *,2003-04-17,2004-10-21,Visteon Global Technologies, Inc.,Regenerative damping method and apparatus
+    US20070095586A1                      *,2005-10-18,2007-05-03,Daren Luedtke,Power regeneration system
+    TW200718584A,2005-11-10,2007-05-16,Nat Univ Chung Hsing,An intelligent energy control system for fuel cell / electric hybrid scooters
+    CN2913079Y,2005-03-22,2007-06-20,项青松,Energy source return automatic charging control circuit for electric vehicle
+    US20100004807A1,2008-07-06,2010-01-07,Paul H Kydd,Control system for electric hybrid vehicle conversion
+    TW201014114A,2008-09-30,2010-04-01,Nat Univ Chung Hsing,Energy recharging and pedal assisting controller for electrical bicycles
+    TW201213177A,2010-09-27,2012-04-01,Kwang Yang Motor Co,Control device and method for automatic downhill deceleration of electrical scooter
+    US20120138375A1                      *,2010-12-03,2012-06-07,Vectrix International Limited,Regenerative braking system for an electric vehicle and method of use
+    US20120179347A1                      *,2011-01-06,2012-07-12,Ford Global Technologies, Llc,Regenerative Braking Feedback Display And Method
+    KR20130008350A,2011-07-12,2013-01-22,현대모비스 주식회사,Method for controlling regenerative braking in vehicle and apparatus thereof
+    CN103072493A,2011-10-26,2013-05-01,华创车电技术中心股份有限公司,Downhill constant-speed electric power back-charging system
+    CN103402809A,2011-01-13,2013-11-20,卡明斯公司,System, method, and apparatus for controlling power output distribution in hybrid power train
+    CN104638318A,2014-11-28,2015-05-20,富奥汽车零部件股份有限公司,Low-temperature rapid heating method and system for power battery pack for electric vehicle
+    TW201618981A,2014-11-20,2016-06-01,Long-Jiang Hu,Electric vehicle electrical energy recovery system with AC machine
+    TWI606670B,2016-09-30,2017-11-21,尼克森微電子股份有限公司,Brake energy recovery module
+    Family To Family Citations,,,,
+    JP3200346B2                      *,1995-12-29,2001-08-20,本田技研工業株式会社,Control device for electric vehicle
+    JP3751736B2                      *,1998-01-21,2006-03-01,ヤマハ発動機株式会社,Electric vehicle operation control device
+    TW201232248A                      *,2011-01-24,2012-08-01,Acer Inc,Power saving apparatus and operating method of power saving apparatus
+    CN104037898B                      *,2014-07-02,2017-02-01,东南大学,Self-adapting charging method for vehicle-mounted power battery
+    KR102368304B1                      *,2015-01-27,2022-02-28,삼성에스디아이 주식회사,Battery pack, method for controlling and driving system of electro-mechanical apparatus having the same
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    A battery regenerative breaking control method applied in an electric vehicle is provided. The battery regenerative breaking control method includes: determining whether a battery pack is at a protection status when the electric vehicle is detected to be at a regenerative breaking status; recording a current battery error time point and obtaining a time threshold according to a current speed of the electric vehicle if it is determined that the battery pack is at the protection status; determining whether a current time is smaller than the time threshold; entering a first stage to adjust a pulse width modulation (PWM) duty cycle if the current time is smaller than the time threshold; and entering a second stage to adjust a PWM frequency if the current time is larger than the time threshold.
+title
+    Battery regenerative braking control method
+similar_document
+26
+    Publication,Publication Date,Title
+    JP6462027B2,2019-01-30,Energy storage system for electric or hybrid vehicles
+    US6630810B2,2003-10-07,Hybrid vehicle and control method therefor
+    US9487090B2,2016-11-08,Dual energy storage system for micro hybrid vehicles
+    US7506182B2,2009-03-17,Vehicle-mounted power supply system
+    US9797361B2,2017-10-24,Power supply device for vehicle
+    JP5682515B2,2015-03-11,Control device for hybrid electric vehicle
+    WO2008108498A1,2008-09-12,Vehicle controlling apparatus and controlling method
+    US10668815B2,2020-06-02,Brake energy recovery module
+    JP2015217920A,2015-12-07,Vehicle power supply device and vehicle regenerative system
+    JP2007295700A,2007-11-08,Motor controller and electric vehicle equipped with it
+    JP2009166513A,2009-07-30,Power supply device and its discharge control method
+    US20150222208A1,2015-08-06,Vehicle
+    JP2008035670A,2008-02-14,Vehicular power supply system, control method of power supply device, program for achieving its control method, and recording medium in which its program is recorded
+    US9909486B2,2018-03-06,Vehicle
+    JP2007191088A,2007-08-02,Hybrid vehicle
+    JP2004194475A,2004-07-08,Inverter
+    US11332018B2,2022-05-17,Battery regenerative braking control method
+    KR101370739B1,2014-03-06,Convertor for electric vehicle, electric vehicle including the same, and method for controlling the same
+    JP6242012B2,2017-12-06,Power supply
+    JP2007186048A,2007-07-26,Hybrid car
+    KR101836643B1,2018-03-08,Mild hybrid system of vehicle
+    JP6688430B2,2020-04-28,HYBRID VEHICLE CONTROL DEVICE AND HYBRID VEHICLE
+    WO2018066624A1,2018-04-12,Power supply system control device
+    JP2701340B2,1998-01-21,Regenerative braking control circuit for electric vehicles
+    JP2014193044A,2014-10-06,Power supply control device
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    18
+classfication_items
+113
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,1,4
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,1,4
+    H,0,2,J,7,/,1,4,2,3
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,1,4
+    H,0,2,J,7,/,1,4,6,9
+    H,0,2,J,7,/,1,4,9,2
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,1,4
+    H,0,2,J,7,/,1,6
+    H,0,2,J,7,/,2,4
+    H,0,2,J,7,/,2,4,3,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,8,0
+    Y,0,2,T,1,0,/,9,2
+
+application_events
+7
+    2020-03-17,Application filed by Acer Inc
+    2020-03-18,Assigned to ACER INCORPORATED
+    2021-06-03,Publication of US20210162868A1
+    2022-05-17,Application granted
+    2022-05-17,Publication of US11332018B2
+    Status,Active
+    2040-11-15,Adjusted expiration
+
+active_area
+3
+    T,W
+    C,N
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    TW108143343A,2019-11-28,Battery regenerative braking control method
+    TW108143343,2019-11-28,
+
+legal_event
+9
+    Date,Code,Title,Description
+    2020-03-17,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2020-03-18,AS,Assignment,Owner name: ACER INCORPORATED, TAIWANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:HSU, CHU-HSIANG;REEL/FRAME:052148/0701Effective date: 20200313
+    2020-04-09,STPP,Information on status: patent application and granting procedure in general,Free format text: APPLICATION DISPATCHED FROM PREEXAM, NOT YET DOCKETED
+    2021-08-20,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2022-01-24,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2022-04-14,STPP,Information on status: patent application and granting procedure in general,Free format text: AWAITING TC RESP., ISSUE FEE NOT PAID
+    2022-04-19,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2022-04-27,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

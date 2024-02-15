@@ -1,0 +1,241 @@
+ID
+    US11505195B2
+citation_exist
+    Patent Citations (7)
+citation_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20110166730A1                      *,2010-10-29,2011-07-07,Ford Global Technologies, Llc,Engine transient mitigation for hybrid vehicles
+    US20150066265A1                      *,2013-09-04,2015-03-05,Ford Global Technologies, Llc,Dynamic allocation of drive torque
+    US20150197233A1                      *,2014-01-14,2015-07-16,Ford Global Technologies, Llc,Vehicle engine and electric machine control
+    US9126591B2,2013-10-18,2015-09-08,Ford Global Technologies, Llc,Hybrid vehicle powertrain management system and method
+    KR101618453B1,2014-10-29,2016-05-04,쌍용자동차 주식회사,one-pedal driving control method of electric car
+    US20190106103A1,2017-10-05,2019-04-11,Toyota Jidosha Kabushiki Kaisha,Driving assistance control device
+    Family To Family Citations,,,,
+    JP5331195B2,2009-10-19,2013-10-30,パナソニック株式会社,Semiconductor device
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US11745600B2                      *,2020-02-04,2023-09-05,Subaru Corporation,Driving force controller for vehicle
+    US11623629B2                      *,2020-09-28,2023-04-11,Ford Global Technologies, Llc,One-pedal drive method to control vehicle speed to a stop using feedback powertrain torque controls
+    CN115489334B                      *,2022-08-31,2023-09-01,成都赛力斯科技有限公司,Energy recovery negative torque control method, device, computer equipment and storage medium
+
+abstract
+    A vehicle includes a powertrain having an electric machine configured to power driven wheels, an accelerator pedal, and a brake pedal. A controller is programmed to, in response to driver-demanded torque corresponding to a position of the accelerator pedal, selectively brake the vehicle via operation of the electric machine, in further response to a speed of the vehicle being greater than a threshold, limit a rate of change of the driver-demanded torque commanded to the powertrain based on a first rate limit, and, in further response to the speed being less than another threshold, limit a rate of change of the driver-demanded torque commanded to the powertrain based on a second rate limit that is higher than the first rate limit such that, for a given driver-demanded torque, acceleration and deceleration of the vehicle is more responsive than when the first rate limit is applied.
+title
+    One-pedal drive filters and rate limits of powertrain torque
+similar_document
+22
+    Publication,Publication Date,Title
+    CN108099615B,2022-11-29,System and method for controlling braking of electric vehicle
+    US11505195B2,2022-11-22,One-pedal drive filters and rate limits of powertrain torque
+    US11584225B2,2023-02-21,One-pedal speed control for off-road driving
+    JP4839864B2,2011-12-21,VEHICLE, ITS CONTROL METHOD, AND BRAKE DEVICE
+    US7131708B2,2006-11-07,Coordinated regenerative and engine retard braking for a hybrid vehicle
+    US8160763B2,2012-04-17,Method and apparatus for controlling creep torque in a vehicle equipped with a hybrid powertrain system
+    US20220080971A1,2022-03-17,Uphill vehicle launch in one-pedal driving mode
+    US20230192064A1,2023-06-22,Estimation of vehicle speed in all-wheel-drive vehicle
+    KR101272515B1,2013-06-10,Auto cruise control method for electric vehicle
+    CN105383492A,2016-03-09,Vehicle system and method for adjusting deceleration rate
+    CN107791885A,2018-03-13,The fail safe devices and methods therefor of ECM systems
+    US10518775B1,2019-12-31,Regenerative braking of vehicle with primary and secondary drive axles
+    US9981554B2,2018-05-29,System and method for controlling braking of electric vehicle
+    CN105437983B,2020-03-20,Vehicle system and method for adjusting lift pedal regeneration
+    US11584224B2,2023-02-21,Manual torque vectoring
+    US11498429B2,2022-11-15,Aggregating braking torque during one-pedal drive mode
+    US11794715B2,2023-10-24,Brake assist during vehicle one pedal drive
+    US11713043B2,2023-08-01,All-wheel drive electric vehicle with simulated axle lock
+    US11623629B2,2023-04-11,One-pedal drive method to control vehicle speed to a stop using feedback powertrain torque controls
+    CN112277924A,2021-01-29,System and method for controlling a vehicle during coasting
+    CN114683860A,2022-07-01,Braking method and device for vehicle energy recovery and vehicle with braking method and device
+
+patent_application
+    NoExist
+patent_priority_application
+4
+    Application,Priority date,Filing date,Title
+    US17/035,066,2020-09-28,2020-09-28,One-pedal drive filters and rate limits of powertrain torque
+    DE102021124822.1A,2020-09-28,2021-09-26,Single pedal drive filter and drive torque rate limits
+    CN202111143235.2A,2020-09-28,2021-09-28,Single pedal drive filtering and rate limiting of powertrain torque
+
+inventor_number
+    3
+classfication_nums
+    23
+classfication_items
+127
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,/,0,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,2,6,/,0,0
+    B,6,0,K,2,6,/,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,0,8,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,0,8,7
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,/,0,0
+    B,6,0,K,2,0,0,1,/,0,0,1
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,2,6,/,0,0
+    B,6,0,K,2,6,/,0,2
+    B,6,0,K,2,0,2,6,/,0,2,5
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,2,6,/,0,0
+    B,6,0,K,2,6,/,0,2
+    B,6,0,K,2,0,2,6,/,0,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    B,6,0,W,2,7,1,0,/,0,8,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+9
+    2020-09-28,Application filed by Ford Global Technologies LLC
+    2020-09-28,Priority to US17/035,066
+    2021-09-26,Priority to DE102021124822.1A
+    2021-09-28,Priority to CN202111143235.2A
+    2022-03-31,Publication of US20220097700A1
+    2022-11-22,Application granted
+    2022-11-22,Publication of US11505195B2
+    Status,Active
+    2041-05-25,Adjusted expiration
+
+active_area
+3
+    U,S
+    D,E
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US17/035,066,2020-09-28,One-pedal drive filters and rate limits of powertrain torque
+
+legal_event
+6
+    Date,Code,Title,Description
+    2020-09-28,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2020-09-29,AS,Assignment,Owner name: FORD GLOBAL TECHNOLOGIES, LLC, MICHIGANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:SEMENOV, SERGEY GENNADIEVICH;BOLGER, BRYAN MICHAEL;REEL/FRAME:053912/0590Effective date: 20200928
+    2021-08-20,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2022-07-21,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2022-11-02,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

@@ -1,0 +1,222 @@
+ID
+    US20140084819A1
+citation_exist
+    Patent Citations (26)
+citation_infor
+28
+    Publication number,Priority date,Publication date,Assignee,Title
+    US4627519A                      *,1984-03-29,1986-12-09,Armco Inc.,Hydraulic disk brake having a braking torque-to-hydraulic force converter
+    US5951116A                      *,1997-02-10,1999-09-14,Tokico Ltd.,Brake control system for a motor vehicle
+    US6724165B2                      *,2002-03-11,2004-04-20,Vectrix Corporation,Regenerative braking system for an electric vehicle
+    US6910747B2                      *,2002-12-10,2005-06-28,Nissan Motor Co., Ltd.,Vehicle braking control system
+    US20060076171A1                      *,2004-08-09,2006-04-13,Donnelly Frank W,Regenerative braking methods for a hybrid locomotive
+    US20070278853A1                      *,2004-02-06,2007-12-06,Continental Teves Ag & Co. Ohg,Motorcycle Brake System
+    US20100292882A1                      *,2007-12-14,2010-11-18,Toyota Jidosha Kabushiki Kaisha,Vehicle behavior control device, and vehicle behavior control method
+    US20110074204A1                      *,2009-09-25,2011-03-31,Joo Gon Kim,Regenerative braking system
+    Family To Family Citations,,,,
+    US1291233A,1915-10-27,1919-01-14,Westinghouse Electric & Mfg Co,Control system.
+    US4111274A,1975-08-11,1978-09-05,M. Dale King,Electrically-powered tricycle
+    JP3682590B2,1996-05-24,2005-08-10,ソニー株式会社,Moving device and movement control method
+    JPH1081290A,1996-09-11,1998-03-31,Aichi Steel Works Ltd,Torque assisted motor-driven bicycle
+    JP2000118477A,1998-10-12,2000-04-25,Sony Corp,Bicycle with assistance function
+    JP3882993B2                      *,2001-11-02,2007-02-21,本田技研工業株式会社,Regenerative control device for electric vehicle
+    JP2004202002A,2002-12-26,2004-07-22,Atlas Auto:Kk,Kick traveling tool with auxiliary power, and control method therefor
+    JP2008044414A,2006-08-11,2008-02-28,Sanyo Electric Co Ltd,Electrically assisted bicycle
+    JP4877827B2,2007-09-20,2012-02-15,三洋電機株式会社,Electric vehicle
+    JP5279390B2                      *,2008-07-31,2013-09-04,パナソニック株式会社,Electric bicycle
+    JP2010166662A                      *,2009-01-14,2010-07-29,Mitsuba Corp,Motor control device
+    JP5337533B2                      *,2009-02-27,2013-11-06,セミコンダクター・コンポーネンツ・インダストリーズ・リミテッド・ライアビリティ・カンパニー,Motor drive circuit
+    JP5564189B2,2009-03-02,2014-07-30,株式会社ソニー・コンピュータエンタテインメント,Optical disc apparatus, control method therefor, program, and information storage medium
+    JP5395603B2,2009-10-05,2014-01-22,太陽誘電株式会社,Regenerative brake device and electric assist vehicle equipped with the same
+    JP5300792B2,2010-06-11,2013-09-25,株式会社シマノ,Auxiliary power system for bicycles
+    JP5106603B2,2010-08-30,2012-12-26,株式会社シマノ,Bicycle regenerative braking control device
+    JP2012131306A                      *,2010-12-21,2012-07-12,Nissan Motor Co Ltd,Brake control device of electric motor vehicle
+    JP5602186B2,2012-05-28,2014-10-08,マイクロスペース株式会社,Motor drive control device
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (8)
+              
+
+
+citedBy_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20160244005A1                      *,2015-02-25,2016-08-25,Ford Global Technologies, Llc,Wheel rim-mounted regeneration coil-magnet system
+    CN106476773A                      *,2015-08-31,2017-03-08,罗伯特·博世有限公司,A kind of electronic-controlled installation
+    US11440618B2,2016-12-28,2022-09-13,Yamaha Hatsudoki Kabushiki Kaisha,Electric assist system and electric assist vehicle
+    Family To Family Citations,,,,
+    JP5931024B2                      *,2013-08-23,2016-06-08,ブリヂストンサイクル株式会社,Bicycle with electric motor
+    JP5931025B2                      *,2013-08-23,2016-06-08,ブリヂストンサイクル株式会社,Bicycle with electric motor
+    TWI646014B                      *,2014-08-20,2019-01-01,日商太陽誘電股份有限公司,Control device and electric auxiliary vehicle
+    JP2019182044A                      *,2018-04-04,2019-10-24,ブリヂストンサイクル株式会社,Power-assisted bicycle
+    US20220016984A1                      *,2020-07-16,2022-01-20,Giant Manufacturing Co., Ltd.,Electric vehicle systems and methods for driving vehicles
+
+abstract
+    A controller for driving a motor has: an input part that receives, from each of two brake sensors, a signal indicating a corresponding brake is in an ON state or a signal indicating that the brake is in an OFF state; a control coefficient computing part that increases a control coefficient relative to a regeneration target value along a first slope when a first signal indicating only one of the brakes is in an ON state is received from the input part, the control coefficient computing part increasing the control coefficient along a second slope when a second signal indicating both brakes are in an ON state is received from the input part, the second slope rising faster than the first slope; and a control part controlling driving of the motor in accordance with the regeneration target value and the control coefficient computed by the control coefficient computing part.
+title
+    Controller for driving a motor and electric power-assisted vehicle
+similar_document
+14
+    Publication,Publication Date,Title
+    US9136780B2,2015-09-15,Controller for driving a motor and electric power-assisted vehicle
+    US8725340B1,2014-05-13,Motor drive controller and electric power-assisted vehicle
+    JP5689849B2,2015-03-25,Motor drive control device
+    JP6178440B2,2017-08-09,Motor drive control device
+    TWI572522B,2017-03-01,Motor drive control device and electric auxiliary vehicle
+    US10577048B2,2020-03-03,Controller for driving a motor, and electric power assisted vehicle
+    JP7308198B2,2023-07-13,MOTOR CONTROL DEVICE AND METHOD, AND POWER-ASSISTED VEHICLE
+    JP6475047B2,2019-02-27,Bicycle with electric motor
+    JP5940637B2,2016-06-29,Motor drive control device and electric assist vehicle
+    JP2015145238A,2015-08-13,Motor drive control device and electrically-assisted vehicle
+    EP2706005B1,2018-04-11,Motor drive controller and power-assisted vehicle
+    JP4364365B2,2009-11-18,Method and apparatus for controlling vehicle with electric assist function
+    JP6106150B2,2017-03-29,Motor drive control device and electric assist vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    16
+classfication_items
+96
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,0,2
+    B,6,0,L,7,/,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,3,/,0,0
+    H,0,2,P,3,/,0,6
+    H,0,2,P,3,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,1,0
+    B,6,0,L,2,2,7,0,/,1,4
+    B,6,0,L,2,2,7,0,/,1,4,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2013-08-21,Application filed by Taiyo Yuden Co Ltd
+    2013-08-26,Assigned to TAIYO YUDEN CO., LTD.
+    2014-03-27,Publication of US20140084819A1
+    2015-09-15,Application granted
+    2015-09-15,Publication of US9136780B2
+    Status,Active
+    2034-05-28,Adjusted expiration
+
+active_area
+5
+    J,P
+    T,W
+    U,S
+    E,P
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2012-209128,2012-09-24,
+    JP2012209128A,2012-09-24,Motor drive control device and electric assist vehicle
+
+legal_event
+6
+    Date,Code,Title,Description
+    2013-08-26,AS,Assignment,Owner name: TAIYO YUDEN CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:HOSAKA, YASUO;SHIMIZU, SATORU;ASANUMA, KAZUO;REEL/FRAME:031085/0331Effective date: 20130823
+    2015-08-26,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2015-12-05,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2019-02-28,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+    2023-03-01,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+

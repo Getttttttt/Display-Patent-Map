@@ -1,0 +1,182 @@
+ID
+    US20160297408A1
+citation_exist
+    Patent Citations (7)
+citation_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5050936A                      *,1988-10-27,1991-09-24,Isuzu Motors Limited,Regenerative braking system for car
+    US5086865A                      *,1988-10-26,1992-02-11,Isuzu Motors Limited,Regenerative braking system for car
+    US7689341B2                      *,2007-11-29,2010-03-30,International Truck Intellectual Property Company, Llc,Prioritized recapture of energy during deceleration of a dual-hybrid motor vehicle
+    US20120319464A1                      *,2011-06-15,2012-12-20,Lloyd Jeffrey M,Regenerative air brake module
+    US8387731B2                      *,2007-08-27,2013-03-05,Parker-Hannifin Corporation,Control apparatus and method for operating a combined hybrid drive and brake system
+    US20130204501A1                      *,2012-02-03,2013-08-08,Arvinmeritor Technology, Llc,Method of controlling a brake system for a vehicle
+    US8862356B2                      *,2010-03-02,2014-10-14,International Truck Intellectual Property Company, Llc,Regenerative brake system reset feature and adaptive calibration for hybrid and electric vehicles
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    WO2019213350A1                      *,2018-05-04,2019-11-07,Hybrid Kinetic Motors Corporation,Range-extended electric vehicles having lithium titanate oxide (lto) battery with super high charge and discharge rates
+    WO2020210883A1                      *,2019-04-13,2020-10-22,De Paula Renato,Wind-up system
+    US11390283B2                      *,2019-07-25,2022-07-19,Ford Global Technologies, Llc,System and method for controlling vehicle during coast
+    Family To Family Citations,,,,
+
+abstract
+    A vehicle 100 (FIG. 1) includes a braking system 100 a (FIG. 2) that includes a foundation braking system 111 and a hydraulic braking system 112. According to method 100 b (FIGS. 3 and 4), system controller 117 (FIG. 2) at successive steps 120-127 determines when hydraulic regenerative braking system 112 cannot provide full commanded braking torque and acts through proportional treadle valve 116 a to provide a proportional transition between an isolated hydraulic braking mode and an isolated foundation braking mode. According to methods 200 b (FIGS. 7-8) and 200 b (FIGS. 9-10), proportional braking is approximated. According to method 300 (FIG. 11), hydraulic braking is reduced at the initiation of a braking event based upon the estimated kinetic energy of the vehicle and available capacity for storing that energy.
+title
+    Regenerative brake method and system
+similar_document
+21
+    Publication,Publication Date,Title
+    US7669414B2,2010-03-02,Hydraulic energy recovery system with dual-powered auxiliary hydraulics
+    US6325470B1,2001-12-04,Method and apparatus for proportioning regenerative braking
+    JP5351256B2,2013-11-27,Brake device for automobile, operation method thereof and hydraulic device
+    JP5600323B2,2014-10-01,Hybrid hydraulic drive system with pressure accumulator as vehicle chassis
+    US9352743B2,2016-05-31,Hydraulic hybrid system
+    US7976110B2,2011-07-12,Hybrid braking system
+    US9028354B2,2015-05-12,Hydraulic regeneration apparatus
+    US20060001314A1,2006-01-05,Deadband regenerative braking control for hydraulic hybrid vehicle powertrain
+    CN104114425B,2016-08-24,Motor vehicle braking system
+    JP6519883B2,2019-05-29,Controller for in-line hydraulic hybrid transmission
+    JP5560797B2,2014-07-30,Work vehicle traveling device
+    AU2010273900A1,2012-02-23,System and method for vehicle performance control
+    US20160297408A1,2016-10-13,Regenerative brake method and system
+    EP3330140B1,2020-01-15,Pneumatic regenerative system
+    JP5199765B2,2013-05-15,Braking device for vehicle
+    EP3330141B1,2019-10-09,Hybrid pneumatic regenerative sytem for railway vehicles
+    CN103144620B,2017-04-12,Brake system used for vehicle, and method used for at least three wheels of brake vehicle
+    WO2014165360A1,2014-10-09,Regenerative brake method and system
+    EP0906857B1,2004-08-25,Method and apparatus for regenerative and friction braking
+    CN111688668A,2020-09-22,Hydraulic hybrid vehicle control method
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US14/777,938,2012-05-02,2014-03-26,Regenerative brake method and system
+
+inventor_number
+    5
+classfication_nums
+    13
+classfication_items
+76
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,0,8
+    B,6,0,K,6,/,1,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,5
+    B,6,0,T,1,3,/,5,8,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B,6,0,W,1,0,/,1,8,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,9
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+
+application_events
+6
+    2014-03-26,Application filed by Parker Hannifin Corp
+    2014-03-26,Priority to US14/777,938
+    2014-03-26,Priority claimed from PCT/US2014/031798
+    2015-09-18,Assigned to PARKER-HANNIFIN CORPORATION
+    2016-10-13,Publication of US20160297408A1
+    Status,Abandoned
+
+active_area
+0
+
+not_active_area
+1
+    U,S
+
+patent_application_claiming_priority
+5
+    Application,Filing date,Title
+    US201261641467P,2012-05-02,
+    US201361807459P,2013-04-02,
+    US14/777,938,2014-03-26,Regenerative brake method and system
+    PCT/US2014/031798,2014-03-26,Regenerative brake method and system
+
+legal_event
+3
+    Date,Code,Title,Description
+    2015-09-18,AS,Assignment,Owner name: PARKER-HANNIFIN CORPORATION, OHIOFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:GALLAGHER, MICHAEL;VENKITESWARAN, PRASAD;SLAKANS, BRADLEY A.;AND OTHERS;SIGNING DATES FROM 20150915 TO 20150916;REEL/FRAME:036596/0345
+    2017-08-15,STCB,Information on status: application discontinuation,Free format text: ABANDONED  --  FAILURE TO RESPOND TO AN OFFICE ACTION
+

@@ -1,0 +1,189 @@
+ID
+    JP2011217567A
+citation_exist
+    NoCitation
+citation_infor
+    NoCitation
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (9)
+              
+
+
+citedBy_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2018186592A                      *,2017-04-24,2018-11-22,トヨタ自動車株式会社,スイッチトリラクタンスモータ
+    WO2019098278A1                      *,2017-11-20,2019-05-23,梨木　政行,リラクタンスモータ
+    JP2019097379A                      *,2017-11-20,2019-06-20,梨木　政行,リラクタンスモータ
+    JP7302519B2,2020-04-15,2023-07-04,株式会社デンソー,モータ駆動装置
+    Family To Family Citations,,,,
+    CN105179289B                      *,2012-05-31,2017-03-22,中山大洋电机股份有限公司,一种变速风机系统的控制方法
+    US9240748B2                      *,2013-03-15,2016-01-19,Hengchun Mao,Dynamically reconfigurable motor and generator systems
+    US9800193B2,2013-03-15,2017-10-24,Hengchun Mao,Dynamically reconfigurable motors and generators and systems
+    US10063127B2                      *,2015-01-29,2018-08-28,Masayuki Nashiki,Multiple-phase AC electric motor whose rotor is equipped with field winding and diode
+    KR101704185B1                      *,2015-04-14,2017-02-07,현대자동차주식회사,하이브리드 차량의 직류변환장치 제어 시스템 및 방법
+
+abstract
+    【課題】制御回路を含む複数のモータを全体で低コスト化する。また、小型化、軽量化も実現する。【解決手段】片方向電流すなわち直流電流で駆動可能な複数個のモータを、モータを選択する電力供給手段ＳＴと、直列に接続した各相巻線Ｗｍへそれぞれに直流電流を供給する多相の相電流通電手段ＴＲｍとで駆動する。前記相電流通電手段ＴＲｍを複数のモータで共通化して使用することにより、全体での低コスト化、小型化、軽量化を実現する。また、モータを選択的に制御するだけでなく、時分割制御により複数のモータを並行して速度制御あるいは位置制御も可能とする。【選択図】図５
+title
+    モータ
+similar_document
+26
+    Publication,Publication Date,Title
+    JP2011217567A,2011-10-27,モータ
+    US8803376B2,2014-08-12,AC motor and control apparatus for the same
+    JP6360442B2,2018-07-18,永久磁石同期モータ、巻線切替モータ駆動装置、及び、それらを用いた冷凍空調機器、電動車両
+    JP4876661B2,2012-02-15,車両用発電電動装置
+    JP4619483B2,2011-01-26,電動装置
+    JP4867978B2,2012-02-01,モータおよびその制御装置
+    JP4821770B2,2011-11-24,交流モータとその制御装置
+    US20110057597A1,2011-03-10,Electrical machine
+    JPWO2006126552A1,2008-12-25,モータとその制御装置
+    CN110383639B,2021-06-08,旋转电机系统
+    JP6589931B2,2019-10-16,回転電機駆動システム
+    JP2003009486A,2003-01-10,可変速電動機
+    WO2006054675A1,2006-05-26,車両駆動システムおよびそれを備える車両
+    WO2004084375A9,2005-06-23,Apparatus and method that prevent flux reversal in the stator back material of a two-phase srm (tpsrm)
+    US10063127B2,2018-08-28,Multiple-phase AC electric motor whose rotor is equipped with field winding and diode
+    JP6312082B2,2018-04-18,極数切替型誘導機の駆動方法および極数切替型誘導機
+    JP5760895B2,2015-08-12,回転電機制御システム
+    US20210167645A1,2021-06-03,Reluctance motor
+    JP2013219954A,2013-10-24,モータ
+    JP2015164385A,2015-09-10,可変速電気機械
+    JP3800064B2,2006-07-19,車両用回転電機
+    WO2022201768A1,2022-09-29,モータ
+    JP6575450B2,2019-09-18,回転電機装置
+    JP4756251B2,2011-08-24,電気自動車搭載用ｄｃブラシレスモータの制御方法
+    Tanujaya et al.,2011,Design a novel switched reluctance motor for neighborhoods electric vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    JP2010085417A,2010-04-01,2010-04-01,モータ
+    US13/078,193,2010-04-01,2011-04-01,System including a plurality of motors and a drive circuit therefor
+
+inventor_number
+    6
+classfication_nums
+    15
+classfication_items
+88
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,5,/,0,0
+    H,0,2,P,5,/,6,8
+    H,0,2,P,5,/,6,8,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,1,0
+    B,6,0,L,2,2,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,1,0
+    B,6,0,L,2,2,2,0,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+5
+    2010-04-01,Application filed by Denso Corp
+    2010-04-01,Priority to JP2010085417A
+    2011-04-01,Priority to US13/078,193
+    2011-10-27,Publication of JP2011217567A
+    Status,Pending
+
+active_area
+1
+    J,P
+
+not_active_area
+1
+    U,S
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2010085417A,2010-04-01,モータ
+
+legal_event
+    NoExist

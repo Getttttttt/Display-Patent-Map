@@ -1,0 +1,198 @@
+ID
+    US20170101082A1
+citation_exist
+    Patent Citations (6)
+citation_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP2007030581A,2005-07-25,2007-02-08,Toyota Motor Corp,Vehicle brake device, and overrun preventing method
+    JP2009275591A                      *,2008-05-14,2009-11-26,Toyota Motor Corp,Vehicle controller
+    JP5253965B2                      *,2008-10-29,2013-07-31,日野自動車株式会社,Automatic braking control device, collision determination method, vehicle, and program
+    JP5109101B2                      *,2009-09-17,2012-12-26,日立オートモティブシステムズ株式会社,Vehicle control device
+    JP5589575B2                      *,2010-06-09,2014-09-17,日産自動車株式会社,Vehicle control device
+    GB2507622B                      *,2012-08-16,2015-01-21,Jaguar Land Rover Ltd,Vehicle speed control system
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN111356616A                      *,2017-11-17,2020-06-30,株式会社爱德克斯,Vehicle driving support device
+    GB2599104A                      *,2020-09-23,2022-03-30,Jaguar Land Rover Ltd,Creep torque control system for a vehicle
+    Family To Family Citations,,,,
+    JP7236308B2                      *,2019-03-29,2023-03-09,株式会社アドヴィックス,vehicle controller
+
+abstract
+    A vehicle brake device is provided with: an acquisition unit that acquires travel resistance force produced between a vehicle wheel and a road surface touched by the wheel when, for example, a vehicle having the wheel travels, on the basis of driving force of the vehicle and acceleration of the vehicle; and a control unit that starts a control for supplying braking force to the wheel of the vehicle when a difference between the travel resistance force and a predetermined value exceeds a first threshold value and a differential value of the travel resistance force exceeds a second threshold value.
+title
+    Vehicle brake device
+similar_document
+26
+    Publication,Publication Date,Title
+    JP5879143B2,2016-03-08,Vehicle motion control device and vehicle motion control method
+    CN108466611B,2020-11-03,Control device for four-wheel drive vehicle
+    JP5999047B2,2016-09-28,Vehicle control device
+    JP6844500B2,2021-03-17,Vehicle behavior control device
+    JP6213020B2,2017-10-18,Vehicle control device
+    US8543300B2,2013-09-24,Vehicle behavior control apparatus
+    US8676463B2,2014-03-18,Travel controlling apparatus of vehicle
+    US9895978B2,2018-02-20,Braking force control method for vehicle
+    CN108621787B,2021-01-15,Control device for four-wheel drive vehicle
+    JP2016520477A,2016-07-14,VEHICLE DRIVELINE CONTROL SYSTEM, CONTROL METHOD, AND POWERED VEHICLE HAVING THE CONTROL SYSTEM
+    US20150329090A1,2015-11-19,Travel control apparatus and vehicle control apparatus
+    US10124781B2,2018-11-13,Vehicle brake device
+    JP2018167703A,2018-11-01,Four-wheel-drive vehicular control apparatus
+    KR20210071133A,2021-06-16,Electronic stability control method for vehicle
+    US20070080583A1,2007-04-12,Vehicle and control method for changing control mode of driving and braking force based on change rate of wheel vertical load
+    KR102322365B1,2021-11-04,Method for controlling wheel slip
+    JP6135406B2,2017-05-31,Vehicle control device
+    JP6753534B2,2020-09-09,Vehicle control method and vehicle control device
+    JP6248477B2,2017-12-20,Vehicle control device
+    JP6225563B2,2017-11-08,Vehicle control device
+    JP2015030314A,2015-02-16,Vehicle control device
+    JP5966994B2,2016-08-10,Brake control device for vehicle
+    JP6277669B2,2018-02-14,Vehicle control device
+    JP2008144788A,2008-06-26,Apparatus for controlling vehicle driving force
+    JP5672176B2,2015-02-18,Vehicle deceleration control device and vehicle deceleration control method
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    15
+classfication_items
+88
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,5,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,1,/,0,0
+    B,6,0,T,1,1,/,1,0
+    B,6,0,T,1,1,/,1,6
+    B,6,0,T,1,1,/,1,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,0,2
+    B,6,0,T,7,/,0,4
+    B,6,0,T,7,/,0,4,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,1,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,0,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,0,2
+    B,6,0,W,4,0,/,0,6
+    B,6,0,W,4,0,/,0,6,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,1,0
+    B,6,0,W,4,0,/,1,0,7
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,1,0,/,0,0
+    B,6,0,T,2,2,1,0,/,1,0
+    B,6,0,T,2,2,1,0,/,1,2
+    B,6,0,T,2,2,1,0,/,1,2,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,1,0,/,0,0
+    B,6,0,T,2,2,1,0,/,1,0
+    B,6,0,T,2,2,1,0,/,1,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,2,0,/,0,0
+    B,6,0,T,2,2,2,0,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,5,0,/,0,0
+    B,6,0,T,2,2,5,0,/,0,4
+
+application_events
+7
+    2015-06-29,Application filed by Advics Co Ltd
+    2016-11-17,Assigned to ADVICS CO., LTD.
+    2017-04-13,Publication of US20170101082A1
+    2018-11-13,Application granted
+    2018-11-13,Publication of US10124781B2
+    Status,Active
+    2035-06-29,Anticipated expiration
+
+active_area
+3
+    J,P
+    W,O
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2014-135365,2014-06-30,
+    JP2014135365A,2014-06-30,Vehicle braking device
+    PCT/JP2015/068611,2015-06-29,Vehicle brake device
+
+legal_event
+4
+    Date,Code,Title,Description
+    2016-11-17,AS,Assignment,Owner name: ADVICS CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:ISHIDA, YASUHITO;REEL/FRAME:040361/0727Effective date: 20161107
+    2018-10-24,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2022-04-27,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

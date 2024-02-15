@@ -1,0 +1,222 @@
+ID
+    US8630781B2
+citation_exist
+    Patent Citations (17)
+citation_infor
+19
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5153496A,1990-09-27,1992-10-06,Baxtrer International Inc.,Cell monitor and control unit for multicell battery
+    US5656915A,1995-08-28,1997-08-12,Eaves; Stephen S.,Multicell battery pack bilateral power distribution unit with individual cell monitoring and control
+    US6242873B1,2000-01-31,2001-06-05,Azure Dynamics Inc.,Method and apparatus for adaptive hybrid vehicle control
+    US20020196027A1,2001-06-26,2002-12-26,Tate Edward Dean,State-of-charge detection device for a battery
+    US20050242776A1,2004-04-30,2005-11-03,Akihiko Emori,Multi-series battery control system
+    US20050248351A1                      *,2004-05-07,2005-11-10,Siemens Aktiengesellschaft,Self-calibrating device for measuring voltage and corresponding method
+    US20060046895A1,2004-08-30,2006-03-02,Thacher Russell J,Vehicular control system for regenerative braking
+    US20060192533A1,2005-01-25,2006-08-31,Denso Corporation,Method and apparatus for calculating/controlling power generation torque
+    US20070144800A1                      *,2005-11-30,2007-06-28,Stone Kevin T,System and method for braking resistor supplemental heating
+    US20070188137A1,2006-02-09,2007-08-16,Scheucher Karl F,Scalable intelligent power supply system and method
+    US7324902B2,2003-02-18,2008-01-29,General Motors Corporation,Method and apparatus for generalized recursive least-squares process for battery state of charge and state of health
+    US20080050645A1,2006-07-31,2008-02-28,Hitachi Vehicle Energy, Ltd.,Cell controller, battery module and power supply system
+    US20080284375A1,2007-05-16,2008-11-20,Hitachi Vehicle Energy, Ltd.,Cell controller, battery module and power supply system
+    US20090091332A1,2007-09-28,2009-04-09,Hitachi, Ltd.,Vehicle power supply device
+    US20090192661A1                      *,2008-01-28,2009-07-30,Textron Inc.,Braking Regeneration Energy Shunt System
+    US7610975B1,1996-02-09,2009-11-03,The Toro Company,Electric drive riding mower
+    US7768233B2                      *,2007-10-04,2010-08-03,Gm Global Technology Operations, Inc.,Dynamically adaptive method for determining the state of charge of a battery
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (9)
+              
+
+
+citedBy_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    US9499199B1,2014-04-23,2016-11-22,Hydro-Gear Limited Partnership,Hybrid vehicle
+    US11673474B2,2019-12-31,2023-06-13,Textron Innovations Inc.,Controlling regenerative braking to reduce skidding of a vehicle
+    Family To Family Citations,,,,
+    US8275502B2                      *,2008-01-28,2012-09-25,Textron Innovations Inc.,Braking regeneration energy shunt system
+    US10099560B2                      *,2011-01-26,2018-10-16,Toyota Motor Engineering & Manufacturing North America, Inc.,System and method for maintaining the speed of a vehicle
+    JP2013048608A                      *,2011-08-31,2013-03-14,Kokusan Denki Co Ltd,Electric working vehicle
+    JP2017225213A                      *,2016-06-13,2017-12-21,本田技研工業株式会社,Control apparatus of electrically-driven lawn mower
+    JP6552456B2                      *,2016-06-13,2019-07-31,本田技研工業株式会社,Control device for electric lawn mower
+    US9919702B1                      *,2017-01-27,2018-03-20,GM Global Technology Operations LLC,Systems and methods for managing battery state of charge
+    WO2018161010A1                      *,2017-03-03,2018-09-07,Gentherm Incorporated,Dual voltage battery system for a vehicle
+
+abstract
+    A regeneration energy shunt system utilizes a module to monitor the power bus voltage and can divert excess regeneration energy to a resistor array to dissipate the excess regeneration energy. The module can monitor the state of charge of an energy storage device to ascertain when excess regeneration energy condition exists. The resistor array can include a plurality of resistors. The module can ascertain the number of resistors needed dissipate the excess regeneration energy and selectively direct the excess regeneration energy to the required number of resistors. The module can dynamically switch which resistors are used to dissipate the excess regeneration energy and can thereby even out the loading across the resistors. The module can ascertain a state of health of the individual resistors and remove unhealthy resistors from service, report the state of health of the resistors, and initiate changes in operation based thereon.
+title
+    Braking regeneration energy shunt system
+similar_document
+26
+    Publication,Publication Date,Title
+    US8630781B2,2014-01-14,Braking regeneration energy shunt system
+    JP5404073B2,2014-01-29,Turf management vehicle all-wheel drive system
+    US20080234096A1,2008-09-25,Hybrid Utility Vehicle
+    US5680908A,1997-10-28,Electric powered vehicle
+    US7017327B2,2006-03-28,Hybrid electric tool carrier
+    US7392869B2,2008-07-01,Modular power source for riding mower
+    US7735592B2,2010-06-15,Regulated output voltage generator-set applied to mobile equipment in the turf industry
+    US8955626B2,2015-02-17,Electric hybrid vehicle
+    EP2564684B1,2016-02-10,Electric working vehicle
+    US20040207348A1,2004-10-21,Method and apparatus for adaptive control of traction drive units in a hybrid vehicle
+    EP1552976B1,2019-06-26,Electric vehicle
+    JPH0898305A,1996-04-12,Travelling device of electric car
+    US20040174125A1,2004-09-09,Method and apparatus for adaptive control of hybrid electric vehicle components
+    US10562567B2,2020-02-18,Work vehicle
+    JP2009508763A,2009-03-05,Plug-in hybrid propulsion power electronics equipment with high-speed energy storage device and control method and apparatus
+    US20070284164A1,2007-12-13,Motor vehicle with electric boost motor
+    CN111296044A,2020-06-19,Mower and battery management system
+    JPH0984212A,1997-03-28,Power supply apparatus of electric car
+    JP5419745B2,2014-02-19,Series hybrid vehicle control system
+    WO2009078835A1,2009-06-25,Motor vehicle with electric boost motor
+    CN112449816B,2022-05-17,Range extender, hybrid rice transplanter and working method of hybrid rice transplanter
+    JP7012610B2,2022-01-28,Power controller
+    JPH0819113A,1996-01-19,Driver for hybrid vehicle
+    JP2020142618A,2020-09-10,Work vehicle
+    CN105555570A,2016-05-04,Emergency mode in a hybrid vehicle
+
+patent_application
+2
+    Application,Priority date,Filing date,Relation,Title
+    US12/360,497,2008-01-28,2009-01-27,Continuation,Braking regeneration energy shunt system
+
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US13/593,573,2008-01-28,2012-08-24,Braking regeneration energy shunt system
+
+inventor_number
+    4
+classfication_nums
+    14
+classfication_items
+86
+    A
+    A,0,1
+    A,0,1,D
+    A,0,1,D,3,4,/,0,0
+    A,0,1,D,3,4,/,0,1
+    A,0,1,D,3,4,/,4,1,2
+    A,0,1,D,3,4,/,6,3
+    A,0,1,D,3,4,/,7,6
+    A,0,1,D,3,4,/,7,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,0,2
+    B,6,0,L,7,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,1,0
+    B,6,0,L,2,2,2,0,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+
+application_events
+7
+    2012-08-24,Application filed by Textron Inc
+    2012-08-24,Priority to US13/593,573
+    2012-12-13,Publication of US20120316721A1
+    2014-01-14,Application granted
+    2014-01-14,Publication of US8630781B2
+    Status,Active
+    2029-01-27,Anticipated expiration
+
+active_area
+2
+    U,S
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    US2406808P,2008-01-28,
+    US12/360,497,2009-01-27,Braking regeneration energy shunt system
+    US13/593,573,2012-08-24,Braking regeneration energy shunt system
+
+legal_event
+8
+    Date,Code,Title,Description
+    2012-08-29,AS,Assignment,Owner name: TEXTRON INC., RHODE ISLANDFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:O'CONNOR, SEAN C.;WILSON, KENNETH R.;MILLARD, JEFFREY A.;REEL/FRAME:028869/0731Effective date: 20090126
+    2012-08-31,AS,Assignment,Owner name: TEXTRON INC., RHODE ISLANDFree format text: CORRECTIVE ASSIGNMENT TO CORRECT THE CORRECTIVE ASSIGNMENT TO RE-RECORD ASSIGNMENT PREVIOUSLY RECORDED TO CORRECT THE APPLICATION NUMBER FROM 12360947 TO 13593573 PREVIOUSLY RECORDED ON  REEL 028869 FRAME 0731. ASSIGNOR(S) HEREBY CONFIRMS THE ASSIGNMENT;ASSIGNORS:O'CONNOR, SEAN C.;WILSON, KENNETH R.;MILLARD, JEFFREY A.;REEL/FRAME:028885/0868Effective date: 20090126
+    2013-07-25,AS,Assignment,Owner name: TEXTRON INNOVATIONS INC., RHODE ISLANDFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:TEXTRON INC.;TEXTRON RHODE ISLAND INC.;REEL/FRAME:030878/0531Effective date: 20100219
+    2013-12-24,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2015-05-05,AS,Assignment,Owner name: TEXTRON INNOVATIONS INC., RHODE ISLANDFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:TEXTRON INC.;REEL/FRAME:035567/0813Effective date: 20150401
+    2017-07-14,FPAY,Fee payment,Year of fee payment: 4
+    2021-07-14,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+

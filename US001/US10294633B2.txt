@@ -1,0 +1,377 @@
+ID
+    US10294633B2
+citation_exist
+    Patent Citations (18)
+citation_infor
+20
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2003120616A,2001-10-17,2003-04-23,Toshiba Mach Co Ltd,Hydraulic controller for construction machine
+    US20170016208A1                      *,2014-06-26,2017-01-19,Hitachi Construction Machinery Co., Ltd.,Work Machine
+    US9624647B2                      *,2011-05-25,2017-04-18,Kobelco Construction Machinery Co., Ltd.,Slewing-type working machine
+    US9920780B2                      *,2014-07-30,2018-03-20,Kobelco Construction Machinery Co., Ltd.,Slewing drive apparatus for construction machine
+    Family To Family Citations,,,,
+    JPH0124921B2                      *,1981-02-26,1989-05-15,Hitachi Construction Machinery,
+    JPH0754147B2                      *,1985-09-27,1995-06-07,日立建機株式会社,Hydraulic drive mechanism controller
+    JPH0745748B2                      *,1987-07-31,1995-05-17,日立建機株式会社,Revolving structure drive control device
+    JP3609182B2                      *,1996-01-08,2005-01-12,日立建機株式会社,Hydraulic drive unit for construction machinery
+    JP5135169B2                      *,2008-10-31,2013-01-30,日立建機株式会社,Hydraulic drive unit for construction machinery
+    JP2011106591A                      *,2009-11-18,2011-06-02,Hitachi Constr Mach Co Ltd,Hydraulic driving device of construction machine
+    CN101700763A                      *,2009-11-24,2010-05-05,天津鼎盛工程机械有限公司,Engineering machine control device of hydrostatic drive walking system
+    JP5391040B2                      *,2009-11-26,2014-01-15,キャタピラー  エス  エー  アール  エル,Swing hydraulic control device for work machine
+    US9181070B2                      *,2011-05-13,2015-11-10,Kabushiki Kaisha Kobe Seiko Sho,Hydraulic driving apparatus for working machine
+    JP5809549B2                      *,2011-12-08,2015-11-11,株式会社Kcm,Hydraulic drive
+    JP5661085B2                      *,2012-11-13,2015-01-28,株式会社神戸製鋼所,Hydraulic drive device for work machine
+    JP6087209B2                      *,2013-05-14,2017-03-01,住友重機械工業株式会社,Hydraulic system for construction machinery
+    JP6081288B2                      *,2013-05-14,2017-02-15,住友重機械工業株式会社,Hydraulic system for construction machinery
+    JP6081289B2                      *,2013-05-14,2017-02-15,住友重機械工業株式会社,Hydraulic system for construction machinery
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (2)
+              
+
+
+citedBy_exist
+    
+              Cited By (15)
+              
+
+
+citedBy_infor
+17
+    Publication number,Priority date,Publication date,Assignee,Title
+    DE102020210397B3,2020-08-14,2021-10-14,Danfoss Power Solutions Gmbh & Co. Ohg,HYDROSTATIC SERVO UNIT
+    US11214942B2                      *,2018-02-26,2022-01-04,Kawasaki Jukogyo Kabushiki Kaisha,Hydraulic system of construction machine
+    Family To Family Citations,,,,
+    JP6970533B2                      *,2017-06-16,2021-11-24,川崎重工業株式会社,Hydraulic system
+    JP7037290B2                      *,2017-06-27,2022-03-16,川崎重工業株式会社,Hydraulic drive system
+    JP6891079B2                      *,2017-09-15,2021-06-18,川崎重工業株式会社,Hydraulic drive system for construction machinery
+    JP6975036B2                      *,2017-12-28,2021-12-01,日立建機株式会社,Work machine
+    EP3617563B1                      *,2018-08-31,2020-12-30,Takeuchi MFG. Co., Ltd.,Traveling control mechanism and traveling control method of hydraulic driving type construction machine
+    CN209164045U                      *,2018-11-19,2019-07-26,浙江锐韦机电科技有限公司,Integrated pump valve mechanism
+    JP7205264B2                      *,2019-02-05,2023-01-17,コベルコ建機株式会社,Slewing drive for working machine
+    JP7246297B2                      *,2019-12-16,2023-03-27,日立建機株式会社,construction machinery
+    CN111572082B                      *,2020-04-17,2021-11-30,江苏国力锻压机床有限公司,Hydraulic processing method for glass fiber reinforced plastic product
+    JP2022148801A                      *,2021-03-24,2022-10-06,株式会社小松製作所,Hydraulic shovel and hydraulic shovel control method
+    CN113417997B                      *,2021-07-02,2023-01-20,贵州凯星液力传动机械有限公司,Clutch and oil cylinder integrated control hydraulic system
+    CN113684887A                      *,2021-09-30,2021-11-23,徐州徐工挖掘机械有限公司,Flow loading method for reducing impact of excavator
+    CN114321037A                      *,2021-11-15,2022-04-12,杭州宝协机电科技有限公司,Bidirectional hydraulic cylinder double-acting energy feedback system and method thereof
+
+abstract
+    A bi-directional pump connected to a motor by a pair of supply/discharge lines; a regulator changes the bi-directional pump tilting angle; and a controller controls the regulator based on a turning signal outputted from a turning operation valve. At the turning acceleration, at which the signal increases, the controller calculates a motor flow rate passing through the motor and an instruction flow rate determined based on the turning signal. If the instruction flow rate is greater than a reference flow rate obtained by adding a predetermined value to the motor flow rate, the controller controls the regulator so the bi-directional pump tilting angle is adjusted to a tilting angle realizing the reference flow rate. If the instruction flow rate is not greater than the reference flow rate, the controller controls the regulator so the bi-directional pump tilting angle is adjusted to a tilting angle realizing the instruction flow rate.
+title
+    Hydraulic drive system of construction machine
+similar_document
+26
+    Publication,Publication Date,Title
+    US10294633B2,2019-05-21,Hydraulic drive system of construction machine
+    US10337538B2,2019-07-02,Shovel
+    US8006491B2,2011-08-30,Pump control apparatus for construction machine
+    US20160251833A1,2016-09-01,Hydraulic drive system of construction machine
+    US11274417B2,2022-03-15,Hydraulic drive system of construction machine
+    US10787790B2,2020-09-29,Work machine
+    KR101652619B1,2016-08-30,Control system for construction machine
+    US9995018B2,2018-06-12,Control system of hybrid construction machine
+    US9664209B2,2017-05-30,Control system for hybrid construction machine
+    US10604916B2,2020-03-31,Shovel
+    US20180291935A1,2018-10-11,Hydraulic drive system of construction machine
+    KR20150140220A,2015-12-15,Hybrid construction machine
+    WO2016092809A1,2016-06-16,Hydraulic drive system for construction machinery
+    US10107310B2,2018-10-23,Hydraulic drive system
+    JP2022123288A,2022-08-24,hydraulic drive system
+    US10900199B2,2021-01-26,Drive system of construction machine
+    US20150184364A1,2015-07-02,Control system for hybrid construction machine
+    US10851809B2,2020-12-01,Hydraulic system
+    JP2015197185A,2015-11-09,Hydraulic control device or work machine
+    JP2013127273A,2013-06-27,Fluid pressure control circuit, and working machine
+    KR102246421B1,2021-04-30,Construction machinery control system and construction machinery control method
+    GB2585813A,2021-01-20,Hydraulic drive system of construction machine
+    JP2015172428A,2015-10-01,Control system of hybrid construction machine
+    JP2015137474A,2015-07-30,work vehicle
+    KR20190101076A,2019-08-30,Hydraulic pump contorl system in construction machinery and hydraulic pump control method in construction machinery
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    34
+classfication_items
+238
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,0,8
+    E,0,2,F,9,/,1,0
+    E,0,2,F,9,/,1,2
+    E,0,2,F,9,/,1,2,1
+    E,0,2,F,9,/,1,2,3
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,2,1
+    E,0,2,F,9,/,2,2,3,2
+    E,0,2,F,9,/,2,2,3,5
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,7,8
+    E,0,2,F,9,/,2,2,8,5
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,7,8
+    E,0,2,F,9,/,2,2,9,2
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,7,8
+    E,0,2,F,9,/,2,2,9,6
+    F
+    F,0,4
+    F,0,4,B
+    F,0,4,B,4,9,/,0,0
+    F,0,4,B,4,9,/,0,0,2
+    F
+    F,0,4
+    F,0,4,B
+    F,0,4,B,4,9,/,0,0
+    F,0,4,B,4,9,/,1,0
+    F,0,4,B,4,9,/,1,0,6
+    F
+    F,0,4
+    F,0,4,B
+    F,0,4,B,4,9,/,0,0
+    F,0,4,B,4,9,/,2,2
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F,1,5,B,1,1,/,0,2
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F,1,5,B,1,1,/,0,2
+    F,1,5,B,1,1,/,0,4
+    F,1,5,B,1,1,/,0,4,0,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F,1,5,B,1,1,/,0,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F,1,5,B,1,1,/,0,8
+    F,1,5,B,1,1,/,1,0
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,1,/,0,0
+    F,1,5,B,2,1,/,1,4
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,3,9,/,0,0
+    F,1,6,H,3,9,/,0,4
+    F,1,6,H,3,9,/,4,2
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,6,1,/,0,0
+    F,1,6,H,6,1,/,3,8
+    F,1,6,H,6,1,/,4,0
+    F,1,6,H,6,1,/,4,0,3,5
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,6,1,/,0,0
+    F,1,6,H,6,1,/,3,8
+    F,1,6,H,6,1,/,4,0
+    F,1,6,H,6,1,/,4,2
+    F,1,6,H,6,1,/,4,3,1
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,6,1,/,0,0
+    F,1,6,H,6,1,/,3,8
+    F,1,6,H,6,1,/,4,0
+    F,1,6,H,6,1,/,4,2
+    F,1,6,H,6,1,/,4,3,5
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,6,1,/,0,0
+    F,1,6,H,6,1,/,3,8
+    F,1,6,H,6,1,/,4,0
+    F,1,6,H,6,1,/,4,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,3
+    F,1,5,B,2,2,1,1,/,2,0,5,4,6
+    F,1,5,B,2,2,1,1,/,2,0,5,5,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,3
+    F,1,5,B,2,2,1,1,/,2,0,5,6,1
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,7,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,7
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,5,0
+    F,1,5,B,2,2,1,1,/,5,0,5
+    F,1,5,B,2,2,1,1,/,5,0,5,0,9
+    F,1,5,B,2,2,1,1,/,5,0,5,1,8
+    F,1,5,B,2,2,1,1,/,5,0,5,2,7
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,0,6
+    F,1,5,B,2,2,1,1,/,6,3,1,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,4,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,6,5
+    F,1,5,B,2,2,1,1,/,6,6,5,2
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,0,5
+    F,1,5,B,2,2,1,1,/,7,0,5,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,5,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,8,0
+    F,1,5,B,2,2,1,1,/,8,5
+    F,1,5,B,2,2,1,1,/,8,5,1
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,8,0
+    F,1,5,B,2,2,1,1,/,8,5
+    F,1,5,B,2,2,1,1,/,8,5,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,7,/,0,0
+    F,1,5,B,7,/,0,0,5
+    F,1,5,B,7,/,0,0,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,7,/,0,0
+    F,1,5,B,7,/,0,0,8
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,6,1,/,0,0
+    F,1,6,H,6,1,/,3,8
+    F,1,6,H,6,1,/,4,0
+    F,1,6,H,6,1,/,4,1,8,3
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,6,1,/,0,0
+    F,1,6,H,6,1,/,3,8
+    F,1,6,H,6,1,/,4,0
+    F,1,6,H,6,1,/,4,2
+    F,1,6,H,6,1,/,4,3,3
+
+application_events
+7
+    2015-10-09,Application filed by Kawasaki Jukogyo KK
+    2017-03-23,Assigned to KAWASAKI JUKOGYO KABUSHIKI KAISHA
+    2017-10-26,Publication of US20170306590A1
+    2019-05-21,Application granted
+    2019-05-21,Publication of US10294633B2
+    Status,Active
+    2036-07-15,Adjusted expiration
+
+active_area
+4
+    J,P
+    W,O
+    C,N
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2014209279A,2014-10-10,Hydraulic drive system for construction machinery
+    JP2014-209279,2014-10-10,
+    PCT/JP2015/005133,2015-10-09,Hydraulic drive system for construction machinery
+
+legal_event
+6
+    Date,Code,Title,Description
+    2017-03-23,AS,Assignment,Owner name: KAWASAKI JUKOGYO KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:KONDO, AKIHIRO;YUDATE, YOJI;REEL/FRAME:041702/0750Effective date: 20170307
+    2019-02-25,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2019-04-08,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2019-05-01,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2022-11-09,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

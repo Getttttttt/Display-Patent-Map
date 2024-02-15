@@ -1,0 +1,256 @@
+ID
+    US8884561B2
+citation_exist
+    Patent Citations (15)
+citation_infor
+17
+    Publication number,Priority date,Publication date,Assignee,Title
+    US6175511B1                      *,1999-12-24,2001-01-16,Mitsubishi Denki Kabushiki Kaisha,Uninterruptable power supply
+    JP2001139244A,1999-11-18,2001-05-22,Fujitec Co Ltd,Power supply device for ac elevator
+    JP2001320893A,2000-05-09,2001-11-16,Mitsubishi Electric Corp,Motor drive device
+    US6732838B1                      *,1999-11-17,2004-05-11,Fujitec Co., Ltd.,Power supply for ac elevator
+    JP2004343826A,2003-05-13,2004-12-02,Toshiba Corp,Uninterruptible power system
+    JP2005328618A,2004-05-13,2005-11-24,Toshiba Corp,Controller for vehicle
+    JP2009136058A,2007-11-29,2009-06-18,Aida Eng Ltd,Control method of motor drive device and device
+    US20090218976A1                      *,2008-02-28,2009-09-03,Fanuc Ltd,Motor driving apparatus
+    Family To Family Citations,,,,
+    JPH0615773B2,1991-06-10,1994-03-02,日本鋼管株式会社,Steel pipe extension caisson foundation sealing method
+    JP2001139224A,1999-11-11,2001-05-22,Kazuyoshi Kida,Yarn delivering device
+    US6768284B2                      *,2002-09-30,2004-07-27,Eaton Corporation,Method and compensation modulator for dynamically controlling induction machine regenerating energy flow and direct current bus voltage for an adjustable frequency drive system
+    KR100471087B1                      *,2003-01-09,2005-03-10,삼성전자주식회사,Power supply device and control method thereof
+    US7495403B2                      *,2004-03-30,2009-02-24,Continental Automotive Systems Us, Inc.,Method, apparatus and article for vibration compensation in electric drivetrains
+    US7866425B2                      *,2004-06-28,2011-01-11,General Electric Company,Hybrid electric propulsion system and method
+    CN101425756B                      *,2008-07-30,2010-12-01,东元总合科技（杭州）有限公司,DC lateral voltage controllable 4 quadrant frequency transformer and method thereof
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (3)
+              
+
+
+citedBy_exist
+    
+              Cited By (19)
+              
+
+
+citedBy_infor
+21
+    Publication number,Priority date,Publication date,Assignee,Title
+    US10523054B2,2012-05-03,2019-12-31,Powermat Technologies Ltd.,System and method for triggering power transfer across an inductive power coupling and non resonant transmission
+    Family To Family Citations,,,,
+    JP5631260B2                      *,2011-05-10,2014-11-26,三菱電機株式会社,AC motor drive device
+    JP5904867B2                      *,2012-05-09,2016-04-20,三菱電機株式会社,AC motor drive device
+    JP5421433B2                      *,2012-06-25,2014-02-19,ファナック株式会社,Motor control device that reduces power consumption of control power supply during power outage
+    JP5389302B1                      *,2013-03-07,2014-01-15,三菱電機株式会社,AC motor drive system
+    JP5562504B1                      *,2013-10-02,2014-07-30,三菱電機株式会社,AC motor drive system
+    US9923505B2                      *,2013-11-26,2018-03-20,Regal Beloit America, Inc.,Methods and systems for controlling an electric motor
+    TWI552510B                      *,2014-04-30,2016-10-01,Innoserv Fa Inc,Servo motor drive
+    JP2015214106A                      *,2014-05-12,2015-12-03,ファナック株式会社,Control method of injection molding machine
+    US9742341B2                      *,2014-06-19,2017-08-22,Mitsubishi Electric Corporation,AC motor drive system
+    WO2016135878A1                      *,2015-02-25,2016-09-01,三菱電機株式会社,Power assist device and power assist system
+    TWI549418B                      *,2015-03-31,2016-09-11,寧茂企業股份有限公司,Ac motor driving system and driving method thereof
+    US9780703B2                      *,2015-08-12,2017-10-03,Stmicroelectronics S.R.L.,Power supply for multiphase motor providing recirculation compensation features and related methods
+    EP4099370A1,2016-06-15,2022-12-07,Watlow Electric Manufacturing Company,Power converter for a thermal system
+    WO2018054543A1                      *,2016-09-22,2018-03-29,Sew-Eurodrive Gmbh & Co. Kg,System and method for operating a system
+    US10833594B2,2017-05-19,2020-11-10,Infineon Technologies Austria Ag,System and method of controlling a power converter having an LC tank coupled between a switching network and a transformer winding
+    JP6503413B2                      *,2017-05-31,2019-04-17,本田技研工業株式会社,DC / DC converter and electrical equipment
+    DE102020002352A1                      *,2019-04-25,2020-10-29,Fanuc Corporation,Motor drive device with energy storage
+    TWI724571B                      *,2019-10-04,2021-04-11,建準電機工業股份有限公司,Protection control method for halting of the motor
+
+abstract
+    In the case where DC power from a DC power supply is converted to AC power by an inverter and supplied to an AC motor, a power compensator is connected in parallel with a DC power input portion of the inverter, and a control device of the power compensator charges/discharges a power storage device to perform a power compensation process A when power demand for the AC motor exceeds a predetermined value, and takes into account power allowance which can be inputted and outputted from the DC power supply to the power storage device and performs a power storage adjustment process B of performing auxiliary charge of the power storage device within the range of the power allowance when the power compensation process A is unnecessary.
+title
+    AC motor driving apparatus
+similar_document
+26
+    Publication,Publication Date,Title
+    US8884561B2,2014-11-11,AC motor driving apparatus
+    JP5389302B1,2014-01-15,AC motor drive system
+    EP2068423B1,2011-11-16,An AC power generation system
+    RU2509001C2,2014-03-10,Power converter with motor for automotive engine
+    US8154152B2,2012-04-10,Method of controlling DC/DC converter, fuel cell vehicle for carrying out such method
+    JP5381026B2,2014-01-08,Control circuit for composite power supply
+    US20130093394A1,2013-04-18,Charging device for electromotive vehicle
+    US10951126B2,2021-03-16,System and method for operating a system
+    US6435311B2,2002-08-20,Elevator control calculating power consumed and power generated by a controlled elevator
+    CN109428533B,2020-04-21,Motor drive device for controlling boost ratio of PWM converter
+    EP3573207A1,2019-11-27,Electrical power system including energy storage modules and shared system controller
+    JP2019149863A,2019-09-05,Motor drive system having power storage device
+    JP5361318B2,2013-12-04,Power supply
+    JP5673267B2,2015-02-18,Electric chopper control device
+    US10014694B2,2018-07-03,Power supply apparatus
+    JP2022019798A,2022-01-27,Motor drive apparatus including power storage device
+    KR100689325B1,2007-03-08,H-bridge multi-level inverter
+    JP7111557B2,2022-08-02,Motor drive system with power storage device
+    JP2012239252A,2012-12-06,Ac motor driving device
+    EP3703239A1,2020-09-02,Electrical power system for pulsed loads including an active rectifier
+    JP2020182373A,2020-11-05,Motor drive apparatus including power storage device
+    Krah et al.,2016,Smart supercapacitor based DC-link extension for drives offers UPS capability and acts as an energy efficient line regeneration replacement
+    JP2012135132A,2012-07-12,Power supply device and electric equipment using the same
+    JP5546438B2,2014-07-09,AC motor drive device
+    Staiger et al.,2017,Application of a buck-boost converter for highly dynamic power smoothing in industrial applications
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    7
+classfication_nums
+    24
+classfication_items
+116
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,7,/,0,0
+    H,0,2,P,2,7,/,0,4
+    H,0,2,P,2,7,/,0,6
+    B,6,0,L,1,1,/,0,0,5
+    B,6,0,L,1,1,/,1,8,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,3,4
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,6,6
+    H,0,2,M,7,/,6,8
+    H,0,2,M,7,/,7,2
+    H,0,2,M,7,/,7,9
+    H,0,2,M,7,/,7,9,7
+    B
+    B,2,9
+    B,2,9,C
+    B,2,9,C,4,5,/,0,0
+    B,2,9,C,4,5,/,1,7
+    B,2,9,C,4,5,/,7,6
+    B,2,9,C,4,5,/,7,6,6,6
+    B,2,9,C,2,0,4,5,/,7,6,7,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,5,/,0,0
+    H,0,2,M,5,/,4,0
+    H,0,2,M,5,/,4,2
+    H,0,2,M,5,/,4,4
+    H,0,2,M,5,/,4,5,3
+    H,0,2,M,5,/,4,5,8
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,2,0,1,/,0,0
+    H,0,2,P,2,2,0,1,/,0,7
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,2,0,1,/,0,0
+    H,0,2,P,2,2,0,1,/,0,9
+    Y
+    Y,0,2
+    Y,0,2,P
+    Y,0,2,P,7,0,/,0,0
+    Y,0,2,P,7,0,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,0,5
+    Y,0,2,T,1,0,/,7,0,2,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,1,6
+
+application_events
+7
+    2010-09-06,Application filed by Mitsubishi Electric Corp
+    2013-02-21,Assigned to MITSUBISHI ELECTRIC CORPORATION
+    2013-06-20,Publication of US20130154531A1
+    2014-11-11,Application granted
+    2014-11-11,Publication of US8884561B2
+    Status,Active
+    2030-12-24,Adjusted expiration
+
+active_area
+7
+    C,N
+    U,S
+    J,P
+    W,O
+    K,R
+    D,E
+    T,W
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2010/065221,2010-09-06,Ac motor driver apparatus
+
+legal_event
+5
+    Date,Code,Title,Description
+    2013-02-21,AS,Assignment,Owner name: MITSUBISHI ELECTRIC CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:FURUTANI, SHINICHI;TABUCHI, AKIKO;TSUTSUI, KAZUHIKO;AND OTHERS;SIGNING DATES FROM 20130130 TO 20130206;REEL/FRAME:029847/0206
+    2014-10-22,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2018-04-27,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551)Year of fee payment: 4
+    2022-04-27,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+

@@ -1,0 +1,167 @@
+ID
+    EP3121951A1
+citation_exist
+    Patent Citations (13)
+citation_infor
+15
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JPS5319084B2                      *,1973-06-11,1978-06-19,,
+    JP2552912B2                      *,1989-02-15,1996-11-13,日野自動車工業株式会社,Retarder
+    US5604426A                      *,1993-06-30,1997-02-18,Asahi Glass Company Ltd.,Electric apparatus with a power supply including an electric double layer capacitor
+    JPH08308208A                      *,1995-05-02,1996-11-22,Sawafuji Electric Co Ltd,Retarder with exciter
+    US6286637B1                      *,1998-03-09,2001-09-11,Kwangju Institute Of Science & Technology,Contactless eddy current brake for cars
+    JP4970000B2                      *,2006-11-10,2012-07-04,株式会社Ｔｂｋ,Electromagnetic retarder
+    WO2008144901A1                      *,2007-05-25,2008-12-04,Railpower Technologies Corp.,Power architecture and braking circuits for dc motor-propelled vehicle
+    FR2919421B1                      *,2007-07-23,2018-02-16,Schneider Electric Industries Sas,ELECTROMAGNETIC ACTUATOR HAVING AT LEAST TWO WINDINGS
+    FR2920611B1                      *,2007-09-04,2012-05-18,Alstom Transport Sa,SECURITY ELECTRIC BRAKE DEVICE WITH PERMANENT MAGNET MOTOR AND CONTROL OF BRAKING TORQUE.
+    JP5263792B2                      *,2010-03-05,2013-08-14,株式会社Ｔｂｋ,Electromagnetic retarder
+    CN101800113B                      *,2010-04-02,2012-05-16,石家庄五龙制动器股份有限公司,Magnetic brake controller
+    US9407187B2                      *,2012-06-28,2016-08-02,General Electric Company,System and method for improving response time of a braking unit
+    CN103640487B                      *,2013-12-09,2015-08-26,江苏大学,A kind of electromagnetism-hydraulic pressure composite brakig device and method of work with spontaneous electrical function
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    EP3351827B1                      *,2017-01-20,2022-08-03,Artemis Intelligent Power Limited,Hydrostatic transmission for a vehicle
+    CN107359685A                      *,2017-07-31,2017-11-17,辽宁航宇星物联仪表科技有限公司,A kind of intelligent gas meter self charger
+
+abstract
+    A self-charging type electromagnetic retarder having a main portion of the electromagnetic retarder consisting of a stator yoke, of a plurality of magnetic coils forming multi-phase connections, and of a steel rotor; a control device; an electric power generating type electromagnetic retarder potion having a driving device for a high revolution region consisting of transistors opened and closed by a drive pulse for the high revolution region issued from the control device, respectively; a capacitor portion storing therein an excess electric power; a diode for preventing a reverse-current; and a driving device for a low revolution region consisting of transistors opened and closed by a drive pulse for the low revolution region issued from the control circuit, respectively. The magnetic coils of each phase are connected with capacitors so as to form a resonance circuit, respectively. Each of the transistors for the high revolution region is connected in series to each of the multi-phase connections. Each of the transistors for the low revolution region is connected in series to each of the multi-phase connections through the capacitor portion and the diode. At the high revolution region, the excess electric power obtained from the electric power generating type electromagnetic retarder portion is stored in the capacitor portion, and at the low revolution region, the magnetic coils are excited by the electric power stored in the capacitor portion.
+title
+    Self-charging electromagnetic retarder
+similar_document
+17
+    Publication,Publication Date,Title
+    JP5955472B2,2016-07-20,Multi-group polyphase drive system and method for driving rotating electric machine
+    US8689950B2,2014-04-08,Electromagnetic type retarder
+    EP1921736B1,2011-08-31,Electromagnetic type retarder
+    EP3121951A1,2017-01-25,Self-charging electromagnetic retarder
+    JP4798072B2,2011-10-19,Control method for vehicle charger
+    US10505486B2,2019-12-10,Motor and motor control method
+    EP2942861A1,2015-11-11,Multifunction electromagnetic retarder
+    EP3070834A1,2016-09-21,Electromagnetic retarder
+    US20170346353A1,2017-11-30,Permanent-magnet-type rotating electrical machine
+    EP2775592A2,2014-09-10,Alternator for a power generation system
+    US9579982B2,2017-02-28,Resonant motor system
+    Islam et al.,2017,Design optimization of rare-earth free PM-assisted synchronous reluctance motor to improve demagnetization prevention capability
+    JP6327063B2,2018-05-23,Power supply
+    Ismagilov et al.,2018,Optimizing the Structural Designs of Starter Generators for Hybrid Powertrain Vehicles
+    Saito et al.,2010,The design method to minimize torque ripple in interior permanent magnet synchronous motor with concentrated winding
+    BOGUSZ et al.,2015,Analiza wpływu sprzężeń magnetycznych na charakterystyki generatora reluktancyjnego przełączalnego
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    6
+classfication_nums
+    10
+classfication_items
+56
+    H
+    H,0,2
+    H,0,2,K
+    H,0,2,K,4,9,/,0,0
+    H,0,2,K,4,9,/,0,2
+    H,0,2,K,4,9,/,0,4
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,1,5,/,0,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,5
+    B,6,0,T,1,3,/,5,8,6
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,1,/,0,0
+    H
+    H,0,2
+    H,0,2,K
+    H,0,2,K,4,9,/,0,0
+    H,0,2,K,4,9,/,0,2
+    H,0,2,K,4,9,/,0,4
+    H,0,2,K,4,9,/,0,4,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    H
+    H,0,2
+    H,0,2,K
+    H,0,2,K,1,7,/,0,0
+    H,0,2,K,1,7,/,4,2
+    H
+    H,0,2
+    H,0,2,K
+    H,0,2,K,7,/,0,0
+    H,0,2,K,7,/,1,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+
+application_events
+4
+    2014-03-20,Application filed by TBK Co Ltd
+    2017-01-25,Publication of EP3121951A1
+    2017-11-15,Publication of EP3121951A4
+    Status,Withdrawn
+
+active_area
+4
+    J,P
+    C,N
+    W,O
+    K,R
+
+not_active_area
+2
+    U,S
+    E,P
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2014/057703,2014-03-20,Self-charging electromagnetic retarder
+
+legal_event
+10
+    Date,Code,Title,Description
+    2016-12-23,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2017-01-25,17P,Request for examination filed,Effective date: 20150123
+    2017-01-25,AK,Designated contracting states,Kind code of ref document: A1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2017-01-25,AX,Request for extension of the european patent,Extension  state: BA ME
+    2017-06-28,DAX,Request for extension of the european patent (deleted),
+    2017-11-15,A4,Supplementary search report drawn up and despatched,Effective date: 20171017
+    2017-11-15,RIC1,Information provided on ipc code assigned before grant,Ipc: H02K  49/02        20060101ALI20171011BHEPIpc: H02P  15/00        20060101AFI20171011BHEP
+    2018-04-27,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE APPLICATION HAS BEEN WITHDRAWN
+    2018-05-30,18W,Application withdrawn,Effective date: 20180423
+

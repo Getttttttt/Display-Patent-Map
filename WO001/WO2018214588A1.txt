@@ -1,0 +1,133 @@
+ID
+    WO2018214588A1
+citation_exist
+    Patent Citations (11)
+citation_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    US6488345B1                      *,2001-08-16,2002-12-03,General Motors Corporation,Regenerative braking system for a batteriless fuel cell vehicle
+    CN101332774A                      *,2008-08-06,2008-12-31,山东理工大学,汽车制动能量再生控制方法和系统
+    CN101474965A                      *,2009-01-20,2009-07-08,清华大学,一种混合动力电动汽车主动制动控制方法
+    CN104228591A                      *,2014-10-10,2014-12-24,北京现代汽车有限公司,一种再生制动能量回收控制方法及装置
+    CN104442431A                      *,2013-09-17,2015-03-25,北汽福田汽车股份有限公司,一种新能源汽车的能量回收调节系统及其方法
+    Family To Family Citations,,,,
+    CN202806727U                      *,2012-07-23,2013-03-20,广州市科密汽车制动技术开发有限公司,一种集成abs的汽车制动能量回收系统
+    US9296301B2                      *,2012-11-24,2016-03-29,Ford Global Technologies, Llc,Environment-aware regenerative braking energy calculation method
+    DE102012222507A1                      *,2012-12-07,2014-06-12,Continental Automotive Gmbh,Verfahren zum Betreiben einer Rekuperationsbremse eines Kraftfahrzeugs und Rekuperationsbremse
+    CN103640569B                      *,2013-11-28,2016-04-27,江苏大学,基于多智能体技术的混合动力汽车能量管理方法
+    KR101655609B1                      *,2014-12-11,2016-09-07,현대자동차주식회사,하이브리드 자동차의 배터리 충전 상태 제어 장치 및 방법
+    CN104527401A                      *,2014-12-22,2015-04-22,天津市松正电动汽车技术股份有限公司,混合动力公交车能量管理方法及装置
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (5)
+              
+
+
+citedBy_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    CN111746292A                      *,2020-07-27,2020-10-09,雅迪科技集团有限公司,一种电动车的能量回馈系统及其方法
+    CN114132181A                      *,2020-09-03,2022-03-04,长城汽车股份有限公司,车辆控制方法和装置、介质、设备
+    CN114475260B                      *,2020-11-13,2023-07-14,比亚迪股份有限公司,能量回收方法、装置、电动汽车及存储介质
+    CN113561784B                      *,2020-11-25,2023-07-21,长城汽车股份有限公司,车辆的能量回收强度的指导方法和装置
+    CN114030448B                      *,2021-10-27,2022-08-05,武汉未来幻影科技有限公司,一种车辆及控制系统、方法和装置
+
+abstract
+    一种制动能量回收方法，包括：车辆的制动能量回收系统基于所述车辆在预设时长内的速度信息，获取所述车辆在所述预设时长内的运行参数信息；其中，所述预设时长大于所述车辆在任意一次处于制动状态的时长，所述制动状态为所述车辆处于主动减速或不主动加速的状态；基于所述运行参数信息，预测所述车辆所处的运行道路的当前的交通状态；基于与所述当前的交通状态匹配的回馈力矩映射关系信息，确定所述车辆在所述当前的交通状态下处于所述制动状态时的回馈力矩；在所述车辆处于所述制动状态时，基于所述回馈力矩将所述车辆的制动能量转化为电能，并将所述电能存储至所述车辆的蓄电池（40）中。还公开了使用该方法的电动汽车。根据该制动能量回收方法，能够根据当前的交通状态自适应地调整回馈力矩的大小，可以避免由于仅凭驾驶员的经验对回馈力矩的大小进行调节的不准确性，也尽量避免由于回馈力矩过大或过小导致的能量利用率低，可以实现以较低的硬件成本，来提高对电动机的回馈力矩的大小进行调节的准确性、提高能量的利用率的效果。
+title
+    一种制动能量回收方法及电动汽车
+similar_document
+26
+    Publication,Publication Date,Title
+    WO2018214588A1,2018-11-29,一种制动能量回收方法及电动汽车
+    KR101684542B1,2016-12-08,하이브리드 차량의 엔진 정지 제어 시스템 및 그 방법
+    JP5231900B2,2013-07-10,車両の動力システムの制御方法
+    US9834199B2,2017-12-05,Apparatus and method for controlling battery state of charge in hybrid electric vehicle
+    JP5253873B2,2013-07-31,ハイブリッド車両の運転者要求トルクの制御方法
+    CN110936822B,2021-03-26,滑行能量回馈的控制方法、控制系统及车辆
+    US11390172B2,2022-07-19,Vehicle having electric motor and driving control method for the same
+    CN107415704B,2020-05-22,复合制动方法、装置和自适应巡航控制器
+    US10974715B2,2021-04-13,Hybrid electric vehicle and driving mode control method for the same
+    CN108340904B,2022-01-11,用于控制混合动力车辆的行驶的系统和方法
+    CN110936949A,2020-03-31,基于行驶工况的能量控制方法、设备、存储介质及装置
+    JP5102101B2,2012-12-19,ハイブリッド車の制御装置
+    CN110525419A,2019-12-03,环境友好型车辆的扭矩分配式惯性行驶控制方法
+    KR20200068156A,2020-06-15,차량 및 그 제어방법
+    JP2009274610A,2009-11-26,ハイブリッド車の制御装置
+    CN108068814B,2022-03-11,使用车辆行驶信息控制车辆行驶的方法及使用方法的车辆
+    CN113635772B,2023-03-31,能量回收的控制方法、控制装置、车辆及存储介质
+    Chen et al.,2018,State of charge node planning with segmented traffic information
+    US9791039B1,2017-10-17,Apparatus and method for shift control of vehicle
+    KR20200052999A,2020-05-18,친환경 차량의 감속 제어 방법
+    US20180126977A1,2018-05-10,Method for controlling driving of vehicle using driving information of forward vehicle
+    US10532734B2,2020-01-14,Hybrid vehicle and method of controlling motor of the same
+    KR102353411B1,2022-01-24,차량의 제어 장치 및 방법
+    CN115158289A,2022-10-11,一种车辆中动力电池的充放电功率控制方法、装置及车辆
+    KR20180086783A,2018-08-01,하이브리드 차량의 주행 제어 방법
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    6
+classfication_nums
+    4
+classfication_items
+23
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+
+application_events
+2
+    2018-01-24,Application filed by 华为技术有限公司
+    2018-11-29,Publication of WO2018214588A1
+
+active_area
+2
+    C,N
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    CN201710386963.3,2017-05-26,
+    CN201710386963.3A,2017-05-26,一种制动能量回收方法及电动汽车
+
+legal_event
+4
+    Date,Code,Title,Description
+    2019-01-09,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 18806856Country of ref document: EPKind code of ref document: A1
+    2019-11-27,NENP,Non-entry into the national phase,Ref country code: DE
+    2020-08-12,122,Ep: pct application non-entry in european phase,Ref document number: 18806856Country of ref document: EPKind code of ref document: A1
+

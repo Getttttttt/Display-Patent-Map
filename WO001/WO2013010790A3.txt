@@ -1,0 +1,216 @@
+ID
+    WO2013010790A3
+citation_exist
+    Patent Citations (7)
+citation_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    EP1157873A2                      *,2000-05-24,2001-11-28,Toyota Jidosha Kabushiki Kaisha,Hybridfahrzeug und Steuerungsverfahren für Hybridfahrzeuge
+    EP1603224A1                      *,2003-03-11,2005-12-07,Toyota Jidosha Kabushiki Kaisha,Motorantriebseinrichtung, hybride kraftfahrzeugantriebseinrichtung damit und ein programm zum bewirken, dass ein computer die steuerung einer motorantriebseinrichtung ausf hrt enthaltendes computerlesbares aufzeichnungsmedium
+    EP2130734A1                      *,2007-03-28,2009-12-09,Toyota Jidosha Kabushiki Kaisha,Steuerung und steuerverfahren für hybridfahrzeug
+    Family To Family Citations,,,,
+    WO2008132893A1                      *,2007-04-20,2008-11-06,Toyota Jidosha Kabushiki Kaisha,車両用動力伝達装置の制御装置
+    DE102008043943A1,2007-12-27,2009-07-02,Robert Bosch Gmbh,Verfahren zum Betreiben eines elektrischen Netzwerks, insbesondere eines Kraftfahrzeugs
+    US8290682B2                      *,2009-04-29,2012-10-16,Chris Scott Ewert,Engine control device and method for a hybrid vehicle
+    KR101500886B1                      *,2010-08-26,2015-03-09,미쓰비시덴키 가부시키가이샤,차량용 제어장치 및 디젤/하이브리드 차량 시스템
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (7)
+              
+
+
+citedBy_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    DE102013226577A1,2013-12-19,2015-06-25,Robert Bosch Gmbh,Vorrichtung und Verfahren zum Betreiben einer elektrischen Maschine
+    US9193273B1                      *,2014-06-15,2015-11-24,Efficient Drivetrains, Inc.,Vehicle with AC-to-DC inverter system for vehicle-to-grid power integration
+    US11186162B2                      *,2016-03-15,2021-11-30,Borgwarner, Inc.,Twin system electric all-wheel drive supplementary drive axle
+    JP2017169363A                      *,2016-03-16,2017-09-21,三菱自動車工業株式会社,車両の制御装置
+    US11462920B2,2020-01-31,2022-10-04,Lear Corporation,Method and system for producing an active short circuit condition in an electric motor of a hybrid electric vehicle
+    US11167644B2,2020-01-31,2021-11-09,Lear Corporation,Method and system for notification of an active short circuit condition in an electric motor of a hybrid electric vehicle
+    US11332029B2,2020-01-31,2022-05-17,Lear Corporation,Method and system for producing an active short circuit condition in an electric motor of a hybrid electric vehicle
+
+abstract
+    Die vorliegende Erfindung betrifft ein Verfahren zum Betreiben eines elektrischen Netzes (44), insbesondere eines Kraftfahrzeugs (10), wobei das elektrische Netz (44) wenigstens zwei elektrische Maschinen (14, 34), die über jeweils einen steuerbaren Wechselrichter (32, 42) mit dem elektrischen Netz (44) verbunden sind, aufweist, wobei ein geregelter Generatorbetrieb einer ersten der elektrischen Maschinen (14, 34) eingeleitet wird, dadurch gekennzeichnet, dass in einem ersten Schritt das Unterschreiten eines ersten vorgebbaren Spannungswertes der in dem elektrischen Netz (44) verfügbaren elektrischen Spannung erfasst wird, und anschließend in einem zweiten Schritt, in Abhängigkeit einer zu erwartenden induzierten Freilaufspannung einer der elektrischen Maschinen (14, 32), einer der Wechselrichter (32, 42) ausgewählt wird, der einer elektrischen Maschine (14, 32) zugeordnet ist, und so angesteuert wird, dass die daran angeschlossene elektrische Maschine (14, 34) im elektrischen Freilauf betrieben wird, so dass diese aufgrund ihrer Drehung eine Freilaufspannung induziert, welche im elektrischen Netz (44) anliegt und anschließend in einem dritten Schritt das Überschreiten eines zweiten vorgebbaren Spannungswertes der in dem elektrischen Netz (44) verfügbaren induzierten elektrischen Freilaufspannung erfasst wird und anschließend in einem vierten Schritt der Wechselrichter (32,42) der ersten elektrischen Maschine (14, 34) so angesteuert wird, dass die daran angeschlossene erste elektrische Maschine (14, 34) im geregelten Generatorbetrieb betrieben wird.
+title
+    Verfahren zum betreiben eines elektrischen netzes und vorrichtung zum steuern eines elektrischen netzes
+similar_document
+26
+    Publication,Publication Date,Title
+    WO2013010790A3,2013-11-14,Verfahren zum betreiben eines elektrischen netzes und vorrichtung zum steuern eines elektrischen netzes
+    EP2745394B1,2019-01-16,Betriebszustandsschaltung für wechselrichter und verfahren zum einstellen von betriebszuständen eines wechselrichters
+    WO2013068158A3,2013-08-22,Verfahren und vorrichtung zum ansteuern einer elektrischen maschine
+    JP6299574B2,2018-03-28,電子装置
+    WO2015013303A3,2015-03-26,Electric vehicle motor torque safety monitor
+    JP2007236013A5,2008-05-22,
+    WO2011122849A3,2013-07-18,모터 제어방법 및 장치와, 세탁기 및 그 제어방법
+    WO2012125339A3,2014-04-24,System for controlling rotary electric machines to reduce current ripple on direct current bus
+    WO2012142008A3,2013-07-25,System and method for fast start-up of an induction motor
+    JP2013223371A,2013-10-28,モータ駆動装置
+    WO2012056284A3,2012-06-21,Vehicle and control method therefor
+    JP5900291B2,2016-04-06,電動パワーステアリング装置
+    WO2017112402A8,2017-08-17,System and method for improving acceleration performance of an electric vehicle
+    WO2015176936A3,2016-01-14,Rotor für eine synchronmaschine
+    WO2014006065A3,2014-05-30,Versorgung von elektrischen traktionsmotoren und zusätzlichen elektrischen hilfsbetrieben eines schienenfahrzeugs mit elektrischer energie
+    WO2013113051A3,2014-02-20,Verfahren und vorrichtung zur überwachung der kurzschluss-schalteinrichtung eines drehstrommotors
+    EP2509213A3,2015-04-29,Bürstenloser Motor und Steuerungsverfahren dafür
+    FR3025890B1,2018-02-16,Procede et dispositif de diagnostic de defauts de capteurs de courants de phases d&#39;un systeme de pilotage d&#39;une machine electrique tournante synchrone de vehicule automobile
+    TW201614949A,2016-04-16,Position controlling device
+    WO2012152780A3,2013-01-10,Leistungselektronische vorrichtung und steuerverfahren für eine elektrische maschine und für elektrische energiespeicher
+    EP2989719A4,2017-01-25,Verfahren, computerprogrammprodukt und steuerung zum starten eines geschalteten reluktanzmotors und elektrische vorrichtung damit
+    GB201210706D0,2012-08-01,Variable torque angle for electric motor
+    EP2498393A3,2018-01-24,Vorrichtung und Verfahren zum Anhalten eines Induktionsmotors
+    WO2014173792A3,2015-08-20,Verfahren und vorrichtung zum betrieb eines bürstenlosen gleichstrommotors
+    EP2574520A3,2017-06-21,Flurförderzeug mit notbetriebsfähigem elektrischen Antrieb
+
+patent_application
+    NoExist
+patent_priority_application
+4
+    Application,Priority date,Filing date,Title
+    CN201280035892.8A,2011-07-21,2012-07-04,用于运行电网的方法以及用于控制电网的装置
+    US14/233,951,2011-07-21,2012-07-04,Method for operating an electrical system, and apparatus for controlling an electrical system
+    EP12743407.4A,2011-07-21,2012-07-04,Verfahren zum betreiben eines elektrischen netzes und vorrichtung zum steuern eines elektrischen netzes
+
+inventor_number
+    4
+classfication_nums
+    16
+classfication_items
+97
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+6
+    2012-07-04,Application filed by Robert Bosch Gmbh
+    2012-07-04,Priority to CN201280035892.8A
+    2012-07-04,Priority to US14/233,951
+    2012-07-04,Priority to EP12743407.4A
+    2013-01-24,Publication of WO2013010790A2
+    2013-11-14,Publication of WO2013010790A3
+
+active_area
+5
+    D,E
+    C,N
+    E,P
+    W,O
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    DE102011079566A,2011-07-21,Verfahren zum Betreiben eines elektrischen Netzes und Vorrichtung zum Steuern eines elektrischen Netzes
+    DE102011079566.9,2011-07-21,
+
+legal_event
+3
+    Date,Code,Title,Description
+    2013-12-12,WWE,Wipo information: entry into national phase,Ref document number: 2012743407Country of ref document: EP
+    2014-01-21,WWE,Wipo information: entry into national phase,Ref document number: 14233951Country of ref document: US
+

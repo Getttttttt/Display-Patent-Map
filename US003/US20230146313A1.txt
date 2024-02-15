@@ -1,0 +1,208 @@
+ID
+    US20230146313A1
+citation_exist
+    Patent Citations (5)
+citation_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP4075018B2                      *,1995-08-07,2008-04-16,ソニー株式会社,Battery pack
+    JP2006015887A                      *,2004-07-02,2006-01-19,Sanyo Electric Co Ltd,Motor-assisted bicycle
+    JP6495783B2                      *,2015-08-25,2019-04-03,太陽誘電株式会社,Control device, power storage device and moving body
+    JP6599743B2,2015-11-30,2019-10-30,太陽誘電株式会社,Charge control device, power storage device, and electrically assisted vehicle
+    EP3460989A4                      *,2016-05-17,2020-01-22,Microspace Corporation,Motor driving control device and electric device
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    CN109995096B                      *,2017-12-29,2022-07-12,苏州宝时得电动工具有限公司,Multi-pack parallel mutual charging control circuit, control method and electric tool
+
+abstract
+    A battery pack includes a rechargeable battery, a charge FET including a parallel diode connected in series with the battery, and a control circuit configured to control turning on and off of the charge FET. The control circuit includes a discriminating circuit configured to detect a bicycle-mounted state and a charger-connected state, and a memory configured to store a full charge voltage of the battery. The control circuit is configured to, while the discriminating circuit detects the bicycle-mounted state. turn off the charge FET. The control circuit is configured to, while the discriminating circuit detects the charger-connected state, stop charging the battery by switching the charge FET to turn off the charge FET upon detecting that a voltage of the battery charged by a charger becomes higher than the full charge voltage.
+title
+    Battery pack for electric bicycle and electric bicycle equipped with battery pack
+similar_document
+26
+    Publication,Publication Date,Title
+    JP6540781B2,2019-07-10,Power storage device
+    US9793722B2,2017-10-17,Power source apparatus for vehicle
+    JP5440400B2,2014-03-12,Power supply
+    US8593111B2,2013-11-26,Assembled battery system
+    JP5865013B2,2016-02-17,Power supply device for vehicle and vehicle provided with this power supply device
+    JP5234052B2,2013-07-10,Power supply
+    JP5471083B2,2014-04-16,In-vehicle power supply
+    JP7073865B2,2022-05-24,Redundant power supply system
+    US10131298B2,2018-11-20,Controlled connection of multiple wiring system branches of a vehicle
+    CN106560968B,2021-02-05,Secondary battery protection integrated circuit, secondary battery protection device and battery pack
+    JP5428708B2,2014-02-26,In-vehicle power supply
+    US20110140665A1,2011-06-16,Power supply device capable of forcedly discharging battery cell
+    US10158237B2,2018-12-18,Battery pack and electric bike including the same
+    US10112501B2,2018-10-30,Power storage device, power storage system, and electric vehicle
+    JP3665574B2,2005-06-29,Charge / discharge control circuit and rechargeable power supply
+    CN111656645B,2023-04-18,Power storage device and vehicle provided with same
+    EP3657626B1,2021-04-28,Protection circuit for battery and power supply device provided with said protection circuit
+    US7528578B2,2009-05-05,Power supply apparatus
+    US20230146313A1,2023-05-11,Battery pack for electric bicycle and electric bicycle equipped with battery pack
+    JP5154076B2,2013-02-27,Battery pack and battery module and hybrid vehicle using the same
+    JPH08265985A,1996-10-11,Charging method for pack battery
+    JP2001112182A,2001-04-20,Protective circuit for secondary battery
+    JP7220874B2,2023-02-13,Battery module system and method
+    WO2023176228A1,2023-09-21,Power source device
+    JP2001057743A,2001-02-27,Battery protecting device
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    6
+classfication_nums
+    18
+classfication_items
+102
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,1,4
+    H,0,2,J,7,/,1,4,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,2
+    B,6,2,M
+    B,6,2,M,6,/,0,0
+    B,6,2,M,6,/,4,0
+    B
+    B,6,2
+    B,6,2,M
+    B,6,2,M,6,/,0,0
+    B,6,2,M,6,/,8,0
+    B,6,2,M,6,/,9,0
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,4
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,6
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,8
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,2,9
+    H,0,2,J,7,/,0,0,3,0,2
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,2,9
+    H,0,2,J,7,/,0,0,3,0,4
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,4,7
+    H,0,2,J,7,/,0,0,4,8
+    H,0,2,J,7,/,0,0,4,9
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,7
+    H,0,2,J,7,/,0,0,7,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,3,0
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,2,2,2,0,/,0,0
+    H,0,1,M,2,2,2,0,/,2,0
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,2,2,0,7,/,0,0
+    H,0,2,J,2,2,0,7,/,4,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+
+application_events
+5
+    2021-03-24,Application filed by Sanyo Electric Co Ltd
+    2023-01-30,Assigned to SANYO ELECTRIC CO., LTD.
+    2023-05-11,Publication of US20230146313A1
+    2023-05-12,Assigned to Panasonic Energy Co., Ltd.
+    Status,Pending
+
+active_area
+4
+    J,P
+    C,N
+    E,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2020061486,2020-03-30,
+    JP2020-061486,2020-03-30,
+    PCT/JP2021/012180,2021-03-24,Battery pack for electric bicycle and electric bicycle equipped with battery pack
+
+legal_event
+4
+    Date,Code,Title,Description
+    2023-01-30,AS,Assignment,Owner name: SANYO ELECTRIC CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:MIZOSHITA, SHINGO;ARAI, HIDETAKA;NISHIKAWA, TORU;AND OTHERS;REEL/FRAME:062538/0389Effective date: 20220830
+    2023-02-22,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2023-05-12,AS,Assignment,Owner name: PANASONIC ENERGY CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:SANYO ELECTRIC CO., LTD.;REEL/FRAME:063632/0538Effective date: 20230510
+

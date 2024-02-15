@@ -1,0 +1,320 @@
+ID
+    US20150321661A1
+citation_exist
+    Patent Citations (26)
+citation_infor
+28
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US4887490A                      *,1988-07-14,1989-12-19,Sundstrand Corporation,Sequential mechanical mode shifter
+    US5034893A                      *,1989-04-10,1991-07-23,Clean Air Technologies, Inc.,Graphical display of timing advance data
+    US6683389B2                      *,2000-06-30,2004-01-27,Capstone Turbine Corporation,Hybrid electric vehicle DC power generation system
+    US6336063B1                      *,2000-10-31,2002-01-01,Volvo Car Corporation,Method and arrangement in a hybrid vehicle for improving battery state-of-charge control and minimizing driver perceptible disturbances
+    US6500089B2                      *,2000-10-31,2002-12-31,Ford Global Technologies, Inc.,Method and arrangement in a hybrid vehicle for maximizing efficiency by operating the engine at sub-optimum conditions
+    US6755266B2                      *,2000-10-31,2004-06-29,Volvo Car Corporation,Method and arrangement in a hybrid vehicle for initiating early engine operation during take-off conditions
+    US6397963B1                      *,2000-10-31,2002-06-04,Ford Global Technologies, Inc.,Method and arrangement in a hybrid vehicle for maintaining a catalyst in an effective state
+    US6512967B2                      *,2000-10-31,2003-01-28,Volvo Car Corporation,Method and arrangement in a hybrid vehicle for maximizing total torque output by minimizing differential torque capacities of the engine and generator
+    US6453222B1                      *,2000-10-31,2002-09-17,Volvo Car Corporation,Method and arrangement in a hybrid vehicle for matching engine and generator torques at times of engagement and disengagement
+    DE10256993B4                      *,2001-12-06,2018-05-09,Denso Corporation,Control unit for an internal combustion engine
+    JP3956796B2                      *,2001-12-26,2007-08-08,アイシン・エィ・ダブリュ株式会社,Hybrid vehicle drive control apparatus, hybrid vehicle drive control method, and program thereof
+    JP3700710B2                      *,2003-05-09,2005-09-28,日産自動車株式会社,Drive control apparatus for hybrid vehicle
+    JP4062264B2                      *,2003-06-06,2008-03-19,アイシン・エィ・ダブリュ株式会社,Vehicle drive control device, vehicle drive control method, and program
+    JP4038183B2                      *,2004-01-19,2008-01-23,トヨタ自動車株式会社,Power output device, automobile equipped with the same, and power transmission device
+    US7217221B2                      *,2004-05-14,2007-05-15,General Motors Corporation,Method for active engine stop of a hybrid electric vehicle
+    JP4329749B2                      *,2005-10-26,2009-09-09,トヨタ自動車株式会社,Control device for vehicle drive device
+    US20080243322A1                      *,2007-03-30,2008-10-02,Mazda Motor Corporation,Control device and method of hybrid vehicle
+    JP4412346B2                      *,2007-04-20,2010-02-10,トヨタ自動車株式会社,Drive control apparatus for hybrid vehicle
+    JP2008265600A,2007-04-23,2008-11-06,Toyota Motor Corp,Vehicle and control method thereof
+    JP4743218B2                      *,2008-03-03,2011-08-10,日産自動車株式会社,Clutch control device for hybrid vehicle
+    JP2009215958A                      *,2008-03-10,2009-09-24,Nissan Motor Co Ltd,Engine start controller, engine start control method, engine control method, and engine
+    JP2009215952A                      *,2008-03-10,2009-09-24,Nissan Motor Co Ltd,Engine start controller, engine start control method, engine control method, and engine
+    JP5575520B2                      *,2010-03-31,2014-08-20,本田技研工業株式会社,Power control device for hybrid vehicle
+    JP2011230521A                      *,2010-04-23,2011-11-17,Toyota Motor Corp,Start control device
+    AU2011373822A1,2011-07-27,2014-02-20,Toyota Jidosha Kabushiki Kaisha,Drive device for hybrid vehicle
+    US9527500B2,2012-03-21,2016-12-27,Toyota Jidosha Kabushiki Kaisha,Drive control device for hybrid vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (8)
+              
+
+
+citedBy_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20160185334A1                      *,2014-12-26,2016-06-30,Hyundai Motor Company,Vibration reduction control apparatus of hybrid vehicle
+    US20170088116A1                      *,2015-09-25,2017-03-30,Hyundai Motor Company,Method and device for learning engine clutch delivery torque of hybrid vehicle
+    US20180281779A1                      *,2017-04-04,2018-10-04,Toyota Jidosha Kabushiki Kaisha,Hybrid vehicle, control device for hybrid vehicle, and control method for hybrid vehicle
+    US10604146B2,2016-11-17,2020-03-31,Toyota Jidosha Kabushiki Kaisha,Control apparatus for vehicle and control method for vehicle
+    US11208091B2,2018-01-09,2021-12-28,Toyota Jidosha Kabushiki Kaisha,Vehicle control device
+    Family To Family Citations,,,,
+    CN106853819B                      *,2015-12-09,2019-05-24,上海汽车集团股份有限公司,A kind of HCU and the control method of clutch operating mode switching
+    US10015596B1                      *,2017-03-21,2018-07-03,GM Global Technology Operations LLC,Engine sound audio control systems and methods based on intake and/or exhaust temperature
+    JP2020175850A                      *,2019-04-22,2020-10-29,マツダ株式会社,Power train device for vehicle
+
+abstract
+    A drive control device for a hybrid vehicle is provided with a differential device including four rotary elements; and an engine, first and second electric motors and an output rotary member which are respectively connected to the four rotary elements. One of the four rotary elements is constituted by a rotary component of a first differential mechanism and a rotary component of a second differential mechanism selectively connected through a clutch, and one of the rotary components is selectively fixed to a stationary member through a brake. The drive control device comprises: an engine start control portion configured to switch an operating state of the clutch during cranking of the engine to raise its speed for starting the engine. The engine start control portion includes: a first clutch controlling portion configured to place the clutch in one of a released state and an engaged state in which a difference between a first dwelling speed to be established in a first half period of a rise of a speed of the engine and a first resonance speed of a drive line extending from the engine to the first electric motor connected to the first differential mechanism through a torsional damper is larger in the other of the released and engaged states, the first resonance speed corresponding to an explosion 1-order frequency of the engine; and a second clutch controlling portion configured to place the clutch in one of the released and engaged states in which a difference between a second dwelling speed to be established in a second half period of the rise of the speed of the engine and a predetermined second resonance speed of the drive line is larger in the other of the released and engaged states, the predetermined second resonance speed corresponding to a revolution 0.5-order pulsation frequency of the engine.
+title
+    Drive control device for hybrid vehicle
+similar_document
+25
+    Publication,Publication Date,Title
+    US9421858B2,2016-08-23,Drive control device for hybrid vehicle
+    US9527500B2,2016-12-27,Drive control device for hybrid vehicle
+    US9005078B2,2015-04-14,Drive control device for hybrid vehicle
+    US9248831B2,2016-02-02,Drive control device for hybrid vehicle
+    US9168911B2,2015-10-27,Drive control device for hybrid vehicle
+    US9085299B2,2015-07-21,Drive control device for hybrid vehicle
+    US9463688B2,2016-10-11,Drive control device for hybrid vehicle
+    US20150046009A1,2015-02-12,Drive control device for hybrid vehicle
+    US9020678B2,2015-04-28,Drive control device for a hybrid vehicle
+    US9533679B2,2017-01-03,Hybrid vehicle drive control device
+    US9193349B2,2015-11-24,Hybrid vehicle drive controller
+    US9108630B2,2015-08-18,Drive control device for hybrid vehicle
+    US20150018152A1,2015-01-15,Hybrid vehicle drive control device
+    US9211886B2,2015-12-15,Hybrid vehicle drive control device
+    US20150051773A1,2015-02-19,Drive control device for hybrid vehicle
+    US9499163B2,2016-11-22,Drive control device for hybrid vehicle
+    US20150088350A1,2015-03-26,Drive control device for hybrid vehicle
+    US20150105954A1,2015-04-16,Drive control device for hybrid vehicle
+    US20150210269A1,2015-07-30,Control apparatus for a hybrid vehicle drive system
+    US9545917B2,2017-01-17,Drive control device for hybrid vehicle
+    US20150087458A1,2015-03-26,Drive control device for hybrid vehicle
+    US20150057863A1,2015-02-26,Hybrid vehicle drive control device
+    US9211887B2,2015-12-15,Hybrid vehicle drive controller
+    US9242643B2,2016-01-26,Control apparatus for a hybrid vehicle drive system
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    5
+classfication_nums
+    29
+classfication_items
+185
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,4,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,3,6
+    B,6,0,K,6,/,3,6,5
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,4
+    B,6,0,K,6,/,4,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,5
+    B,6,0,W,2,0,/,1,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,2,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,3,8
+    B,6,0,K,2,0,0,6,/,3,8,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,1,0
+    B,6,0,L,2,2,7,0,/,1,4
+    B,6,0,L,2,2,7,0,/,1,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,1,0
+    B,6,0,L,2,2,7,0,/,1,4
+    B,6,0,L,2,2,7,0,/,1,4,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,2,0
+    B,6,0,W,2,0,3,0,/,2,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,2
+    B,6,0,W,2,7,1,0,/,0,2,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,6
+    B,6,0,W,2,7,1,0,/,0,6,4,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,3
+
+application_events
+7
+    2012-03-26,Application filed by Toyota Motor Corp
+    2014-09-24,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2015-11-12,Publication of US20150321661A1
+    2016-02-02,Application granted
+    2016-02-02,Publication of US9248831B2
+    Status,Active
+    2032-03-26,Anticipated expiration
+
+active_area
+4
+    C,N
+    J,P
+    W,O
+    U,S
+
+not_active_area
+1
+    D,E
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2012/057811,2012-03-26,Drive control device for hybrid vehicle
+
+legal_event
+5
+    Date,Code,Title,Description
+    2014-09-24,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:HAYASHI, KOJI;HARADA, HIROYASU;ONO, TOMOHITO;AND OTHERS;SIGNING DATES FROM 20140904 TO 20140908;REEL/FRAME:033806/0716
+    2016-01-13,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2019-07-18,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+    2023-09-25,FEPP,Fee payment procedure,Free format text: MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+

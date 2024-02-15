@@ -1,0 +1,243 @@
+ID
+    US10749451B2
+citation_exist
+    Patent Citations (20)
+citation_infor
+22
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5268624A                      *,1992-10-14,1993-12-07,Allergan, Inc.,Foot pedal control with user-selectable operational ranges
+    US5477116A                      *,1993-11-22,1995-12-19,Textron Inc.,Golf car having modular accelerator pedal assembly with non-contacting position sensor
+    US6356818B1                      *,1999-09-30,2002-03-12,Honda Giken Kogyo Kabushiki Kaisha,Control apparatus for hybrid vehicle
+    JP2002145168A,2000-11-17,2002-05-22,Matsushita Electric Ind Co Ltd,Vehicle with auxiliary power unit and control method therefor
+    US6462506B2                      *,1999-12-30,2002-10-08,Textron Inc.,Electric golf car with low-speed regenerative braking
+    JP2002369317A,2001-06-04,2002-12-20,Yamaha Motor Co Ltd,Constant speed traveling controller of motor vehicle
+    CN1421333A,2001-11-02,2003-06-04,本田技研工业株式会社,Regenerating controller for electric vehicle
+    US20100252345A1,2009-04-02,2010-10-07,Masayuki Hoshino,Regenerative braking device and vehicle provided with regenerative braking device
+    JP2010279186A,2009-05-29,2010-12-09,Meidensha Corp,Device for control of battery type vehicle
+    EP2631165A1,2012-02-27,2013-08-28,Honda Motor Co., Ltd.,Power-assisted bicycle
+    US20140121877A1                      *,2012-10-29,2014-05-01,Taiyo Yuden Co., Ltd.,Motor drive controller and electric power-assisted vehicle
+    JP5655989B2,2012-06-28,2015-01-21,株式会社村田製作所,Control device for mobile device with auxiliary power, and mobile device with auxiliary power provided with the control device
+    CN105377619A,2013-06-14,2016-03-02,微空间株式会社,Motor drive control device
+    EP3459782A1,2017-09-25,2019-03-27,Taiyo Yuden Co., Ltd.,Motor driving control apparatus and method and motor-assisted vehicle
+    US10296036B2                      *,2003-01-24,2019-05-21,Club Car, Llc,Modular pedal assembly for vehicles
+    Family To Family Citations,,,,
+    JPS5625077A                      *,1979-08-08,1981-03-10,Yamaha Motor Co Ltd,Speed controller for car
+    JP5279382B2                      *,2008-07-18,2013-09-04,パナソニック株式会社,Electric bicycle and brake adjustment method thereof
+    JP5073015B2                      *,2010-06-11,2012-11-14,株式会社シマノ,Bicycle regenerative braking control device
+    US9162730B2,2010-12-22,2015-10-20,Microspace Corporation,Motor driving control apparatus
+    JP2016020112A                      *,2014-07-11,2016-02-04,株式会社村田製作所,Control method for power-assisted bicycle
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (4)
+              
+
+
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US11505279B2                      *,2018-03-29,2022-11-22,Panasonic Intellectual Property Management Co., Ltd.,Bicycle motorization device and wheel
+    CN114604105A                      *,2022-04-11,2022-06-10,潍柴动力股份有限公司,Control method for switching carrier frequencies of motor and related device
+
+abstract
+    An embodiment of this invention relates to a motor driving control apparatus for a moto-assisted vehicle, which includes a driving unit configured to drive a motor, and a controller configured to determine a regeneration amount based on a first speed of a vehicle that moves by the motor driven by the driving unit, and control the driving unit according to the regeneration amount, wherein the first speed is a speed at a first timing when it is detected that a brake of the vehicle is changed to OFF, or is determined based on temporal change in an acceleration of the vehicle.
+title
+    Motor driving control apparatus and motor-assisted vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    JP6619836B2,2019-12-11,Motor drive control device
+    JP5473020B2,2014-04-16,Electric drive vehicle
+    US10919600B2,2021-02-16,Motor driving control apparatus and method and motor-assisted vehicle
+    US7291090B2,2007-11-06,Motor torque control system for vehicle
+    US8010270B2,2011-08-30,Vehicle controller and control method
+    US8862303B2,2014-10-14,Industrial vehicle
+    JP2001251701A,2001-09-14,Control device for electric car
+    TWI733136B,2021-07-11,Motor control device, method and electric auxiliary vehicle
+    US10749451B2,2020-08-18,Motor driving control apparatus and motor-assisted vehicle
+    US20020088653A1,2002-07-11,Electric vehicle and method of keeping the electric vehicle at stopping position
+    JP2009303342A,2009-12-24,Electric vehicle, and method of controlling electric vehicle
+    US9688280B2,2017-06-27,Traction control device
+    JP4736742B2,2011-07-27,Electric drive vehicle
+    JP2004215447A,2004-07-29,Travel controller for vehicle
+    JP2005335534A,2005-12-08,Vehicle with auxiliary power unit
+    JP2001103618A,2001-04-13,Controller of electric vehicle
+    JP7195288B2,2022-12-23,Motor drive control device and electrically assisted vehicle
+    JP2003070107A,2003-03-07,Motor controller for electric vehicle
+    JP4667987B2,2011-04-13,Electric vehicle control device
+    JP2021044899A,2021-03-18,Motor control device and electrically-driven power assisted vehicle
+    WO2023281846A1,2023-01-12,Motor control device for electrically assisted vehicle, and electrically assisted vehicle
+    JPH118908A,1999-01-12,Motor torque controller for electric vehicle
+    JP2020142739A,2020-09-10,Motor drive controller and power-assisted vehicle
+    JP2017121145A,2017-07-06,Control device for vehicle
+    JPH06292302A,1994-10-18,Controller for electric vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    5
+classfication_nums
+    20
+classfication_items
+114
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,3,/,0,0
+    H,0,2,P,3,/,0,6
+    H,0,2,P,3,/,0,8
+    H,0,2,P,3,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,0,1
+    B,6,0,T,8,/,1,7,0,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,2
+    B,6,0,W,5,0,/,0,2,2,5
+    B
+    B,6,2
+    B,6,2,M
+    B,6,2,M,6,/,0,0
+    B,6,2,M,6,/,4,0
+    B,6,2,M,6,/,4,5
+    B
+    B,6,2
+    B,6,2,M
+    B,6,2,M,6,/,0,0
+    B,6,2,M,6,/,4,0
+    B,6,2,M,6,/,4,5
+    B,6,2,M,6,/,5,0
+    B
+    B,6,2
+    B,6,2,M
+    B,6,2,M,6,/,0,0
+    B,6,2,M,6,/,4,0
+    B,6,2,M,6,/,6,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,2,0,5,/,0,0
+    H,0,2,P,2,2,0,5,/,0,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+
+application_events
+7
+    2019-03-01,Application filed by Taiyo Yuden Co Ltd
+    2019-03-22,Assigned to TAIYO YUDEN CO., LTD.
+    2019-09-12,Publication of US20190280628A1
+    2020-08-18,Application granted
+    2020-08-18,Publication of US10749451B2
+    Status,Active
+    2039-03-01,Anticipated expiration
+
+active_area
+5
+    J,P
+    T,W
+    U,S
+    C,N
+    E,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2018039760A,2018-03-06,Motor drive control device and electrically power assisted vehicle
+    JP2018-039760,2018-03-06,
+
+legal_event
+7
+    Date,Code,Title,Description
+    2019-03-01,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2019-03-22,AS,Assignment,Owner name: TAIYO YUDEN CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:HOSAKA, YASUO;EBINUMA, YUUJI;YANAOKA, TAICHI;AND OTHERS;REEL/FRAME:048680/0861Effective date: 20190318
+    2020-02-20,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2020-04-27,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2020-07-18,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2020-07-29,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

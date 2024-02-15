@@ -1,0 +1,158 @@
+ID
+    US20220063494A1
+citation_exist
+    Patent Citations (10)
+citation_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US5442268A                      *,1993-05-13,1995-08-15,Hughes Aircraft Company,Torque oscillation compensation using torque emulator/observer feedback
+    JPH07182587A,1993-12-21,1995-07-21,Honda Motor Co Ltd,Device for generating pseudo sound for electric vehicle
+    CN102714033B                      *,2009-10-23,2014-12-10,哈曼国际工业有限公司,System for simulated multi-gear vehicle sound generation
+    JP5292508B2,2010-02-23,2013-09-18,本田技研工業株式会社,Vehicle approach notification device for saddle-ride type electric vehicles
+    US20120083958A1                      *,2010-09-30,2012-04-05,Potens Ip Holdings Llc,System for simulating manual transmission operation in a vehicle
+    WO2013136504A1                      *,2012-03-16,2013-09-19,三菱電機株式会社,Alert sound control unit for vehicle approach notification device
+    US8718896B2                      *,2012-07-02,2014-05-06,Ford Global Technologies, Llc,Hybrid vehicle and associated output torque control method
+    US10414337B2                      *,2013-11-19,2019-09-17,Harman International Industries, Inc.,Apparatus for providing environmental noise compensation for a synthesized vehicle sound
+    KR101689236B1,2015-07-17,2016-12-23,원성필,Method for providing virtual engine sound and vibration
+    US20180090125A1,2016-09-26,2018-03-29,Yung Yeung,Simulation of driving sound of electric vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (12)
+              
+
+
+citedBy_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20200292062A1                      *,2019-03-11,2020-09-17,Toyota Jidosha Kabushiki Kaisha,Control device and control method of electric vehicle
+    US20220089035A1                      *,2020-09-22,2022-03-24,Hyundai Motor Company,Method for Implementing Virtual Internal Combustion Engine Vibration in Electric Vehicle
+    US20220194410A1                      *,2020-12-21,2022-06-23,Hyundai Motor Company,Method of generating virtual effect for electric vehicle
+    WO2023183849A1                      *,2022-03-22,2023-09-28,Atieva, Inc.,Emulation of internal combustion engine for driver of electric vehicle
+    US11815175B2                      *,2019-03-11,2023-11-14,Toyota Jidosha Kabushiki Kaisha,Control device and control method of electric vehicle
+    Family To Family Citations,,,,
+    CN112265550B                      *,2020-10-28,2021-07-30,中国第一汽车股份有限公司,Virtual engine rotating speed control method, active sound production system and automobile
+    WO2022271977A1                      *,2021-06-24,2022-12-29,Lord Corporation,Electric vehicle emulation system and method
+    CN113309974B                      *,2021-07-29,2021-10-29,山东柏源技术有限公司,Oil supply oil tank structure based on oil field fluid pressure system
+    JP2023023020A                      *,2021-08-04,2023-02-16,トヨタ自動車株式会社,Manual transmission simulation control device of electric automobile
+    DE102021209652A1,2021-09-02,2023-03-02,Psa Automobiles Sa,Motor vehicle having a gear selector lever, a clutch pedal and an electric motor which is controlled in such a way that it outputs a torque curve of an internal combustion engine
+    JP2023107412A                      *,2022-01-24,2023-08-03,トヨタ自動車株式会社,Controller apparatus for electric vehicle
+    US11707987B1                      *,2022-12-06,2023-07-25,Mercedes-Benz Group AG,Vehicle simulating method and system
+
+abstract
+    This invention concerns a sound and performance emulator (1) for an electric propulsion vehicle (100) with a first sensor (2) to emit a clutch signal (2 a) relative to the position of a clutch (101) of the electric propulsion vehicle (100); a second sensor (3) to emit a gear signal (3 a) relative to the position of a gear-switch (102) of the electric propulsion vehicle (100); a control unit (4) which receives an acceleration signal (5) relating to an accelerator position (103) of the electric propulsion vehicle (100); a vehicle speed signal (6) and/or an engine revolutions signal (7) relating to the engine revolutions (RpmExt) of the electric motor (104); the clutch signal (2 a); and the gear signal (3 a). The control unit (4) calculates a simulated engine revolutions value (RpmFinal) and a simulated gear inserted value (GearInserted) of a simulated endothermic combustion vehicle. The control unit (4) provides a requested simulated torque value and/or an output throttle signal (OutputThrottle) to be sent to the electric propulsion vehicle (100) to control it.
+title
+    Sound and performance emulator for electric vehicles
+similar_document
+26
+    Publication,Publication Date,Title
+    US20220063494A1,2022-03-03,Sound and performance emulator for electric vehicles
+    US20080060861A1,2008-03-13,Entertainment vehicle that simulates a vehicle with an internal combustion engine and multiple gear ratios
+    JP5646043B2,2014-12-24,Travel-linked sound generator
+    EP2202111B1,2018-12-05,Engine speed calculation device and engine sound generation device
+    JP3990716B1,2007-10-17,Vehicle display device
+    CN1147406C,2004-04-28,Vehicle communicatino equipment
+    US8831842B2,2014-09-09,Hybrid vehicle automatic simulated shifting
+    US20150199955A1,2015-07-16,Engine sound simulation for electric vehicles
+    JP5481600B2,2014-04-23,Travel-linked sound generator
+    JP2011215436A,2011-10-27,Sound control device, vehicle, program and information storage medium
+    JP2000010576A,2000-01-14,Engine simulated sound generating device
+    JP3872507B1,2007-01-24,Vehicle driving force control device
+    JP2007297026A,2007-11-15,Display device for vehicle
+    JP2009145828A,2009-07-02,Eco-driving support device
+    WO2020025860A1,2020-02-06,A control arrangement of an electric car
+    CN114572109A,2022-06-03,Method for providing virtual sound in electric vehicle
+    JP2009078576A,2009-04-16,Motor-driven two wheeler
+    JP4907379B2,2012-03-28,Vehicle display device
+    CN112519795B,2022-06-10,Automobile manual function demonstration system, automobile and method
+    CN108267967A,2018-07-10,Electric vehicle simulates internal-combustion engines vehicle engine luggine method, apparatus and electronic equipment
+    CN114056114B,2023-11-07,Electric automobile
+    CN103328263A,2013-09-25,Acceleration information transmission device
+    US7769520B2,2010-08-03,Tractive force map
+    JPWO2018189841A1,2019-11-07,Conversation information output device for vehicle and conversation information output method
+    JP3905548B1,2007-04-18,Vehicle engine control device
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    7
+classfication_items
+39
+    B
+    B,6,0
+    B,6,0,Q
+    B,6,0,Q,5,/,0,0
+    B,6,0,Q,5,/,0,0,5
+    B,6,0,Q,5,/,0,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    H
+    H,0,4
+    H,0,4,R
+    H,0,4,R,1,/,0,0
+    H,0,4,R,1,/,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,4,2
+    B
+    B,6,2
+    B,6,2,J
+    B,6,2,J,3,/,0,0
+    B,6,2,J,3,/,1,0
+    H
+    H,0,4
+    H,0,4,R
+    H,0,4,R,2,4,9,9,/,0,0
+    H,0,4,R,2,4,9,9,/,1,0
+    H,0,4,R,2,4,9,9,/,1,3
+
+application_events
+4
+    2019-11-11,Application filed by 2electron Srl
+    2021-05-07,Assigned to 2ELECTRON S.R.L.
+    2022-03-03,Publication of US20220063494A1
+    Status,Pending
+
+active_area
+3
+    C,N
+    U,S
+    E,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    IT102018000010226,2018-11-09,
+    IT102018000010226A,2018-11-09,SOUND AND PERFORMANCE EMULATOR FOR ELECTRIC MOTORIZED VEHICLES
+    PCT/IB2019/059661,2019-11-11,Sound and performance emulator for electric vehicles
+
+legal_event
+3
+    Date,Code,Title,Description
+    2021-05-07,AS,Assignment,Owner name: 2ELECTRON S.R.L., ITALYFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:DUO', JONATHAN;SPAGNOLO, FRANCESCO;REEL/FRAME:056171/0784Effective date: 20210416
+    2021-12-15,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+

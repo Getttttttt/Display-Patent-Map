@@ -1,0 +1,106 @@
+ID
+    WO2023042138A1
+citation_exist
+    Patent Citations (4)
+citation_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20140207355A1                      *,2011-08-29,2014-07-24,Toyota Jidosha Kabushiki Kaisha,Braking force control apparatus for vehicle
+    US20200189398A1                      *,2017-06-02,2020-06-18,Hitachi Automotive Systems, Ltd.,Control Apparatus for Electric Vehicle, Control System for Electric Vehicle, and Control Method for Electric Vehicle
+    DE102020107052A1                      *,2019-03-15,2020-09-17,Ford Global Technologies, Llc,EXTENSIVE BRAKE CONTROL SYSTEM
+    US20210086623A1                      *,2019-09-19,2021-03-25,Ford Global Technologies, Llc,Regenerative braking/anti-lock braking control system
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    A method (900) for controlling the wheel slip with mixing of the dissipative braking torque and the regenerative braking torque in a braking system with Brake-by-Wire, B-b-W, technology of a vehicle, comprising steps of: - receiving (901), by a wheel slip control sub-module of a wheel slip main control module with mixing of the dissipative braking torque and the regenerative braking torque of an electronic control unit of a braking system of a vehicle, a first plurality of input information for controlling wheel slip, hereinafter also simply first plurality of input information; - determining (902), by the wheel slip control sub-module, a braking torque request to be applied to a corner of the vehicle and a braking torque control component, based on the first plurality of input information received; - providing (903), by the wheel slip control sub-module, the braking torque request to be applied to a corner of the vehicle, the determined braking torque control component, and an enabled wheel slip control confirmation value, to a braking regeneration sub-module of the generative wheel slip control module of the electronic control unit of the braking system of the vehicle; - receiving (904), by the braking regeneration sub-module, a second plurality of input information for controlling the wheel slip; - determining (905), by the braking regeneration sub-module, a regenerative braking torque command as a function of the braking torque request to be applied to the corner of the vehicle or of the braking torque control component, based on a status of an input enabling signal, and as a function of the second plurality of input information and of the enabled wheel slip control confirmation value received from the wheel slip control sub-module, if the enabling input status is disabled, the step of determining (905) is performed by the braking regeneration sub-module to obtain the regenerative braking torque command as a function of the braking torque request, if the enabling input status is enabled, the step of determining (905) is performed by the braking regeneration sub-module to obtain the regenerative braking torque command as a function of the braking torque control component; - determining (906), by the braking regeneration sub-module, a dissipative braking torque command as a function of the braking torque request and of the regenerative braking torque command determined by the braking regeneration sub-module.
+title
+    Method and system for controlling wheel slip with mixing of the dissipative braking torque and the regenerative braking torque in a braking system with b-b-w technology of a vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US5511859A,1996-04-30,Regenerative and friction brake blend control
+    US20080007116A1,2008-01-10,Brake control apparatus
+    JP5723261B2,2015-05-27,Brake control device
+    US11332107B2,2022-05-17,System and method for operating redundancy braking in case of breakdown of main brake for autonomous vehicle
+    US7079930B2,2006-07-18,System and method for monitoring the handling of a vehicle
+    KR20190127672A,2019-11-13,Motor vehicle control unit for electric parking brake
+    EP3472008A1,2019-04-24,A wheel controller for a vehicle
+    US8483925B2,2013-07-09,Device for determining a driving state and method for the driving-state-dependent operation of a combined vehicle brake system
+    GB2326919A,1999-01-06,Controlling the braking system of electrically driven vehicles
+    US6254202B1,2001-07-03,Vehicle braking apparatus
+    JP2018509329A,2018-04-05,Control device and method of operating a vehicle brake system
+    US20190299946A1,2019-10-03,System and Method for Controlling Wheel Brakes on a Trailer in a Tractor-Trailer
+    Kim et al.,2016,Fault-tolerant braking control with integerated EMBs and regenerative in-wheel motors
+    US5727853A,1998-03-17,Stability control device of vehicle improved against hunting
+    EP2810834B1,2019-12-04,Vehicle brake device and method for controlling same
+    CN113165616A,2021-07-23,Method for controlling brake system of vehicle and system thereof
+    JP6490189B2,2019-03-27,Method, apparatus, system and computer program for operation of a vehicle
+    JP2019529246A,2019-10-17,AIR TREATMENT UNIT FOR BRAKE DEVICE OF COMMERCIAL VEHICLE, BRAKE DEVICE, AND METHOD FOR OPERATING AIR PROCESS
+    JP2018504315A,2018-02-15,Method for adjusting the brake pressure of a motor vehicle by actuation of a pressure control valve, brake device for carrying out this method and motor vehicle
+    WO2023042138A1,2023-03-23,Method and system for controlling wheel slip with mixing of the dissipative braking torque and the regenerative braking torque in a braking system with b-b-w technology of a vehicle
+    CN112550430B,2022-09-23,Vehicle stability control method and system
+    KR20140057893A,2014-05-14,Device and method for controlling electro-mechanical brake system
+    JP6586822B2,2019-10-09,Brake control device for vehicle
+    CN114313004B,2023-03-31,Automatic parking steering method, device, equipment and storage medium
+    CN110654356A,2020-01-07,Control method and device for brake motor and vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    3
+classfication_items
+19
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,0
+    B,6,0,L,3,/,1,0,6
+    B,6,0,L,3,/,1,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+
+application_events
+2
+    2022-09-16,Application filed by Brembo S.P.A.
+    2023-03-23,Publication of WO2023042138A1
+
+active_area
+0
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    IT102021000023978A,2021-09-17,Wheel slip control method and system with mixing of dissipative braking torque and regenerative braking torque in a B-b-W technology braking system of a vehicle
+    IT102021000023978,2021-09-17,
+
+legal_event
+2
+    Date,Code,Title,Description
+    2023-05-03,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 22783571Country of ref document: EPKind code of ref document: A1
+

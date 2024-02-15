@@ -1,0 +1,348 @@
+ID
+    US8983702B2
+citation_exist
+    Patent Citations (12)
+citation_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2000050412A,1998-07-24,2000-02-18,Mazda Motor Corp,Hybrid automobile
+    JP2002089594A,2000-07-18,2002-03-27,Luk Lamellen & Kupplungsbau Beteiligungs Kg,Transmission
+    US20070000703A1                      *,2005-06-16,2007-01-04,Hughes Douglas A,Hybrid electric powertrain with anti-idle function
+    JP2009067162A,2007-09-11,2009-04-02,Toyota Motor Corp,Controller of drive for hybrid vehicle
+    JP2010221853A,2009-03-24,2010-10-07,Nissan Motor Co Ltd,Mode switching controller for hybrid vehicle
+    JP2011025838A,2009-07-27,2011-02-10,Honda Motor Co Ltd,Control device of power output apparatus
+    US8210828B2                      *,2010-03-30,2012-07-03,Ford Global Technologies, Llc,Methods and systems for assisted direct start control
+    Family To Family Citations,,,,
+    CN2657974Y                      *,2003-06-25,2004-11-24,华南理工大学,Series-parallel type power assembly of mixed power electric vehicle
+    JP4155321B2                      *,2006-09-25,2008-09-24,トヨタ自動車株式会社,Hybrid vehicle display device, hybrid vehicle, and hybrid vehicle display method
+    JP5162998B2                      *,2006-10-12,2013-03-13,日産自動車株式会社,Hybrid vehicle mode switching control device
+    JP5088058B2                      *,2006-12-26,2012-12-05,日産自動車株式会社,Hybrid vehicle mode switching control device
+    JP5363899B2,2009-07-31,2013-12-11,株式会社トランストロン,Intake system control device and intake system control method
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (13)
+              
+
+
+citedBy_infor
+15
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20180201149A1                      *,2017-01-19,2018-07-19,Toyota Jidosha Kabushiki Kaisha,Hybrid vehicle and method of controlling the same
+    US10081240B2                      *,2016-10-21,2018-09-25,Hyundai Motor Company,Power transmission apparatus of a hybrid electric vehicle
+    Family To Family Citations,,,,
+    US9221329B2                      *,2010-03-31,2015-12-29,Honda Motor Co., Ltd,Hybrid vehicle
+    JP6114128B2                      *,2013-07-05,2017-04-12,本田技研工業株式会社,Automatic transmission
+    US9758170B2                      *,2015-09-28,2017-09-12,Ford Global Technologies, Llc,Coordinated control of transmission and accessories
+    DE102016005115B3                      *,2016-04-28,2017-08-24,Audi Ag,Method for controlling an energy storage device of a mild hybrid motor vehicle and state of charge control device
+    CN106678353B                      *,2016-12-28,2018-07-24,上海汽车集团股份有限公司,Reinforce the gearshift of vehicle transmission control method of warm wind
+    US10570832B2                      *,2017-08-16,2020-02-25,Paccar Inc,Systems and methods for controlling torque in a vehicle
+    JP2019170005A                      *,2018-03-22,2019-10-03,本田技研工業株式会社,Motor unit and vehicle
+    JP2019174235A                      *,2018-03-28,2019-10-10,本田技研工業株式会社,Electric vehicle
+    DE112018007410T5                      *,2018-03-30,2020-12-17,Honda Motor Co., Ltd.,COMBUSTION ENGINE MANAGEMENT SYSTEM, SERVER DEVICE, AND COMBUSTION ENGINE MANAGEMENT PROCEDURES
+    DE102019202970A1                      *,2019-03-05,2020-09-10,Zf Friedrichshafen Ag,Transmission arrangement, drive train and method for its operation
+    CN112977163A                      *,2019-12-13,2021-06-18,中车时代电动汽车股份有限公司,Electric auxiliary brake optimization method and device
+
+abstract
+    A control unit 2 includes a standard control map Map1 in which an EV driving permitting region is set according to the SOC of a battery 3 and a substitute control map Map2 in which the EV driving permitting region of the standard control map Map1 is narrowed, whereby when an air conditioning compressor 112A, 112B is actuated to operate, the driving is controlled by selecting the substitute control map Map2 to be referred to in place of the standard control map Map1.
+title
+    Control unit for vehicle driving system
+similar_document
+26
+    Publication,Publication Date,Title
+    US8983702B2,2015-03-17,Control unit for vehicle driving system
+    US8672804B2,2014-03-18,Hybrid vehicle driving system
+    RU2518144C2,2014-06-10,Hybrid vehicle
+    US8777789B2,2014-07-15,Split axis transmission hybrid system architecture
+    US8827852B2,2014-09-09,Controller for vehicle drive unit
+    US8632438B2,2014-01-21,Hybrid vehicle driving system
+    US8661941B2,2014-03-04,Hybrid drive system
+    WO2011021517A1,2011-02-24,Engine starting control device for hybrid vehicle
+    US9032825B2,2015-05-19,Vehicle driving system
+    CN109941098B,2022-07-26,Method for operating a power transmission device of a motor vehicle and power transmission device
+    JP2007176430A,2007-07-12,Controller for power transmission device
+    JP2011213163A,2011-10-27,Device for controlling vehicle-driving apparatus
+    JP2011230741A,2011-11-17,Driving device for hybrid vehicle
+    JP2011121413A,2011-06-23,Hybrid vehicle
+    JP2011213159A,2011-10-27,Control device for vehicle drive device
+    JP5071344B2,2012-11-14,Hybrid vehicle
+    JP5932460B2,2016-06-08,Control device for hybrid vehicle
+    JP2012081875A,2012-04-26,Vehicle drive control device
+    JP5740494B2,2015-06-24,Hybrid vehicle drive device
+    JP5947059B2,2016-07-06,Control device for hybrid vehicle
+    JP2011213165A,2011-10-27,Control device for driving device for vehicle
+    JP2011213164A,2011-10-27,Control device for vehicle drive device
+    JP5071343B2,2012-11-14,Hybrid vehicle
+    JP2010064551A,2010-03-25,Hybrid vehicle
+    JP6165093B2,2017-07-19,Hybrid vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    44
+classfication_items
+214
+    B,6,0,W,2,0,/,1,0,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B,6,0,L,1,1,/,1,4
+    B,6,0,L,1,1,/,1,8,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,0
+    B,6,0,W,1,0,/,1,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,0
+    B,6,0,W,1,0,/,1,1
+    B,6,0,W,1,0,/,1,1,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,4,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B,6,0,K,2,0,0,6,/,4,8,1,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,5,0
+    B,6,0,K,6,/,5,4
+    B,6,0,K,6,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,3,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,8
+    B,6,0,L,2,2,4,0,/,4,8,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,6,/,0,0
+    B,6,0,W,2,6,0,0,/,0,0
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,6,1,/,0,0
+    F,1,6,H,6,1,/,0,2
+    F,1,6,H,6,1,/,0,2,0,2
+    F,1,6,H,6,1,/,0,2,0,4
+    F,1,6,H,6,1,/,0,2,1,3
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y,0,2,T,1,0,/,6,2,2,1
+    Y,0,2,T,1,0,/,6,2,5,6
+    Y,0,2,T,1,0,/,6,2,8,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,0,5
+    Y,0,2,T,1,0,/,7,0,4,4
+    Y,0,2,T,1,0,/,7,0,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y,0,2,T,1,0,/,7,0,7,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,3
+
+application_events
+7
+    2011-11-04,Application filed by Honda Motor Co Ltd
+    2013-08-13,Assigned to HONDA MOTOR CO., LTD.
+    2013-12-05,Publication of US20130325237A1
+    2015-03-17,Application granted
+    2015-03-17,Publication of US8983702B2
+    Status,Active
+    2031-11-04,Anticipated expiration
+
+active_area
+4
+    J,P
+    C,N
+    W,O
+    U,S
+
+not_active_area
+3
+    D,E
+    B,R
+    R,U
+
+patent_application_claiming_priority
+5
+    Application,Filing date,Title
+    JP2010081002,2010-03-31,
+    JP2011-032913,2011-02-18,
+    JP2011032913A,2011-02-18,Device for control of transmission system for vehicle
+    PCT/JP2011/075457,2011-11-04,Device for controlling driving device for vehicle
+
+legal_event
+5
+    Date,Code,Title,Description
+    2013-08-13,AS,Assignment,Owner name: HONDA MOTOR CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:IKEGAMI, TAKEFUMI;KANAMORI, IORI;REEL/FRAME:031000/0572Effective date: 20130806
+    2015-02-25,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2018-09-06,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+    2022-08-31,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+

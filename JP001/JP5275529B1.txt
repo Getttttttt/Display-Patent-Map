@@ -1,0 +1,239 @@
+ID
+    JP5275529B1
+citation_exist
+    Patent Citations (11)
+citation_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH0583805A                      *,1991-09-17,1993-04-02,Honda Motor Co Ltd,電気自動車の電気負荷制限装置
+    JP2005198437A                      *,2004-01-08,2005-07-21,Honda Motor Co Ltd,電動車両
+    JP2007312581A                      *,2006-05-22,2007-11-29,Fuji Heavy Ind Ltd,電気自動車のエネルギー管理システム
+    WO2008065837A1                      *,2006-12-01,2008-06-05,Toyota Jidosha Kabushiki Kaisha,Hybrid vehicle, control method of hybrid vehicle and computer readable recording medium recording program for making computer execute that control method
+    JP2009038895A                      *,2007-08-01,2009-02-19,Isuzu Motors Ltd,回生エネルギ量報知装置
+    JP2009055675A                      *,2007-08-24,2009-03-12,Toyota Motor Corp,ハイブリッド車両、ハイブリッド車両の告知方法およびその告知方法をコンピュータに実行させるためのプログラムを記録したコンピュータ読取可能な記録媒体
+    JP2011153859A                      *,2010-01-26,2011-08-11,Aisin Aw Co Ltd,車両用走行案内装置、車両用走行案内方法及びコンピュータプログラム
+    Family To Family Citations,,,,
+    WO2006051119A1                      *,2004-11-15,2006-05-18,Nanotron Technologies Gmbh,Symmetrisches mehrwegverfahren zur bestimmung des abstandes zweier senderempfänger
+    JP2007237775A                      *,2006-03-06,2007-09-20,Mitsubishi Fuso Truck & Bus Corp,ハイブリッド電気自動車の制御装置
+    JP5217152B2                      *,2006-11-14,2013-06-19,アイシン精機株式会社,車両周辺表示装置
+    JP4954173B2,2008-09-30,2012-06-13,本田技研工業株式会社,燃費向上のための運転操作を運転者に指導するための装置
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (6)
+              
+
+
+citedBy_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    KR101856291B1                      *,2015-08-26,2018-05-09,현대자동차주식회사,친환경 차량의 주행가능거리 산출 시스템 및 방법
+    JP6631358B2                      *,2016-03-28,2020-01-15,三菱自動車工業株式会社,回生エネルギー表示装置
+    KR101856316B1,2016-04-12,2018-05-09,현대자동차주식회사,차량 시스템 및 정보 표시 방법
+    KR20180025660A                      *,2016-09-01,2018-03-09,현대자동차주식회사,전기 모터를 구비한 자동차 및 그를 위한 회생 제동량 표시 방법
+    JP6653297B2                      *,2017-08-10,2020-02-26,本田技研工業株式会社,表示装置
+    CN112744121B                      *,2020-04-30,2022-03-01,长城汽车股份有限公司,确定车辆续航里程的方法、系统
+
+abstract
+    減速エネルギの回生による効果を、電動車両の乗員に実感させ易くすることが可能な電動車両の表示装置を提供する。電動車両（１０）の表示装置（２２）は、電動車両（１０）の実走行距離の積算値を第１の距離として算出し、減速エネルギの回生が行われていることを検出し、前記減速エネルギの回生により延長された走行可能距離の積算値を第２の距離として算出し、前記第１の距離と前記第２の距離を同一の表示部（６４）を用いて表示する。
+title
+    電動車両の表示装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP4314257B2,2009-08-12,車両の表示装置および車両の表示装置の制御方法、プログラム、およびプログラムを記録した記録媒体
+    JP5275529B1,2013-08-28,電動車両の表示装置
+    US6794853B2,2004-09-21,Display device for fuel cell vehicle and fuel cell vehicle
+    US8655532B2,2014-02-18,System and method for operating a hybrid vehicle
+    JP5549726B2,2014-07-16,航続距離演算装置
+    US8423219B2,2013-04-16,Electric drive vehicle
+    JP5488708B2,2014-05-14,電動車両の表示システムおよびそれを備える電動車両
+    JP5574767B2,2014-08-20,電気自動車
+    CN202685982U,2013-01-23,一种纯电动汽车的整车控制器
+    CN102616150B,2016-01-20,电动车辆
+    US20140032029A1,2014-01-30,Electrically powered vehicle and control method therefor
+    JP2013099994A,2013-05-23,車両および車両の制御方法
+    JP2016175485A,2016-10-06,車両
+    JP6414111B2,2018-10-31,表示装置
+    JP2020117178A,2020-08-06,車両
+    JP2007244123A,2007-09-20,電源装置
+    JP2013147233A,2013-08-01,電気自動車の制御装置
+    JP6145998B2,2017-06-14,ハイブリッド車両の制御装置
+    KR20160091039A,2016-08-02,전기 자동차 및 전기 자동차의 제어 방법
+    KR101774595B1,2017-09-04,전기 자동차의 주행 가능 거리 표시 장치 및 표시 방법
+    JP7371413B2,2023-10-31,電動車両の運転支援装置
+    JP4662566B2,2011-03-30,ハイブリッド車両の制御装置
+    JP4773814B2,2011-09-14,充電状態表示装置
+    JP6702102B2,2020-05-27,ハイブリッド車両
+    JP2023050744A,2023-04-11,車両用放電制御装置、車両用放電制御方法、及びプログラム
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    JP2013509377A,2011-11-07,2012-10-17,電動車両の表示装置
+
+inventor_number
+    7
+classfication_nums
+    20
+classfication_items
+116
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B,6,0,L,1,5,/,2,0,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,6
+    B,6,0,L,2,2,4,0,/,6,6,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,5,0
+    B,6,0,L,2,2,6,0,/,5,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,4,0
+
+application_events
+7
+    2012-10-17,Application filed by Honda Motor Co Ltd
+    2012-10-17,Priority to JP2013509377A
+    2013-08-28,Application granted
+    2013-08-28,Publication of JP5275529B1
+    2015-04-02,Publication of JPWO2013069421A1
+    Status,Active
+    2032-10-17,Anticipated expiration
+
+active_area
+3
+    W,O
+    U,S
+    J,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+5
+    Application,Filing date,Title
+    JP2011243113,2011-11-07,
+    JP2011243113,2011-11-07,
+    PCT/JP2012/076806,2012-10-17,電動車両の表示装置
+    JP2013509377A,2012-10-17,電動車両の表示装置
+
+legal_event
+5
+    Date,Code,Title,Description
+    2013-04-09,TRDD,Decision of grant or rejection written,
+    2013-04-17,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20130416
+    2013-05-23,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20130515
+    2013-05-24,R150,Certificate of patent or registration of utility model,Ref document number: 5275529Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R150Free format text: JAPANESE INTERMEDIATE CODE: R150
+

@@ -1,0 +1,253 @@
+ID
+    US20230150372A1
+citation_exist
+    Patent Citations (1)
+citation_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    KR20200110930A,2019-03-18,2020-09-28,주식회사 만도,Method of controlling regenerative braking for vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    A an apparatus of controlling a braking of a vehicle traveling in track mode includes a driving information detector configured to detect a braking request from a driver while the vehicle is driving; and a vehicle controller configured to, when the braking request is detected, control the braking of the vehicle according to a total required torque in response to the detected braking request, wherein the total required torque is a sum of a regenerative braking torque by a motor of the vehicle and a friction braking torque by a brake of the vehicle, wherein the vehicle controller is configured to decrease braking force by friction braking by relatively decreasing friction braking torque by increasing the regenerative braking torque of the total required torque, and wherein the regenerative braking torque is greater than a regenerative braking torque in non-track mode.
+title
+    Apparatus, method and computer readable storage medium for controlling braking of vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US8744713B2,2014-06-03,Method for controlling braking of vehicle
+    US8612074B2,2013-12-17,Regenerative braking control in vehicles
+    US7173396B2,2007-02-06,Hybrid electric vehicle with enhanced battery control
+    US8485612B2,2013-07-16,Method and system for controlling vehicle braking
+    US9610859B1,2017-04-04,System and method for controlling impact reduction of electric vehicle
+    US20170096070A1,2017-04-06,Method for controlling braking of regenerative braking co-operative control system for vehicle
+    US20130085631A1,2013-04-04,System and method for controlling uphill driving of an electric vehicle
+    US9254840B2,2016-02-09,Apparatus, system and method for controlling engine starting while shifting of hybrid electric vehicle
+    US8903621B2,2014-12-02,Method and system for controlling braking of vehicle
+    US9561726B2,2017-02-07,Apparatus and method for calculating regenerative braking amount of hybrid electric vehicle
+    US20160107634A1,2016-04-21,System and method for controlling torque of hybrid vehicle
+    US20150120159A1,2015-04-30,Determining effective brake pedal position
+    US20200172109A1,2020-06-04,Vehicle having electric motor and driving control method for the same
+    US9796373B2,2017-10-24,System and method for controlling torque intervention of hybrid electric vehicle
+    US6958587B1,2005-10-25,Torque distribution for multiple propulsion system vehicles
+    US9981554B2,2018-05-29,System and method for controlling braking of electric vehicle
+    JP4924257B2,2012-04-25,Vehicle and temperature raising method
+    US20230150372A1,2023-05-18,Apparatus, method and computer readable storage medium for controlling braking of vehicle
+    US9950620B1,2018-04-24,Regenerative and friction power indicator for a vehicle braking system
+    US9610937B2,2017-04-04,Apparatus and method for controlling torque reduction of hybrid electric vehicle
+    US20180050683A1,2018-02-22,Method of controlling engine driving force during operation of traction control system of hybrid vehicle
+    US9878621B2,2018-01-30,System and method for improved ABS performance during parallel regenerative braking
+    CN107253452B,2020-03-10,Method and device for controlling constant-speed cruise of electric vehicle during limited charging of battery
+    CN107757627B,2020-08-04,Vehicle control device and information providing method
+    US20230311671A1,2023-10-05,Electric vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    6
+classfication_nums
+    28
+classfication_items
+164
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,5,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,0
+    B,6,0,L,3,/,1,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,1
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,2
+    B,6,0,T,8,/,1,7,2,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,6
+    B,6,0,T,8,/,1,7,6,1
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,6
+    B,6,0,T,8,/,1,7,6,1
+    B,6,0,T,8,/,1,7,6,1,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,2,0,/,0,0
+    B,6,0,T,2,2,2,0,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,3,0
+    B,6,0,T,2,2,7,0,/,3,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,3,0
+    B,6,0,T,2,2,7,0,/,3,1,3
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+4
+    2022-05-09,Application filed by Hyundai Motor Co, Kia Corp
+    2022-05-09,Assigned to HYUNDAI MOTOR COMPANY, KIA CORPORATION
+    2023-05-18,Publication of US20230150372A1
+    Status,Pending
+
+active_area
+2
+    U,S
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    KR10-2021-0156754,2021-11-15,
+    KR1020210156754A,2021-11-15,Apparatus, method and computer readable storage medium for controlling breaking of vehicle
+
+legal_event
+3
+    Date,Code,Title,Description
+    2022-05-09,AS,Assignment,Owner name: KIA CORPORATION, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:LEE, YONG HWA;YOON, KYUNG HO;LEE, HO WOOK;AND OTHERS;REEL/FRAME:059875/0459Effective date: 20220425Owner name: HYUNDAI MOTOR COMPANY, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:LEE, YONG HWA;YOON, KYUNG HO;LEE, HO WOOK;AND OTHERS;REEL/FRAME:059875/0459Effective date: 20220425
+    2022-06-10,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+

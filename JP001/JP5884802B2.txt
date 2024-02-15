@@ -1,0 +1,337 @@
+ID
+    JP5884802B2
+citation_exist
+    Patent Citations (12)
+citation_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP4337188B2                      *,1999-06-25,2009-09-30,トヨタ自動車株式会社,ハイブリッド式移動体およびその制御方法
+    JP4775952B2,2006-02-27,2011-09-21,トヨタ自動車株式会社,建物の電力供給システム
+    JP4228086B1                      *,2007-08-09,2009-02-25,トヨタ自動車株式会社,車両
+    JP5435920B2                      *,2008-10-06,2014-03-05,富士通テン株式会社,電子制御装置、プラグイン車両、及び給電経路切替方法
+    JP4781425B2                      *,2008-12-25,2011-09-28,本田技研工業株式会社,車両と家屋間の電力供給システム
+    JP5446307B2                      *,2009-02-17,2014-03-19,日産自動車株式会社,バッテリ温度制御装置、バッテリ温度制御方法及び自動車
+    US7973424B2                      *,2009-04-03,2011-07-05,General Electric Company,Method and apparatus for producing tractive effort with interface to other apparatus
+    US9260104B2                      *,2010-06-23,2016-02-16,Toyota Jidosha Kabushiki Kaisha,Vehicle control device and vehicle control method
+    JP5758746B2,2011-08-30,2015-08-05,トヨタ自動車株式会社,給電コネクタ、車両および車両の制御方法
+    JP2013119347A                      *,2011-12-08,2013-06-17,Mitsubishi Motors Corp,ハイブリッド電動車両
+    JP5716694B2                      *,2012-03-01,2015-05-13,トヨタ自動車株式会社,電動車両
+    JP6015038B2                      *,2012-03-09,2016-10-26,トヨタ自動車株式会社,車両および車両用制御方法
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP6146384B2,2014-08-08,2017-06-14,トヨタ自動車株式会社,ハイブリッド車両
+    JP2020022301A                      *,2018-08-02,2020-02-06,トヨタ自動車株式会社,車両
+    JP2021114878A,2020-01-21,2021-08-05,本田技研工業株式会社,電動車両のバッテリ温度制御装置
+
+abstract
+    
+title
+    ハイブリッド車両の制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP5660102B2,2015-01-28,車両の電源装置
+    JP5343981B2,2013-11-13,車両の充電システム
+    US8515605B2,2013-08-20,On-vehicle equipment control system and vehicle
+    JP5772781B2,2015-09-02,車両、電源システムおよび電源システムの制御方法
+    JP5321695B2,2013-10-23,車両
+    WO2014147781A1,2014-09-25,車両
+    JP5661121B2,2015-01-28,車両および車両の制御方法
+    JP2018042370A,2018-03-15,車両およびその制御方法
+    JPWO2012053084A1,2014-02-24,電動車両の電源システムおよびその制御方法ならびに電動車両
+    JP2014143817A,2014-08-07,車両の電源システム
+    JP2008125163A,2008-05-29,電動車両
+    JP5278512B2,2013-09-04,車両
+    JP5621648B2,2014-11-12,車両および車両の制御方法
+    JP5630419B2,2014-11-26,電力供給システムおよび車両
+    US9469210B2,2016-10-18,Vehicle
+    JP2013192278A,2013-09-26,電動車両
+    JP2012249384A,2012-12-13,車両
+    JP2015077856A,2015-04-23,ハイブリッド車両の制御装置
+    JP5884802B2,2016-03-15,ハイブリッド車両の制御装置
+    JP5783129B2,2015-09-24,電動車両
+    JP2015057009A,2015-03-23,車両
+    WO2013042244A1,2013-03-28,車両の電源システム
+    JP6028643B2,2016-11-16,電動車両
+    WO2012164681A1,2012-12-06,車両および車両の制御方法
+    JP6003775B2,2016-10-05,電力供給システムおよびそれを備える車両、ならびに電力供給システムの制御方法
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    JP2013196952A,2013-09-24,2013-09-24,ハイブリッド車両の制御装置
+    PCT/IB2014/001893,2013-09-24,2014-09-22,Control device and control method for hybrid vehicle, and hybrid vehicle
+
+inventor_number
+    16
+classfication_nums
+    36
+classfication_items
+214
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,2
+    B,6,0,L,1,/,0,4
+    B,6,0,L,1,/,0,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,6,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,1,0
+    B,6,0,L,5,3,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,6,0
+    B,6,0,L,5,3,/,6,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,6,0
+    B,6,0,L,5,3,/,6,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,5,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,3,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,6
+    B,6,0,L,2,2,4,0,/,6,6,2
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+    Y,0,2,T,9,0,/,1,6,7
+    Y
+    Y,0,4
+    Y,0,4,S
+    Y,0,4,S,1,0,/,0,0
+    Y,0,4,S,1,0,/,1,2
+    Y,0,4,S,1,0,/,1,2,6
+    Y
+    Y,0,4
+    Y,0,4,S
+    Y,0,4,S,3,0,/,0,0
+    Y,0,4,S,3,0,/,1,0
+    Y,0,4,S,3,0,/,1,4
+
+application_events
+8
+    2013-09-24,Application filed by Toyota Motor Corp
+    2013-09-24,Priority to JP2013196952A
+    2014-09-22,Priority to PCT/IB2014/001893
+    2015-04-09,Publication of JP2015063174A
+    2016-03-15,Application granted
+    2016-03-15,Publication of JP5884802B2
+    Status,Active
+    2033-09-24,Anticipated expiration
+
+active_area
+2
+    J,P
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2013196952A,2013-09-24,ハイブリッド車両の制御装置
+
+legal_event
+9
+    Date,Code,Title,Description
+    2015-02-04,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20150204
+    2015-07-24,A977,Report on retrieval,Free format text: JAPANESE INTERMEDIATE CODE: A971007Effective date: 20150723
+    2015-07-29,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20150728
+    2015-09-07,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20150907
+    2016-01-05,TRDD,Decision of grant or rejection written,
+    2016-01-13,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20160112
+    2016-02-18,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20160125
+    2016-02-19,R151,Written notification of patent or utility model registration,Ref document number: 5884802Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R151
+

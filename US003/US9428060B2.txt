@@ -1,0 +1,352 @@
+ID
+    US9428060B2
+citation_exist
+    Patent Citations (16)
+citation_infor
+18
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5811895A                      *,1994-08-12,1998-09-22,International Business Machines Corp.,Power supply circuit for use with a battery and an AC power adaptor
+    US20020091470A1,1997-11-20,2002-07-11,Hitachi, Ltd.,Control equipment and method for controlling an electric car
+    US6784563B2                      *,2000-05-24,2004-08-31,Toyota Jidosha Kabushiki Kaisha,Hybrid vehicle and method of controlling hybrid vehicle
+    JP2004274945A,2003-03-11,2004-09-30,Toyota Motor Corp,Motor drive device, hybrid vehicle drive device equipped therewith, and computer readable storage medium recording program for making computer implement control of motor drive device
+    CN101415593A,2006-04-06,2009-04-22,罗伯特·博世有限公司,Hybrid drive with an emergency start option
+    US20100109437A1,2008-11-05,2010-05-06,Fattic Gerald T,Battery pack disconnection method for a hybrid vehicle
+    US20100225258A1,2009-03-09,2010-09-09,Gm Global Technology Operations, Inc.,Control of an alternator-starter for a hybrid electric vehicle having a disconnected high-voltage battery
+    US20100236851A1,2009-03-19,2010-09-23,Gm Global Technology Operations, Inc.,Control of a starter-alternator during a high-voltage battery fault condition
+    US8120200B2,2008-11-05,2012-02-21,Delphi Technologies, Inc.,Fast response failure mode control methodology for a hybrid vehicle having an electric machine
+    US20120306263A1                      *,2011-05-30,2012-12-06,Hitachi Automotive Systems, Ltd.,Control Device for Electrically Powered Vehicle
+    Family To Family Citations,,,,
+    JP3939546B2                      *,2001-12-06,2007-07-04,パナソニック・イーブイ・エナジー株式会社,Battery power device for electric vehicle
+    JP4305541B2                      *,2007-03-28,2009-07-29,トヨタ自動車株式会社,Control device for hybrid vehicle
+    JP4450095B2                      *,2008-07-11,2010-04-14,トヨタ自動車株式会社,Control system and control method for hybrid vehicle
+    JP5171578B2                      *,2008-12-01,2013-03-27,日立オートモティブシステムズ株式会社,Battery control device for vehicle
+    JP5152085B2                      *,2009-04-17,2013-02-27,トヨタ自動車株式会社,Electric vehicle power supply control device
+    JP2012101748A                      *,2010-11-12,2012-05-31,Nissan Motor Co Ltd,Control device of electric vehicle
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (4)
+              
+
+
+citedBy_exist
+    
+              Cited By (14)
+              
+
+
+citedBy_infor
+16
+    Publication number,Priority date,Publication date,Assignee,Title
+    US10569760B2,2017-06-09,2020-02-25,Ford Global Technologies, Llc,Systems and methods for battery charging in a hybrid vehicle
+    US10632989B2,2017-06-09,2020-04-28,Ford Global Technologies, Llc,System and method for operating a vehicle powertrain
+    US11135939B2                      *,2019-11-19,2021-10-05,Ford Global Technologies, Llc,System and method for hybrid-electric vehicle battery capacity estimation
+    US11472397B2,2018-03-21,2022-10-18,Ford Global Technologies, Llc,Traction-battery control in hybrid powertrain
+    Family To Family Citations,,,,
+    EP3250411A1,2015-01-26,2017-12-06,Volvo Truck Corporation,Electric propulsion system for a vehicle
+    KR101755894B1                      *,2015-11-23,2017-07-19,현대자동차주식회사,Apparatus for preventing over discharge of vehicle battery and method thereof
+    JP6690383B2,2016-04-26,2020-04-28,株式会社Ｇｓユアサ,Power management system, battery management device, battery device, and vehicle power management method
+    US10112596B2                      *,2016-05-18,2018-10-30,Ford Global Technologies, Llc,Hybrid vehicle operating strategy during loss of motor controllability
+    EP3266643A1                      *,2016-07-06,2018-01-10,Volvo Car Corporation,Power dissipating torque controller
+    DE102016222969A1                      *,2016-11-22,2018-05-24,Robert Bosch Gmbh,Method and device for a reserve drive of a vehicle
+    JP7147155B2                      *,2017-11-27,2022-10-05,トヨタ自動車株式会社,hybrid car
+    CN109962461B                      *,2017-12-22,2020-09-15,比亚迪股份有限公司,IGBT over-temperature protection method and device for hybrid electric vehicle and motor controller
+    DE102018203579A1                      *,2018-03-09,2019-09-12,Zf Friedrichshafen Ag,Method and device for operating a drive system and drive system for a vehicle
+    CN113071475A                      *,2020-01-06,2021-07-06,上汽通用汽车有限公司,Motor voltage control system and method based on hybrid system
+
+abstract
+    A method for controlling a hybrid vehicle electrical system includes driving the vehicle in a first driving mode where the battery pack is connected to the traction voltage DC-link and the battery pack is supplying the electrical auxiliary units with power, shutting down the power electronics unit in order to cease power delivery from the electric machine to the traction voltage DC-link or to the electric machine from the traction voltage DC-link, disconnecting the battery pack from the traction voltage DC-link by opening the relay, and activating the power electronics unit and controlling output voltage of the power electronics unit to a predetermined level.
+title
+    Method for controlling a hybrid vehicle electrical system
+similar_document
+25
+    Publication,Publication Date,Title
+    US9428060B2,2016-08-30,Method for controlling a hybrid vehicle electrical system
+    JP5360306B2,2013-12-04,Control device for hybrid vehicle
+    US8384237B2,2013-02-26,Low voltage bus stability
+    US8753246B2,2014-06-17,Method and device for starting an internal combustion engine of a hybrid drive train
+    US20100117594A1,2010-05-13,Strategy for maintaining state of charge of a low-voltage battery bank in a hybrid electric vehicle having a high-voltage traction battery bank
+    KR20060132980A,2006-12-22,System and method for starting a combustion engine of a hybrid vehicle
+    JP5010288B2,2012-08-29,Control device for hybrid vehicle
+    JP5706274B2,2015-04-22,Control device for hybrid vehicle
+    US20100305793A1,2010-12-02,Method for starting a hybrid electric vehicle
+    WO2014139542A1,2014-09-18,Method and arrangement for operating a hybrid electrical vehicle
+    KR101040350B1,2011-06-10,Apparatus for controlling fail safe of hybrid vehicle and controlling method thereof
+    US8613333B2,2013-12-24,Method of operating a hybrid powertrain
+    CN107107764B,2020-08-14,Method and device for charging an electrical energy storage system in a vehicle
+    JP6346397B2,2018-06-20,Vehicle control device
+    JP2019209811A,2019-12-12,Battery diagnosis device
+    US20110172860A1,2011-07-14,Method of operating a hybrid powertrain
+    JP4035805B2,2008-01-23,Drive device for hybrid vehicle
+    JP4285638B2,2009-06-24,Vehicle charging control device
+    KR102286837B1,2021-08-05,Apparatus and method for managing HEV battery
+    JP2017177974A,2017-10-05,Control device for hybrid vehicle and hybrid vehicle system
+    CN106915345B,2019-08-16,The control device of hybrid vehicle
+    CN116674429A,2023-09-01,Method and device for preventing battery from being overcharged in vehicle, vehicle and storage medium
+    JP2021001562A,2021-01-07,Engine control device of vehicle
+    JP2012091562A,2012-05-17,Hybrid vehicle control device
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US14/411,558,2012-07-04,2013-07-03,Method for controlling a hybrid vehicle electrical system
+
+inventor_number
+    4
+classfication_nums
+    44
+classfication_items
+213
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B,6,0,L,1,1,/,0,0,5
+    B,6,0,L,1,1,/,1,4
+    B,6,0,L,1,1,/,1,8,7,4
+    B,6,0,L,1,1,/,1,8,7,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B,6,0,L,5,8,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,4
+    B,6,0,W,1,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,6
+    B,6,0,L,2,2,4,0,/,6,6,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,2,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,3,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,0,5
+    Y,0,2,T,1,0,/,7,0,2,2
+    Y,0,2,T,1,0,/,7,0,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y,0,2,T,1,0,/,7,0,7,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,1,6
+    Y,0,2,T,1,0,/,7,2,9,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,3
+
+application_events
+8
+    2013-07-03,Application filed by Volvo Lastvagnar AB
+    2013-07-03,Priority to US14/411,558
+    2015-04-02,Assigned to VOLVO TRUCK CORPORATION
+    2015-11-12,Publication of US20150321657A1
+    2016-08-30,Application granted
+    2016-08-30,Publication of US9428060B2
+    Status,Active
+    2033-09-03,Adjusted expiration
+
+active_area
+6
+    U,S
+    B,R
+    J,P
+    E,P
+    C,N
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    US201261667975P,2012-07-04,
+    US14/411,558,2013-07-03,Method for controlling a hybrid vehicle electrical system
+    PCT/EP2013/001953,2013-07-03,Method for controlling a hybrid vehicle electrical system
+
+legal_event
+4
+    Date,Code,Title,Description
+    2015-04-02,AS,Assignment,Owner name: VOLVO TRUCK CORPORATION, SWEDENFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:LASSON, ANDERS;LENNEVI, JERKER;ENGDAHL, HENRIK;SIGNING DATES FROM 20150327 TO 20150330;REEL/FRAME:035318/0387
+    2016-08-10,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2020-02-21,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

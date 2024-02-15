@@ -1,0 +1,290 @@
+ID
+    US20220080942A1
+citation_exist
+    Patent Citations (9)
+citation_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP2008245517A                      *,2008-04-07,2008-10-09,Toyota Motor Corp,Control device of electric vehicle
+    JP5137897B2                      *,2009-05-20,2013-02-06,本田技研工業株式会社,Vehicle travel control device
+    JP2015030427A                      *,2013-08-06,2015-02-16,本田技研工業株式会社,Braking device for vehicle
+    DE102013221535A1                      *,2013-10-23,2015-04-23,Bayerische Motoren Werke Aktiengesellschaft,E-machine drag torque compensation
+    US9944200B2                      *,2015-03-09,2018-04-17,Ford Global Technologies, Llc,Variable creep torque
+    JP6648449B2                      *,2015-08-31,2020-02-14,株式会社アドヴィックス,Vehicle control device
+    DE102015015697A1                      *,2015-12-04,2017-06-08,Audi Ag,Method for controlling an electric machine for driving a motor vehicle and motor vehicle
+    DE102015226134A1                      *,2015-12-21,2017-06-22,Zf Friedrichshafen Ag,Method for operating a motor vehicle
+    US11021068B2                      *,2017-01-24,2021-06-01,Nissan Motor Co., Ltd.,Vehicle control device and control method
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (6)
+              
+
+
+citedBy_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20220097533A1                      *,2020-09-28,2022-03-31,Ford Global Technologies, Llc,Electrified vehicle one pedal drive transition control
+    RU2805237C1                      *,2022-11-24,2023-10-12,Федеральное государственное бюджетное образовательное учреждение высшего образования "Российский государственный аграрный университет - МСХА имени К.А. Тимирязева" (ФГБОУ ВО РГАУ - МСХА имени К.А. Тимирязева),Training device for dispensing force on clutch pedal of vehicle at the start of movement
+    Family To Family Citations,,,,
+    CN114655020A                      *,2020-12-23,2022-06-24,瀚德万安(上海)电控制动系统有限公司,Control method for automatic parking, vehicle brake system and brake control module thereof
+    DE102021105340A1                      *,2021-03-05,2022-09-08,Bayerische Motoren Werke Aktiengesellschaft,Drive control system for a motor vehicle that can be operated by an electric motor, with a gear selector
+    EP4147921A1                      *,2021-09-09,2023-03-15,KNORR-BREMSE Systeme für Nutzfahrzeuge GmbH,Method for adjusting a brake pedal characteristic
+    DE102021133892A1,2021-12-20,2023-06-22,Zf Active Safety Gmbh,Brake-by-wire braking system
+
+abstract
+    A control unit for a motor vehicle which includes at least one electric machine for driving one or more wheels of the vehicle and at least one friction brake is provided. The control unit is configured to determine that a one-pedal feel function is to be provided via an acceleration pedal of the vehicle and/or a creep function is to be provided via a brake pedal of the vehicle. Additionally, the control unit is configured to operate the electric machine at least temporarily in combination with the friction brake in order to provide the one-pedal feel function and/or the creep function.
+title
+    Control Unit for Providing a One-Pedal Feel and/or a Creep Function
+similar_document
+26
+    Publication,Publication Date,Title
+    US20220080942A1,2022-03-17,Control Unit for Providing a One-Pedal Feel and/or a Creep Function
+    CN106467107B,2021-06-25,Method for controlling vehicle
+    US8876658B2,2014-11-04,Control apparatus for preventing rolling back of an electrically driven vehicle upon start-up thereof
+    US20130162009A1,2013-06-27,Electric vehicle regenerative braking system
+    US7291090B2,2007-11-06,Motor torque control system for vehicle
+    JP6332179B2,2018-05-30,Vehicle control device
+    JP2005253126A,2005-09-15,Brake controller of hybrid vehicle and vehicle mounting that controller
+    KR101875641B1,2018-07-06,System and method for torque control of electric vehicle
+    US10137786B2,2018-11-27,Vehicle control device
+    JP5659691B2,2015-01-28,Control device for hybrid vehicle and control method for hybrid vehicle
+    US20090102145A1,2009-04-23,Braking/Driving Control Apparatus and Vehicle having the Apparatus
+    JP6729142B2,2020-07-22,Driving force control method and driving force control device
+    WO2011048636A1,2011-04-28,Controller of vehicle
+    CN102422001A,2012-04-18,Vehicle drive control device
+    JP2012214181A,2012-11-08,Vehicle control system
+    JP2011101515A,2011-05-19,Braking force control device of vehicle
+    JP2014079087A,2014-05-01,Motor controller for electric vehicle
+    WO2014034319A1,2014-03-06,Neutral determination device and vehicle control apparatus
+    JP2008179232A,2008-08-07,Hybrid vehicle
+    JP6443258B2,2018-12-26,Braking / driving force control device and braking / driving force control method
+    JP2012086802A,2012-05-10,Control device of hybrid vehicle
+    JP5278402B2,2013-09-04,Control device for hybrid vehicle and control method for hybrid vehicle
+    KR20090014826A,2009-02-11,A reduction speed control method during regenerative braking for an electric vehicle
+    CN114929535A,2022-08-19,Method for operating a vehicle
+    JP2012091695A,2012-05-17,Vehicle driving control device
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    7
+classfication_nums
+    30
+classfication_items
+176
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,6,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B,6,0,L,1,5,/,2,0,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B,6,0,L,1,5,/,2,0,1,8
+    B,6,0,L,1,5,/,2,0,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,0,6,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,0,8,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,1,0
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,1,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B,6,0,L,2,2,4,0,/,6,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,5,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,0,4,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,2,1,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,2,/,0,0
+    B,6,0,W,2,5,5,2,/,1,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,5,/,0,0
+    B,6,0,W,2,5,5,5,/,6,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+4
+    2020-01-14,Application filed by Bayerische Motoren Werke AG
+    2021-07-02,Assigned to BAYERISCHE MOTOREN WERKE AKTIENGESELLSCHAFT
+    2022-03-17,Publication of US20220080942A1
+    Status,Pending
+
+active_area
+5
+    D,E
+    U,S
+    C,N
+    W,O
+    J,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    DE102019103375.6,2019-02-11,
+    DE102019103375.6A,2019-02-11,Control unit for providing a one-pedal feeling and / or crawl function
+    PCT/EP2020/050779,2020-01-14,Control unit for providing a one-pedal feel and/or a creep function
+
+legal_event
+3
+    Date,Code,Title,Description
+    2021-07-02,AS,Assignment,Owner name: BAYERISCHE MOTOREN WERKE AKTIENGESELLSCHAFT, GERMANYFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:EBERL, THOMAS;FOAG, WERNER;RANK, ANDREAS;AND OTHERS;SIGNING DATES FROM 20210409 TO 20210609;REEL/FRAME:056744/0512
+    2021-12-30,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+

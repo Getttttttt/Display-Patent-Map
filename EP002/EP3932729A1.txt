@@ -1,0 +1,186 @@
+ID
+    EP3932729A1
+citation_exist
+    Patent Citations (12)
+citation_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    GB2480852A                      *,2010-06-03,2011-12-07,Mira Ltd,Yaw motion control of a vehicle
+    JP2012026514A                      *,2010-07-23,2012-02-09,Nissan Motor Co Ltd,Differential limiting control device during regenerative braking for electrically-propelled vehicle
+    US20120138395A1                      *,2010-12-01,2012-06-07,Aptera Motors, Inc.,Automotive vehicle regenerative braking control system
+    JP2014166014A,2013-02-25,2014-09-08,Mazda Motor Corp,Behavior control device for vehicle
+    US9150118B2                      *,2012-03-21,2015-10-06,Honda Motor Co., Ltd.,Vehicle driving system and vehicle driving system control method
+    EP2977280A1                      *,2013-03-22,2016-01-27,Advics Co., Ltd.,Brake controller
+    EP3037333A1                      *,2013-06-19,2016-06-29,Electrike Japan Co. Ltd,Automatic three-wheeled vehicle
+    US20170183008A1                      *,2015-12-25,2017-06-29,Toyota Jidosha Kabushiki Kaisha,Driving force control system for vehicle
+    US10137786B2                      *,2015-07-15,2018-11-27,Toyota Jidosha Kabushiki Kaisha,Vehicle control device
+    EP3575132A1                      *,2017-01-24,2019-12-04,Nissan Motor Co., Ltd.,Electric vehicle control method and control device
+    Family To Family Citations,,,,
+    US8315751B2                      *,2008-02-29,2012-11-20,GM Global Technology Operations LLC,Methods, program products, and systems for controlling braking in a hybrid vehicle
+    JP6985645B2                      *,2018-02-02,2021-12-22,マツダ株式会社,Vehicle control method, vehicle system and vehicle control device
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US20220314810A1                      *,2021-03-30,2022-10-06,Toyota Motor Engineering & Manufacturing North America, Inc.,Continuously adaptable braking pedal map system
+
+abstract
+    The present invention is a vehicle driving system including a rotating electric machine, a battery, a steering apparatus, a steering angle sensor, a brake actuator that applies a friction braking force, a friction braking force sensor, and a controller that sets deceleration torque based on a steering speed detected by the steering angle sensor and controls the rotating electric machine such that the deceleration torque is applied to a front wheel of the vehicle, thereby executing vehicle attitude control, characterized in that when the friction braking force is applied to each of wheels by the brake actuator during execution of the vehicle attitude control, if the friction braking force detected by the friction braking force sensor is large, the controller corrects the deceleration torque to a larger value than when the friction braking force is small.
+title
+    Vehicle driving system,vehicle and method with attitude and torque control
+similar_document
+20
+    Publication,Publication Date,Title
+    EP3738816B1,2022-12-07,Vehicle control method, and control device for vehicle system and vehicle
+    JP7038971B2,2022-03-22,Vehicle control method, vehicle system and vehicle control device
+    WO2019151207A1,2019-08-08,Vehicular control method, vehicular system, and vehicular control device
+    US11667275B2,2023-06-06,Control apparatus of vehicle
+    EP3733473B1,2022-03-16,Control method for vehicle, vehicle system, and vehicle controller
+    US20230219542A1,2023-07-13,Braking control device
+    WO2019160009A1,2019-08-22,Vehicle control method, and control device for vehicle system and vehicle
+    EP3932729A1,2022-01-05,Vehicle driving system,vehicle and method with attitude and torque control
+    JP6154332B2,2017-06-28,Brake control device for vehicle
+    CN110816281A,2020-02-21,Control unit, device and method for recuperative brake control of a vehicle
+    JP7008944B2,2022-02-10,Vehicle system
+    JP7034438B2,2022-03-14,Vehicle control method and vehicle system
+    JP7022339B2,2022-02-18,Vehicle control method and vehicle system
+    JP2021138175A,2021-09-16,Vehicle control system
+    EP4032738B1,2023-07-12,Vehicle control system
+    JP7034437B2,2022-03-14,Vehicle control method and vehicle system
+    JP7008945B2,2022-02-10,Vehicle control method and vehicle system
+    CN116424112A,2023-07-14,Vehicle braking energy recovery torque coordination control method and device and vehicle
+    JP2019142382A,2019-08-29,Vehicle control method, vehicle system and controller of vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    6
+classfication_nums
+    14
+classfication_items
+79
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+3
+    2021-06-10,Application filed by Mazda Motor Corp
+    2022-01-05,Publication of EP3932729A1
+    Status,Pending
+
+active_area
+4
+    J,P
+    C,N
+    E,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2020113868A,2020-07-01,Vehicle drive system
+
+legal_event
+8
+    Date,Code,Title,Description
+    2021-12-03,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2021-12-03,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+    2022-01-05,AK,Designated contracting states,Kind code of ref document: A1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2022-01-05,B565,Issuance of search results under rule 164(2) epc,Effective date: 20211125
+    2022-05-27,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+    2022-06-29,17P,Request for examination filed,Effective date: 20220519
+    2022-06-29,RBV,Designated contracting states (corrected),Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+

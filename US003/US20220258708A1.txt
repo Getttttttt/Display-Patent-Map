@@ -1,0 +1,192 @@
+ID
+    US20220258708A1
+citation_exist
+    Patent Citations (6)
+citation_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US6516925B1                      *,2000-09-28,2003-02-11,Ford Global Technologies, Inc.,System and method for braking a towed conveyance
+    SE536223C2                      *,2011-10-31,2013-07-02,Scania Cv Ab,Device and method for controlling braking of a motor vehicle
+    DE102013014305A1                      *,2013-08-29,2015-03-05,Man Truck & Bus Ag,car trailers
+    DE102016204090A1                      *,2016-03-11,2017-09-14,Zf Friedrichshafen Ag,Towing trolley for a road-bound towing vehicle, trailer and method for driving and braking a trailer
+    DE102016003356A1                      *,2016-03-18,2017-09-21,Wabco Gmbh,Electronic brake system
+    GB2565851B                      *,2017-08-25,2022-05-04,Haldex Brake Prod Ab,Braking system
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (5)
+              
+
+
+citedBy_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20220063445A1                      *,2020-08-26,2022-03-03,Hyundai Motor Company,Eco-friendly vehicle and method of controlling the same
+    Family To Family Citations,,,,
+    DE102021123805A1,2021-09-15,2023-03-16,Voith Patent Gmbh,Method of braking a powertrain and vehicle
+    DE102021127440A1                      *,2021-10-22,2023-04-27,Zf Cv Systems Global Gmbh,Device for controlling an electric drive of a trailer vehicle and system therefor and method therefor
+    DE102022102574A1                      *,2022-02-03,2023-08-03,Zf Cv Systems Global Gmbh,Method for operating a commercial vehicle combination, and commercial vehicle combination
+    DE102022205986A1,2022-03-18,2023-09-21,Continental Automotive Technologies GmbH,Method for controlling a hydraulic braking system and braking system
+
+abstract
+    A method for a utility vehicle, in particular a towing vehicle or a vehicle combination with a utility vehicle, includes the following steps carried out with a control unit of the utility vehicle. A status message is received from an electric drive of the utility vehicle or a trailer vehicle towed by the utility vehicle, which indicates that a braking torque can be provided via the electric drive. An offer message, which indicates an offered braking torque, is then generated depending on the status message. Furthermore, the offer message is sent out to or for at least one further control unit of the utility vehicle. The disclosure includes a braking control unit and a braking system for carrying out the method and a utility vehicle or a vehicle combination with the braking control unit or the braking system. The disclosure includes a computer program product for carrying out the method.
+title
+    Method and apparatus for braking a utility vehicle with an electric drive
+similar_document
+26
+    Publication,Publication Date,Title
+    US20220258708A1,2022-08-18,Method and apparatus for braking a utility vehicle with an electric drive
+    US11427202B2,2022-08-30,Trailer brake control device, method and software for same, and trailer vehicle comprising same
+    US9493075B2,2016-11-15,Regenerative braking control system and method
+    US9744862B2,2017-08-29,Slip-controlled braking system for electrically driven motor vehicles
+    US8775047B2,2014-07-08,Driver assistance system and method for controlling a vehicle brake system
+    CN103140395B,2015-08-05,Power actuated vehicle, automobile braking system and control thereof or control method
+    WO2017129091A1,2017-08-03,Collision avoidance system of electric vehicle, control method therefor, and electric vehicle
+    JP6332181B2,2018-05-30,Vehicle control device
+    CN109017736B,2020-06-16,Electric brake compensation control method and device and automobile
+    US20160272176A1,2016-09-22,Vehicle control apparatus and vehicle control system
+    US20220126704A1,2022-04-28,Method and device for actuating an electrical drive of a trailer vehicle
+    US8746380B2,2014-06-10,Method for operation of a braking system of a hybrid vehicle, braking system and vehicle
+    CN113400944B,2022-06-03,Brake recovery method and device for autonomous vehicle, vehicle and storage medium
+    WO2015194110A1,2015-12-23,Automatic brake device
+    US20230020585A1,2023-01-19,Method and device for actuating an electrical drive of a trailer vehicle
+    US20220340018A1,2022-10-27,Control Apparatus for Vehicle, Control System for Vehicle, and Control Method for Vehicle
+    CN111845684A,2020-10-30,Parking braking method, system, device, vehicle and storage medium
+    CN102171073B,2015-04-01,Vehicle with a brake system
+    CN111376881A,2020-07-07,Braking method and device applied to adaptive cruise and vehicle
+    US20060220452A1,2006-10-05,Method for controlling the braking system of a motor vehicle
+    CN113226830A,2021-08-06,Trailer and trailer brake controller, method and computer program product therefor
+    CN106314408B,2020-12-11,Method for operating a brake system having an electric motor and control device for an electric motor
+    CN114007916A,2022-02-01,Method for supporting a towing vehicle in the event of loss of traction
+    CN113696863A,2021-11-26,System and method for improving braking delay of intelligent driving vehicle
+    US11691520B2,2023-07-04,System for an electrically driven vehicle, vehicle having same and method for same
+
+patent_application
+2
+    Application,Priority date,Filing date,Relation,Title
+    PCT/EP2020/081463,2019-11-08,2020-11-09,Continuation,Method and apparatus for braking a utility vehicle by means of an electric drive
+
+patent_priority_application
+    NoExist
+inventor_number
+    5
+classfication_nums
+    13
+classfication_items
+78
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,1,2
+    B,6,0,T,7,/,2,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,2,1
+    B,6,0,T,8,/,3,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,7,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,0,1
+    B,6,0,T,8,/,1,7,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+
+application_events
+5
+    2022-05-04,Application filed by ZF CV Systems Europe BV
+    2022-05-05,Assigned to ZF CV SYSTEMS HANNOVER GMBH
+    2022-05-31,Assigned to ZF CV SYSTEMS EUROPE BV
+    2022-08-18,Publication of US20220258708A1
+    Status,Pending
+
+active_area
+4
+    D,E
+    C,N
+    E,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    DE102019130200.5,2019-11-08,
+    DE102019130200.5A,2019-11-08,Method and device for braking a commercial vehicle by means of an electric drive
+    PCT/EP2020/081463,2020-11-09,Method and apparatus for braking a utility vehicle by means of an electric drive
+
+legal_event
+4
+    Date,Code,Title,Description
+    2022-05-05,AS,Assignment,Owner name: ZF CV SYSTEMS HANNOVER GMBH, GERMANYFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:HANSLIK, DANIEL;HESEDING, JOHANNES;RICKE, JANIK;AND OTHERS;SIGNING DATES FROM 20220503 TO 20220504;REEL/FRAME:059828/0826
+    2022-05-31,AS,Assignment,Owner name: ZF CV SYSTEMS EUROPE BV, BELGIUMFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:ZF CV SYSTEMS HANNOVER GMBH;REEL/FRAME:060056/0723Effective date: 20220519
+    2022-05-31,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+

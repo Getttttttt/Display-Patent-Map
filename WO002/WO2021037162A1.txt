@@ -1,0 +1,215 @@
+ID
+    WO2021037162A1
+citation_exist
+    Patent Citations (9)
+citation_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN102712259A                      *,2010-01-21,2012-10-03,三菱电机株式会社,制动控制装置及制动控制方法
+    CN103359133A                      *,2013-07-19,2013-10-23,株洲南车时代电气股份有限公司,基于网络数据传输模式的电空混合制动控制方法及系统
+    CN107351824A                      *,2017-07-06,2017-11-17,中国铁道科学研究院,车辆滑行下的制动方法及系统
+    EP3412527A1                      *,2016-02-02,2018-12-12,Mitsubishi Electric Corporation,Brake control device for electric vehicle
+    CN109572654A                      *,2017-09-29,2019-04-05,株洲中车时代电气股份有限公司,一种基于牵引制动融合控制系统的冲击率控制方法
+    CN109747665A                      *,2017-11-03,2019-05-14,株洲中车时代电气股份有限公司,一种列车制动转牵引电空配合控制方法及系统
+    CN110027590A                      *,2018-01-12,2019-07-19,株洲中车时代电气股份有限公司,一种列车制动消退过程牵引制动配合控制方法及系统
+    Family To Family Citations,,,,
+    CN107901944B                      *,2017-11-03,2019-07-16,中车青岛四方机车车辆股份有限公司,列车电空转换方法及装置
+    CN110077385B                      *,2018-01-25,2021-09-24,株洲中车时代电气股份有限公司,一种车辆制动控制方法
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    一种车辆的制动方法，包括以下步骤：获取车辆的第一状态信息，其中，第一状态信息包括车辆质量和制动需求减速度；根据第一状态信息计算车辆所需制动扭矩，并根据车辆所需制动扭矩控制电制动扭矩的输出；获取车辆的当前车速和电制动退出最大速度；如果车辆的制动需求减速度变为0，在当前车速小于电制动退出最大速度时，控制车辆卸载电制动扭矩。还涉及一种车辆的制动装置及车辆。
+title
+    车辆及其制动方法、装置
+similar_document
+26
+    Publication,Publication Date,Title
+    EP2097288B1,2014-06-18,Apparatus and method for controlling energy feedback for electric vehicle
+    WO2018121734A1,2018-07-05,车辆及其制动方法和装置
+    WO2021037163A1,2021-03-04,车辆及其制动方法、装置
+    EP3330119B1,2022-04-06,Electric vehicle control device and electric vehicle control method
+    CN109130887A,2019-01-04,一种电制动补偿控制方法、控制装置及汽车
+    WO2017033753A1,2017-03-02,電動車両の制御方法、及び、制御装置
+    CN106080266B,2018-07-10,一种轨道车辆的启动控制方法及装置
+    CN107009914B,2020-11-06,电动汽车的辅助制动系统、控制方法及电动汽车
+    JP2013121231A,2013-06-17,電動車両の制御装置
+    EP3575133B1,2022-03-09,Electric vehicle control method and control device
+    WO2021037162A1,2021-03-04,车辆及其制动方法、装置
+    WO2021037164A1,2021-03-04,车辆及其制动方法、装置
+    WO2021037161A1,2021-03-04,车辆及其制动方法、装置
+    CN112440956B,2022-03-18,车辆及其制动方法、装置
+    CN112440959B,2022-05-13,车辆及其制动方法、装置
+    CN112440955B,2022-07-15,车辆及其制动方法、装置
+    CN113460012B,2022-07-15,车辆制动方法及装置、车辆控制方法、车辆
+    JP2000197203A,2000-07-14,電気ブレーキの制御方法及びその装置
+    CN102424041B,2013-11-06,一种无夹紧力传感器的电子机械制动方法及装置
+    JP7116551B2,2022-08-10,電動ブレーキ装置および電動ブレーキシステム
+    JP2000261903A,2000-09-22,電気車制御装置
+    KR20140051681A,2014-05-02,전후륜 구동력 분배 방법 및 장치
+    CN202294749U,2012-07-04,一种无夹紧力传感器的电子机械制动装置
+    CN117048363A,2023-11-14,电机控制器、动力总成及控制驱动电机的控制方法
+    JP2021035161A,2021-03-01,電気車制御装置及びその方法
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    BR112022003424A,2019-08-30,2020-08-27,Veículo e método e dispositivo de freamento para o mesmo
+    US17/639,255,2019-08-30,2020-08-27,Vehicle and braking method and device therefor
+
+inventor_number
+    5
+classfication_nums
+    19
+classfication_items
+110
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,5
+    B,6,0,T,1,3,/,5,8,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,2,1
+    B,6,0,T,8,/,3,2,1,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,2,1
+    B,6,0,T,8,/,3,2,9
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,5,8
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,1,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B,6,0,L,2,2,4,0,/,6,4,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,1,0,/,0,0
+    B,6,0,T,2,2,1,0,/,1,0
+    B,6,0,T,2,2,1,0,/,1,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,1,0,/,0,0
+    B,6,0,T,2,2,1,0,/,2,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,5,0,/,0,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,5,0,/,0,0
+    B,6,0,T,2,2,5,0,/,0,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,5,0,/,0,0
+    B,6,0,T,2,2,5,0,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+
+application_events
+4
+    2020-08-27,Application filed by 比亚迪股份有限公司
+    2020-08-27,Priority to BR112022003424A
+    2020-08-27,Priority to US17/639,255
+    2021-03-04,Publication of WO2021037162A1
+
+active_area
+3
+    C,N
+    U,S
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    CN201910817949.3,2019-08-30,
+    CN201910817949.3A,2019-08-30,车辆及其制动方法、装置
+
+legal_event
+6
+    Date,Code,Title,Description
+    2021-04-14,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 20858255Country of ref document: EPKind code of ref document: A1
+    2022-03-01,NENP,Non-entry into the national phase,Ref country code: DE
+    2022-03-08,REG,Reference to national code,Ref country code: BRRef legal event code: B01ARef document number: 112022003424Country of ref document: BR
+    2022-05-24,ENP,Entry into the national phase,Ref document number: 112022003424Country of ref document: BRKind code of ref document: A2Effective date: 20220223
+    2022-09-07,122,Ep: pct application non-entry in european phase,Ref document number: 20858255Country of ref document: EPKind code of ref document: A1
+

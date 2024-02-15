@@ -1,0 +1,264 @@
+ID
+    JP2020117167A
+citation_exist
+    Patent Citations (19)
+citation_infor
+21
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH06319205A                      *,1993-04-30,1994-11-15,Aqueous Res:Kk,ハイブリッド車両
+    JP2005130629A                      *,2003-10-24,2005-05-19,Toyota Motor Corp,自動車
+    JP2007069829A                      *,2005-09-08,2007-03-22,Toyota Motor Corp,車両の冷却装置
+    Family To Family Citations,,,,
+    US5291960A                      *,1992-11-30,1994-03-08,Ford Motor Company,Hybrid electric vehicle regenerative braking energy recovery system
+    DE4344368C1                      *,1993-12-24,1995-05-11,Daimler Benz Ag,Ladeinformationssystem für ein Elektro- oder Hybridfahrzeug
+    JPH1077840A                      *,1996-08-30,1998-03-24,Denso Corp,冷却水制御弁および内燃機関の冷却水回路
+    JPH11313406A,1998-04-28,1999-11-09,Hitachi Ltd,ハイブリッド車の冷却装置
+    US8026698B2                      *,2006-02-09,2011-09-27,Scheucher Karl F,Scalable intelligent power supply system and method
+    US8608255B2                      *,2006-04-14,2013-12-17,Toyota Jidosha Kabushiki Kaisha,Vehicle and control method of vehicle
+    JP2008106613A                      *,2006-10-23,2008-05-08,Toyota Motor Corp,駆動源の暖機装置
+    JP4840372B2                      *,2008-01-29,2011-12-21,トヨタ自動車株式会社,冷却液循環装置
+    JP5282566B2                      *,2008-12-26,2013-09-04,トヨタ自動車株式会社,車両の蓄熱装置
+    JP5348549B2                      *,2009-08-04,2013-11-20,スズキ株式会社,電動車両
+    FR2962380B1                      *,2010-07-07,2013-03-15,Peugeot Citroen Automobiles Sa,Installation de refroidissement
+    JP5861714B2                      *,2011-10-12,2016-02-16,日産自動車株式会社,電動車両
+    JP6032216B2                      *,2014-01-14,2016-11-24,株式会社デンソー,ハイブリッド車制御装置
+    JP6507625B2                      *,2014-12-19,2019-05-08,株式会社デンソー,ハイブリッド車の制御装置
+    JP6315622B2                      *,2016-03-04,2018-04-25,本田技研工業株式会社,車両
+    US11084398B2                      *,2018-01-15,2021-08-10,Ford Global Technologies, Llc,Method of operating thermal management system in electric vehicles
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (8)
+              
+
+
+citedBy_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    KR20200103436A                      *,2019-02-25,2020-09-02,현대자동차주식회사,온도 조절 냉각 시스템 및 이의 제어 방법
+    JP2020179805A                      *,2019-04-26,2020-11-05,株式会社デンソー,車両用熱管理装置、車両用熱管理システム、車両用熱管理方法、及び制御プログラム
+    CN114060288B                      *,2020-08-07,2023-09-08,汉宇集团股份有限公司,电动汽车电源热管理系统用电泵
+    JP2022053627A                      *,2020-09-25,2022-04-06,本田技研工業株式会社,推進システム
+    CN114435115A                      *,2020-11-06,2022-05-06,上海汽车集团股份有限公司,一种混合动力汽车及其热管理系统
+    CN112377349B                      *,2020-11-17,2022-07-22,无锡职业技术学院,一种基于混合动力汽车的双向预热装置
+    CN113547895B                      *,2021-08-18,2023-02-17,安徽江淮汽车集团股份有限公司,一种增程式汽车余热回收系统
+    CN114523816B                      *,2022-03-10,2022-11-11,江西新电汽车空调系统有限公司,一种集成式车用热泵空调与热管理系统及其控制方法
+
+abstract
+    【課題】回生運転時にモータジェネレータで発生する熱を車両の構成部品に適切に分配し、有効に利用又は外部に放出できるハイブリッド車両の熱分配装置を提供する。【解決手段】本発明によるハイブリッド車両の熱分配装置は、内燃機関２を冷却するための冷却水が循環する機関冷却回路３と、モータジェネレータ（ＭＧ）４、５を冷却するための冷媒が循環するＭＧ冷却回路６と、これらの冷却水と冷媒との間で熱交換を行う熱交換器７を備える。バッテリ３１の充電率ＳＯＣに基づき、バッテリ３１への充電が可能と判定されたときに、回生運転で発生した電力をバッテリ３１に充電する充電制御を実行し（図３のステップ２、３）、充電が不能と判定されたときに、回生運転で発生した熱を、熱交換器７における冷媒と冷却水との熱交換によって機関冷却回路３側に放熱する放熱制御を実行する（図３のステップ４以降）。【選択図】図３
+title
+    ハイブリッド車両の熱分配装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP7111635B2,2022-08-02,ハイブリッド車両の熱分配装置
+    CN111605438B,2023-07-25,混合动力车辆的电池升温装置
+    US10829005B2,2020-11-10,Vehicular heat exchange device
+    JP7094907B2,2022-07-04,バッテリ昇温装置
+    CN105083043B,2019-09-10,用于电气化车辆的热管理系统
+    JP2013095409A,2013-05-20,バッテリ暖機装置およびバッテリ暖機方法
+    JP2012046163A,2012-03-08,ハイブリッド車両の熱管理システム及び方法
+    US10995875B2,2021-05-04,Thermal management system for vehicle
+    JP2003514183A,2003-04-15,自動車において発生する熱エネルギを搬送するための方法および装置
+    KR101760023B1,2017-07-20,전기자동차의 배터리 히팅장치
+    JP2021040439A,2021-03-11,車両
+    JP6997884B2,2022-01-18,車両
+    US9863303B2,2018-01-09,Cooling water control apparatus
+    CN113195293A,2021-07-30,车辆
+    CN108859735B,2020-07-24,用于混合动力车辆的冷却系统及冷却方法
+    JP2014058241A,2014-04-03,電気自動車用のバッテリ温度調整システム
+    CN111613853B,2023-11-14,电池升温装置
+    JP2012228999A,2012-11-22,冷却制御システム
+    CN108860136B,2020-09-22,一种用于车辆的控制系统及控制方法
+    WO2020152734A1,2020-07-30,ハイブリッド車両の冷却装置
+    CN116834572A,2023-10-03,充电终端热管理系统及其控制方法
+    KR20210019651A,2021-02-23,차량의 열관리 시스템
+    JP2011230617A,2011-11-17,車両用冷却システム
+    KR20200065744A,2020-06-09,하이브리드 차량용 통합 열관리 시스템의 밸브 제어 방법
+    JP2019074019A,2019-05-16,車両用蓄熱システム
+
+patent_application
+    NoExist
+patent_priority_application
+5
+    Application,Priority date,Filing date,Title
+    JP2019011882A,2019-01-28,2019-01-28,ハイブリッド車両の熱分配装置
+    CN201911405209.5A,2019-01-28,2019-12-31,混合动力车辆的热分配装置
+    US16/746,950,2019-01-28,2020-01-19,Heat distribution device for hybrid vehicle
+    US17/506,621,2019-01-28,2021-10-20,Heat distribution device for hybrid vehicle
+
+inventor_number
+    14
+classfication_nums
+    21
+classfication_items
+126
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,/,0,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,1,/,0,0
+    B,6,0,K,1,1,/,0,2
+    B
+    B,6,0
+    B,6,0,H
+    B,6,0,H,1,/,0,0
+    B,6,0,H,1,/,0,0,2,7,1
+    B,6,0,H,1,/,0,0,2,7,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,1,/,0,0
+    B,6,0,K,1,1,/,0,2
+    B,6,0,K,1,1,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B,6,0,L,5,8,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B,6,0,L,5,8,/,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,0,2
+    B,6,0,L,7,/,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    F
+    F,0,1
+    F,0,1,P
+    F,0,1,P,3,/,0,0
+    F,0,1,P,3,/,2,0
+    F
+    F,0,1
+    F,0,1,P
+    F,0,1,P,7,/,0,0
+    F,0,1,P,7,/,1,4
+    F,0,1,P,7,/,1,6
+    F
+    F,0,1
+    F,0,1,P
+    F,0,1,P,7,/,0,0
+    F,0,1,P,7,/,1,4
+    F,0,1,P,7,/,1,6
+    F,0,1,P,7,/,1,6,2
+    F
+    F,0,1
+    F,0,1,P
+    F,0,1,P,7,/,0,0
+    F,0,1,P,7,/,1,4
+    F,0,1,P,7,/,1,6
+    F,0,1,P,7,/,1,6,5
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,/,0,0
+    B,6,0,K,2,0,0,1,/,0,0,3
+    B,6,0,K,2,0,0,1,/,0,0,5
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,/,0,0
+    B,6,0,K,2,0,0,1,/,0,0,3
+    B,6,0,K,2,0,0,1,/,0,0,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    F
+    F,0,1
+    F,0,1,P
+    F,0,1,P,5,/,0,0
+    F,0,1,P,5,/,1,0
+    F,0,1,P,2,0,0,5,/,1,0,5
+    F
+    F,0,1
+    F,0,1,P
+    F,0,1,P,2,0,5,0,/,0,0
+    F,0,1,P,2,0,5,0,/,2,4
+
+application_events
+7
+    2019-01-28,Application filed by Honda Motor Co Ltd
+    2019-01-28,Priority to JP2019011882A
+    2020-08-06,Publication of JP2020117167A
+    2022-08-02,Application granted
+    2022-08-02,Publication of JP7111635B2
+    Status,Active
+    2039-01-28,Anticipated expiration
+
+active_area
+2
+    J,P
+    U,S
+
+not_active_area
+2
+    C,N
+    U,S
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2019011882A,2019-01-28,ハイブリッド車両の熱分配装置
+
+legal_event
+9
+    Date,Code,Title,Description
+    2021-03-29,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20210329
+    2022-03-07,A977,Report on retrieval,Free format text: JAPANESE INTERMEDIATE CODE: A971007Effective date: 20220307
+    2022-03-15,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20220315
+    2022-04-28,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20220428
+    2022-07-08,TRDD,Decision of grant or rejection written,
+    2022-07-19,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20220719
+    2022-07-25,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20220721
+    2022-07-25,R150,Certificate of patent or registration of utility model,Ref document number: 7111635Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R150
+

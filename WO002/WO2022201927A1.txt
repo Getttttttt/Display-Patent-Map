@@ -1,0 +1,168 @@
+ID
+    WO2022201927A1
+citation_exist
+    Patent Citations (5)
+citation_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2000224709A,1999-01-29,2000-08-11,Nissan Diesel Motor Co Ltd,電源装置
+    WO2012026026A1                      *,2010-08-26,2012-03-01,三菱電機株式会社,車両用制御装置およびディーゼルハイブリッド車両システム
+    JP2018149882A                      *,2017-03-10,2018-09-27,日立建機株式会社,電気駆動式ダンプトラック
+    JP2019088170A                      *,2017-11-10,2019-06-06,株式会社豊田中央研究所,車載用電力変換装置
+    WO2020116272A1                      *,2018-12-05,2020-06-11,日立建機株式会社,回生制動システム、及び、それを用いた電気駆動作業車両
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    本発明は、二巻線誘導発電機を制御するコンバータの大型化を抑制することが可能なダンプトラックのドライブシステムを提供することを目的とする。そのために、ダンプトラックのドライブシステムは、主側ＤＣバスと補助側ＤＣバスとに接続されたＤＣＤＣコンバータを備え、コントローラは、前記主側ＤＣバスの電力が前記ＤＣＤＣコンバータを介して前記補助側ＤＣバスに供給されるように前記ＤＣＤＣコンバータを制御する。
+title
+    ダンプトラックのドライブシステム
+similar_document
+26
+    Publication,Publication Date,Title
+    KR100686296B1,2007-02-26,모터 구동 장치, 전동 4륜 구동차 및 하이브리드 차량
+    JP4780402B2,2011-09-28,車両用電源装置
+    JP4845515B2,2011-12-28,鉄道車両の駆動装置
+    JP5197939B2,2013-05-15,鉄道車両の駆動装置
+    US11021077B2,2021-06-01,Vehicle power supply system
+    US8955626B2,2015-02-17,Electric hybrid vehicle
+    US7253573B2,2007-08-07,Power source for a hybrid vehicle
+    CN110446639B,2022-12-27,作业车辆的电力再生系统
+    JP4595829B2,2010-12-08,二次電池の制御装置および制御方法
+    EP2193969B1,2012-02-08,Vehicle control system
+    US10661670B2,2020-05-26,Power supply system, transportation apparatus, and power transmission method
+    US11318848B2,2022-05-03,Vehicle power supply system
+    JPH05146008A,1993-06-11,シリーズハイブリツド車の駆動制御装置
+    JP5545709B2,2014-07-09,鉄道車両の駆動システム
+    WO2022201927A1,2022-09-29,ダンプトラックのドライブシステム
+    CN113840753A,2021-12-24,电动车辆
+    JP4691961B2,2011-06-01,燃料電池車両
+    JP2007223560A,2007-09-06,ハイブリッド車両の充電制御装置
+    JP2001359202A,2001-12-26,ハイブリッド車の制動制御装置
+    WO2023074445A1,2023-05-04,ダンプトラックのドライブシステム
+    JP5364605B2,2013-12-11,鉄道車両の駆動装置
+    WO2018066624A1,2018-04-12,電源システム制御装置
+    JP2023045709A,2023-04-03,ダンプトラック
+    US20230163703A1,2023-05-25,Electrical drive system for a work machine having two electric motors that can be regulated independently of one another
+    JP4501604B2,2010-07-14,電気システムの制御装置
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    CN202280005929.6A,2021-03-26,2022-02-08,自卸卡车的驱动系统
+
+inventor_number
+    9
+classfication_nums
+    13
+classfication_items
+74
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,2,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,9,/,0,0
+    B,6,0,L,9,/,1,6
+    B,6,0,L,9,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,9,/,0,0
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,9,/,0,0
+    H,0,2,P,9,/,1,4
+    H,0,2,P,9,/,2,6
+    H,0,2,P,9,/,3,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+3
+    2022-02-08,Application filed by 日立建機株式会社
+    2022-02-08,Priority to CN202280005929.6A
+    2022-09-29,Publication of WO2022201927A1
+
+active_area
+2
+    J,P
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2021053049A,2021-03-26,ダンプトラックのドライブシステム
+    JP2021-053049,2021-03-26,
+
+legal_event
+2
+    Date,Code,Title,Description
+    2022-11-09,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 22774728Country of ref document: EPKind code of ref document: A1
+

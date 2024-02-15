@@ -1,0 +1,363 @@
+ID
+    US10232807B2
+citation_exist
+    Patent Citations (11)
+citation_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH03113986U,1990-03-08,1991-11-21,,
+    WO2004114511A2,2003-06-05,2004-12-29,Toyota Motor Co Ltd,Motor drive device, vehicle using the same, and computer-readable recording medium containing a program for causing a computer to execute control of voltage conversion
+    JP2006074932A,2004-09-03,2006-03-16,Nissan Motor Co Ltd,Electric motor controlling device
+    US20060162972A1,2003-07-22,2006-07-27,Takeshi Hoshiba,Power output apparatus for hybrid vehicle
+    JP2010247725A,2009-04-17,2010-11-04,Toyota Motor Corp,Power supply control device for electric vehicle
+    JP2010283932A,2009-06-02,2010-12-16,Honda Motor Co Ltd,Controller for load-driving system
+    JP2011015603A,2009-06-02,2011-01-20,Honda Motor Co Ltd,Control device of load drive system
+    US20120069613A1                      *,2009-06-10,2012-03-22,Honda Motor Co., Ltd.,Transfer control device
+    Family To Family Citations,,,,
+    US7030596B1                      *,2003-12-03,2006-04-18,Linear Technology Corporation,Methods and circuits for programmable automatic burst mode control using average output current
+    TW201005461A                      *,2008-07-31,2010-02-01,Richtek Technology Corp,Voltage regulator and control method thereof
+    WO2010137127A1                      *,2009-05-27,2010-12-02,トヨタ自動車株式会社,Control device for a voltage converter and vehicles equipped with same, and a voltage converter control method
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (19)
+              
+
+
+citedBy_infor
+21
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    WO2014013606A1                      *,2012-07-20,2014-01-23,トヨタ自動車株式会社,Fuel cell system
+    JP6117680B2,2013-11-08,2017-04-19,トヨタ自動車株式会社,Vehicle power supply
+    JP5900522B2                      *,2014-01-22,2016-04-06,トヨタ自動車株式会社,Vehicle power supply
+    JP6233178B2                      *,2014-05-09,2017-11-22,トヨタ自動車株式会社,Boost converter device
+    DE102014225288A1                      *,2014-12-09,2016-06-09,Zf Friedrichshafen Ag,Roll stabilization system for a motor vehicle
+    US10305373B2,2016-04-15,2019-05-28,Emerson Climate Technologies, Inc.,Input reference signal generation systems and methods
+    US11387729B2,2016-04-15,2022-07-12,Emerson Climate Technologies, Inc.,Buck-converter-based drive circuits for driving motors of compressors and condenser fans
+    US9933842B2,2016-04-15,2018-04-03,Emerson Climate Technologies, Inc.,Microcontroller architecture for power factor correction converter
+    US10763740B2,2016-04-15,2020-09-01,Emerson Climate Technologies, Inc.,Switch off time control systems and methods
+    US10656026B2,2016-04-15,2020-05-19,Emerson Climate Technologies, Inc.,Temperature sensing circuit for transmitting data across isolation barrier
+    US10320322B2,2016-04-15,2019-06-11,Emerson Climate Technologies, Inc.,Switch actuation measurement circuit for voltage converter
+    US10277115B2,2016-04-15,2019-04-30,Emerson Climate Technologies, Inc.,Filtering systems and methods for voltage control
+    JP6451692B2                      *,2016-05-13,2019-01-16,トヨタ自動車株式会社,Automobile
+    US20180105157A1                      *,2016-10-14,2018-04-19,Ford Global Technologies, Llc,System and method for controlling electrified vehicles
+    JP6489110B2                      *,2016-12-20,2019-03-27,トヨタ自動車株式会社,Drive device
+    GB2561588B                      *,2017-04-19,2020-01-08,Sevcon Ltd,DC-DC converter
+    CN108499739B                      *,2017-09-30,2023-07-07,江森自控空调冷冻设备(无锡)有限公司,High-voltage power supply circuit, high-voltage power supply board and method for controlling high-voltage output
+    JP6751696B2                      *,2017-10-30,2020-09-09,ダイキン工業株式会社,Power converter
+    CN115071450A                      *,2022-08-03,2022-09-20,盐城工学院,Closed-loop control parallel composite power supply braking energy recovery control system and working method thereof
+
+abstract
+    A control apparatus for the boost converter to reduce the total loss is proposed. The control apparatus for the boost converter which controls the boost converter in a power system, the system has a DC power source having source voltage; the boost converter including a switching device and boosting the source voltage by predetermined boost control including change of switching state of the switching device based on boost instruction voltage and outputs the boosted voltage to a load apparatus; and a voltage detecting device detecting output voltage of the boost converter, the control apparatus has: a boost controlling device performing the boost control; and an intermittent controlling device performing intermittent process of the boost control based on the detected output voltage to keep the output voltage within range including the boost instruction voltage which is used when the last boost control is performed.
+title
+    Control apparatus for boost converter
+similar_document
+21
+    Publication,Publication Date,Title
+    US10232807B2,2019-03-19,Control apparatus for boost converter
+    US10266170B2,2019-04-23,Controller for hybrid vehicle
+    JP5930064B2,2016-06-08,Boost converter controller
+    US8297391B2,2012-10-30,Power supply system, vehicle provided with the same, power supply system control method and computer-readable recording medium bearing program for causing computer to control the power supply system
+    US7855901B2,2010-12-21,AC voltage output apparatus and hybrid vehicle including the same
+    US20090171554A1,2009-07-02,Internal Combustion Engine Stop Controller and Stop Control Method
+    US9248830B2,2016-02-02,Control apparatus of hybrid vehicle
+    US9623757B2,2017-04-18,Vehicle and electric power supply device for vehicle
+    JP2010018181A,2010-01-28,Hybrid vehicle control device
+    US10259342B2,2019-04-16,Vehicle
+    JP5211743B2,2013-06-12,POWER SUPPLY DEVICE, VEHICLE MOUNTING THE SAME, AND CONTROL METHOD FOR POWER SUPPLY DEVICE
+    JP2015105045A,2015-06-08,Power converter control apparatus
+    JP2013212774A,2013-10-17,Hybrid vehicle
+    JP6801382B2,2020-12-16,Motor drive
+    JP2016164037A,2016-09-08,Vehicle control device
+    JP2013180662A,2013-09-12,Hybrid vehicle
+    JP5907115B2,2016-04-20,Hybrid vehicle travel control device
+    JP2017093252A,2017-05-25,Automobile
+    JP2012236518A,2012-12-06,Onboard power generation device
+    JP2016119802A,2016-06-30,Automobile
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    46
+classfication_items
+234
+    B
+    B,6,0
+    B,6,0,R
+    B,6,0,R,1,6,/,0,0
+    B,6,0,R,1,6,/,0,2
+    B,6,0,L,1,1,/,0,0,5
+    B,6,0,L,1,1,/,1,2,3
+    B,6,0,L,1,1,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,5,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H,0,2,M,3,/,0,2
+    H,0,2,M,3,/,0,4
+    H,0,2,M,3,/,1,0
+    H,0,2,M,3,/,1,4,5
+    H,0,2,M,3,/,1,5,5
+    H,0,2,M,3,/,1,5,6
+    H,0,2,M,3,/,1,5,8
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H,0,2,M,3,/,0,2
+    H,0,2,M,3,/,0,4
+    H,0,2,M,3,/,1,0
+    H,0,2,M,3,/,1,4,5
+    H,0,2,M,3,/,1,5,5
+    H,0,2,M,3,/,1,5,6
+    H,0,2,M,3,/,1,5,8
+    H,0,2,M,3,/,1,5,8,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B,6,0,L,2,2,1,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,1,0
+    B,6,0,L,2,2,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,8
+    B,6,0,L,2,2,4,0,/,4,8,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,8,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,0,0,0,3
+    H,0,2,M,1,/,0,0,3,2
+    H,0,2,M,1,/,0,0,3,5
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,0,0,6,7
+    H,0,2,M,1,/,0,0,7
+    H,0,2,M,2,0,0,1,/,0,0,3,5
+    H,0,2,M,2,0,0,1,/,0,0,7
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,6,6
+    H,0,2,M,7,/,6,8
+    H,0,2,M,7,/,7,2
+    H,0,2,M,7,/,7,9
+    H,0,2,M,7,/,7,9,7
+    Y
+    Y,0,2
+    Y,0,2,B
+    Y,0,2,B,7,0,/,0,0
+    Y,0,2,B,7,0,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y,0,2,T,1,0,/,6,2,1,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,2,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y,0,2,T,1,0,/,7,0,7,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,2,5
+    Y,0,2,T,1,0,/,7,2,4,1
+    Y,0,2,T,1,0,/,7,2,7,5
+
+application_events
+8
+    2012-07-10,Application filed by Toyota Motor Corp
+    2015-01-07,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2015-07-09,Publication of US20150191133A1
+    2019-03-19,Application granted
+    2019-03-19,Publication of US10232807B2
+    2020-04-01,Assigned to DENSO CORPORATION
+    Status,Active
+    2034-04-11,Adjusted expiration
+
+active_area
+6
+    J,P
+    W,O
+    U,S
+    K,R
+    C,N
+    E,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2012/067613,2012-07-10,Boost converter control device
+
+legal_event
+5
+    Date,Code,Title,Description
+    2015-01-07,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:OKAMURA, MASAKI;TAKAMATSU, NAOYOSHI;HIRANO, KOSUKE;SIGNING DATES FROM 20141202 TO 20141204;REEL/FRAME:034654/0991
+    2019-02-27,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2020-04-01,AS,Assignment,Owner name: DENSO CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:TOYOTA JIDOSHA KABUSHIKI KAISHA;REEL/FRAME:052281/0019Effective date: 20191224
+    2022-09-14,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

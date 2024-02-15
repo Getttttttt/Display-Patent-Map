@@ -1,0 +1,341 @@
+ID
+    US9203255B2
+citation_exist
+    Patent Citations (15)
+citation_infor
+17
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH0731072A                      *,1991-07-09,1995-01-31,Japan Storage Battery Co Ltd,Charger
+    JPH1084638A,1996-09-09,1998-03-31,Toshiba Corp,Cordless telephone terminal
+    JP2000050507A,1998-07-28,2000-02-18,Ntt Power & Building Facilities Inc,Device for discriminating deterioration of storage battery and method of discriminating deterioration of storage battery
+    JP2003143703A,2001-11-02,2003-05-16,Nissan Motor Co Ltd,Diagnostic apparatus for vehicle battery deterioration
+    CN201499004U                      *,2009-07-31,2010-06-02,许桂华,Intelligent storage battery charging system
+    US20100231226A1                      *,2006-04-25,2010-09-16,Akira Yamashita,Device and Method for Determining Replacement of Storage Battery
+    JP2011054413A,2009-09-01,2011-03-17,Nissan Motor Co Ltd,System and method for determining deterioration state of secondary battery
+    US20110199053A1                      *,2008-10-30,2011-08-18,Toyota Jidosha Kabushiki Kaisha,Battery pack input/output control system
+    US20110267000A1                      *,2010-04-28,2011-11-03,Kabushiki Kaisha Toshiba,Battery charging apparatus, electronic apparatus, and charging method
+    Family To Family Citations,,,,
+    JP2000133324A                      *,1998-10-23,2000-05-12,Honda Motor Co Ltd,Battery deterioration judging method
+    KR100554241B1                      *,1999-09-09,2006-02-22,도요다 지도샤 가부시끼가이샤,Apparatus for battery capacity measurement and for remaining capacity calculation
+    JP5093225B2                      *,2007-03-07,2012-12-12,トヨタ自動車株式会社,Secondary battery control device and vehicle
+    JP2010019758A                      *,2008-07-11,2010-01-28,Mitsumi Electric Co Ltd,Battery state detection device
+    KR100995075B1                      *,2008-08-26,2010-11-18,삼성에스디아이 주식회사,Battery management system and driving method thereof
+    JP5044511B2                      *,2008-09-03,2012-10-10,トヨタ自動車株式会社,Lithium ion battery degradation determination method, lithium ion battery control method, lithium ion battery degradation determination apparatus, lithium ion battery control apparatus, and vehicle
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (16)
+              
+
+
+citedBy_infor
+18
+    Publication number,Priority date,Publication date,Assignee,Title
+    US10804575B2                      *,2017-12-25,2020-10-13,Toyota Jidosha Kabushiki Kaisha,Secondary battery system and method for diagnosing abnormality in battery pack
+    US11135921B2                      *,2016-10-05,2021-10-05,Samsung Electronics Co., Ltd.,Battery management method and apparatus
+    Family To Family Citations,,,,
+    US10520623B2                      *,2013-05-31,2019-12-31,Westerngeco L.L.C.,Methods and systems for marine survey acquisition
+    US10063069B1                      *,2014-05-23,2018-08-28,Artisan Vehicle Systems Inc.,Module maintenance system
+    US9960396B2,2013-09-24,2018-05-01,Artisan Vehicle Systems Inc.,Module backbone system
+    JP6205254B2                      *,2013-11-29,2017-09-27,株式会社マキタ,Charge control device
+    JP6303520B2                      *,2014-01-16,2018-04-04,セイコーエプソン株式会社,Liquid injection system and storage unit
+    KR101725496B1                      *,2014-12-11,2017-04-10,현대오트론 주식회사,Apparatus and method for diagnosis of battery condition
+    US10223311B2                      *,2015-03-30,2019-03-05,Samsung Electronics Co., Ltd.,Semiconductor memory device for sharing inter-memory command and information, memory system including the same and method of operating the memory system
+    CN105730270B                      *,2016-02-03,2018-07-31,惠州市蓝微新源技术有限公司,The method and system of safe prediction is carried out according to the variation of battery status amount and external environment
+    KR102582656B1                      *,2016-08-31,2023-09-25,삼성디스플레이 주식회사,Temperature Compensation Power Circuit For Display Device
+    KR102030705B1,2018-01-30,2019-10-10,주식회사 젠트로피,Management system for electric two-wheeled vehicles
+    US11105858B2                      *,2018-10-03,2021-08-31,O2Micro Inc.,Predicting a potential fault in a battery
+    KR20210058144A                      *,2019-11-13,2021-05-24,주식회사 엘지에너지솔루션,Battery pack, vehicle comprising the battery pack and control method of the battery pack
+    KR102385906B1                      *,2020-10-13,2022-04-12,주식회사 경신,Apparatus and method for detecting connector error for vehicle
+    US20220209353A1                      *,2020-12-24,2022-06-30,Hyundai Mobis Co., Ltd.,Battery module assembly
+
+abstract
+    The present invention provides a control method for an electric vehicle, comprising the steps of: measuring a current voltage of a battery cell module and an external temperature immediately before or after a start of charging; determining whether or not charging has been completed by measuring a charging voltage of the battery cell module after charging during a predetermined time set according to at least one of the current voltages and the external temperature; and calculating a voltage variation on the basis of the current voltage and the charging voltage if it is determined that charging has been completed, and determining whether the battery cell module is normal or abnormal on the basis of the voltage variation and a set reference voltage variation.
+title
+    Control method for electric vehicle
+similar_document
+22
+    Publication,Publication Date,Title
+    US9203255B2,2015-12-01,Control method for electric vehicle
+    US11285795B2,2022-03-29,Electric bus
+    JP6240118B2,2017-11-29,Electric vehicle
+    JP5076782B2,2012-11-21,Vehicle control system using a battery module having a lithium battery
+    EP2993074A1,2016-03-09,Battery pack and hybrid vehicle including the battery pack
+    JP5501286B2,2014-05-21,Power storage device
+    EP3201039B1,2022-01-05,Integrated connector having sense and switching conductors for a relay used in a battery module
+    WO2008121982A1,2008-10-09,Vehicle hybrid energy system
+    US9634364B2,2017-04-25,Support structure for traction battery assembly with integrated thermal plate
+    KR20120126893A,2012-11-21,Voltage Sensing Assembly and Battery Module Employed with the Same
+    WO2013172397A1,2013-11-21,Power storage module and method for manufacturing same
+    KR20110116529A,2011-10-26,Cartridge for battery
+    JP5822410B2,2015-11-24,Battery pack with stable measurement unit
+    JP2021529497A,2021-10-28,Hybrid energy storage module system with auxiliary battery
+    JP4631117B2,2011-02-16,Battery device for moving body
+    KR102378188B1,2022-03-28,Mobile charging apparatus for electric vehicles
+    KR20130075378A,2013-07-05,Separate board for the battery voltage balancing control bms(battery management system)
+    JP5323645B2,2013-10-23,Power storage device, power storage module and automobile
+    US9494652B2,2016-11-15,Voltage and temperature sensing of battery cell groups
+    JP2013051085A,2013-03-14,Battery pack and vehicle
+    KR101343844B1,2013-12-20,Electric power source supply system of motor fork lift truck
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    40
+classfication_items
+207
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    H,0,2,J,7,/,0,0,5,2
+    B,6,0,L,1,1,/,1,8,0,3
+    B,6,0,L,1,1,/,1,8,6,1
+    B,6,0,L,1,1,/,1,8,6,4
+    B,6,0,L,1,1,/,1,8,7,4
+    B,6,0,L,1,1,/,1,8,7,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B,6,0,L,5,8,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    G
+    G,0,1
+    G,0,1,R
+    G,0,1,R,2,7,/,0,0
+    G,0,1,R,2,7,/,0,2
+    G,0,1,R,2,7,/,2,6
+    G
+    G,0,1
+    G,0,1,R
+    G,0,1,R,3,1,/,0,0
+    G,0,1,R,3,1,/,3,6
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,8
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,1,/,0,0
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,6
+    B,6,0,L,2,2,4,0,/,6,6,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,8,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,1,0
+    B,6,0,L,2,2,7,0,/,1,4
+    B,6,0,L,2,2,7,0,/,1,4,5
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+7
+    2012-04-06,Application filed by LG Electronics Inc
+    2013-10-04,Assigned to LG ELECTRONICS INC.
+    2014-02-06,Publication of US20140035537A1
+    2015-12-01,Application granted
+    2015-12-01,Publication of US9203255B2
+    Status,Active
+    2032-08-19,Adjusted expiration
+
+active_area
+2
+    W,O
+    U,S
+
+not_active_area
+3
+    K,R
+    C,N
+    E,P
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    KR10-2011-0032222,2011-04-07,
+    KR1020110032222A,2011-04-07,Control method of electric vehicles
+    PCT/KR2012/002628,2012-04-06,Control method for electric vehicle
+
+legal_event
+6
+    Date,Code,Title,Description
+    2013-10-04,AS,Assignment,Owner name: LG ELECTRONICS INC., KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:HONG, JUN HYEON;REEL/FRAME:031346/0797Effective date: 20130926
+    2015-11-11,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2015-12-03,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2019-05-08,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+    2023-07-24,FEPP,Fee payment procedure,Free format text: MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+

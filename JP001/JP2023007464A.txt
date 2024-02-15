@@ -1,0 +1,265 @@
+ID
+    JP2023007464A
+citation_exist
+    Patent Citations (3)
+citation_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US20090259355A1                      *,2008-04-15,2009-10-15,The Uwm Research Foundation, Inc.,Power management of a hybrid vehicle
+    JP4596073B2                      *,2009-01-13,2010-12-08,株式会社デンソー,動力発生源制御装置
+    US11548494B2                      *,2019-02-11,2023-01-10,Ford Global Technologies, Llc,Lap learning for vehicle energy management optimization
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    【課題】道路車両の性能を向上させる運転者支援のための方法を提供する。【解決手段】運転者によって運転される道路車両１は、車両用電池パック６に接続された少なくとも１つの電気モータ５によって駆動される、少なくとも２つの駆動輪３を備える。運転者の支援方法は、道路車両１の動的モデルを定義するステップと、道路車両１が走行する走路Ｔの経路Ｒを決定するステップと、道路車両１の動的モデル及び経路Ｒの関数として、電気モータ５による車両用電池パック６のエネルギー使用に関する適時性指標を計算するステップを含む。また、経路Ｒを、計算された適時性指標の相対値をそれぞれに割り当て、複数の領域７に細分化するステップと、経路Ｒの各領域７に割り当てられた適時性指標の値にしたがって、駆動輪３に電動出力を供給するステップを含む。【選択図】図１
+title
+    道路車両の性能を向上させる運転者支援のための方法
+similar_document
+26
+    Publication,Publication Date,Title
+    CN107571860A,2018-01-12,用于运行电驱动的或能电驱动的车辆的方法及车辆
+    CN102233807B,2014-11-12,自学习卫星导航辅助混合动力车辆控制系统
+    CN101857023B,2014-12-31,用于操作电动汽车的方法
+    JP6183244B2,2017-08-23,移動支援装置及び移動支援方法
+    KR100949260B1,2010-03-25,전기자동차용 전지 충전 시스템
+    CN104066636B,2015-12-09,行驶控制装置
+    CN103534126B,2015-04-08,车辆及车辆的控制方法
+    CN103287279A,2013-09-11,车辆系统
+    CN102887144A,2013-01-23,混合动力车辆中的适应性能量管理
+    US11338701B2,2022-05-24,Eco-friendly vehicle and method of providing guidance for charging amount
+    CN103918152B,2017-02-15,用于管理混合动力汽车的系统及方法
+    US11077768B2,2021-08-03,Personalized range protection strategy for electrified vehicles
+    CN101888943A,2010-11-17,用于根据行驶条件管理机动车辆的运转的方法和系统
+    JP2010095067A,2010-04-30,ハイブリッド自動車およびコンピュータ装置ならびにプログラム
+    US20220402476A1,2022-12-22,Model-Based Predictive Control of a Vehicle Taking into Account a Time of Arrival Factor
+    JP2013521176A,2013-06-10,自動車の駆動装置
+    CN102101474A,2011-06-22,驾驶辅助装置、方法以及程序
+    JP4023445B2,2007-12-19,ハイブリッド車両の制御装置
+    Li et al.,2012,In-wheel motor electric ground vehicle energy management strategy for maximizing the travel distance
+    CN104828064A,2015-08-12,用于车辆的驱动模式调节器
+    CN114435143A,2022-05-06,电驱动系统的功率控制方法
+    CN104816722A,2015-08-05,用于运行道路耦联式混合动力车辆的方法和控制装置
+    JP2023007464A,2023-01-18,道路車両の性能を向上させる運転者支援のための方法
+    KR20210150920A,2021-12-13,차량의 군집 주행 제어 시스템 및 방법
+    US11332038B1,2022-05-17,System and method for quantifying battery usage
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    8
+classfication_nums
+    30
+classfication_items
+173
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    G
+    G,0,5
+    G,0,5,D
+    G,0,5,D,1,/,0,0
+    G,0,5,D,1,/,0,2
+    G,0,5,D,1,/,0,2,1
+    G,0,5,D,1,/,0,2,1,2
+    G,0,5,D,1,/,0,2,2,3
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,4
+    B,6,0,W,1,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B,6,0,W,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,0,9,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,0,8,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B,6,0,L,2,2,4,0,/,6,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,8,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,3,0,0,/,0,0
+    B,6,0,W,2,3,0,0,/,2,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,3,0,/,0,0
+    B,6,0,W,2,5,3,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,3,0,/,0,0
+    B,6,0,W,2,5,3,0,/,1,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,2,/,0,0
+    B,6,0,W,2,5,5,2,/,0,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,6,/,0,0
+    B,6,0,W,2,5,5,6,/,4,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,1,0
+    B,6,0,W,2,7,2,0,/,1,0,3
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    G
+    G,0,5
+    G,0,5,D
+    G,0,5,D,2,2,0,1,/,0,0
+    G,0,5,D,2,2,0,1,/,0,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+
+application_events
+3
+    2022-06-23,Application filed by Ferrari SpA
+    2023-01-18,Publication of JP2023007464A
+    Status,Pending
+
+active_area
+4
+    U,S
+    J,P
+    E,P
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    IT202100017087,2021-06-29,
+    IT102021000017087,2021-06-29,
+
+legal_event
+3
+    Date,Code,Title,Description
+    2022-08-09,RD01,Notification of change of attorney,Free format text: JAPANESE INTERMEDIATE CODE: A7426Effective date: 20220809
+    2022-08-26,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A821Effective date: 20220809
+

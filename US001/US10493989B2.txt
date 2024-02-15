@@ -1,0 +1,287 @@
+ID
+    US10493989B2
+citation_exist
+    Patent Citations (11)
+citation_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    US4319665A                      *,1979-05-11,1982-03-16,Hitachi, Ltd.,AC Elevator control system
+    US20070173372A1                      *,2005-12-21,2007-07-26,Nissan Motor Co., Ltd.,Coasting deceleration control for a vehicle
+    US20080254937A1                      *,2006-11-22,2008-10-16,Nissan Motor Co., Ltd.,Automatic transmission shift control apparatus
+    US20170305396A1                      *,2014-09-05,2017-10-26,Mitsubishi Electric Corporation,Automatic train operation system and brake control device
+    Family To Family Citations,,,,
+    DE102011083013A1                      *,2011-09-20,2013-03-21,Robert Bosch Gmbh,Method for operating driver assistance system in motor vehicle, involves calculating earliest and latest possible points in time to begin coasting and to start braking operation, for determining desired timepoint for slowing vehicle
+    JP5893953B2                      *,2012-02-22,2016-03-23,日立建機株式会社,Vehicle operation management system
+    KR20150061491A                      *,2013-11-27,2015-06-04,현대엠엔소프트 주식회사,Apparatus for providing fuel-cut section information and method thereof
+    SE1450604A1                      *,2014-05-21,2015-11-22,Scania Cv Ab,Procedures and systems for streamlining the operation of a vehicle when driving a vehicle along a route
+    KR101628495B1                      *,2014-10-13,2016-06-08,현대자동차주식회사,Coast driving guide system and method for eco-friendly vehicle
+    KR101693947B1                      *,2014-12-26,2017-01-06,현대자동차주식회사,Method for controlling operation point in regenerative brake of HEV
+    JP6613590B2                      *,2015-03-27,2019-12-04,いすゞ自動車株式会社,Travel control device and travel control method
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (6)
+              
+
+
+citedBy_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    US11498568B2                      *,2019-10-23,2022-11-15,Hyundai Motor Company,Vehicle and method of controlling the same
+    Family To Family Citations,,,,
+    KR102444667B1                      *,2017-12-28,2022-09-19,현대자동차주식회사,Hybrid vehicle and method of changing operation mode for the same
+    KR102575146B1                      *,2018-04-24,2023-09-06,현대자동차주식회사,Method for providing information of inertia drive
+    DE102019207449A1                      *,2019-05-21,2020-11-26,Volkswagen Aktiengesellschaft,Method for charging a battery of an electrically powered vehicle and electrically powered vehicle
+    CN112373475B                      *,2020-11-26,2023-01-31,北京车和家信息技术有限公司,Vehicle control method, device, medium, equipment and vehicle
+    US11694876B2,2021-12-08,2023-07-04,Applied Materials, Inc.,Apparatus and method for delivering a plurality of waveform signals during plasma processing
+
+abstract
+    A method of guiding a coasting time point of a vehicle includes steps of detecting occurrence of an upcoming deceleration event, determining driver's coasting characteristics for each deceleration event based on information of the detected occurrence of an upcoming deceleration event and a vehicle driving state, and determining a coasting guidance time point based on a determined result of coasting characteristics corresponding to a type of the detected deceleration event. The method provides, to a driver, information of a time point at which the driver needs to release an accelerator pedal operation, in order to begin coasting at an appropriate time point when a deceleration situation is assumed to lie ahead.
+title
+    Vehicle and method of providing information for the same
+similar_document
+26
+    Publication,Publication Date,Title
+    US10493989B2,2019-12-03,Vehicle and method of providing information for the same
+    US8753123B2,2014-06-17,Driving support system and driving support managing device
+    KR101994302B1,2019-09-30,Hybrid vehicle and method of controlling transmission
+    JP2006344032A,2006-12-21,Driving support system and driving support method
+    US9469299B2,2016-10-18,Deceleration setting system, deceleration setting method, and deceleration setting program
+    US10654467B2,2020-05-19,Hybrid vehicle and method of performing temperature control therefor
+    US10480946B2,2019-11-19,Vehicle and method of providing information therefor
+    KR101628563B1,2016-06-08,Coasting control method for eco-friendly vehicle
+    US11254313B2,2022-02-22,Travelling control apparatus
+    US11414077B2,2022-08-16,Driving control method using traffic light information and vehicle for performing the same
+    JP2014240233A,2014-12-25,Drive support system
+    WO2011025443A1,2011-03-03,System and method for maintaining driving times
+    JP5098503B2,2012-12-12,Travel control plan generator
+    US20160167657A1,2016-06-16,Ssc control method and control apparatus thereof
+    KR20190003096A,2019-01-09,Vehicle having electric motor and method of controlling coasting torque for the same
+    US20200070835A1,2020-03-05,Autonomous driving system
+    US20190001961A1,2019-01-03,Hybrid vehicle and method of controlling response to driving load for the same
+    US11498430B2,2022-11-15,Eco-friendly vehicle and method of controlling coasting for the same
+    JP2018193011A,2018-12-06,Control device of vehicle
+    US11608065B2,2023-03-21,Method for advanced inertia drive control of vehicle
+    KR20200050495A,2020-05-12,Vehicle having electric motor and method of driving controlling for the same
+    US11161509B2,2021-11-02,Method for controlling coasting guide function
+    JP2012252562A,2012-12-20,Driving support device
+    JP2012069134A,2012-04-05,Apparatus for generating travel control plan
+    WO2022271062A1,2022-12-29,Method and control arrangement for limiting a speed reduction of a vehicle; vehicle, computer program and computer readable medium related to the method
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    28
+classfication_items
+166
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,0,8
+    B,6,0,W,4,0,/,0,9
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,1,0
+    B,6,0,W,4,0,/,1,0,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,0,9,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,1,4
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,/,0,0
+    B,6,0,K,1,/,0,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,0,7,2
+    B,6,0,W,2,0,3,0,/,1,8,0,8,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,1,4
+    B,6,0,W,2,0,5,0,/,1,4,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,1,4
+    B,6,0,W,2,0,5,0,/,1,4,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,6
+    B,6,0,W,2,5,1,0,/,0,6,3,8
+    B,6,0,W,2,5,1,0,/,0,6,4,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,8
+    B,6,0,W,2,5,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B,6,0,W,2,5,2,0,/,1,0,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,3,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,5,/,0,0
+    B,6,0,W,2,5,5,5,/,6,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,0,7,2
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,1
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,2
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,1,8
+    B,6,0,Y,2,3,0,0,/,1,8,0,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,0,6,6
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+
+application_events
+7
+    2017-12-07,Application filed by Hyundai Motor Co, Kia Motors Corp
+    2018-01-22,Assigned to KIA MOTORS CORPORATION, HYUNDAI MOTOR COMPANY
+    2019-01-03,Publication of US20190001983A1
+    2019-12-03,Application granted
+    2019-12-03,Publication of US10493989B2
+    Status,Active
+    2038-06-13,Adjusted expiration
+
+active_area
+4
+    K,R
+    U,S
+    D,E
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    KR1020170083489A,2017-06-30,Vehicle and method of providing information for the same
+    KR10-2017-0083489,2017-06-30,
+
+legal_event
+7
+    Date,Code,Title,Description
+    2017-12-07,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2018-01-22,AS,Assignment,Owner name: KIA MOTORS CORPORATION, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:PARK, JOON YOUNG;REEL/FRAME:044686/0727Effective date: 20171121Owner name: HYUNDAI MOTOR COMPANY, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:PARK, JOON YOUNG;REEL/FRAME:044686/0727Effective date: 20171121
+    2018-02-22,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2019-08-12,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2019-11-13,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2023-05-22,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

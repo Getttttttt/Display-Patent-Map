@@ -1,0 +1,392 @@
+ID
+    WO2021216214A1
+citation_exist
+    Patent Citations (13)
+citation_infor
+15
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20160032949A1                      *,2014-07-30,2016-02-04,Kobelco Construction Machinery Co., Ltd.,Slewing drive apparatus for construction machine
+    KR20190002055A                      *,2017-06-29,2019-01-08,(주)다인큐브,Method and apparatus for controlling hydraulic circuit
+    US20190112786A1                      *,2016-09-28,2019-04-18,Hitachi Construction Machinery Co., Ltd.,Pump Control System of Work Machine
+    JP2019167896A                      *,2018-03-23,2019-10-03,コベルコ建機株式会社,Exhaust gas abnormality detection device
+    US20200040553A1                      *,2017-04-10,2020-02-06,Yanmar Co., Ltd.,Control device for hydraulic machine
+    Family To Family Citations,,,,
+    DE2152726C2,1971-10-22,1974-12-19,Hydromatik Gmbh, 7900 Ulm,Drive system with at least two hydrostatic gears
+    US7797934B2,2007-04-30,2010-09-21,Caterpillar Inc,Anti-stall system utilizing implement pilot relief
+    JP5542016B2                      *,2010-09-15,2014-07-09,川崎重工業株式会社,Drive control method for work machine
+    CN105074093B,2013-01-30,2017-05-10,派克汉尼芬公司,Hydraulic hybrid swing drive system for excavators
+    WO2015021400A1,2013-08-08,2015-02-12,Parker-Hannifin Corporation,Hydraulic hybrid swing drive system for excavators
+    JP6112559B2,2013-11-06,2017-04-12,キャタピラー エス エー アール エル,Fluid pressure circuit and work machine
+    JP6324933B2,2015-08-26,2018-05-16,株式会社日立建機ティエラ,Hydraulic drive device for work machine
+    US10459462B2,2017-06-21,2019-10-29,Caterpillar Inc.,Sensor fusion feedback for controlling fluid pressures in a machine
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    A hydraulic circuit is disclosed. The hydraulic circuit may include a hydrostatic pump to provide, at a flow rate, a fluid to a hydraulic motor, wherein the hydrostatic pump has a displacement, and wherein the hydraulic motor drives a swinging element; a swing circuit pressure sensor to sense a circuit pressure of the hydraulic circuit; a pilot pressure actuator to control, based on a supply pressure, the displacement of the hydrostatic pump; a pilot pressure override valve to control the supply pressure; and a controller configured to adjust, based on sensed signals and with the pilot pressure override valve, the supply pressure, wherein the sensed signals include: a circuit pressure signal based on the circuit pressure sensed by the swing circuit pressure sensor; and a sensed swing speed signal based on a swing speed of the swinging element sensed by one or more machine sensors.
+title
+    Hydraulic circuit for a swing system in a machine
+similar_document
+25
+    Publication,Publication Date,Title
+    EP2466018B1,2019-11-13,Closed loop drive circuit with external brake assist
+    US20130000290A1,2013-01-03,Energy recovery system having accumulator and variable relief
+    US9618014B2,2017-04-11,Implement system having hydraulic start assist
+    US20080104953A1,2008-05-08,Arrangement And A Method For Controlling A Work Vehicle
+    EP1980674B1,2012-03-28,Hydraulic control device of working machine
+    US9556591B2,2017-01-31,Hydraulic system recovering swing kinetic and boom potential energy
+    US9809958B2,2017-11-07,Engine assist by recovering swing kinetic energy
+    EP3203087B1,2023-03-01,Work vehicle hydraulic drive system
+    US9932993B2,2018-04-03,System and method for hydraulic energy recovery
+    US9328480B2,2016-05-03,Hydraulic excavator
+    US9951795B2,2018-04-24,Integration of swing energy recovery and engine anti-idling systems
+    JP6959899B2,2021-11-05,Wheel loader
+    JP6383676B2,2018-08-29,Work machine
+    US9598837B2,2017-03-21,Excavation system providing automated stall correction
+    JP5096417B2,2012-12-12,Hydraulic control equipment for construction machinery
+    KR20200074120A,2020-06-24,Excavator Clamp Tool
+    US11198987B2,2021-12-14,Hydraulic circuit for a swing system in a machine
+    US20160152261A1,2016-06-02,Hydraulic system with margin based flow supplementation
+    JP4509874B2,2010-07-21,Hybrid system for work machines
+    US10914053B2,2021-02-09,Work machine
+    WO2023171295A1,2023-09-14,Control device for construction machine and construction machine equipped with same
+    US11608610B2,2023-03-21,Control of a hydraulic system
+    US20170044737A1,2017-02-16,Recovering energy from hydraulic system of a machine
+    JP2004036839A,2004-02-05,Hydraulic pressure controller of construction machinery
+
+patent_application
+    NoExist
+patent_priority_application
+5
+    Application,Priority date,Filing date,Title
+    CN202180029581.XA,2020-04-24,2021-03-12,Hydraulic circuit for a swing system in a machine
+    JP2022564080A,2020-04-24,2021-03-12,Hydraulic circuits for machine slewing systems
+    EP21793033.8A,2020-04-24,2021-03-12,Hydraulic circuit for a swing system in a machine
+    AU2021258813A,2020-04-24,2021-03-12,Hydraulic circuit for a swing system in a machine
+
+inventor_number
+    6
+classfication_nums
+    39
+classfication_items
+278
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,7,/,0,0
+    F,1,5,B,7,/,0,0,5
+    F,1,5,B,7,/,0,0,6
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,2,1
+    E,0,2,F,9,/,2,2,2,5
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,0,2,5
+    E,0,2,F,9,/,2,0,5
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,2,1
+    E,0,2,F,9,/,2,2,3,2
+    E,0,2,F,9,/,2,2,3,5
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,7,8
+    E,0,2,F,9,/,2,2,8,9
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,7,8
+    E,0,2,F,9,/,2,2,9,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F,1,5,B,1,1,/,0,2
+    F,1,5,B,1,1,/,0,4
+    F,1,5,B,1,1,/,0,4,2
+    F,1,5,B,1,1,/,0,4,2,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F,1,5,B,1,1,/,0,2
+    F,1,5,B,1,1,/,0,4
+    F,1,5,B,1,1,/,0,4,6
+    F,1,5,B,1,1,/,0,4,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,5,/,0,0
+    F,1,5,B,1,5,/,0,2
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,1,/,0,0
+    F,1,5,B,2,1,/,0,8
+    F,1,5,B,2,1,/,0,8,2
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,1,/,0,0
+    F,1,5,B,2,1,/,0,8
+    F,1,5,B,2,1,/,0,8,7
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,1,/,0,0
+    F,1,5,B,2,1,/,1,4
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,7,/,0,0
+    F,1,5,B,7,/,0,0,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,7,/,0,0
+    F,1,5,B,7,/,0,0,8
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,0,2,5
+    E,0,2,F,9,/,2,0,2,9
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,0,7
+    F,1,5,B,2,2,1,1,/,2,0,5,1,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,0,7
+    F,1,5,B,2,2,1,1,/,2,0,5,2,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,3
+    F,1,5,B,2,2,1,1,/,2,0,5,4,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,3
+    F,1,5,B,2,2,1,1,/,2,0,5,6,1
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,3
+    F,1,5,B,2,2,1,1,/,2,0,5,6,9
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,7
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,5,0
+    F,1,5,B,2,2,1,1,/,5,0,5
+    F,1,5,B,2,2,1,1,/,5,0,5,0,9
+    F,1,5,B,2,2,1,1,/,5,0,5,1,8
+    F,1,5,B,2,2,1,1,/,5,0,5,2,7
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,5,0
+    F,1,5,B,2,2,1,1,/,5,1,5
+    F,1,5,B,2,2,1,1,/,5,1,5,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,5,0
+    F,1,5,B,2,2,1,1,/,5,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,0,6
+    F,1,5,B,2,2,1,1,/,6,3,0,9
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,0,6
+    F,1,5,B,2,2,1,1,/,6,3,1,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,3,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,4,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,6,5
+    F,1,5,B,2,2,1,1,/,6,6,5,2
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,6,5
+    F,1,5,B,2,2,1,1,/,6,6,5,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,6,5
+    F,1,5,B,2,2,1,1,/,6,6,5,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,6,5
+    F,1,5,B,2,2,1,1,/,6,6,5,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,0,5
+    F,1,5,B,2,2,1,1,/,7,0,5,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,1
+    F,1,5,B,2,2,1,1,/,7,1,1,4
+    F,1,5,B,2,2,1,1,/,7,1,2,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,5,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,6
+    F,1,5,B,2,2,1,1,/,7,6,1
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,8,0
+    F,1,5,B,2,2,1,1,/,8,5
+    F,1,5,B,2,2,1,1,/,8,5,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,8,0
+    F,1,5,B,2,2,1,1,/,8,8
+
+application_events
+6
+    2021-03-12,Application filed by Caterpillar Inc.
+    2021-03-12,Priority to CN202180029581.XA
+    2021-03-12,Priority to JP2022564080A
+    2021-03-12,Priority to EP21793033.8A
+    2021-03-12,Priority to AU2021258813A
+    2021-10-28,Publication of WO2021216214A1
+
+active_area
+5
+    U,S
+    C,N
+    J,P
+    A,U
+    E,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    US16/858,367,2020-04-24,Hydraulic circuit for a swing system in a machine
+    US16/858,367,2020-04-24,
+
+legal_event
+6
+    Date,Code,Title,Description
+    2021-12-08,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 21793033Country of ref document: EPKind code of ref document: A1
+    2022-10-20,ENP,Entry into the national phase,Ref document number: 2022564080Country of ref document: JPKind code of ref document: A
+    2022-11-24,ENP,Entry into the national phase,Ref document number: 2021258813Country of ref document: AUDate of ref document: 20210312Kind code of ref document: A
+    2022-11-25,ENP,Entry into the national phase,Ref document number: 2021793033Country of ref document: EPEffective date: 20221124
+    2022-11-25,NENP,Non-entry into the national phase,Ref country code: DE
+

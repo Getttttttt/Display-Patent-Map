@@ -1,0 +1,270 @@
+ID
+    US9688160B2
+citation_exist
+    Patent Citations (12)
+citation_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5469816A                      *,1993-09-02,1995-11-28,Nippondenso Co., Ltd.,Control mechanism for an electric generator motor in an internal combustion engine
+    US5519312A                      *,1993-11-29,1996-05-21,Alfred University,Hybrid system of fuel cell and superconducting magnetic energy storage device
+    DE19923738A1,1999-05-22,2000-11-23,Daimler Chrysler Ag,Fuel cell system and method for electrical supply in a vehicle with such a system
+    DE10055291A1,1999-11-09,2001-05-17,Gen Motors Corp,Fuel cell system operation, e.g. for electric vehicle supply, involves generating load reduction signal if cell voltage less than first voltage, greater than or equal to smaller second value or second signal if less than second value
+    US6380638B1                      *,1998-03-11,2002-04-30,Daimlerchrysler Ag,Hybrid propulsion for fuel-cell cars
+    EP1286405A1,2000-05-15,2003-02-26,Toyota Jidosha Kabushiki Kaisha,Supply of electric power using fuel cell and chargeable/dischargeable storage
+    DE10261418A1,2002-12-30,2004-07-15,Daimlerchrysler Ag,Operation of vehicle fuel cell has MOS FET switches in series with cell and battery that are independently operated
+    US6972159B2                      *,2001-05-23,2005-12-06,Daimlerchrysler Ag,Fuel cell system
+    US20070222413A1,2006-03-22,2007-09-27,Honda Motor Co., Ltd.,Electric vehicle
+    DE102007026329A1,2006-06-09,2007-12-27,GM Global Technology Operations, Inc., Detroit,Improved control concept for hybrid fuel cell systems
+    DE112006000895T5,2005-04-22,2008-05-08,GM Global Technology Operations, Inc., Detroit,DC / DC-Loose coupling, adapted batteries to fuel cells
+    US20090105895A1,2005-08-04,2009-04-23,Masahiro Shige,Fuel Cell Vehicle
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (3)
+              
+
+
+citedBy_exist
+    
+              Cited By (18)
+              
+
+
+citedBy_infor
+20
+    Publication number,Priority date,Publication date,Assignee,Title
+    DE102018218320A1,2018-10-26,2020-04-30,Audi Ag,Electrical energy system with fuel cells
+    Family To Family Citations,,,,
+    CA2913376C,2013-05-24,2021-11-02,Hydrogenics Corporation,System and method for controlling voltage of a fuel cell using a recirculation line
+    DE102013214421A1,2013-07-24,2015-02-19,Bayerische Motoren Werke Aktiengesellschaft,Method for coupling at least one secondary energy source to a power supply network, in particular vehicle electrical system
+    US9806356B2                      *,2014-09-24,2017-10-31,GM Global Technology Operations LLC,Systems and methods for controlling oxygen concentration in a cathode of a fuel cell system
+    DE112015006519T5                      *,2015-05-08,2018-02-15,Bayerische Motoren Werke Aktiengesellschaft,Metal-gas battery system with a gas cleaning device for vehicles
+    DE102016203866A1,2016-03-09,2017-09-14,Volkswagen Ag,Fuel cell system and method for operating a fuel cell system
+    KR102371598B1                      *,2017-04-26,2022-03-07,현대자동차주식회사,Apparatus for controlling battery charge, system having the same and method thereof
+    CN108323491A                      *,2017-12-25,2018-07-27,东风农业装备（襄阳）有限公司,Electronic fog machine and the method for maintaining electronic fog machine in running order
+    DE102018218327A1                      *,2018-10-26,2020-04-30,Audi Ag,Supply device with a fuel cell device and a battery and method for operating a supply device
+    CN111969229B                      *,2019-01-07,2021-08-31,中氢新能技术有限公司,Control system for exhaust valve angle of methanol fuel cell
+    DE102019105016B4                      *,2019-02-27,2020-10-22,Deutsches Zentrum für Luft- und Raumfahrt e.V.,Fuel cell system
+    CN110293848B                      *,2019-06-29,2021-01-19,潍柴动力股份有限公司,Power and torque setting method and device
+    JP7051775B2                      *,2019-09-27,2022-04-11,本田技研工業株式会社,Fuel cell system, fuel cell system control method, and program
+    CN111152691B                      *,2020-01-10,2022-02-18,风氢扬氢能科技(上海)有限公司,Power control method, device and system, vehicle control unit and storage medium
+    US11664514B2                      *,2021-03-30,2023-05-30,Ford Global Technologies, Llc,Fuel cell voltage response by controlling air flow on cathodes
+    EP4102601A1                      *,2021-06-07,2022-12-14,Volvo Truck Corporation,A system for supplying compressed air to a fuel cell system
+    CN113400945A                      *,2021-07-21,2021-09-17,安徽江淮汽车集团股份有限公司,Energy recovery control method for pure electric vehicle
+    CN114476005A                      *,2022-01-27,2022-05-13,广东逸动科技有限公司,Ship and hydrogen energy power system thereof
+
+abstract
+    A method of operating an electric system of a motor vehicle, consisting of a fuel cell system, an accumulator and an electric driving motor is provided. Without implementing an electric voltage conversion and therefore without an electric voltage converter, as a function of the level of the electric voltage made available by the fuel cell system and by the accumulator and the electric power demanded by the electric motor, a first switching element in the connection between the fuel cell system and a node point electrically connected with the accumulator and the electric motor, as well as a second switching element in the connection between the accumulator and this node point are opened or closed as needed. This is done such that the power requirement of the electric motor is met primarily from the fuel cell system, and in an auxiliary fashion, additionally from the accumulator. If the electric power offered by the fuel cell system exceeds the electric power demanded by the electric motor, the excess power will be fed to the accumulator for as long as its permissible charging current is not exceeded and the accumulator still has a defined residual storage capacity.
+title
+    Operating method for an electric energy system of a motor vehicle comprising a fuel cell system, an accumulator and an electric motor
+similar_document
+26
+    Publication,Publication Date,Title
+    US9688160B2,2017-06-27,Operating method for an electric energy system of a motor vehicle comprising a fuel cell system, an accumulator and an electric motor
+    US7420339B2,2008-09-02,Regenerative braking system of fuel cell vehicle using super capacitor
+    KR102478086B1,2022-12-16,Fuel cell vehicle system and control method of the same
+    US7863838B2,2011-01-04,Power supply system provided with a plurality of power supplies, and vehicle provided with such power supply system
+    US8947039B2,2015-02-03,Solar charged hybrid power system
+    JP4778492B2,2011-09-21,Method for improving power rise transient response in fuel cell systems
+    US8119298B2,2012-02-21,Fuel cell system and mobile body
+    JP5308268B2,2013-10-09,Power supply system
+    CN110091721B,2022-08-19,Passive structure for secondary battery with two different chemical compositions
+    JP5005809B2,2012-08-22,Power conversion control method and control device for fuel cell-battery hybrid electric vehicle
+    KR101016396B1,2011-02-21,Fuel cell system and moving body
+    US20100104906A1,2010-04-29,Fuel cell power supply device
+    US8568912B2,2013-10-29,Redox flow battery
+    CN105609831B,2018-03-30,The method for controlling of operation of fuel cell system and fuel cell system
+    JP2002118979A,2002-04-19,Dc power supply with fuel cell
+    CA2663708A1,2008-09-25,Fuel cell system
+    US20080085430A1,2008-04-10,Battery integration and control in an auxiliary power unit powered by a solid oxide fuel cell system
+    CN101868881A,2010-10-20,Fuel cell system
+    Andreasen et al.,2008,Directly connected series coupled HTPEM fuel cell stacks to a Li-ion battery DC bus for a fuel cell electrical vehicle
+    Burnett et al.,2005,A power system combining batteries and supercapacitors in a solar/hydrogen hybrid electric vehicle
+    CN111509266B,2023-05-02,Fuel cell system
+    JP6774011B2,2020-10-21,Fuel cell system
+    JP2009277584A,2009-11-26,Fuel cell system
+    US8658324B2,2014-02-25,Fuel cell system
+    JP6485871B2,2019-03-20,Fuel cell system
+
+patent_application
+2
+    Application,Priority date,Filing date,Relation,Title
+    PCT/EP2012/065024,2011-09-26,2012-08-01,Continuation,Operating method for an electric energy system of a motor vehicle comprising a fuel cell system, an accumulator and an electric motor
+
+patent_priority_application
+    NoExist
+inventor_number
+    6
+classfication_nums
+    26
+classfication_items
+131
+    B,6,0,L,1,1,/,1,8,8,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,3
+    B,6,0,L,1,1,/,1,8,6,2
+    B,6,0,L,1,1,/,1,8,8,3
+    B,6,0,L,1,1,/,1,8,9,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,7,0
+    B,6,0,L,5,0,/,7,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,6
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,6,/,0,0
+    H,0,1,M,1,6,/,0,0,3
+    H,0,1,M,1,6,/,0,0,6
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,0,8,2
+    H,0,1,M,8,/,0,4,0,8,9
+    H,0,1,M,8,/,0,4,0,9,7
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,0,8,2
+    H,0,1,M,8,/,0,4,2,0,1
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,9,8
+    H,0,1,M,8,/,0,4,3,1,3
+    H,0,1,M,8,/,0,4,3,8
+    H,0,1,M,8,/,0,4,3,9,5
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,9,8
+    H,0,1,M,8,/,0,4,3,1,3
+    H,0,1,M,8,/,0,4,5,3,7
+    H,0,1,M,8,/,0,4,5,4,4
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,9,8
+    H,0,1,M,8,/,0,4,6,9,4
+    H,0,1,M,8,/,0,4,7,9,1
+    H,0,1,M,8,/,0,4,7,9,8
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,9,8
+    H,0,1,M,8,/,0,4,6,9,4
+    H,0,1,M,8,/,0,4,8,5,8
+    H,0,1,M,8,/,0,4,8,6,5
+    H,0,1,M,8,/,0,4,8,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,3,0
+    Y,0,2,E,6,0,/,5,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,4,4
+    Y,0,2,T,1,0,/,7,0,5
+    Y,0,2,T,9,0,/,3,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,4,0
+
+application_events
+7
+    2014-03-25,Application filed by Bayerische Motoren Werke AG
+    2014-03-25,Assigned to BAYERISCHE MOTOREN WERKE AKTIENGESELLSCHAFT
+    2014-07-24,Publication of US20140203636A1
+    2017-06-27,Application granted
+    2017-06-27,Publication of US9688160B2
+    Status,Active
+    2034-02-17,Adjusted expiration
+
+active_area
+4
+    C,N
+    W,O
+    E,P
+    U,S
+
+not_active_area
+1
+    D,E
+
+patent_application_claiming_priority
+5
+    Application,Filing date,Title
+    DE102011083453,2011-09-26,
+    DE102011083453A,2011-09-26,Operating method of an electrical energy system of a motor vehicle
+    DE102011083453.2,2011-09-26,
+    PCT/EP2012/065024,2012-08-01,Operating method for an electric energy system of a motor vehicle comprising a fuel cell system, an accumulator and an electric motor
+
+legal_event
+4
+    Date,Code,Title,Description
+    2014-03-25,AS,Assignment,Owner name: BAYERISCHE MOTOREN WERKE AKTIENGESELLSCHAFT, GERMAFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:GOETZ, GEORG;BURCKHARDT, SYLVESTER;BAUER, MICHAEL;AND OTHERS;SIGNING DATES FROM 20140214 TO 20140313;REEL/FRAME:032521/0163
+    2017-06-07,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2020-09-24,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

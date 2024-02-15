@@ -1,0 +1,478 @@
+ID
+    US8996220B2
+citation_exist
+    Patent Citations (9)
+citation_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH10178705A,1996-12-19,1998-06-30,Toyota Autom Loom Works Ltd,Electric vehicle
+    JPH116449A,1997-06-16,1999-01-12,Denso Corp,Hybrid car control device
+    JP2005151797A,2003-10-22,2005-06-09,Nissan Motor Co Ltd,Vibration-damping control unit of electric motor drive vehicle
+    JP2013009513A                      *,2011-06-24,2013-01-10,Honda Motor Co Ltd,Vehicle driving control device
+    Family To Family Citations,,,,
+    JP3189865B2                      *,1995-08-18,2001-07-16,株式会社安川電機,Mechanical vibration detection device and vibration control device
+    JP3508742B2                      *,2001-06-18,2004-03-22,日産自動車株式会社,Vehicle vibration suppression control device using electric motor
+    JP2003020972A                      *,2001-07-04,2003-01-24,Hitachi Unisia Automotive Ltd,Power generation control device of hybrid vehicle
+    JP2006211872A                      *,2005-01-31,2006-08-10,Yaskawa Electric Corp,Motor controller and its control method
+    WO2007007387A1                      *,2005-07-11,2007-01-18,Hitachi, Ltd.,Controller of field winding type synchronous motor, electric drive system, electric four wheel driving vehicle, and hybrid automobile
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (16)
+              
+
+
+citedBy_infor
+18
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20160375894A1                      *,2013-11-28,2016-12-29,Toyota Jidosha Kabushiki Kaisha,Control device for hybrid vehicle
+    US10994721B2,2016-09-13,2021-05-04,Ford Global Technologies, Llc,Engine and motor control during wheel torque reversal in a hybrid vehicle
+    Family To Family Citations,,,,
+    JP5962335B2                      *,2012-08-29,2016-08-03,株式会社デンソー,Hybrid vehicle motor control device
+    JP5850035B2                      *,2013-12-12,2016-02-03,トヨタ自動車株式会社,Control device for hybrid vehicle
+    FR3022586B1                      *,2014-06-24,2019-06-07,Renault S.A.S.,METHOD FOR ESTIMATING THE TORQUE OF A THERMAL MOTOR
+    KR101601473B1                      *,2014-08-25,2016-03-09,현대자동차주식회사,Device and method for controlling battery SOC of hybrid vehicle
+    DE202015004898U1                      *,2015-07-08,2016-10-13,GM Global Technology Operations LLC (n. d. Ges. d. Staates Delaware),Hybrid drive system with compensation for engine speed vibrations
+    US9885305B2                      *,2016-02-24,2018-02-06,Ford Global Technologies, Llc,Method for reducing cylinder air-fuel ratio imbalance
+    BR112018075243B1                      *,2016-06-08,2022-12-06,Nissan Motor Co., Ltd Emp,CONTROL METHOD FOR A HYBRID VEHICLE AND CONTROL DEVICE FOR A HYBRID VEHICLE
+    JP6143984B1                      *,2016-07-11,2017-06-07,三菱電機株式会社,Inverter device
+    DE102017214074A1                      *,2017-08-11,2019-02-14,Robert Bosch Gmbh,Method for operating an electrical machine, device, drive device, motor vehicle
+    GB2567236B                      *,2017-10-09,2020-07-22,Ford Global Tech Llc,A range extended plug-in hybrid electric vehicle
+    JP6731010B2                      *,2018-02-23,2020-07-29,本田技研工業株式会社,Electric vehicle
+    EP3765342A4                      *,2018-03-14,2021-12-01,Cummins, Inc.,Systems and methods for optimizing engine operations in gensets
+    JP7006779B2                      *,2018-05-09,2022-01-24,日産自動車株式会社,Motor control method and motor control device
+    JP7322746B2,2020-02-21,2023-08-08,トヨタ自動車株式会社,Vehicle speed control device
+
+abstract
+    A torque control device for use in a hybrid vehicle equipped with a generator driven by an internal combustion engine has a command value calculator that calculates an engine torque command value and a rotation speed command value of the generator based on a target generation power of the generator set in accordance with a running state of the hybrid vehicle, a generator torque command value calculator that calculates a generator torque command value to cause a rotation speed calculation value to match the rotation speed command value, a generator controller that controls the generator based on the generator torque command value, a rotation speed detector that detects a rotation speed detection value of the generator, and a pulsation removal filter.
+title
+    Torque control device
+similar_document
+24
+    Publication,Publication Date,Title
+    US8996220B2,2015-03-31,Torque control device
+    US9018870B2,2015-04-28,Control device
+    JP4270079B2,2009-05-27,Driving force control device
+    EP2433841B1,2023-05-10,Device for controlling electric vehicle
+    JP4062666B2,2008-03-19,Torque fluctuation control device and torque fluctuation control program
+    EP1439296B1,2010-09-01,Torque transmission device and method of reducing effects of torque pulsations
+    KR101749469B1,2017-06-20,Control device for hybrid vehicle
+    WO2012043538A1,2012-04-05,Control device
+    JP5949906B2,2016-07-13,Vehicle control device
+    KR101957120B1,2019-03-11,A control method of a hybrid vehicle and a control device of a hybrid vehicle
+    US20140207323A1,2014-07-24,Control device
+    JP6500872B2,2019-04-17,Drive and car
+    JP6326755B2,2018-05-23,Electric vehicle power generation control device
+    KR101673797B1,2016-11-07,Series mode control method of hybrid electric vehicle
+    JP5553162B2,2014-07-16,Control device
+    JP2005354774A,2005-12-22,Drive force control device
+    JP6007475B2,2016-10-12,Torque control device
+    JP7006779B2,2022-01-24,Motor control method and motor control device
+    JP2023023270A,2023-02-16,Vehicle control method and vehicle control device
+    JP2023023269A,2023-02-16,Vehicle control method and vehicle control device
+    JP6919494B2,2021-08-18,Crank angle control method and crank angle control device for hybrid vehicles
+    JP2018199373A,2018-12-20,Crank angle estimation method of hybrid vehicle, crank angle control method of hybrid vehicle, and crank angle estimation device of hybrid vehicle
+    JP2018079890A,2018-05-24,Vehicle control device
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    57
+classfication_items
+349
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,4
+    B,6,0,W,1,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,2,0
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,9,/,0,0
+    H,0,2,P,9,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B,6,0,L,2,2,4,0,/,6,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,1,0
+    B,6,0,L,2,2,7,0,/,1,4
+    B,6,0,L,2,2,7,0,/,1,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,1,0
+    B,6,0,L,2,2,7,0,/,1,4
+    B,6,0,L,2,2,7,0,/,1,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,1,0
+    B,6,0,L,2,2,7,0,/,1,4
+    B,6,0,L,2,2,7,0,/,1,4,7
+    B,6,0,W,2,0,/,1,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,2,0
+    B,6,0,W,2,0,3,0,/,2,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,2,0,5,0,/,0,0,0,1
+    B,6,0,W,2,0,5,0,/,0,0,0,2
+    B,6,0,W,2,0,5,0,/,0,0,0,8
+    B,6,0,W,2,0,5,0,/,0,0,1,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,2,0,5,0,/,0,0,0,1
+    B,6,0,W,2,0,5,0,/,0,0,1,9
+    B,6,0,W,2,0,5,0,/,0,0,2,8
+    B,6,0,W,2,0,5,0,/,0,0,3,7
+    B,6,0,W,2,0,5,0,/,0,0,3,9
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,2,0,5,0,/,0,0,0,1
+    B,6,0,W,2,0,5,0,/,0,0,1,9
+    B,6,0,W,2,0,5,0,/,0,0,4,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,2,0,5,0,/,0,0,0,1
+    B,6,0,W,2,0,5,0,/,0,0,4,3
+    B,6,0,W,2,0,5,0,/,0,0,5,2
+    B,6,0,W,2,0,5,0,/,0,0,5,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,2,0,5,0,/,0,0,0,1
+    B,6,0,W,2,0,5,0,/,0,0,4,3
+    B,6,0,W,2,0,5,0,/,0,0,5,2
+    B,6,0,W,2,0,5,0,/,0,0,5,4
+    B,6,0,W,2,0,5,0,/,0,0,5,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,6
+    B,6,0,W,2,5,1,0,/,0,6,3,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,6
+    B,6,0,W,2,5,1,0,/,0,6,9,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,8
+    B,6,0,W,2,5,1,0,/,0,8,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,8
+    B,6,0,W,2,5,1,0,/,0,8,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,2,/,0,0
+    B,6,0,W,2,5,5,2,/,1,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,6
+    B,6,0,W,2,7,1,0,/,0,6,6,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,0,4
+    Y,1,0,S,9,0,3,/,9,0,6
+
+application_events
+7
+    2012-06-20,Application filed by Nissan Motor Co Ltd
+    2014-01-30,Assigned to NISSAN MOTOR CO., LTD.
+    2014-07-03,Publication of US20140188319A1
+    2015-03-31,Application granted
+    2015-03-31,Publication of US8996220B2
+    Status,Active
+    2032-06-20,Anticipated expiration
+
+active_area
+5
+    J,P
+    C,N
+    W,O
+    E,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2011-171554,2011-08-05,
+    JP2011171554A,2011-08-05,Torque control device
+    PCT/JP2012/065709,2012-06-20,Torque control device
+
+legal_event
+5
+    Date,Code,Title,Description
+    2014-01-30,AS,Assignment,Owner name: NISSAN MOTOR CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:OHNO, SHO;KATSUMATA, YUJI;SIGNING DATES FROM 20140117 TO 20140121;REEL/FRAME:032090/0143
+    2015-03-11,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2018-09-13,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+    2022-09-14,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+

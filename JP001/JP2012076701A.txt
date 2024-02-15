@@ -1,0 +1,261 @@
+ID
+    JP2012076701A
+citation_exist
+    Patent Citations (6)
+citation_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH0958295A                      *,1995-08-28,1997-03-04,Toyota Motor Corp,車両用トルクアシスト装置
+    JP2000320663A                      *,1999-05-13,2000-11-24,Toyota Motor Corp,駆動装置用制御装置
+    JP4158122B2                      *,2006-05-25,2008-10-01,アイシン・エィ・ダブリュ株式会社,ハイブリッド駆動装置
+    Family To Family Citations,,,,
+    DE4324010C2                      *,1993-07-17,1995-05-11,Daimler Benz Ag,Verfahren zur Steuerung der Drehmomentabgabe eines ein Fahrzeug antreibenden Hybridantriebes
+    JP3556893B2,2000-10-11,2004-08-25,本田技研工業株式会社,動力伝達機構
+    JP4108265B2,2000-11-22,2008-06-25,本田技研工業株式会社,車両用クラッチの接続状態判定装置およびこれを用いた変速制御装置
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN108859863A                      *,2017-05-16,2018-11-23,丰田自动车株式会社,驱动力控制装置
+    Family To Family Citations,,,,
+    GB2545733B,2015-12-23,2019-04-17,Protean Electric Ltd,A control system for a vehicle
+    JP7020144B2                      *,2018-01-30,2022-02-16,トヨタ自動車株式会社,電動車両及び電動車両の制御方法
+    CN110154784B                      *,2019-06-02,2020-05-19,吉林大学,一种驾驶员需求驱动扭矩在线确定方法
+
+abstract
+    【課題】走行モードの切り替えを運転者の手動操作に委ねる車両のＳＯＣ量の低下を抑えること。【解決手段】モータ／ジェネレータ２０の動力で駆動力を発生させるＥＶ走行モードの当該モータ／ジェネレータ２０の出力制御を当該ＥＶ走行モードに対応させた出力許可値を上限にして行うハイブリッドＥＣＵ１００及びモータ／ジェネレータＥＣＵ１０２と、車速領域毎又はモータ回転数領域毎に設定された複数のＥＶ走行モードとモータ／ジェネレータ２０以外の動力で駆動力を発生させ且つ二次電池２５を充電させることが可能な非ＥＶ走行モードの中から所望の走行モードを運転者に手動で選択させるクラッチ５０、クラッチペダル５１及び変速操作装置７１と、を備え、車速又はモータ回転数の増減方向で隣り合うＥＶ走行モードの間の出力許可値を０又は略０に設定すること。【選択図】図１
+title
+    車両の制御システム
+similar_document
+26
+    Publication,Publication Date,Title
+    JP5454698B2,2014-03-26,ハイブリッド車両の制御装置
+    JP5382223B2,2014-01-08,ハイブリッド車両の制御装置
+    US10286898B2,2019-05-14,Control device for vehicle
+    JP6791027B2,2020-11-25,車両の制御装置
+    WO2012056857A1,2012-05-03,ハイブリッド車両のエンジン始動制御装置
+    JP5471829B2,2014-04-16,ハイブリッド車両のアクセルペダル踏力制御装置
+    JP4949290B2,2012-06-06,電動車両の駆動力制御装置
+    JP2007069787A,2007-03-22,ハイブリッド車両の減速制御装置
+    WO2011048636A1,2011-04-28,車両の制御装置
+    JP5918464B2,2016-05-18,ハイブリッド車両の制御装置
+    JP5476721B2,2014-04-23,ハイブリッド車両の制御装置
+    JP5691389B2,2015-04-01,ハイブリッド車両の制御装置
+    JP2012061898A,2012-03-29,車両の制御システム
+    JP5327177B2,2013-10-30,車両の制御システム
+    JP2011183847A,2011-09-22,車両の制御装置
+    JP2012062027A,2012-03-29,車両の制御システム
+    JP2012136191A,2012-07-19,車両の制御システム
+    JP2012076712A,2012-04-19,車両の制御装置
+    JP2008245517A,2008-10-09,電気自動車の制御装置
+    WO2014027501A1,2014-02-20,車両の制御装置及び車両の制御方法
+    WO2012131959A1,2012-10-04,車両の制御システム
+    JP2012090396A,2012-05-10,車両の駆動力制御装置
+    JP2012106536A,2012-06-07,車両の制御装置
+    JP5614216B2,2014-10-29,車両の制御システム
+    JP5396853B2,2014-01-22,ハイブリッド車両の回生制動力制御装置及び回生制動力制御方法
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    JP2010225936A,2010-10-05,2010-10-05,車両の制御システム
+    EP11183829A,2010-10-05,2011-10-04,Control system of vehicle
+
+inventor_number
+    10
+classfication_nums
+    24
+classfication_items
+146
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,0,8,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B,6,0,L,1,5,/,2,0,1,8
+    B,6,0,L,1,5,/,2,0,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,4
+    B,6,0,W,1,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,0,8,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,1,0
+    B,6,0,L,2,2,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+8
+    2010-10-05,Application filed by Toyota Motor Corp
+    2010-10-05,Priority to JP2010225936A
+    2011-10-04,Priority to EP11183829A
+    2012-04-19,Publication of JP2012076701A
+    2013-10-30,Application granted
+    2013-10-30,Publication of JP5327177B2
+    Status,Expired - Fee Related
+    2030-10-05,Anticipated expiration
+
+active_area
+0
+
+not_active_area
+2
+    J,P
+    E,P
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2010225936A,2010-10-05,車両の制御システム
+
+legal_event
+6
+    Date,Code,Title,Description
+    2012-11-07,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20121106
+    2013-06-18,TRDD,Decision of grant or rejection written,
+    2013-06-26,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20130625
+    2013-07-29,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20130708
+    2018-08-02,LAPS,Cancellation because of no payment of annual fees,
+

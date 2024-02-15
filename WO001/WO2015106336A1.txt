@@ -1,0 +1,225 @@
+ID
+    WO2015106336A1
+citation_exist
+    Patent Citations (3)
+citation_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    US8214122B2                      *,2008-04-10,2012-07-03,GM Global Technology Operations LLC,Energy economy mode using preview information
+    WO2012139778A2                      *,2011-04-15,2012-10-18,Nissan Motor Co., Ltd.,Improvements in electrical connections
+    US20130268149A1                      *,2012-04-05,2013-10-10,Mitsubishi Electric Corporation,Electrically driven vehicle and charge control method for electrically driven vehicle
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (6)
+              
+
+
+citedBy_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN107128184A                      *,2016-02-26,2017-09-05,上海恒劲动力科技有限公司,Fuel cell and energy-storage battery hybrid electric vehicle control method and car system
+    DE102017008607A1,2016-09-22,2018-03-22,Scania Cv Ab,Method and system for controlling energy consumption in connection with a wireless charging of a vehicle "
+    WO2021219809A1                      *,2020-04-30,2021-11-04,Dipp-R Ab,A power supply system for an electric vehicle and a cargo box
+    CN113784868A                      *,2019-09-06,2021-12-10,株式会社Lg新能源,Battery management apparatus, battery management method, battery pack, and electric vehicle
+    DE102021128751A1,2021-11-04,2023-05-04,Zf Cv Systems Global Gmbh,Method for operating a commercial vehicle with a fuel cell system and an electric motor drive, as well as a commercial vehicle with the same
+    Family To Family Citations,,,,
+    DE102018105365A1,2018-03-08,2018-08-30,FEV Europe GmbH,Vehicle with a fuel cell
+
+abstract
+    The system comprises an onboard controller that receives data from at least one vehicle motion sensor and signals an electrical charger to charge an onboard battery pack when a vehicle motion parameter in the data indicates the vehicle is in a condition for efficient electrical charging. The controller receives data from a vehicle speed sensor, and signals an electrical charger to charge an onboard battery pack when a vehicle speed parameter in the data indicates the vehicle is moving below a threshold speed for efficient electrical charging, for example when there is no electrical drain load on the battery pack from the drivetrain, and preferably not from electrically powered accessories on the vehicle as well. The charging would be deactivated when the state-of-charge of the battery pack was already such that commencement of or continuation of charging would be superfluous or detrimental to the battery pack.
+title
+    Electric vehicle generator opportunity charging control system
+similar_document
+26
+    Publication,Publication Date,Title
+    US11766951B2,2023-09-26,Vehicle energy management system and related methods
+    US10906406B1,2021-02-02,Vehicle weight estimation system and related methods
+    US10245972B2,2019-04-02,Trailer-based energy capture and management
+    CN103770776B,2017-11-03,Motor vehicle driven by mixed power is set to postpone pure electric operating
+    EP3013625B1,2023-04-12,Improvements relating to range prediction in electric vehicles
+    WO2015106336A1,2015-07-23,Electric vehicle generator opportunity charging control system
+    CN103332122B,2015-09-16,Vehicular system
+    CN106004471B,2021-07-02,Battery thermal conditioning to extend battery life in electric vehicles
+    US11027624B2,2021-06-08,Electric vehicle charging by adjusting charger current based on battery chemistry
+    CN103958260A,2014-07-30,Electric vehicle with range extender
+    US10077071B2,2018-09-18,Electric vehicle power steering pump control system
+    US20140277931A1,2014-09-18,Vehicle power systems and methods employing fuel cells
+    CN107206888B,2020-10-23,Electric propulsion system for a vehicle
+    CN105270197A,2016-01-27,Vehicle system with battery boost and bypass control
+    US20220388369A1,2022-12-08,Interface system for connecting a vehicle and a transport climate control system
+    US20110114403A1,2011-05-19,Powertrain for hybrid vehicle
+    CN112644330A,2021-04-13,Power saving control associated with mobile generator using vehicle
+    CN110901424A,2020-03-24,Transient battery power management
+    US10654366B2,2020-05-19,Method for managing the charge state of a traction battery of a hybrid vehicle
+    US11677258B2,2023-06-13,High voltage winch system leveraging hybrid electric vehicle architecture
+    US11597289B2,2023-03-07,Electrified vehicle control of bi-directional DC/DC converter for high voltage power assist from low voltage system
+    CN112549985B,2023-11-17,Electrically driven vehicle, powertrain, and method of integrated vehicle control during towing
+    CN116494778A,2023-07-28,Coordinated control of vehicle and trailer motors
+    CN114502413A,2022-05-13,Plug-in electric vehicle utilizing derated traction control during system failure
+    CN112549985A,2021-03-26,Logic for integrated vehicle control during electric drive vehicle, powertrain, and towing
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    20
+classfication_items
+121
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B,6,0,L,5,0,/,6,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,1,0
+    B,6,0,L,5,3,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,1,0
+    B,6,0,L,5,3,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,2,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,2
+    B,6,0,L,2,2,4,0,/,6,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,7,0
+    B,6,0,L,2,2,4,0,/,7,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+2
+    2014-12-03,Application filed by Thomson Power Inc.
+    2015-07-23,Publication of WO2015106336A1
+
+active_area
+1
+    W,O
+
+not_active_area
+1
+    C,A
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    CA2839758A,2014-01-20,Electric vehicle generator opportunity charging control system
+    CA2839758,2014-01-20,
+
+legal_event
+5
+    Date,Code,Title,Description
+    2015-09-02,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 14878633Country of ref document: EPKind code of ref document: A1
+    2016-07-20,NENP,Non-entry into the national phase,Ref country code: DE
+    2016-12-14,32PN,Ep: public notification in the ep bulletin as address of the adressee cannot be established,Free format text: NOTING OF LOSS OF RIGHTS PURSUANT TO RULE 112(1) EPC , EPO FORM 1205A DATED 20.10.2016
+    2017-05-10,122,Ep: pct application non-entry in european phase,Ref document number: 14878633Country of ref document: EPKind code of ref document: A1
+

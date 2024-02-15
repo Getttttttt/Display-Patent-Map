@@ -1,0 +1,156 @@
+ID
+    WO2019171836A1
+citation_exist
+    Patent Citations (5)
+citation_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH0840252A                      *,1994-07-28,1996-02-13,Jidosha Kiki Co Ltd,回生ブレーキ連動摩擦ブレーキシステム
+    JP2011072171A                      *,2009-08-28,2011-04-07,Toyota Motor Corp,車両用の駆動装置およびその制御方法
+    JP2013013198A                      *,2011-06-28,2013-01-17,Aisin Aw Co Ltd,回転電機制御装置
+    WO2014084009A1                      *,2012-11-29,2014-06-05,富士電機株式会社,電動機の制御装置
+    JP2015198463A                      *,2014-03-31,2015-11-09,アイシン・エィ・ダブリュ株式会社,インバータ制御装置
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN114683955A                      *,2022-04-08,2022-07-01,重庆金康赛力斯新能源汽车设计院有限公司,升压控制装置、方法及相关设备
+    Family To Family Citations,,,,
+
+abstract
+    バッテリとインバータとの接続が切れた場合でもモータのトルク制御を継続して行い、バッテリとインバータが再接続したときもモータのトルク制御をし続けることのできる車両制御装置を実現する。車両の駆動力を発生させるモータ101と、スイッチング素子2-7により構成され、モータ101を駆動するインバータ回路1と、インバータ回路1に接続され、モータ101を駆動する電力を供給するバッテリ201と、バッテリ201とインバータ回路1との間に接続されるコンデンサ29と、バッテリ201とコンデンサ29との間に接続されるコンタクタ202と、制御部51とを備える。制御部51は、コンタクタ202がオフ状態である場合、インバータ回路1とモータ101との間の電圧がコンデンサ29側に印加される電圧に近づくように、インバータ回路1とモータ101との間で電流を流す。
+title
+    車両制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    US9903931B2,2018-02-27,Diagnostic device for voltage sensors
+    EP3281844B1,2020-04-29,Motor control device
+    US9054626B2,2015-06-09,Motor control apparatus
+    US7576511B2,2009-08-18,Motor control device and motor control method
+    US9548688B2,2017-01-17,Motor control apparatus
+    US9310440B2,2016-04-12,Disconnection detecting device for rotating electrical machine, method for detecting disconnection of rotating electrical machine
+    JP2019122238A,2019-07-22,モータ制御装置およびモータ制御装置の制御方法
+    JP2011050183A,2011-03-10,インバータ装置
+    JP4921883B2,2012-04-25,電気車制御装置
+    JP5316551B2,2013-10-16,回転機の制御装置
+    JP6173516B1,2017-08-02,電動機制御装置および電動機制御方法
+    US20190267925A1,2019-08-29,Rotating-electric-machine control apparatus and electric power steering control apparatus equipped with the rotating-electric-machine control apparatus
+    JP6216639B2,2017-10-18,モータ制御装置
+    JPH1169900A,1999-03-09,電気車の制御装置
+    WO2019171836A1,2019-09-12,車両制御装置
+    JP4784290B2,2011-10-05,モータ駆動装置
+    JP6203318B1,2017-09-27,電動機制御装置および電動機制御方法
+    WO2015001849A1,2015-01-08,電動車両の制動制御装置
+    JP2012114974A,2012-06-14,電気車制御装置
+    JP5325806B2,2013-10-23,鉄道車両駆動制御装置
+    JP6663368B2,2020-03-11,モータ制御装置
+    JP6657901B2,2020-03-04,回転機の制御装置
+    JP7047056B2,2022-04-04,モータ制御装置
+    JP2019050684A,2019-03-28,パワーステアリング装置の制御装置
+    WO2023073823A1,2023-05-04,回転機の制御装置及び電動パワーステアリング装置
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    JP2020504856A,2018-03-08,2019-01-31,車両制御装置
+
+inventor_number
+    5
+classfication_nums
+    9
+classfication_items
+51
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,9,/,0,0
+    B,6,0,L,9,/,1,6
+    B,6,0,L,9,/,1,8
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,1,/,0,0
+    H,0,2,P,2,1,/,2,2
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,7,/,0,0
+    H,0,2,P,2,7,/,0,4
+    H,0,2,P,2,7,/,0,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+3
+    2019-01-31,Application filed by 日立オートモティブシステムズ株式会社
+    2019-01-31,Priority to JP2020504856A
+    2019-09-12,Publication of WO2019171836A1
+
+active_area
+2
+    W,O
+    J,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2018042358,2018-03-08,
+    JP2018-042358,2018-03-08,
+
+legal_event
+5
+    Date,Code,Title,Description
+    2019-10-23,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 19763510Country of ref document: EPKind code of ref document: A1
+    2020-04-17,ENP,Entry into the national phase,Ref document number: 2020504856Country of ref document: JPKind code of ref document: A
+    2020-09-09,NENP,Non-entry into the national phase,Ref country code: DE
+    2021-03-17,122,Ep: pct application non-entry in european phase,Ref document number: 19763510Country of ref document: EPKind code of ref document: A1
+

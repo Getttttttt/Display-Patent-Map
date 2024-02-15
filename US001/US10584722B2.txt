@@ -1,0 +1,291 @@
+ID
+    US10584722B2
+citation_exist
+    Patent Citations (19)
+citation_infor
+21
+    Publication number,Priority date,Publication date,Assignee,Title
+    US6050090A                      *,1996-06-11,2000-04-18,Kabushiki Kaisha Kobe Seiko Sho,Control apparatus for hydraulic excavator
+    JP2000136806A,1998-11-04,2000-05-16,Komatsu Ltd,Pressure oil energy recovery equipment and pressure oil energy recovery/regeneration equipment
+    US6148548A                      *,1998-06-30,2000-11-21,Kabushiki Kaisha Kobe Seiko Sho,Construction machine
+    US6378303B1                      *,1998-07-07,2002-04-30,Kobe Steel, Ltd.,Hydraulic control device of a working machine
+    US7770697B2                      *,2005-02-25,2010-08-10,Mitsubishi Heavy Industries, Ltd.,Energy recovering method and system in hydraulic lift device of battery operated industrial trucks
+    WO2013099710A1,2011-12-28,2013-07-04,日立建機株式会社,Power regeneration device for work machine and work machine
+    US8510000B2                      *,2008-03-26,2013-08-13,Kayaba Industry Co., Ltd.,Hybrid construction machine
+    JP2013200023A,2012-03-26,2013-10-03,Kyb Co Ltd,Control device of construction machine
+    US8606452B2                      *,2010-02-12,2013-12-10,Kayaba Industry Co., Ltd.,Control system for hybrid construction machine
+    JP2014034827A,2012-08-09,2014-02-24,Kayaba Ind Co Ltd,Control device for hybrid construction machine
+    US8659177B2                      *,2011-02-03,2014-02-25,Hitachi Construction Machinery Co., Ltd.,Motive power regeneration system for working machine
+    KR20150016283A,2012-08-15,2015-02-11,카야바 고교 가부시기가이샤,Control system for hybrid construction machine
+    CN106030123A,2014-05-16,2016-10-12,日立建机株式会社,Hydraulic energy regeneration apparatus for machinery
+    US9803339B2                      *,2011-10-17,2017-10-31,Kobe Steel, Ltd.,Hydraulic control device and operating machine having the same
+    US10161108B2                      *,2014-01-28,2018-12-25,Hitachi Construction Machinery Co., Ltd.,Hydraulic fluid energy recovery system for work
+    US10179987B2                      *,2013-10-11,2019-01-15,Kyb Corporation,Control system for hybrid construction machine
+    US10221871B2                      *,2011-07-25,2019-03-05,Hitachi Construction Machinery Co., Ltd.,Construction machinery
+    Family To Family Citations,,,,
+    JP4867614B2                      *,2006-11-24,2012-02-01,コベルコ建機株式会社,Control device and work machine equipped with the same
+    US8655558B2                      *,2010-02-12,2014-02-18,Kayaba Industry Co., Ltd.,Control system for hybrid construction machine
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (5)
+              
+
+
+citedBy_exist
+    
+              Cited By (11)
+              
+
+
+citedBy_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    BR112017010895A2                      *,2014-11-24,2017-12-26,Xuzhou Heavy Machinery Co Ltd,method and system for recovering and utilizing crane, and crane operating energy
+    JP6316776B2                      *,2015-06-09,2018-04-25,日立建機株式会社,Hydraulic drive system for work machines
+    JP6360824B2                      *,2015-12-22,2018-07-18,日立建機株式会社,Work machine
+    JP6646547B2                      *,2016-08-22,2020-02-14,株式会社神戸製鋼所,Energy regenerating device and work machine equipped with the same
+    US10760246B2,2018-03-08,2020-09-01,Hitachi Construction Machinery Co., Ltd.,Work machine
+    CN112313380B                      *,2019-03-27,2022-07-26,日立建机株式会社,Working machine
+    WO2021225645A1                      *,2020-05-05,2021-11-11,Parker-Hannifin Corporation,Hydraulic dissipation of electric power
+    CN112281975A                      *,2020-10-20,2021-01-29,徐州徐工挖掘机械有限公司,Double-pump confluence control method for excavator
+    GB2604608A                      *,2021-03-08,2022-09-14,Bamford Excavators Ltd,Hydraulic system
+    WO2022209920A1                      *,2021-03-29,2022-10-06,日立建機株式会社,Work machine
+    DE102021210054A1,2021-09-13,2023-03-16,Robert Bosch Gesellschaft mit beschränkter Haftung,Energy efficient electric-hydraulic control arrangement
+
+abstract
+    A hydraulic fluid energy regeneration apparatus of a work machine includes: a regeneration hydraulic motor driven by a return hydraulic fluid; a first hydraulic pump mechanically connected to the regeneration hydraulic motor; a second hydraulic pump that delivers a hydraulic fluid for driving a hydraulic actuator; a confluence line that causes the hydraulic fluid delivered from the first hydraulic pump to join the hydraulic fluid delivered from the second hydraulic pump; a first adjuster configured to adjust the flow rate of the hydraulic fluid of the first hydraulic pump; and a second adjuster configured to adjust the delivery flow rate of the second hydraulic pump. A control device includes: a first calculation section configured to calculate a non-confluence time pump flow rate in the case where the hydraulic actuator is driven solely by the second hydraulic pump and calculate a control command output to the first adjuster such that the flow rate of the hydraulic fluid from the first hydraulic pump is equal to or lower than the non-confluence time pump flow rate; and a second calculation section configured to calculate a target pump flow rate by subtracting from the non-confluence time pump flow rate the flow rate of the hydraulic fluid from the first hydraulic pump and calculate a control command output to the second adjuster such that the target pump flow rate is attained.
+title
+    Hydraulic fluid energy regeneration apparatus of work machine
+similar_document
+17
+    Publication,Publication Date,Title
+    US10584722B2,2020-03-10,Hydraulic fluid energy regeneration apparatus of work machine
+    US10280593B2,2019-05-07,Hydraulic fluid energy regeneration device for work machine
+    US20170089038A1,2017-03-30,Hydraulic drive system for electrically-operated hydraulic work machine
+    JP6106097B2,2017-03-29,Power regeneration device for work machine and work machine
+    JP6291394B2,2018-03-14,Hydraulic drive system for work machines
+    US8659177B2,2014-02-25,Motive power regeneration system for working machine
+    US10760246B2,2020-09-01,Work machine
+    US10364550B2,2019-07-30,Hydraulic drive system of work machine
+    US20110010047A1,2011-01-13,Controller of hybrid construction machine
+    KR101953430B1,2019-02-28,Circuit pressure control apparatus, hydraulic pressure control circuit using this circuit pressure control apparatus, and hydraulic pressure control circuit of construction equipment
+    US20180274208A1,2018-09-27,Construction Machine
+    US20180291935A1,2018-10-11,Hydraulic drive system of construction machine
+    JP7001574B2,2022-01-19,Construction machinery
+    US11346081B2,2022-05-31,Construction machine
+    JP2013068291A,2013-04-18,Power regenerating device for working machine
+    JP5731331B2,2015-06-10,Power regeneration device for work machines
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    5
+classfication_nums
+    22
+classfication_items
+160
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F,1,5,B,1,1,/,0,2
+    F,1,5,B,1,1,/,0,2,4
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,1,7
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,2,1
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,2,1
+    E,0,2,F,9,/,2,2,3,9
+    E,0,2,F,9,/,2,2,4,2
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,7,8
+    E,0,2,F,9,/,2,2,9,2
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F,1,5,B,1,1,/,0,2
+    F,1,5,B,1,1,/,0,4
+    F,1,5,B,1,1,/,0,4,2
+    F,1,5,B,1,1,/,0,4,2,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F,1,5,B,1,1,/,1,6
+    F,1,5,B,1,1,/,1,6,1
+    F,1,5,B,1,1,/,1,6,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F,1,5,B,1,1,/,1,6
+    F,1,5,B,1,1,/,1,7
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,1,/,0,0
+    F,1,5,B,2,1,/,1,4
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,0,7
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,7,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,3,0
+    F,1,5,B,2,2,1,1,/,3,1
+    F,1,5,B,2,2,1,1,/,3,1,2,2
+    F,1,5,B,2,2,1,1,/,3,1,3,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,4,0
+    F,1,5,B,2,2,1,1,/,4,0,5
+    F,1,5,B,2,2,1,1,/,4,0,5,1,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,4,0
+    F,1,5,B,2,2,1,1,/,4,1,5
+    F,1,5,B,2,2,1,1,/,4,1,5,2,7
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,4,0
+    F,1,5,B,2,2,1,1,/,4,2
+    F,1,5,B,2,2,1,1,/,4,2,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,0,6
+    F,1,5,B,2,2,1,1,/,6,3,0,9
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,0,6
+    F,1,5,B,2,2,1,1,/,6,3,1,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,0,6
+    F,1,5,B,2,2,1,1,/,6,3,1,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,6,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,6,5
+    F,1,5,B,2,2,1,1,/,6,6,5,2
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,6,5
+    F,1,5,B,2,2,1,1,/,6,6,5,4
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,6
+    F,1,5,B,2,2,1,1,/,7,6,1
+
+application_events
+7
+    2015-09-29,Application filed by Hitachi Construction Machinery Co Ltd
+    2017-09-01,Assigned to HITACHI CONSTRUCTION MACHINERY CO., LTD.
+    2018-02-22,Publication of US20180051720A1
+    2020-03-10,Application granted
+    2020-03-10,Publication of US10584722B2
+    Status,Active
+    2036-05-07,Adjusted expiration
+
+active_area
+6
+    J,P
+    K,R
+    C,N
+    W,O
+    U,S
+    E,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2015/077593,2015-09-29,Pressure oil energy regeneration device of work machine
+
+legal_event
+10
+    Date,Code,Title,Description
+    2017-09-01,AS,Assignment,Owner name: HITACHI CONSTRUCTION MACHINERY CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:HIJIKATA, SEIJI;ISHIKAWA, KOUJI;OOKI, TAKATOSHI;AND OTHERS;SIGNING DATES FROM 20170731 TO 20170808;REEL/FRAME:043472/0619
+    2017-09-01,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2018-03-19,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2019-06-06,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2019-09-10,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2019-12-12,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2020-01-23,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT RECEIVED
+    2020-02-19,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2023-08-23,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

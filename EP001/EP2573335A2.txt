@@ -1,0 +1,246 @@
+ID
+    EP2573335A2
+citation_exist
+    Patent Citations (6)
+citation_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2007239513A,2006-03-06,2007-09-20,Hino Motors Ltd,Auxiliary device of supercharger using exhaust heat energy of egr gas
+    JP2008008224A,2006-06-29,2008-01-17,Denso Corp,Waste heat utilization device
+    Family To Family Citations,,,,
+    DE2752283C2                      *,1977-09-16,1979-11-22,Gebrueder Sulzer Ag, Winterthur (Schweiz),Internal combustion engine system
+    WO2003095925A1                      *,2002-05-10,2003-11-20,George Sandor Viczena,Control of air conditioning cooling or heating coil
+    EP1624269A3                      *,2003-10-02,2006-03-08,HONDA MOTOR CO., Ltd.,Cooling control device for condenser
+    JP4801810B2                      *,2006-05-30,2011-10-26,株式会社デンソー,Refrigeration equipment with waste heat utilization device
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (30)
+              
+
+
+citedBy_infor
+32
+    Publication number,Priority date,Publication date,Assignee,Title
+    WO2015143323A1                      *,2014-03-21,2015-09-24,Dana Limited,Enhanced condenser for a waste heat recovery system
+    DE102015209067A1,2015-05-18,2016-11-24,Mahle International Gmbh,Container for a waste heat utilization device
+    DE102015215063A1,2015-08-06,2017-02-09,Mahle International Gmbh,Container for a waste heat recovery cycle
+    DE102016221255A1,2016-10-28,2018-05-03,Mahle International Gmbh,Waste heat recovery circuit, in particular for a motor vehicle
+    EP3757358A1                      *,2019-06-13,2020-12-30,Volkswagen Ag,Drive unit for a motor vehicle with a circuit process device
+    Family To Family Citations,,,,
+    WO2012027688A1                      *,2010-08-26,2012-03-01,Modine Manufacturing Company,Waste heat recovery system and method of operating the same
+    WO2013167930A1                      *,2012-05-10,2013-11-14,Renault Trucks,Vehicle internal combustion engine arrangement comprising a waste heat recovery system for compressing exhaust gases
+    US9091192B2                      *,2013-02-01,2015-07-28,Chung-Chien Chang,Waste heat recovery system of vehicle
+    JP6152737B2                      *,2013-08-06,2017-06-28,いすゞ自動車株式会社,Engine cooling system
+    CN103486898B                      *,2013-09-13,2015-10-21,中国科学院工程热物理研究所,The automatic safety-control device of industrial afterheat recovery system
+    US9587546B2                      *,2013-10-02,2017-03-07,Ford Global Technologies, Llc,Methods and systems for hybrid vehicle waste heat recovery
+    US9541027B2,2014-07-11,2017-01-10,Caterpillar Inc.,System and method for recovering waste heat
+    JP6083420B2                      *,2014-08-05,2017-02-22,トヨタ自動車株式会社,Cooling device for internal combustion engine
+    US20160252310A1                      *,2015-02-27,2016-09-01,Tenneco Automotive Operating Company Inc.,Waste Heat Recovery System
+    US10408333B2                      *,2015-12-09,2019-09-10,Ford Global Technologies, Llc,Rear axle lubrication oil temperature control using exhaust heat recovery and a thermal battery
+    US20170314422A1                      *,2016-04-27,2017-11-02,Tao Song,Engine Exhaust and Cooling System for Power Production
+    SE540382C2                      *,2016-12-19,2018-09-04,Scania Cv Ab,A tank arrangement for a working medium in a WHR system
+    CN107650622A                      *,2017-10-18,2018-02-02,潍柴动力股份有限公司,A kind of engine exhaust heat cyclic utilization system
+    FR3084913B1                      *,2018-08-09,2020-07-31,Faurecia Systemes Dechappement,RANKINE CIRCUIT THERMAL SYSTEM
+    SE542760C2,2018-12-14,2020-07-07,Climeon Ab,Method and controller for preventing formation of droplets in a heat exchanger
+    DE102019210680A1                      *,2019-07-19,2021-01-21,Siemens Aktiengesellschaft,System for converting thermal energy into mechanical energy
+    US11359576B1,2021-04-02,2022-06-14,Ice Thermal Harvesting, Llc,Systems and methods utilizing gas temperature as a power source
+    US11421663B1,2021-04-02,2022-08-23,Ice Thermal Harvesting, Llc,Systems and methods for generation of electrical power in an organic Rankine cycle operation
+    US11293414B1,2021-04-02,2022-04-05,Ice Thermal Harvesting, Llc,Systems and methods for generation of electrical power in an organic rankine cycle operation
+    US11493029B2,2021-04-02,2022-11-08,Ice Thermal Harvesting, Llc,Systems and methods for generation of electrical power at a drilling rig
+    US11187212B1,2021-04-02,2021-11-30,Ice Thermal Harvesting, Llc,Methods for generating geothermal power in an organic Rankine cycle operation during hydrocarbon production based on working fluid temperature
+    US11592009B2,2021-04-02,2023-02-28,Ice Thermal Harvesting, Llc,Systems and methods for generation of electrical power at a drilling rig
+    US11644015B2,2021-04-02,2023-05-09,Ice Thermal Harvesting, Llc,Systems and methods for generation of electrical power at a drilling rig
+    US11480074B1,2021-04-02,2022-10-25,Ice Thermal Harvesting, Llc,Systems and methods utilizing gas temperature as a power source
+    US11486370B2,2021-04-02,2022-11-01,Ice Thermal Harvesting, Llc,Modular mobile heat generation unit for generation of geothermal power in organic Rankine cycle operations
+
+abstract
+    The waste heat recovery system includes a Rankine cycle device in which working fluid circulates through a pump, a boiler, an expander and then through a heat exchanging device, heat exchange occurs in the boiler between the working fluid and intake fluid that is introduced into an internal combustion engine while being cooled. The heat exchanging device includes a condenser condensing the working fluid, a receiver connected downstream of the condenser and storing liquid-phase working fluid, a subcooler connected downstream of the receiver and subcooling the liquid-phase working fluid, and a selector device serving to change the ratio of the condenser to the subcooler. The waste heat recovery system further includes a determination device for determining required cooling load for the intake fluid, and a controller for controlling the selector device depending on the required cooling load determined by the determination device.
+title
+    Waste heat recovery system
+similar_document
+26
+    Publication,Publication Date,Title
+    EP2573335A2,2013-03-27,Waste heat recovery system
+    KR100812457B1,2008-03-10,Air conditioning system for a motor vehicle
+    US5685160A,1997-11-11,Method for operating an air conditioning cooling system for vehicles and a cooling system for carrying out the method
+    US9506395B2,2016-11-29,Cooling system and associated operating method
+    JP4248303B2,2009-04-02,Power unit comprising a combustion engine and a Stirling engine
+    US9316141B2,2016-04-19,Engine energy management system
+    JP4387413B2,2009-12-16,Vehicle cooling system
+    CN102788452A,2012-11-21,Condenser for vehicle and air conditioning system for vehicle
+    JP6806524B2,2021-01-06,Hybrid intercooler system integrated with air conditioning system and its control method
+    KR20130012986A,2013-02-06,Cooling module and control method thereof
+    CN102795095A,2012-11-28,Combined heat exchanger system
+    JP6069724B2,2017-02-01,Vehicle heat exchanger system and method of operating a vehicle heat exchanger system
+    CN113370739A,2021-09-10,Vehicle-mounted temperature adjusting system
+    CN113370741A,2021-09-10,Vehicle-mounted temperature adjusting system
+    CN110439666B,2022-07-08,Engine cooling system with two thermostats, including a closed circuit in a rankine cycle
+    US20050252225A1,2005-11-17,Compressor - heat exchanger combination for vehicle air conditioner
+    JP2012247120A,2012-12-13,Combined heat exchanger system
+    US20110113809A1,2011-05-19,Heating and cooling system
+    EP2564043A1,2013-03-06,Arrangement for cooling of compressed air and/or recirculating exhaust gases which are led to a combustion engine
+    US20140157816A1,2014-06-12,Return fuel cooling system for lpi vehicle
+    KR102371426B1,2022-03-08,Cooling module
+    US20140174709A1,2014-06-26,Engine inlet air cooling system and method
+    JP2012245866A,2012-12-13,Combined heat exchanger system
+    JP2013142296A,2013-07-22,Waste heat using device
+    EP2829700A2,2015-01-28,Engine energy-management system
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    7
+classfication_nums
+    16
+classfication_items
+105
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,2,3,/,0,0
+    F,0,1,K,2,3,/,0,2
+    F,0,1,K,2,3,/,0,6
+    F,0,1,K,2,3,/,0,6,5
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,2,3,/,0,0
+    F,0,1,K,2,3,/,0,2
+    F,0,1,K,2,3,/,0,6
+    F,0,1,K,2,3,/,1,0
+    F
+    F,0,2
+    F,0,2,B
+    F,0,2,B,2,9,/,0,0
+    F,0,2,B,2,9,/,0,4
+    F,0,2,B,2,9,/,0,4,0,6
+    F
+    F,0,2
+    F,0,2,B
+    F,0,2,B,2,9,/,0,0
+    F,0,2,B,2,9,/,0,4
+    F,0,2,B,2,9,/,0,4,9,3
+    F
+    F,0,2
+    F,0,2,G
+    F,0,2,G,5,/,0,0
+    F
+    F,0,2
+    F,0,2,M
+    F,0,2,M,2,6,/,0,0
+    F,0,2,M,2,6,/,1,3
+    F,0,2,M,2,6,/,2,2
+    F,0,2,M,2,6,/,2,3
+    F,0,2,M,2,6,/,2,8
+    F
+    F,0,2
+    F,0,2,M
+    F,0,2,M,2,6,/,0,0
+    F,0,2,M,2,6,/,1,3
+    F,0,2,M,2,6,/,2,2
+    F,0,2,M,2,6,/,3,3
+    F
+    F,2,8
+    F,2,8,F
+    F,2,8,F,2,7,/,0,0
+    F,2,8,F,2,7,/,0,2
+    F
+    F,2,8
+    F,2,8,F
+    F,2,8,F,9,/,0,0
+    F,2,8,F,9,/,0,2
+    F,2,8,F,9,/,0,2,0,2
+    F
+    F,2,8
+    F,2,8,D
+    F,2,8,D,1,/,0,0
+    F,2,8,D,1,/,0,2
+    F,2,8,D,1,/,0,4
+    F,2,8,D,1,/,0,4,0,8
+    F,2,8,D,1,/,0,4,1,7
+    F
+    F,2,8
+    F,2,8,D
+    F,2,8,D,1,/,0,0
+    F,2,8,D,1,/,0,2
+    F,2,8,D,1,/,0,4
+    F,2,8,D,1,/,0,5,3
+    F,2,8,D,1,/,0,5,3,1,6
+    F,2,8,D,1,/,0,5,3,2,5
+    F
+    F,2,8
+    F,2,8,D
+    F,2,8,D,2,1,/,0,0
+    F,2,8,D,2,0,2,1,/,0,0,1,9
+    F,2,8,D,2,0,2,1,/,0,0,8
+    F,2,8,D,2,0,2,1,/,0,0,8,2
+    F
+    F,2,8
+    F,2,8,D
+    F,2,8,D,2,1,/,0,0
+    F,2,8,D,2,0,2,1,/,0,0,1,9
+    F,2,8,D,2,0,2,1,/,0,0,8
+    F,2,8,D,2,0,2,1,/,0,0,8,4
+    F
+    F,2,8
+    F,2,8,D
+    F,2,8,D,2,1,/,0,0
+    F,2,8,D,2,1,/,0,0,0,1
+    F,2,8,D,2,1,/,0,0,0,3
+    F
+    F,2,8
+    F,2,8,F
+    F,2,8,F,9,/,0,0
+    F,2,8,F,9,/,0,2
+    F,2,8,F,2,0,0,9,/,0,2,8,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,1,0
+    Y,0,2,T,1,0,/,1,2
+
+application_events
+4
+    2012-09-13,Application filed by Toyota Industries Corp
+    2013-03-27,Publication of EP2573335A2
+    2013-10-09,Publication of EP2573335A3
+    Status,Withdrawn
+
+active_area
+1
+    C,N
+
+not_active_area
+3
+    J,P
+    U,S
+    E,P
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2011206668,2011-09-21,
+    JP2012126545A,2012-06-01,Waste heat recovery system
+
+legal_event
+11
+    Date,Code,Title,Description
+    2013-03-26,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2013-03-27,17P,Request for examination filed,Effective date: 20120913
+    2013-03-27,AK,Designated contracting states,Kind code of ref document: A2Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2013-03-27,AX,Request for extension of the european patent,Extension  state: BA ME
+    2013-09-06,PUAL,Search report despatched,Free format text: ORIGINAL CODE: 0009013
+    2013-10-09,AK,Designated contracting states,Kind code of ref document: A3Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2013-10-09,AX,Request for extension of the european patent,Extension  state: BA ME
+    2013-10-09,RIC1,Information provided on ipc code assigned before grant,Ipc: F28B   7/00        20060101ALI20130830BHEPIpc: F28B   9/08        20060101ALI20130830BHEPIpc: F28D   1/00        20060101ALI20130830BHEPIpc: F01K  23/10        20060101ALI20130830BHEPIpc: F28B   1/00        20060101ALI20130830BHEPIpc: F28F   9/02        20060101ALI20130830BHEPIpc: F28B   1/06        20060101ALI20130830BHEPIpc: F02B  29/04        20060101ALI20130830BHEPIpc: F28B  11/00        20060101ALI20130830BHEPIpc: F01K  23/06        20060101AFI20130830BHEPIpc: F28F  27/02        20060101ALI20130830BHEPIpc: F02G   5/04        20060101ALI20130830BHEPIpc: F02M  25/07        20060101ALI20130830BHEP
+    2014-11-07,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE APPLICATION IS DEEMED TO BE WITHDRAWN
+    2014-12-10,18D,Application deemed to be withdrawn,Effective date: 20140410
+

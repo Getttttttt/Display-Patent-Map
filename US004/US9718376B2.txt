@@ -1,0 +1,246 @@
+ID
+    US9718376B2
+citation_exist
+    Patent Citations (7)
+citation_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    US7221064B2                      *,2003-01-24,2007-05-22,Mitsubishi Denki Kabushiki Kaisha,Power circuit for battery
+    US20090171521A1,2005-11-24,2009-07-02,Komatsultd.,AC Link Bidirectional DC-DC Converter, Hybrid Power Supply System Using the Same and Hybrid Vehicle
+    US20100133900A1,2008-12-02,2010-06-03,Robert Dean King,System and method for vehicle based uninterruptable power supply
+    US8862295B2                      *,2009-01-12,2014-10-14,Valeo Equipements Electriques Moteur,Method of controlling an energy storage unit in a vehicle micro-hybrid system
+    Family To Family Citations,,,,
+    JP4378400B2                      *,2007-08-28,2009-12-02,日立コンピュータ機器株式会社,Bidirectional DC-DC converter and control method for bidirectional DC-DC converter
+    JP5071519B2                      *,2010-05-14,2012-11-14,トヨタ自動車株式会社,Power conversion device and vehicle equipped with the same
+    JP2012044801A                      *,2010-08-20,2012-03-01,Tokyo Institute Of Technology,Dc/dc converter
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (12)
+              
+
+
+citedBy_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    WO2022239999A1                      *,2021-05-14,2022-11-17,주식회사 엘지에너지솔루션,Converter for performing dc-dc conversion, and method for controlling same
+    US11511637B2,2019-05-24,2022-11-29,Huawei Digital Power Technologies Co., Ltd.,Integrated charger and motor control system
+    Family To Family Citations,,,,
+    US20150311723A1                      *,2014-03-31,2015-10-29,Evatran Group, Inc.,Parallel series dc inductive power transfer system
+    KR102263726B1                      *,2014-10-08,2021-06-11,현대모비스 주식회사,Power Supply Apparatus and Method for Hybrid Vehicle
+    US9855856B2                      *,2016-01-28,2018-01-02,Microsoft Technology Licensing, Llc,Dynamic battery loading for electric vehicles
+    CN105790587B                      *,2016-05-31,2019-07-09,北京德尔福万源发动机管理系统有限公司,It is a kind of for the inversion rectifier of mixed dynamic structure, mixed dynamic structure and its control method
+    CN106452133B                      *,2016-09-27,2019-06-25,河南理工大学,A kind of core current transformer and its control method constructing bipolarity direct-current micro-grid
+    JP6811219B2                      *,2018-09-13,2021-01-13,矢崎総業株式会社,Vehicle power supply
+    JP2020072620A                      *,2018-11-02,2020-05-07,トヨタ自動車株式会社,Power supply circuit protective device
+    CN109747424B                      *,2019-02-28,2021-04-30,北京机械设备研究所,Double-power battery control system of electric automobile
+    JP7254270B2                      *,2019-06-03,2023-04-10,マツダ株式会社,vehicle drive
+    JP7344435B2                      *,2019-06-03,2023-09-14,マツダ株式会社,vehicle drive system
+
+abstract
+    An electricity supply system having double power-storage devices which is suitable for implementation in an electric or hybrid motor vehicle. The supply system is intended for being connected to a power network of the vehicle. The supply system is of the type that includes a first power-storage device, having a first specific energy, a first specific power and a first operating voltage (Ue), and a second power-storage device, having a second specific energy that is lower than the first specific energy, a second specific power that is higher than the first specific power and a second operating voltage (Up) that is higher than the first operating voltage (Ue). The first and second power-storage devices are electrically coupled by a bidirectional DC-DC converter controlled in accordance with the operating states of the vehicle. The DC-DC converter includes a floating capacitor connected in series between the first and second power-storage devices.
+title
+    Electricity supply system having double power-storage devices of a hybrid or electric motor vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US9718376B2,2017-08-01,Electricity supply system having double power-storage devices of a hybrid or electric motor vehicle
+    US7568537B2,2009-08-04,Vehicle propulsion system
+    US8487568B2,2013-07-16,Circuit arrangement for an electric drive
+    KR101933538B1,2018-12-28,Vehicle propulsion system with multi-channel dc bus and method of manufacturing same
+    US8916993B2,2014-12-23,System for multiple energy storage and management and method of making same
+    US9873341B2,2018-01-23,Transformerless, current-isolated onboard charger with solid-state switching controls
+    US8538616B2,2013-09-17,Power supply system for electrically powered vehicle, electrically powered vehicle, and method for controlling the same
+    US8624426B2,2014-01-07,Power supply system for electrically powered vehicle, electrically powered vehicle, and method for controlling power supply system of electrically powered vehicle
+    US9520741B2,2016-12-13,System for charging electrical storage device and method of making same
+    US10044312B2,2018-08-07,Modular stacked DC architecture traction system and method of making same
+    KR20160105367A,2016-09-06,Apparatus for transferring energy using power electronics and machine inductance and method of manufacturing same
+    US20130026991A1,2013-01-31,Power Supply System with Charge Balancing
+    CN105790588B,2020-02-07,Bidirectional DC-DC power converter for vehicle systems
+    US20150084413A1,2015-03-26,Method and system for supplying electric power to a  hybrid motor vehicle with dual electrical energy  storage devices
+    JPWO2018061400A1,2019-07-18,Combined storage system
+    Bai et al.,2011,The impact of bidirectional DC-DC converter on the inverter operation and battery current in hybrid electric vehicles
+    KR102008751B1,2019-08-12,Vehicle power control device
+    JP4329454B2,2009-09-09,Electric vehicle system
+    JP2014155298A,2014-08-25,Power supply system, and vehicle mounting the same
+    Salari et al.,2014,A new multiple input bidirectional HEV battery charger
+    JP2013102590A,2013-05-23,Power supply device for vehicles
+    RU2555746C1,2015-07-10,Converter assembly for propulsion plant with combustion engine and electromechanical transmission
+    KR102008749B1,2019-08-12,Vehicle power control device
+    KR102008747B1,2019-08-12,Vehicle power control device
+    KR102008752B1,2019-08-12,Vehicle power control device
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    28
+classfication_items
+121
+    B,6,0,L,1,1,/,1,8,6,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,0
+    B,6,0,L,1,1,/,0,0,5
+    B,6,0,L,1,1,/,1,8,0,3
+    B,6,0,L,1,1,/,1,8,1,1
+    B,6,0,L,1,1,/,1,8,5,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,3,4
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H,0,2,M,3,/,2,2
+    H,0,2,M,3,/,2,4
+    H,0,2,M,3,/,2,8
+    H,0,2,M,3,/,3,2,5
+    H,0,2,M,3,/,3,3,5
+    H,0,2,M,3,/,3,3,5,6,9
+    H,0,2,M,3,/,3,3,5,7,6
+    H,0,2,M,3,/,3,3,5,8,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    F
+    F,0,2
+    F,0,2,N
+    F,0,2,N,1,1,/,0,0
+    F,0,2,N,1,1,/,0,8
+    F,0,2,N,2,0,1,1,/,0,8,8,1
+    F,0,2,N,2,0,1,1,/,0,8,8,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,0,5
+    Y,0,2,T,1,0,/,7,0,2,2
+    Y,0,2,T,1,0,/,7,0,6,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,1,6
+    Y,0,2,T,1,0,/,7,2,4,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+
+application_events
+7
+    2013-10-29,Application filed by Valeo Equipements Electriques Moteur SAS
+    2015-10-08,Publication of US20150283913A1
+    2015-11-18,Assigned to VALEO EQUIPEMENTS ELECTRIQUES MOTEUR
+    2017-08-01,Application granted
+    2017-08-01,Publication of US9718376B2
+    Status,Active
+    2034-09-03,Adjusted expiration
+
+active_area
+4
+    C,N
+    W,O
+    J,P
+    U,S
+
+not_active_area
+3
+    F,R
+    E,P
+    K,R
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    FR1260411,2012-10-31,
+    FR1260411A,2012-10-31,POWER SUPPLY SYSTEM WITH DOUBLE STORAGE OF ELECTRIC ENERGY OF A MOTOR VEHICLE OR HYBRID
+    PCT/FR2013/052587,2013-10-29,Electricity supply system having double power-storage devices of a hybrid or electric motor vehicle
+
+legal_event
+5
+    Date,Code,Title,Description
+    2015-11-18,AS,Assignment,Owner name: VALEO EQUIPEMENTS ELECTRIQUES MOTEUR, FRANCEFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:CHEMIN, MICHAEL;BAUDESSON, PHILIPPE;SIGNING DATES FROM 20150804 TO 20150824;REEL/FRAME:037076/0541
+    2017-07-12,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2017-08-24,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN)
+    2021-02-01,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

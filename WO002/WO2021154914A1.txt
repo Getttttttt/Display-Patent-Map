@@ -1,0 +1,290 @@
+ID
+    WO2021154914A1
+citation_exist
+    Patent Citations (14)
+citation_infor
+16
+    Publication number,Priority date,Publication date,Assignee,Title
+    EP2065282A1                      *,2007-11-29,2009-06-03,International Truck Intellectual Property Company, LLC,Prioritized recapture of energy during deceleration of a dual-hybrid motor vehicle
+    EP2463165A1                      *,2009-08-07,2012-06-13,Toyota Jidosha Kabushiki Kaisha,Brake control system, and brake control method
+    EP2631143A1                      *,2010-10-21,2013-08-28,Hino Motors Ltd.,Regeneration control device, hybrid automobile, regeneration control method, and program
+    WO2015114430A1                      *,2014-01-31,2015-08-06,Toyota Jidosha Kabushiki Kaisha,Vehicle
+    WO2016094694A1                      *,2014-12-10,2016-06-16,Gogoro Inc.,Systems and methods of adaptive regenerative braking and collision avoidance for electrically powered vehicles
+    Family To Family Citations,,,,
+    US4671577A,1985-11-21,1987-06-09,Urban Transportation Development Corporation Ltd.,Combined regenerative and friction braking system for a vehicle
+    DE19629229C2,1996-07-20,2002-06-20,Daimler Chrysler Ag,Procedure for performing an automatic braking process
+    DE19909326A1,1999-03-03,2000-09-21,Lucas Ind Plc,Device and method for controlling the driving speed of a motor vehicle
+    EP2661387B1                      *,2011-01-06,2022-03-09,Ford Global Technologies, LLC,Regenerative braking feedback display system and method
+    US8855844B2                      *,2011-10-11,2014-10-07,Robert Bosch Gmbh,System and method for optimal deceleration of a vehicle using regenerative braking
+    US9238412B2,2014-03-18,2016-01-19,GM Global Technology Operations LLC,Normalizing deceleration of a vehicle having a regenerative braking system
+    JP6641846B2                      *,2015-09-30,2020-02-05,三菱自動車工業株式会社,Regenerative brake control device
+    JP6304193B2                      *,2015-10-22,2018-04-04,トヨタ自動車株式会社,Vehicle control device
+    JP2017081475A                      *,2015-10-30,2017-05-18,トヨタ自動車株式会社,Vehicle control apparatus
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    KR20210033180A                      *,2019-09-18,2021-03-26,현대모비스 주식회사,Apparatus for braking used electric booster and control method thereof
+
+abstract
+    An electrical regeneration and vehicle deceleration control method comprises operating an electrified powertrain in normal or maximum regeneration modes associated with lesser and greater electrical regeneration and vehicle deceleration rates, respectively, receiving an input from a driver of the vehicle indicative of a request to enable the maximum regeneration mode, detecting a status indicative of an availability of the maximum regeneration mode, and in response to receiving the request and based on the status of the maximum regeneration mode and a current vehicle deceleration rate: (i) operating the electrified powertrain in either the maximum regeneration mode or a normal regeneration mode, (ii) selectively outputting a message to the driver indicative of the status of the maximum regeneration mode, and (iii) selectively commanding a hydraulic brake system of the vehicle to generate brake force based on a driver-expected vehicle deceleration rate associated with the operative regeneration mode.
+title
+    Control of user-selectable vehicle deceleration rate to maximize regeneration for electrified propulsion systems
+similar_document
+24
+    Publication,Publication Date,Title
+    US8634987B2,2014-01-21,Control apparatus for electric vehicle
+    EP1971512B1,2010-04-07,Control apparatus and control method of a vehicle
+    US8886375B2,2014-11-11,Control apparatus for electric vehicle
+    US8116927B2,2012-02-14,Dynamic traction control
+    JP5725037B2,2015-05-27,Vehicle and vehicle control method
+    EP2103492B1,2014-12-17,Vehicular control device, method of controlling a vehicle, and storage medium having stored therein a program that implements the method
+    US20100049414A1,2010-02-25,Control apparatus for electric vehicle
+    EP2789516B1,2020-09-16,Vehicle control device
+    EP2789514A1,2014-10-15,Hybrid-vehicle control device
+    US9522674B2,2016-12-20,Internal combustion engine control device and internal combustion engine control method
+    WO2015181595A1,2015-12-03,Hybrid vehicle and control method for same
+    EP3829943B1,2023-09-27,System and method for regenerative braking torque scheduling
+    US11447017B2,2022-09-20,Control of user-selectable vehicle deceleration rate to maximize regeneration for electrified propulsion systems
+    KR20190073173A,2019-06-26,Cruise control system and cruise control method for mild hybrid electric vehicle
+    US11794715B2,2023-10-24,Brake assist during vehicle one pedal drive
+    JP2005153790A,2005-06-16,Four-wheel drive vehicle
+    JP6614052B2,2019-12-04,Automobile
+    US9637113B2,2017-05-02,Vehicle
+    US20220250471A1,2022-08-11,System and method for controlling switching of electric vehicle to four-wheel drive
+    US20220041164A1,2022-02-10,Vehicle control method and vehicle control device
+    KR20230058241A,2023-05-03,Apparatus and method for controlling regenerative braking in electrification vehicle
+    JP2018007463A,2018-01-11,Regenerative cooperation braking device and electric propulsion vehicle
+    KR20060006423A,2006-01-19,Idle generation torque control method of 4 wheel drive hybrid electric vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    CN202180025278.2A,2020-01-30,2021-01-28,Controlling a user selectable vehicle deceleration rate to maximize regeneration of an electrified propulsion system
+    EP21706795.8A,2020-01-30,2021-01-28,Control of user-selectable vehicle deceleration rate to maximize regeneration for electrified propulsion systems
+
+inventor_number
+    7
+classfication_nums
+    30
+classfication_items
+176
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,2,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,7,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,5
+    B,6,0,T,1,3,/,5,8,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,6,6
+    B,6,0,T,1,3,/,6,6,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,7,4
+    B,6,0,T,1,3,/,7,4,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,7,/,0,0
+    B,6,0,T,1,7,/,1,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,0,2
+    B,6,0,T,7,/,0,4
+    B,6,0,T,7,/,0,4,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,1,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B,6,0,W,1,0,/,1,8,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,1,4
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,1,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B,6,0,L,2,2,4,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,8,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+
+application_events
+4
+    2021-01-28,Application filed by Fca Us Llc
+    2021-01-28,Priority to CN202180025278.2A
+    2021-01-28,Priority to EP21706795.8A
+    2021-08-05,Publication of WO2021154914A1
+
+active_area
+3
+    U,S
+    C,N
+    E,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    US16/776,906,2020-01-30,Control of user-selectable vehicle deceleration rate to maximize regeneration for electrified propulsion systems
+    US16/776,906,2020-01-30,
+
+legal_event
+4
+    Date,Code,Title,Description
+    2021-09-15,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 21706795Country of ref document: EPKind code of ref document: A1
+    2022-08-31,NENP,Non-entry into the national phase,Ref country code: DE
+    2022-09-02,ENP,Entry into the national phase,Ref document number: 2021706795Country of ref document: EPEffective date: 20220830
+

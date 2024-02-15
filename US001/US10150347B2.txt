@@ -1,0 +1,293 @@
+ID
+    US10150347B2
+citation_exist
+    Patent Citations (11)
+citation_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH05238245A,1992-02-28,1993-09-17,Nippondenso Co Ltd,Warming device for electric vehicle
+    US6363732B1,1999-09-15,2002-04-02,Mannesmann Vdo Ag,Additional heating system for a motor vehicle
+    US20050210897A1                      *,2004-03-26,2005-09-29,Mitsuyo Oomura,Vehicular air-conditioner
+    JP2009190442A,2008-02-12,2009-08-27,Toyota Motor Corp,Control device of vehicle
+    US20090309551A1                      *,2008-06-12,2009-12-17,Honeywell International Inc.,Method and system for determining and charging li-ion battery in an integrated power system
+    US20100052583A1                      *,2008-08-27,2010-03-04,Toyota Jidosha Kabushiki Kaisha,Vehicle equipped with motor and inverter
+    US20120049664A1,2010-08-31,2012-03-01,Hitachi, Ltd.,Drive Unit for Electric Vehicle
+    WO2012120630A1,2011-03-08,2012-09-13,トヨタ自動車株式会社,Cooling system for vehicle
+    JP2013059159A,2011-09-07,2013-03-28,Toyota Motor Corp,Cooling system of electric vehicle
+    US20160318499A1                      *,2014-01-15,2016-11-03,Denso Corporation,Thermal management system for vehicle
+    Family To Family Citations,,,,
+    US4286657A,1979-12-26,1981-09-01,Otis Engineering Corporation,Actuator
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (15)
+              
+
+
+citedBy_infor
+17
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    DE102014212934A1                      *,2014-07-03,2016-01-07,Siemens Aktiengesellschaft,Device and method for charge state compensation of an energy storage system
+    JP6690175B2                      *,2015-10-05,2020-04-28,日産自動車株式会社,Transportation system
+    DE102017200096A1                      *,2017-01-05,2018-07-05,Volkswagen Aktiengesellschaft,Method for operating an air conditioning device for a power supply device and energy supply device and motor vehicle
+    JP6627826B2                      *,2017-07-10,2020-01-08,トヨタ自動車株式会社,Control unit for heat exchange system
+    US10668783B2,2017-09-26,2020-06-02,Emerson Climate Technologies, Inc.,Vehicle air conditioning control systems
+    JP7027910B2                      *,2018-01-25,2022-03-02,トヨタ自動車株式会社,Electric vehicle
+    JP6835009B2                      *,2018-02-21,2021-02-24,株式会社デンソー,Vehicle air conditioner
+    JP6688825B2                      *,2018-03-28,2020-04-28,本田技研工業株式会社,vehicle
+    CN109278568B                      *,2018-10-26,2020-04-17,北京新能源汽车股份有限公司,Method and device for adjusting automobile driving force and automobile
+    FR3092039B1                      *,2019-01-29,2021-12-17,Psa Automobiles Sa,ASSEMBLY OF AN ELECTRIC MOTOR AND A FLUID HEAT EXCHANGE SYSTEM
+    JP7211309B2,2019-09-02,2023-01-24,トヨタ自動車株式会社,vehicle air conditioner
+    US20210094383A1                      *,2019-09-30,2021-04-01,Zoox, Inc.,Thermal management systems and methods for vehicles
+    US11659696B2,2019-11-21,2023-05-23,Zoox, Inc.,Vehicle computer cooling architecture
+    CN115871471A                      *,2021-09-29,2023-03-31,比亚迪股份有限公司,Method and device for controlling heating of electric drive system of vehicle, heating system and vehicle
+    CN114103589B                      *,2021-11-15,2023-08-11,珠海格力电器股份有限公司,Automatic modulating method for carrier frequency of variable frequency air conditioner motor and variable frequency air conditioner
+
+abstract
+    In a vehicular air conditioning device, a heater core is disposed on a circulation passage for cooling water for cooling a motor, and an inverter configured to control an output of the motor by changing a carrier frequency, and heats conditioning air. An air conditioning controller sets a required calorific value of the motor and the inverter according to a vehicle compartment temperature requested by a passenger. A carrier frequency changing unit sets a carrier frequency at which a calorific value of the motor and the inverter is made equal to the required calorific value, out of carrier frequencies capable of implementing a target output of the motor to be set depending on a traveling state of a vehicle. An electric power conversion device converts direct-current power of a battery into alternating-current power at the set carrier frequency, and supplies the alternating-current power to the motor.
+title
+    Vehicular air conditioning device
+similar_document
+26
+    Publication,Publication Date,Title
+    US10150347B2,2018-12-11,Vehicular air conditioning device
+    US8843258B2,2014-09-23,Battery unit heating apparatus
+    JP5259752B2,2013-08-07,Vehicle travel motor control device and vehicle equipped with the same
+    JP4678139B2,2011-04-27,Automotive heating control system
+    US9352635B1,2016-05-31,Energy control mechanisms for an electric vehicle
+    US11072224B2,2021-07-27,Auxiliary heating system
+    JP5673452B2,2015-02-18,Battery pack temperature control device
+    US10124651B2,2018-11-13,Systems and methods for controlling electrically powered heating devices within electrified vehicles
+    WO2014057791A1,2014-04-17,Cooling water control device
+    JP2009180103A,2009-08-13,Coolant circulation device
+    US10532661B2,2020-01-14,System and method for heating electrified vehicle
+    JP2015162947A,2015-09-07,Vehicular control device
+    JP2007022297A,2007-02-01,Hybrid car and control method thereof
+    JP6183133B2,2017-08-23,Battery warm-up system
+    JP2007307957A,2007-11-29,Vehicular air conditioner control device
+    US9718453B2,2017-08-01,Hybrid vehicle
+    JP6015620B2,2016-10-26,vehicle
+    JP2013119355A,2013-06-17,Vehicle
+    JP4052256B2,2008-02-27,Temperature control device
+    JP2014108682A,2014-06-12,Vehicular air conditioning system
+    JP2008260442A,2008-10-30,Vehicular cooling system
+    WO2018225439A1,2018-12-13,Air-conditioning control device
+    JP5892461B2,2016-03-23,Hybrid vehicle
+    JP2020164086A,2020-10-08,Vehicular air-conditioning control device
+    JP2017019302A,2017-01-26,Automobile
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    33
+classfication_items
+159
+    B
+    B,6,0
+    B,6,0,H
+    B,6,0,H,1,/,0,0
+    B,6,0,H,1,/,0,0,6,4,2
+    B,6,0,H,1,/,0,0,7,3,5
+    B,6,0,H,1,/,0,0,7,6,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,H
+    B,6,0,H,1,/,0,0
+    B,6,0,H,1,/,0,0,3,5,7
+    B,6,0,H,1,/,0,0,3,8,5
+    B,6,0,H,1,/,0,0,3,9,2
+    B
+    B,6,0
+    B,6,0,H
+    B,6,0,H,1,/,0,0
+    B,6,0,H,1,/,0,2
+    B,6,0,H,1,/,1,4
+    B,6,0,H,1,/,1,4,3
+    B
+    B,6,0
+    B,6,0,H
+    B,6,0,H,1,/,0,0
+    B,6,0,H,1,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B,6,0,L,1,1,/,1,8,0,3
+    B,6,0,L,1,1,/,1,8,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,H
+    B,6,0,H,1,/,0,0
+    B,6,0,H,1,/,0,0,2,7,1
+    B,6,0,H,2,0,0,1,/,0,0,3,0,7
+    B
+    B,6,0
+    B,6,0,H
+    B,6,0,H,1,/,0,0
+    B,6,0,H,1,/,2,2
+    B,6,0,H,2,0,0,1,/,2,2,2,8
+    B,6,0,H,2,0,0,1,/,2,2,4
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,1,/,0,0
+    B,6,0,K,1,1,/,0,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,/,0,0
+    B,6,0,K,2,0,0,1,/,0,0,3
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,/,0,0
+    B,6,0,K,2,0,0,1,/,0,0,3
+    B,6,0,K,2,0,0,1,/,0,0,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,3,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,4
+    Y,0,2,T,1,0,/,6,4,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,0,5
+    Y,0,2,T,1,0,/,7,0,4,4
+    Y,0,2,T,1,0,/,7,0,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,7,5
+
+application_events
+7
+    2015-01-14,Application filed by Mazda Motor Corp
+    2016-07-06,Assigned to MAZDA MOTOR CORPORATION
+    2016-11-17,Publication of US20160332503A1
+    2018-12-11,Application granted
+    2018-12-11,Publication of US10150347B2
+    Status,Expired - Fee Related
+    2035-06-16,Adjusted expiration
+
+active_area
+3
+    J,P
+    W,O
+    C,N
+
+not_active_area
+2
+    U,S
+    D,E
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2014-008275,2014-01-21,
+    JP2014008275A,2014-01-21,Air conditioner for vehicles
+    PCT/JP2015/050768,2015-01-14,Vehicular air-conditioning device
+
+legal_event
+7
+    Date,Code,Title,Description
+    2016-07-06,AS,Assignment,Owner name: MAZDA MOTOR CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:HIRANO, TAKUO;MIURA, TAKAHIKO;SIGNING DATES FROM 20160519 TO 20160520;REEL/FRAME:039089/0561
+    2018-11-20,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2022-08-01,FEPP,Fee payment procedure,Free format text: MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2023-01-16,LAPS,Lapse for failure to pay maintenance fees,Free format text: PATENT EXPIRED FOR FAILURE TO PAY MAINTENANCE FEES (ORIGINAL EVENT CODE: EXP.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2023-01-16,STCH,Information on status: patent discontinuation,Free format text: PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362
+    2023-02-07,FP,Lapsed due to failure to pay maintenance fee,Effective date: 20221211
+

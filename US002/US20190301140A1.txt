@@ -1,0 +1,253 @@
+ID
+    US20190301140A1
+citation_exist
+    Patent Citations (11)
+citation_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JPH07257358A                      *,1994-03-23,1995-10-09,Jidosha Kiki Co Ltd,Hydraulic brake booster
+    US8567185B1                      *,2010-02-16,2013-10-29,Vecna Technologies, Inc.,High efficiency actuator method, system and apparatus
+    SE538157C2                      *,2011-05-23,2016-03-22,Parker Hannifin Ab,Energy recovery method and system
+    JP5807227B2,2013-02-22,2015-11-10,高知県公立大学法人,Energy recovery apparatus and energy recovery method
+    JP5810336B2                      *,2013-03-05,2015-11-11,高知県公立大学法人,Pulsation suppression mechanism
+    JP6205339B2                      *,2014-08-01,2017-09-27,株式会社神戸製鋼所,Hydraulic drive
+    CN108055856B                      *,2015-08-14,2020-12-25,派克汉尼芬公司,Boom potential energy recovery for hydraulic excavators
+    JP6506146B2                      *,2015-09-14,2019-04-24,株式会社神戸製鋼所,Hydraulic drive of work machine
+    US10704569B2                      *,2015-10-19,2020-07-07,Norrhydro Oy,Hydraulic system and method for controlling a hydraulic system
+    US10174770B2                      *,2015-11-09,2019-01-08,Caterpillar Inc.,System and method of hydraulic energy recovery for machine start-stop and machine ride control
+    JP6717451B2                      *,2017-02-27,2020-07-01,株式会社神戸製鋼所,Energy recovery device and energy recovery method
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN110499794A                      *,2019-08-30,2019-11-26,中国矿业大学,A kind of heavily loaded movable arm potential energy recycling system and its control method of large hydraulic excavator
+    Family To Family Citations,,,,
+
+abstract
+    An energy regeneration device capable of controlling flow of a working fluid discharged from an actuator while regenerating energy from the working fluid, and a work machine including the foregoing device, include a boom cylinder, an inertial fluid container, an oil tank, an accumulator, a low-pressure-side opening/closing device, and a high-pressure-side opening/closing device. A calculation unit calculates a duty ratio for opening/closing the low-pressure-side opening/closing device and the high-pressure-side opening/closing device in accordance with a desired flow rate of a hydraulic fluid discharged from the boom cylinder. A regeneration control unit selects alternately the low-pressure-side opening/closing device and the high-pressure-side opening/closing device as a destination with which the inertial fluid container communicates in accordance with the calculated duty ratio, and supplies the discharged hydraulic fluid to an accumulator.
+title
+    Energy regeneration device and work machine provided with energy regeneration device
+similar_document
+22
+    Publication,Publication Date,Title
+    KR101934182B1,2018-12-31,Oil pressure driving apparatus of working machine
+    US20130000290A1,2013-01-03,Energy recovery system having accumulator and variable relief
+    US20140283508A1,2014-09-25,Drive system for hydraulic closed circuit
+    EP2733362A1,2014-05-21,Hydraulic actuator damping control system for construction machinery
+    EP2615311A1,2013-07-17,Flow rate control device for variable displacement type hydraulic pump for construction equipment
+    US9086081B2,2015-07-21,Hydraulic control system having swing motor recovery
+    JPWO2016111205A1,2017-10-19,Construction machinery
+    US6557277B1,2003-05-06,Hydraulic circuit of working machine
+    US10895063B2,2021-01-19,Energy regeneration device and work machine provided with energy regeneration device
+    CN112368452B,2022-07-12,Construction machine
+    US10801181B2,2020-10-13,Energy regeneration device and work machine provided with energy regeneration device
+    US9315968B2,2016-04-19,Hydraulic control system for machine
+    US7308789B2,2007-12-18,Hydraulic cylinder suspension method
+    US11008733B2,2021-05-18,Energy regeneration device and work machine provided with energy regeneration device
+    EP3722518B1,2023-05-03,Slewing-type hydraulic work machine
+    KR20180024695A,2018-03-08,Contorl system for construction machinery and control method for construction machinery
+    JP5357073B2,2013-12-04,Pump controller for construction machinery
+    JP2021055289A,2021-04-08,Control device of construction machine
+    JP2014084877A,2014-05-12,Hydraulic drive system
+    KR102459351B1,2022-10-26,Control system for construction machinery and control method for construction machinery using the same
+    JP2021095739A,2021-06-24,Work machine
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    21
+classfication_items
+141
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,1,7
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,2,1
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,/,0,0
+    F,1,5,B,1,/,0,2
+    F,1,5,B,1,/,0,2,7
+    F,1,5,B,1,/,0,3,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F,1,5,B,1,1,/,0,2
+    F,1,5,B,1,1,/,0,4
+    F,1,5,B,1,1,/,0,4,4
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,1,/,0,0
+    F,1,5,B,2,1,/,1,4
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,/,0,0
+    F,1,5,B,1,/,2,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,0,1,/,0,0
+    F,1,5,B,2,2,0,1,/,5,0
+    F,1,5,B,2,2,0,1,/,5,1
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,1
+    F,1,5,B,2,2,1,1,/,2,1,2
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,5,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,3,0
+    F,1,5,B,2,2,1,1,/,3,1,5
+    F,1,5,B,2,2,1,1,/,3,1,5,5,2
+    F,1,5,B,2,2,1,1,/,3,1,5,5,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,3,0
+    F,1,5,B,2,2,1,1,/,3,5
+    F,1,5,B,2,2,1,1,/,3,5,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,2,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,0,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,0,6
+    F,1,5,B,2,2,1,1,/,6,3,1,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,6,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,6,5
+    F,1,5,B,2,2,1,1,/,6,6,5,4
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,0,5
+    F,1,5,B,2,2,1,1,/,7,0,5,1
+    F,1,5,B,2,2,1,1,/,7,0,5,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,6
+    F,1,5,B,2,2,1,1,/,7,6,1
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,8,0
+    F,1,5,B,2,2,1,1,/,8,8
+
+application_events
+7
+    2017-10-18,Application filed by Kobe Steel Ltd
+    2019-05-07,Assigned to KABUSHIKI KAISHA KOBE SEIKO SHO (KOBE STEEL, LTD.)
+    2019-10-03,Publication of US20190301140A1
+    2020-10-13,Application granted
+    2020-10-13,Publication of US10801181B2
+    Status,Active
+    2037-10-18,Anticipated expiration
+
+active_area
+3
+    J,P
+    U,S
+    E,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2016218687A,2016-11-09,Energy regenerating device and work machine equipped with the same
+    JP2016-218687,2016-11-09,
+    PCT/JP2017/037632,2017-10-18,Energy regeneration device and work machine provided with same
+
+legal_event
+7
+    Date,Code,Title,Description
+    2019-05-07,AS,Assignment,Owner name: KABUSHIKI KAISHA KOBE SEIKO SHO (KOBE STEEL, LTD.)Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:MAEKAWA, SATOSHI;SUGANO, NAOKI;REEL/FRAME:049102/0398Effective date: 20180301Owner name: KABUSHIKI KAISHA KOBE SEIKO SHO (KOBE STEEL, LTD.), JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:MAEKAWA, SATOSHI;SUGANO, NAOKI;REEL/FRAME:049102/0398Effective date: 20180301
+    2019-05-07,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2019-11-06,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2020-01-31,STPP,Information on status: patent application and granting procedure in general,Free format text: EX PARTE QUAYLE ACTION MAILED
+    2020-04-08,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2020-09-23,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

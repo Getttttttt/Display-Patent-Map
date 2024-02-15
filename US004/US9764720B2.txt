@@ -1,0 +1,189 @@
+ID
+    US9764720B2
+citation_exist
+    Patent Citations (6)
+citation_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20050218718A1                      *,2004-04-06,2005-10-06,Toyota Jidosha Kabushiki Kaisha,Deceleration control apparatus and method for a vehicle
+    US20090066273A1                      *,2007-09-10,2009-03-12,Randy Dunn,Regenerative torque shifter
+    US20100324766A1                      *,2007-11-09,2010-12-23,Societe De Technologie Michelin,System for generating an estimation of the ground speed of a vehicle from measures of the rotation speed of at least one wheel
+    DE102011103936A1,2011-06-10,2012-12-13,Audi Ag,Method for braking motor vehicle, particularly car, involves detecting object in surrounding of motor vehicle, where electromotive drive device is actuated depending on detected object such that motor vehicle is delayed
+    US20130331231A1                      *,2011-03-14,2013-12-12,Karl Redbrandt,Method and system pertaining to determination of a contact point for a clutch
+    US20160257222A1                      *,2015-03-06,2016-09-08,Honda Motor Co., Ltd.,Vehicle parking control device
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (5)
+              
+
+
+citedBy_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    US10576839B2,2018-08-01,2020-03-03,Toyota Motor Engineering & Manufacturing North America, Inc.,Motor lock overheat mitigation control for autonomous vehicles
+    Family To Family Citations,,,,
+    DE102016007012B4                      *,2016-06-09,2018-07-19,Audi Ag,Method for supporting a driver
+    DE102016123350B4                      *,2016-12-02,2019-06-19,Saf-Holland Gmbh,Semitrailer, semitrailer and method for braking a semitrailer
+    DE102019211841A1                      *,2019-08-07,2021-02-11,Robert Bosch Gmbh,Method for braking an electrically powered vehicle and vehicle
+    CN112389275B                      *,2020-11-16,2022-03-29,睿驰电装(大连)电动系统有限公司,Safety control method and device based on electric drive active heating mode
+
+abstract
+    A method for operating an electric motor for braking a vehicle, including controlling the electric motor in such a way that the vehicle is slowed or decelerated with the aid of a motor braking torque exerted by the controlled electric motor. The method includes ascertaining whether a requested setpoint speed change is in a predefined normal range, and if so, the electric motor is controlled in such a way that a load to be applied by the electric motor remains less than or equal to a nominal load capacity of the electric motor. If the requested setpoint speed change is outside the predefined normal range, the electric motor is controlled in such a way that the load to be applied by the electric motor exceeds the nominal load capacity of the electric motor, at least during a predefined overload operation time interval.
+title
+    Method for operating an electric motor for braking a vehicle, and control device for an electric motor designed at least for braking a vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US9764720B2,2017-09-19,Method for operating an electric motor for braking a vehicle, and control device for an electric motor designed at least for braking a vehicle
+    US8494745B2,2013-07-23,Motor vehicle braking system having a hydraulically actuated service braking system and an electromechanically actuated braking system
+    EP2570315B1,2017-05-03,A regenerative braking system for a hybrid electric vehicle and a corresponding method
+    US10647205B2,2020-05-12,Braking control apparatus
+    US11110802B2,2021-09-07,Method for operating a regenerative braking system of a vehicle and control unit for a regenerative braking system of a vehicle
+    EP2987693B1,2019-01-30,Braking apparatus of vehicle
+    US20170113700A1,2017-04-27,Vehicle Control Apparatus and Vehicle Control Method
+    US20060225971A1,2006-10-12,Braking a vehicle in the context of an emergency stop
+    KR20140069280A,2014-06-09,Slip-controlled braking system for electrically driven motor vehicles
+    US9895978B2,2018-02-20,Braking force control method for vehicle
+    CN106926709B,2021-08-31,Braking energy recovery device and method and light electric vehicle
+    US10343531B2,2019-07-09,Control device for a regenerative braking system and method for operating a regenerative braking system
+    KR101339245B1,2014-01-02,Active brake force assist control systen and control method thereof
+    CN106314408B,2020-12-11,Method for operating a brake system having an electric motor and control device for an electric motor
+    CN102171073A,2011-08-31,Method for operating a brake system in a vehicle
+    JP6134385B2,2017-05-24,Brake control device for vehicle and method for operating at least one electric drive motor for vehicle
+    CN107921944B,2021-05-11,Method for regulating the brake pressure of a motor vehicle, brake system for carrying out the method and motor vehicle
+    US20220324453A1,2022-10-13,Anti-lock control method and anti-lock control system for a braking system of a vehicle
+    CN110072745B,2022-10-18,Method and device for operating a motor vehicle, motor vehicle
+    CN111086394A,2020-05-01,Braking system, motor vehicle and braking control method for an at least temporarily electrically driven vehicle
+    Kant,2014,Sensotronic brake control (SBC)
+    US11554761B2,2023-01-17,Method for controlling an electromechanical braking system and electromechanical braking system
+    KR102487781B1,2023-01-12,Regenerative braking system for a vehicle and method for operating the regenerative braking system in a vehicle
+    US10940841B2,2021-03-09,Method and control unit for controlling a hydraulic braking system
+    CN112105531A,2020-12-18,System for an electrically driven vehicle, vehicle having such a system and method therefor
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    5
+classfication_nums
+    12
+classfication_items
+78
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,6
+    B,6,0,T,8,/,1,7,6,1
+    B,6,0,T,8,/,1,7,6,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,5
+    B,6,0,T,1,3,/,5,8,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,7,4
+    B,6,0,T,1,3,/,7,4,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2016-05-26,Application filed by Robert Bosch GmbH
+    2016-08-15,Assigned to ROBERT BOSCH GMBH
+    2016-12-08,Publication of US20160355167A1
+    2017-09-19,Application granted
+    2017-09-19,Publication of US9764720B2
+    Status,Active
+    2036-05-26,Anticipated expiration
+
+active_area
+2
+    D,E
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    DE102015210104.5A,2015-06-02,Method for operating an electric motor for braking a vehicle and control device for an electric motor designed at least for braking a vehicle
+    DE102015210104.5,2015-06-02,
+    DE102015210104,2015-06-02,
+
+legal_event
+4
+    Date,Code,Title,Description
+    2016-08-15,AS,Assignment,Owner name: ROBERT BOSCH GMBH, GERMANYFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:ERBAN, ANDREAS;FEINAUER, JOCHEN;RICHTER, BASTIAN;AND OTHERS;SIGNING DATES FROM 20160607 TO 20160711;REEL/FRAME:039435/0336
+    2017-08-30,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2021-03-16,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

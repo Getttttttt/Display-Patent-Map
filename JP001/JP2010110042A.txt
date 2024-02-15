@@ -1,0 +1,225 @@
+ID
+    JP2010110042A
+citation_exist
+    NoCitation
+citation_infor
+    NoCitation
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    WO2012114900A1                      *,2011-02-25,2012-08-30,Ntn株式会社,電気自動車
+    JP2012217234A                      *,2011-03-31,2012-11-08,Toyota Motor Corp,車両の充電装置およびそれを備える車両、ならびに電流センサのオフセット補正方法
+    WO2013073547A1                      *,2011-11-18,2013-05-23,Ntn株式会社,電気自動車のモータ制御装置
+    US9751409B2,2011-02-25,2017-09-05,Ntn Corporation,Electric automobile
+    Family To Family Citations,,,,
+
+abstract
+    【課題】誤判定の可能性が低減されたモータ減磁判定が実行できるモータ制御装置を提供する。【解決手段】モータ制御装置は、ロータの回転速度を検出するレゾルバ３２と、モータの回転制御を行なう制御装置３０とを備える。制御装置３０は、検出したロータの回転速度ＭＲＮ１とトルク指令値ＴＲ１とに基づいて、モータの動作状態が判定実行領域に属するか判定禁止領域に属するかを判断し、動作状態が判定実行領域に属する場合には、モータ電圧に基づいて、モータの永久磁石の減磁率が所定値よりも低下しているか否かを判定する減磁判定を実行する。制御装置３０は、モータの動作状態が判定禁止領域に属する場合には、減磁判定を禁止する。【選択図】図１
+title
+    モータ制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    US7960930B2,2011-06-14,Control apparatus and method for motor drive system
+    US8148937B2,2012-04-03,Alternating-current motor control apparatus
+    US8502493B2,2013-08-06,Control device and control method for alternating-current motor
+    US9054613B2,2015-06-09,Motor drive apparatus and vehicle with the same mounted thereon
+    US8188695B2,2012-05-29,Motor control device and drive device for hybrid vehicle
+    US9407181B2,2016-08-02,Vehicle and method for controlling vehicle
+    JP5760778B2,2015-08-12,モータ駆動制御システム
+    JP2010161907A,2010-07-22,モータ駆動制御システムの制御装置
+    JP2006311770A,2006-11-09,モータ駆動システムの制御装置
+    JP2010119268A,2010-05-27,インバータの異常検出装置および異常検出方法
+    JP5720644B2,2015-05-20,車両
+    JP2011087429A,2011-04-28,交流電動機の制御装置および制御方法
+    JP5281370B2,2013-09-04,交流電動機の制御装置
+    JP2010284017A,2010-12-16,交流電動機の制御装置
+    JP2014128051A,2014-07-07,車両の制御装置
+    JP2010239790A,2010-10-21,回転電機制御装置
+    JP2010110042A,2010-05-13,モータ制御装置
+    JP2011067010A,2011-03-31,車両のモータ駆動装置
+    JP5263067B2,2013-08-14,インバータの故障検出装置
+    JP2009225500A,2009-10-01,モータ駆動装置およびその制御方法
+    JP2011019302A,2011-01-27,モータ駆動システムの制御装置
+    JP2011061957A,2011-03-24,車両の制御装置および制御方法
+    JP2010124662A,2010-06-03,モータ駆動システム
+    JP2015082853A,2015-04-27,モータ制御システム
+    JP6323323B2,2018-05-16,昇圧制御装置
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    JP2008277082A,2008-10-28,2008-10-28,モータ制御装置
+
+inventor_number
+    8
+classfication_nums
+    21
+classfication_items
+129
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B,6,0,L,2,2,1,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,3,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+4
+    2008-10-28,Application filed by Toyota Motor Corp
+    2008-10-28,Priority to JP2008277082A
+    2010-05-13,Publication of JP2010110042A
+    Status,Withdrawn
+
+active_area
+0
+
+not_active_area
+1
+    J,P
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2008277082A,2008-10-28,モータ制御装置
+
+legal_event
+2
+    Date,Code,Title,Description
+    2012-01-10,A300,Withdrawal of application because of no request for examination,Free format text: JAPANESE INTERMEDIATE CODE: A300Effective date: 20120110
+

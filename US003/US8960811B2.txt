@@ -1,0 +1,188 @@
+ID
+    US8960811B2
+citation_exist
+    Patent Citations (20)
+citation_infor
+22
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH10119748A,1996-10-17,1998-05-12,Denso Corp,Brake control device
+    US6402264B1                      *,1998-04-14,2002-06-11,Toyota Jidosha Kabushiki Kaisha,Hydraulic wheel brake system
+    US20050269875A1,2004-06-08,2005-12-08,Kazuya Maki,Vehicle brake device
+    JP2006021745A,2004-06-11,2006-01-26,Advics:Kk,Brake device for vehicle and brake control program for vehicle
+    US20070188014A1                      *,2006-02-15,2007-08-16,Takashi Sato,Brake control apparatus for vehicle
+    US20070194621A1                      *,2006-02-22,2007-08-23,Nissan Motor Co., Ltd.,Vehicle brake apparatus and method
+    US20070284936A1                      *,2006-04-13,2007-12-13,Kazuya Maki,Vehicle Brake System
+    US20080236964A1                      *,2007-03-28,2008-10-02,Hitachi, Ltd.,Electric Braking Apparatus
+    US20090243382A1                      *,2008-03-31,2009-10-01,Hidehiro Yamauchi,Braking control apparatus
+    US7605555B2                      *,2006-02-21,2009-10-20,Toyota Jidosha Kabushiki Kaisha,Stabilizer control device for controlling roll rigidity of a stabilizer
+    US8251461B2                      *,2007-01-26,2012-08-28,Bosch Corporation,Brake control device for two-wheeled motor vehicle
+    US20130057051A1                      *,2011-06-24,2013-03-07,Advics Co., Ltd.,Brake apparatus for vehicle
+    Family To Family Citations,,,,
+    JP3465003B2                      *,1998-01-20,2003-11-10,トヨタ自動車株式会社,Brake equipment
+    JP2001055127A                      *,1999-08-17,2001-02-27,Unisia Jecs Corp,Brake control device
+    JP4332962B2                      *,1999-12-13,2009-09-16,トヨタ自動車株式会社,Brake system for vehicles
+    JP4296991B2                      *,2004-06-08,2009-07-15,株式会社アドヴィックス,Brake device for vehicle
+    JP2007245803A                      *,2006-03-14,2007-09-27,Advics:Kk,Control device for vehicle braking
+    JP5012542B2                      *,2007-03-27,2012-08-29,株式会社アドヴィックス,Brake device for vehicle
+    JP4987575B2                      *,2007-06-04,2012-07-25,本田技研工業株式会社,Brake hydraulic pressure control device for vehicles
+    JP2010105631A                      *,2008-10-31,2010-05-13,Hitachi Automotive Systems Ltd,Vehicular brake device
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (18)
+              
+
+
+citedBy_infor
+20
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20140142826A1                      *,2012-11-16,2014-05-22,Nissin Kogyo Co., Ltd.,Vehicle brake hydraulic pressure control apparatus
+    US20150019092A1                      *,2012-03-29,2015-01-15,Komatsu Ltd.,Work vehicle and inching control device thereof
+    US11801818B2                      *,2022-03-29,2023-10-31,Zhejiang University Of Technology,Multi-mode hydraulic braking systems and control methods thereof
+    Family To Family Citations,,,,
+    JP5866817B2                      *,2011-06-24,2016-02-24,株式会社アドヴィックス,Brake device for vehicle
+    CN103619625A                      *,2012-03-30,2014-03-05,本田技研工业株式会社,Internal combustion engine control apparatus and internal combustion engine control method
+    CN103303280B                      *,2013-06-09,2016-12-28,江苏自强环保科技有限公司,Movable type mechanical hydraulic braking method
+    CN103754207B                      *,2014-01-08,2017-02-08,同济大学,Method for controlling double-motor electric-hydraulic composite brake system on basis of force control
+    DE102015201612B4                      *,2014-05-16,2022-05-05,Ford Global Technologies, Llc,Improved wheel slip control
+    JP6237662B2,2015-01-30,2017-11-29,株式会社アドヴィックス,Brake control device
+    KR101673316B1                      *,2015-06-03,2016-11-08,주식회사 만도,Vehicle control apparatus and control method
+    KR101676266B1                      *,2016-02-18,2016-11-16,이래오토모티브시스템 주식회사,Detecting Apparatus and Detecting Method of Sensorless EPB Motor
+    JP6676264B2                      *,2016-03-28,2020-04-08,日信ブレーキシステムズ株式会社,Vehicle brake fluid pressure control device
+    JP6597575B2                      *,2016-12-05,2019-10-30,株式会社アドヴィックス,Vehicle braking system
+    JP6648739B2                      *,2017-03-31,2020-02-14,株式会社アドヴィックス,Vehicle braking control device
+    US10590872B2,2018-02-13,2020-03-17,Ford Global Technologies, Llc,Cylinder exhaust gas recirculation distribution measurement systems and methods
+    CN110550012B                      *,2018-05-31,2021-10-22,比亚迪股份有限公司,Control method and device of brake motor, storage medium and vehicle
+    JP7163831B2                      *,2019-03-14,2022-11-01,トヨタ自動車株式会社,hydraulic brake system
+    KR20220096438A                      *,2020-12-31,2022-07-07,현대모비스 주식회사,Brake System of Autonomous Driving Vehicle and Controlling Method thereof
+
+abstract
+    A brake apparatus includes: a fluid pressure control valve; a fluid pressure pump; a feedback control circuit correcting a control power corresponding to a feedback control target rotation number of a motor and feed the corrected control power to a motor; a feed forward control circuit configured to feed, to the motor, a control power corresponding to a feed-forward control target rotation number of the motor; and an abnormal control fluid pressure generation control device, if a rotation number detector is abnormal, rotating the electric motor with the rotation number higher than the feedback control target rotation number by a margin rotation number, increases the brake fluid passing through the fluid pressure control valve, and changes the control current to be supplied to the fluid pressure control valve so that the wheel cylinder fluid pressure is not changed.
+title
+    Brake apparatus for vehicle
+similar_document
+25
+    Publication,Publication Date,Title
+    US8960811B2,2015-02-24,Brake apparatus for vehicle
+    US8777336B2,2014-07-15,Brake apparatus for vehicle
+    US20220379865A1,2022-12-01,Brake system
+    US8366210B2,2013-02-05,Braking apparatus for vehicle
+    US8042886B2,2011-10-25,Vehicle brake system
+    US8991942B2,2015-03-31,Brake control apparatus
+    KR101259361B1,2013-04-30,Vehicles braking system and method of controlling the same
+    US20050269875A1,2005-12-08,Vehicle brake device
+    US8985713B2,2015-03-24,Vehicle brake system
+    US9233668B2,2016-01-12,Vehicle braking control device
+    US7597409B2,2009-10-06,Control unit of brake apparatus for vehicle
+    JP5167954B2,2013-03-21,Brake control device for vehicle
+    JP2006021745A,2006-01-26,Brake device for vehicle and brake control program for vehicle
+    US20130221733A1,2013-08-29,Brake Control Apparatus
+    CN103223935A,2013-07-31,Brake control device for vehicle
+    US20130127236A1,2013-05-23,Vehicle brake device and method of controlling the same
+    JP2007276550A,2007-10-25,Vehicular brake control device
+    JP2014111394A,2014-06-19,Braking system
+    JP2007276655A,2007-10-25,Vehicular brake control device
+    KR20110108813A,2011-10-06,Vehicles braking system and method of controlling the same
+    JP5853682B2,2016-02-09,Brake control device for vehicle
+    US20130193747A1,2013-08-01,Brake control device for vehicle
+    CN111065559B,2022-01-11,Vehicle brake device
+    US20040135426A1,2004-07-15,Hydraulic braking apparatus
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    7
+classfication_items
+50
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,5
+    B,6,0,T,1,3,/,5,8,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,6,6
+    B,6,0,T,1,3,/,6,8
+    B,6,0,T,1,3,/,6,8,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,0,2
+    B,6,0,T,7,/,0,4
+    B,6,0,T,7,/,0,4,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,4
+    B,6,0,T,8,/,4,0
+    B,6,0,T,8,/,4,0,4
+    B,6,0,T,8,/,4,0,5,9
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,4,0
+    B,6,0,T,2,2,7,0,/,4,0,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+
+application_events
+7
+    2012-06-25,Application filed by Advics Co Ltd
+    2012-09-13,Assigned to ADVICS CO., LTD.
+    2013-01-31,Publication of US20130026817A1
+    2015-02-24,Application granted
+    2015-02-24,Publication of US8960811B2
+    Status,Active
+    2033-04-19,Adjusted expiration
+
+active_area
+3
+    J,P
+    U,S
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2011-140655,2011-06-24,
+    JP2011140655A,2011-06-24,Brake device for vehicle
+
+legal_event
+5
+    Date,Code,Title,Description
+    2012-09-13,AS,Assignment,Owner name: ADVICS CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:MORISHITA, KAZUYA;OSAKI, SHINTARO;REEL/FRAME:028955/0561Effective date: 20120702
+    2015-02-04,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2018-08-09,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551)Year of fee payment: 4
+    2022-08-10,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+

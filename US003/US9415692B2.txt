@@ -1,0 +1,209 @@
+ID
+    US9415692B2
+citation_exist
+    Patent Citations (26)
+citation_infor
+28
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH04293651A,1991-03-22,1992-10-19,Fuji Heavy Ind Ltd,Pseudo vehicle speed calculating method for four-wheel drive vehicle
+    JP2000062590A,1998-08-25,2000-02-29,Toyota Motor Corp,Braking force control device
+    JP2002162225A,2000-11-27,2002-06-07,Toyota Motor Corp,Road surface inclination estimation device
+    US20030173826A1                      *,2002-02-15,2003-09-18,Nissan Motor Co., Ltd.,Brake control apparatus
+    US20060220453A1,2005-03-31,2006-10-05,Shigeru Saito,Brake control apparatus for vehicle
+    JP2006333665A,2005-05-27,2006-12-07,Fuji Heavy Ind Ltd,Driving force controller for motor-driven vehicle
+    US20110006593A1                      *,2008-02-29,2011-01-13,Toyota Jidosha Kabushiki Kaisha,Brake control apparatus
+    US8157334B2                      *,2007-12-15,2012-04-17,Hyundai Motor Company,Brake system for vehicle having regenerative braking function
+    JP2012214110A,2011-03-31,2012-11-08,Honda Motor Co Ltd,Electrically-powered brake device
+    US8366210B2                      *,2006-04-03,2013-02-05,Advics Co., Ltd.,Braking apparatus for vehicle
+    JP2013086626A,2011-10-17,2013-05-13,Nissan Motor Co Ltd,Brake control device of electric vehicle
+    US20130234500A1                      *,2010-10-08,2013-09-12,Nissan Motor Co., Ltd.,Electric vehicle brake control device
+    US20130282253A1                      *,2010-12-20,2013-10-24,Bosch Corporation,Brake system and brake control method
+    US8608256B2                      *,2009-09-01,2013-12-17,Mando Corporation,Hydraulic control method of regenerative braking system for vehicle
+    US20140121915A1                      *,2012-11-01,2014-05-01,Nissin Kogyo Co., Ltd.,Vehicle brake control system
+    US20140375115A1                      *,2012-03-07,2014-12-25,Nissan Motor Co., Ltd.,Braking control device
+    US20150088379A1                      *,2013-09-20,2015-03-26,Hitachi Automotive Systems, Ltd.,Suspension system
+    Family To Family Citations,,,,
+    JP3956693B2                      *,2001-12-27,2007-08-08,トヨタ自動車株式会社,Integrated vehicle motion controller
+    JP4370775B2                      *,2002-12-17,2009-11-25,日産自動車株式会社,Combined brake coordination controller
+    KR100520565B1                      *,2003-11-18,2005-10-11,현대자동차주식회사,Method and system for controlling regenerative braking of a four wheel drive electric vehicle
+    JP2005164010A                      *,2003-12-05,2005-06-23,Toyota Motor Corp,Deceleration control device of vehicle
+    JP2005271822A                      *,2004-03-25,2005-10-06,Mitsubishi Fuso Truck & Bus Corp,Vehicular automatic deceleration control device
+    CN101054065B                      *,2007-05-25,2011-03-16,吉林大学,Regeneration braking and anti-lock integrated control system for mixed power car
+    JP5250379B2                      *,2008-10-14,2013-07-31,日立オートモティブシステムズ株式会社,Brake control device
+    US8612076B2                      *,2008-10-31,2013-12-17,Mahindra Reva Electric Vehicles Pvt. Ltd.,Antilock braking for vehicles
+    CN102009654B                      *,2010-11-12,2013-02-13,清华大学,Longitudinal speed evaluation method of full-wheel electrically-driven vehicle
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (2)
+              
+
+
+citedBy_exist
+    
+              Cited By (10)
+              
+
+
+citedBy_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20190135249A1                      *,2017-11-09,2019-05-09,Ford Global Technologies, Llc,Electric parking brake with regenerative braking control system and method
+    US11180146B2,2019-05-14,2021-11-23,Ford Global Technologies, Llc,Brake control technique to stop a vehicle for assisting automatic trailer hitching
+    US11505072B2                      *,2019-10-29,2022-11-22,Hyundai Motor Company,Regenerative braking system and method
+    Family To Family Citations,,,,
+    JP6088372B2                      *,2013-07-04,2017-03-01,本田技研工業株式会社,Brake system for vehicles
+    CN113147694A,2014-05-20,2021-07-23,爱皮加特股份公司,Actuating system for a vehicle brake and method for operating the actuating system
+    CN106314163A                      *,2016-08-26,2017-01-11,北京长城华冠汽车科技股份有限公司,Braking control method and device of electric vehicle
+    US10513248B2,2017-06-30,2019-12-24,Veoneer Nissin Brake Systems Japan Co., Ltd.,Brake fluid pressure filtering and control systems and methods
+    CN110001610A                      *,2019-04-23,2019-07-12,岭南师范学院,A kind of four-wheel independent hub electric car composite braking control device
+    JP2021084440A                      *,2019-11-25,2021-06-03,株式会社アドヴィックス,Vehicle brake control device
+    CN116923357A                      *,2022-02-14,2023-10-24,北京路凯智行科技有限公司,Unmanned braking fault diagnosis system
+
+abstract
+    A vehicle brake hydraulic pressure control apparatus includes a wheel speed acquiring section, a vehicle body deceleration calculator, and a switch section. The wheel speed acquiring section is configured to acquire a wheel speed from a wheel speed sensor. The vehicle body deceleration calculator is configured to calculate a vehicle body deceleration. The switch section is configured to switch control from the regenerative cooperation control to the hydraulic pressure control, based on (i) a wheel deceleration which is determined based on the wheel speed and (ii) the vehicle body deceleration. The vehicle body deceleration calculator is configured to calculate the vehicle body deceleration based on a required deceleration which corresponds to a driver's operation of a braking pedal.
+title
+    Vehicle brake hydraulic pressure control apparatus
+similar_document
+19
+    Publication,Publication Date,Title
+    US9415692B2,2016-08-16,Vehicle brake hydraulic pressure control apparatus
+    CN101074015B,2011-09-07,Method for reducing motor-driven vehicle turning radius using automatic single side after braking
+    JP5119646B2,2013-01-16,Brake control device for vehicle
+    US9707945B2,2017-07-18,Vehicle brake control apparatus
+    KR102333527B1,2021-12-01,Brake device, vehicle control device and electric brake control device
+    JP2015051672A,2015-03-19,Brake system, brake device, and brake control method
+    JP2007238053A,2007-09-20,Brake control device for vehicle
+    US9434365B2,2016-09-06,Vehicle brake hydraulic pressure controller
+    WO2018079696A1,2018-05-03,Brake device for vehicle
+    US9932024B2,2018-04-03,Vehicle brake hydraulic pressure control apparatus
+    US8915555B2,2014-12-23,Brake control device for vehicle
+    US9610928B2,2017-04-04,Vehicle brake hydraulic pressure control apparatus
+    WO2016175114A1,2016-11-03,Braking device for vehicles
+    JP2012166701A,2012-09-06,Braking/driving force control device
+    JP5966994B2,2016-08-10,Brake control device for vehicle
+    JP2012162241A,2012-08-30,Braking power control system
+    JPH1081214A,1998-03-31,Vehicle behavior controlling device
+    JP2014083960A,2014-05-12,Vehicle motion control unit
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    11
+classfication_items
+74
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,6,6
+    B,6,0,T,1,3,/,6,6,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,6,6
+    B,6,0,T,1,3,/,6,8
+    B,6,0,T,1,3,/,6,8,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,7,4
+    B,6,0,T,1,3,/,7,4,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,0,2
+    B,6,0,T,7,/,0,4
+    B,6,0,T,7,/,0,4,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,6
+    B,6,0,T,8,/,1,7,6,9
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,2,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,2,1
+    B,6,0,T,8,/,3,2,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,4
+    B,6,0,T,8,/,4,0
+    B,6,0,T,8,/,4,0,7,2
+    B,6,0,T,8,/,4,0,8,1
+
+application_events
+6
+    2014-06-18,Application filed by Autoliv Nissin Brake Systems Japan Co Ltd
+    2014-12-25,Publication of US20140379234A1
+    2016-08-16,Application granted
+    2016-08-16,Publication of US9415692B2
+    Status,Active
+    2034-06-18,Anticipated expiration
+
+active_area
+4
+    J,P
+    E,P
+    U,S
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2013-128858,2013-06-19,
+    JP2013128858A,2013-06-19,Brake hydraulic pressure control device for vehicles
+
+legal_event
+8
+    Date,Code,Title,Description
+    2014-06-18,AS,Assignment,Owner name: NISSIN KOGYO CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:KATO, NOBUYOSHI;SEKIYA, TOMOAKI;WAKIZAKA, KEISUKE;REEL/FRAME:033130/0355Effective date: 20140612
+    2016-02-03,AS,Assignment,Owner name: AUTOLIV NISSIN BRAKE SYSTEMS JAPAN CO., LTD., JAPAFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:NISSIN KOGYO CO., LTD.;REEL/FRAME:037657/0968Effective date: 20160125
+    2016-02-23,AS,Assignment,Owner name: NISSIN KOGYO CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:AUTOLIV NISSIN BRAKE SYSTEMS JAPAN CO., LTD.;REEL/FRAME:037792/0754Effective date: 20160217
+    2016-07-06,AS,Assignment,Owner name: AUTOLIV NISSIN BRAKE SYSTEMS JAPAN CO., LTD., JAPAFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:NISSIN KOGYO CO., LTD.;REEL/FRAME:039086/0404Effective date: 20160613
+    2016-07-27,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2016-12-02,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2020-01-28,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

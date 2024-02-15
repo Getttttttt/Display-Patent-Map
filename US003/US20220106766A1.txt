@@ -1,0 +1,201 @@
+ID
+    US20220106766A1
+citation_exist
+    Patent Citations (7)
+citation_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JPH0565440B2                      *,1984-05-09,1993-09-17,Toyoda Automatic Loom Works,
+    KR0184512B1                      *,1993-07-05,1999-04-15,토니헬샴,Direction and speed control unit for fluid pressure operator
+    JP3874226B2,1998-04-24,2007-01-31,株式会社小松製作所,Control device for hydraulic drive machine
+    EP2570301B1                      *,2011-09-16,2015-11-11,Cargotec Finland Oy,Hydraulic arrangement and method for lowering a tipping frame of a hooklift
+    CN203174660U                      *,2013-02-25,2013-09-04,无锡开普机械有限公司,Load-sensitive control system of loading machine
+    EP3020874B1                      *,2014-11-12,2022-07-06,John Deere Forestry Oy,A hydraulic control system for controlling a moveable device
+    JP2016109204A                      *,2014-12-05,2016-06-20,Ｋｙｂ株式会社,Control system of hybrid construction machine
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    A control unit for a hydraulic system includes a hydraulic actuator including an actuator chamber the hydraulic actuator including a first actuator portion and a second actuator portion wherein the first actuator portion can move relative to the second actuator portion, the actuator chamber being in fluid communication with a flow rale control arrangement adapted to control a rate of flow from the actuator chamber. The control unit is adapted to receive a load signal indicative of the magnitude of the load applied to the hydraulic actuator, receive a requested speed signal indicative of a desired relative movement speed between the first actuator portion and the second actuator portion in a direction that reduces the chamber volume, and based on the load signal and the requested speed signal, issue a control signal to the flow rate control arrangement indicative of a desired flow rate from the actuator chamber.
+title
+    Control unit for a hydraulic system
+similar_document
+23
+    Publication,Publication Date,Title
+    US10408238B2,2019-09-10,Control strategy for hydraulic actuator with a pair of independent metering valves
+    US9086061B2,2015-07-21,Energy recovery hydraulic system
+    EP2940315B1,2018-02-14,Hydraulic control device and construction machine with same
+    US20090308068A1,2009-12-17,Control circuit for  construction machine
+    US9702118B2,2017-07-11,Hydraulic regenerative and recovery parasitic mitigation system
+    US8875506B2,2014-11-04,Work vehicle lifting performance
+    US8548692B2,2013-10-01,Travel vibration suppressing device of work vehicle
+    US9423800B2,2016-08-23,Fail operational modes for an electro-hydraulic system
+    US9334883B2,2016-05-10,Method for controlling a hydraulic system of a working machine
+    US20220106766A1,2022-04-07,Control unit for a hydraulic system
+    US10065473B2,2018-09-04,Control device of a vehicle suspension
+    US10662618B2,2020-05-26,Construction machine
+    US11447926B2,2022-09-20,Method and a system for controlling the ground grip of a wheeled loader
+    US9783959B2,2017-10-10,Method of operating ride control system
+    US10801181B2,2020-10-13,Energy regeneration device and work machine provided with energy regeneration device
+    JP2017125353A,2017-07-20,Loading apparatus for wheel loader
+    EP3599382B1,2022-07-27,Hydraulic system and method for controlling the speed and pressure of a hydraulic cylinder
+    US20220120295A1,2022-04-21,Drive device for hydraulic cylinder in work machine
+    KR102459351B1,2022-10-26,Control system for construction machinery and control method for construction machinery using the same
+    US20160298314A1,2016-10-13,System and method for machine control
+    KR20160070230A,2016-06-20,Working machine
+    CN104854281A,2015-08-19,System and methods for controlled lowering and lifting of a load
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    15
+classfication_items
+109
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,2,1
+    E,0,2,F,9,/,2,2,2,5
+    E,0,2,F,9,/,2,2,2,8
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,0,0,4
+    E,0,2,F,9,/,2,0,1,2
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,0,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F,1,5,B,1,1,/,0,2
+    F,1,5,B,1,1,/,0,4
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,1,/,0,0
+    F,1,5,B,2,1,/,1,4
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,3,0
+    F,1,5,B,2,2,1,1,/,3,0,5
+    F,1,5,B,2,2,1,1,/,3,0,5,6
+    F,1,5,B,2,2,1,1,/,3,0,5,6,5
+    F,1,5,B,2,2,1,1,/,3,0,5,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,4,0
+    F,1,5,B,2,2,1,1,/,4,1,5
+    F,1,5,B,2,2,1,1,/,4,1,5,8,1
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,4,0
+    F,1,5,B,2,2,1,1,/,4,2
+    F,1,5,B,2,2,1,1,/,4,2,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,0,6
+    F,1,5,B,2,2,1,1,/,6,3,1,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,4,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,6,5
+    F,1,5,B,2,2,1,1,/,6,6,5,4
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,0,5
+    F,1,5,B,2,2,1,1,/,7,0,5,1
+    F,1,5,B,2,2,1,1,/,7,0,5,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,0,5
+    F,1,5,B,2,2,1,1,/,7,0,5,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,6
+    F,1,5,B,2,2,1,1,/,7,6,1
+
+application_events
+3
+    2019-01-23,Application filed by Volvo Construction Equipment AB
+    2022-04-07,Publication of US20220106766A1
+    Status,Abandoned
+
+active_area
+1
+    C,N
+
+not_active_area
+2
+    E,P
+    U,S
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/EP2019/051613,2019-01-23,Control unit for a hydraulic system
+
+legal_event
+4
+    Date,Code,Title,Description
+    2022-01-28,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2022-04-20,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2022-11-19,STCB,Information on status: application discontinuation,Free format text: ABANDONED  --  FAILURE TO RESPOND TO AN OFFICE ACTION
+

@@ -1,0 +1,186 @@
+ID
+    US20160375778A1
+citation_exist
+    Patent Citations (9)
+citation_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    KR100837939B1,2006-10-11,2008-06-13,현대자동차주식회사,Power system of hybrid fuel cell bus and control method thereof
+    KR100862467B1,2006-12-12,2008-10-08,현대자동차주식회사,Multi-Function Resister for fuel cell-super capacitor hybrid electric vehicle
+    KR100878661B1,2007-07-13,2009-01-15,현대자동차주식회사,System for discharging super capacitor of fuel cell vehicle
+    JP2009165243A                      *,2007-12-28,2009-07-23,Toyota Motor Corp,Fuel cell system
+    KR20100060478A,2008-11-27,2010-06-07,주식회사 케피코,Electronic control unit for a fuel cell car having a self start function during the stop of starting
+    JP5284126B2,2009-01-27,2013-09-11,本田技研工業株式会社,Fuel cell vehicle
+    JP2013027275A                      *,2011-07-26,2013-02-04,Honda Motor Co Ltd,Fuel cell vehicle, and control method therefor
+    KR20130027275A,2011-09-07,2013-03-15,엘지이노텍 주식회사,Light emitting device, light emitting device package, and light unit
+    JP5929332B2,2012-03-06,2016-06-01,スズキ株式会社,Vehicle power supply
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (5)
+              
+
+
+citedBy_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20160375777A1                      *,2015-06-24,2016-12-29,Hyundai Motor Company,Power net system of fuel cell vehicle and method for controlling the same
+    EP3844376A4                      *,2018-08-30,2022-06-08,Watt Fuel Cell Corp.,Safety control system and method for fuel-consuming apparatus
+    US11634042B2                      *,2020-06-23,2023-04-25,Hyundai Motor Company,Apparatus and method for controlling locking of a charging inlet of a vehicle
+    Family To Family Citations,,,,
+    KR20210053589A,2019-11-04,2021-05-12,현대자동차주식회사,System and methdo for controlling hydrogen electric vehicle for using auxiliary break
+    CN112060982B                      *,2020-08-13,2022-07-05,西北工业大学,Dynamically balanced fuel cell unmanned aerial vehicle energy management method
+
+abstract
+    A power net system of a fuel cell vehicle is provided. The power net system includes a fuel cell and a first switching unit that is configured to form and block an electrical connection between an output terminal of the fuel cell and a main bus. A load device diverges and is connected between the output terminal and the first switching unit. A reverse current blocking unit is disposed between the output terminal of the fuel cell and a node from which the load device diverges and is configured to block a current flow to the output terminal of the fuel cell. A second switching unit is configured to form and block an electrical connection between the output terminal of the fuel cell and the load device. A controller operates the first and second switching units to form the electrical connection between the main bus and the load device.
+title
+    Power net system of fuel cell vehicle and method for controlling the same
+similar_document
+26
+    Publication,Publication Date,Title
+    US10179513B2,2019-01-15,Power net system of fuel cell vehicle and method for controlling the same
+    CN107490766B,2021-09-10,System and method for measuring insulation resistance of fuel cell vehicle
+    US9919604B2,2018-03-20,Power net system of fuel cell vehicle and method for controlling the same
+    US9780577B2,2017-10-03,Electric power supply control device and electric power supply control method
+    US9387763B2,2016-07-12,Power source device for vehicle
+    US10793020B2,2020-10-06,Fuel cell vehicle system and method of controlling the same
+    US9929674B2,2018-03-27,Power supply system for vehicle
+    US10000139B2,2018-06-19,Safety system of fuel cell vehicle and control method for the same
+    US9902285B2,2018-02-27,Power net system for fuel cell vehicle and method of controlling the same
+    CN107428254B,2020-03-17,Power supply device for vehicle
+    CN104734274B,2018-11-06,Vehicle battery charging equipment and the method for using vehicle battery charging equipment
+    EP3473487B1,2023-05-03,Battery system for vehicle
+    US20170136913A1,2017-05-18,Apparatus and method for detecting relay fusion of eco-friendly vehicle
+    CN108688481B,2023-04-07,Vehicle battery system and method of controlling battery charging in the same
+    CN106627191B,2021-03-02,Battery control system and method for detecting relay welding
+    JP5061555B2,2012-10-31,Fuel cell system and fuel cell starting method
+    US20120256611A1,2012-10-11,Power supply apparatus and method of controlling the same
+    EP3670241A1,2020-06-24,Power source system for vehicle
+    US9242575B2,2016-01-26,Method and system for controlling a fuel cell vehicle
+    US20160156084A1,2016-06-02,Apparatus and method for controlling converter
+    US10293701B2,2019-05-21,Control method and system of low-voltage DC-DC converter for hybrid vehicle
+    KR101910918B1,2018-10-23,Vehicle and method of recharging battery therein
+    CN110178281A,2019-08-27,Managing device and accumulating system
+    US9694698B2,2017-07-04,Power storage system and control device of power storage device
+    US9821665B2,2017-11-21,Safety apparatus for portable power generation of fuel cell vehicle and operation method thereof
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    15
+classfication_items
+72
+    B,6,0,L,1,1,/,1,8,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B,6,0,L,1,1,/,1,8,0,9
+    B,6,0,L,1,1,/,1,8,8,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,6,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,0,2
+    B,6,0,L,7,/,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,4,2
+    H,0,2,M,7,/,4,4
+    H
+    H,0,2
+    H,0,2,H
+    H,0,2,H,7,/,0,0
+    H,0,2,H,7,/,2,6
+    H,0,2,H,7,/,2,6,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,4,0
+
+application_events
+7
+    2015-12-09,Application filed by Hyundai Motor Co
+    2016-12-29,Publication of US20160375778A1
+    2018-01-30,Assigned to HYUNDAI MOTOR COMPANY
+    2018-03-20,Application granted
+    2018-03-20,Publication of US9919604B2
+    Status,Active
+    2036-08-14,Adjusted expiration
+
+active_area
+3
+    K,R
+    D,E
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    KR10-2015-0090040,2015-06-24,
+    KR1020150090040A,2015-06-24,Power net system of fuel cell vehicle and method for controlling the same
+
+legal_event
+4
+    Date,Code,Title,Description
+    2018-01-30,AS,Assignment,Owner name: HYUNDAI MOTOR COMPANY, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:KWON, SANG UK;REEL/FRAME:044767/0766Effective date: 20151126
+    2018-02-28,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2021-08-23,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

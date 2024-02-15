@@ -1,0 +1,288 @@
+ID
+    WO2020054828A1
+citation_exist
+    Patent Citations (15)
+citation_infor
+17
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2016208570A                      *,2015-04-15,2016-12-08,株式会社東芝,電池盤、電源装置および電池盤の制御方法
+    JP6293010B2                      *,2014-07-23,2018-03-14,本田技研工業株式会社,蓄電システム
+    Family To Family Citations,,,,
+    JPS6247039B2,1979-01-11,1987-10-06,Ricoh Kk,
+    JP3947906B2,2001-08-30,2007-07-25,株式会社日立製作所,バックアップ電源と電源装置
+    JP3872758B2,2003-01-08,2007-01-24,株式会社日立製作所,電源制御装置
+    JP2005176461A                      *,2003-12-09,2005-06-30,Matsushita Electric Ind Co Ltd,直流無停電電源装置
+    JP4572850B2,2006-03-24,2010-11-04,株式会社日立製作所,電源制御装置
+    JP5118913B2                      *,2007-07-24,2013-01-16,トヨタ自動車株式会社,電源システムおよびそれを備えた電動車両ならびに電源システムの制御方法
+    JP4525809B2,2008-07-28,2010-08-18,トヨタ自動車株式会社,電源システムおよびそれを備えた車両、ならびに電源システムの制御方法
+    EP2428388A4                      *,2009-05-08,2014-07-16,Toyota Motor Co Ltd,POWER SUPPLY SYSTEM AND VEHICLE EQUIPPED WITH THE POWER SUPPLY SYSTEM
+    JP5755540B2,2011-09-20,2015-07-29,株式会社東芝,蓄電池装置及び蓄電池装置の運転方法
+    JP6247039B2,2013-07-25,2017-12-13,電源開発株式会社,電力貯蔵装置および電力貯蔵装置の充放電方法
+    JP2015192462A,2014-03-27,2015-11-02,株式会社Ihi,電池システム
+    JP6365222B2,2014-10-20,2018-08-01,株式会社豊田自動織機,制御装置及び制御方法
+    DE112018000424T5                      *,2017-01-18,2019-10-10,Denso Corporation,Energiewandlungssystemsteuergerät und Steuersystem
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    WO2022009984A1                      *,2020-07-10,2022-01-13,株式会社オートネットワーク技術研究所,変換装置
+    WO2023188368A1                      *,2022-03-31,2023-10-05,本田技研工業株式会社,駆動制御装置及び駆動制御装置の制御方法
+    Family To Family Citations,,,,
+    JP2021099898A                      *,2019-12-19,2021-07-01,横河電機株式会社,二次電池管理装置及び二次電池管理方法
+    US11569668B2                      *,2020-07-14,2023-01-31,Igrenenergi, Inc.,System and method for dynamic balancing power in a battery pack
+
+abstract
+    電源システム（１０）において、複数の電圧変換器（１４）では、充放電可能なバッテリ（１２）が１次側（３０）に接続され、２次側（３２）が互いに並列接続されている。複数の電圧変換器（１４）の各々について、変圧率（Ｔｒ）は、１次側電流計測器（１６）で計測される電流が、１次側（３０）に接続されるバッテリ（１２）の放電電流最大値（Ｉｄｍａｘ）とバッテリ（１２）の充電電流最大値（Ｉｃｍａｘ）との間の第１範囲内に収まるように設定される。
+title
+    電源システム
+similar_document
+26
+    Publication,Publication Date,Title
+    WO2020054828A1,2020-03-19,電源システム
+    CN108933526B,2021-05-28,宽输入宽输出高效隔离型dc-dc转换器电池充电器
+    US7936573B2,2011-05-03,Bi-directional DC-DC converter and control method
+    US9438115B2,2016-09-06,Power supply system
+    US10848068B2,2020-11-24,Power conversion system control device and control system
+    US6297616B1,2001-10-02,Charge and discharge system for electric power storage equipment
+    JP5035978B2,2012-09-26,車両用ｄｃｄｃコンバータ装置
+    JP5786325B2,2015-09-30,電力変換回路システム
+    US9525356B2,2016-12-20,Electric power conversion system
+    EP2978118A1,2016-01-27,Power converter and power conditioner
+    JP6480935B2,2019-03-13,充電バランス装置
+    US9419532B2,2016-08-16,Electric power conversion system and electric power conversion method for stopping power upon a failure
+    US9868358B2,2018-01-16,Power conversion system suppressing reduction in conversion efficiency
+    US9727125B2,2017-08-08,Power supply system with a plurality of power supply circuits and control method of the same
+    US20230155377A1,2023-05-18,Battery current sharing control method and battery current sharing control system
+    EP4082107A1,2022-11-02,Multi-port power converter
+    CN111130165A,2020-05-08,电源装置
+    CN110015140B,2021-06-18,电动汽车及其电源电路
+    WO2021100799A1,2021-05-27,電源システム及びその制御方法
+    KR20170100163A,2017-09-04,Dc-dc 컨버터
+    WO2022234784A1,2022-11-10,電力変換装置
+    US20220131472A1,2022-04-28,Power-supply control device
+    WO2019117083A1,2019-06-20,車載充電システム
+    JPWO2019220915A1,2021-07-01,電源システム
+    JP2021175210A,2021-11-01,電力システム及び電力供給装置
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    US17/275,695,2018-09-13,2019-09-13,Power supply system
+    JP2020546211A,2018-09-13,2019-09-13,電源システム
+
+inventor_number
+    4
+classfication_nums
+    25
+classfication_items
+167
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,4
+    H,0,1,M,1,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,8
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,8
+    H,0,1,M,1,0,/,4,8,2
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,1,/,0,0
+    H,0,2,J,1,/,1,0
+    H,0,2,J,1,/,1,0,2
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,1,3
+    H,0,2,J,7,/,0,0,1,4
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,4,7
+    H,0,2,J,7,/,0,0,4,8
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,7
+    H,0,2,J,7,/,0,0,7,1,2
+    H,0,2,J,7,/,0,0,7,1,4
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,7
+    H,0,2,J,7,/,0,0,7,1,2
+    H,0,2,J,7,/,0,0,7,1,8,2
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H,0,2,M,3,/,0,2
+    H,0,2,M,3,/,0,4
+    H,0,2,M,3,/,1,0
+    H,0,2,M,3,/,1,4,5
+    H,0,2,M,3,/,1,5,5
+    H,0,2,M,3,/,1,5,6
+    H,0,2,M,3,/,1,5,8
+    H,0,2,M,3,/,1,5,8,4
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,2,2,2,0,/,0,0
+    H,0,1,M,2,2,2,0,/,2,0
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,2,2,0,7,/,0,0
+    H,0,2,J,2,2,0,7,/,2,0
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H,0,2,M,3,/,0,2
+    H,0,2,M,3,/,0,4
+    H,0,2,M,3,/,1,0
+    H,0,2,M,3,/,1,4,5
+    H,0,2,M,3,/,1,5,5
+    H,0,2,M,3,/,1,5,6
+    H,0,2,M,3,/,1,5,8
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,8,0
+    Y,0,2,T,1,0,/,9,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+
+application_events
+4
+    2019-09-13,Application filed by 本田技研工業株式会社
+    2019-09-13,Priority to US17/275,695
+    2019-09-13,Priority to JP2020546211A
+    2020-03-19,Publication of WO2020054828A1
+
+active_area
+3
+    U,S
+    W,O
+    J,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2018171167,2018-09-13,
+    JP2018-171167,2018-09-13,
+
+legal_event
+5
+    Date,Code,Title,Description
+    2020-04-29,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 19858848Country of ref document: EPKind code of ref document: A1
+    2021-03-10,ENP,Entry into the national phase,Ref document number: 2020546211Country of ref document: JPKind code of ref document: A
+    2021-03-16,NENP,Non-entry into the national phase,Ref country code: DE
+    2021-09-22,122,Ep: pct application non-entry in european phase,Ref document number: 19858848Country of ref document: EPKind code of ref document: A1
+

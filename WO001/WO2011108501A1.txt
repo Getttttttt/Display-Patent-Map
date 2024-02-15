@@ -1,0 +1,309 @@
+ID
+    WO2011108501A1
+citation_exist
+    Patent Citations (14)
+citation_infor
+16
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH08154304A                      *,1994-11-29,1996-06-11,Nissan Motor Co Ltd,電気自動車の回生制動装置
+    JPH10164709A                      *,1996-11-27,1998-06-19,Isuzu Motors Ltd,電源装置および電気自動車用電源装置
+    JPH1118464A                      *,1997-06-23,1999-01-22,Sanyo Denki Co Ltd,モータ制御装置
+    JP2004357412A                      *,2003-05-29,2004-12-16,Nissan Motor Co Ltd,インバーターの直流電源装置
+    JP2007295749A                      *,2006-04-26,2007-11-08,Toyota Motor Corp,電源装置およびこれを備える車両
+    JP2008211703A                      *,2007-02-28,2008-09-11,Hitachi Ltd,半導体回路
+    Family To Family Citations,,,,
+    US4663547A                      *,1981-04-24,1987-05-05,General Electric Company,Composite circuit for power semiconductor switching
+    JP3849712B2                      *,2003-06-30,2006-11-22,サンケン電気株式会社,半導体スイッチ
+    JP4432463B2                      *,2003-11-10,2010-03-17,トヨタ自動車株式会社,負荷駆動装置およびその動作をコンピュータに実行させるためのプログラムを記録したコンピュータ読み取り可能な記録媒体
+    JP2006223032A                      *,2005-02-09,2006-08-24,Sumitomo Electric Ind Ltd,スイッチング装置
+    JP2006314154A                      *,2005-05-06,2006-11-16,Sumitomo Electric Ind Ltd,電力変換器
+    DE102006029928B3                      *,2006-06-29,2007-09-06,Siemens Ag,Elektronische Schalteinrichtung mit zumindest zwei Halbleiterschaltelementen
+    EP2269293B1                      *,2008-02-04,2013-04-10,Nxp B.V.,Method of operating a resonant power converter and a controller therefor
+    WO2010137127A1                      *,2009-05-27,2010-12-02,トヨタ自動車株式会社,電圧変換装置の制御装置およびそれを搭載した車両、電圧変換装置の制御方法
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (8)
+              
+
+
+citedBy_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    WO2016063887A1                      *,2014-10-21,2016-04-28,ナブテスコ株式会社,交流電動機の駆動装置
+    JP2017063609A                      *,2016-11-25,2017-03-30,国立大学法人長岡技術科学大学,交流電機システム及びその制御方法
+    JP2019518647A                      *,2016-05-20,2019-07-04,ルノー エス．ア．エス．Ｒｅｎａｕｌｔ Ｓ．Ａ．Ｓ．,ギヤ変更中にハイブリッド車両で利用可能なトルクを制御するための方法
+    Family To Family Citations,,,,
+    WO2014192392A1                      *,2013-05-29,2014-12-04,日産自動車株式会社,プラグインハイブリッド車両の制御装置
+    GB201317749D0,2013-10-08,2013-11-20,Dyson Technology Ltd,AC/DC boost converter
+    EP3070808B1                      *,2013-11-13,2019-05-22,Volvo Lastvagnar Aktiebolag,Charge/discharge system
+    JP2017022872A                      *,2015-07-10,2017-01-26,トヨタ自動車株式会社,電源システム
+    US11075574B1                      *,2020-12-29,2021-07-27,Altec Industries, Inc.,Non-conductive shaft generator
+
+abstract
+    負荷駆動装置は、直列接続された２つのスイッチング素子を有し、蓄電器が出力する直流電圧を異なるレベルの直流電圧に変換するコンバータと、コンバータから出力された直流電圧を交流電圧に変換して回転型誘導性負荷に印加するインバータと、コンバータとインバータの間に、コンバータ及びインバータと並列に設けられたコンデンサとを備える。２つのスイッチング素子の内、蓄電器から回転型誘導性負荷への電力供給経路の一部を構成する一方のスイッチング素子は、ノーマリオン型の半導体素子である。したがって、回転型誘導性負荷が回生動作して発生した電力を、制御部又はコンバータの故障時であっても簡単な構成で蓄電器に蓄電可能な負荷駆動装置を提供できる。
+title
+    負荷駆動装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP5557898B2,2014-07-23,負荷駆動装置
+    US7269535B2,2007-09-11,Fault diagnosing apparatus for vehicle and fault diagnosing method for vehicle
+    JP4023171B2,2007-12-19,負荷駆動装置、負荷駆動装置における電力貯蔵装置の充電制御方法および充電制御をコンピュータに実行させるためのプログラムを記録したコンピュータ読取可能な記録媒体
+    JP5333348B2,2013-11-06,車両の電力変換装置およびそれを備える車両
+    JP4519728B2,2010-08-04,電動車両の制御装置
+    JP5264949B2,2013-08-14,電動車両
+    JP6554151B2,2019-07-31,車両の電源システム
+    JP5171578B2,2013-03-27,車両用バッテリー制御装置
+    US20140049215A1,2014-02-20,Method for monitoring the charging mode of an energy store in a vechile and charging system for charging an energy store in a vechile
+    JP5227230B2,2013-07-03,電動車両
+    JP5320094B2,2013-10-23,電動車両およびその充電制御方法
+    CN111688492B,2023-04-18,电源系统
+    JP4048787B2,2008-02-20,負荷駆動装置
+    JP2015073423A,2015-04-16,電動車用電力変換システム
+    JP2007259584A,2007-10-04,車両の電源装置
+    JP2013051831A,2013-03-14,電動車両の電源制御装置
+    US9827857B2,2017-11-28,Power supply device
+    JP7032249B2,2022-03-08,電源システム
+    JP5529393B2,2014-06-25,発電電動機駆動装置に適用される蓄電装置の放電装置
+    CN112600412A,2021-04-02,电力控制装置
+    CN110182150B,2022-08-30,车辆用电源装置
+    CN111824044A,2020-10-27,电源系统
+    CN112046288A,2020-12-08,电源系统
+    JP2019165579A,2019-09-26,車両の電源システム
+    JP2010093981A,2010-04-22,電源システム
+
+patent_application
+    NoExist
+patent_priority_application
+5
+    Application,Priority date,Filing date,Title
+    EP11750611.3A,2010-03-02,2011-02-28,LAST DRIVE DEVICE
+    JP2012503136A,2010-03-02,2011-02-28,負荷駆動装置
+    US13/582,322,2010-03-02,2011-02-28,Load drive apparatus
+    CN2011800062144A,2010-03-02,2011-02-28,负载驱动装置
+
+inventor_number
+    5
+classfication_nums
+    28
+classfication_items
+178
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,3,4
+    H,0,2,J,7,/,3,4,5
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,4
+    B,6,0,K,6,/,4,4,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B,6,0,K,6,/,4,8,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,7,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,8,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,9,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,4,2
+    H,0,2,M,7,/,4,4
+    H,0,2,M,7,/,4,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,4
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B,6,0,L,2,2,1,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,0,0,6,7
+    H,0,2,M,1,/,0,0,7
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H,0,2,M,3,/,0,2
+    H,0,2,M,3,/,0,4
+    H,0,2,M,3,/,1,0
+    H,0,2,M,3,/,1,4,5
+    H,0,2,M,3,/,1,5,5
+    H,0,2,M,3,/,1,5,6
+    H,0,2,M,3,/,1,5,8
+    H,0,2,M,3,/,1,5,8,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+6
+    2011-02-28,Application filed by 本田技研工業株式会社
+    2011-02-28,Priority to EP11750611.3A
+    2011-02-28,Priority to JP2012503136A
+    2011-02-28,Priority to US13/582,322
+    2011-02-28,Priority to CN2011800062144A
+    2011-09-09,Publication of WO2011108501A1
+
+active_area
+2
+    W,O
+    C,N
+
+not_active_area
+3
+    J,P
+    U,S
+    E,P
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2010-045873,2010-03-02,
+    JP2010045873,2010-03-02,
+
+legal_event
+6
+    Date,Code,Title,Description
+    2011-02-28,WWE,Wipo information: entry into national phase,Ref document number: 201180006214.4Country of ref document: CN
+    2011-10-26,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 11750611Country of ref document: EPKind code of ref document: A1
+    2012-04-02,WWE,Wipo information: entry into national phase,Ref document number: 2012503136Country of ref document: JP
+    2012-08-31,WWE,Wipo information: entry into national phase,Ref document number: 13582322Country of ref document: USRef document number: 2011750611Country of ref document: EP
+    2012-09-03,NENP,Non-entry into the national phase,Ref country code: DE
+

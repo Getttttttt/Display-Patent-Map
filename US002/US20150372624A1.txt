@@ -1,0 +1,226 @@
+ID
+    US20150372624A1
+citation_exist
+    Patent Citations (11)
+citation_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    US7755313B2                      *,2007-09-12,2010-07-13,Gm Global Technology Operations, Inc.,Power inverter module thermal management
+    US7952236B2                      *,2007-01-04,2011-05-31,Toyota Jidosha Kabushiki Kaisha,Control apparatus for load device, and vehicle
+    US8220574B2                      *,2007-07-19,2012-07-17,Toyota Jidosha Kabushiki Kaisha,Inverter control device and vehicle
+    Family To Family Citations,,,,
+    JP4269197B2                      *,1999-04-16,2009-05-27,富士電機システムズ株式会社,A drive device for a permanent magnet motor for an electric vehicle.
+    JP2005045927A                      *,2003-07-23,2005-02-17,Toyota Motor Corp,Motor drive system and electric automobile
+    JP4285333B2                      *,2004-06-02,2009-06-24,トヨタ自動車株式会社,Motor drive system
+    JP2007143293A,2005-11-18,2007-06-07,Toyota Motor Corp,Power supply device and power feeding method
+    JP4921883B2                      *,2006-08-07,2012-04-25,株式会社東芝,Electric vehicle control device
+    JP2009232652A                      *,2008-03-25,2009-10-08,Aisin Aw Co Ltd,Rotating electrical machine control system and vehicle driving system including the rotating electrical machine control system
+    JP5862125B2                      *,2011-09-05,2016-02-16,富士電機株式会社,Control device for power converter
+    JP6146047B2                      *,2012-10-04,2017-06-14,株式会社豊田自動織機,Drive device for hybrid vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (6)
+              
+
+
+citedBy_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20210234495A1                      *,2020-01-28,2021-07-29,Mazda Motor Corporation,Magnet temperature estimating device for motor and hybrid vehicle provided with the same
+    Family To Family Citations,,,,
+    CN106208887B                      *,2016-07-13,2018-10-26,广东美的制冷设备有限公司,No electrolytic capacitor motor driven systems and its control method, device
+    JP6597567B2                      *,2016-11-22,2019-10-30,株式会社デンソー,Vehicle control device
+    JP2019004594A                      *,2017-06-14,2019-01-10,本田技研工業株式会社,Power supply unit of vehicle
+    JP7298220B2                      *,2019-03-18,2023-06-27,株式会社デンソー,liquid cooling inverter
+    CN112498123B                      *,2019-11-07,2022-02-22,河南嘉晨智能控制股份有限公司,Method for stabilizing sliding speed of forklift ramp
+
+abstract
+    An electric motor control system includes an inverter, an element temperature observation data acquiring device, a rotational speed upper limit setting device, and a rotational speed limiter. The inverter includes switching elements. The element temperature observation data acquiring device is configured to acquire element temperature observation data indicating an observation value of a temperature of the switching elements of the inverter. The rotational speed upper limit setting device is configured to set a rotational speed upper limit of an electric motor in accordance with the observation value of the temperature of the switching elements so as to satisfy a first condition that a voltage applicable to the switching elements in a case where the electric motor is operated at the rotational speed upper limit is lower than or equal to a withstand voltage of the switching elements.
+title
+    Electric motor control system
+similar_document
+26
+    Publication,Publication Date,Title
+    US9450525B2,2016-09-20,Electric motor control system
+    JP6296169B2,2018-03-20,Inverter control device and vehicle control device
+    US8631894B2,2014-01-21,Electric vehicle, and control apparatus and control method for electric vehicle
+    JP6870271B2,2021-05-12,Control device
+    US11056984B2,2021-07-06,Inverter control device
+    US9866107B2,2018-01-09,Control system for inverter
+    US9559626B2,2017-01-31,Apparatus for controlling motor in electric vehicle and method for preventing overheating of traction motor
+    JP2009232652A,2009-10-08,Rotating electrical machine control system and vehicle driving system including the rotating electrical machine control system
+    CN108736718B,2020-06-02,Drive device
+    US11065962B2,2021-07-20,Inverter control device
+    US8928263B2,2015-01-06,Control apparatus in motor drive system and method of controlling motor drive system
+    JP5924702B2,2016-05-25,Power generation control device for hybrid vehicle and power generation control method for hybrid vehicle
+    US20150015168A1,2015-01-15,Vehicular driving system
+    US9975418B2,2018-05-22,Hybrid vehicle and method of controlling hybrid vehicle
+    JP2015211533A,2015-11-24,Control device and control method for motor vehicle
+    JP5786500B2,2015-09-30,Drive device
+    JP6972248B1,2021-11-24,Control device for rotary electric machine for vehicles
+    JP6935715B2,2021-09-15,Inverter controller
+    JP2012222907A,2012-11-12,Electric vehicle
+    WO2021090731A1,2021-05-14,Control device for electric motor, electric vehicle, and control method for electric motor
+    JP2017218090A,2017-12-14,Vehicle control device
+    JP6751497B2,2020-09-09,Boost system
+    JP6203403B2,2017-09-27,Power generation control device for vehicle alternator
+    JP2018090212A,2018-06-14,Rotary electric machine control device
+    WO2014150135A1,2014-09-25,Vehicle system with batteries in series
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    18
+classfication_items
+109
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,6,/,0,0
+    H,0,2,P,6,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,9,/,0,0
+    H,0,2,P,2,9,/,0,2
+    H,0,2,P,2,9,/,0,3,2
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,9,/,0,0
+    H,0,2,P,2,9,/,6,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2015-05-28,Application filed by Honda Motor Co Ltd
+    2015-05-28,Assigned to HONDA MOTOR CO., LTD.
+    2015-12-24,Publication of US20150372624A1
+    2016-09-20,Application granted
+    2016-09-20,Publication of US9450525B2
+    Status,Active
+    2035-05-28,Anticipated expiration
+
+active_area
+3
+    J,P
+    C,N
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2014126533A,2014-06-19,Electric motor control system
+    JP2014-126533,2014-06-19,
+
+legal_event
+4
+    Date,Code,Title,Description
+    2015-05-28,AS,Assignment,Owner name: HONDA MOTOR CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:URUSHIHARA, KEISUKE;ARAI, MASAYUKI;ANDOH, KEIGO;REEL/FRAME:035727/0091Effective date: 20150515
+    2016-08-31,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2020-03-05,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

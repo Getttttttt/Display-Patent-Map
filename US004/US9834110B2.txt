@@ -1,0 +1,292 @@
+ID
+    US9834110B2
+citation_exist
+    Patent Citations (25)
+citation_infor
+27
+    Publication number,Priority date,Publication date,Assignee,Title
+    US6010198A                      *,1997-03-14,2000-01-04,Unisia Jecs Corporation,Automotive brake control system with skid control unit and traction and vehicle dynamics control unit
+    US6070953A                      *,1997-01-17,2000-06-06,Toyota Jidosha Kabushiki Kaisha,Braking system for a vehicle
+    US6164731A                      *,1997-07-17,2000-12-26,Unisia Jecs Corporation,Automotive brake system
+    US6591179B1                      *,2002-01-04,2003-07-08,Delphi Technologies, Inc.,Method and system for progressive engagement of all-wheel drive
+    US20040267427A1                      *,2003-04-30,2004-12-30,Nissan Motor Co., Ltd.,Vehicle dynamics control apparatus
+    US7668635B2                      *,2004-08-06,2010-02-23,National University Corporation Tokyo University Of Agriculture And Technology,Front wheel steering control device
+    JP2010162911A,2009-01-13,2010-07-29,Hitachi Automotive Systems Ltd,Motion control device for vehicle
+    US20120059547A1                      *,2010-09-07,2012-03-08,Gm Global Technology Operations, Inc.,Optimal corner control for vehicles
+    US20120139330A1                      *,2010-12-03,2012-06-07,Nissan Motor Co., Ltd.,Brake control system for an electrically driven vehicle
+    US20120209489A1                      *,2009-10-23,2012-08-16,Hitachi Automotive Systems, Ltd.,Vehicle Movement Controller
+    JP2012209489A,2011-03-30,2012-10-25,Fujitsu Ltd,Optical semiconductor element and method of manufacturing the same
+    US20130144476A1                      *,2010-06-03,2013-06-06,Mira Ltd.,Yaw Motion Control of a Vehicle
+    US20130179015A1                      *,2012-01-11,2013-07-11,Ford Global Technologies, Llc,Electronic Stability Control System for Electric Drive Vehicle
+    US20130234500A1                      *,2010-10-08,2013-09-12,Nissan Motor Co., Ltd.,Electric vehicle brake control device
+    US8874322B2                      *,2013-02-14,2014-10-28,Honda Motor Co., Ltd,Vehicle steering controller
+    US9090258B2                      *,2011-05-11,2015-07-28,Hitachi Automotive Systems, Ltd.,Vehicle motion control apparatus and vehicle motion control system
+    US20160084661A1                      *,2014-09-23,2016-03-24,GM Global Technology Operations LLC,Performance driving system and method
+    Family To Family Citations,,,,
+    JPH1029517A                      *,1996-07-17,1998-02-03,Mitsubishi Motors Corp,Turning controller for vehicle
+    JP3520905B2                      *,1998-12-02,2004-04-19,日産自動車株式会社,Vehicle yawing momentum control device
+    DE102004061107A1                      *,2004-06-22,2006-02-16,Continental Teves Ag & Co. Ohg,Method for control of brake system of motor vehicle involves predetermining maximum nominal braking moment for electrically regenerative brake which is variably calculated from travelling situation of vehicle
+    DE102006046093B4                      *,2006-09-28,2022-11-03,Volkswagen Ag,Braking system and method for braking a vehicle with a hybrid drive
+    JP2009225537A                      *,2008-03-14,2009-10-01,Autech Japan Inc,Driving force control device
+    JP2011101515A                      *,2009-11-06,2011-05-19,Toyota Motor Corp,Braking force control device of vehicle
+    JP5503260B2                      *,2009-11-16,2014-05-28,日立オートモティブシステムズ株式会社,Vehicle motion control device
+    KR101360038B1                      *,2011-07-28,2014-02-07,현대자동차주식회사,Control method of vehicle using in-wheel motor
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (16)
+              
+
+
+citedBy_infor
+18
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20180304768A1                      *,2016-01-08,2018-10-25,Ntn Corporation,Vehicle turning control device
+    US10266173B2                      *,2015-11-06,2019-04-23,Mazda Motor Corporation,Vehicle behavior control device
+    Family To Family Citations,,,,
+    JP6252993B2,2015-11-06,2017-12-27,マツダ株式会社,Vehicle behavior control device
+    JP6194940B2,2015-11-06,2017-09-13,マツダ株式会社,Vehicle behavior control device
+    JP6252992B2,2015-11-06,2017-12-27,マツダ株式会社,Vehicle behavior control device
+    JP6252994B2,2015-12-22,2017-12-27,マツダ株式会社,Vehicle behavior control device
+    KR101745259B1                      *,2016-04-15,2017-06-08,현대자동차주식회사,Control method of power train for hybrid vehicle and control system for the same
+    JP6213904B1,2016-06-30,2017-10-18,マツダ株式会社,Vehicle behavior control device
+    JP6253000B1                      *,2016-09-14,2017-12-27,マツダ株式会社,Vehicle control device
+    CN108200772A                      *,2016-09-09,2018-06-22,马自达汽车株式会社,The control device of vehicle
+    JP6253001B1                      *,2016-09-29,2017-12-27,マツダ株式会社,Vehicle control device
+    US10538268B2                      *,2017-02-07,2020-01-21,Ford Global Technologies, Llc,Steering-wheel control mechanism for autonomous vehicle
+    JP6607532B2                      *,2017-12-27,2019-11-20,マツダ株式会社,Vehicle behavior control device
+    US11654956B2                      *,2019-12-23,2023-05-23,Robert Bosch Gmbh,Method and system for steering intervention by electronic power steering unit to prevent vehicle rollover or loss of control
+    KR20220014526A                      *,2020-07-29,2022-02-07,주식회사 만도,Steering contorl system, steering control apparatus and method
+    JP2022113315A                      *,2021-01-25,2022-08-04,マツダ株式会社,vehicle control system
+
+abstract
+    A movement control device for a vehicle comprises a yaw-acceleration calculation portion to calculate a target yaw acceleration of the vehicle, a turn-back steering determination portion to determine whether a turn-back steering of the vehicle is conducted or not, and a drive-force control portion to a drive force of the vehicle. The control of the drive-force control portion is configured such that when the turn-back steering is not conducted, the amount of drive-force decreasing is increased with a specified increasing rate as the target yaw acceleration increases, the specified increasing rate becoming smaller as the target yaw acceleration increases, and when the turn-back steering is conducted, the drive force is increased in a case in which an absolute value of a steering angle of the vehicle decreases.
+title
+    Movement control device for vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US9834110B2,2017-12-05,Movement control device for vehicle
+    JP6160828B2,2017-07-12,Vehicle behavior control device
+    JP6229879B2,2017-11-15,Vehicle behavior control device
+    JP6352956B2,2018-07-04,Vehicle control apparatus and vehicle control method
+    JP6222472B2,2017-11-01,Vehicle behavior control device
+    JP6229878B2,2017-11-15,Vehicle behavior control device
+    JP6112304B2,2017-04-12,Vehicle behavior control device
+    JP6162762B2,2017-07-12,Vehicle control apparatus and vehicle control method
+    JP5999360B2,2016-09-28,Vehicle behavior control device
+    US8504238B2,2013-08-06,Vehicle stability and steerability control via electronic torque distribution
+    US9889846B2,2018-02-13,Vehicle behavior control device
+    JP6112309B2,2017-04-12,Vehicle behavior control device
+    US20150066241A1,2015-03-05,Driving assistance system for vehicle and system for estimating frictional state of road surface
+    US10625731B2,2020-04-21,Vehicle behavior control device
+    US10029669B2,2018-07-24,Powertrain and method of coordinating chassis and propulsion system torque limits
+    US20070055433A1,2007-03-08,Slip control device and method for a vehicle
+    US20210146914A1,2021-05-20,Vehicle control apparatus
+    JP6108294B2,2017-04-05,Vehicle behavior control device
+    JP6577850B2,2019-09-18,Vehicle control apparatus and vehicle control method
+    CN110816281A,2020-02-21,Control unit, device and method for recuperative brake control of a vehicle
+    JP2012196061A,2012-10-11,Drive force control device of electric vehicle
+    JP6674769B2,2020-04-01,Vehicle control device and vehicle control method
+    US11472384B2,2022-10-18,Drive control apparatus for drive system of vehicle
+    JP2017184615A,2017-10-05,Vehicle control device and vehicle control method
+    JP2000043616A,2000-02-15,Traveling control device for vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    31
+classfication_items
+151
+    B,6,0,L,1,1,/,1,8,6,1
+    B,6,0,L,1,1,/,1,8
+    B,6,0,L,1,1,/,1,8,7,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B,6,0,L,5,8,/,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,4
+    B,6,0,W,1,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,0,2
+    B,6,0,W,3,0,/,0,4,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,1,0
+    B,6,0,W,4,0,/,1,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,0,5
+    Y,0,2,T,1,0,/,7,0,4,4
+    Y,0,2,T,1,0,/,7,0,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,7,5
+
+application_events
+7
+    2014-10-24,Application filed by Mazda Motor Corp
+    2014-10-24,Assigned to MAZDA MOTOR CORPORATION
+    2015-04-30,Publication of US20150120121A1
+    2017-12-05,Application granted
+    2017-12-05,Publication of US9834110B2
+    Status,Active
+    2035-08-25,Adjusted expiration
+
+active_area
+2
+    J,P
+    U,S
+
+not_active_area
+1
+    D,E
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2013226329A,2013-10-31,Vehicle behavior control device
+    JP2013-226329,2013-10-31,
+
+legal_event
+4
+    Date,Code,Title,Description
+    2014-10-24,AS,Assignment,Owner name: MAZDA MOTOR CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:NOBUMOTO, HIDETOSHI;SUNAHARA, OSAMU;YAMASHITA, SHINICHI;REEL/FRAME:034026/0849Effective date: 20141020
+    2017-11-15,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2021-05-19,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

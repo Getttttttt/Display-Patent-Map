@@ -1,0 +1,204 @@
+ID
+    US20220063417A1
+citation_exist
+    NoCitation
+citation_infor
+    NoCitation
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    A braking control method of an electrified vehicle provided with an electric motor as a driving source may include the steps of starting regenerative braking when a required braking amount is obtained; determining a minimum transition time which is a minimum time required for braking transition from the regenerative braking to hydraulic braking according to a maximum response slope of a hydraulic braking device of the vehicle; determining braking deceleration according to the required braking amount and a road surface condition; determining a start vehicle speed of the braking transition according to the minimum transition time, the braking deceleration, and an end vehicle speed of the braking transition; and starting the braking transition upon determining that the start vehicle speed of the braking transition is reached during the regenerative braking.
+title
+    Vehicle equipped with electric motor and method of controlling regenerative braking for the same
+similar_document
+26
+    Publication,Publication Date,Title
+    JP4325626B2,2009-09-02,Hybrid vehicle operation control system
+    US9254840B2,2016-02-09,Apparatus, system and method for controlling engine starting while shifting of hybrid electric vehicle
+    US10144413B2,2018-12-04,Anti-jerk control system and method of eco-friendly vehicle
+    US20160107634A1,2016-04-21,System and method for controlling torque of hybrid vehicle
+    US9561726B2,2017-02-07,Apparatus and method for calculating regenerative braking amount of hybrid electric vehicle
+    JP7300321B2,2023-06-29,Braking control device
+    CN109204299B,2022-09-06,Hybrid vehicle and gear shifting control method thereof
+    US9718449B2,2017-08-01,Braking control system
+    US20150344021A1,2015-12-03,Apparatus and method for controlling engine clutch of hybrid electric vehicle
+    US9975436B2,2018-05-22,Regeneration strategy for a vehicle having decoupled front and rear axle drive actuators
+    US9981554B2,2018-05-29,System and method for controlling braking of electric vehicle
+    US20210101584A1,2021-04-08,Hybrid vehicle and method of calibrating traveling direction for the same
+    US20220063417A1,2022-03-03,Vehicle equipped with electric motor and method of controlling regenerative braking for the same
+    US9610937B2,2017-04-04,Apparatus and method for controlling torque reduction of hybrid electric vehicle
+    US10814859B2,2020-10-27,Hybrid electric vehicle and method of controlling shift thereof
+    JP5163500B2,2013-03-13,Hybrid vehicle driving force distribution control device
+    KR101410451B1,2014-06-20,Apparatus, method and computer readable recording medium for controlling wheels in an independant traction type electric vehicle
+    US10099685B2,2018-10-16,Hybrid electric vehicle and method of efficiently controlling transmission thereof
+    US9873420B2,2018-01-23,Method of increasing regeneration in a hybrid vehicle beyond what is calculated from requested vehicle deceleration
+    US11312356B2,2022-04-26,Hybrid vehicle and driving control method therefor
+    JP6657839B2,2020-03-04,Hybrid vehicle and control method thereof
+    US10399559B2,2019-09-03,System and method of controlling engine clutch engagement during TCS operation of hybrid vehicle
+    CN112744194A,2021-05-04,Environment-friendly vehicle and brake control method thereof
+    US11260862B2,2022-03-01,Method for controlling engine clutch of vehicle
+    US20230117473A1,2023-04-20,Electrified vehicle and method of braking control for the same
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    5
+classfication_nums
+    20
+classfication_items
+119
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,1,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,7,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B,6,0,L,2,2,4,0,/,6,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B,6,0,L,2,2,4,0,/,6,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,5,0,/,0,0
+    B,6,0,T,2,2,5,0,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+4
+    2021-08-13,Application filed by Hyundai Motor Co, Kia Corp
+    2021-08-13,Assigned to KIA CORPORATION, HYUNDAI MOTOR COMPANY
+    2022-03-03,Publication of US20220063417A1
+    Status,Pending
+
+active_area
+2
+    K,R
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    KR1020200108025A,2020-08-26,Vehicle equipped with electric motor and method of controlling regenerative braking for the same
+    KR10-2020-0108025,2020-08-26,
+
+legal_event
+3
+    Date,Code,Title,Description
+    2021-08-13,AS,Assignment,Owner name: KIA CORPORATION, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:LEE, YONG HOON;LIM, HYUN WOO;PARK, JOON SHIK;REEL/FRAME:057168/0757Effective date: 20210721Owner name: HYUNDAI MOTOR COMPANY, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:LEE, YONG HOON;LIM, HYUN WOO;PARK, JOON SHIK;REEL/FRAME:057168/0757Effective date: 20210721
+    2021-10-15,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+

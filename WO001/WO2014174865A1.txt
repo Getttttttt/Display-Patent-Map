@@ -1,0 +1,138 @@
+ID
+    WO2014174865A1
+citation_exist
+    Patent Citations (3)
+citation_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPS6323584A                      *,1986-07-14,1988-01-30,Mitsubishi Electric Corp,Controller for ac elevator
+    JP4300831B2                      *,2003-03-13,2009-07-22,株式会社安川電機,インバータ駆動誘導電動機の制動方法及びインバータ装置
+    JP2013013242A                      *,2011-06-29,2013-01-17,Hitachi Ltd,誘導電動機の制御装置及び誘導電動機の制御方法
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (7)
+              
+
+
+citedBy_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN108791324A                      *,2018-07-16,2018-11-13,湖南工业大学,一种重载机车牵引总量一致系统及控制分配方法
+    CN111994055A                      *,2020-07-03,2020-11-27,上海美仁半导体有限公司,自适应刹车方法、芯片、控制装置及机动车
+    CN112693327A                      *,2021-01-21,2021-04-23,中国重汽集团济南动力有限公司,一种降低非工作损耗的新能源永磁整车控制子系统、方法及车辆
+    Family To Family Citations,,,,
+    CN104506016B                      *,2014-12-30,2017-09-12,江苏大学,永磁式转差离合器及控制方法
+    CN105490602B                      *,2016-01-04,2018-09-18,珠海格力电器股份有限公司,电机的控制方法、装置及伺服驱动器
+    CN107005191B                      *,2016-06-17,2019-10-11,深圳市英威腾电气股份有限公司,使电动机稳定地停止的装置和方法
+    CN107196490A                      *,2017-06-12,2017-09-22,中车青岛四方车辆研究所有限公司,电源电路、轨道车辆空调及电源电路的控制方法
+
+abstract
+    誘導電動機を減速する際に誘導電動機と負荷の慣性モーメントに起因した回転エネルギーが電力変換装置に回生されるため、この回生エネルギーを熱エネルギーとして処理するための回生エネルギー処理用の半導体スイッチや制動用の抵抗器やその制御回路が必要であり、電力変換装置を小型化することができないという問題があった。　交流電源の交流電圧を整流して直流電圧に変換する順変換器と、前記順変換器の直流電圧を交流電圧に変換する逆変換器と、誘導電動機の一次抵抗値Ｒ１と二次抵抗値Ｒ２と一次電流値ｉ１と励磁電流値ｉｍを用いてすべりを演算し、該誘導電動機の減速時または回生時に、該演算したすべりに対応する周波数以下の周波数成分の出力電圧を可変電圧可変周波数の出力電圧に重畳する制御部と、を備える電力変換装置である。
+title
+    電力変換装置および電力変換装置の制御方法
+similar_document
+26
+    Publication,Publication Date,Title
+    WO2014174865A1,2014-10-30,電力変換装置および電力変換装置の制御方法
+    US7408312B2,2008-08-05,Control device for permanent magnet synchronous motor
+    EP2346151A1,2011-07-20,Power conversion device
+    JP6428248B2,2018-11-28,モータ制御装置
+    WO2013105187A1,2013-07-18,インバータ制御装置
+    CN104767455B,2018-02-06,一种混合励磁同步电机无位置传感器直接转矩控制方法
+    US20200244201A1,2020-07-30,Controller for ac rotary machine
+    US9762138B2,2017-09-12,Power conversion device
+    KR20080087157A,2008-09-30,교류 회전기의 제어 장치 및 교류 회전기의 제어 방법
+    KR101514391B1,2015-04-22,벡터 제어 장치, 및 그것을 사용한 모터 제어 장치, 공조기
+    JP3773794B2,2006-05-10,電力変換装置
+    JP6667425B2,2020-03-18,モータ制御装置および電動車両
+    JP6381889B2,2018-08-29,電力変換装置および誘導電動機の制御方法
+    JP6358111B2,2018-07-18,直列多重インバータ装置
+    KR20140093156A,2014-07-25,모터 제어 장치 및 모터 제어 방법
+    JP5932136B2,2016-06-08,モータ制御装置
+    JP2015029396A,2015-02-12,電力変換装置および制御方法
+    US20140354297A1,2014-12-04,Inverter system and method of detecting state of power cable of the inverter system
+    JP2004282838A,2004-10-07,インバータ駆動誘導電動機の制動方法
+    US9014962B2,2015-04-21,Electric-vehicle control device
+    EP3599708A1,2020-01-29,Inverter based apparatus and control method thereof
+    JP6132934B2,2017-05-24,電力変換装置
+    JP2016015832A,2016-01-28,インバータ装置
+    JP5306268B2,2013-10-02,電力変換装置および電力変換装置の制御方法
+    JP5170370B2,2013-03-27,直列多重インバータと過電圧防止方法
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    5
+classfication_nums
+    5
+classfication_items
+34
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,4,2
+    H,0,2,M,7,/,4,4
+    H,0,2,M,7,/,4,8
+    H,0,2,M,7,/,5,3
+    H,0,2,M,7,/,5,3,7
+    H,0,2,M,7,/,5,3,8,7
+    H,0,2,M,7,/,5,3,8,7,1
+    H,0,2,M,7,/,5,3,8,7,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,1,/,0,0
+    H,0,2,P,2,1,/,0,0,0,3
+    H,0,2,P,2,1,/,0,0,0,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+
+application_events
+2
+    2014-01-29,Application filed by 株式会社日立産機システム
+    2014-10-30,Publication of WO2014174865A1
+
+active_area
+2
+    J,P
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2013093211A,2013-04-26,電力変換装置および電力変換装置の制御方法
+    JP2013-093211,2013-04-26,
+
+legal_event
+4
+    Date,Code,Title,Description
+    2014-12-17,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 14787732Country of ref document: EPKind code of ref document: A1
+    2015-10-26,NENP,Non-entry into the national phase,Ref country code: DE
+    2016-05-25,122,Ep: pct application non-entry in european phase,Ref document number: 14787732Country of ref document: EPKind code of ref document: A1
+

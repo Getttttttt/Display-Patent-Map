@@ -1,0 +1,216 @@
+ID
+    WO2023277757A1
+citation_exist
+    Patent Citations (6)
+citation_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    WO2013191614A1                      *,2012-06-19,2013-12-27,Scania Cv Ab,Method and device for controlling the reference speed of a down-hill speed controller
+    WO2014003637A1                      *,2012-06-26,2014-01-03,Scania Cv Ab,Method and system for control of a regenerative braking system in a vehicle
+    WO2014058383A2                      *,2012-10-10,2014-04-17,Scania Cv Ab,Identification and use of free energy
+    EP2808209A1                      *,2013-05-28,2014-12-03,Scania CV AB,Method and system to decelerate a vehicle
+    SE1450705A1                      *,2014-06-10,2015-05-21,Scania Cv Ab,Procedure and system for controlling one or more inserts which affect a long-term braking effect for a vehicle
+    EP3000675A1                      *,2014-09-11,2016-03-30,Scania CV AB,Method and system to control a disengageable retarder
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    A control device (100) and a method for controlling traveling speed of a vehicle (1) for the purpose of maintaining a vehicle speed equal to or lower than a pre‐set downhill speed (vdh-set). The method comprises simulating a vehicle speed profile for an upcoming road section if braking at a pre- identified power level (P1, P2, P3) would currently be requested, thereby obtaining a predicted maximum vehicle speed (vP1,max, vP2,max, vP3,max) and a predicted time until a vehicle speed equal to or within a pre-selected interval (Idh) of the pre‐set downhill speed is reached. The method further comprises, if the predicted maximum vehicle speed is equal to or below the pre-set downhill speed (vdh-set) and the predicted time is below a preselected threshold time limit, requesting braking at the pre-identified power level or at an adjusted power level.
+title
+    Control device and method for controlling traveling speed of a vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    KR101734267B1,2017-05-11,Control system and method of hybrid vehicle
+    JP3610879B2,2005-01-19,Hybrid vehicle
+    JP4858039B2,2012-01-18,Vehicle control device
+    CN102007031B,2013-10-02,Vehicle travel control system
+    CN109624967B,2020-09-11,Energy management method, device and equipment of hybrid vehicle
+    US20180246511A1,2018-08-30,Autonomous driving with dynamic skip fire
+    CN105083270A,2015-11-25,Method and apparatus for controlling regenerative braking of vehicle
+    KR102518656B1,2023-04-06,Method for Inertia Drive Control with Torque Sharing of Eco Friendly Vehicle
+    KR20140107587A,2014-09-04,Method and module for controlling a vehicle&#39;s speed based on rules and/or costs
+    CN110194146B,2022-12-09,Method for operating an onboard power supply system of a hybrid vehicle and hybrid vehicle
+    CN110450786B,2022-12-13,Method for determining predicted acceleration information in an electric vehicle and electric vehicle
+    JP2013521176A,2013-06-10,Car drive device
+    CN104271425A,2015-01-07,A method and a system for adjusting velocity set points for regulating the velocity of a vehicle
+    WO2018096821A1,2018-05-31,Vehicle cruise control device
+    JP2012525298A,2012-10-22,Method for optimizing energy consumption of plug-in hybrid vehicle and plug-in hybrid vehicle using such method
+    CN104417558A,2015-03-18,Deceleration setting system, deceleration setting method, and deceleration setting program
+    JP6435789B2,2018-12-12,Output control device for hybrid drive vehicle
+    KR20190051584A,2019-05-15,Coating Control Method for Optimizing Fuel Efficiency of 48V Mild Hybrid System
+    CN105564257B,2020-04-14,Method and device for operating a motor vehicle having an electrical energy accumulator
+    WO2023277757A1,2023-01-05,Control device and method for controlling traveling speed of a vehicle
+    KR101993434B1,2019-09-30,Control of preparatory measures in a vehicle
+    JP2014213638A,2014-11-17,Control unit of hybrid vehicle
+    KR102417539B1,2022-07-05,Method for determining brake specific fuel consumption of engine in hybrid electric vehicle
+    KR20190081379A,2019-07-09,Management method for battery SOC of hybrid electric vehicle
+    US20200108722A1,2020-04-09,Operating procedure for a brake system, brake system and motor vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    6
+classfication_nums
+    22
+classfication_items
+130
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,4
+    B,6,0,W,3,0,/,1,4,3
+    B,6,0,W,3,0,/,1,4,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,3,1,/,0,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,0,8
+    B,6,0,T,1,/,0,8,7
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,0,/,0,0
+    B,6,0,T,1,0,/,0,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,5
+    B,6,0,T,1,3,/,5,8,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,9,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,4
+    B,6,0,W,3,0,/,1,4,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,3,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,0,9,7
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,5,7,/,0,0
+    F,1,6,D,5,7,/,0,4
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,1,/,0,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,0,1,/,0,0
+    B,6,0,T,2,2,0,1,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,6,0,/,0,0
+    B,6,0,T,2,2,6,0,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,1,0
+    B,6,0,W,2,7,2,0,/,1,0,3
+
+application_events
+2
+    2022-06-08,Application filed by Scania Cv Ab
+    2023-01-05,Publication of WO2023277757A1
+
+active_area
+0
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    SE2150826A,2021-06-29,Control device and method for controlling traveling speed of a vehicle
+    SE2150826-2,2021-06-29,
+
+legal_event
+    NoExist

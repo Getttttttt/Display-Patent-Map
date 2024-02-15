@@ -1,0 +1,278 @@
+ID
+    US10870355B2
+citation_exist
+    Patent Citations (23)
+citation_infor
+25
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5291106A                      *,1992-11-23,1994-03-01,General Motors Corporation,Single current regulator for controlled motoring and braking of a DC-fed electric motor
+    US5583406A,1993-11-16,1996-12-10,Hitachi, Ltd.,Control method and system for regeneration braking of an electric vehicle
+    JPH10150702A,1996-11-15,1998-06-02,Toyota Motor Corp,Power output device
+    US5877601A                      *,1996-04-26,1999-03-02,Hitachi, Ltd.,Control system for electric vehicle and control method therefor in which an inverter relay is controlled at the time of its re-closing after being disconnected
+    US6121740A,1994-06-27,2000-09-19,Ford Global Technologies, Inc.,Control of regeneration energy from an electric motor
+    JP2002017098A,2000-06-29,2002-01-18,Nissan Motor Co Ltd,Motor control apparatus
+    US20110029179A1                      *,2009-07-31,2011-02-03,Hitachi Automotive Systems, Ltd.,Motor Control Device and Motor System Equipped with Motor Control Device
+    GB2477229A,2011-03-25,2011-07-27,Protean Electric Ltd,Electric motor control for regenerative braking
+    JP2011211783A,2010-03-29,2011-10-20,Mitsubishi Electric Corp,Overvoltage protector
+    WO2012086459A1,2010-12-22,2012-06-28,マイクロスペース株式会社,Motor drive control device
+    JP2012196104A,2011-03-18,2012-10-11,Ntn Corp,Motor driving device
+    US20130181639A1                      *,2012-01-13,2013-07-18,Denso Corporation,Motor drive system
+    WO2014200081A1,2013-06-14,2014-12-18,マイクロスペース株式会社,Motor drive control device
+    JP2015186382A,2014-03-25,2015-10-22,三菱自動車工業株式会社,vehicle control device
+    WO2016002744A1,2014-06-30,2016-01-07,マイクロスペース株式会社,Motor control device, motor drive control device, and signal generation method
+    US20170201204A1                      *,2014-09-09,2017-07-13,Mitsubishi Electric Corporation,Inverter apparatus for polyphase ac motor drive
+    US20170237381A1                      *,2016-02-16,2017-08-17,Mitsubishi Electric Corporation,Motor control device and motor control method
+    US20170305274A1                      *,2014-11-14,2017-10-26,Aisin Aw Co., Ltd.,Inverter control device and vehicle control device
+    US20180278144A1                      *,2015-01-29,2018-09-27,Mitsubishi Electric Corporation,Power conversion device
+    Family To Family Citations,,,,
+    JP5045799B2                      *,2010-08-27,2012-10-10,株式会社デンソー,Power conversion device, drive device, and electric power steering device using the same
+    JP5521914B2                      *,2010-09-02,2014-06-18,株式会社デンソー,Power conversion device and electric power steering device using the same
+    CN104025450B                      *,2011-12-27,2016-08-24,松下电器产业株式会社,Motor inversion device
+    JP5962591B2                      *,2013-06-03,2016-08-03,株式会社デンソー,Motor drive device
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (5)
+              
+
+
+citedBy_exist
+    
+              Cited By (13)
+              
+
+
+citedBy_infor
+15
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP6730144B2                      *,2016-09-09,2020-07-29,株式会社シマノ,Bicycle component and its communication part
+    JP7189421B2                      *,2018-09-21,2022-12-14,ミツミ電機株式会社,Motor drive circuit and motor drive device
+    US10889285B2                      *,2019-02-04,2021-01-12,GM Global Technology Operations LLC,Control of AC electric machine using average synchronous frame currents
+    JP2020141546A                      *,2019-03-01,2020-09-03,本田技研工業株式会社,Power source system and control method for power source system
+    TWI715205B                      *,2019-09-25,2021-01-01,宏碁股份有限公司,Battery device and control method for battery device
+    CN112622851B                      *,2019-10-08,2021-12-10,财团法人车辆研究测试中心,Brake control method according to road surface friction characteristics
+    JP7191807B2                      *,2019-11-29,2022-12-19,株式会社日立製作所,Diagnostic device and diagnostic method
+    JPWO2021200441A1                      *,2020-03-30,2021-10-07,,
+    DE102021201220A1                      *,2021-02-09,2022-08-11,E.G.O. Elektro-Gerätebau GmbH,Method for operating a device for the wireless transmission of energy in the direction of an electrical consumer by means of inductive coupling, device and system
+    WO2023025752A1                      *,2021-08-25,2023-03-02,Robert Bosch Gmbh,Method for operating a drive system of an electric bicycle
+    WO2023025420A1                      *,2021-08-25,2023-03-02,Bobst Mex Sa,Packaging material processing machine and method for operating a packaging material processing machine
+    WO2023119150A1                      *,2021-12-24,2023-06-29,Brembo S.P.A.,System for managing the electric power flow in battery packs of an electric or hybrid vehicle
+    CN116915029A                      *,2023-09-11,2023-10-20,深圳市省油灯网络科技有限公司,Control method, device and system of power converter and storage medium
+
+abstract
+    This motor driving control apparatus has (A) an inverter unit configured to drive a motor; (B) a separation switch configured to separate a power source from the inverter unit; and (C) a controller configured to instruct the separation switch to separate the power source from the inverter unit and control the inverter unit to perform switching according to a speed and a braking target torque, upon detecting an event that braking should be performed without passing a regenerative current to the power source from the inverter unit. By introducing the separation switch that operates as described above, it becomes possible to perform control so as to consume the power by the motor itself without passing the regenerative current to the power source such as a battery.
+title
+    Motor driving control apparatus and electric apparatus
+similar_document
+18
+    Publication,Publication Date,Title
+    US10870355B2,2020-12-22,Motor driving control apparatus and electric apparatus
+    US7133602B2,2006-11-07,Power supply apparatus, motor drive control method using the same and motor vehicle having the same mounted thereon
+    US8975857B2,2015-03-10,Inverter apparatus and inverter control method
+    JP6178440B2,2017-08-09,Motor drive control device
+    US8046124B2,2011-10-25,Control apparatus and control method for electric vehicle
+    JP5029915B2,2012-09-19,Rotating electrical machine control system and vehicle drive system
+    US8558492B2,2013-10-15,Apparatus for driving motor of electric vehicle
+    CN108134519B,2021-07-06,Adaptive boost voltage for hybrid vehicle operation
+    JP2007166874A,2007-06-28,Voltage converter
+    EP3057215B1,2021-11-24,Blend-over between ccm and dcm in forward boost reverse buck converter
+    JPH10215504A,1998-08-11,Device for controlling electric vehicle
+    JP5029914B2,2012-09-19,Rotating electrical machine control system and vehicle drive system
+    JP2006288024A,2006-10-19,Voltage converter and its control method
+    JP2011155788A,2011-08-11,Power supply system
+    JP4765939B2,2011-09-07,Electric vehicle
+    WO2018135330A1,2018-07-26,In-vehicle power supply device
+    JP4434647B2,2010-03-17,Control device and bicycle
+
+patent_application
+2
+    Application,Priority date,Filing date,Relation,Title
+    PCT/JP2017/015524,2016-05-17,2017-04-18,Continuation,Motor driving control device and electric device
+
+patent_priority_application
+    NoExist
+inventor_number
+    8
+classfication_nums
+    23
+classfication_items
+135
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,3
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,1,/,0,0
+    H,0,2,P,2,1,/,0,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,9,/,0,0
+    B,6,0,L,9,/,1,6
+    B,6,0,L,9,/,1,8
+    B
+    B,6,2
+    B,6,2,M
+    B,6,2,M,6,/,0,0
+    B,6,2,M,6,/,4,0
+    B,6,2,M,6,/,4,5
+    B,6,2,M,6,/,5,0
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,4,2
+    H,0,2,M,7,/,4,4
+    H,0,2,M,7,/,4,8
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,1,/,0,0
+    H,0,2,P,2,1,/,2,2
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,1,/,0,0
+    H,0,2,P,2,1,/,3,6
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,7,/,0,0
+    H,0,2,P,2,7,/,0,4
+    H,0,2,P,2,7,/,0,6
+    H,0,2,P,2,7,/,0,8
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,3,/,0,0
+    H,0,2,P,3,/,0,6
+    H,0,2,P,3,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2018-11-15,Application filed by Taiyo Yuden Co Ltd, Microspace Corp
+    2018-12-11,Assigned to MICROSPACE CORPORATION, TAIYO YUDEN CO., LTD.
+    2019-03-21,Publication of US20190084426A1
+    2020-12-22,Application granted
+    2020-12-22,Publication of US10870355B2
+    Status,Active
+    2037-10-19,Adjusted expiration
+
+active_area
+8
+    C,N
+    C,N
+    J,P
+    W,O
+    T,W
+    T,W
+    U,S
+    J,P
+
+not_active_area
+1
+    E,P
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2016099073,2016-05-17,
+    JP2016-099073,2016-05-17,
+    PCT/JP2017/015524,2017-04-18,Motor driving control device and electric device
+
+legal_event
+7
+    Date,Code,Title,Description
+    2018-11-15,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2018-12-11,AS,Assignment,Owner name: MICROSPACE CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:TANAKA, MASATO;HOSAKA, YASUO;HAGIWARA, HIROMI;AND OTHERS;SIGNING DATES FROM 20181128 TO 20181211;REEL/FRAME:047744/0754Owner name: TAIYO YUDEN CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:TANAKA, MASATO;HOSAKA, YASUO;HAGIWARA, HIROMI;AND OTHERS;SIGNING DATES FROM 20181128 TO 20181211;REEL/FRAME:047744/0754
+    2019-01-23,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2020-07-15,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2020-11-13,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT RECEIVED
+    2020-12-02,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

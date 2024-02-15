@@ -1,0 +1,194 @@
+ID
+    EP3971014A1
+citation_exist
+    Patent Citations (16)
+citation_infor
+18
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    KR100837939B1                      *,2006-10-11,2008-06-13,현대자동차주식회사,Power system of hybrid fuel cell bus and control method thereof
+    WO2010089889A1                      *,2009-02-09,2010-08-12,トヨタ自動車株式会社,Power supply system and electric vehicle using the same
+    CN201571006U                      *,2009-11-16,2010-09-01,肖海乐,Brake unit
+    CN101707462B                      *,2009-11-16,2012-07-11,肖海乐,Braking unit and IGBT module protection method thereof
+    JP2012205318A                      *,2011-03-23,2012-10-22,Toyota Central R&D Labs Inc,Braking device
+    GB2510186B                      *,2013-01-29,2015-07-15,Protean Electric Ltd,An energy system for an electric vehicle
+    CN203472853U                      *,2013-09-30,2014-03-12,长沙瑞纬电气有限公司,Testing device for 8G haulage motor resistor braking system
+    JP6177445B2                      *,2014-08-25,2017-08-09,三菱電機株式会社,Electric vehicle control device
+    KR101703590B1                      *,2015-03-30,2017-02-07,현대자동차 주식회사,System and method for controlling emergency driving for fuel cell vehicle
+    CN106443241B                      *,2016-08-31,2019-08-16,株洲中车时代电气股份有限公司,A kind of monitoring method, device and the guard method of vehicle-mounted braking resistor, device
+    CN106394261B                      *,2016-09-30,2018-11-06,株洲中车时代电气股份有限公司,A kind of energy storage type municipal rail train charge power distribution method and system
+    CN108859775B                      *,2017-05-09,2020-09-01,郑州宇通客车股份有限公司,Brake energy feedback control circuit and power distribution method
+    CN109823187B                      *,2017-11-23,2020-12-29,株洲中车时代电气股份有限公司,Electric braking energy feedback system
+    CN108189674B                      *,2018-03-15,2023-06-09,西南交通大学,Braking energy recovery method and system for hybrid power rail vehicle
+    CN108790840A                      *,2018-07-12,2018-11-13,西南交通大学,A kind of hybrid power tramcar regenerating braking energy recycling optimization method and system
+    CN109204012A                      *,2018-09-03,2019-01-15,中车大连机车车辆有限公司,Powered brake control system and rail vehicle for rail vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    AT524823B1                      *,2021-02-26,2023-08-15,Tgw Mechanics Gmbh,Method and storage system with increased safety when stopping a storage and retrieval machine
+    CN114454720A                      *,2022-02-21,2022-05-10,中国铁道科学研究院集团有限公司,Train power supply control device, system and method
+
+abstract
+    A method and apparatus for distributing the electric braking power of a hybrid electric tram, and a medium. The method comprises: during the braking of a traction motor, acquiring the braking voltage value and braking current value of a traction inverter system; obtaining the energy consumption power of an energy consumption system, the output power of a one-way power supply system, and the maximum charging power of an energy storage system; according to the energy consumption power, the output power, the maximum charging power, the number of traction inverters, and the braking voltage value, calculating the maximum current limiting value fed back to a bus by a single traction inverter; and dynamically controlling the on/off of a braking resistor system according to the braking current value and the maximum current limiting value. When the braking power exceeds the carrying capacity of the energy storage system, the excess power is consumed on the braking resistor system to ensure that there is no overcurrent on the energy storage system; when the braking power is within the carrying capacity of the energy storage system, all the braking power is fed back to the energy storage system, thereby implementing reasonable distribution of braking energy, and improving the utilization rate of braking energy.
+title
+    Method and apparatus for distributing electric braking power of hybrid electric tram, and medium
+similar_document
+26
+    Publication,Publication Date,Title
+    Wang et al.,2019,A comparative study of power allocation strategies used in fuel cell and ultracapacitor hybrid systems
+    CN107406004B,2021-05-07,Method and device for determining a value of an energy state of a battery in a vehicle
+    Fernandez et al.,2011,Hybrid electric system based on fuel cell and battery and integrating a single dc/dc converter for a tramway
+    US8084988B2,2011-12-27,Power supply system
+    JP5401366B2,2014-01-29,Control device for hybrid vehicle
+    US8212532B2,2012-07-03,Method and system for control of a vehicle energy storage device
+    US20160082844A1,2016-03-24,Methods and systems for multiple source energy storage, management, and control
+    CN202498998U,2012-10-24,Fuel cell hybrid energy management control system
+    Li et al.,2019,Hybrid energy storage system and energy distribution strategy for four-wheel independent-drive electric vehicles
+    CN110861538A,2020-03-06,Fuel cell automobile hybrid power control method and system
+    US20130241466A1,2013-09-19,Regenerative power supply system
+    Torreglosa et al.,2011,Application of cascade and fuzzy logic based control in a model of a fuel-cell hybrid tramway
+    KR101500080B1,2015-03-06,Method for controlling LDC in regenerative braking of eco-friendly vehicle
+    US20230037348A1,2023-02-09,Feedback current control device and aerial platform truck
+    EP3971014A1,2022-03-23,Method and apparatus for distributing electric braking power of hybrid electric tram, and medium
+    CN102897043B,2015-01-21,Method for allocating energy of extended-range type electric vehicle
+    Bindu et al.,2022,Power management strategy for an electric vehicle driven by hybrid energy storage system
+    Lin et al.,2020,Charge depleting range dynamic strategy with power feedback considering fuel-cell degradation
+    Burnett et al.,2005,A power system combining batteries and supercapacitors in a solar/hydrogen hybrid electric vehicle
+    Bhatti et al.,2016,Charging of electric vehicle with constant price using photovoltaic based grid-connected system
+    CN105337364A,2016-02-17,Power management system for electric ship and management method thereof
+    CN205194527U,2016-04-27,Energy package, Pure electric vehicles power supply unit accelerate based on lithium ion capacitor
+    Ritter et al.,2016,Energy saving potential of a battery-assisted fleet of trolley buses
+    US20220302736A1,2022-09-22,Power supply system
+    CN113381426A,2021-09-10,Capacity configuration method of flywheel energy storage device, terminal and storage medium
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    10
+classfication_nums
+    13
+classfication_items
+74
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,0,1
+    B,6,0,T,8,/,1,7,0,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,4
+    B,6,0,W,1,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,8,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,3,0
+    B,6,0,W,2,5,1,0,/,3,0,5
+
+application_events
+4
+    2019-10-21,Application filed by Zhuzhou CRRC Times Electric Co Ltd
+    2022-03-23,Publication of EP3971014A1
+    2023-09-06,Publication of EP3971014A4
+    Status,Pending
+
+active_area
+2
+    C,N
+    E,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    CN201910604442.XA,2019-07-05,Electric braking power distribution method, device and medium for hybrid power tramcar
+    PCT/CN2019/112184,2019-10-21,Method and apparatus for distributing electric braking power of hybrid electric tram, and medium
+
+legal_event
+10
+    Date,Code,Title,Description
+    2021-01-18,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE INTERNATIONAL PUBLICATION HAS BEEN MADE
+    2022-02-18,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2022-02-18,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+    2022-03-23,17P,Request for examination filed,Effective date: 20211213
+    2022-03-23,AK,Designated contracting states,Kind code of ref document: A1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2022-10-12,DAV,Request for validation of the european patent (deleted),
+    2022-10-12,DAX,Request for extension of the european patent (deleted),
+    2023-09-06,A4,Supplementary search report drawn up and despatched,Effective date: 20230804
+    2023-09-06,RIC1,Information provided on ipc code assigned before grant,Ipc: B60W  30/18        20120101ALI20230731BHEPIpc: B60W  10/30        20060101ALI20230731BHEPIpc: B60W  10/26        20060101ALI20230731BHEPIpc: B60L   7/10        20060101ALI20230731BHEPIpc: B60L   7/22        20060101AFI20230731BHEP
+

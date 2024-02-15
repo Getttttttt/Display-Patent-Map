@@ -1,0 +1,199 @@
+ID
+    US10073128B2
+citation_exist
+    Patent Citations (16)
+citation_infor
+18
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPS60183565A,1984-03-01,1985-09-19,Kansai Electric Power Co Inc:The,Flicker type direct current grounding point searcher
+    US4893085A                      *,1988-03-18,1990-01-09,Mitsubishi Denki Kabushiki Kaisha,Ignition monitoring circuit for an ignition system of an internal combustion engine including an erroneous pulse eliminating circuit means
+    US6778913B2,2002-04-29,2004-08-17,Cadex Electronics Inc.,Multiple model systems and methods for testing electrochemical systems
+    US20040243288A1,2003-05-29,2004-12-02,Yuji Kito,Diagnostic system and method for electric leak detecting device
+    JP2005189005A,2003-12-24,2005-07-14,Honda Motor Co Ltd,Ground fault detection system
+    JP2006145293A,2004-11-17,2006-06-08,Daihatsu Motor Co Ltd,Short-circuit detector
+    US20070008666A1,2005-07-11,2007-01-11,Nissan Motor Co., Ltd.,Ground fault detector for vehicle
+    JP2010019603A,2008-07-08,2010-01-28,Hitachi Ltd,Power supply
+    WO2010109956A1                      *,2009-03-27,2010-09-30,株式会社日立製作所,Electric storage device
+    JP2010249766A,2009-04-20,2010-11-04,Hitachi Ltd,Vehicular leakage detection device
+    US20110215793A1                      *,2008-01-11,2011-09-08,Mitsubishi Heavy Industries, Ltd.,Method and device for diagnosing signal status in measurement, drive, or control, and transformer used in the device
+    US20120043967A1,2009-09-29,2012-02-23,Hitachi Vehicle Energy, Ltd.,Ground Fault Detection Circuit, and Power Supply Device
+    Family To Family Citations,,,,
+    JPH10221395A                      *,1997-02-07,1998-08-21,Denso Corp,System for detecting ground fault of electric vehicle
+    CN101755371B                      *,2007-07-24,2013-03-20,松下电器产业株式会社,Charge monitoring device
+    CN201886117U                      *,2010-09-29,2011-06-29,京滨电子装置研究开发(上海)有限公司,Insulation detection circuit of electrically-propelled vehicle
+    JP5710307B2                      *,2011-02-16,2015-04-30,オムロンオートモーティブエレクトロニクス株式会社,Earth leakage detector
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (16)
+              
+
+
+citedBy_infor
+18
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20220360091A1                      *,2021-05-04,2022-11-10,Exro Technologies Inc.,Battery Control Systems and Methods
+    US11539222B2                      *,2019-04-04,2022-12-27,Yazaki Corporation,Battery control unit and battery system
+    US11722026B2,2019-04-23,2023-08-08,Dpm Technologies Inc.,Fault tolerant rotating electric machine
+    Family To Family Citations,,,,
+    US9496200B2,2011-07-27,2016-11-15,Coolit Systems, Inc.,Modular heat-transfer systems
+    US10365667B2,2011-08-11,2019-07-30,Coolit Systems, Inc.,Flow-path controllers and related systems
+    JP5518138B2                      *,2012-07-09,2014-06-11,本田技研工業株式会社,Non-grounded circuit ground fault detector
+    TWI531795B                      *,2013-03-15,2016-05-01,水冷系統公司,Sensors, multiplexed communication techniques, and related systems
+    US9825273B2                      *,2013-09-06,2017-11-21,Johnson Controls Technology Company,Systems, methods, and devices for constant current relay control of a battery module
+    US10725115B2                      *,2014-10-16,2020-07-28,Ford Global Technologies, Llc,Methods and apparatus for detecting electrical leakage in a vehicle
+    CN107539149B                      *,2017-08-29,2020-02-14,宁德时代新能源科技股份有限公司,Control circuit, battery system and vehicle
+    US11452243B2,2017-10-12,2022-09-20,Coolit Systems, Inc.,Cooling system, controllers and methods
+    TWI725422B                      *,2018-05-31,2021-04-21,技嘉科技股份有限公司,Liquid cooling device, coolant circulation system , and liquid leaking detection method
+    US11662037B2,2019-01-18,2023-05-30,Coolit Systems, Inc.,Fluid flow control valve for fluid flow systems, and methods
+    US11473860B2,2019-04-25,2022-10-18,Coolit Systems, Inc.,Cooling module with leak detector and related systems
+    EP4150216A4,2020-05-11,2023-11-01,Coolit Systems Inc,Liquid pumping units, and related systems and methods
+    US11725886B2,2021-05-20,2023-08-15,Coolit Systems, Inc.,Modular fluid heat exchange systems
+
+abstract
+    A leak detection device includes a pulse signal outputting portion that outputs predetermined pulse signals to a positive connecting wire connected to a positive side of a battery and a negative connecting wire connected to a negative side of the battery. A response waveform detecting portion of the leak detection device detects a positive response waveform for the pulse signal output to the positive connecting wire and a negative response waveform for the pulse signal output to the negative connecting wire. An amplitude ratio calculating portion calculates an amplitude ratio based on the positive response waveform and the negative response waveform, and a leak detecting portion detects a leak between the battery and a ground based on the amplitude ratio.
+title
+    Leak detection device
+similar_document
+26
+    Publication,Publication Date,Title
+    US10073128B2,2018-09-11,Leak detection device
+    CN112513651B,2023-09-08,Method for detecting insulation faults
+    US10017071B2,2018-07-10,Method and system for diagnosing contactor health in a high-voltage electrical system
+    US9255957B2,2016-02-09,Earth fault detection circuit and power source device
+    US7852089B2,2010-12-14,Ground-fault detection system for vehicles with a high-voltage power net
+    EP3258280A1,2017-12-20,Insulation resistance measuring system and device
+    JP4874034B2,2012-02-08,Battery pack for electric vehicles
+    CN111090027B,2022-09-02,High voltage system and method for monitoring an insulation fault in a high voltage system
+    US9694686B2,2017-07-04,Multifunctional monitoring of electrical systems
+    US20160362004A1,2016-12-15,Pre-Charging Switch Arrangement, Power Supplying Arrangement and Method For Connecting a Load to a High Direct-Current  Voltage Source
+    US20220357409A1,2022-11-10,Earth leakage detecting device, and vehicular power supply system
+    US9941815B2,2018-04-10,Power conversion apparatus with overcurrent simulating circuit
+    KR102291762B1,2021-09-03,Circuit for diagnosing a relay
+    US10972017B2,2021-04-06,Control unit for controlling an inverter, inverter and method for operating an inverter
+    CN104483588B,2018-01-30,The electric fault diagnosis method and apparatus at Control end
+    US20220413061A1,2022-12-29,Earth leakage detecting device, and vehicular power supply system
+    CN105896940A,2016-08-24,Power conversion apparatus
+    JP2013240238A,2013-11-28,Power conversion device
+    JP4123441B2,2008-07-23,Inrush current limiting power switch circuit for vehicles
+    JP5926796B2,2016-05-25,Leak detector
+    JP6287218B2,2018-03-07,Anomaly detection device
+    JP6788489B2,2020-11-25,Electric circuit and its control device
+    US20230152375A1,2023-05-18,Deterioration estimation device and deterioration estimation program for power conversion device
+    JP2012013433A,2012-01-19,Voltage detection circuit and power supply device
+    JP5844220B2,2016-01-13,Vehicle charging device
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    5
+classfication_nums
+    15
+classfication_items
+59
+    G,0,1,R,3,1,/,0,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,6,9
+    B,6,0,L,1,1,/,1,8,0,3
+    B,6,0,L,1,1,/,1,8,6,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    G,0,1,R,3,1,/,0,2
+    G
+    G,0,1
+    G,0,1,R
+    G,0,1,R,3,1,/,0,0
+    G,0,1,R,3,1,/,3,6
+    G,0,1,R,3,1,/,3,6,4,4
+    G
+    G,0,1
+    G,0,1,R
+    G,0,1,R,3,1,/,0,0
+    G,0,1,R,3,1,/,5,0
+    G,0,1,R,3,1,/,5,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,2,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,0,5
+    Y,0,2,T,1,0,/,7,0,6,1
+
+application_events
+8
+    2012-12-28,Application filed by Hitachi Automotive Systems Ltd
+    2014-12-18,Assigned to HITACHI AUTOMOTIVE SYSTEMS, LTD.
+    2015-06-18,Publication of US20150168474A1
+    2018-09-11,Application granted
+    2018-09-11,Publication of US10073128B2
+    2021-03-25,Assigned to HITACHI ASTEMO, LTD.
+    Status,Active
+    2035-05-28,Adjusted expiration
+
+active_area
+5
+    W,O
+    C,N
+    E,P
+    U,S
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+5
+    Application,Filing date,Title
+    PCT/JP2012/065478,2012-06-18,Leak detecting apparatus
+    JPPCT/JP2012/065478,2012-06-18,
+    WOPCT/JP2012/065478,2012-06-18,
+    PCT/JP2012/084147,2012-12-28,Leak detection device
+
+legal_event
+5
+    Date,Code,Title,Description
+    2014-12-18,AS,Assignment,Owner name: HITACHI AUTOMOTIVE SYSTEMS, LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:YOSHIOKA, YUJI;KAI, TSUYOSHI;KUDO, AKIHIKO;AND OTHERS;REEL/FRAME:034549/0398Effective date: 20141028
+    2018-08-23,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2021-03-25,AS,Assignment,Owner name: HITACHI ASTEMO, LTD., JAPANFree format text: CHANGE OF NAME;ASSIGNOR:HITACHI AUTOMOTIVE SYSTEMS, LTD.;REEL/FRAME:056299/0447Effective date: 20210101
+    2022-02-23,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

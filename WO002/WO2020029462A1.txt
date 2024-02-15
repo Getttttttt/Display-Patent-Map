@@ -1,0 +1,146 @@
+ID
+    WO2020029462A1
+citation_exist
+    Patent Citations (11)
+citation_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN104442824A                      *,2014-11-19,2015-03-25,奇瑞汽车股份有限公司,并联式能量回收控制方法及系统
+    CN105955277A                      *,2016-03-06,2016-09-21,张华�,智能化无人驾驶电动汽车
+    CN107908189A                      *,2017-11-24,2018-04-13,南京视莱尔汽车电子有限公司,一种无人驾驶低速电动汽车
+    CN108303987A                      *,2018-03-27,2018-07-20,新日(无锡)发展有限公司,一种电动汽车的自动驾驶控制系统及方法
+    JP2018120421A                      *,2017-01-25,2018-08-02,シャープ株式会社,走行装置
+    Family To Family Citations,,,,
+    JP2015073347A                      *,2013-10-02,2015-04-16,ダイムラー・アクチェンゲゼルシャフトＤａｉｍｌｅｒ ＡＧ,電気自動車の走行制御装置
+    CN104943684B                      *,2014-03-31,2017-09-29,比亚迪股份有限公司,无人驾驶汽车控制系统和具有其的汽车
+    CN106218639B                      *,2016-07-20,2019-01-11,百度在线网络技术（北京）有限公司,无人驾驶车辆、用于控制无人驾驶车辆的方法和装置
+    CN107054156A                      *,2017-04-20,2017-08-18,北京汽车集团有限公司,电驱动车辆制动控制方法、装置及电驱动车辆
+    CN107444393B                      *,2017-07-20,2020-06-12,北京新能源汽车股份有限公司,制动系统控制方法及装置
+    CN107490382A                      *,2017-07-31,2017-12-19,中北智杰科技（北京）有限公司,一种无人驾驶汽车路径规划系统及控制方法
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (14)
+              
+
+
+citedBy_infor
+16
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    CN111464978A                      *,2019-01-22,2020-07-28,岳秀兰,主次无线设备通过物联网连接建立的车辆远程驾驶体系
+    CN109795329A                      *,2019-01-31,2019-05-24,重庆长安新能源汽车科技有限公司,纯电动汽车滑行能量回收控制方法和系统
+    CN109850009B                      *,2019-02-25,2021-09-17,南京航空航天大学,一种融合视觉识别技术的汽车线控转向系统及其控制方法
+    CN110415204B                      *,2019-03-22,2020-07-10,施伟红,可靠型安全行驶控制系统
+    WO2020198937A1                      *,2019-03-29,2020-10-08,Baidu.Com Times Technology (Beijing) Co., Ltd.,Communications protocols between planning and control of autonomous driving vehicle
+    CN110606070B                      *,2019-08-30,2021-11-02,驭势科技（北京）有限公司,一种智能驾驶车辆及其制动方法、车载设备和存储介质
+    CN110646009B                      *,2019-09-27,2022-03-01,北京邮电大学,一种基于dqn的车辆自动驾驶路径规划的方法及装置
+    CN111806254A                      *,2020-07-07,2020-10-23,江苏驰城环保科技有限公司,一种有人或无人驾驶装甲电动车
+    CN111923904A                      *,2020-08-13,2020-11-13,西安理工大学,一种无人驾驶电动汽车的自主避障方法
+    JP2022125595A                      *,2021-02-17,2022-08-29,株式会社豊田自動織機,産業車両の制動制御装置
+    CN113147752B                      *,2021-03-02,2023-05-16,浙江亚太智能网联汽车创新中心有限公司,一种无人驾驶方法及系统
+    CN113128339A                      *,2021-03-15,2021-07-16,同济大学,一种基于行为识别的智能车辆运行控制系统和方法
+    CN113655801B                      *,2021-08-23,2022-04-05,紫清智行科技(北京)有限公司,一种园区智能车辆自动驾驶系统架构及循迹控制方法
+    CN113830107A                      *,2021-10-18,2021-12-24,启东达普电子有限公司,一种汽车自适应动力智能驾驶系统及方法
+
+abstract
+    一种电动汽车的无人驾驶系统，包括：环境感知系统，通过对多种传感器采集的数据进行处理，得到障碍物的位置信息、道路图像信息、障碍物图像信息、及与障碍物的相对位置和速度信息；定位导航系统，利用组合定位导航系统中的陀螺仪进行车辆姿态判断，进行自身定位，同时在自身定位的基础上建造增量式地图，按照预定的路线行驶；运动控制系统，通过油门和制动的配合对车辆进行纵向控制，控制车速，通过转向系统对车辆进行横向控制，控制车辆的路径；在车辆减速控制时，通过控制策略进行能量回收；驾驶控制器，根据采集的数据和车辆参数制定控制策略对车辆的行驶进行控制。可以最大限度进行回收能量，提高电动汽车的经济性和动力性。
+title
+    一种电动汽车的无人驾驶系统
+similar_document
+26
+    Publication,Publication Date,Title
+    WO2020029462A1,2020-02-13,一种电动汽车的无人驾驶系统
+    CN110550029B,2021-02-09,障碍物避让方法及装置
+    CN111422196A,2020-07-17,一种适用于微巴的智能网联自动驾驶系统及方法
+    US10437247B2,2019-10-08,Multi-stage operation of autonomous vehicles
+    US20210382481A1,2021-12-09,Multi-controller synchronization
+    US10754347B2,2020-08-25,Vehicle control device
+    US11636375B2,2023-04-25,Adversarial learning of driving behavior
+    EP2942687B1,2019-08-07,Automated driving safety system
+    CN107031600A,2017-08-11,基于高速公路的自动驾驶系统
+    US20170158175A1,2017-06-08,Collision mitigated braking for autonomous vehicles
+    CN112230642B,2022-01-11,道路可行驶区域推理方法及装置
+    CN110389589A,2019-10-29,智能驾驶车辆避障系统及方法
+    CN207301793U,2018-05-01,一种图像识别处理无人驾驶智能车
+    CN111258318A,2020-06-09,一种环卫车自动驾驶系统及其控制方法
+    CN115951678A,2023-04-11,一种用于电子导向胶轮车的自动驾驶系统
+    AU2022200113A1,2022-08-04,Proactive lane change for autonomous vehicles
+    CN115129053A,2022-09-30,一种机场牵引运输车及其自动驾驶系统
+    GB2566648A,2019-03-20,Electronic map-and electronic compass-based autonomous driving system
+    US20190359222A1,2019-11-28,Contingency plan system and method
+    JP6636484B2,2020-01-29,走行制御装置、走行制御方法およびプログラム
+    CN218949172U,2023-05-02,一种公交客车自动驾驶系统
+    CN212172193U,2020-12-18,一种适用于微巴的智能网联自动驾驶系统
+    Redmill et al.,2008,Ohio state university experiences at the darpa challenges
+    CN113022552B,2022-09-20,基于激光雷达和v2i技术的自动泊车系统及控制方法
+    KR20200072581A,2020-06-23,자율주행차량의 운전자 응급상황발생판단에 기반한 주행예측 및 안전주행시스템
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    11
+classfication_nums
+    4
+classfication_items
+27
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    G
+    G,0,5
+    G,0,5,D
+    G,0,5,D,1,/,0,0
+    G,0,5,D,1,/,0,2
+    G,0,5,D,1,/,0,2,1
+    G,0,5,D,1,/,0,2,3,1
+    G
+    G,0,5
+    G,0,5,D
+    G,0,5,D,1,/,0,0
+    G,0,5,D,1,/,0,2
+    G,0,5,D,1,/,0,2,1
+    G,0,5,D,1,/,0,2,3,1
+    G,0,5,D,1,/,0,2,4,6
+    G
+    G,0,5
+    G,0,5,D
+    G,0,5,D,1,/,0,0
+    G,0,5,D,1,/,0,2
+    G,0,5,D,1,/,0,2,1
+    G,0,5,D,1,/,0,2,5,7
+
+application_events
+2
+    2018-11-16,Application filed by 金龙联合汽车工业（苏州）有限公司
+    2020-02-13,Publication of WO2020029462A1
+
+active_area
+2
+    C,N
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    CN201810900397.8A,2018-08-09,一种电动汽车的无人驾驶系统
+    CN201810900397.8,2018-08-09,
+
+legal_event
+4
+    Date,Code,Title,Description
+    2020-03-25,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 18929354Country of ref document: EPKind code of ref document: A1
+    2021-02-10,NENP,Non-entry into the national phase,Ref country code: DE
+    2021-08-18,122,Ep: pct application non-entry in european phase,Ref document number: 18929354Country of ref document: EPKind code of ref document: A1
+

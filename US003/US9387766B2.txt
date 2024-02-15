@@ -1,0 +1,270 @@
+ID
+    US9387766B2
+citation_exist
+    Patent Citations (6)
+citation_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5373195A                      *,1992-12-23,1994-12-13,General Electric Company,Technique for decoupling the energy storage system voltage from the DC link voltage in AC electric drive systems
+    US5710699A                      *,1996-05-28,1998-01-20,General Electric Company,Power electronic interface circuits for batteries and ultracapacitors in electric vehicles and battery storage systems
+    US20100291445A1                      *,2007-12-28,2010-11-18,Toyota Jidosha Kabushiki Kaisha,Fuel cell system and boost converter for fuel cell
+    US20110095603A1                      *,2009-10-27,2011-04-28,Hyundai Motor Company,Emergency control apparatus and method for use
+    US20140277882A1                      *,2013-03-15,2014-09-18,Ford Global Technologies, Llc,Control Strategy For An Electric Machine In A Vehicle
+    US20140311426A1                      *,2011-11-28,2014-10-23,Toyota Jidosha Kabushiki Kaisha,Control device of a vehicle, vehicle including control device, and control method of vehicle
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (14)
+              
+
+
+citedBy_infor
+16
+    Publication number,Priority date,Publication date,Assignee,Title
+    US10110103B1,2017-06-21,2018-10-23,GM Global Technology Operations LLC,Electric drive system enhancement using a DC-DC converter
+    US10293805B2,2017-07-18,2019-05-21,Gm Global Technology Operations Llc.,Generator system and control method
+    US10651740B1                      *,2019-03-15,2020-05-12,GM Global Technology Operations LLC,Buck-boost converter for an electric drive
+    US11063512B1,2020-01-14,2021-07-13,Chicony Power Technology Co., Ltd.,Power conversion system
+    US11383607B1,2021-03-22,2022-07-12,GM Global Technology Operations LLC,Bi-directional electrical charging system for a motor vehicle
+    US11569745B2,2021-03-22,2023-01-31,GM Global Technology Operations LLC,Electrical system having boost converter functionality
+    US11581841B2,2021-03-22,2023-02-14,GM Global Technology Operations LLC,Electrical system having boost converter functionality
+    US11607967B2,2021-03-22,2023-03-21,GM Global Technology Operations LLC,Vehicle electrical system having a power inverter and an electric motor for stepping up voltage
+    US11728732B2,2021-03-22,2023-08-15,GM Global Technology Operations LLC,Electrical system having buck converter functionality
+    Family To Family Citations,,,,
+    US20160079850A1                      *,2014-09-15,2016-03-17,Continental Automotive Systems, Inc.,Boost Converter Apparatus And Method
+    FR3028690B1                      *,2014-11-18,2017-12-01,Renault Sas,METHOD FOR CONTROLLING A SYNCHRONOUS ROTOR COIL ELECTRIC MACHINE
+    FR3053299B1                      *,2016-06-30,2019-08-02,Renault S.A.S,METHOD AND DEVICE FOR CONTROLLING THE POWER AVAILABLE ON AN ELECTRIC TRACTION CHAIN OF A HYBRID MOTOR POWERTRAIN
+    US10500966B2,2016-12-01,2019-12-10,Ford Global Technologies, Llc,Adaptive boost voltage for hybrid vehicle operation
+    US11254223B2                      *,2019-11-06,2022-02-22,GM Global Technology Operations LLC,Operating mode optimization for electric propulsion system with downsized DC-DC converter
+
+abstract
+    A vehicle includes a transmission, energy storage system (ESS), power inverter module (PIM), and controller. The PIM includes a boost converter having a bypass switch and a first plurality of switches, and also a power inverter having a second plurality of switches. The controller is programmed to execute a method that enables a DC boost converter of the PIM by opening the bypass switch when a speed and a torque of the electric machine are within a predetermined boost range. The controller bypasses the boost converter by transmitting a second switching signal closing the bypass switch when the speed and torque are not within the predetermined boost range. A voltage input to the power inverter is equal to the DC battery voltage whenever the boost converter is bypassed and exceeds the DC battery voltage whenever the boost converter is enabled.
+title
+    Vehicle with selectively enabled boost converter
+similar_document
+26
+    Publication,Publication Date,Title
+    US9387766B2,2016-07-12,Vehicle with selectively enabled boost converter
+    US8432126B2,2013-04-30,Rapid offboard charging via selective energizing of designated semiconductor switches and induction coils in an electric or hybrid electric vehicle
+    US10491095B2,2019-11-26,Dynamic IGBT gate drive for vehicle traction inverters
+    US8125169B2,2012-02-28,Rotating electrical machine control system and vehicle drive system
+    US9493090B2,2016-11-15,Dynamic battery system voltage control through mixed dynamic series and parallel cell connections
+    US8536818B2,2013-09-17,Control of a traction power inverter module in a vehicle having an electric traction motor
+    US8659182B2,2014-02-25,Power supply system and electric powered vehicle including power supply system, and method for controlling power supply system
+    US8558492B2,2013-10-15,Apparatus for driving motor of electric vehicle
+    EP3434508A1,2019-01-30,Electric system architecture for range extended electric vehicles
+    US7813848B2,2010-10-12,Control system for hybrid vehicle
+    US10110103B1,2018-10-23,Electric drive system enhancement using a DC-DC converter
+    US8593101B2,2013-11-26,Power converting device with reduced switching loss
+    US20150258946A1,2015-09-17,Split-rail vehicle power architecture
+    US20100140003A1,2010-06-10,Electric motor control device, drive device and hybrid drive device
+    KR101766094B1,2017-08-24,Power control system for hybrid vehicle
+    US9163600B2,2015-10-20,Charging in multiple voltage start/stop bas system
+    US9597979B1,2017-03-21,Method of controlling regeneration and boost functions of a hybrid powertrain
+    US20170232862A1,2017-08-17,Electric drive system and method for operating an electric machine for an electric vehicle
+    CN107342715B,2020-08-11,DC power supply torque system and control method thereof
+    CN103434415A,2013-12-11,Motor vehicle driving system
+    US8188702B2,2012-05-29,Rotating electrical machine control system and vehicle drive system
+    US20150377203A1,2015-12-31,Multiple voltage system and method
+    JP2010051092A,2010-03-04,Charge system and vehicle including the same
+    US20150210183A1,2015-07-30,Method and Device for Dynamically Adjusting an Operational Voltage for an Electric Motor
+    US20200162005A1,2020-05-21,Partial-load phase deactivation of polyphase electric machine
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US14/483,602,2014-09-11,2014-09-11,Vehicle with selectively enabled boost converter
+
+inventor_number
+    5
+classfication_nums
+    25
+classfication_items
+148
+    B,6,0,L,1,1,/,1,8,0,3
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,2,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,5
+    B,6,0,W,2,0,/,1,9
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,6,/,0,0
+    H,0,2,P,6,/,0,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B,6,0,K,2,0,0,6,/,4,8,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,3,0
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,0,0,4,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,8,0
+    Y,0,2,T,1,0,/,9,2
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,0,4
+    Y,1,0,S,9,0,3,/,9,0,6
+
+application_events
+8
+    2014-09-11,Application filed by GM Global Technology Operations LLC
+    2014-09-11,Priority to US14/483,602
+    2014-09-11,Assigned to GM Global Technology Operations LLC
+    2016-03-17,Publication of US20160075241A1
+    2016-07-12,Application granted
+    2016-07-12,Publication of US9387766B2
+    Status,Active
+    2034-09-11,Anticipated expiration
+
+active_area
+1
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US14/483,602,2014-09-11,Vehicle with selectively enabled boost converter
+
+legal_event
+5
+    Date,Code,Title,Description
+    2014-09-11,AS,Assignment,Owner name: GM GLOBAL TECHNOLOGY OPERATIONS LLC, MICHIGANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:HAO, LEI;GOPALAKRISHNAN, SURESH;NAMUDURI, CHANDRA S.;AND OTHERS;REEL/FRAME:033722/0747Effective date: 20140908
+    2015-12-06,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2016-06-22,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2019-12-30,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

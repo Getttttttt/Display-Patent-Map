@@ -1,0 +1,260 @@
+ID
+    WO2014073435A1
+citation_exist
+    Patent Citations (5)
+citation_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2002211258A                      *,2001-01-17,2002-07-31,Unisia Jecs Corp,動力伝達装置
+    JP2004009970A                      *,2002-06-11,2004-01-15,Jatco Ltd,ハイブリッド車両
+    JP2011093433A                      *,2009-10-29,2011-05-12,Aisin Seiki Co Ltd,動力伝達装置および動力伝達装置の制御装置
+    JP2012041038A                      *,2010-07-21,2012-03-01,Nissan Motor Co Ltd,ハイブリッド車両の制御装置
+    JP2012192885A                      *,2011-03-17,2012-10-11,Toyota Motor Corp,ハイブリッド車両の制御装置
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN112959894A                      *,2021-03-10,2021-06-15,浙江吉利控股集团有限公司,一种车辆节能控制方法、装置、存储介质及计算机设备
+    EP4011679A4                      *,2019-10-25,2022-09-14,Great Wall Motor Company Limited,VEHICLE ENERGY RECOVERY CONTROL METHOD AND DEVICE
+    Family To Family Citations,,,,
+
+abstract
+    アクセルペダルが釈放され（S11）、且つブレーキペダルが踏まれた時（S12）、ハイブリッド走行回生（S13）を開始する。ハイブリッド走行回生中、車速VSPが設定車速VSPs未満の低車速域（回生制動発生頻度が高くてクラッチの解放による回生効率向上効果が大きな低車速域）であれば、クラッチの解放により電気走行回生へと移行する（S15,S16,S18）と共に、エンジンおよび無段変速機の引き摺り減速度分Gdを回生制動力に上乗せする（S17,S19）。しかし、ハイブリッド走行回生中VSP≧VSPsの高車速域であれば、クラッチの解放（S15,S18）を行わずにハイブリッド走行回生（S13）を継続させ、エンジンスタータモータの保護を優先させる。
+title
+    ハイブリッド車両の制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP5992537B2,2016-09-14,ハイブリッド車両のモード切り替え制御装置
+    EP3121082B1,2018-12-19,Hybrid vehicle controller
+    JP5936703B2,2016-06-22,ハイブリッド車両のモード切り替え制御装置
+    JP4529940B2,2010-08-25,ハイブリッド車両の伝動状態切り替え制御装置
+    JP5835500B2,2015-12-24,ハイブリッド車両の制御装置
+    JP6052775B2,2016-12-27,ハイブリッド車両の制御装置
+    JP2007261498A,2007-10-11,ハイブリッド車両の伝動状態切り替え制御装置
+    EP3121081B1,2018-08-22,Hybrid vehicle controller
+    WO2013146175A1,2013-10-03,ハイブリッド車両の電気走行減速時変速制御装置
+    JP6569095B2,2019-09-04,ハイブリッド車両の制御装置
+    JP2014234133A,2014-12-15,ハイブリッド車両の制御装置
+    JPWO2014065302A1,2016-09-08,ハイブリッド車両のモード切り替え制御装置
+    JP6330190B2,2018-05-30,ハイブリッド車両の制御装置
+    JP6113478B2,2017-04-12,ハイブリッド車両の制御装置
+    JP6340605B2,2018-06-13,ハイブリッド車両の制御装置
+    JP2014113902A,2014-06-26,ハイブリッド車両のモード切り替え制御装置
+    WO2014073435A1,2014-05-15,ハイブリッド車両の制御装置
+    WO2014087819A1,2014-06-12,ハイブリッド車両のモード切り替え制御装置
+    WO2014069527A1,2014-05-08,ハイブリッド車両の回生制動制御装置
+    WO2014091838A1,2014-06-19,ハイブリッド車両の制御装置
+    JP2013241100A,2013-12-05,ハイブリッド車両の制御装置
+    JP2014094595A,2014-05-22,ハイブリッド車両の制御装置
+    JP2014091438A,2014-05-19,ハイブリッド車両の変速制御装置
+    JP6330189B2,2018-05-30,ハイブリッド車両の制御装置
+    JP2015214217A,2015-12-03,ハイブリッド車両の制御装置
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    6
+classfication_nums
+    26
+classfication_items
+159
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,5,0
+    B,6,0,K,6,/,5,4
+    B,6,0,K,6,/,5,4,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,5,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    F
+    F,0,2
+    F,0,2,D
+    F,0,2,D,2,9,/,0,0
+    F,0,2,D,2,9,/,0,2
+    F
+    F,0,2
+    F,0,2,D
+    F,0,2,D,4,1,/,0,0
+    F,0,2,D,4,1,/,0,2
+    F,0,2,D,4,1,/,0,4
+    F,0,2,D,4,1,/,1,2
+    F
+    F,0,2
+    F,0,2,N
+    F,0,2,N,1,1,/,0,0
+    F,0,2,N,1,1,/,0,8
+    F,0,2,N,1,1,/,0,8,1,4
+    F,0,2,N,1,1,/,0,8,1,8
+    F,0,2,N,1,1,/,0,8,3,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,0
+    B,6,0,L,2,2,4,0,/,5,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    F
+    F,0,2
+    F,0,2,N
+    F,0,2,N,2,2,0,0,/,0,0
+    F,0,2,N,2,2,0,0,/,0,8
+    F,0,2,N,2,2,0,0,/,0,8,0,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,1,0
+    Y,0,2,T,1,0,/,4,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+2
+    2013-10-30,Application filed by 日産自動車株式会社, ジヤトコ株式会社
+    2014-05-15,Publication of WO2014073435A1
+
+active_area
+1
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2012-245712,2012-11-07,
+    JP2012245712,2012-11-07,
+
+legal_event
+5
+    Date,Code,Title,Description
+    2014-07-02,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 13853836Country of ref document: EPKind code of ref document: A1
+    2015-05-07,NENP,Non-entry into the national phase,Ref country code: DE
+    2015-12-02,122,Ep: pct application non-entry in european phase,Ref document number: 13853836Country of ref document: EPKind code of ref document: A1
+    2015-12-15,NENP,Non-entry into the national phase,Ref country code: JP
+

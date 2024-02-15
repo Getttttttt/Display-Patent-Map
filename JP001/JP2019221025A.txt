@@ -1,0 +1,232 @@
+ID
+    JP2019221025A
+citation_exist
+    Patent Citations (7)
+citation_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2001169404A                      *,1999-12-06,2001-06-22,Toyota Motor Corp,車両の制御装置
+    JP2002203583A                      *,2000-12-28,2002-07-19,Nissan Motor Co Ltd,燃料電池システムの制御装置
+    JP2013119355A                      *,2011-12-08,2013-06-17,Toyota Motor Corp,車両
+    JP2016084121A                      *,2014-10-28,2016-05-19,株式会社デンソー,制御装置
+    JP2017147121A                      *,2016-02-17,2017-08-24,本田技研工業株式会社,燃料電池システムの電力制御方法
+    Family To Family Citations,,,,
+    US9296309B2                      *,2012-09-12,2016-03-29,Ford Global Technologies, Llc,Customized battery charging
+    US10118460B1                      *,2017-05-02,2018-11-06,Ford Global Technologies, Llc,Vehicle charge and climate control system
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (5)
+              
+
+
+citedBy_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    WO2023042581A1                      *,2021-09-17,2023-03-23,株式会社豊田自動織機,制御システム
+    Family To Family Citations,,,,
+    JP7290965B2                      *,2019-03-22,2023-06-14,株式会社Subaru,電動車両の電源システム
+    CN112865216B                      *,2020-12-31,2023-04-28,合众新能源汽车股份有限公司,一种纯电动汽车慢充能量管理系统及其方法
+    JP2022144986A                      *,2021-03-19,2022-10-03,本田技研工業株式会社,移動体の電源システム
+    JP2022158378A                      *,2021-04-02,2022-10-17,トヨタ自動車株式会社,車両用熱マネージメントシステム
+
+abstract
+    【課題】車両の駆動システムにおいて、蓄電池の充放電ロスをより抑制可能な駆動制御が可能な駆動制御装置を提供する。【解決手段】蓄電池と、発電機と、前記蓄電池と前記発電機の少なくともいずれか一方から供給された電力によって作動する補機と、を備える車両の駆動システムを制御する駆動制御装置を提供する。この駆動制御装置は、前記発電機の発電時に、前記補機の電力供給源として、前記発電機を前記蓄電池に優先させて選択する選択部と、前記発電機の発電する電力が前記補機の消費電力を超えることを条件として、前記補機の消費電力を増加させる電力制御部と、を備える。【選択図】 図４
+title
+    車両の駆動システムの駆動制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP7155642B2,2022-10-19,車両の駆動システムの駆動制御装置
+    JP4780402B2,2011-09-28,車両用電源装置
+    CA2926503C,2018-07-31,Cooling system for secondary battery
+    CN106414146B,2020-06-19,用于管理混合动力车辆的能量的方法和装置
+    US20040189098A1,2004-09-30,Power management system
+    EP2946975B1,2021-06-30,Power management and environmental control system for vehicles
+    JP5899674B2,2016-04-06,ハイブリッド車両の制御装置
+    JP5182514B2,2013-04-17,電動車両の制御装置
+    JP2010280250A,2010-12-16,動力発生源制御装置
+    JP2008149894A,2008-07-03,車両用電源装置
+    CN102844956A,2012-12-26,蓄电装置的控制装置以及搭载该蓄电装置的控制装置的车辆
+    JP2015104143A,2015-06-04,車載機器制御装置
+    JP5366685B2,2013-12-11,電動車両
+    JP2016201917A,2016-12-01,車載二次電池の冷却システム
+    JPWO2013105132A1,2015-05-11,車両制御装置、車両、および車両制御方法
+    JP2012056462A,2012-03-22,制御装置、制御方法、および、車両電源システム
+    US10836276B2,2020-11-17,Display device
+    JP2009201170A,2009-09-03,充電制御システム
+    JP5042816B2,2012-10-03,内燃機関制御装置
+    US9493128B2,2016-11-15,Method for operating an on-board power supply system of a motor vehicle
+    JP6287938B2,2018-03-07,車載二次電池の冷却システム
+    JP2015133859A,2015-07-23,電池の寿命管理方法および車両用電源システム
+    US20230202310A1,2023-06-29,Method for optimising the power of an electrified vehicle, and vehicle
+    JP7244392B2,2023-03-22,車両用制御装置
+    US20140379186A1,2014-12-25,Electronic control device
+
+patent_application
+    NoExist
+patent_priority_application
+5
+    Application,Priority date,Filing date,Title
+    JP2018114938A,2018-06-15,2018-06-15,車両の駆動システムの駆動制御装置
+    US16/439,958,2018-06-15,2019-06-13,Drive control apparatus for controlling vehicle drive system
+    DE102019116211.4A,2018-06-15,2019-06-14,Antriebssteuereinrichtung zum Steuern eines Fahrzeugantriebssystems
+    CN201910521106.9A,2018-06-15,2019-06-17,用于控制车辆驱动系统的驱动控制装置
+
+inventor_number
+    5
+classfication_nums
+    18
+classfication_items
+109
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,2,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,2,0
+    B,6,0,L,5,3,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B,6,0,L,5,8,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B,6,0,L,5,8,/,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,3,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,4,0,0,/,0,0
+    B,6,0,Y,2,4,0,0,/,1,1
+    B,6,0,Y,2,4,0,0,/,1,1,2
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,4,0,0,/,0,0
+    B,6,0,Y,2,4,0,0,/,8,7
+    B,6,0,Y,2,4,0,0,/,8,9
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+
+application_events
+7
+    2018-06-15,Application filed by Denso Corp
+    2018-06-15,Priority to JP2018114938A
+    2019-12-26,Publication of JP2019221025A
+    2022-10-19,Application granted
+    2022-10-19,Publication of JP7155642B2
+    Status,Active
+    2038-06-15,Anticipated expiration
+
+active_area
+4
+    J,P
+    U,S
+    D,E
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2018114938A,2018-06-15,車両の駆動システムの駆動制御装置
+
+legal_event
+9
+    Date,Code,Title,Description
+    2021-04-13,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20210413
+    2022-05-26,A977,Report on retrieval,Free format text: JAPANESE INTERMEDIATE CODE: A971007Effective date: 20220526
+    2022-05-31,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20220531
+    2022-07-12,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20220712
+    2022-08-29,TRDD,Decision of grant or rejection written,
+    2022-09-06,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20220906
+    2022-10-11,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20220919
+    2022-10-11,R151,Written notification of patent or utility model registration,Ref document number: 7155642Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R151
+

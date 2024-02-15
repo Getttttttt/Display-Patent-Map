@@ -1,0 +1,251 @@
+ID
+    JP2010115035A
+citation_exist
+    Patent Citations (6)
+citation_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2001057709A                      *,1999-08-17,2001-02-27,Honda Motor Co Ltd,ハイブリッド車両の制御装置
+    JP2001238303A                      *,2000-02-24,2001-08-31,Mitsubishi Motors Corp,ハイブリッド電気自動車の回生制御装置
+    JP2003018709A                      *,2001-07-03,2003-01-17,Nissan Motor Co Ltd,燃料電池車両の制御装置
+    JP2006081300A                      *,2004-09-09,2006-03-23,Toyota Motor Corp,ハイブリッド自動車用電池制御装置，ハイブリッド自動車用電池制御方法及びハイブリッド自動車
+    JP2007165211A                      *,2005-12-16,2007-06-28,Hitachi Vehicle Energy Ltd,蓄電池管理装置
+    JP2007236151A                      *,2006-03-03,2007-09-13,Panasonic Ev Energy Co Ltd,二次電池の充放電制御システム、電池制御装置、およびプログラム
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (6)
+              
+
+
+citedBy_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2012005179A                      *,2010-06-14,2012-01-05,Honda Motor Co Ltd,過電圧抑制装置及びモータ駆動装置
+    JP2014068471A                      *,2012-09-26,2014-04-17,Rohm Co Ltd,ワイヤレス受給電装置、ワイヤレス受電機器、およびワイヤレス給電機器
+    WO2014125519A1                      *,2013-02-18,2014-08-21,三洋電機株式会社,蓄電システム
+    JP2015082914A                      *,2013-10-23,2015-04-27,株式会社豊田自動織機,車両に搭載される電池パックの保護装置
+    FR3126665A1                      *,2021-09-07,2023-03-10,Psa Automobiles Sa,Surveillance des tensions dans un véhicule à batterie à recharge en mode 2 ou 3
+    Family To Family Citations,,,,
+    DE102021212921A1,2021-11-17,2023-05-17,Robert Bosch Gesellschaft mit beschränkter Haftung,Vorrichtung zur Vermeidung von Überspannungen in einem elektrischen Energiespeichersystem
+
+abstract
+    【課題】回生時において余剰電力が発生した場合であっても、確実にその余剰電力を消費し、電池の過電圧を防ぐことが可能な電池保護装置を提供する。【解決手段】電池保護装置は、電池と、電気負荷と、制御手段と、を備える。電池は、供給される回生電力を充電する。電気負荷は、電池に供給される回生電力の一部を消費することで、電池の過電圧を防ぐ。制御手段は、電池及び電気負荷に供給する回生電力を制御する。制御手段は、回生電力の目標上限出力値を、電気負荷の電力消費能力から所定値だけ小さく設定する。【選択図】図４
+title
+    電池保護装置
+similar_document
+26
+    Publication,Publication Date,Title
+    US7221064B2,2007-05-22,Power circuit for battery
+    US8847544B2,2014-09-30,Power supply device for electric powered vehicle, control method thereof, and electric powered vehicle
+    US8659182B2,2014-02-25,Power supply system and electric powered vehicle including power supply system, and method for controlling power supply system
+    JP4941595B2,2012-05-30,電源システム
+    JP6693446B2,2020-05-13,駆動装置
+    US20170151886A1,2017-06-01,Power supply system, transportation device, and power transmission method
+    US11180050B2,2021-11-23,Power supply system, transportation device, and power transmission method
+    US10538167B2,2020-01-21,Power supply system, transportation device, and power transmission method
+    EP3342624A1,2018-07-04,Drive unit, vehicle, and control method for drive unit
+    US20170151888A1,2017-06-01,Power supply system, transportation device, and power transmission method
+    JP5347438B2,2013-11-20,電池保護装置
+    JP2010273428A,2010-12-02,車両用駆動電源装置
+    JP2019180124A,2019-10-17,車両の電源システム
+    US11203274B2,2021-12-21,Electrically driven vehicle
+    CN110316019B,2023-03-28,车辆电源系统
+    JP2019180206A,2019-10-17,車両電源システム
+    JP2019180211A,2019-10-17,車両電源システム
+    JP5514459B2,2014-06-04,充電システム
+    JP3991942B2,2007-10-17,車両の回生制御装置および回生制御方法
+    US11070156B2,2021-07-20,Power system
+    JP6104637B2,2017-03-29,２電源負荷駆動システム及び燃料電池自動車
+    JP2019180210A,2019-10-17,車両電源システム
+    JP2019180213A,2019-10-17,車両電源システム
+    KR100579298B1,2006-05-11,환경 차량의 보조 배터리 충전 제어방법
+    KR20090054915A,2009-06-01,전원장치
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    JP2008286307A,2008-11-07,2008-11-07,電池保護装置
+
+inventor_number
+    8
+classfication_nums
+    22
+classfication_items
+134
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,0,2
+    B,6,0,L,7,/,0,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2008-11-07,Application filed by Toyota Motor Corp
+    2008-11-07,Priority to JP2008286307A
+    2010-05-20,Publication of JP2010115035A
+    2013-11-20,Application granted
+    2013-11-20,Publication of JP5347438B2
+    Status,Active
+    2028-11-07,Anticipated expiration
+
+active_area
+1
+    J,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2008286307A,2008-11-07,電池保護装置
+
+legal_event
+9
+    Date,Code,Title,Description
+    2011-03-17,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20110316
+    2012-12-03,A977,Report on retrieval,Free format text: JAPANESE INTERMEDIATE CODE: A971007Effective date: 20121203
+    2012-12-12,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20121211
+    2013-02-08,A521,Written amendment,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20130207
+    2013-07-16,TRDD,Decision of grant or rejection written,
+    2013-07-24,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20130723
+    2013-08-26,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20130805
+    2013-08-30,R151,Written notification of patent or utility model registration,Ref document number: 5347438Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R151
+

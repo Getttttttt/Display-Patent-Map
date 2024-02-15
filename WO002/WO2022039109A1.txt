@@ -1,0 +1,114 @@
+ID
+    WO2022039109A1
+citation_exist
+    Patent Citations (7)
+citation_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPS5447010A                      *,1977-09-22,1979-04-13,Toshiba Corp,Turbine controller
+    JPH06248904A                      *,1993-02-26,1994-09-06,Toshiba Corp,蒸気加減弁制御装置
+    JPH085044A                      *,1994-06-15,1996-01-12,Kubota Corp,ゴミ発電設備
+    JPH1122421A                      *,1997-06-30,1999-01-26,Hitachi Ltd,ごみ焼却発電プラント
+    JP2000145410A                      *,1998-11-12,2000-05-26,Ishikawajima Harima Heavy Ind Co Ltd,ゴミ焼却複合発電設備の運転制御方法
+    JP2001082701A                      *,1999-09-16,2001-03-30,Mitsubishi Heavy Ind Ltd,ボイラ／タービン発電機制御システム
+    JP2009191715A                      *,2008-02-14,2009-08-27,Toshiba Corp,タービン制御弁制御装置
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    系統電力の周波数調節運転に対応した制御を行うゴミ焼却発電プラントの制御装置を提供する。制御装置は、ゴミ焼却設備が生成した蒸気を発電設備に供給して、前記発電設備が前記蒸気を用いて発電するゴミ焼却発電プラントの制御装置であって、前記ゴミ焼却設備から前記発電設備に蒸気を供給するラインに設けられた蒸気加減弁を制御する蒸気加減弁制御部、を備え、前記蒸気加減弁制御部は、前記発電設備が発電する電力の周波数の計測値と、前記周波数について定められた基準値との偏差、および、前記蒸気の圧力の計測値と、前記圧力について定められた基準値との偏差から所定の低周波成分を除去した値と、に基づいて、前記蒸気加減弁の開度を制御する。
+title
+    制御装置、制御方法およびプログラム
+similar_document
+26
+    Publication,Publication Date,Title
+    KR101401135B1,2014-05-29,전력망 주파수 제어 서브 시스템 및 복합 사이클 발전 시스템
+    KR890001172B1,1989-04-26,복합형 순환 발전 설비용 증기 터어빈의 동작 및 댐퍼 제어시스템
+    JP4745767B2,2011-08-10,燃料流量制御装置及び発電システム並びに燃料流量制御方法
+    JP4554440B2,2010-09-29,ガス化複合発電設備およびその制御方法
+    JP2010007665A,2010-01-14,ガス・蒸気タービン設備を一次制御する方法
+    JP2007211705A,2007-08-23,ガス化複合発電システムにおける空気圧力制御装置
+    JP5909397B2,2016-04-26,加圧流動炉設備の調節弁制御装置、加圧流動炉設備の調節弁制御方法
+    JP5642657B2,2014-12-17,燃料ガス化システム、その制御方法及び制御プログラム、並びに、燃料ガス化システムを備える燃料ガス化複合発電システム
+    JP2006118391A,2006-05-11,ガス化複合発電プラントにおける抽気空気昇圧設備の制御装置
+    WO2022039109A1,2022-02-24,制御装置、制御方法およびプログラム
+    JP2012052785A,2012-03-15,蒸気供給システム及びその制御方法並びに蒸気供給方法
+    JP4117517B2,2008-07-16,石炭ガス化複合発電プラントとその運転制御装置。
+    CN115479276A,2022-12-16,控制装置、垃圾焚烧设备、控制方法以及程序
+    JP4665842B2,2011-04-06,タービンバイパス弁制御システム及び装置
+    JP3941405B2,2007-07-04,ボイラ自動制御装置および方法
+    JP6775070B1,2020-10-28,発電プラントの制御装置、発電プラント、及び、発電プラントの制御方法
+    WO2022118854A1,2022-06-09,発電システム、及びその制御方法並びにプログラム
+    JP2015049012A,2015-03-16,加圧流動焼却炉設備、及び加圧流動焼却炉設備の制御方法
+    JP2000171003A,2000-06-23,石炭焚火力発電プラントの再熱蒸気温度制御方法
+    WO2022145276A1,2022-07-07,制御装置および制御方法
+    RU2416759C1,2011-04-20,Способ автоматического регулирования взаимосвязанных процессов нагрузки прямоточного котла в условиях технологических ограничений
+    KR100896628B1,2009-05-08,보일러 화로압력 선행 직접제어 시스템
+    JP2007139412A,2007-06-07,サポートバーナーの操作を用いた、ごみの焼却プラントの調節方法
+    JP2000130741A,2000-05-12,石炭焚火力発電プラントの出力制御方法及び装置
+    JP2695368B2,1997-12-24,ゴミ焼却装置
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    6
+classfication_nums
+    4
+classfication_items
+20
+    F
+    F,0,1
+    F,0,1,D
+    F,0,1,D,1,7,/,0,0
+    F,0,1,D,1,7,/,1,0
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,2,7,/,0,0
+    F,0,1,K,2,7,/,0,2
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,9,/,0,0
+    H,0,2,P,9,/,0,4
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,2,0,/,0,0
+    Y,0,2,E,2,0,/,1,2
+
+application_events
+2
+    2021-08-13,Application filed by 三菱重工業株式会社
+    2022-02-24,Publication of WO2022039109A1
+
+active_area
+2
+    J,P
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2020-137425,2020-08-17,
+    JP2020137425A,2020-08-17,制御装置、制御方法およびプログラム
+
+legal_event
+4
+    Date,Code,Title,Description
+    2022-04-06,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 21858256Country of ref document: EPKind code of ref document: A1
+    2023-03-18,NENP,Non-entry into the national phase,Ref country code: DE
+    2023-08-30,122,Ep: pct application non-entry in european phase,Ref document number: 21858256Country of ref document: EPKind code of ref document: A1
+

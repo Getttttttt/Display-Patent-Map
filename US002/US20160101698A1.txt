@@ -1,0 +1,288 @@
+ID
+    US20160101698A1
+citation_exist
+    Patent Citations (10)
+citation_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US8612074B2                      *,2010-05-07,2013-12-17,GM Global Technology Operations LLC,Regenerative braking control in vehicles
+    DE102010026769A1                      *,2010-07-10,2011-04-21,Daimler Ag,Vehicle i.e. car, operating method, involves controlling and/or regulating electrical machine depending on environmental information of vehicle in generator mode, where information of vehicle is determined using camera
+    DE102010039642A1                      *,2010-08-23,2012-02-23,Bayerische Motoren Werke Aktiengesellschaft,Method for adjusting drag torque of drive train of motor vehicle for overrun operation, involves setting route-variable drag torque at distance range of route for overrun operation
+    DE102010041544B4                      *,2010-09-28,2023-05-04,Bayerische Motoren Werke Aktiengesellschaft,Driver assistance system to support the driver in consumption-controlled driving
+    DE102010052964A1                      *,2010-11-30,2012-05-31,Valeo Schalter Und Sensoren Gmbh,Method for operating a vehicle and driver assistance device
+    WO2012073373A1                      *,2010-12-02,2012-06-07,トヨタ自動車株式会社,Vehicle control device
+    US9457793B2                      *,2011-01-12,2016-10-04,Toyota Jidosha Kabushiki Kaisha,Vehicle information processing system
+    WO2013018198A1                      *,2011-08-02,2013-02-07,トヨタ自動車株式会社,Driving assistance device
+    DE102011084606A1                      *,2011-10-17,2013-04-18,Robert Bosch Gmbh,Determining a driving strategy for a vehicle
+    DE102012211426A1                      *,2012-07-02,2014-01-02,Bayerische Motoren Werke Aktiengesellschaft,Motor vehicle, particularly electric vehicle or hybrid vehicle, such as two-lane passenger car, has automatic speed controller and manual throttle control element, which is actuated in two different modes of operation with same hand
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (10)
+              
+
+
+citedBy_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20160144861A1                      *,2014-11-26,2016-05-26,Denso Corporation,Driving assistance apparatus
+    US20190371182A1                      *,2018-06-05,2019-12-05,TJ England,Safety system configured to determine when a vehicle has made an unwanted stop
+    Family To Family Citations,,,,
+    DE102015206919A1                      *,2015-04-16,2016-10-20,Ford Global Technologies, Llc,Electric motor vehicle and operating method for an electric motor vehicle
+    DE102015008154A1                      *,2015-06-24,2016-12-29,Audi Ag,Method for operating a driver assistance system of a motor vehicle and motor vehicle
+    DE102015217832A1                      *,2015-09-17,2017-03-23,Zf Friedrichshafen Ag,brake Assist
+    FR3047216B1                      *,2016-02-02,2018-02-02,Peugeot Citroen Automobiles Sa,METHOD AND DEVICE FOR MONITORING THE FUNCTION OF RECOVERING BRAKING ENERGY OF A HYBRID VEHICLE IN A DOWN SLOPE
+    CN107139730B                      *,2017-03-31,2019-08-20,奇瑞新能源汽车技术有限公司,Electric automobile energy recovery method and device
+    CN107253480B                      *,2017-06-23,2019-10-25,北京新能源汽车股份有限公司,Control method for vehicle and system
+    EP3700791A4                      *,2017-10-23,2021-06-30,Bayerische Motoren Werke Aktiengesellschaft,Method and apparatus for determining driving strategy of a vehicle
+    KR20210060697A                      *,2019-11-18,2021-05-27,현대자동차주식회사,Eco-friendly vehicle and method of controlling coasting for the same
+
+abstract
+    A method is provided for controlling regenerative braking torque, which is produced by an electric machine of a vehicle operating in generator mode in a coasting operation mode of the vehicle, in an open-loop or closed-loop manner in accordance with need. The method detects, on the basis of a specified algorithm, an imminent situation in which the speed of a vehicle should be reduced to a speed lower than the current speed. The method outputs a recommendation directed at the driver to release the accelerator when the expected occurrence of such a situation has been detected. If the driver has released the accelerator, the method controls the regenerative braking torque in an open-loop or closed-loop manner in such a way that the vehicle achieves the lower speed without actuation of the service brake when the situation occurs, or, if this cannot be achieved solely via the recuperation torque, maximizes the vehicle deceleration that can be produced by regenerative braking.
+title
+    Method for Controlling the Regenerative Braking Torque of an Electric Machine of a Vehicle in an Open-Loop or Closed-Loop Manner in Accordance with Need, Said Electric Machine Operating in Generator Mode
+similar_document
+26
+    Publication,Publication Date,Title
+    US20160101698A1,2016-04-14,Method for Controlling the Regenerative Braking Torque of an Electric Machine of a Vehicle in an Open-Loop or Closed-Loop Manner in Accordance with Need, Said Electric Machine Operating in Generator Mode
+    EP3075594B1,2019-02-20,Drive control device for movable body
+    JP6332180B2,2018-05-30,Vehicle control device
+    US10246093B2,2019-04-02,Method for operating a motor vehicle
+    KR101607697B1,2016-04-11,Method and system for a vehicle
+    US9283953B2,2016-03-15,Travel control device
+    CN105946845B,2020-07-14,Regenerative braking guidance system
+    JP2012116428A,2012-06-21,Vehicle stopping controller
+    CN105035070B,2020-03-10,Vehicle drive-off based on engine control
+    EP2476596A1,2012-07-18,Energy efficient driving assistance
+    US8688344B2,2014-04-01,Method for recuperating kinetic energy of a motor vehicle in a optimum way in terms of energy
+    EP2650186A2,2013-10-16,Drive system and control method of train
+    JP2010246355A,2010-10-28,Controller of vehicle
+    US11220276B2,2022-01-11,Travel control device, vehicle, and travel control method
+    JP6106758B2,2017-04-05,Vehicle control device
+    CN104442791B,2019-02-22,Driver prompts braking system and method
+    JP6253646B2,2017-12-27,Vehicle control device
+    JP2015104984A,2015-06-08,Travel control device of hybrid vehicle
+    CN103101441B,2016-09-14,For the method braking power of vehicle being controlled and/or adjust and control and/or adjusting apparatus
+    JP6495793B2,2019-04-03,Control device and control method for electric vehicle
+    JP2017140962A,2017-08-17,Energy saving slowdown travel assisting method
+    JP6361215B2,2018-07-25,Hybrid vehicle and hybrid vehicle control method
+    KR102448100B1,2022-09-28,Regenerative braking control device, vehicle having the regenerative braking control device, and method for controlling the vehicle
+    JP2020131924A,2020-08-31,Method of controlling energy-saving/low emission gas deceleration traveling
+    Ishizaka et al.,2014,Development of Road's Gradient Anticipatory Algorithm for Hybrid Heavy Duty Truck
+
+patent_application
+2
+    Application,Priority date,Filing date,Relation,Title
+    PCT/EP2014/060427,2013-06-18,2014-05-21,Continuation,Method for controlling the recuperation torque of an electric machine of a vehicle in an open-loop or closed-loop manner in accordance with need, said electric machine operating in generator mode
+
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    33
+classfication_items
+168
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B,6,0,W,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,4
+    B,6,0,W,3,0,/,1,4,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,4
+    B,6,0,W,3,0,/,1,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,2
+    B,6,0,L,2,2,4,0,/,6,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B,6,0,L,2,2,4,0,/,6,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,4,2,0,/,0,0
+    B,6,0,W,2,4,2,0,/,4,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,0
+    B,6,0,W,2,5,5,0,/,1,4,2
+    B,6,0,W,2,5,5,0,/,1,4,6
+    B,6,0,W,2,5,5,0,/,2,2
+    B,6,0,W,2,5,5,0,/,3,0,2
+    B,6,0,W,2,5,5,0,/,3,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,2,/,0,0
+    B,6,0,W,2,5,5,2,/,1,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,2,/,0,0
+    B,6,0,W,2,5,5,2,/,2,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,2,/,0,0
+    B,6,0,W,2,5,5,2,/,3,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,4,/,0,0
+    B,6,0,W,2,5,5,4,/,8,0
+    B,6,0,W,2,5,5,4,/,8,0,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,4,/,0,0
+    B,6,0,W,2,5,5,4,/,8,0
+    B,6,0,W,2,5,5,4,/,8,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,5,/,0,0
+    B,6,0,W,2,5,5,5,/,6,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,6,/,0,0
+    B,6,0,W,2,5,5,6,/,4,5
+    B,6,0,W,2,5,5,6,/,5,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,1,0
+    B,6,0,W,2,7,2,0,/,1,0,6
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,8,9
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+3
+    2015-12-17,Application filed by Bayerische Motoren Werke AG
+    2016-04-14,Publication of US20160101698A1
+    Status,Abandoned
+
+active_area
+2
+    W,O
+    C,N
+
+not_active_area
+3
+    D,E
+    E,P
+    U,S
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    DE102013211340.4,2013-06-18,
+    DE102013211340.4A,2013-06-18,Method for demand-controlled or regulation of the recuperation torque of an electric machine of a vehicle operating in generator operation
+    PCT/EP2014/060427,2014-05-21,Method for controlling the recuperation torque of an electric machine of a vehicle in an open-loop or closed-loop manner in accordance with need, said electric machine operating in generator mode
+
+legal_event
+2
+    Date,Code,Title,Description
+    2016-04-18,STCB,Information on status: application discontinuation,Free format text: EXPRESSLY ABANDONED  --  DURING EXAMINATION
+

@@ -1,0 +1,280 @@
+ID
+    US11198377B2
+citation_exist
+    Patent Citations (17)
+citation_infor
+19
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5813487A,1994-09-02,1998-09-29,Gottlob Auwarter Gmbh & Co.,Omnibus
+    US7147070B2,2003-02-07,2006-12-12,Leclerc Gaetan,Motorized semi-trailer
+    US7338335B1,2001-01-23,2008-03-04,Frank Messano,Hybrid electric heavy-duty vehicle drive system
+    US8256553B2,2010-02-17,2012-09-04,Roberto De Paschoal,Electric vehicles
+    US20130166119A1,2011-12-21,2013-06-27,Ford Global Technologies, Llc,Method and system for thermal management of a high voltage battery for a vehicle
+    US20130175022A1                      *,2010-09-23,2013-07-11,Jonathan King,Thermal management system for battery electric vehicle
+    US20130221916A1,2012-02-28,2013-08-29,Tesla Motors, Inc.,Electric Vehicle Battery Lifetime Optimization Operational Mode
+    EP2680434A1,2011-02-25,2014-01-01,NTN Corporation,Electric automobile
+    US20140046524A1,2012-08-09,2014-02-13,Cobasys, Llc,Battery pack condensation prevention
+    CA2836450A1,2013-12-16,2015-06-16,Thomson Power, Inc.,Electric vehicle power management driver control system
+    US20160129803A1                      *,2013-06-27,2016-05-12,Jaguar Land Rover Limited,Improvements relating to range prediction electric vehicles
+    US20160159339A1,2014-12-03,2016-06-09,Hyundai Motor Company,Engine idle operation control method and system for heating of hybrid electric vehicle
+    BR102014006100A2,2013-03-15,2016-07-05,Gen Electric,appliance and vehicle
+    US20170144553A1                      *,2015-11-24,2017-05-25,GM Global Technology Operations LLC,Method and apparatus for controlling a dc/dc power converter
+    Family To Family Citations,,,,
+    EP2802055B1                      *,2011-12-31,2019-06-26,Shenzhen BYD Auto R&D Company Limited,Electric vehicle and active discharge system for electric vehicle
+    KR20150008378A                      *,2012-05-10,2015-01-22,인터내셔널 트럭 인터렉츄얼 프로퍼티 캄파니, 엘엘씨,Isolation contactor transition polarity control
+    CN106347169A                      *,2015-07-17,2017-01-25,北京理工大学,Distributed four-wheel drive pure electric vehicle electrical system
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (14)
+              
+
+
+citedBy_infor
+16
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP7342657B2                      *,2019-11-28,2023-09-12,株式会社デンソー,Communications system
+    CN111169327B                      *,2020-01-21,2021-07-23,合肥工业大学,Electric automobile whole-vehicle integrated thermal management system based on phase-change material
+    CN111216568B                      *,2020-02-20,2021-05-28,中南大学,Electric automobile energy management device and method based on gated cycle unit
+    US11628704B2                      *,2020-03-10,2023-04-18,Ford Global Technologies, Llc,Method of operating a cooling system having dual independent refrigerant loops for providing cooling to a vehicle cabin and vehicle battery
+    US11710868B2                      *,2020-06-03,2023-07-25,Toyota Motor Engineering & Manufacturing North America, Inc.,Battery pack and a method for charging and cooling the battery pack using an external cooling device
+    CN112018877B                      *,2020-08-31,2022-06-03,江苏远卓电气科技有限公司,Electrical control method for multi-port engineering vehicle
+    USD956683S1,2020-09-09,2022-07-05,Caterpillar Inc.,Battery
+    US11600997B2,2020-09-09,2023-03-07,Caterpillar Inc.,Battery system
+    CN113183897B                      *,2021-04-13,2022-09-30,广西玉柴新能源汽车有限公司,Power supply circuit of refrigerating unit system
+    CN115675182A                      *,2021-07-26,2023-02-03,蔚来汽车科技(安徽)有限公司,Control method and device of power battery, vehicle, medium and equipment
+    WO2023154189A1                      *,2022-02-10,2023-08-17,Rancho Del I.P.,Selective efficiency traction inverters and chargers as heat sources for thermal conditioning of electric vehicles
+    US11407280B1                      *,2022-02-10,2022-08-09,Rancho Del I.P.,Ultra-low-cost coolant heating apparatus for electric vehicle applications
+    CN114455092B                      *,2022-03-28,2023-04-11,威海广泰空港设备股份有限公司,Photovoltaic power generation range-extending passenger ferry vehicle in pure electric motor yard and control method thereof
+    CN115339359B                      *,2022-10-19,2023-01-13,新汽有限公司,Hydrogen-electricity integrated controller
+
+abstract
+    The present invention relates to a power management system of a pure electric vehicle powered exclusively by batteries which allows the vehicle to carry a load of up to 13 tons, where the system of the present invention is provided with five blocks: a battery system (SBAT) (3), a control and power logic unit (ULCP) (4), a traction system (STR) (5), an auxiliary system (SAX) (36), and a driver's control panel (PCM) 81, where such blocks are interconnected by two buses, CAN bus (128) and Digital/Analogical BDA (129). The battery system has two battery banks (1) and (2) in parallel which are monitored by the BMS (76). The BMS (76) checks whether the voltages at the output of the batteries are the same as the input of the inverter (8) and manages the use of the battery banks in conjunction with the eVSI (73) by operating the battery bank (1) or the battery bank (2) or both depending on the load conditions of each bank. The eVSI (73) coordinates the control and power logic unit (ULCP) (4) which, through its components, controls the flow of energy between the battery banks, the traction system (STR) (5) and the auxiliary system (SAX) (36).
+title
+    Electric vehicle power management system
+similar_document
+26
+    Publication,Publication Date,Title
+    US11198377B2,2021-12-14,Electric vehicle power management system
+    US6897629B2,2005-05-24,Method and apparatus for adaptive control and protection of hybrid electric vehicle systems
+    US7122979B2,2006-10-17,Method and apparatus for selective operation of a hybrid electric vehicle in various driving modes
+    US6806588B2,2004-10-19,Power controller for a vehicle
+    JP3566147B2,2004-09-15,Hybrid vehicle cooling fan failure detection device
+    US9919710B2,2018-03-20,Power storage system
+    CA2612485C,2012-09-25,Hybrid electric powertrain with anti-idle function
+    JP3044880B2,2000-05-22,Drive control device for series hybrid vehicles
+    JP5510116B2,2014-06-04,Hybrid vehicle regenerative control device
+    CN103547497B,2016-04-27,The method of hybrid electric vehicle controller and control hybrid electric vehicle
+    GB2406724A,2005-04-06,Electric distribution system for a vehicle
+    AU2006259706A1,2006-12-28,Multiple engine hybrid locomotive
+    MX2007000128A,2007-03-30,High temperature battery system for hybrid locomotive and offhighway vehicles.
+    JP2010527307A,2010-08-12,Propulsion system
+    JP2015524362A,2015-08-24,Method for controlling a hybrid vehicle electrical device
+    JP6545435B2,2019-07-17,Vehicle control device, vehicle, and control method of vehicle
+    JP5101733B2,2012-12-19,Method and apparatus for driving a vehicle with a hybrid drive
+    CN218505645U,2023-02-21,Bear 70 tons of off-highway electricelectric and move wide body tipper
+    JP3591532B2,2004-11-24,Hybrid vehicle and its driving device
+    CN216331451U,2022-04-19,Hydrogen fuel cell wide vehicle
+    CN111959415B,2022-07-29,Energy distribution system algorithm based on VCU control of whole vehicle
+    JP3815419B2,2006-08-30,Control device and control method for hybrid vehicle
+    US20230271509A1,2023-08-31,Control system for an electric vehicle
+    US20230077695A1,2023-03-16,Operation of a hybrid vehicle
+    JP2021040430A,2021-03-11,vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    23
+classfication_items
+142
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,/,0,0
+    B,6,0,K,1,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,1,0
+    B,6,0,L,5,3,/,1,4
+    B,6,0,L,5,3,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B,6,0,L,5,8,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B,6,0,L,5,8,/,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,9,/,0,0
+    B,6,0,L,9,/,1,6
+    B,6,0,L,9,/,1,8
+    B
+    B,6,0
+    B,6,0,R
+    B,6,0,R,1,6,/,0,0
+    B,6,0,R,1,6,/,0,2
+    B,6,0,R,1,6,/,0,2,3
+    B,6,0,R,1,6,/,0,2,3,1
+    B
+    B,6,0
+    B,6,0,R
+    B,6,0,R,1,6,/,0,0
+    B,6,0,R,1,6,/,0,2
+    B,6,0,R,1,6,/,0,3
+    B,6,0,R,1,6,/,0,3,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,6
+    B,6,0,L,2,2,4,0,/,6,6,2
+    G
+    G,0,1
+    G,0,1,R
+    G,0,1,R,3,1,/,0,0
+    G,0,1,R,3,1,/,3,6
+    G,0,1,R,3,1,/,3,6,4,4
+    G,0,1,R,3,1,/,3,6,4,7
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,5,/,0,0
+    H,0,2,P,5,/,7,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+7
+    2018-03-02,Application filed by Eletra Industrial Ltda
+    2019-07-25,Assigned to ELETRA INDUSTRIAL LTDA
+    2021-07-22,Publication of US20210221250A1
+    2021-12-14,Application granted
+    2021-12-14,Publication of US11198377B2
+    Status,Active
+    2039-01-14,Adjusted expiration
+
+active_area
+4
+    E,P
+    U,S
+    C,A
+    A,R
+
+not_active_area
+0
+
+patent_application_claiming_priority
+5
+    Application,Filing date,Title
+    BRBR102018001661,2018-01-26,
+    BR102018001661,2018-01-26,
+    BR102018001661A,2018-01-26,electric vehicle power management system
+    PCT/BR2018/050055,2018-03-02,Electric vehicle power management system
+
+legal_event
+6
+    Date,Code,Title,Description
+    2019-07-25,AS,Assignment,Owner name: ELETRA INDUSTRIAL LTDA, BRAZILFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:HIRATSUKA, PAULINO;REEL/FRAME:049864/0551Effective date: 20190315
+    2019-07-25,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2021-08-05,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2021-11-09,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2021-11-23,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

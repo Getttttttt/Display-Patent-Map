@@ -1,0 +1,163 @@
+ID
+    US20190032960A1
+citation_exist
+    Patent Citations (5)
+citation_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP2005337632A                      *,2004-05-28,2005-12-08,Noritz Corp,Heat source device
+    KR20090102940A,2008-03-27,2009-10-01,주식회사 경동나비엔,Boiler suppliable heating-water and hot-water simultaneously
+    KR101427694B1                      *,2012-12-12,2014-08-07,주식회사 경동나비엔,Hot-water centered boiler for heating and hot-water supply
+    KR101586646B1                      *,2014-03-17,2016-01-19,주식회사 경동나비엔,A hot water heating latent heat exchanger and a condensing gas boiler comprising the same
+    KR101620814B1                      *,2014-12-17,2016-05-12,주식회사 경동나비엔,Hot water supply apparatus
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN111365855A                      *,2020-03-16,2020-07-03,华帝股份有限公司,Gas water heater capable of realizing multistage current limiting and temperature control and control method thereof
+    US11168895B2                      *,2019-03-26,2021-11-09,Rinnai Corporation,Heating and hot-water supply apparatus
+    CN114165825A                      *,2021-11-26,2022-03-11,南京国之鑫科技有限公司,Heat supply regulation and control system and method for heat exchange station
+    Family To Family Citations,,,,
+
+abstract
+    In a heating and hot water supply apparatus, a heat exchanger for hot water supply includes a primary-side path and a secondary-side path. A bypass path branches from a heating circulation path and is configured such that a heat transfer medium heated by a heating device flows through the primary-side path without passing through a heating terminal when hot water supply operation is performed and then joins the heating circulation path again. A control unit controls a flow rate regulating valve so that a hot water flow rate does not exceed a reference limit flow rate when hot water supply operation is performed. The reference limit flow rate is set on the basis of the smaller one between a maximum heating capacity of the heating device and a heating capacity of the heating device at which an output temperature of the heated heat transfer medium reaches an upper limit temperature.
+title
+    Heating and hot water supply apparatus and method of controlling the same
+similar_document
+26
+    Publication,Publication Date,Title
+    US10969142B2,2021-04-06,Heating and hot water supply apparatus and method of controlling the same
+    US8695539B2,2014-04-15,Water heater and control method therefor
+    US10824178B2,2020-11-03,Heating and hot water supply apparatus and control method thereof
+    EP2407729A1,2012-01-18,Hot-water supply system
+    JP2011525231A,2011-09-15,Hot water supply system to maintain a constant temperature
+    US20120280052A1,2012-11-08,Hot-water heat pump and method of controlling the same
+    US20160047558A1,2016-02-18,Hot water supply and heating system
+    US10852036B2,2020-12-01,Heating and hot water supply apparatus
+    US20220186927A1,2022-06-16,System for recovering heat from flue gas, control arrangement for use in such a system and a method performed by such a control arrangement
+    JP5708975B2,2015-04-30,Water heater
+    EP2993398B1,2019-01-30,Flue-gas treatment apparatus and its method of operation
+    JP6228881B2,2017-11-08,Heat source equipment
+    JPH09184659A,1997-07-15,Hot water supply apparatus
+    JP7332274B2,2023-08-23,heat source system
+    JP2016005830A,2016-01-14,Flue gas treatment apparatus, and operational method of flue gas treatment apparatus
+    JPH08189635A,1996-07-23,Hot water delivery temperature control method for hot water supplying apparatus
+    JP6624879B2,2019-12-25,Water heater
+    JP5598711B2,2014-10-01,Heat source machine
+    JP4114545B2,2008-07-09,Gas combustion equipment
+    KR101588538B1,2016-01-25,Storage type hot water supply device
+    JP2009156215A,2009-07-16,Method and system for warming block valve
+    JP2002257417A,2002-09-11,Method of correcting and controlling hot water supply temperature and auxiliary heat source-incorporated solar heat hot-water supplier
+    JP2021089104A,2021-06-10,Heat exchanger
+    JP5734677B2,2015-06-17,One can two water bath water heater
+    JP2593575B2,1997-03-26,Cogeneration system
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    8
+classfication_items
+49
+    F
+    F,2,4
+    F,2,4,H
+    F,2,4,H,9,/,0,0
+    F,2,4,H,9,/,2,0
+    F,2,4,H,9,/,2,0,0,7
+    F,2,4,H,9,/,2,0,3,5
+    F
+    F,2,4
+    F,2,4,D
+    F,2,4,D,1,9,/,0,0
+    F,2,4,D,1,9,/,1,0
+    F,2,4,D,1,9,/,1,0,0,6
+    F,2,4,D,1,9,/,1,0,6,6
+    F
+    F,2,4
+    F,2,4,H
+    F,2,4,H,1,/,0,0
+    F,2,4,H,1,/,1,0
+    F,2,4,H,1,/,1,2
+    F,2,4,H,1,/,1,4
+    F,2,4,H,1,/,1,4,5
+    F
+    F,2,4
+    F,2,4,H
+    F,2,4,H,1,/,0,0
+    F,2,4,H,1,/,4,8
+    F,2,4,H,1,/,5,2
+    F
+    F,2,4
+    F,2,4,H
+    F,2,4,H,8,/,0,0
+    F,2,4,H,8,/,0,0,6
+    F,2,4,H,9,/,1,2,8
+    F
+    F,2,4
+    F,2,4,H
+    F,2,4,H,9,/,0,0
+    F,2,4,H,9,/,1,2
+    F,2,4,H,9,/,1,3
+    F,2,4,H,9,/,1,3,9
+    F
+    F,2,4
+    F,2,4,H
+    F,2,4,H,9,/,0,0
+    F,2,4,H,9,/,1,8
+    F,2,4,H,9,/,1,8,0,9
+    F,2,4,H,9,/,1,8,3,2
+    F,2,4,H,9,/,1,8,3,6
+
+application_events
+7
+    2018-07-12,Application filed by Noritz Corp
+    2018-07-25,Assigned to NORITZ CORPORATION
+    2019-01-31,Publication of US20190032960A1
+    2021-04-06,Application granted
+    2021-04-06,Publication of US10969142B2
+    Status,Active
+    2039-06-17,Adjusted expiration
+
+active_area
+2
+    J,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2017-145419,2017-07-27,
+    JPJP2017-145419,2017-07-27,
+    JP2017145419A,2017-07-27,Heating and hot water supply device
+
+legal_event
+10
+    Date,Code,Title,Description
+    2018-07-12,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2018-07-25,AS,Assignment,Owner name: NORITZ CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:TSUDA, NAOKI;ATOBE, YOSHIFUMI;NAKAYAMA, KENICHI;REEL/FRAME:046449/0109Effective date: 20180612
+    2019-01-03,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2020-08-13,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2020-10-26,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2021-01-27,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2021-03-07,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT RECEIVED
+    2021-03-08,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2021-03-17,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

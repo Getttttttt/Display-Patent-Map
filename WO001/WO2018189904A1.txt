@@ -1,0 +1,132 @@
+ID
+    WO2018189904A1
+citation_exist
+    Patent Citations (8)
+citation_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH0998509A                      *,1995-10-03,1997-04-08,Mitsubishi Motors Corp,電気自動車用回生制動制御装置
+    JPH10174213A                      *,1996-12-06,1998-06-26,Toyota Motor Corp,電気自動車の制御装置
+    JPH1118207A                      *,1997-06-27,1999-01-22,Toyota Motor Corp,電気自動車の制動制御装置
+    JP2000197210A                      *,1998-12-28,2000-07-14,Toyota Motor Corp,ハイブリッド車両の走行制御装置
+    JP2014057417A                      *,2012-09-12,2014-03-27,Mazda Motor Corp,車両用制御装置
+    JP2014128075A                      *,2012-12-25,2014-07-07,Mitsubishi Motors Corp,回生ブレーキ制御装置
+    JP2014135814A                      *,2013-01-09,2014-07-24,Hitachi Automotive Systems Ltd,車両の走行制御装置
+    Family To Family Citations,,,,
+    JP5222329B2                      *,2010-08-05,2013-06-26,本田技研工業株式会社,車両用制動装置
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP7382841B2,2020-01-22,2023-11-17,株式会社Subaru,車両
+    Family To Family Citations,,,,
+
+abstract
+    強減速モードが選択されているとき、燃費の悪化を抑制すること。　アクセル解放操作によるコースト状態のとき、ドライバの選択に応じて車両に付与する減速力を第１減速力と第１減速力よりも大きい第２減速力との２段階で変更可能な電動車両の制御方法において、電動車両に駆動力および回生力を付与可能なモータ/ジェネレータ（３）と、通常モードと強回生モードをドライバの選択に応じて選択可能なモード選択スイッチ（４０）と、を備える。そして、通常モードの選択中、回生側に第１通常目標駆動力を算出し、強回生モードの選択中、第１通常目標駆動力よりも回生側に強い第１強回生目標駆動力を算出し、強回生モードの選択中、ドライバ操作により第２減速力による強回生強減速モードを選択すると、強減速モードの選択中、第１強回生目標駆動力よりも負側に大きくした第２強回生目標駆動力を算出し、算出した各目標駆動力に応じた回生力をモータに出力する。
+title
+    電動車両の制御方法及び電動車両の制御装置
+similar_document
+25
+    Publication,Publication Date,Title
+    US9637108B2,2017-05-02,Vehicle driving-torque control device
+    KR100908950B1,2009-07-22,차량의 제어 장치
+    US8825253B2,2014-09-02,Hybrid vehicle control device
+    JP5521340B2,2014-06-11,ハイブリッド車両の制御装置
+    US8932181B2,2015-01-13,Control device of vehicle drive device
+    CN107176159B,2022-06-03,在混合动力车辆中用于再生制动的控制系统
+    US10253876B2,2019-04-09,Vehicle regenerative speed control device
+    RU2657658C1,2018-06-14,Устройство управления демпфированием для гибридного транспортного средства
+    US10246077B2,2019-04-02,Vehicle regenerative speed control device
+    JP6112214B2,2017-04-12,ハイブリッド車両の制御装置
+    JP6575235B2,2019-09-18,ハイブリッド車両の発進制御方法および発進制御装置
+    US11130403B1,2021-09-28,One-pedal drive system for a vehicle
+    WO2013150966A1,2013-10-10,ハイブリッド車両の制御装置およびハイブリッド車両の制御方法
+    JP6702505B2,2020-06-03,電動車両の制御装置および電動車両の制御方法
+    JP6172266B2,2017-08-02,ハイブリッド車両の制御装置
+    JP2018177084A,2018-11-15,ハイブリッド車両の制御方法及びハイブリッド車両の制御装置
+    JP5453847B2,2014-03-26,ハイブリッド車両の制御装置
+    CN108082177B,2022-10-18,混合动力传动系中的蠕行消除方法
+    JP6777225B2,2020-11-04,ハイブリッド車両の制御方法及びハイブリッド車両の制御装置
+    JP6747583B2,2020-09-02,電動車両の制御方法及び電動車両の制御装置
+    JP6741150B2,2020-08-19,電動車両の制御装置および電動車両の制御方法
+    JP2017218028A,2017-12-14,ハイブリッド車両の制御方法と制御装置
+    JP2006141127A,2006-06-01,車両の制御装置
+    JP2001263388A,2001-09-26,電磁クラッチの締結制御装置
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    JP2019512166A,2017-04-14,2017-04-14,電動車両の制御方法及び電動車両の制御装置
+    PCT/JP2017/015369,2017-04-14,2017-04-14,電動車両の制御方法及び電動車両の制御装置
+
+inventor_number
+    4
+classfication_nums
+    4
+classfication_items
+24
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+4
+    2017-04-14,Application filed by 日産自動車株式会社
+    2017-04-14,Priority to JP2019512166A
+    2017-04-14,Priority to PCT/JP2017/015369
+    2018-10-18,Publication of WO2018189904A1
+
+active_area
+2
+    J,P
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2017/015369,2017-04-14,電動車両の制御方法及び電動車両の制御装置
+
+legal_event
+5
+    Date,Code,Title,Description
+    2018-11-28,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 17905577Country of ref document: EPKind code of ref document: A1
+    2019-09-25,ENP,Entry into the national phase,Ref document number: 2019512166Country of ref document: JPKind code of ref document: A
+    2019-10-15,NENP,Non-entry into the national phase,Ref country code: DE
+    2020-04-22,122,Ep: pct application non-entry in european phase,Ref document number: 17905577Country of ref document: EPKind code of ref document: A1
+

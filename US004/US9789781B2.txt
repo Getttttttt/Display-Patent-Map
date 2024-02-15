@@ -1,0 +1,416 @@
+ID
+    US9789781B2
+citation_exist
+    Patent Citations (13)
+citation_infor
+15
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20040113591A1                      *,2002-12-17,2004-06-17,Larry Bradley,Battery charger
+    JP2010142026A,2008-12-11,2010-06-24,Mitsubishi Motors Corp,Charger device for electric vehicle
+    US20100174667A1                      *,2009-01-06,2010-07-08,Gm Global Technology Operations, Inc.,Charging cable with controller
+    WO2010122647A1,2009-04-23,2010-10-28,トヨタ自動車株式会社,Vehicle, charging cable, and vehicular charging system
+    JP2012070623A,2008-10-22,2012-04-05,Toyota Motor Corp,Device and method for controlling vehicle, and vehicle
+    JP2012205361A,2011-03-24,2012-10-22,Tokai Rika Co Ltd,Lock instrument control device
+    US20130184886A1                      *,2009-07-17,2013-07-18,Gridpoint, Inc.,Systems and methods for smart charging techniques, value and guarantee
+    Family To Family Citations,,,,
+    JP4367559B2                      *,2007-08-10,2009-11-18,トヨタ自動車株式会社,vehicle
+    US20100320964A1,2009-06-18,2010-12-23,Ford Global Technologies, Llc,Method And System To Charge Batteries Only While Vehicle Is Parked
+    CN102686442B                      *,2009-12-28,2014-10-15,丰田自动车株式会社,Vehicle
+    US20110224852A1                      *,2011-01-06,2011-09-15,Ford Global Technologies, Llc,Methods and system for selectively charging a vehicle
+    FR2973968B1                      *,2011-04-07,2013-04-12,Commissariat Energie Atomique,RADIOFREQUENCY TRANSMITTING OR RECEPTION CHAIN WITH AUTOMATIC IMPEDANCE ADAPTATION AND CORRESPONDING METHOD
+    WO2012140729A1                      *,2011-04-12,2012-10-18,トヨタ自動車株式会社,Vehicle and method for controlling vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (17)
+              
+
+
+citedBy_infor
+19
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP6583610B2                      *,2014-05-27,2019-10-02,三菱自動車工業株式会社,Fault diagnosis device for vehicle charging system
+    KR101610482B1                      *,2014-07-28,2016-04-07,현대자동차주식회사,Method and Apparatus for Stopping Charge Reservation and Charging Promptly Electric Vehicle
+    JP6337709B2                      *,2014-09-12,2018-06-06,トヨタ自動車株式会社,vehicle
+    US20180300965A1                      *,2015-10-22,2018-10-18,Honda Motor Co., Ltd.,Vehicle communication device and vehicle communication system
+    JP6229708B2                      *,2015-12-15,2017-11-15,トヨタ自動車株式会社,Vehicle and contactless power transmission system
+    CN105818701B                      *,2016-03-16,2018-06-01,上海电机学院,A kind of electric vehicle fills electricity consumption and fills automatically sells electric control system
+    JP6624128B2                      *,2017-03-14,2019-12-25,トヨタ自動車株式会社,Car
+    WO2019064478A1                      *,2017-09-29,2019-04-04,本田技研工業株式会社,Saddle-type electric vehicle
+    KR102451985B1                      *,2017-11-22,2022-10-06,현대자동차주식회사,The method for controlling the shut-down mode of the vehicle operated by the electrical energy
+    EP3756262A4                      *,2018-02-22,2022-01-19,Volvo Truck Corporation,Multi-voltage charging apparatus
+    JP7172668B2                      *,2019-02-01,2022-11-16,トヨタ自動車株式会社,vehicle
+    CN110120537B                      *,2019-05-10,2020-12-08,青岛大学,Hydration state self-adaptive equalization-based fuel cell cascade power generation system
+    JP7314666B2,2019-07-09,2023-07-26,トヨタ自動車株式会社,charging controller
+    US11070136B2                      *,2019-10-31,2021-07-20,Deere & Company,System for controlling a direct-current-to-direct-current converter to provide electrical energy to a vehicle implement
+    US11070138B2                      *,2019-10-31,2021-07-20,Deere & Company,System for controlling a direct-current-to-direct-current converter to provide electrical energy to a vehicle implement
+    US11358485B2,2020-02-04,2022-06-14,Toyota Jidosha Kabushiki Kaisha,Vehicle
+    DE102022211786B3,2022-11-08,2023-10-19,Zf Friedrichshafen Ag,Hybrid system, hybrid vehicle with a hybrid system and charging process
+
+abstract
+    A charging device for a vehicle carries out timer charging in which the charging device is set in a standby state without charging until charging start time comes when the charging start time is set for a vehicle-mounted electrical storage device. The charging device for the vehicle includes a charger that charges the electrical storage device with electric power supplied from a device outside the vehicle, and an ECU that determines whether to carry out timer charging or carry out instant charging without carrying out the timer charging on the basis of a state of a switch associated with an open/close state of a charging lid, and that controls the charger. Desirably, a timer cancellation or determination switch is also used as a switch for detecting the open/close state of the lid or a switch for opening the lid.
+title
+    Charging device for a vehicle mounted electrical storage device
+similar_document
+17
+    Publication,Publication Date,Title
+    US9789781B2,2017-10-17,Charging device for a vehicle mounted electrical storage device
+    US9718368B2,2017-08-01,Charging device for vehicle
+    JP5029783B2,2012-09-19,Charging system
+    JP5758746B2,2015-08-05,Power supply connector, vehicle, and vehicle control method
+    JP5420883B2,2014-02-19,Charging connector and charging cable unit
+    JP5141818B2,2013-02-13,Charging connector and charging cable unit
+    JP4466772B2,2010-05-26,Vehicle control device
+    JP4539785B2,2010-09-08,Vehicle system activation device and vehicle system activation method
+    US8774997B2,2014-07-08,Vehicle, charging cable, and charging system for vehicle
+    JP4285578B1,2009-06-24,Vehicle charging device
+    JP5880582B2,2016-03-09,vehicle
+    JP5301948B2,2013-09-25,Control device
+    JP2009100569A,2009-05-07,Vehicle and charging cable
+    US20220063428A1,2022-03-03,Charging system, vehicle, charge control device, and charging method
+    JP2014184881A,2014-10-02,Vehicle
+    JP2011098648A,2011-05-19,Plug-in vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    71
+classfication_items
+292
+    B,6,0,L,1,1,/,1,8,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,1,1,/,1,2,3
+    B,6,0,L,1,1,/,1,4
+    B,6,0,L,1,1,/,1,8,1,2
+    B,6,0,L,1,1,/,1,8,1,6
+    B,6,0,L,1,1,/,1,8,1,8
+    B,6,0,L,1,1,/,1,8,4,4
+    B,6,0,L,1,1,/,1,8,4,6
+    B,6,0,L,1,1,/,1,8,4,8
+    B,6,0,L,1,1,/,1,8,6,1
+    B,6,0,L,1,1,/,1,8,6,4
+    B,6,0,L,1,1,/,1,8,7,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,6,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,1,0
+    B,6,0,L,5,3,/,1,4
+    B,6,0,L,5,3,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,2,0
+    B,6,0,L,5,3,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,6,0
+    B,6,0,L,5,3,/,6,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,6,0
+    B,6,0,L,5,3,/,6,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,6,0
+    B,6,0,L,5,3,/,6,6
+    B,6,0,L,5,3,/,6,6,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,1
+    H,0,1,H
+    H,0,1,H,1,3,/,0,0
+    H,0,1,H,1,3,/,0,2
+    H,0,1,H,1,3,/,1,2
+    H,0,1,H,1,3,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,1,0
+    B,6,0,L,2,2,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,8,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,1,0
+    B,6,0,L,2,2,7,0,/,1,4
+    B,6,0,L,2,2,7,0,/,1,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,2,0
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,7,2,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y,0,2,T,1,0,/,6,2,1,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,0,5
+    Y,0,2,T,1,0,/,7,0,4,4
+    Y,0,2,T,1,0,/,7,0,6,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y,0,2,T,1,0,/,7,0,7,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,1,6
+    Y,0,2,T,1,0,/,7,2,4,1
+    Y,0,2,T,1,0,/,7,2,7,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,8,0
+    Y,0,2,T,1,0,/,9,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,2
+    Y,0,2,T,9,0,/,1,2,1
+    Y,0,2,T,9,0,/,1,2,7
+    Y,0,2,T,9,0,/,1,2,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+    Y,0,2,T,9,0,/,1,6,3
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+    Y,0,2,T,9,0,/,1,6,7
+    Y,0,2,T,9,0,/,1,6,9
+    Y
+    Y,0,4
+    Y,0,4,S
+    Y,0,4,S,1,0,/,0,0
+    Y,0,4,S,1,0,/,1,2
+    Y,0,4,S,1,0,/,1,2,6
+    Y
+    Y,0,4
+    Y,0,4,S
+    Y,0,4,S,3,0,/,0,0
+    Y,0,4,S,3,0,/,1,0
+    Y,0,4,S,3,0,/,1,4
+
+application_events
+7
+    2014-01-31,Application filed by Toyota Motor Corp
+    2015-08-04,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2015-12-31,Publication of US20150375633A1
+    2017-10-17,Application granted
+    2017-10-17,Publication of US9789781B2
+    Status,Active
+    2034-08-24,Adjusted expiration
+
+active_area
+5
+    J,P
+    D,E
+    W,O
+    C,N
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2013035605A,2013-02-26,Vehicle charging device
+    JP2013-035605,2013-02-26,
+    PCT/IB2014/000091,2014-01-31,Charging device for vehicle
+
+legal_event
+4
+    Date,Code,Title,Description
+    2015-08-04,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:MASUDA, TOMOKAZU;REEL/FRAME:036247/0693Effective date: 20150624
+    2017-09-27,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2021-03-31,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

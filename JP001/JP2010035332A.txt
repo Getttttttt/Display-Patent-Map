@@ -1,0 +1,260 @@
+ID
+    JP2010035332A
+citation_exist
+    Patent Citations (3)
+citation_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH0583805A                      *,1991-09-17,1993-04-02,Honda Motor Co Ltd,電気自動車の電気負荷制限装置
+    JP2005253287A                      *,2004-02-03,2005-09-15,Denso Corp,車両用電池の制御装置
+    JP2007306771A                      *,2006-05-15,2007-11-22,Toyota Motor Corp,蓄電装置の充放電制御装置およびそれを搭載した電動車両
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    US9973018B2,2013-12-18,2018-05-15,Toyota Jidosha Kabushiki Kaisha,Electric storage system
+    JP2018137040A                      *,2017-02-20,2018-08-30,マツダ株式会社,車載バッテリの制御装置、及び車載バッテリの制御方法
+    JP2019049482A                      *,2017-09-11,2019-03-28,トヨタ自動車株式会社,電池出力監視装置及び方法
+    Family To Family Citations,,,,
+
+abstract
+    【課題】蓄電装置について出力可能電力の予測を行った後にさらなる放電が行われたときでも、必要な最大出力可能電力を確保できるようにすることである。【解決手段】ハイブリッド車両制御システム１０の制御装置４０の蓄電装置出力予測部４２は、蓄電装置２２の現在の電圧値、電流値を取得する現在状態取得モジュール４４と、現在から所定時間経過のときまでに放電によって低下する蓄電装置２２の電圧低下値を取得する放電電圧低下値取得モジュール４６と、現在の電圧値と、現在から所定時間経過のときまでの電圧低下値と、蓄電装置２２の放電下限電圧と、蓄電装置２２の内部抵抗特性とに基き、現在から所定時間経過後のときにおける蓄電装置２２の最大放電可能電力値を算出する最大放電可能電力値算出モジュール４８を含んで構成される。【選択図】図１
+title
+    蓄電装置出力予測装置およびハイブリッド車両制御システム
+similar_document
+26
+    Publication,Publication Date,Title
+    JP5757298B2,2015-07-29,車両の電源システムおよびそれを備える車両
+    JP5772839B2,2015-09-02,車両の電源システムおよびそれを備える車両
+    KR100988519B1,2010-10-20,하이브리드차량 및 그 제어방법
+    US10988043B2,2021-04-27,Vehicle and method of charging electric power storage device
+    JP5504117B2,2014-05-28,電気自動車の制御装置
+    US7813849B2,2010-10-12,Vehicle control system
+    JP6003743B2,2016-10-05,電源装置
+    JP5201273B2,2013-06-05,電源管理装置
+    JP2011087408A,2011-04-28,車両の電源システム
+    JP2015019575A,2015-01-29,電動車両を用いた電力供給装置
+    CN103963657A,2014-08-06,电动车辆和控制电动车辆的方法
+    JP2018137220A,2018-08-30,燃料電池制御装置およびその制御方法、燃料電池自動車
+    JP2008110700A,2008-05-15,ハイブリッド車両の電源システム
+    KR20190105786A,2019-09-18,차량의 전원 공급 시스템 및 이를 제어하는 방법
+    JP2010174775A,2010-08-12,車両制御装置
+    JP5181900B2,2013-04-10,蓄電装置出力予測装置およびハイブリッド車両制御システム
+    JP7373113B2,2023-11-02,車両用電源制御装置
+    CN110789475B,2021-04-02,一种复合电源管理系统及方法
+    KR20120113539A,2012-10-15,비상시동시스템 및 이를 구비한 차량
+    US11285822B2,2022-03-29,Electric power system and control method therefor
+    JP2017150975A,2017-08-31,ハイレート劣化指標推定制御装置
+    JP4567711B2,2010-10-20,電気自動車
+    CN111391665A,2020-07-10,充电系统
+    JP7373114B2,2023-11-02,車両用電源制御装置
+    JP2017024461A,2017-02-02,電源装置および電源装置の制御方法
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    JP2008194934A,2008-07-29,2008-07-29,蓄電装置出力予測装置およびハイブリッド車両制御システム
+
+inventor_number
+    8
+classfication_nums
+    24
+classfication_items
+146
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,1,0
+    B,6,0,L,2,2,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,8,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,4,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,5,0
+    B,6,0,L,2,2,6,0,/,5,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2008-07-29,Application filed by Toyota Motor Corp
+    2008-07-29,Priority to JP2008194934A
+    2010-02-12,Publication of JP2010035332A
+    2013-04-10,Application granted
+    2013-04-10,Publication of JP5181900B2
+    Status,Active
+    2028-07-29,Anticipated expiration
+
+active_area
+1
+    J,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2008194934A,2008-07-29,蓄電装置出力予測装置およびハイブリッド車両制御システム
+
+legal_event
+12
+    Date,Code,Title,Description
+    2010-10-07,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20101006
+    2012-06-07,A977,Report on retrieval,Free format text: JAPANESE INTERMEDIATE CODE: A971007Effective date: 20120607
+    2012-06-13,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20120612
+    2012-08-09,A521,Written amendment,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20120808
+    2012-09-05,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20120904
+    2012-11-06,A521,Written amendment,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20121105
+    2012-12-10,TRDD,Decision of grant or rejection written,
+    2012-12-19,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20121218
+    2013-01-21,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20121231
+    2013-01-25,R151,Written notification of patent or utility model registration,Ref document number: 5181900Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R151
+    2013-01-28,FPAY,Renewal fee payment (event date is renewal date of database),Free format text: PAYMENT UNTIL: 20160125Year of fee payment: 3
+

@@ -1,0 +1,209 @@
+ID
+    EP4063172A1
+citation_exist
+    Patent Citations (32)
+citation_infor
+34
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JPH10201008A                      *,1997-01-13,1998-07-31,Mitsubishi Motors Corp,Regenerative braking device for electric vehicle
+    US7116077B2                      *,2002-04-12,2006-10-03,Ford Global Technologies, Llc,Diagnostic system and method for an electric motor using torque estimates
+    US7116068B2                      *,2002-04-12,2006-10-03,Ford Global Technologies, Llc,Diagnostic system and method for an electric motor using torque estimates
+    US20030193310A1                      *,2002-04-12,2003-10-16,Ford Motor Company,Diagnostic method for an electric motor using torque estimates
+    US6845305B1                      *,2002-09-11,2005-01-18,Ford Motor Company,Engine torque control for a hybrid electric vehicle using estimated engine torque
+    US8258727B2                      *,2007-09-10,2012-09-04,International Rectifier Corporation,Regenerative torque shifter
+    EP2127987B1                      *,2008-05-27,2013-07-03,IVECO S.p.A.,Braking method and device with energy recovery in particular for a vehicle equipped with hybrid traction system
+    US8948942B2                      *,2011-06-15,2015-02-03,GM Global Technology Operations LLC,Pre-emptive output torque reduction for a transient speed event and prioritization of inertia
+    EP2760714B1                      *,2011-09-28,2019-03-20,Continental Teves AG & Co. OHG,Slip-controlled braking system for electrically driven motor vehicles
+    CN102951027A                      *,2012-11-27,2013-03-06,东南（福建）汽车工业有限公司,Braking energy recovery self-adaptive control method of electric automobile
+    JP2014200125A                      *,2013-03-29,2014-10-23,富士通株式会社,Battery monitoring system, battery cartridge, battery package, and vehicle
+    CN104494599B                      *,2014-01-30,2015-11-25,比亚迪股份有限公司,Vehicle and slide back-feed control method
+    CN104859459A                      *,2014-07-30,2015-08-26,北汽福田汽车股份有限公司,Method for determining regenerative braking torque
+    CN104477040B                      *,2014-11-18,2016-08-24,浙江工业大学之江学院,Monoergic source electric car time-dependent current regenerating brake control method
+    US9656663B2                      *,2015-06-29,2017-05-23,Ford Global Technologies, Llc,Methods and system for operating a powertrain during regenerative braking
+    KR101916074B1                      *,2016-11-08,2019-01-30,현대자동차 주식회사,Regenerative braking apparatus for vehicle and method of the same
+    CN114801757A                      *,2016-11-09,2022-07-29,华为技术有限公司,Method and device for recovering braking energy of vehicle
+    KR101876091B1                      *,2016-12-14,2018-07-06,현대자동차주식회사,System and Method for determining Regen Mode
+    IT201700038501A1                      *,2017-04-07,2018-10-07,Freni Brembo Spa,Method and system for controlling the regenerative braking torque of a vehicle
+    CN109677393A                      *,2017-10-18,2019-04-26,上海汽车集团股份有限公司,A kind of calculation method and device of hybrid power system power generation torque
+    CN107933319A                      *,2017-11-09,2018-04-20,上汽通用五菱汽车股份有限公司,Electric automobile and its energy back-feed control method, readable storage medium storing program for executing
+    US11588373B2                      *,2019-07-15,2023-02-21,Industrial Technology Research Institute,Kinetic energy recovery system with flywheel
+    CN110303894A                      *,2019-07-25,2019-10-08,爱驰汽车有限公司,Neutral position sliding energy reclaiming method, system, equipment and medium
+    JP2021087235A                      *,2019-11-25,2021-06-03,トヨタ自動車株式会社,Braking apparatus for electric vehicle
+    KR20210069176A                      *,2019-12-02,2021-06-11,현대자동차주식회사,Method for regenerative braking of vehicle
+    KR20230131436A                      *,2020-03-06,2023-09-13,저장 한밍보 뉴 에너지 컴퍼니., 리미티드.,System and method for charging electric vehicles
+    JP2021164355A                      *,2020-04-02,2021-10-11,株式会社デンソー,Vehicle control device
+    CN113511110B                      *,2020-04-10,2022-10-14,长城汽车股份有限公司,Pure electric available power determining method and system and vehicle
+    US11230288B1                      *,2020-09-28,2022-01-25,GM Global Technology Operations LLC,Optimized regenerative braking for hybrid electric vehicle (HEV) powertrain configurations
+    US11772628B2                      *,2021-03-08,2023-10-03,Cummins Inc.,Method and system for kinetic energy recovery in a hybrid powertrain during engine shutdown
+    US20230158897A1                      *,2021-11-23,2023-05-25,Deere & Company,System for recovering electrical energy from mechanical rotational energy of an electric machine and inverter associated with impaired battery
+    US20230191917A1                      *,2021-12-20,2023-06-22,Dana Motion Systems Italia S.R.L.,Methods and systems for ensuring compliance of an electric vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    CN115402292A                      *,2022-10-31,2022-11-29,中国第一汽车股份有限公司,Power control method, device, equipment and medium applied to hybrid vehicle
+
+abstract
+    The present disclosure relates to the field of vehicle technology and provides an energy recovery control method, a system, and a vehicle. The method is applied in a vehicle, and the vehicle comprises a drive motor and a battery electrically connected to the drive motor; a first energy recovery torque curve with respect to the drive motor is pre-configured in the vehicle, and the first energy recovery torque curve is used to indicate a correspondence relationship between vehicle speed and energy recovery torque of the drive motor. The present disclosure performs reduction on a first energy recovery torque curve by means of utilizing a reduction ratio, allowing energy recovery in accordance with a relatively low torque strength when a usable charge power of the battery is unable to satisfy a preset power requirement corresponding to the first energy recovery torque curve, which lessens or even eliminates the phenomenon of torque stepping, thereby increasing comfort when driving.
+title
+    Energy recovery control method, system, and vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    RU2714094C1,2020-02-11,Method of torque control and torque control device
+    KR101543077B1,2015-08-07,Device and method for controlling motor system of green car
+    EP4063172A1,2022-09-28,Energy recovery control method, system, and vehicle
+    EP2609316B1,2019-11-06,Hybrid power train rate control
+    CN112054744B,2022-07-05,Inverter temperature control method, system, vehicle and medium
+    CN112757909B,2023-06-23,Vehicle control method and device, electronic equipment and storage medium
+    CN108116271B,2020-08-21,Motor system and control method thereof
+    CN110803032B,2020-09-25,Motor control method and device, motor controller, storage medium and system
+    CN110281907B,2021-06-29,Power switching method and device of range extender and terminal
+    JP2018088788A,2018-06-07,Control device for electric vehicle, control method for electric vehicle, and control system for electric vehicle
+    US20230139991A1,2023-05-04,Pure electric available power determination method and system, and vehicle
+    CN112140901A,2020-12-29,Torque control method and device
+    CN113119750B,2023-07-14,Vehicle energy consumption control method and device and electric vehicle
+    EP4112409A1,2023-01-04,Determination method for drive force to be requested for hybrid vehicle, and apparatus
+    CN111114336B,2021-11-12,Control method and control device for electric vehicle and electronic equipment
+    US20130043824A1,2013-02-21,Control device for an asynchronous electric machine, electric propulsion system comprising said device, and method for controlling an asynchronous electric machine
+    CN113370791B,2023-03-14,Pure electric vehicle and regenerative braking control recovery method, device and system thereof
+    WO2023210440A1,2023-11-02,Electric vehicle control device
+    JPH07115706A,1995-05-02,Motor vehicle
+    CN112848918A,2021-05-28,Power reduction method and device for electric drive system, electric drive system and vehicle
+    JP2023162546A,2023-11-09,Electric vehicle control device
+    CN114932813A,2022-08-23,Control method for double-motor ultra-low-speed cruise
+    CN117067939A,2023-11-17,Energy-saving control method, system and control device for electric automobile crane
+    JP2022122813A,2022-08-23,Vehicular motor control system and motor control method
+    CN116587884A,2023-08-15,Control method and controller for electric sanitation vehicle and electric sanitation vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    9
+classfication_nums
+    12
+classfication_items
+73
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,1,4
+    H,0,2,J,7,/,1,4,6,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,1,4
+    H,0,2,J,7,/,1,4,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+4
+    2021-01-11,Application filed by Great Wall Motor Co Ltd
+    2022-09-28,Publication of EP4063172A1
+    2023-02-08,Publication of EP4063172A4
+    Status,Pending
+
+active_area
+3
+    C,N
+    U,S
+    E,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    CN202010113378.8A,2020-02-24,Energy recovery control method and system and vehicle
+    PCT/CN2021/071104,2021-01-11,Energy recovery control method, system, and vehicle
+
+legal_event
+10
+    Date,Code,Title,Description
+    2021-09-03,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE INTERNATIONAL PUBLICATION HAS BEEN MADE
+    2022-08-26,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2022-08-26,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+    2022-09-28,17P,Request for examination filed,Effective date: 20220623
+    2022-09-28,AK,Designated contracting states,Kind code of ref document: A1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2023-02-08,A4,Supplementary search report drawn up and despatched,Effective date: 20230111
+    2023-02-08,RIC1,Information provided on ipc code assigned before grant,Ipc: B60L   7/10        19680901AFI20230104BHEP
+    2023-05-31,DAV,Request for validation of the european patent (deleted),
+    2023-05-31,DAX,Request for extension of the european patent (deleted),
+

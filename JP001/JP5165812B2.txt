@@ -1,0 +1,303 @@
+ID
+    JP5165812B2
+citation_exist
+    Patent Citations (18)
+citation_infor
+20
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2000125405A                      *,1998-10-16,2000-04-28,Toyota Motor Corp,車両用回生制動装置
+    Family To Family Citations,,,,
+    US5472265A                      *,1992-12-10,1995-12-05,Toyota Jidosha Kabushiki Kaisha,Antilock braking control apparatus for electric vehicle
+    JP3416913B2                      *,1994-06-14,2003-06-16,アイシン精機株式会社,電動車輌の制動装置
+    US5923093A                      *,1996-07-02,1999-07-13,Toyota Jidosha Kabushiki Kaisha,Hybrid vehicle drive system adapted to assure smooth brake application by motor/generator or engine
+    JP3541621B2                      *,1997-06-10,2004-07-14,トヨタ自動車株式会社,車両用制動装置
+    JP3896240B2                      *,2000-03-24,2007-03-22,住友電工ブレーキシステムズ株式会社,回生協調ブレーキシステムの制御方法
+    JP4320968B2                      *,2000-05-02,2009-08-26,トヨタ自動車株式会社,ブレーキシステム
+    JP4147850B2                      *,2002-02-15,2008-09-10,日産自動車株式会社,制動制御装置
+    US20030184147A1                      *,2002-03-26,2003-10-02,Ford Motor Company,Method and system to provide coastdown braking torque to an electrically propelled vehicle without regenerative braking
+    JP3816840B2,2002-06-24,2006-08-30,日野自動車株式会社,ブレーキ制御装置
+    JP4370775B2                      *,2002-12-17,2009-11-25,日産自動車株式会社,複合ブレーキの協調制御装置
+    KR101006987B1                      *,2005-12-07,2011-01-12,주식회사 만도,전기모터가 장착된 차량의 회생제동방법
+    JP4348557B2,2006-02-22,2009-10-21,三菱ふそうトラック・バス株式会社,ハイブリッド電気自動車の制御装置
+    US8565969B2                      *,2007-04-03,2013-10-22,Clean Emissions Technologies, Inc.,Over the road/traction/cabin comfort retrofit
+    KR100819978B1                      *,2006-08-01,2008-04-07,현대자동차주식회사,하이브리드 및 전기 차량의 브레이크 시스템과 그 제어방법
+    JP4380700B2                      *,2006-12-29,2009-12-09,トヨタ自動車株式会社,電動車両
+    US8135526B2                      *,2007-11-03,2012-03-13,GM Global Technology Operations LLC,Method for controlling regenerative braking and friction braking
+    CN101596869A                      *,2009-07-08,2009-12-09,吉林大学,混合动力客车气压与再生制动协调控制系统
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (9)
+              
+
+
+citedBy_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP5932596B2                      *,2012-10-11,2016-06-08,日立オートモティブシステムズ株式会社,車両の回生制御装置
+    US9616755B2,2012-10-22,2017-04-11,Kawasaki Jukogyo Kabushiki Kaisha,Regenerative brake control system of electric vehicle
+    JP2015058757A                      *,2013-09-17,2015-03-30,日野自動車株式会社,自動車の制御装置
+    US9849786B2                      *,2014-09-02,2017-12-26,Ford Global Technologies, Llc,Vehicle system and method for adjusting deceleration rate
+    US9783063B2                      *,2015-08-27,2017-10-10,Texas Instruments Incorporated,Regenerative braking controller for electric motors
+    WO2017177895A1                      *,2016-04-11,2017-10-19,纳恩博（北京）科技有限公司,一种电动车电能回收方法、装置及电动车、存储介质
+    WO2018110379A1                      *,2016-12-15,2018-06-21,株式会社フコク,樹脂ブーツ
+    EP3829943B1,2018-08-01,2023-09-27,Cummins, Inc.,System and method for regenerative braking torque scheduling
+    US11447017B2                      *,2020-01-30,2022-09-20,Fca Us Llc,Control of user-selectable vehicle deceleration rate to maximize regeneration for electrified propulsion systems
+
+abstract
+    
+title
+    回生制御装置、ハイブリッド自動車および回生制御方法、並びにプログラム
+similar_document
+23
+    Publication,Publication Date,Title
+    JP5165812B2,2013-03-21,回生制御装置、ハイブリッド自動車および回生制御方法、並びにプログラム
+    JP4988046B1,2012-08-01,回生制御装置、ハイブリッド自動車および回生制御方法、並びにプログラム
+    JP5073875B2,2012-11-14,車両および制御方法、並びにプログラム
+    JP5079864B2,2012-11-21,回生制御装置、ハイブリッド自動車および回生制御方法、並びにプログラム
+    JP5362107B2,2013-12-11,発進制御方法、発進制御装置およびハイブリッド自動車、並びにプログラム
+    JP5059246B2,2012-10-24,回生制御装置、ハイブリッド自動車および回生制御方法、並びにプログラム
+    JP5843412B2,2016-01-13,アクセルペダル反力制御装置及び車両
+    CN104816638B,2018-04-20,车辆
+    JP5059247B2,2012-10-24,変速制御装置、ハイブリッド自動車、および変速制御方法、並びにプログラム
+    WO2012053607A1,2012-04-26,車両および制御方法、並びにプログラム
+    JP5001475B1,2012-08-15,回生制御装置、ハイブリッド自動車および回生制御方法、並びにプログラム
+    JP5059248B2,2012-10-24,車両および制御方法、並びにプログラム
+    JP5063829B2,2012-10-31,回生制御装置、ハイブリッド自動車および回生制御方法、並びにプログラム
+    WO2012053603A1,2012-04-26,再生制御装置、ハイブリッド自動車および再生制御方法、並びにプログラム
+    JP2012091573A,2012-05-17,トルク制御装置及びトルク制御方法
+    JP2013014239A,2013-01-24,ハイブリッド自動車の制御装置、ハイブリッド自動車およびハイブリッド自動車の制御方法、並びにプログラム
+    JP5339091B2,2013-11-13,ハイブリッド車
+    JP2013001158A,2013-01-07,ハイブリッド自動車の制御装置、ハイブリッド自動車およびハイブリッド自動車の制御方法、並びにプログラム
+    JP5819092B2,2015-11-18,制御装置、ハイブリッド自動車および制御方法、並びにプログラム
+    CN111491837A,2020-08-04,休闲车
+    JP5652121B2,2015-01-14,回生制御装置
+    JP2012158295A,2012-08-23,制御装置、ハイブリッド自動車および制御方法、並びにプログラム
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    JP2012514264A,2010-10-21,2011-10-20,回生制御装置、ハイブリッド自動車および回生制御方法、並びにプログラム
+
+inventor_number
+    4
+classfication_nums
+    28
+classfication_items
+167
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,1,8
+    B,6,0,W,2,5,1,0,/,1,8,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+
+application_events
+7
+    2011-10-20,Application filed by Hino Motors Ltd
+    2011-10-20,Priority to JP2012514264A
+    2013-03-21,Application granted
+    2013-03-21,Publication of JP5165812B2
+    2014-02-24,Publication of JPWO2012053592A1
+    Status,Expired - Fee Related
+    2031-10-20,Anticipated expiration
+
+active_area
+2
+    W,O
+    U,S
+
+not_active_area
+4
+    A,U
+    E,P
+    C,N
+    J,P
+
+patent_application_claiming_priority
+5
+    Application,Filing date,Title
+    JP2010236607,2010-10-21,
+    JP2010236607,2010-10-21,
+    PCT/JP2011/074157,2011-10-20,回生制御装置、ハイブリッド自動車および回生制御方法、並びにプログラム
+    JP2012514264A,2011-10-20,回生制御装置、ハイブリッド自動車および回生制御方法、並びにプログラム
+
+legal_event
+8
+    Date,Code,Title,Description
+    2012-08-22,A02,Decision of refusal,Free format text: JAPANESE INTERMEDIATE CODE: A02Effective date: 20120821
+    2012-12-12,TRDD,Decision of grant or rejection written,
+    2012-12-19,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20121218
+    2012-12-27,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20121219
+    2012-12-28,FPAY,Renewal fee payment (event date is renewal date of database),Free format text: PAYMENT UNTIL: 20151228Year of fee payment: 3
+    2012-12-28,R150,Certificate of patent or registration of utility model,Ref document number: 5165812Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R150Free format text: JAPANESE INTERMEDIATE CODE: R150
+    2020-12-28,LAPS,Cancellation because of no payment of annual fees,
+

@@ -1,0 +1,324 @@
+ID
+    US20220073061A1
+citation_exist
+    Patent Citations (11)
+citation_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JPS446843Y1                      *,1966-05-31,1969-03-13,,
+    JP2001082507A                      *,1999-09-17,2001-03-27,Okitako Shoji:Kk,Clutch mechanism for power transmission using magnet
+    JP2005264982A                      *,2004-03-16,2005-09-29,Atsuo Nozaki,Planetary geared transmission and torque controlling method of the same
+    JP2007085477A                      *,2005-09-22,2007-04-05,Nissan Motor Co Ltd,Magnetic coupling type rotational power transmitting device
+    JP4743121B2                      *,2006-03-29,2011-08-10,日産自動車株式会社,Brake distribution control device at the time of vehicle collision
+    FR2965236B1                      *,2010-09-28,2013-08-09,Peugeot Citroen Automobiles Sa,AUTOMATIC BRAKING METHOD OF A MOTOR VEHICLE
+    JP5747511B2                      *,2011-01-07,2015-07-15,いすゞ自動車株式会社,Coasting control device
+    JP5772951B2                      *,2011-05-12,2015-09-02,トヨタ自動車株式会社,vehicle
+    JP2014109375A,2012-12-04,2014-06-12,Aisin Seiki Co Ltd,Electromagnetic clutch
+    JP6551648B2                      *,2014-12-19,2019-07-31,三菱ふそうトラック・バス株式会社,Vehicle travel control device
+    JP6515040B2                      *,2016-01-19,2019-05-15,日立オートモティブシステムズ株式会社,Vehicle control device
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    When a collision occurs, a driving force of a drive shaft is transmitted to a reversing high-load multiple disk clutch via an inertia absorbing gear mechanism. Then, the driving force is transmitted to a gear via a gear, and inertia is absorbed and the driving force acts to rotate an output shaft at a low speed. On the other hand, when the gear rotates, a regenerative/backing up motor also rotates, and so-called regenerative driving is also performed. Due to these operations, the output shaft rapidly decreases in rotation speed, and goes into a rotation stopping state from a forward rotating state. Then, when a vehicle speed sensor detects that the vehicle speed has reached “0,” the regenerative/backing up motor is driven, the output shaft is driven to rotate reversely for several seconds, and thereafter, driving of the regenerative/backing up motor is stopped.
+title
+    Clutch device and collision mitigation mechanism
+similar_document
+26
+    Publication,Publication Date,Title
+    JP5935886B2,2016-06-15,Vehicle control device
+    JP3584106B2,2004-11-04,Driving device for electric vehicle and control method therefor
+    WO2011148753A1,2011-12-01,Hybrid vehicle accelerator pedal depressing force control device
+    CN105383291B,2020-08-11,Coast switch for electric vehicle
+    JP3616847B2,2005-02-02,Regenerative braking system for land mobile
+    WO2018083960A1,2018-05-11,Vehicle driving device
+    JP7010384B2,2022-01-26,Motor vehicle control method and motor vehicle drive system
+    JP2008179232A,2008-08-07,Hybrid vehicle
+    US20220073061A1,2022-03-10,Clutch device and collision mitigation mechanism
+    KR101160323B1,2012-06-26,Electronic control fuel save clutch device for vehicle
+    CN107709077B,2020-12-01,Control apparatus for vehicle
+    JP5146919B2,2013-02-20,Power output device
+    JP5460017B2,2014-04-02,Electric vehicle control device
+    JP2009171727A,2009-07-30,Energy regeneration apparatus for vehicle
+    JP2012090396A,2012-05-10,Driving force controller of vehicle
+    US11619272B2,2023-04-04,Dog clutch engagement method of electric four-wheel drive vehicle
+    JP3581917B2,2004-10-27,Electric vehicle creep generator
+    JP3411522B2,2003-06-03,Motor assist drive for automobile
+    US10427667B2,2019-10-01,Method for automatically switching a motor vehicle to freewheel mode
+    JPWO2005100068A1,2007-08-30,VEHICLE DRIVE DEVICE AND VEHICLE USING THE SAME
+    JP5460015B2,2014-04-02,Electric vehicle control device
+    Arai et al.,2019,Design and Experimental Verification of a Regenerative Brake System with a Spiral Spring and Gears
+    US11731506B2,2023-08-22,Driving system of electric vehicle
+    KR20080108914A,2008-12-16,Energy efficiency increasing device for a vehicle using a spiral spring
+    KR101683084B1,2016-12-07,Vehicle anti-rolling device
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    39
+classfication_items
+225
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,0,8
+    B,6,0,W,3,0,/,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,5,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,0,3,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,0,5,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,1,2
+    H
+    H,0,2
+    H,0,2,K
+    H,0,2,K,4,9,/,0,0
+    H,0,2,K,4,9,/,1,0
+    H,0,2,K,4,9,/,1,0,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,5,0
+    B,6,0,K,6,/,5,4
+    B,6,0,K,2,0,0,6,/,5,4,1
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,2,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,3,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,3,8
+    B,6,0,K,6,/,3,8,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,0
+    B,6,0,L,2,2,4,0,/,5,0,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,0,8
+    B,6,0,W,2,0,3,0,/,0,8,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,2,/,0,0
+    B,6,0,W,2,5,5,2,/,1,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,4,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,4,/,0,0
+    B,6,0,W,2,5,5,4,/,8,0
+    B,6,0,W,2,5,5,4,/,8,0,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,2
+    B,6,0,W,2,7,1,0,/,0,2,1
+    B,6,0,W,2,7,1,0,/,0,2,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,2,4
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,2
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,0,8
+    B,6,0,Y,2,3,0,0,/,0,9
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,4,2
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,2,/,0,0
+    B,6,0,Y,2,3,0,2,/,0,5
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,2,3,/,0,0
+    F,1,6,D,2,3,/,1,2
+    F,1,6,D,2,0,2,3,/,1,2,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+3
+    2021-09-01,Application filed by Individual
+    2022-03-10,Publication of US20220073061A1
+    Status,Pending
+
+active_area
+4
+    J,P
+    J,P
+    U,S
+    E,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2020-149490,2020-09-04,
+    JP2020149490A,2020-09-04,Clutch device and collision mitigation mechanism
+
+legal_event
+2
+    Date,Code,Title,Description
+    2021-10-15,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+

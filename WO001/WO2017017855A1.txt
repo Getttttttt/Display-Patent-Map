@@ -1,0 +1,100 @@
+ID
+    WO2017017855A1
+citation_exist
+    Patent Citations (4)
+citation_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2009204187A                      *,2008-02-26,2009-09-10,Panasonic Electric Works Co Ltd,空調制御システム
+    JP5214078B1                      *,2012-08-14,2013-06-19,三菱電機株式会社,列車情報管理装置および機器制御方法
+    JP2013198213A                      *,2012-03-16,2013-09-30,Toshiba Corp,制動制御装置
+    JP2013212713A                      *,2012-03-30,2013-10-17,Nippon Signal Co Ltd:The,列車制御装置
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    列車編成内の最大消費電力を抑えつつ回生電力の効率的な利用を目的とし、列車１に搭載された複数の補機を有する補機群１４を制御可能な車両情報管理装置１１であって、列車１の速度情報からキロ程を演算してキロ程情報を送信するキロ程演算部１１２と、列車１の絶対位置情報を含む地点情報、キロ程情報及び補機群１４の補機状態情報を受信して補機群１４への補機制御指令の生成に用いる判断結果情報を送信する判断部１１０と、判断結果情報を受信して補機制御指令を生成して送信する補機制御指令生成部１１３とを備え、補機制御指令生成部１１３は、補機群１４の稼動抑制時に回生電力の生成の開始が予測される直前の地点にて補機群１４の稼動を促進する指令を生成し、回生電力の生成が停止することが予測される直前の地点にて補機群１４の稼動を抑制する指令を生成する。
+title
+    車両情報管理装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP5174999B1,2013-04-03,列車情報管理装置および機器制御方法
+    JP5214078B1,2013-06-19,列車情報管理装置および機器制御方法
+    WO2016206584A1,2016-12-29,一种车载设备及列车通信系统
+    CN111645725B,2022-07-26,车辆控制方法、装置及设备
+    JP5937584B2,2016-06-22,移動体の制御装置および制御方法
+    WO2013065514A1,2013-05-10,列車制御システム
+    JP6091385B2,2017-03-08,列車無線システム
+    CN104118433B,2019-09-20,用于机动车的速度调节系统
+    WO2017017855A1,2017-02-02,車両情報管理装置
+    CN114423660A,2022-04-29,用于行驶车辆队列的方法
+    CN104442410A,2015-03-25,一种用于电动汽车的紧急制动系统及其控制方法
+    JP6226759B2,2017-11-08,自動列車運転装置
+    WO2018225344A1,2018-12-13,車上制御装置及び列車制御システム
+    WO2015019432A1,2015-02-12,運行管理システム
+    JP2010178417A,2010-08-12,運転支援システムおよび運転支援方法
+    KR101936989B1,2019-01-10,차량용 스마트 크루즈 컨트롤 시스템 제어방법
+    JP5364682B2,2013-12-11,列車の定速走行制御方法及び装置
+    JP2011168217A,2011-09-01,運行支援システム及び運行支援方法
+    KR101114415B1,2012-02-22,비상 상황을 위한 가속 조절 장치 및 방법
+    JP6452902B2,2019-01-16,鉄道車両用ブレーキ制御装置および鉄道車両用ブレーキ制御方法
+    JP2015048038A,2015-03-16,列車制御システム
+    JP2018137875A,2018-08-30,列車制御装置、制御方法及びプログラム
+    WO2022208781A1,2022-10-06,列車制御システム
+    CN112849223B,2023-02-28,巡航模式控制方法、系统及轨道车辆
+    JP2014144755A,2014-08-14,列車制御システム
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    PCT/JP2015/071711,2015-07-30,2015-07-30,車両情報管理装置
+
+inventor_number
+    4
+classfication_nums
+    1
+classfication_items
+6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,2
+
+application_events
+3
+    2015-07-30,Application filed by 三菱電機株式会社
+    2015-07-30,Priority to PCT/JP2015/071711
+    2017-02-02,Publication of WO2017017855A1
+
+active_area
+1
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2015/071711,2015-07-30,車両情報管理装置
+
+legal_event
+5
+    Date,Code,Title,Description
+    2017-03-15,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 15899688Country of ref document: EPKind code of ref document: A1
+    2018-01-31,NENP,Non-entry into the national phase,Ref country code: DE
+    2018-08-21,NENP,Non-entry into the national phase,Ref country code: JP
+    2018-08-22,122,Ep: pct application non-entry in european phase,Ref document number: 15899688Country of ref document: EPKind code of ref document: A1
+

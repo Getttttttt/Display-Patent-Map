@@ -1,0 +1,273 @@
+ID
+    US20170282926A1
+citation_exist
+    Patent Citations (10)
+citation_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20150019058A1                      *,2013-07-12,2015-01-15,Stephan P. Georgiev,Regenerative braking regulation in automotive vehicles
+    US20150222208A1                      *,2014-01-31,2015-08-06,Toyota Jidosha Kabushiki Kaisha,Vehicle
+    US20150353038A1                      *,2014-06-09,2015-12-10,Atieva, Inc.,Time Sensitive Learning Interface
+    Family To Family Citations,,,,
+    JP4192916B2                      *,2005-05-19,2008-12-10,トヨタ自動車株式会社,Control device for vehicle drive device
+    JP4281725B2                      *,2005-09-01,2009-06-17,トヨタ自動車株式会社,Hybrid car
+    JP2008131700A                      *,2006-11-17,2008-06-05,Hino Motors Ltd,Deceleration controller
+    US8401733B2                      *,2009-12-18,2013-03-19,Chrysler Group Llc,Optimized powertrain with route-learning feature
+    JP5896301B2,2012-12-25,2016-03-30,三菱自動車工業株式会社,Regenerative brake control device
+    JP2015051692A                      *,2013-09-06,2015-03-19,トヨタ自動車株式会社,Hybrid vehicle and hybrid vehicle control method
+    JP6233063B2                      *,2014-01-31,2017-11-22,トヨタ自動車株式会社,vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN109080462A                      *,2018-08-01,2018-12-25,奇瑞新能源汽车技术有限公司,A kind of electric automobile energy recycling adjusting method
+    US10377242B2                      *,2015-09-30,2019-08-13,Mitsubishi Jidosha Kogyo Kabushiki Kaisha,Regenerative brake control device
+    US20210163015A1                      *,2017-09-20,2021-06-03,Nissan Motor Co., Ltd.,Method for Learning Travel Characteristics and Travel Assistance Device
+    US11192532B2                      *,2018-05-30,2021-12-07,Mando Corporation,Vehicle control system, method of controlling the same, and breaking device
+    Family To Family Citations,,,,
+
+abstract
+    A regeneration control apparatus which controls a regenerative braking force of an electric motor for driving an electric motor vehicle includes: a regeneration operation unit operated by a driver to select magnitude of the regenerative braking force stepwise from selection stages; a default operation unit operated by the driver to change the magnitude of the regenerative braking force to one of the selection stages which has been set as a default stage; a detection unit detecting an operation state on the regeneration operation unit during a learning period; and a default stage changing unit, when one of the selection stages whose selection frequency is highest during the learning period is different from one of the selection stages which has been currently set as the default stage, changing the default stage to another selection stage.
+title
+    Regeneration control apparatus
+similar_document
+22
+    Publication,Publication Date,Title
+    KR101529399B1,2015-06-16,Regenerative brake control device
+    CN106394256B,2019-09-17,The regenerating control device of electro-motive vehicle
+    US10377242B2,2019-08-13,Regenerative brake control device
+    EP2589509B1,2019-04-17,Creep cut-off control device for electric vehicle
+    US20170282926A1,2017-10-05,Regeneration control apparatus
+    US20150019097A1,2015-01-15,Control system for vehicle
+    KR20130036744A,2013-04-12,Play-reducing control apparatus for electrically driven vehicle
+    JP2016130105A,2016-07-21,Vehicle control unit
+    CN112550247A,2021-03-26,Brake control device
+    JP5896315B2,2016-03-30,Regenerative brake control device
+    JP6372772B2,2018-08-15,Regenerative brake control device
+    JP6614052B2,2019-12-04,Automobile
+    JP5896316B2,2016-03-30,Regenerative brake control device
+    EP3932728A1,2022-01-05,Powertrain system for electric automobile, electric automobile and method of controlling electric automobile
+    JP7112889B2,2022-08-04,Vehicle with motor
+    JP6202410B2,2017-09-27,Regenerative brake control device
+    JP6202411B2,2017-09-27,Regenerative brake control device
+    JP5896311B2,2016-03-30,Regenerative brake control device
+    JP6098547B2,2017-03-22,Control device for hybrid vehicle
+    JP2021102373A,2021-07-15,Vehicle control device
+    JPH10243504A,1998-09-11,Method for controlling vehicle driven by electric motor
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    6
+classfication_nums
+    28
+classfication_items
+163
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B,6,0,L,2,2,1,0,/,4,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,8,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B,6,0,L,2,2,5,0,/,2,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,4,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,1,0
+    B,6,0,W,2,5,1,0,/,1,0,0,5
+    B,6,0,W,2,5,1,0,/,1,0,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B,6,0,W,2,5,2,0,/,1,0,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,3,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,1,0
+    B,6,0,W,2,7,2,0,/,1,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,1,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+4
+    2017-03-28,Application filed by Mitsubishi Motors Corp
+    2017-03-28,Assigned to MITSUBISHI JIDOSHA KOGYO KABUSHIKI KAISHA
+    2017-10-05,Publication of US20170282926A1
+    Status,Abandoned
+
+active_area
+2
+    J,P
+    C,N
+
+not_active_area
+2
+    E,P
+    U,S
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2016066241A,2016-03-29,Regenerative control device
+    JP2016-066241,2016-03-29,
+
+legal_event
+6
+    Date,Code,Title,Description
+    2017-03-28,AS,Assignment,Owner name: MITSUBISHI JIDOSHA KOGYO KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:HASHIZAKA, AKIRA;MOTAI, MASAAKI;MITSUOKA, HIDETAKA;AND OTHERS;SIGNING DATES FROM 20170312 TO 20170320;REEL/FRAME:041768/0126
+    2019-02-22,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2019-07-09,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2019-10-22,STPP,Information on status: patent application and granting procedure in general,Free format text: FINAL REJECTION MAILED
+    2020-06-22,STCB,Information on status: application discontinuation,Free format text: ABANDONED  --  FAILURE TO RESPOND TO AN OFFICE ACTION
+

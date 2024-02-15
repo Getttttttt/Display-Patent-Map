@@ -1,0 +1,179 @@
+ID
+    US10766470B2
+citation_exist
+    Patent Citations (7)
+citation_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    US6317675B1                      *,1997-11-22,2001-11-13,Continental Teves Ag & Co., Ohg,Electromechanical brake system
+    US6460941B1                      *,1997-11-06,2002-10-08,Continental Teves Ag & Co. Ohg,Method for controlling brake-pressure characteristics in the rear wheel brakes of a motor vehicle brake system with electronic regulation of brake power distribution
+    US20020180266A1                      *,2001-05-30,2002-12-05,Toyota Jidosha Kabushiki Kaisha,Braking force control apparatus for a vehicle
+    JP2011156983A,2010-02-01,2011-08-18,Toyota Motor Corp,Braking force control device for vehicle
+    Family To Family Citations,,,,
+    JP5103917B2                      *,2007-02-01,2012-12-19,株式会社アドヴィックス,Vehicle motion control device
+    JP5962356B2                      *,2012-09-07,2016-08-03,株式会社アドヴィックス,Brake control device for vehicle
+    US9707944B2                      *,2013-11-08,2017-07-18,Honda Motor Co., Ltd.,Braking force control system
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    DE102017111077A1                      *,2017-05-22,2018-11-22,Lsp Innovative Automotive Systems Gmbh,Braking device, in particular for electrically driven motor vehicles
+    JP7037343B2                      *,2017-12-01,2022-03-16,ロベルト・ボッシュ・ゲゼルシャフト・ミト・ベシュレンクテル・ハフツング,Motorcycle control device and motorcycle control method
+    JP7200665B2                      *,2018-12-26,2023-01-10,株式会社アドヴィックス,vehicle braking controller
+
+abstract
+    This brake control device includes: an operation amount sensor which detects the brake operating member operation amount; front-wheel and rear-wheel actuators which generate braking force in front/rear wheels; front-wheel and rear-wheel sensors which detect the outputs of the front-wheel and rear-wheel actuators; and a controller which controls the front-wheel and rear-wheel actuators based on the operation amount and the outputs of the front and rear wheels. On the basis of the operation amount and/or the output of the rear wheels, the controller determines whether or not a long-term low-load state in which the friction member is continuously pressed against the rotary members of the rear wheels within a predetermined range over a long period of time is established. If so, the distribution ratio of the rear-wheel braking force to the total applied braking force is decreased compared to when a long-term low-load state is not determined to be established.
+title
+    Brake control device for vehicles
+similar_document
+26
+    Publication,Publication Date,Title
+    KR101745048B1,2017-06-08,Method and device for controlling an electrohydraulic braking system for motor vehicles
+    US9475471B2,2016-10-25,Braking control apparatus for vehicle
+    JP5704311B2,2015-04-22,Electric booster and automatic brake control method thereof
+    US20120245815A1,2012-09-27,Motor vehicle braking system having a hydraulically actuated service braking system and an electormechanically actuated braking system
+    US20120205202A1,2012-08-16,Method for setting the clamping force of a hydraulically supported electric motor-driven parking brake
+    Yong et al.,2017,Design and validation of an electro-hydraulic brake system using hardware-in-the-loop real-time simulation
+    US10766470B2,2020-09-08,Brake control device for vehicles
+    JP6011175B2,2016-10-19,Brake control device for vehicle
+    JP6111340B2,2017-04-05,CONTROL DEVICE FOR VEHICLE BRAKE SYSTEM AND METHOD FOR OPERATING VEHICLE BRAKE SYSTEM
+    JP2014111394A,2014-06-19,Braking system
+    CN109927701B,2020-04-14,Centralized drive type pure line control automobile braking system and control method thereof
+    JP6394562B2,2018-09-26,Brake control device for vehicle
+    CN111907503B,2022-09-13,Method for controlling an electromechanical brake system and electromechanical brake system
+    JP6432483B2,2018-12-05,Brake control device for vehicle
+    US10875515B2,2020-12-29,Braking control device for vehicle
+    JP6432484B2,2018-12-05,Brake control device for vehicle
+    JP6666582B2,2020-03-18,Vehicle braking control device
+    JP5910424B2,2016-04-27,Brake control device for vehicle
+    JP4542832B2,2010-09-15,Electric brake device
+    JP6790462B2,2020-11-25,Vehicle braking control device
+    JP2016043788A,2016-04-04,Braking control device for vehicle
+    JP5910425B2,2016-04-27,Brake control device for vehicle
+    US11407314B2,2022-08-09,Brake system
+    WO2014038700A1,2014-03-13,Braking control device for vehicle
+    CN116044925A,2023-05-02,Braking force and braking clearance control method of electromechanical brake
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    11
+classfication_items
+66
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,2,6
+    B,6,0,T,8,/,3,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,6,6
+    B,6,0,T,1,3,/,6,6,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,5
+    B,6,0,T,1,3,/,5,8,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,6
+    B,6,0,T,8,/,1,7,6,6
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,1,/,0,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,0,1,/,0,0
+    B,6,0,T,2,2,0,1,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,1,0,/,0,0
+    B,6,0,T,2,2,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,2,0,/,0,0
+    B,6,0,T,2,2,2,0,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+
+application_events
+7
+    2017-05-26,Application filed by Advics Co Ltd
+    2018-11-27,Assigned to ADVICS CO., LTD.
+    2020-05-28,Publication of US20200164845A1
+    2020-09-08,Application granted
+    2020-09-08,Publication of US10766470B2
+    Status,Active
+    2037-09-10,Adjusted expiration
+
+active_area
+3
+    J,P
+    U,S
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2016-106057,2016-05-27,
+    JP2016106057A,2016-05-27,Vehicle braking control device
+    PCT/JP2017/019795,2017-05-26,Brake control device for vehicles
+
+legal_event
+4
+    Date,Code,Title,Description
+    2018-11-27,AS,Assignment,Owner name: ADVICS CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:YUKOKU, SHINICHIRO;HISHIKAWA, TAKAHISA;SIGNING DATES FROM 20181019 TO 20181022;REEL/FRAME:047594/0576
+    2018-11-27,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2020-08-19,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

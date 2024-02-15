@@ -1,0 +1,243 @@
+ID
+    EP3640103A1
+citation_exist
+    Patent Citations (21)
+citation_infor
+23
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP3566443B2                      *,1996-01-29,2004-09-15,東洋電機製造株式会社,Inverter overvoltage protection device
+    JP3052859B2                      *,1996-12-05,2000-06-19,三菱自動車工業株式会社,Power supply device for auxiliary equipment of hybrid electric vehicle
+    JP4111629B2,1999-04-09,2008-07-02,株式会社小松製作所,Hybrid dump truck
+    JP4098331B2                      *,2003-04-04,2008-06-11,株式会社日立製作所,Vehicle electric drive device and engine / motor combined type four-wheel drive device
+    JP2004357443A                      *,2003-05-30,2004-12-16,Toyoda Mach Works Ltd,Storage means regeneration circuit, vehicle drive regeneration device and vehicle
+    JP2006280110A                      *,2005-03-29,2006-10-12,Mitsubishi Fuso Truck & Bus Corp,Battery charging system for hybrid electric vehicle
+    JP4780402B2                      *,2006-06-27,2011-09-28,株式会社デンソー,Vehicle power supply
+    US7832513B2                      *,2006-07-14,2010-11-16,Gm Global Technology Operations, Inc.,Vehicular electrical system and control method therefor
+    JP5215956B2                      *,2008-09-03,2013-06-19,日立建機株式会社,Dump truck
+    EP2594426A4                      *,2010-07-15,2018-01-10,Hitachi Construction Machinery Co., Ltd.,Electric work vehicle
+    MX2013004809A                      *,2010-10-28,2013-06-28,Nissan Motor,Hybrid vehicle control device.
+    JP2012121555A                      *,2010-11-16,2012-06-28,Honda Motor Co Ltd,Device and method for controlling hybrid vehicle
+    JP5510283B2                      *,2010-11-17,2014-06-04,トヨタ自動車株式会社,Power storage unit protection system for vehicles
+    JP5703941B2                      *,2011-04-28,2015-04-22,トヨタ自動車株式会社,Auxiliary drive control device
+    JP5915008B2                      *,2011-06-30,2016-05-11,いすゞ自動車株式会社,Hybrid vehicle
+    JP5253591B2                      *,2012-02-01,2013-07-31,三菱電機株式会社,Vehicle control device and diesel hybrid vehicle system
+    WO2013145362A1                      *,2012-03-28,2013-10-03,株式会社クボタ,Hybrid working vehicle
+    JP2014072913A                      *,2012-09-27,2014-04-21,Daihatsu Motor Co Ltd,Vehicle
+    JP5775895B2                      *,2013-03-07,2015-09-09,本田技研工業株式会社,Power supply control device and overvoltage prevention method
+    JP6438273B2                      *,2014-10-28,2018-12-12,日立建機株式会社,Engine generator control device and mining dump truck equipped with the same
+    US9994108B2                      *,2016-08-29,2018-06-12,Ford Global Technologies, Llc,Regenerative braking power distribution
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (5)
+              
+
+
+citedBy_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    SE2150777A1                      *,2021-06-17,2022-12-18,Scania Cv Ab,System for braking an electrified vehicle
+    Family To Family Citations,,,,
+    JP7129956B2                      *,2019-07-25,2022-09-02,日立建機株式会社,electric vehicle
+    JP7169949B2,2019-09-04,2022-11-11,日立建機株式会社,vehicle
+    JP7359649B2,2019-10-31,2023-10-11,株式会社日立インダストリアルプロダクツ,Rotating electric machines and rotating electric machine systems
+    JP6987187B1                      *,2020-07-13,2021-12-22,日立建機株式会社,Regenerative braking system and electrically driven work vehicle using it
+
+abstract
+    A power regeneration system of a work vehicle includes: a first generator (12) and a second generator (31) that are driven by an engine (11); a first electric circuit (C1) for supplying electric power to traveling motors (10L, 10R); a second electric circuit (C2) for supplying electric power to an auxiliary device (35); a voltage step down converter (21) providing electric power from the first electric circuit to the second electric circuit; and a controller (51) that determines whether a travel mode of the work vehicle is a powering mode or a regeneration mode in order to control driving of the voltage step down converter. If the travel mode is the regeneration mode, the controller provides the regenerative power from the first electric circuit through the voltage step down converter to the second electric circuit, in order to drive the auxiliary device with the regenerative power.
+title
+    Power regeneration system for work vehicles
+similar_document
+26
+    Publication,Publication Date,Title
+    US11332115B2,2022-05-17,Power regeneration system of work vehicle
+    US7317295B2,2008-01-08,Electric motor driving system, electric four-wheel drive vehicle, and hybrid vehicle
+    US9641106B2,2017-05-02,Electric vehicle and control method of electric vehicle
+    US9162671B2,2015-10-20,Hybrid vehicle control unit
+    WO2011021266A1,2011-02-24,Power converter for propulsion of electric car
+    JP2007195398A,2007-08-02,Vehicle propulsion system
+    US10239530B2,2019-03-26,Vehicle control apparatus for a regenerative braking system based on the battery input power
+    EP3511192B1,2022-05-11,Regenerative braking device and dump truck
+    WO2015071977A1,2015-05-21,Charge/discharge system
+    JP2006312352A,2006-11-16,Control device for driving system
+    JP2010132154A,2010-06-17,Vehicle
+    JP2008295300A,2008-12-04,Power restrictions arrangement of vehicle equipped with capacitor
+    JP6395268B2,2018-09-26,Vehicle equipped with power generation device
+    JP2014007905A,2014-01-16,Controller for motor drive system
+    JP5419745B2,2014-02-19,Series hybrid vehicle control system
+    KR102119047B1,2020-06-04,Control device for hybrid vehicle and control method for hybrid vehicle
+    JP3152027B2,2001-04-03,Electric vehicle braking control method and electric vehicle control device
+    KR20060003520A,2006-01-11,Auxiliary battery charge control method for environment car
+    JP5353365B2,2013-11-27,Vehicle system
+    US20180222326A1,2018-08-09,Vehicular power source device and method of controlling vehicular power source device
+    JP6333161B2,2018-05-30,Electric vehicle
+    JP2012125051A,2012-06-28,Power supply control device of electric automobile
+    JP6614088B2,2019-12-04,Power system controller
+    JP2011050196A,2011-03-10,Control method and controller
+    JP2012186898A,2012-09-27,Power conversion device system
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    8
+classfication_nums
+    18
+classfication_items
+110
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,4
+    B,6,0,K,6,/,4,4,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,3,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,3,0,0,/,0,0
+    B,6,0,W,2,3,0,0,/,1,2
+    B,6,0,W,2,3,0,0,/,1,2,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+4
+    2018-06-04,Application filed by Hitachi Construction Machinery Co Ltd
+    2020-04-22,Publication of EP3640103A1
+    2021-03-17,Publication of EP3640103A4
+    Status,Pending
+
+active_area
+4
+    J,P
+    C,N
+    E,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2017191554A,2017-09-29,Work vehicle power regeneration system
+    PCT/JP2018/021375,2018-06-04,Power regeneration system for work vehicles
+
+legal_event
+13
+    Date,Code,Title,Description
+    2019-04-06,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE INTERNATIONAL PUBLICATION HAS BEEN MADE
+    2020-03-20,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2020-03-20,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+    2020-04-22,17P,Request for examination filed,Effective date: 20200116
+    2020-04-22,AK,Designated contracting states,Kind code of ref document: A1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2020-04-22,AX,Request for extension of the european patent,Extension  state: BA ME
+    2021-01-06,DAV,Request for validation of the european patent (deleted),
+    2021-01-06,DAX,Request for extension of the european patent (deleted),
+    2021-03-17,A4,Supplementary search report drawn up and despatched,Effective date: 20210212
+    2021-03-17,RIC1,Information provided on ipc code assigned before grant,Ipc: B60W  20/15        20160101ALI20210208BHEPIpc: B60K   6/448       20071001ALI20210208BHEPIpc: B60L   7/14        20060101ALI20210208BHEPIpc: B60K   6/34        20071001ALI20210208BHEPIpc: B60L  15/20        20060101ALI20210208BHEPIpc: B60W  10/08        20060101AFI20210208BHEPIpc: B60W  10/30        20060101ALI20210208BHEPIpc: B60W  30/18        20120101ALI20210208BHEPIpc: B60K   6/46        20071001ALI20210208BHEP
+    2022-07-15,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: EXAMINATION IS IN PROGRESS
+    2022-08-17,17Q,First examination report despatched,Effective date: 20220715
+

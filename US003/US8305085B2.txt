@@ -1,0 +1,236 @@
+ID
+    US8305085B2
+citation_exist
+    Patent Citations (10)
+citation_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5578915A,1994-09-26,1996-11-26,General Motors Corporation,Dynamic battery state-of-charge and capacity determination
+    US6008626A                      *,1997-04-24,1999-12-28,Honda Giken Kogyo Kabushiki Kaisha,Apparatus for preventing deterioration of lithium secondary battery
+    JP2000030753A,1998-07-15,2000-01-28,Nissan Motor Co Ltd,Control device of battery for hybrid vehicle
+    JP2000270491A,1999-03-16,2000-09-29,Nissan Motor Co Ltd,Lithium ion battery charging method and lithium ion battery charger
+    US20010015636A1                      *,2000-02-23,2001-08-23,Honda Giken Kogyo Kabushiki Kaisha,Battery charging control unit and method for controlling battery charging
+    US20010028238A1                      *,1998-08-10,2001-10-11,Kenji Nakamura,Method and device for judging the condition of secondary batteries and method for regenerating secondary batteries
+    JP2001339864A,2000-05-30,2001-12-07,Matsushita Electric Ind Co Ltd,Charge/discharge control method and charge/discharge control apparatus for lead battery
+    US6424157B1                      *,1998-07-20,2002-07-23,Alliedsignal, Inc.,System and method for monitoring a vehicle battery
+    US20030067282A1                      *,2001-10-04,2003-04-10,Yazaki Corporation,Method and unit for computing charging efficiency and charged electrical quantity of battery
+    US20050017687A1                      *,2003-07-15,2005-01-27,Matsushita Electric Industrial Co., Ltd.,Degradation judgment circuit for secondary battery
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (22)
+              
+
+
+citedBy_infor
+24
+    Publication number,Priority date,Publication date,Assignee,Title
+    US10957946B2,2019-08-13,2021-03-23,International Business Machines Corporation,Capacity degradation analysis for batteries
+    Family To Family Citations,,,,
+    JP6071327B2                      *,2012-08-22,2017-02-01,ナブテスコ株式会社,Hybrid type construction machine control method and hybrid type construction machine
+    DE102012214877A1                      *,2012-08-22,2014-02-27,Robert Bosch Gmbh,Method of use for electrical energy storage, arrangement for carrying out such a method of use, battery and motor vehicle with such a battery
+    JP6088543B2                      *,2012-12-14,2017-03-01,日立マクセル株式会社,Power storage device and charging method thereof
+    CN104348193A                      *,2013-07-25,2015-02-11,观致汽车有限公司,Cell management system and method, and vehicle including cell management system
+    JP6090750B2                      *,2013-09-26,2017-03-08,日立オートモティブシステムズ株式会社,Power storage device
+    WO2016159086A1                      *,2015-03-31,2016-10-06,株式会社Ｇｓユアサ,Charging voltage controller for electricity storage element, electricity storage device, charging device for electricity storage element, and charging method for electricity storage element
+    JP6701662B2                      *,2015-10-07,2020-05-27,三菱自動車工業株式会社,Electric vehicle regenerative braking control device
+    JP2018170821A                      *,2017-03-29,2018-11-01,株式会社オートネットワーク技術研究所,Controller of on-vehicle power supply system and on-vehicle power supply device
+    JP6605008B2                      *,2017-10-20,2019-11-13,本田技研工業株式会社,Power supply system and vehicle
+    CN110758170B                      *,2018-07-26,2022-01-07,比亚迪股份有限公司,Battery charging method and device, storage medium, vehicle and cloud server
+    CN110758127B                      *,2018-07-26,2022-03-15,比亚迪股份有限公司,Method and device for charging battery, storage medium and electronic equipment
+    US10985587B2,2018-08-07,2021-04-20,Intel Corporation,Battery charge termination voltage adjustment
+    JP6968774B2                      *,2018-09-26,2021-11-17,本田技研工業株式会社,Lithium-ion battery control device, lithium-ion battery control method, and program
+    JP7070332B2,2018-10-29,2022-05-18,トヨタ自動車株式会社,Electric vehicle
+    US11126232B2,2018-11-28,2021-09-21,Intel Corporation,Battery heat balancing during peak power mode
+    US20190305574A1                      *,2019-06-18,2019-10-03,Intel Corporation,Battery Charge Termination Voltage Adjustment
+    JP2021040355A                      *,2019-08-30,2021-03-11,株式会社Ｇｓユアサ,Management device of power storage element, power storage device, and output control method of power storage element
+    US20210111579A1                      *,2019-10-12,2021-04-15,Intel Corporation,Apparatus and method to provide dynamic battery charging voltage
+    GB2596066A                      *,2020-06-15,2021-12-22,Tridonic Gmbh & Co Kg,A converter for charging a battery for supplying emergency lighting means
+    JPWO2022138745A1                      *,2020-12-22,2022-06-30,,
+    CN113665398A                      *,2021-07-22,2021-11-19,广东劲天科技有限公司,Charging gun fault detection method, terminal and system
+
+abstract
+    A lithium-ion battery controlling apparatus includes a controller. The controller is configured to raise an upper-limit voltage in response to capacity degradation of a lithium-ion battery which is configured to supply power to a load and receive power from the load.
+title
+    Lithium-ion battery controlling apparatus and electric vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US8305085B2,2012-11-06,Lithium-ion battery controlling apparatus and electric vehicle
+    US8674659B2,2014-03-18,Charge control device and vehicle equipped with the same
+    JP4494453B2,2010-06-30,Secondary battery control device and control method
+    US8085051B2,2011-12-27,Abnormality detecting device for storage element, abnormality detecting method for storage element, abnormality detecting program for storage element, and computer-readable recording medium storing abnormality detecting program
+    US20190152341A1,2019-05-23,Battery module lithium plating reduction
+    US20100052617A1,2010-03-04,Degradation determination method for lithium-ion battery, control method for lithium-ion battery, degradation determination apparatus for lithium-ion battery, control apparatus for lithium-ion battery, and vehicle
+    US20190067954A1,2019-02-28,Battery control device
+    JP2002369391A,2002-12-20,Method and device for controlling residual capacity of secondary battery
+    CN110679056B,2023-05-09,Battery charge management apparatus and method
+    US10971767B2,2021-04-06,Charge voltage controller for energy storage device, energy storage apparatus, battery charger for energy storage device, and charging method for energy storage device
+    JP2013092398A,2013-05-16,Secondary battery deterioration determination system and deterioration determination method
+    JP5720538B2,2015-05-20,Storage device control device
+    JP2010088194A,2010-04-15,Device and method for adjusting capacity of battery pack
+    JP2019146302A,2019-08-29,Charging state estimation device for secondary battery, abnormality detection device, and management system for secondary battery
+    JP4700644B2,2011-06-15,Lead battery charge control device
+    CN110247101B,2022-01-28,Method for rapidly charging a battery
+    KR101372506B1,2014-03-11,Batteries and super-capacitors are used in power management method for electric vehicle of hybrid types
+    US10227020B2,2019-03-12,Fuel cell system
+    JP2020068568A,2020-04-30,Secondary battery system and charge control method of secondary battery
+    JP5339128B2,2013-11-13,Stress control system
+    JP5842607B2,2016-01-13,Non-aqueous secondary battery control device and control method
+    JP4513917B2,2010-07-28,Secondary battery system
+    US11189865B2,2021-11-30,Deterioration estimation device for secondary battery, and deterioration estimation method for secondary battery
+    JP2018133295A,2018-08-23,Secondary battery system
+    JP2009176602A,2009-08-06,Battery system and automobile
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    16
+classfication_items
+100
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B,6,0,L,5,8,/,2,5
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,4
+    H,0,1,M,1,0,/,4,4,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,4,4
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,0,5
+    H,0,1,M,1,0,/,0,5,2
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,2,2,2,0,/,0,0
+    H,0,1,M,2,2,2,0,/,2,0
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+
+application_events
+7
+    2011-09-30,Application filed by Honda Motor Co Ltd
+    2011-09-30,Assigned to HONDA MOTOR CO., LTD.
+    2012-04-12,Publication of US20120086368A1
+    2012-11-06,Application granted
+    2012-11-06,Publication of US8305085B2
+    Status,Active
+    2031-09-30,Anticipated expiration
+
+active_area
+1
+    U,S
+
+not_active_area
+2
+    J,P
+    C,N
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2010-229978,2010-10-12,
+    JP2010229978A,2010-10-12,Control device for lithium-ion battery
+
+legal_event
+6
+    Date,Code,Title,Description
+    2011-09-30,AS,Assignment,Owner name: HONDA MOTOR CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:KAWABUCHI, YUUJI;MARUNO, NAOKI;SIGNING DATES FROM 20110925 TO 20110926;REEL/FRAME:026999/0513
+    2012-10-17,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2012-12-09,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2016-04-20,FPAY,Fee payment,Year of fee payment: 4
+    2020-04-23,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+

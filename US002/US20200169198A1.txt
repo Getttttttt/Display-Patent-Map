@@ -1,0 +1,330 @@
+ID
+    US20200169198A1
+citation_exist
+    Patent Citations (6)
+citation_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP2006349561A,2005-06-17,2006-12-28,Jtekt Corp,Resolver position detector, and electric power steering system
+    JP5011824B2                      *,2006-05-31,2012-08-29,株式会社ジェイテクト,Abnormality judgment device
+    KR101619593B1,2014-07-08,2016-05-10,현대자동차주식회사,Method for judging failure in resolver
+    KR101583957B1                      *,2014-07-28,2016-01-08,현대자동차주식회사,Method for wiring mismatch detection of resolver
+    DE102015211216A1                      *,2015-06-18,2016-12-22,Robert Bosch Gmbh,Method and circuit for detecting a short circuit of the sine or cosine receiver coil of a resolver
+    JP6509781B2                      *,2016-06-09,2019-05-08,日立オートモティブシステムズ株式会社,Diagnostic apparatus and method for rotation angle sensor
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20230003296A1                      *,2021-07-01,2023-01-05,Sl Corporation,Transmission for vehicle
+    Family To Family Citations,,,,
+    KR102187486B1                      *,2020-06-16,2020-12-07,에스케이씨솔믹스 주식회사,Method and apparatus for decision for status of a robot
+
+abstract
+    A motor control device includes: a storage configured to store reference Lissajous values; and a controller configured to apply an excitation signal to a resolver; receive an output signal output from the resolver, to obtain a Lissajous value corresponding to the received output signal, to determine that an external noise is input when the obtained Lissajous value is different from the reference Lissajous values, and to control driving of a motor based on the obtained Lissajous value when the obtained Lissajous value is equal to any one of the reference Lissajous values. A vehicle having the motor control device may further include a battery configured to transmit power to the motor and to be charged by regenerative braking of the motor.
+title
+    Motor control device, vehicle having the same and method of controlling the vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US20190179335A1,2019-06-13,Hybrid electric vehicle and platooning control method therefor
+    US9254833B2,2016-02-09,Method and system for charging battery for hybrid electric vehicle
+    CN104066636B,2015-12-09,Travel controlling system
+    US10864794B2,2020-12-15,Hybrid electric vehicle and heating control method for the same
+    US11031887B2,2021-06-08,Motor control device, vehicle having the same and method of controlling the vehicle
+    JP2009247052A,2009-10-22,Rotating electrical machine control system and vehicle driving system
+    JP2020023280A,2020-02-13,Control device of hybrid vehicle
+    EP3489058B1,2022-01-05,Hybrid electric vehicle and motor control method for the same
+    US20220231623A1,2022-07-21,Dynamic hybrid vehicle system for adjusting the rotary position independent of motor mount
+    KR102518600B1,2023-04-06,Method for controlling deceleration of environmentally friendly vehicle
+    JP4848976B2,2011-12-28,Electric motor control device
+    JP2017043299A,2017-03-02,Hybrid vehicle
+    US20130060407A1,2013-03-07,Control method of hybrid vehicle
+    JP2012232671A,2012-11-29,Vehicle
+    US20180105163A1,2018-04-19,Drive apparatus and automobile
+    US20170284539A1,2017-10-05,Apparatus and method for shift control of vehicle
+    CN106347371B,2020-08-28,Apparatus and method for controlling operation of vehicle engine
+    JP5067604B2,2012-11-07,Electric vehicle control device
+    EP3815995B1,2023-08-23,Eco-friendly vehicle and method of controlling braking for the same
+    JP5099579B2,2012-12-19,Electric vehicle control device
+    KR20190002986A,2019-01-09,Hybrid vehicle and method of controlling in response to driving load for the same
+    WO2012137301A1,2012-10-11,Vehicle and method for controlling same
+    US8301338B2,2012-10-30,Speed constraint control procedure
+    KR102331768B1,2021-11-26,Hybrid vehicle and method of controlling electric motor thereof
+    KR101823076B1,2018-01-31,Integrated starter generator system and controlling method thereof
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    8
+classfication_nums
+    35
+classfication_items
+217
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,6,/,0,0
+    H,0,2,P,6,/,1,4
+    H,0,2,P,6,/,1,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,2,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,2,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,4
+    B,6,0,K,6,/,4,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,2
+    B,6,0,L,1,5,/,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,4
+    B,6,0,W,1,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,1,4
+    G
+    G,0,1
+    G,0,1,D
+    G,0,1,D,3,/,0,0
+    G,0,1,D,3,/,0,2,8
+    G,0,1,D,3,/,0,3,6
+    G
+    G,0,1
+    G,0,1,D
+    G,0,1,D,3,/,0,0
+    G,0,1,D,3,/,0,8
+    G
+    G,0,1
+    G,0,1,D
+    G,0,1,D,5,/,0,0
+    G,0,1,D,5,/,1,2
+    G,0,1,D,5,/,1,4
+    G,0,1,D,5,/,2,0
+    G,0,1,D,5,/,2,0,4
+    G
+    G,0,1
+    G,0,1,D
+    G,0,1,D,5,/,0,0
+    G,0,1,D,5,/,1,2
+    G,0,1,D,5,/,1,4
+    G,0,1,D,5,/,2,0
+    G,0,1,D,5,/,2,0,4
+    G,0,1,D,5,/,2,0,6,6
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,4,2
+    H,0,2,M,7,/,4,4
+    H,0,2,M,7,/,4,8
+    H,0,2,M,7,/,5,3
+    H,0,2,M,7,/,5,3,7
+    H,0,2,M,7,/,5,3,8,7
+    H,0,2,M,7,/,5,3,8,7,1
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,3,/,0,0
+    H,0,2,P,2,3,/,1,4
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,6,/,0,0
+    H,0,2,P,6,/,2,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B,6,0,K,2,0,0,6,/,4,8,2,5
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,Q
+    B,6,0,Q,9,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,1,4
+    B,6,0,W,2,0,5,0,/,1,4,6
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2019-08-01,Application filed by Hyundai Motor Co, Kia Motors Corp
+    2019-08-01,Assigned to KIA MOTORS CORPORATION, HYUNDAI MOTOR COMPANY
+    2020-05-28,Publication of US20200169198A1
+    2021-06-08,Application granted
+    2021-06-08,Publication of US11031887B2
+    Status,Active
+    2039-09-30,Adjusted expiration
+
+active_area
+3
+    U,S
+    D,E
+    C,N
+
+not_active_area
+1
+    K,R
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    KR10-2018-0149143,2018-11-28,
+    KR1020180149143A,2018-11-28,Control device of motor, vehicle having the control device of the motor and Method for controlling the Vehicle
+
+legal_event
+8
+    Date,Code,Title,Description
+    2019-08-01,AS,Assignment,Owner name: HYUNDAI MOTOR COMPANY, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:CHA, JIWAN;PARK, HAN HEE;LEE, JAEHYEON;AND OTHERS;REEL/FRAME:049934/0406Effective date: 20190710Owner name: KIA MOTORS CORPORATION, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:CHA, JIWAN;PARK, HAN HEE;LEE, JAEHYEON;AND OTHERS;REEL/FRAME:049934/0406Effective date: 20190710
+    2019-08-01,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2021-03-04,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2021-03-23,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2021-05-05,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT RECEIVED
+    2021-05-07,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2021-05-19,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

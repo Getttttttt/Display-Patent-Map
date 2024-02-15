@@ -1,0 +1,204 @@
+ID
+    US20220089050A1
+citation_exist
+    Patent Citations (5)
+citation_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20040018397A1                      *,2002-05-17,2004-01-29,Tamiji Nagai,Apparatus for connecting secondary battery cells in series and method for controlling secondary battery cells connected in series
+    US20120187898A1                      *,2011-01-20,2012-07-26,Peter Nysen,Rechargeable battery systems and rechargeable battery system operational methods
+    US20150054464A1                      *,2010-10-27,2015-02-26,Makita Corporation,Electric power tool system
+    US20190275900A1                      *,2018-03-06,2019-09-12,Toyota Jidosha Kabushiki Kaisha,Electrically driven vehicle and method of controlling electrically driven vehicle
+    Family To Family Citations,,,,
+    JP5304844B2,2011-05-24,2013-10-02,トヨタ自動車株式会社,Battery charge control device
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    A charging control apparatus includes a battery, an electric charge mover, and a processor. The battery includes multiple cells. The electric charge mover is configured to move electric charge between the multiple cells. The processor is configured to, upon charging the battery, cause the electric charge mover to move the electric charge of one or more cells serving as a part of the multiple cells to another one or more cells of the multiple cells, and perform a partial charging that charges the one or more cells serving as the part of the multiple cells after causing the electric charge mover to move the electric charge.
+title
+    Charging control apparatus
+similar_document
+26
+    Publication,Publication Date,Title
+    EP3503282B1,2021-04-28,Quick charging method for parallel battery pack, and related device
+    CN110061647B,2021-04-27,Power conversion system
+    CN106029430A,2016-10-12,Power supply device for electric vehicle
+    US11338689B2,2022-05-24,System and method for controlling vehicle including solar cell
+    JP6228059B2,2017-11-08,DC / DC converter and battery system
+    CN109889129B,2022-09-06,Power conversion device
+    JP2020010517A,2020-01-16,Charge control device and charge control system
+    US10525835B2,2020-01-07,Power control apparatus and power control system
+    JP2019221063A,2019-12-26,Power supply device for vehicle
+    JP5609226B2,2014-10-22,Power supply
+    JP2013116006A,2013-06-10,Battery equalization device and method
+    US11799141B2,2023-10-24,Charging control apparatus
+    US20200313458A1,2020-10-01,Electric power supply system
+    JP6701976B2,2020-05-27,Electric vehicle
+    US10158246B2,2018-12-18,Energy storage device, transport apparatus, and control method
+    JP5822779B2,2015-11-24,Power storage system and charge / discharge control method thereof
+    JP4987033B2,2012-07-25,Power supply
+    CN113437728A,2021-09-24,Overvoltage protection circuit, control method thereof and battery pack
+    CN111746308B,2023-06-16,Electric power system and control method thereof
+    US11318855B2,2022-05-03,Motor vehicle having an electric machine as a drive machine and method for operating a DC-DC converter in a motor vehicle
+    US20200207210A1,2020-07-02,On-board electrical system
+    US20190047420A1,2019-02-14,Electric power control device and vehicle
+    US20220255334A1,2022-08-11,Charging device
+    JP2019134636A,2019-08-08,Charging system and charging method
+    JP7253958B2,2023-04-07,BATTERY CONTROL DEVICE AND BATTERY CONTROL METHOD
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    5
+classfication_nums
+    17
+classfication_items
+104
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,4
+    H,0,1,M,1,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,2,0
+    B,6,0,L,5,3,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,1,3
+    H,0,2,J,7,/,0,0,1,4
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,1,4
+    H,0,2,J,7,/,1,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,2,2,2,0,/,0,0
+    H,0,1,M,2,2,2,0,/,2,0
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,2,3,1,0,/,0,0
+    H,0,2,J,2,3,1,0,/,4,0
+    H,0,2,J,2,3,1,0,/,4,8
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,3,4
+    H,0,2,J,7,/,3,4,2
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+
+application_events
+7
+    2021-09-15,Application filed by Subaru Corp
+    2021-09-15,Assigned to Subaru Corporation
+    2022-03-24,Publication of US20220089050A1
+    2023-10-24,Application granted
+    2023-10-24,Publication of US11799141B2
+    Status,Active
+    2042-01-28,Adjusted expiration
+
+active_area
+2
+    J,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2020159333A,2020-09-24,Charge control device
+    JP2020-159333,2020-09-24,
+
+legal_event
+7
+    Date,Code,Title,Description
+    2021-09-15,AS,Assignment,Owner name: SUBARU CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:ARAI, YOSHITAKA;OSAWA, MAMI;KIKUCHI, JUN;AND OTHERS;SIGNING DATES FROM 20210721 TO 20210722;REEL/FRAME:057490/0292
+    2021-09-15,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2021-10-26,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2023-06-14,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2023-09-19,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2023-10-04,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

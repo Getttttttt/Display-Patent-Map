@@ -1,0 +1,123 @@
+ID
+    WO2023062187A1
+citation_exist
+    Patent Citations (5)
+citation_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    DE19909809A1                      *,1998-03-19,1999-09-30,Toyota Motor Co Ltd,Brake energy control device for motor vehicles
+    US20040238244A1                      *,2002-11-12,2004-12-02,Hirokatsu Amanuma,Hybrid vehicle
+    EP2463165A1                      *,2009-08-07,2012-06-13,Toyota Jidosha Kabushiki Kaisha,Brake control system, and brake control method
+    DE102016221622A1                      *,2016-11-04,2018-05-09,Robert Bosch Gmbh,Method and device for providing a braking effect of a motor vehicle
+    US20190275994A1                      *,2018-03-07,2019-09-12,Ford Global Technologies, Llc,Vehicle wheel torque control systems and methods
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN116279371A                      *,2023-05-24,2023-06-23,北京阿帕科蓝科技有限公司,Emergency braking method and device for two-wheeled electric vehicle and computer equipment
+    Family To Family Citations,,,,
+
+abstract
+    A method for controlling a multitude of braking means (12, 14, 16) of a vehicle to effect a desired brake function quantified as a desired brake parameter, wherein each of the braking means (12, 14, 16) is controllable by an actuation parameter to effect at least a portion of said desired brake function, comprising the steps: Determine, for each braking means (12, 14, 16), a brake capability representing a maximum brake function achievable by the braking means (12, 14, 16); Determine, for each braking means (12, 14, 16), an actuation priority, wherein the actuation priority is determined from at least one predetermined operating parameter of the braking means (12, 14, 16) and/or the vehicle; in order from highest priority to lowest priority of the braking means (12, 14, 16), Allocating, to each braking means (12, 14, 16), the actuation parameter, wherein the actuation parameter is chosen between the brake capability and the quantity of the desired brake parameter not yet allocated to other braking means (12, 14, 16), whichever is lower. Furthermore, a braking system for a vehicle, configured to carry out said method.
+title
+    Method for controlling a multitude of braking means and braking system of a vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US11192452B2,2021-12-07,Electric vehicle braking system, method, controller and computer program product
+    US9457804B2,2016-10-04,Vehicle braking/driving force control apparatus
+    US7441845B2,2008-10-28,Method for operating multiple axle regenerative braking in an automotive vehicle
+    JP6815854B2,2021-01-20,Control method of braking force during coordinated control of regenerative braking
+    CN111252046A,2020-06-09,Environment-friendly vehicle and steep slope slow descent control method of environment-friendly vehicle
+    KR20140069280A,2014-06-09,Slip-controlled braking system for electrically driven motor vehicles
+    KR102032215B1,2019-10-15,Method for reducing the energy of the acceleration-boosting torque of a hybrid vehicle
+    JP2007253715A,2007-10-04,Vehicle controller and vehicle control method
+    US11590848B2,2023-02-28,Method and system for controlling the regenerative braking torque of a vehicle
+    US10538163B2,2020-01-21,Apparatus and method for failsafe in electric corner module system
+    WO2023062187A1,2023-04-20,Method for controlling a multitude of braking means and braking system of a vehicle
+    CN110239543A,2019-09-17,Braking force controller, device and method
+    KR102569899B1,2023-08-24,Vehicle having electric motor and method of driving controlling for the same
+    JPWO2014054148A1,2016-08-25,Wheel control device, vehicle, wheel control method
+    JP2012157209A,2012-08-16,Power supply control device
+    KR102475483B1,2022-12-09,Method of regenerative braking of transportation and apparatus thereof
+    JP6443258B2,2018-12-26,Braking / driving force control device and braking / driving force control method
+    CN110877531A,2020-03-13,Braking method and braking system for electric vehicle
+    CN108248394B,2020-05-22,Vehicle and brake feedback control method thereof
+    US9873420B2,2018-01-23,Method of increasing regeneration in a hybrid vehicle beyond what is calculated from requested vehicle deceleration
+    JP7219809B2,2023-02-08,Operating a vehicle with a vehicle deceleration subsystem
+    WO2022113503A1,2022-06-02,Vehicle control device and vehicle control method
+    CN110979349B,2021-11-23,Control instruction distribution method and system for chassis domain of automatic driving automobile
+    WO2021074274A1,2021-04-22,Apparatus and method for determining brake torque
+    JP2021090282A,2021-06-10,Control device and control method
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    7
+classfication_nums
+    4
+classfication_items
+26
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,1,3
+
+application_events
+2
+    2022-10-14,Application filed by Knorr-Bremse Systeme für Nutzfahrzeuge GmbH
+    2023-04-20,Publication of WO2023062187A1
+
+active_area
+1
+    E,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    EP21203032.4,2021-10-15,
+    EP21203032.4A,2021-10-15,Method for controlling a multitude of braking means and braking system of a vehicle
+
+legal_event
+2
+    Date,Code,Title,Description
+    2023-06-07,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 22798162Country of ref document: EPKind code of ref document: A1
+

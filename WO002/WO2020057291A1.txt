@@ -1,0 +1,124 @@
+ID
+    WO2020057291A1
+citation_exist
+    Patent Citations (8)
+citation_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2009189130A                      *,2008-02-05,2009-08-20,Juki Corp,モータ駆動装置の回生電力吸収回路
+    CN201918950U                      *,2010-12-30,2011-08-03,西安交通大学苏州研究院,具有再生制动功能的串励直流电机控制器
+    CN107813706A                      *,2017-10-25,2018-03-20,中通客车控股股份有限公司,一种新能源客车用高效辅助制动系统及方法
+    CN108973780A                      *,2018-09-20,2018-12-11,南京恒天领锐汽车有限公司,一种新型纯电动重型汽车制动电阻控制装置
+    CN208774551U                      *,2018-09-20,2019-04-23,南京恒天领锐汽车有限公司,一种新型纯电动重型汽车制动电阻控制装置
+    Family To Family Citations,,,,
+    JP2000166003A                      *,1998-11-25,2000-06-16,Mitsubishi Electric Corp,電気車制御装置
+    CN102501772B                      *,2011-10-29,2014-04-23,苏州海格新能源汽车电控系统科技有限公司,电动汽车的制动回馈控制电路及方法
+    CN207311129U                      *,2017-08-29,2018-05-04,郑州宇通客车股份有限公司,电动车辆制动系统
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (6)
+              
+
+
+citedBy_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN112046294A                      *,2020-08-19,2020-12-08,宝能(广州)汽车研究院有限公司,能量回收的控制方法及装置、车辆和计算机设备
+    Family To Family Citations,,,,
+    CN108973780A                      *,2018-09-20,2018-12-11,南京恒天领锐汽车有限公司,一种新型纯电动重型汽车制动电阻控制装置
+    CN109866621A                      *,2019-03-01,2019-06-11,安徽安凯汽车股份有限公司,一种纯电动汽车用电制动能量消耗回收装置
+    CN111525656B                      *,2020-06-03,2022-03-18,桑顿新能源科技(长沙)有限公司,电池电能回馈系统以及车辆
+    CN112078368B                      *,2020-08-03,2022-03-29,湖南中联重科智能高空作业机械有限公司,回馈电流控制装置及高空作业车
+    CN112910068A                      *,2020-11-23,2021-06-04,湖南中联重科智能高空作业机械有限公司,用于电机驱动器的控制装置、电机驱动器及高空作业车
+
+abstract
+    本发明公开了一种新型纯电动重型汽车制动电阻控制装置，制动电阻与制动电阻续流二极管相互并联后依次与制动电阻支路IGBT和熔断器相互串联，并形成第一控制电路，第一控制电路连接在电池组的负极电路上；回馈支路IGBT与放电回路二极管相互并联并形成第二控制电路，第二控制电路连接在电机控制器的正极电路上；控制模块与整车控制器相连，制动电阻支路IGBT与回馈支路IGBT对应与控制模块相连；电池组的正、负极电路分别对应与电机控制器的正、负极电路相连，整车控制器与电机控制器相连。本发明实现能量回馈制动控制与能耗制动控制的以及机械制动的相互配合与切换，确保车辆在任何状态下都能有效的制动，同时实现最大化能量回收，保障车辆行驶安全。
+title
+    一种新型纯电动重型汽车制动电阻控制装置
+similar_document
+26
+    Publication,Publication Date,Title
+    WO2020057291A1,2020-03-26,一种新型纯电动重型汽车制动电阻控制装置
+    US6331365B1,2001-12-18,Traction motor drive system
+    CN110315998B,2022-07-26,车辆电源系统
+    CN105508020B,2018-05-29,发动机和制动电阻的共用冷却系统
+    CN108372789B,2023-09-01,可变电压转换系统中的旁路二极管的故障检测
+    JP7068893B2,2022-05-17,車両電源システム
+    CN112078368B,2022-03-29,回馈电流控制装置及高空作业车
+    TWI606670B,2017-11-21,制動能源回收模組
+    CN112260342B,2022-01-28,锂电池系统及高空作业车
+    JP7290965B2,2023-06-14,電動車両の電源システム
+    WO2020057279A1,2020-03-26,一种干线混合动力机车组控制系统及方法
+    JP2019180212A,2019-10-17,車両電源システム
+    JP2009225630A,2009-10-01,負荷調整装置を有する電気車
+    CN110316018B,2023-03-28,车辆电源系统
+    CN110315999B,2023-04-14,车辆电源系统
+    CN208774551U,2019-04-23,一种新型纯电动重型汽车制动电阻控制装置
+    JP2019180213A,2019-10-17,車両電源システム
+    CN213367428U,2021-06-04,用于控制回馈电流的电路装置及高空作业车
+    JP2013070611A,2013-04-18,負荷調整装置を有する電気車
+    WO2022105098A1,2022-05-27,用于电机驱动器的控制装置、电机驱动器及高空作业车
+    JP2012125051A,2012-06-28,電気自動車の電源制御装置
+    CN218733835U,2023-03-24,制动斩波器及电动车的电机控制器
+    CN213305000U,2021-05-28,用于捕获回馈电流的电路装置及高空作业车
+    WO2018066624A1,2018-04-12,電源システム制御装置
+    AU2021347695B2,2023-10-19,Lithium battery system and overhead working truck
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    7
+classfication_nums
+    3
+classfication_items
+16
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+2
+    2019-08-11,Application filed by 南京恒天领锐汽车有限公司
+    2020-03-26,Publication of WO2020057291A1
+
+active_area
+2
+    C,N
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    CN201811100679.6,2018-09-20,
+    CN201811100679.6A,2018-09-20,一种新型纯电动重型汽车制动电阻控制装置
+
+legal_event
+4
+    Date,Code,Title,Description
+    2020-05-06,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 19861768Country of ref document: EPKind code of ref document: A1
+    2021-03-23,NENP,Non-entry into the national phase,Ref country code: DE
+    2021-09-29,122,Ep: pct application non-entry in european phase,Ref document number: 19861768Country of ref document: EPKind code of ref document: A1
+

@@ -1,0 +1,247 @@
+ID
+    JP2012057766A
+citation_exist
+    Patent Citations (7)
+citation_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JPH0478306A                      *,1990-07-17,1992-03-12,Sumitomo Heavy Ind Ltd,Oil pressure control circuit
+    JP2001173024A,1999-12-17,2001-06-26,Shin Caterpillar Mitsubishi Ltd,建設機械におけるハイブリッドシステム
+    JP3875900B2,2002-02-20,2007-01-31,新キャタピラー三菱株式会社,建設機械の動力装置
+    JP2004211779A                      *,2002-12-27,2004-07-29,Koyo Seiko Co Ltd,流体供給装置及びトランスミッション用油供給装置
+    JP4196834B2                      *,2004-01-07,2008-12-17,トヨタ自動車株式会社,ポンプ装置，自動変速機及び自動車
+    JP2005282643A                      *,2004-03-29,2005-10-13,Koyo Seiko Co Ltd,変速機用電動アシストオイルポンプユニット
+    JP2007120573A                      *,2005-10-26,2007-05-17,Komatsu Ltd,油圧制御装置
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (13)
+              
+
+
+citedBy_infor
+15
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2013216454A                      *,2012-04-10,2013-10-24,Tadano Ltd,作業車両
+    JP2017110721A                      *,2015-12-16,2017-06-22,日立建機株式会社,建設機械の油圧駆動装置
+    Family To Family Citations,,,,
+    US20130013159A1                      *,2010-03-17,2013-01-10,Hidekazu Moriki,Actuator control device and working machine equipped with same
+    US9102415B2                      *,2012-08-28,2015-08-11,Federal Industries, Inc.,Multi-orifice bypass for a hydraulic motor assembly
+    CN104956006B                      *,2012-12-13,2017-10-03,现代建设机械（株）,用于基于操纵杆控制的建筑设备的自动控制系统和方法
+    CN103088869B                      *,2012-12-28,2015-05-20,上海华兴数字科技有限公司,一种建筑机械的电能控制方法及建筑机械
+    JP6072303B2                      *,2013-12-20,2017-02-01,日立建機株式会社,建設機械
+    JP2015178863A                      *,2014-03-19,2015-10-08,カヤバ工業株式会社,ハイブリッド建設機械の制御システム
+    CN104295543B                      *,2014-09-09,2016-06-29,柳州柳工挖掘机有限公司,混合动力工程机械复合动作控制方法
+    US10458095B2                      *,2015-01-07,2019-10-29,Volvo Construction Equipment Ab,Control method for controlling an excavator and excavator comprising a control unit implementing such a control method
+    US10330126B2                      *,2016-12-16,2019-06-25,Caterpillar Inc.,Fan control system with electro-hydraulic valve providing three fan motor operational positions
+    EP3870862B1,2018-10-24,2023-10-11,Volvo Construction Equipment AB,A hydraulic system for a working machine
+    JP7165111B2                      *,2019-09-26,2022-11-02,株式会社日立建機ティエラ,電動式油圧建設機械
+
+abstract
+    【課題】建設機械の運転中に回転油圧装置及び回転電機装置の動作状態を切り換えたときに流量変動によるショックを発生しないようにする。【解決手段】コントローラ３５は、トルクセンサ３４により検出した油圧ポンプ３の駆動トルクに基づいて、アクチュエータ駆動トルクが切替トルクτ０より小さい場合は、電磁切替弁１７を閉じ、回転電機装置８が発電機として機能させ、アクチュエータ駆動トルクが増大するにしたがって油圧ポンプ３から回転油圧装置９に供給される圧油の流量が減少するように圧力補償機能付き流量制御弁１３を制御し、アクチュエータ駆動トルクが切替トルクより大きい場合は、電磁切替弁１７を開け、回転電機装置８が電動モータとして機能させ、油圧ポンプ３の吐出油が回転油圧装置９に供給されないように圧力補償機能付き流量制御弁１３を制御する。【選択図】    図１
+title
+    建設機械のハイブリッドシステム
+similar_document
+19
+    Publication,Publication Date,Title
+    WO2012033064A1,2012-03-15,建設機械のハイブリッドシステム
+    US9057173B2,2015-06-16,Hybrid construction machine
+    JP5687150B2,2015-03-18,建設機械
+    KR101834589B1,2018-03-05,선회체를 갖는 건설 기계
+    US9803339B2,2017-10-31,Hydraulic control device and operating machine having the same
+    JP5681732B2,2015-03-11,作業機械の動力回生装置
+    JP5858818B2,2016-02-10,建設機械
+    WO2010128645A1,2010-11-11,ハイブリッド建設機械の制御装置
+    KR20130124364A,2013-11-13,쇼벨 및 쇼벨의 제어방법
+    EP3037589B1,2019-03-20,Construction machine
+    EP3085969B1,2018-11-21,Construction machine
+    JP4222995B2,2009-02-12,建設機械の油圧シリンダ駆動装置
+    JP2008275100A,2008-11-13,建設車両
+    JP6009388B2,2016-10-19,作業機械
+    JP5642620B2,2014-12-17,作業機械のエネルギ回生装置
+    JP5864309B2,2016-02-17,ショベル
+    JP2001012406A,2001-01-16,作業機械用液圧回路およびハイブリッド作業機械
+    JP5723947B2,2015-05-27,旋回体を有する建設機械
+
+patent_application
+    NoExist
+patent_priority_application
+7
+    Application,Priority date,Filing date,Title
+    JP2010203766A,2010-09-10,2010-09-10,建設機械のハイブリッドシステム
+    CN201180012529XA,2010-09-10,2011-09-05,工程机械的混合动力系统
+    EP11823539.9A,2010-09-10,2011-09-05,Hybrid system of construction machine
+    KR1020127023038A,2010-09-10,2011-09-05,건설 기계의 하이브리드 시스템
+    US13/574,948,2010-09-10,2011-09-05,Hybrid system for construction machine
+    PCT/JP2011/070194,2010-09-10,2011-09-05,建設機械のハイブリッドシステム
+
+inventor_number
+    10
+classfication_nums
+    18
+classfication_items
+124
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,0,5,8
+    E,0,2,F,9,/,2,0,6,2
+    E,0,2,F,9,/,2,0,7,5
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,0,3
+    E,0,2,F,9,/,2,2,0,7
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,1,7
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,7,8
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,7,8
+    E,0,2,F,9,/,2,2,9,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,1,/,0,0
+    F,1,5,B,2,1,/,1,4
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,0,7
+    F,1,5,B,2,2,1,1,/,2,0,5,1,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,0,7
+    F,1,5,B,2,2,1,1,/,2,0,5,2,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,3
+    F,1,5,B,2,2,1,1,/,2,0,5,6,9
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,7,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,4,0
+    F,1,5,B,2,2,1,1,/,4,1,5
+    F,1,5,B,2,2,1,1,/,4,1,5,0,9
+    F,1,5,B,2,2,1,1,/,4,1,5,1,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,0,5
+    F,1,5,B,2,2,1,1,/,7,0,5,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,8,0
+    F,1,5,B,2,2,1,1,/,8,8
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+
+application_events
+9
+    2010-09-10,Application filed by Hitachi Construction Machinery Co Ltd
+    2010-09-10,Priority to JP2010203766A
+    2011-09-05,Priority to CN201180012529XA
+    2011-09-05,Priority to EP11823539.9A
+    2011-09-05,Priority to KR1020127023038A
+    2011-09-05,Priority to US13/574,948
+    2011-09-05,Priority to PCT/JP2011/070194
+    2012-03-22,Publication of JP2012057766A
+    Status,Withdrawn
+
+active_area
+2
+    C,N
+    W,O
+
+not_active_area
+4
+    J,P
+    E,P
+    K,R
+    U,S
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2010203766A,2010-09-10,建設機械のハイブリッドシステム
+
+legal_event
+2
+    Date,Code,Title,Description
+    2013-12-03,A300,Application deemed to be withdrawn because no request for examination was validly filed,Free format text: JAPANESE INTERMEDIATE CODE: A300Effective date: 20131203
+

@@ -1,0 +1,147 @@
+ID
+    WO2015045436A1
+citation_exist
+    Patent Citations (3)
+citation_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH0512338U                      *,1991-07-31,1993-02-19,三菱自動車工業株式会社,車両停止制御装置
+    JP2007276534A                      *,2006-04-03,2007-10-25,Advics:Kk,車両用制動装置
+    JP2011093435A                      *,2009-10-30,2011-05-12,Hitachi Automotive Systems Ltd,ブレーキ制御装置
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    GB2527396A                      *,2014-03-26,2015-12-23,Ford Motor Co,System and method for energy optimization in autonomous vehicle operation
+    Family To Family Citations,,,,
+    JP6750359B2                      *,2016-07-13,2020-09-02,トヨタ自動車株式会社,自動車
+    JP7204502B2                      *,2019-01-25,2023-01-16,株式会社アドヴィックス,制動制御装置
+
+abstract
+    回生協調ブレーキ制御装置１０は、車両の回生制動力発生装置であるモータ１０８によって発生される回生制動力と、車両の摩擦制動力発生装置であるブレーキ機構１２２によって発生される摩擦制動力との合計が目標制動力となるように制御する。目標制動力決定部１０１０は、ブレーキペダル１０２の操作量に基づいて目標制動力を決定するとともに、車両２０の車速が所定車速未満である場合には、ブレーキペダル１０２の操作量に対する目標制動力を、車速が所定車速以上である場合の該操作量に対する目標制動力よりも小さい値に決定する制動力抑制制御を実行する。
+title
+    回生協調ブレーキ制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP6493656B2,2019-04-03,車両の制動装置
+    JP6068445B2,2017-01-25,ファジー論理ベースブレーキ制御
+    US8818669B2,2014-08-26,Motor vehicle regenerative braking method
+    JP6223487B2,2017-11-01,電動車両用制動装置
+    JP6583620B2,2019-10-02,電動車両の制御装置
+    JP2007131093A,2007-05-31,車両用減速制御装置
+    WO2015045436A1,2015-04-02,回生協調ブレーキ制御装置
+    WO2018230341A1,2018-12-20,車両制御装置
+    KR101888454B1,2018-08-14,통합형 전자제어장치의 페일 세이프 제어장치 및 제어방법
+    JP6740813B2,2020-08-19,電気自動車
+    JP6120010B2,2017-04-26,車両
+    JP5831258B2,2015-12-09,車両用制駆動力制御装置
+    JP6476801B2,2019-03-06,制駆動力制御装置及び制駆動力制御方法
+    JP6015312B2,2016-10-26,車両用制御装置
+    JP2015070639A,2015-04-13,電動車両
+    JP2009011057A,2009-01-15,車両の制御装置
+    KR100836039B1,2008-06-09,하이브리드 전기자동차의 제동제어장치와 방법
+    JP2005348497A,2005-12-15,電動車両の制動時駆動力制御装置
+    US8704389B2,2014-04-22,Power generation control device and power generation control method for vehicle
+    JP5343590B2,2013-11-13,車両用減速制御装置および車両用減速制御方法
+    JP7325906B2,2023-08-15,協調ブレーキシステム
+    JP2010018192A,2010-01-28,電動ブレーキ装置
+    JP2021138175A,2021-09-16,車両の制御システム
+    JP4321441B2,2009-08-26,加減速度制御装置
+    JP5760489B2,2015-08-12,車両のブレーキシステム
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    12
+classfication_nums
+    8
+classfication_items
+47
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,8,9
+
+application_events
+2
+    2014-02-24,Application filed by 三菱自動車工業株式会社
+    2015-04-02,Publication of WO2015045436A1
+
+active_area
+2
+    J,P
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2013-199859,2013-09-26,
+    JP2013199859A,2013-09-26,回生協調ブレーキ制御装置
+
+legal_event
+4
+    Date,Code,Title,Description
+    2015-05-13,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 14848140Country of ref document: EPKind code of ref document: A1
+    2016-03-29,NENP,Non-entry into the national phase,Ref country code: DE
+    2016-10-19,122,Ep: pct application non-entry in european phase,Ref document number: 14848140Country of ref document: EPKind code of ref document: A1
+

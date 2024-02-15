@@ -1,0 +1,334 @@
+ID
+    US8807155B2
+citation_exist
+    Patent Citations (18)
+citation_infor
+20
+    Publication number,Priority date,Publication date,Assignee,Title
+    WO1994004828A1,1992-08-25,1994-03-03,Hitachi Construction Machinery Co., Ltd.,Hydraulic drive unit of hydraulic working machine
+    JPH06117409A,1992-10-01,1994-04-26,Kayaba Ind Co Ltd,Load-sensing type oil pressure control device
+    US5680760A                      *,1996-03-28,1997-10-28,Caterpillar Inc.,Hydraulic drive system
+    JPH09317703A,1996-05-30,1997-12-09,Hitachi Constr Mach Co Ltd,Hydraulic driving circuit
+    JP2002275945A,2001-03-12,2002-09-25,Komatsu Ltd,Hybrid construction machine
+    JP2003049810A,2001-08-07,2003-02-21,Hitachi Constr Mach Co Ltd,Pressure oil energy recovering device and construction machine with the same
+    US6820356B2                      *,2002-06-05,2004-11-23,Komatsu Ltd.,Hybrid powered construction equipment
+    US6851207B2                      *,2000-05-23,2005-02-08,Kobelco Construction Machinery Co., Ltd.,Construction machinery
+    JP2005140143A,2003-11-04,2005-06-02,Komatsu Ltd,Energy recovering device for pressure oil
+    US20050210871A1                      *,2004-03-27,2005-09-29,Cnh America Llc,Work vehicle hydraulic system
+    US20050246082A1                      *,2002-12-13,2005-11-03,Shin Caterpillar Mitsubishi Ltd.,Working machine driving unit
+    US20070129862A1                      *,2005-12-01,2007-06-07,Hyundai Motor Company,Method for charging battery of a hybrid vehicle and a hybrid vehicle using the same
+    JP2007327527A,2006-06-06,2007-12-20,Kayaba Ind Co Ltd,Energy regeneration type power unit
+    WO2009145054A1,2008-05-30,2009-12-03,カヤバ工業株式会社,Controller of hybrid construction machine
+    JP2009287344A,2008-05-30,2009-12-10,Kayaba Ind Co Ltd,Control apparatus of hybrid construction equipment
+    Family To Family Citations,,,,
+    JP5075588B2,2007-11-09,2012-11-21,ピジョン株式会社,Breast milk pad package, method for producing the same, and packaging method for breast pad
+    CN101403405A                      *,2008-10-31,2009-04-08,浙江大学,Energy recovery system of hybrid single-pump multi-execution component engineering machinery
+    CN101408213A                      *,2008-11-11,2009-04-15,浙江大学,Energy recovery system of hybrid power engineering machinery energy accumulator-hydraulic motor
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (17)
+              
+
+
+citedBy_infor
+19
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20160289925A1                      *,2013-10-15,2016-10-06,Xuzhuo Xugong Excavator Machinery Co., Ltd.,Rotatory energy recycling control device for hydraulic excavator
+    Family To Family Citations,,,,
+    JP5298069B2                      *,2010-05-20,2013-09-25,株式会社小松製作所,Electric actuator control device
+    CN102434505B                      *,2011-12-09,2014-03-19,江苏玉泉科技实业有限公司,Dual-power multi-pump converging long-distance pressure adjusting method and system
+    JP5984571B2                      *,2012-08-09,2016-09-06,Ｋｙｂ株式会社,Control device for hybrid construction machine
+    JP5908371B2                      *,2012-08-15,2016-04-26,Ｋｙｂ株式会社,Control device for hybrid construction machine
+    KR101990177B1                      *,2013-01-17,2019-06-17,히다찌 겐끼 가부시키가이샤,Hydraulic fluid energy recovery apparatus for work machine
+    JP6166995B2                      *,2013-09-27,2017-07-19,Ｋｙｂ株式会社,Hybrid construction machine control system
+    JP2015172428A                      *,2014-03-12,2015-10-01,カヤバ工業株式会社,Control system of hybrid construction machine
+    EP3147519B1                      *,2014-05-16,2019-03-06,Hitachi Construction Machinery Co., Ltd.,Hydraulic energy regeneration apparatus for machinery
+    GB201419777D0                      *,2014-11-06,2014-12-24,Agco Int Gmbh,Hydraulic pressure supply system
+    CN106678110A                      *,2015-11-06,2017-05-17,徐工集团工程机械股份有限公司,Meso-position negative flow valve, swing arm energy-saving control system and excavator
+    US9828893B2                      *,2016-02-29,2017-11-28,GM Global Technology Operations LLC,Sound control of an engine or other prime mover
+    JP2018044658A                      *,2016-09-16,2018-03-22,Ｋｙｂ株式会社,Control system and control method for hybrid construction machine
+    US10760246B2                      *,2018-03-08,2020-09-01,Hitachi Construction Machinery Co., Ltd.,Work machine
+    WO2020069519A1,2018-09-28,2020-04-02,Emerson Automation Solutions Final Control US LP,Pilot-operated relief value assembly
+    JP2021032319A                      *,2019-08-23,2021-03-01,川崎重工業株式会社,Hydraulic system of construction machine
+    CN111501870B                      *,2020-04-27,2022-05-24,徐州工业职业技术学院,Movable arm energy-saving system based on flywheel and auxiliary hydraulic cylinder and excavator
+
+abstract
+    A regulator that performs control such that a tilt angle of a variable volume pump increases as a pilot pressure in a pilot flow passage decreases is provided, and when a controller determines that all of a plurality of operation valves for controlling a flow of a discharged oil that is led from the variable volume pump to respective actuators are in a neutral position, the controller supplies the discharged oil from the variable volume pump to a regenerative hydraulic motor by setting a solenoid valve in an open position and sets a pilot flow passage change-over solenoid valve in a blocking position such that the pilot pressure led to the regulator through the pilot flow passage is reduced by a pressure reducing valve.
+title
+    Control device for hybrid construction machine
+similar_document
+20
+    Publication,Publication Date,Title
+    US8807155B2,2014-08-19,Control device for hybrid construction machine
+    US9037356B2,2015-05-19,Control device for hybrid construction machine
+    US8806860B2,2014-08-19,Hybrid construction machine
+    US8833065B2,2014-09-16,Control device for hybrid construction machine
+    JP5511425B2,2014-06-04,Control device for hybrid construction machine
+    US8510000B2,2013-08-13,Hybrid construction machine
+    JP5172477B2,2013-03-27,Control device for hybrid construction machine
+    KR101568441B1,2015-11-11,Controller of hybrid construction machine
+    US8655558B2,2014-02-18,Control system for hybrid construction machine
+    JP5078748B2,2012-11-21,Control device for hybrid construction machine
+    US9835187B2,2017-12-05,Control system for construction machine
+    KR20100137421A,2010-12-30,Control apparatus of hybrid-construction machine
+    JP6166995B2,2017-07-19,Hybrid construction machine control system
+    JP4942699B2,2012-05-30,Control device for hybrid construction machine
+    KR20110009118A,2011-01-27,Device for controlling hybrid construction machine
+    US9032722B2,2015-05-19,Hybrid operating machine
+    JP5197479B2,2013-05-15,Hybrid construction machinery
+    US9651062B2,2017-05-16,Construction machine and controller
+    JP2010261538A,2010-11-18,Hybrid construction machine
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    28
+classfication_items
+192
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,0,2,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,8
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,0,5,8
+    E,0,2,F,9,/,2,0,6,2
+    E,0,2,F,9,/,2,0,7,5
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,1,7
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,2,1
+    E,0,2,F,9,/,2,2,3,2
+    E,0,2,F,9,/,2,2,3,5
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,7,8
+    E,0,2,F,9,/,2,2,9,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,1,/,0,0
+    F,1,5,B,2,1,/,0,8
+    F,1,5,B,2,1,/,0,8,2
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,1,/,0,0
+    F,1,5,B,2,1,/,1,4
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,3
+    F,1,5,B,2,2,1,1,/,2,0,5,4,6
+    F,1,5,B,2,2,1,1,/,2,0,5,5,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,7,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,3,0
+    F,1,5,B,2,2,1,1,/,3,1,5
+    F,1,5,B,2,2,1,1,/,3,1,5,2,3
+    F,1,5,B,2,2,1,1,/,3,1,5,3,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,4,0
+    F,1,5,B,2,2,1,1,/,4,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,4,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,6,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,6,5
+    F,1,5,B,2,2,1,1,/,6,6,5,2
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,6,5
+    F,1,5,B,2,2,1,1,/,6,6,5,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,0,5
+    F,1,5,B,2,2,1,1,/,7,0,5,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,1
+    F,1,5,B,2,2,1,1,/,7,1,3,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,1
+    F,1,5,B,2,2,1,1,/,7,1,4,2
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,8,0
+    F,1,5,B,2,2,1,1,/,8,5
+    Y
+    Y,1,0
+    Y,1,0,T
+    Y,1,0,T,1,3,7,/,0,0
+    Y,1,0,T,1,3,7,/,2,4,9,6
+    Y,1,0,T,1,3,7,/,2,5,5,9
+    Y,1,0,T,1,3,7,/,2,5,7,4
+    Y,1,0,T,1,3,7,/,2,6,0,5
+    Y,1,0,T,1,3,7,/,2,6,4
+    Y
+    Y,1,0
+    Y,1,0,T
+    Y,1,0,T,1,3,7,/,0,0
+    Y,1,0,T,1,3,7,/,7,7,2,2
+    Y,1,0,T,1,3,7,/,7,7,5,8
+    Y,1,0,T,1,3,7,/,7,7,6,1
+    Y
+    Y,1,0
+    Y,1,0,T
+    Y,1,0,T,1,3,7,/,0,0
+    Y,1,0,T,1,3,7,/,8,5,9,3
+    Y,1,0,T,1,3,7,/,8,5,9,7,8
+    Y,1,0,T,1,3,7,/,8,5,9,8,6
+    Y,1,0,T,1,3,7,/,8,6,0,0,2
+    Y,1,0,T,1,3,7,/,8,6,0,1
+    Y
+    Y,1,0
+    Y,1,0,T
+    Y,1,0,T,1,3,7,/,0,0
+    Y,1,0,T,1,3,7,/,8,5,9,3
+    Y,1,0,T,1,3,7,/,8,5,9,7,8
+    Y,1,0,T,1,3,7,/,8,5,9,8,6
+    Y,1,0,T,1,3,7,/,8,6,0,2,7
+
+application_events
+8
+    2010-04-22,Application filed by Kayaba Industry Co Ltd
+    2011-06-08,Assigned to KAYABA INDUSTRY CO., LTD.
+    2011-10-06,Publication of US20110240146A1
+    2014-08-19,Application granted
+    2014-08-19,Publication of US8807155B2
+    2015-12-21,Assigned to KYB CORPORATION
+    Status,Expired - Fee Related
+    2031-12-04,Adjusted expiration
+
+active_area
+2
+    K,R
+    W,O
+
+not_active_area
+4
+    J,P
+    U,S
+    D,E
+    C,N
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2009113856A,2009-05-08,Control device for hybrid construction machine
+    JP2009-113856,2009-05-08,
+    PCT/JP2010/057637,2010-04-22,Control device for hybrid construction machine
+
+legal_event
+10
+    Date,Code,Title,Description
+    2011-06-08,AS,Assignment,Owner name: KAYABA INDUSTRY CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:KAWASAKI, HARUHIKO;EGAWA, MASAHIRO;REEL/FRAME:026407/0068Effective date: 20110420
+    2014-07-30,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2015-12-01,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2015-12-21,AS,Assignment,Owner name: KYB CORPORATION, JAPANFree format text: CHANGE OF NAME;ASSIGNOR:KAYABA INDUSTRY CO., LTD.;REEL/FRAME:037355/0086Effective date: 20151001
+    2018-02-12,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551)Year of fee payment: 4
+    2022-04-11,FEPP,Fee payment procedure,Free format text: MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2022-09-26,LAPS,Lapse for failure to pay maintenance fees,Free format text: PATENT EXPIRED FOR FAILURE TO PAY MAINTENANCE FEES (ORIGINAL EVENT CODE: EXP.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2022-09-26,STCH,Information on status: patent discontinuation,Free format text: PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362
+    2022-10-18,FP,Lapsed due to failure to pay maintenance fee,Effective date: 20220819
+

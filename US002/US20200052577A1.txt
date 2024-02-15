@@ -1,0 +1,255 @@
+ID
+    US20200052577A1
+citation_exist
+    Patent Citations (13)
+citation_infor
+15
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JPH06121404A                      *,1992-10-06,1994-04-28,Hitachi Ltd,Apparatus of controlling electric rolling stock
+    JP3928559B2                      *,2003-01-10,2007-06-13,トヨタ自動車株式会社,Voltage conversion apparatus, computer-readable recording medium storing a program for causing a computer to execute failure processing, and a failure processing method
+    JP4788975B2                      *,2008-03-28,2011-10-05,アイシン・エィ・ダブリュ株式会社,Rotating electrical machine control system and vehicle drive system
+    JP4605250B2                      *,2008-05-14,2011-01-05,トヨタ自動車株式会社,Vehicle steering device
+    JP2012070473A                      *,2010-09-21,2012-04-05,Toyota Motor Corp,Electric vehicle and control method thereof
+    JP5353867B2                      *,2010-12-02,2013-11-27,株式会社デンソー,Rotating machine control device
+    JP2012205386A                      *,2011-03-25,2012-10-22,Toyota Motor Corp,Electric vehicle and control method of the same
+    KR101262973B1                      *,2011-05-24,2013-05-08,기아자동차주식회사,System for cotroling emergency travel of hybrid electric vehicle and method thereof
+    JP2013027121A                      *,2011-07-20,2013-02-04,Toyota Motor Corp,Electric vehicle and control method of the same
+    JP6426584B2                      *,2015-11-02,2018-11-21,トヨタ自動車株式会社,Hybrid vehicle
+    JP6292208B2                      *,2015-11-05,2018-03-14,トヨタ自動車株式会社,Hybrid vehicle
+    JP6743740B2                      *,2017-03-28,2020-08-19,トヨタ自動車株式会社,vehicle
+    JP7091815B2                      *,2018-05-07,2022-06-28,株式会社デンソー,Power converter control circuit
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    A control device of a rotary electric machine capable of preventing occurrence of electrical resonance when a conversion operation abnormality of a DC voltage converter occurs is provided. In a case that the DC voltage converter stops a conversion operation and the conversion operation abnormality that input/output voltages become equal occurs, when a vehicle speed proportional to an electric motor rotation number exceeds a torque limit start vehicle speed, i.e., when the electric motor rotation number exceeds a torque limit start rotation number, a torque limit control for limiting an output torque of the electric motor is executed. The torque limit start vehicle speed is set to a vehicle speed corresponding to a lower limit frequency of a predetermined frequency range where there is a high likelihood of an electrical resonance occurring in the DC voltage converter when the conversion operation abnormality occurs.
+title
+    Control device of rotary electric machine
+similar_document
+26
+    Publication,Publication Date,Title
+    KR101025896B1,2011-03-30,Power supply system, vehicle using the same, power supply system control method, and computer-readable recording medium containing program for causing computer to execute the method
+    US8253359B2,2012-08-28,Electric rotating machine control system and vehicle driving system including the electric rotating machine control system
+    US8020651B2,2011-09-20,Hybrid motor vehicle and method for controlling operation of a hybrid motor vehicle
+    JP5262084B2,2013-08-14,Vehicle control device
+    US9272704B2,2016-03-01,Hybrid vehicle having boost converter and control method of a hybrid vehicle having a boost converter
+    US9010469B2,2015-04-21,Generation control device
+    US10385818B2,2019-08-20,Vehicle control apparatus
+    CN109353231B,2020-06-26,Electric automobile driving system with loading system, electric automobile and control method
+    EP3266644A1,2018-01-10,Vehicle and control method therefor
+    JP6694156B2,2020-05-13,Control device for hybrid vehicle
+    US10000123B2,2018-06-19,Hybrid vehicle
+    JP5109743B2,2012-12-26,Power system, control method therefor, and vehicle
+    US9616768B2,2017-04-11,Electrical machine control method and apparatus
+    US9932032B2,2018-04-03,Hybrid vehicle
+    KR102474514B1,2022-12-05,Fail safe method for parallel hybrid electric vehicle
+    US10804792B2,2020-10-13,Control device of rotary electric machine
+    US8736235B2,2014-05-27,Power generation motor control system
+    US10837388B2,2020-11-17,Engine start controller for vehicle
+    JP7200747B2,2023-01-10,power supply
+    CN112208472A,2021-01-12,Power supply device for vehicle
+    US11465609B2,2022-10-11,Vehicle control apparatus
+    JP2005022561A,2005-01-27,Electric charge controlling device of vehicle
+    JP2010163085A,2010-07-29,Hybrid vehicle
+    US20230001913A1,2023-01-05,System and Method for Controlling Limp-Home Reverse Traveling of Hybrid Electric Vehicle
+    JP2018162020A,2018-10-18,Start control device for engine
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    23
+classfication_items
+147
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H,0,2,M,3,/,0,2
+    H,0,2,M,3,/,0,4
+    H,0,2,M,3,/,1,0
+    H,0,2,M,3,/,1,4,5
+    H,0,2,M,3,/,1,5,5
+    H,0,2,M,3,/,1,5,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,3,2
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,0,2
+    H,0,2,M,7,/,0,4
+    H,0,2,M,7,/,1,2
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,0,2
+    H,0,2,M,7,/,0,4
+    H,0,2,M,7,/,1,2
+    H,0,2,M,7,/,2,1
+    H,0,2,M,7,/,2,1,7
+    H,0,2,M,7,/,2,1,9
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,9,/,0,0
+    H,0,2,P,2,9,/,0,2
+    H,0,2,P,2,9,/,0,2,4
+    H,0,2,P,2,9,/,0,2,8
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,9,/,0,0
+    H,0,2,P,2,9,/,0,2
+    H,0,2,P,2,9,/,0,3,2
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,3,/,0,0
+    H,0,2,P,3,/,0,6
+    H,0,2,P,3,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,9
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,0,0,6,7
+    H,0,2,M,1,/,0,0,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+
+application_events
+7
+    2019-08-07,Application filed by Honda Motor Co Ltd
+    2019-09-09,Assigned to HONDA MOTOR CO.,LTD.
+    2020-02-13,Publication of US20200052577A1
+    2020-10-13,Application granted
+    2020-10-13,Publication of US10804792B2
+    Status,Active
+    2039-08-07,Anticipated expiration
+
+active_area
+3
+    J,P
+    C,N
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2018-150234,2018-08-09,
+    JP2018150234A,2018-08-09,Control device for rotating electric machine
+
+legal_event
+6
+    Date,Code,Title,Description
+    2019-08-07,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2019-09-09,AS,Assignment,Owner name: HONDA MOTOR CO.,LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:SAITO, TAKEO;KONDO, YASUHIKO;SIGNING DATES FROM 20190822 TO 20190827;REEL/FRAME:050303/0805
+    2019-10-31,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2020-09-10,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2020-09-23,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

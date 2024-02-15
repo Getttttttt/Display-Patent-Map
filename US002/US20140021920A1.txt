@@ -1,0 +1,198 @@
+ID
+    US20140021920A1
+citation_exist
+    Patent Citations (22)
+citation_infor
+24
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5939794A                      *,1995-07-25,1999-08-17,Nippon Soken, Inc.,Engine control system for hybrid vehicle
+    US6060864A                      *,1994-08-08,2000-05-09,Kabushiki Kaisha Toshiba,Battery set structure and charge/discharge control apparatus for lithium-ion battery
+    US6114775A                      *,1997-10-27,2000-09-05,Mando Machinery Corporation,Control system of auxiliary power system for a hybrid electric vehicle
+    US20020038733A1                      *,2000-10-04,2002-04-04,Kazuyoshi Obayashi,Electrical-power generating apparatus for an automotive vehicle with hybrid drive
+    US20100026237A1                      *,2006-11-08,2010-02-04,Toyota Jidosha Kabushiki Kaisha,Motored vehicle and method of controlling voltage conversion device
+    US20110100735A1                      *,2009-11-05,2011-05-05,Ise Corporation,Propulsion Energy Storage Control System and Method of Control
+    US20140081500A1                      *,2011-02-21,2014-03-20,Yoshiki Ito,Drive control device of hybrid vehicle
+    Family To Family Citations,,,,
+    JP3465293B2,1993-04-07,2003-11-10,株式会社デンソー,Vehicle power control device
+    JPH06343202A,1993-06-01,1994-12-13,Nissan Motor Co Ltd,Electric car battery charger
+    US6233935B1,1999-12-07,2001-05-22,Ford Global Technologies, Inc.,Method and apparatus for starting an engine having a turbocharger
+    US6364042B1,2000-04-26,2002-04-02,Ford Global Technologies, Inc.,Method and apparatus for coupling an engine and transmission with a starter/alternator
+    DE50105088D1,2001-02-16,2005-02-17,Siemens Ag,MOTOR VEHICLE ELECTRIC SYSTEM
+    US20030222502A1,2002-05-30,2003-12-04,Nec Tokin Corporation,Hybrid power supply system
+    JP2006087163A                      *,2004-09-14,2006-03-30,Suzuki Motor Corp,Power generation controller for vehicle
+    JP4497145B2,2006-09-07,2010-07-07,マツダ株式会社,Control device for vehicle generator
+    JP5119699B2,2007-03-20,2013-01-16,トヨタ自動車株式会社,Vehicle power supply
+    DE102007048342B4,2007-10-09,2012-02-23,Continental Automotive Gmbh,On-board network for a motor vehicle
+    JP4950162B2                      *,2008-10-22,2012-06-13,三菱電機株式会社,Vehicle power supply
+    CN201369576Y,2008-12-04,2009-12-23,新疆新能源股份有限公司,Wind power/photovoltaic dual-purpose charge controller
+    JP5317188B2                      *,2009-02-20,2013-10-16,株式会社安川電機,Inverter device for electric vehicle and protection method thereof
+    JP5460727B2,2009-10-16,2014-04-02,三菱電機株式会社,Vehicle power supply system
+    WO2012098708A1,2011-01-21,2012-07-26,三菱電機株式会社,Power supply system for vehicle
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (9)
+              
+
+
+citedBy_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20130187383A1                      *,2011-05-09,2013-07-25,Thomas Esbensen,System and method for operating a wind turbine using adaptive reference variables
+    US9318951B2,2012-10-23,2016-04-19,Mitsubishi Electric Engineering Company, Limited,Power source control device and method for controlling power source control device
+    US9369074B2,2011-05-24,2016-06-14,Mitsubishi Electric Corporation,Electric power supply system
+    Family To Family Citations,,,,
+    WO2012098708A1,2011-01-21,2012-07-26,三菱電機株式会社,Power supply system for vehicle
+    JP5915626B2                      *,2013-11-18,2016-05-11,トヨタ自動車株式会社,Power conversion device and power conversion method
+    JP6337596B2                      *,2014-04-28,2018-06-06,日立化成株式会社,Power supply system and automobile
+    CN106788018B                      *,2016-12-21,2023-05-05,湘电重型装备有限公司,Mining dump truck voltage control device
+    CN110323734A,2018-03-29,2019-10-11,雅达电子国际有限公司,Priority load for the electric system with multiple power supplys is shared
+    JP7214993B2,2018-06-29,2023-01-31,株式会社リコー,storage system
+
+abstract
+    A first DC/DC converter (5) is of a constant voltage control type and is controlled so as to keep the voltage of an electric generation bus (A) at a predetermined target value. A second DC/DC converter (7) is of a constant current control type and is controlled so as to keep input current or output current at predetermined target current. A control circuit (8) determines an optimum target value Va* of electric generation bus voltage, based on different algorithms, in accordance with all or some of modes A to C which are classified by the charging/discharging condition of a second electric storage device (6), and controls the first DC/DC converter (5) so that the electric generation bus voltage Va becomes the determined target value Va*.
+title
+    Power supply system for vehicle
+similar_document
+23
+    Publication,Publication Date,Title
+    US10343533B2,2019-07-09,Power supply system with improved energy recovery from regenerative braking
+    US10464441B2,2019-11-05,Charging facility and energy management method for charging facility
+    US8227935B2,2012-07-24,Hybrid power supply device
+    US9365175B2,2016-06-14,Power supply system for vehicle
+    JP6236391B2,2017-11-22,Device for balancing the amount of charge for power batteries
+    US20170256957A1,2017-09-07,Hybrid power delivery with improved power control
+    EP2326587B1,2013-10-30,Line current and energy storage control for an elevator drive
+    KR20120056266A,2012-06-01,Electrical charging device
+    JP5318004B2,2013-10-16,Vehicle power supply system
+    JP6410757B2,2018-10-24,Power system, transport equipment, and power transmission method
+    JP2017184405A,2017-10-05,Power supply system, transport apparatus, and power transmission method
+    US10069303B2,2018-09-04,Power generation system and method with energy management
+    KR102113270B1,2020-06-02,Energy Management System for Railway station and Hydrogen Fuel Cell Hybrid Railway Vehicle
+    JP2017184406A,2017-10-05,Power supply system, transporting apparatus, and control method of power supply system
+    JP6470947B2,2019-02-13,Drive system and diesel car
+    JP5543018B2,2014-07-09,Vehicle power supply system
+    TWI405383B,2013-08-11,Intelligent charge and discharge system
+    JP2019110656A,2019-07-04,Power supply system
+    JP2019110655A,2019-07-04,Power supply system
+    JP2021016269A,2021-02-12,Power storage system and charging method
+    WO2014097409A1,2014-06-26,Rapid charger
+    RO130778A2,2015-12-30,System and method for reducing average fuel consumption in diesel-electric and diesel-hydraulic locomotives
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    7
+classfication_nums
+    11
+classfication_items
+62
+    B,6,0,L,1,1,/,1,8,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,2,0
+    B,6,0,L,5,3,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,1,4
+    H,0,2,J,7,/,1,4,6,9
+    H,0,2,J,7,/,1,4,9,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,8,0
+    Y,0,2,T,1,0,/,9,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+
+application_events
+8
+    2011-04-08,Application filed by Mitsubishi Electric Corp
+    2013-10-04,Assigned to MITSUBISHI ELECTRIC CORPORATION
+    2014-01-23,Publication of US20140021920A1
+    2019-07-09,Application granted
+    2019-07-09,Publication of US10343533B2
+    2021-01-19,Assigned to NEXGEN CONTROL SYSTEMS, LLC
+    Status,Active
+    2032-03-29,Adjusted expiration
+
+active_area
+2
+    U,S
+    W,O
+
+not_active_area
+3
+    D,E
+    J,P
+    C,N
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2011/058877,2011-04-08,Power supply system for vehicle
+
+legal_event
+8
+    Date,Code,Title,Description
+    2013-10-04,AS,Assignment,Owner name: MITSUBISHI ELECTRIC CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:HARADA, SHIGEKI;HIGAKI, YUSUKE;TANAKA, YUUYA;AND OTHERS;SIGNING DATES FROM 20130709 TO 20130711;REEL/FRAME:031344/0408
+    2018-08-03,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2019-04-15,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2019-05-23,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2019-06-19,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2021-01-19,AS,Assignment,Owner name: NEXGEN CONTROL SYSTEMS, LLC, MINNESOTAFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:MITSUBISHI ELECTRIC CORPORATION;REEL/FRAME:055576/0372Effective date: 20200930
+    2023-01-03,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

@@ -1,0 +1,243 @@
+ID
+    US20220097531A1
+citation_exist
+    Patent Citations (14)
+citation_infor
+16
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20060061307A1                      *,2004-08-09,2006-03-23,Donnelly Frank W,Locomotive power train architecture
+    FR2925618A1                      *,2007-12-21,2009-06-26,Valeo Equip Electr Moteur,Micro-hybrid type alterno-starter system controlling method for motor vehicle, involves transmitting diagnostic signal indicating rotation of electrical rotating machine to control circuit and control unit
+    JP2010529920A                      *,2007-05-07,2010-09-02,ゼネラル・エレクトリック・カンパニイ,Electric drive carrier retrofit system and related methods
+    US20140361717A1                      *,2013-06-07,2014-12-11,GM Global Technology Operations LLC,System and method for implementing a remedial electrical short
+    US20160197503A1                      *,2010-11-05,2016-07-07,General Electric Company,Apparatus for transferring energy using onboard power electronics with high-frequency transformer isolation and method of manufacturing same
+    US20160250927A1                      *,2015-02-27,2016-09-01,GM Global Technology Operations LLC,Method and apparatus for controlling an electrified powertrain system of a vehicle
+    US20160332534A1                      *,2015-05-12,2016-11-17,GM Global Technology Operations LLC,Method and apparatus for controlling an electrified powertrain system of a vehicle
+    US10718598B2                      *,2017-06-23,2020-07-21,Hamilton Sundstrand Corporation,Series hybrid architecture for an unmanned underwater vehicle propulsion system
+    Family To Family Citations,,,,
+    US8860348B2,2010-09-02,2014-10-14,GM Global Technology Operations LLC,Method and apparatus for controlling a high-voltage battery connection for hybrid powertrain system
+    JP6344345B2,2015-09-11,2018-06-20,トヨタ自動車株式会社,Hybrid vehicle
+    GB2544763B,2015-11-25,2019-03-27,Jaguar Land Rover Ltd,Controller for a motor vehicle and method
+    CN107487230B,2016-12-06,2020-06-02,宝沃汽车（中国）有限公司,Fault control method of vehicle, motor controller and vehicle
+    US10773708B2,2017-12-12,2020-09-15,Ford Global Technologies, Llc,Hybrid vehicle drift control system and method
+    CN109878345B,2019-03-13,2020-11-03,浙江吉利新能源商用车集团有限公司,Vehicle torque coordination control method and device and automobile
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (4)
+              
+
+
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20230070859A1                      *,2021-04-09,2023-03-09,Dana Heavy Vehicle Systems Group, Llc,Electric drive axle system and operating method
+    Family To Family Citations,,,,
+
+abstract
+    A vehicle is described that includes a multi-mode powertrain system having a first drive unit and a second drive unit. A controller is arranged to monitor the high-voltage DC power bus and is in communication with and operatively connected to first and second inverters. The controller is able to detect operation of one of the first inverter or the second inverter in an uncontrolled generating (UCG) mode, determine a driveline torque associated with the operating of the one of the first inverter or the second inverter in the UCG mode, and determine a compensating torque that is needed to counteract the driveline torque associated with the operating of the one of the first inverter or the second inverter in the UCG mode. The controller can further operate to detect a fault that may induce unintended lateral motion (ULM), and control torque outputs of the inverters based thereon.
+title
+    Method and apparatus for controlling a multi-mode powertrain system of a vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    EP3235670B1,2018-10-17,Power controller of hybrid vehicle
+    US11299062B2,2022-04-12,Motor drive device
+    CN103348586B,2016-06-01,DC-to-AC converter and inverter control method
+    CN103269898B,2015-09-23,Elec. vehicle and control method thereof
+    US20120181854A1,2012-07-19,Method and apparatus for electric power management in a vehicle
+    WO2014034333A1,2014-03-06,Electric vehicle drive system
+    US9731605B2,2017-08-15,Method and apparatus for controlling an electrified powertrain system of a vehicle
+    US8825252B2,2014-09-02,Vehicle and control method therefor
+    US20110213518A1,2011-09-01,Systems and methods for managing torque capability in electric motor systems
+    US8446113B2,2013-05-21,Vehicular electrical system and method for controlling an inverter during motor deceleration
+    US10855219B2,2020-12-01,Drive device
+    US11752878B2,2023-09-12,Method and apparatus for controlling a multi-mode powertrain system of a vehicle
+    US20120187899A1,2012-07-26,Power supply system, vehicle provided with same, and control method of power supply system
+    CN115071738A,2022-09-20,Intelligent vehicle and control logic for managing failure of dual independent drive unit axle powertrain
+    US20140062409A1,2014-03-06,Power supply system
+    JP5578033B2,2014-08-27,Load drive device and vehicle
+    JP2016048987A,2016-04-07,Drive control device for wheel independent drive type vehicle
+    AU2011337072A1,2013-05-30,Electrical retarding deration
+    CN111619350A,2020-09-04,Vehicle control method, vehicle control system and vehicle
+    CN109548401B,2021-12-28,Control system for vehicle
+    JP6614088B2,2019-12-04,Power system controller
+    JP2020137247A,2020-08-31,Power supply device
+    US20210197792A1,2021-07-01,Vehicle travel control system, vehicle, and vehicle travel control method
+    JP7359075B2,2023-10-11,Control device
+    WO2021070824A1,2021-04-15,Dynamo-electric machine system
+
+patent_application
+    NoExist
+patent_priority_application
+4
+    Application,Priority date,Filing date,Title
+    US17/034,445,2020-09-28,2020-09-28,Method and apparatus for controlling a multi-mode powertrain system of a vehicle
+    DE102021110314.2A,2020-09-28,2021-04-22,METHOD AND APPARATUS FOR CONTROLLING A MULTIMODE POWERTRAIN SYSTEM OF A VEHICLE
+    CN202110511883.2A,2020-09-28,2021-05-11,Method and apparatus for controlling a multi-mode powertrain of a vehicle
+
+inventor_number
+    6
+classfication_nums
+    21
+classfication_items
+119
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,/,0,0
+    B,6,0,K,1,/,0,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,/,0,0
+    B,6,0,K,1,/,0,4
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,7,/,0,0
+    B,6,0,K,7,/,0,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,R
+    B,6,0,R,1,6,/,0,0
+    B,6,0,R,1,6,/,0,2
+    B,6,0,R,1,6,/,0,3
+    G
+    G,0,7
+    G,0,7,C
+    G,0,7,C,5,/,0,0
+    G,0,7,C,5,/,0,8
+    G,0,7,C,5,/,0,8,0,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,/,0,0
+    B,6,0,K,2,0,0,1,/,0,0,1
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,7,/,0,0
+    B,6,0,K,2,0,0,7,/,0,0,6,9
+    B,6,0,K,2,0,0,7,/,0,0,7,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+7
+    2020-09-28,Application filed by GM Global Technology Operations LLC
+    2020-09-28,Priority to US17/034,445
+    2022-03-31,Publication of US20220097531A1
+    2023-09-12,Application granted
+    2023-09-12,Publication of US11752878B2
+    Status,Active
+    2042-01-03,Adjusted expiration
+
+active_area
+3
+    U,S
+    D,E
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US17/034,445,2020-09-28,Method and apparatus for controlling a multi-mode powertrain system of a vehicle
+
+legal_event
+7
+    Date,Code,Title,Description
+    2020-09-28,AS,Assignment,Owner name: GM GLOBAL TECHNOLOGY OPERATIONS LLC, MICHIGANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:KIM, MIN-JOONG;DEEP, DEBANJAN;LIU, JINMING;AND OTHERS;SIGNING DATES FROM 20200923 TO 20200928;REEL/FRAME:053901/0756
+    2020-09-28,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2021-08-20,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2023-04-27,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2023-07-24,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2023-08-23,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

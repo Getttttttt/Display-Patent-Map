@@ -1,0 +1,191 @@
+ID
+    JP2021112955A
+citation_exist
+    Patent Citations (12)
+citation_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP3951480B2                      *,1998-11-25,2007-08-01,トヨタ自動車株式会社,車両の回生制動制御装置
+    US6597975B1                      *,1999-03-10,2003-07-22,Honda Giken Kogyo Kabushiki Kaisha,Vehicle co-operative control system
+    JP4146784B2                      *,2003-11-18,2008-09-10,富士重工業株式会社,ハイブリッド車両の駆動力制御装置
+    JP4400453B2                      *,2004-01-15,2010-01-20,日産自動車株式会社,車両の制動制御装置
+    JP4631477B2                      *,2005-03-04,2011-02-16,日産自動車株式会社,車両の回生制動制御装置
+    JP4730065B2                      *,2005-11-14,2011-07-20,株式会社アドヴィックス,車両の運動制御装置
+    JP5098408B2                      *,2007-04-16,2012-12-12,株式会社アドヴィックス,車両用制動制御装置
+    CN101537828B                      *,2009-03-04,2011-10-19,长安大学,四轮转向汽车稳定性控制系统
+    JP6003534B2                      *,2012-10-30,2016-10-05,日産自動車株式会社,制動力制御装置
+    JP6418373B2                      *,2014-04-04,2018-11-07,日立オートモティブシステムズ株式会社,車両制御装置及び車両制御方法
+    JP6073941B2                      *,2015-02-18,2017-02-01,本田技研工業株式会社,車両用走行制御装置
+    JP6847492B2                      *,2017-06-02,2021-03-24,日立Astemo株式会社,電動車両の制御装置、電動車両の制御システム及び電動車両の制御方法
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    【課題】制動力発生中で且つ舵角に関連する値が検出されている状態において、直進安定性又は旋回応答性を向上させることができる制動制御装置を提供する。【解決手段】本発明の制御装置６は、車両の操舵輪に第１制動力を付与する第１制動部５０ａ、８１と、車両の非操舵輪に第２制動力を付与する第２制動部５０ｂ、８２と、目標制動力に応じて第１制動部５０ａ、８１及び第２制動部５０ｂ、８２を制御する制御装置６と、を備え、制御装置６は、操舵輪の舵角に関連する舵角関連値を取得する舵角情報取得部６１と、目標制動力の付与にあたり、舵角関連値に基づいて、第１制動力と第２制動力との制動力配分を変更する配分変更制御を実行する配分変更部６３と、を備える。【選択図】図１
+title
+    制動制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP3189610B2,2001-07-16,車両挙動制御装置
+    JP6073941B2,2017-02-01,車両用走行制御装置
+    JP5879143B2,2016-03-08,車両運動制御装置及び車両運動制御方法
+    CN101795908B,2013-10-16,车辆行为控制设备
+    CN102753409B,2015-05-06,车辆的转弯控制装置
+    CN107697047B,2020-06-09,用于车辆的制动控制设备
+    KR20120126071A,2012-11-20,브레이킹 및 드라이빙 동작들로 드라이빙 역학에 영향을 미치는 방법 및 브레이킹 시스템
+    JP6672769B2,2020-03-25,制動力制御装置
+    CN101289084A,2008-10-22,用于车辆的制动控制设备
+    EP3738816B1,2022-12-07,Vehicle control method, and control device for vehicle system and vehicle
+    JP5644752B2,2014-12-24,制動力制御装置
+    MX2014010751A,2014-11-26,Dispositivo de control de momento de desviacion lateral para vehiculo.
+    JP2600876B2,1997-04-16,車両の旋回制御装置
+    US9296373B2,2016-03-29,Vehicle turning controller
+    US8249790B2,2012-08-21,Vehicle behavior control device
+    JP5083357B2,2012-11-28,車両運動制御装置
+    WO2021145391A1,2021-07-22,制動制御装置
+    JP6049540B2,2016-12-21,ブレーキ制御装置
+    JP5446685B2,2014-03-19,車両の運動制御装置
+    JP2002137721A,2002-05-14,車両運動制御装置
+    JP2019182050A,2019-10-24,ブレーキ制御装置及びブレーキ制御方法
+    JP6701712B2,2020-05-27,制動力制御装置
+    JP5200657B2,2013-06-05,車両挙動制御装置
+    JP3876487B2,2007-01-31,車両挙動制御装置
+    JP5966994B2,2016-08-10,車両用ブレーキ制御装置
+
+patent_application
+    NoExist
+patent_priority_application
+5
+    Application,Priority date,Filing date,Title
+    JP2020005846A,2020-01-17,2020-01-17,制動制御装置
+    PCT/JP2021/001106,2020-01-17,2021-01-14,制動制御装置
+    CN202180010017.3A,2020-01-17,2021-01-14,制动控制装置
+    US17/792,855,2020-01-17,2021-01-14,Braking control device
+
+inventor_number
+    5
+classfication_nums
+    14
+classfication_items
+80
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,5,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,2,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,2,0,/,0,0
+    B,6,0,T,2,2,2,0,/,0,3
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,5,0,/,0,0
+    B,6,0,T,2,2,5,0,/,0,3
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,3,0
+    B,6,0,T,2,2,7,0,/,3,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,1,3
+
+application_events
+7
+    2020-01-17,Application filed by Advics Co Ltd
+    2020-01-17,Priority to JP2020005846A
+    2021-01-14,Priority to PCT/JP2021/001106
+    2021-01-14,Priority to CN202180010017.3A
+    2021-01-14,Priority to US17/792,855
+    2021-08-05,Publication of JP2021112955A
+    Status,Pending
+
+active_area
+4
+    J,P
+    W,O
+    C,N
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2020005846A,2020-01-17,制動制御装置
+
+legal_event
+4
+    Date,Code,Title,Description
+    2021-02-22,RD04,Notification of resignation of power of attorney,Free format text: JAPANESE INTERMEDIATE CODE: A7424Effective date: 20210222
+    2021-03-03,RD02,Notification of acceptance of power of attorney,Free format text: JAPANESE INTERMEDIATE CODE: A7422Effective date: 20210303
+    2022-12-07,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20221207
+

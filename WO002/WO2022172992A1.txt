@@ -1,0 +1,178 @@
+ID
+    WO2022172992A1
+citation_exist
+    Patent Citations (4)
+citation_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH0465936B2,1988-12-28,1992-10-21,Koji Tomioka,
+    JP2015144503A,2014-01-31,2015-08-06,三菱自動車工業株式会社,電動車の回生ブレーキ制御装置
+    JP2018073722A,2016-11-02,2018-05-10,株式会社豊田自動織機,燃料電池システム
+    JP2020149882A                      *,2019-03-14,2020-09-17,トヨタ自動車株式会社,燃料電池システム
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    燃料電池システム（２１）は、蓄電装置（２５）の充電状態に基づいて燃料電池（２２）の発電状態を切り替えることで燃料電池（２２）の発電電力を制御す制御装置（４０）を備える。発電状態は、燃料電池（２２）に第１発電電力を発電させる第１発電状態と、燃料電池（２２）に第１発電電力よりも大きい第２発電電力を発電させる第２発電状態と、燃料電池（２２）に第２発電電力よりも大きい第３発電電力を発電させる第３発電状態と、を含む。制御装置（４０）は、検出された燃料電池（２２）の発電電力から、燃料電池（２２）の発電の実績を示す電力基準値を算出し、電力基準値に基づき第２発電電力を更新する。
+title
+    燃料電池システム及び燃料電池車両
+similar_document
+26
+    Publication,Publication Date,Title
+    US7196492B2,2007-03-27,Power supply apparatus including fuel cell and capacitor, and operation method thereof
+    CA2605642C,2011-02-15,Fuel cell apparatus, vehicle including the fuel cell apparatus, and power management method for a system equipped with fuel cell unit
+    US6232744B1,2001-05-15,Method of controlling battery condition of self-generation electric vehicle
+    RU2395411C1,2010-07-27,Система электропитания и транспортное средство, включающее в себя такую систему
+    US8600599B2,2013-12-03,Fuel cell vehicle
+    US20170047603A1,2017-02-16,Method of controlling fuel cell system, method of controlling fuel cell automobile, and fuel cell automobile
+    CA2836555C,2018-05-22,Fuel cell system with idle-stop control
+    US8143835B2,2012-03-27,Method of driving DC/DC converter, method of controlling DC/DC converter apparatus, method of controlling driving operation of vehicle, and method of driving fuel cell system
+    US20190210474A1,2019-07-11,Electric vehicle
+    JP6310888B2,2018-04-11,燃料電池システムの制御方法及び燃料電池自動車
+    US9799936B2,2017-10-24,Fuel cell system and fuel cell automobile
+    US11247660B2,2022-02-15,Total distance to empty informing device provided in hybrid vehicle
+    US11165080B2,2021-11-02,Fuel cell system
+    WO2022172992A1,2022-08-18,燃料電池システム及び燃料電池車両
+    JP2013062085A,2013-04-04,燃料電池システム
+    JP2004328961A,2004-11-18,車両の充放電制御装置
+    JP2005085622A,2005-03-31,燃料電池発電システム
+    CN116830327A,2023-09-29,燃料电池系统和燃料电池车辆
+    US10930958B2,2021-02-23,Fuel cell system
+    JP2022123760A,2022-08-24,燃料電池システム
+    JP2019145392A,2019-08-29,燃料電池システム
+    JP2005057929A,2005-03-03,燃料電池車両の制御装置
+    US11440434B2,2022-09-13,Hybrid vehicle and method for controlling hybrid vehicle
+    JP2022148029A,2022-10-06,燃料電池システム
+    JP2023055496A,2023-04-18,燃料電池システム
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    CN202280014041.9A,2021-02-12,2022-02-10,燃料电池系统和燃料电池车辆
+
+inventor_number
+    3
+classfication_nums
+    13
+classfication_items
+78
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,7,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,9,8
+    H,0,1,M,8,/,0,4,3,1,3
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,9,8
+    H,0,1,M,8,/,0,4,3,1,3
+    H,0,1,M,8,/,0,4,5,3,7
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,9,8
+    H,0,1,M,8,/,0,4,6,9,4
+    H,0,1,M,8,/,0,4,8,5,8
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,9,8
+    H,0,1,M,8,/,0,4,6,9,4
+    H,0,1,M,8,/,0,4,9,5,5
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,1,0
+
+application_events
+6
+    2021-02-12,Priority claimed from JP2021021279A
+    2021-03-24,Priority claimed from JP2021049545A
+    2021-04-07,Priority claimed from JP2021065055A
+    2022-02-10,Application filed by 株式会社豊田自動織機, トヨタ自動車株式会社
+    2022-02-10,Priority to CN202280014041.9A
+    2022-08-18,Publication of WO2022172992A1
+
+active_area
+0
+
+not_active_area
+0
+
+patent_application_claiming_priority
+7
+    Application,Filing date,Title
+    JP2021-021279,2021-02-12,
+    JP2021021279A,2021-02-12,燃料電池システム
+    JP2021-049545,2021-03-24,
+    JP2021049545A,2021-03-24,燃料電池システム
+    JP2021065055A,2021-04-07,燃料電池車両及び燃料電池システム
+    JP2021-065055,2021-04-07,
+
+legal_event
+4
+    Date,Code,Title,Description
+    2022-09-28,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 22752814Country of ref document: EPKind code of ref document: A1
+    2023-09-13,NENP,Non-entry into the national phase,Ref country code: DE
+    2023-09-17,ENP,Entry into the national phase,Ref document number: 2022752814Country of ref document: EPEffective date: 20230912
+

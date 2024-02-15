@@ -1,0 +1,129 @@
+ID
+    JPWO2015146018A1
+citation_exist
+    Patent Citations (5)
+citation_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JPH04283333A                      *,1991-03-13,1992-10-08,Daikin Ind Ltd,Heat exchanging ventilating device
+    JPH05157299A                      *,1991-12-03,1993-06-22,Daikin Ind Ltd,熱交換換気装置
+    JPH10132359A                      *,1996-10-25,1998-05-22,Toshiba Corp,換気装置
+    JP4978303B2                      *,2007-05-15,2012-07-18,パナソニック株式会社,熱交換形換気装置
+    JP2010223486A                      *,2009-03-23,2010-10-07,Mitsubishi Electric Corp,換気装置および換気システム
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (7)
+              
+
+
+citedBy_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN113028575A                      *,2021-04-22,2021-06-25,宁波奥克斯电气股份有限公司,目标排气温度修正方法、装置、电子设备及存储介质
+    Family To Family Citations,,,,
+    SE540735C2                      *,2017-03-31,2018-10-23,Flaektgroup Sweden Ab,Metod för att motverka uppbyggnad av frost på en värmeåtervinnare anordnad vid ett luftbehandlingsaggregat
+    GB2581163B                      *,2019-02-05,2021-02-17,Oairo Alliance Ltd,An air conditioning or climate control system and method
+    JP7336630B2,2019-02-18,2023-09-01,パナソニックＩｐマネジメント株式会社,換気システム
+    JP7340742B2,2019-09-11,2023-09-08,パナソニックＩｐマネジメント株式会社,熱交換型換気装置
+    WO2022269820A1                      *,2021-06-23,2022-12-29,三菱電機株式会社,熱交換型換気装置
+    JPWO2022269821A1                      *,2021-06-23,2022-12-29,,
+
+abstract
+    給気送風経路（７）と排気送風経路（８）とが交差する位置に室内の空気と屋外の空気を換気する際に熱交換するための熱交換素子（６）を設ける。また、排気送風経路（８）の熱交換素子（６）の排気側出口に温度検出手段（１２）を設け、制御部（１１）は、温度検出手段（１２）で検出された温度が所定の値を下回ったときに、給気風量を排気風量より小さくなるよう給気用モータの回転数を減少させる。そして、熱交換素子（６）の凍結を防止しながら、給気と排気の同時運転を継続することができる熱交換形換気装置（１）を得られる。
+title
+    熱交換形換気装置
+similar_document
+26
+    Publication,Publication Date,Title
+    WO2015146018A1,2015-10-01,熱交換形換気装置
+    KR101034936B1,2011-05-17,전열교환형 환기장치 및 그 제어방법
+    JP6234574B2,2017-11-22,換気装置
+    WO2016047028A1,2016-03-31,熱交換形換気装置
+    JP6185251B2,2017-08-23,空気調和機
+    JP6967690B2,2021-11-17,熱交換形換気装置
+    JP6234575B2,2017-11-22,換気装置
+    JP6253459B2,2017-12-27,空調用換気装置
+    JP6295422B2,2018-03-20,換気装置
+    JP6274869B2,2018-02-07,換気装置
+    JP5022026B2,2012-09-12,デシカント空調装置
+    JP2009287861A,2009-12-10,加湿換気装置
+    JP2020085375A,2020-06-04,換気装置
+    JP2016153701A,2016-08-25,熱交換形換気装置
+    JP6322814B2,2018-05-16,熱交換形換気装置
+    JP6053563B2,2016-12-27,熱交換換気装置
+    WO2017051524A1,2017-03-30,熱交換形換気装置
+    JP5538272B2,2014-07-02,熱交換換気装置
+    JP2008241131A,2008-10-09,加湿換気システム及び加湿給気システム
+    JP6458256B2,2019-01-30,換気装置
+    JP2015190684A,2015-11-02,熱交換形換気装置
+    JP2015068544A,2015-04-13,熱交換換気装置
+    JP5849237B2,2016-01-27,天井埋込型浴室空気調和機
+    JP2006017369A5,2006-11-24,
+    JP2014066400A,2014-04-17,熱交換機器
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    12
+classfication_nums
+    4
+classfication_items
+26
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,7,/,0,0
+    F,2,4,F,7,/,0,4
+    F,2,4,F,7,/,0,6
+    F,2,4,F,7,/,0,8
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,1,1,/,0,0
+    F,2,4,F,1,1,/,7,0
+    F,2,4,F,1,1,/,7,2
+    F,2,4,F,1,1,/,7,4
+    F,2,4,F,1,1,/,7,6
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,1,2,/,0,0
+    F,2,4,F,1,2,/,0,0,1
+    F,2,4,F,1,2,/,0,0,6
+    Y
+    Y,0,2
+    Y,0,2,B
+    Y,0,2,B,3,0,/,0,0
+    Y,0,2,B,3,0,/,5,6
+
+application_events
+3
+    2015-03-09,Application filed by Panasonic Intellectual Property Management Co Ltd
+    2017-04-13,Publication of JPWO2015146018A1
+    Status,Pending
+
+active_area
+2
+    J,P
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2014068197,2014-03-28,
+    JP2014068197,2014-03-28,
+    PCT/JP2015/001259,2015-03-09,熱交換形換気装置
+
+legal_event
+    NoExist

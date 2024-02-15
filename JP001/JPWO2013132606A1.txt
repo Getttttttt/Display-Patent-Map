@@ -1,0 +1,173 @@
+ID
+    JPWO2013132606A1
+citation_exist
+    Patent Citations (17)
+citation_infor
+19
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP3517405B2,2001-08-10,2004-04-12,三菱電機株式会社,車両用回転電機の制御装置および制御法
+    JP4655431B2                      *,2001-08-20,2011-03-23,株式会社デンソー,車両用発電電動機装置
+    JP4376589B2                      *,2003-10-29,2009-12-02,日産自動車株式会社,四輪駆動車両
+    JP2006034027A,2004-07-20,2006-02-02,Nissan Motor Co Ltd,界磁巻線式電動機の制御装置
+    FR2881295B1                      *,2005-01-26,2007-03-23,Valeo Equip Electr Moteur,Gestion du fonctionnement d'un alterno-demarreur de vehicule automobile
+    JP4570982B2,2005-02-25,2010-10-27,日立オートモティブシステムズ株式会社,発電制御装置及び発電装置
+    JP2007159353A                      *,2005-12-08,2007-06-21,Mitsubishi Electric Corp,界磁巻線式同期発電電動機
+    JP4185094B2,2005-12-20,2008-11-19,三菱電機株式会社,回転電機装置
+    FR2918222B1                      *,2007-06-27,2010-06-04,Valeo Equip Electr Moteur,Procede et une machine electrique de freinage d'un moteur thermique et vehicule lors de la phase d'arret de celui-ci.
+    JP4974988B2,2008-09-25,2012-07-11,三菱電機株式会社,界磁巻線式同期発電電動機
+    JP4849421B2,2008-09-26,2012-01-11,三菱電機株式会社,発電電動機制御装置およびそれを備える車両システム
+    JP4906825B2                      *,2008-10-07,2012-03-28,三菱電機株式会社,車両挙動制御装置
+    JP5174617B2,2008-10-30,2013-04-03,日立オートモティブシステムズ株式会社,回転電機装置及びその制御装置
+    JP2012228017A                      *,2011-04-18,2012-11-15,Mitsubishi Electric Corp,発電電動機の制御装置
+    EP2852046B1                      *,2012-05-15,2021-06-23,Mitsubishi Electric Corporation,Field winding rotating electrical machine and method for controlling field current of a field winding rotating electrical machine
+    EP2899875B1                      *,2012-09-19,2018-06-20,Mitsubishi Electric Corporation,Field-winding rotating electrical machine
+    JP2014204451A                      *,2013-04-01,2014-10-27,三菱電機株式会社,車両用発電電動機の制御装置およびその方法
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    CN104104293B                      *,2014-07-16,2016-07-13,国家电网公司,一种基于发电机静态稳定极限的最小励磁电流限制方法
+    BR112018072902B1                      *,2016-05-09,2022-09-20,ART MEDICAL Ltd.,Dispositivo complementar para um tubo endotraqueal, seu método de controle e sistema
+    US10804833B2                      *,2016-11-02,2020-10-13,Mitsubishi Electric Corporation,Control device for electric generator/motor and control method for electric generator/motor
+    JP6377190B2                      *,2017-01-27,2018-08-22,三菱電機株式会社,回転電機の制御装置及び制御方法
+
+abstract
+    界磁巻線と電機子巻線とを有する回転電機に電力変換装置が接続されて、外部からの動作指令に従って制御を行う界磁巻線方式の車両用発電電動機界において、発電電動機が駆動状態から他の動作モードに遷移するとき、遷移先の動作モードに応じて駆動モードの停止方法を切り換えることで、意図しない発電、過発電、過度なトルク変動を発生させることなく、迅速に動作モードを遷移させるようにした車両用発電電動機の電力変換装置および車両用発電電動機の制御方法を提供する。
+title
+    車両用発電電動機の電力変換装置および車両用発電電動機の制御方法
+similar_document
+26
+    Publication,Publication Date,Title
+    JP4134964B2,2008-08-20,発電制御装置
+    JP2007074868A,2007-03-22,車両用電圧制御装置
+    JP2009044911A,2009-02-26,車両用発電制御装置
+    WO2014091602A1,2014-06-19,モータ制御装置
+    JP2007143319A,2007-06-07,発電制御装置および発電システム
+    US8339074B2,2012-12-25,Power converter control apparatus
+    JPWO2008152761A1,2010-08-26,モータ駆動装置、モータ装置、および集積回路装置
+    JP5726369B2,2015-05-27,車両用発電電動機の電力変換装置および車両用発電電動機の制御方法
+    JP5855128B2,2016-02-09,電力変換装置および電力変換装置の制御方法
+    JP2016141356A,2016-08-08,自動車用電源装置及び自動車用電源装置の制御方法
+    JP2005160247A,2005-06-16,モータ駆動４ｗｄ車両の制御装置及び制御方法
+    JP2006340599A,2006-12-14,車両用回転電機の制御装置
+    JP2007195352A,2007-08-02,電動機の電源装置
+    JP5214995B2,2013-06-19,車両用電力変換装置及び車両用駆動制御装置
+    JP4780171B2,2011-09-28,車両用発電制御装置
+    JP2005253213A,2005-09-15,多軸モータ制御方法および装置
+    JP6656404B2,2020-03-04,発電電動機の制御装置および発電電動機の制御方法
+    JP2013090453A,2013-05-13,電力変換器の制御装置および制御方法
+    JP2012228017A,2012-11-15,発電電動機の制御装置
+    JP4450085B2,2010-04-14,車両用発電制御装置
+    JP5183709B2,2013-04-17,車両用電源装置
+    JP7361740B2,2023-10-16,電動機制御装置
+    US9231516B2,2016-01-05,Control device for generator-motor and control method for generator-motor
+    JP5126005B2,2013-01-23,インバータ装置
+    KR101937265B1,2019-01-10,교류 발전기를 갖는 차량 및 그것의 제어 방법
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    8
+classfication_nums
+    8
+classfication_items
+45
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,9,/,0,0
+    H,0,2,P,9,/,1,4
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,9,/,0,0
+    H,0,2,P,9,/,4,8
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,1,0,1,/,0,0
+    H,0,2,P,2,1,0,1,/,4,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+
+application_events
+6
+    2012-03-07,Application filed by Mitsubishi Electric Corp
+    2015-05-27,Application granted
+    2015-05-27,Publication of JP5726369B2
+    2015-07-30,Publication of JPWO2013132606A1
+    Status,Active
+    2032-03-07,Anticipated expiration
+
+active_area
+5
+    U,S
+    C,N
+    W,O
+    E,P
+    J,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2012/055797,2012-03-07,車両用発電電動機の電力変換装置および車両用発電電動機の制御方法
+
+legal_event
+11
+    Date,Code,Title,Description
+    2015-02-24,TRDD,Decision of grant or rejection written,
+    2015-03-04,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20150303
+    2015-04-09,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20150331
+    2015-04-10,R150,Certificate of patent or registration of utility model,Ref document number: 5726369Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R150
+    2018-03-20,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2019-03-19,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2020-03-11,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2021-03-11,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2022-03-11,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2023-03-13,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+

@@ -1,0 +1,337 @@
+ID
+    EP3196367A1
+citation_exist
+    Patent Citations (17)
+citation_infor
+19
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JPH081202B2                      *,1989-04-03,1996-01-10,株式会社豊田自動織機製作所,Operating circuit of single-acting hydraulic cylinder
+    US5046309A                      *,1990-01-22,1991-09-10,Shin Caterpillar Mitsubishi Ltd.,Energy regenerative circuit in a hydraulic apparatus
+    US5101628A                      *,1990-01-22,1992-04-07,Shin Caterpillar Mitsubishi Ltd.,Energy regenerative circuit in a hydraulic apparatus
+    JP3139767B2                      *,1992-08-25,2001-03-05,日立建機株式会社,Hydraulic drive of hydraulic working machine
+    KR950700493A                      *,1992-12-04,1995-01-16,오까다 하지메,Hydraulic regeneration device
+    JPH1089317A                      *,1996-09-18,1998-04-07,Sumitomo Constr Mach Co Ltd,Boom lowering reproduction circuit of hydraulic excavator
+    JPH10227304A                      *,1997-02-17,1998-08-25,Komatsu Ltd,Meter-out flow control valve
+    US7562615B2                      *,2003-01-14,2009-07-21,Hitachi Construction Machinery Co., Ltd.,Hydraulic working machine
+    CN100392257C                      *,2003-01-14,2008-06-04,日立建机株式会社,Hydraulic working machine
+    JP2006292068A                      *,2005-04-11,2006-10-26,Hitachi Constr Mach Co Ltd,Hydraulic working machine
+    KR101301234B1                      *,2007-12-06,2013-08-29,볼보 컨스트럭션 이큅먼트 에이비,pressure compensation hydraulic circuit of control engine revolution of excavator
+    JP5249857B2                      *,2009-05-29,2013-07-31,株式会社神戸製鋼所,Control device and work machine equipped with the same
+    CN103080566B                      *,2010-09-02,2016-02-10,沃尔沃建造设备有限公司,For the oil hydraulic circuit of construction equipment
+    JP5404597B2                      *,2010-12-27,2014-02-05,日立建機株式会社,Hydraulic working machine
+    CN103620233B                      *,2011-06-27,2016-04-20,沃尔沃建造设备有限公司,For the hydraulic control valve of construction plant
+    WO2013051740A1                      *,2011-10-07,2013-04-11,볼보 컨스트럭션 이큅먼트 에이비,Control system for operating work device for construction machine
+    KR20140081989A                      *,2012-12-21,2014-07-02,두산인프라코어 주식회사,Boom Cylinder Control Circuit for Excavator
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (7)
+              
+
+
+citedBy_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    CN105637152B                      *,2013-07-24,2017-11-28,沃尔沃建造设备有限公司,Hydraulic circuit for engineering machinery
+    JP6580618B2                      *,2017-03-21,2019-09-25,日立建機株式会社,Construction machinery
+    CN107477039B                      *,2017-08-14,2020-01-03,潍柴动力股份有限公司,Hydraulic system with flow compensation function and engineering machinery
+    JP6914206B2                      *,2018-01-11,2021-08-04,株式会社小松製作所,Hydraulic circuit
+    WO2019155843A1                      *,2018-02-09,2019-08-15,住友建機株式会社,Excavator
+    JP7005416B2                      *,2018-04-11,2022-01-21,株式会社加藤製作所,Hydraulic circuit of construction machinery
+    KR20220154496A                      *,2021-05-13,2022-11-22,볼보 컨스트럭션 이큅먼트 에이비,Hydraulic machine
+
+abstract
+    Disclosed is a hydraulic circuit for construction equipment for controlling to selectively supply a hydraulic oil from a hydraulic pump to a hydraulic cylinder for driving a boom. The hydraulic circuit for construction equipment, according to the present invention, comprises: a hydraulic cylinder driven by a hydraulic oil of a hydraulic pump; a direction control valve installed on the oil passage between the hydraulic pump and the hydraulic cylinder; an operating device installed on the oil passage between a pilot pump and the direction control valve; a center by-pass switching valve installed at the most downstream side of a center by-pass passage of the hydraulic pump; a pressure detection sensor that detects the pressure of a hydraulic oil at the large chamber side of the hydraulic cylinder; a jack-up switching valve installed on the oil passage between the operating device and the center by-pass switching valve; and a flow control valve installed in the spool of the direction control valve.
+title
+    Hydraulic circuit for construction equipment
+similar_document
+26
+    Publication,Publication Date,Title
+    EP3196367B1,2022-04-13,Hydraulic circuit for construction equipment
+    EP3309409B1,2021-05-05,Hydraulic drive system of industrial machine
+    EP3306112B1,2022-09-21,Construction-machine hydraulic control device
+    EP3351807B1,2020-08-26,Hydraulic driving apparatus for a work machine
+    KR102107579B1,2020-05-07,Hydraulic drive device for construction machinery
+    EP2351937A1,2011-08-03,Hydraulic control system in working machine
+    KR20060120584A,2006-11-27,Control circuit for construction machine
+    EP3301229B1,2019-12-18,Hydraulic driving device of work machine
+    JP2008014468A,2008-01-24,Hydraulic control system in working machine
+    JP6003229B2,2016-10-05,Boom drive device for construction machinery
+    US10301793B2,2019-05-28,Hydraulic drive system for work machine
+    US10041228B2,2018-08-07,Construction machine
+    EP2677180A1,2013-12-25,Hydraulic drive device of working machine
+    JP6378734B2,2018-08-22,Hydraulic excavator drive system
+    US10167611B2,2019-01-01,Hydraulic excavator drive system
+    US20140245728A1,2014-09-04,Hydraulic Drive System for Work Vehicle
+    CN112105785A,2020-12-18,Hydraulic drive device for construction machine
+    US20160312444A1,2016-10-27,Control circuit and control method for boom energy regeneration
+    JP3876220B2,2007-01-31,Automatic booster for work machines
+    CN112703324B,2023-06-06,Fluid circuit
+    JP2010060057A,2010-03-18,Hydraulic control system in working machine
+    CN104185739B,2016-06-22,Hydraulic system for construction equipment
+    JP2009150462A,2009-07-09,Hydraulic control system for working machine
+    JP4753307B2,2011-08-24,Hydraulic control system for work machines
+    JP4756600B2,2011-08-24,Hydraulic control system for work machines
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    23
+classfication_items
+173
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,7,8
+    E,0,2,F,9,/,2,2,8,2
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F,1,5,B,1,1,/,0,8
+    F,1,5,B,1,1,/,1,0
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,1,7
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,2,1
+    E,0,2,F,9,/,2,2,2,5
+    E,0,2,F,9,/,2,2,2,8
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,2,1
+    E,0,2,F,9,/,2,2,3,2
+    E,0,2,F,9,/,2,2,3,5
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,6,4
+    E,0,2,F,9,/,2,2,6,7
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,6,4
+    E,0,2,F,9,/,2,2,7,1
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,7,8
+    E,0,2,F,9,/,2,2,8,5
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,7,8
+    E,0,2,F,9,/,2,2,9,2
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,7,8
+    E,0,2,F,9,/,2,2,9,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,3,/,0,0
+    F,1,5,B,1,3,/,0,2
+    F,1,5,B,1,3,/,0,2,7
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,1,/,0,0
+    F,1,5,B,2,1,/,1,4
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,3,/,0,0
+    E,0,2,F,3,/,0,4
+    E,0,2,F,3,/,2,8
+    E,0,2,F,3,/,3,6
+    E,0,2,F,3,/,4,2
+    E,0,2,F,3,/,4,3
+    E,0,2,F,3,/,4,3,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,3
+    F,1,5,B,2,2,1,1,/,2,0,5,4,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,4,0
+    F,1,5,B,2,2,1,1,/,4,1,5
+    F,1,5,B,2,2,1,1,/,4,1,5,5,4
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,4,0
+    F,1,5,B,2,2,1,1,/,4,2
+    F,1,5,B,2,2,1,1,/,4,2,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,0,5
+    F,1,5,B,2,2,1,1,/,6,0,5,1
+    F,1,5,B,2,2,1,1,/,6,0,5,2
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,0,6
+    F,1,5,B,2,2,1,1,/,6,3,1,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,4,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3,5
+    F,1,5,B,2,2,1,1,/,6,3,5,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,0,5
+    F,1,5,B,2,2,1,1,/,7,0,5,1
+    F,1,5,B,2,2,1,1,/,7,0,5,3
+
+application_events
+7
+    2014-09-19,Application filed by Volvo Construction Equipment AB
+    2017-07-26,Publication of EP3196367A1
+    2018-05-23,Publication of EP3196367A4
+    2022-04-13,Application granted
+    2022-04-13,Publication of EP3196367B1
+    Status,Active
+    2034-09-19,Anticipated expiration
+
+active_area
+3
+    C,N
+    E,P
+    W,O
+
+not_active_area
+1
+    U,S
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/KR2014/008745,2014-09-19,Hydraulic circuit for construction equipment
+
+legal_event
+44
+    Date,Code,Title,Description
+    2017-03-20,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE INTERNATIONAL PUBLICATION HAS BEEN MADE
+    2017-06-23,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2017-06-23,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+    2017-07-26,17P,Request for examination filed,Effective date: 20170317
+    2017-07-26,AK,Designated contracting states,Kind code of ref document: A1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2017-07-26,AX,Request for extension of the european patent,Extension  state: BA ME
+    2017-12-27,DAX,Request for extension of the european patent (deleted),
+    2018-05-23,A4,Supplementary search report drawn up and despatched,Effective date: 20180419
+    2018-05-23,RIC1,Information provided on ipc code assigned before grant,Ipc: E02F   9/22        20060101ALI20180413BHEPIpc: E02F   9/20        20060101AFI20180413BHEP
+    2021-11-14,GRAP,Despatch of communication of intention to grant a patent,Free format text: ORIGINAL CODE: EPIDOSNIGR1
+    2021-11-14,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: GRANT OF PATENT IS INTENDED
+    2021-12-15,INTG,Intention to grant announced,Effective date: 20211115
+    2022-03-08,GRAS,Grant fee paid,Free format text: ORIGINAL CODE: EPIDOSNIGR3
+    2022-03-11,GRAA,(expected) grant,Free format text: ORIGINAL CODE: 0009210
+    2022-03-11,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE PATENT HAS BEEN GRANTED
+    2022-04-13,AK,Designated contracting states,Kind code of ref document: B1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2022-04-13,REG,Reference to a national code,Ref country code: GBRef legal event code: FG4D
+    2022-04-14,REG,Reference to a national code,Ref country code: CHRef legal event code: EP
+    2022-04-28,REG,Reference to a national code,Ref country code: DERef legal event code: R096Ref document number: 602014083276Country of ref document: DE
+    2022-05-11,REG,Reference to a national code,Ref country code: IERef legal event code: FG4D
+    2022-05-15,REG,Reference to a national code,Ref country code: ATRef legal event code: REFRef document number: 1483502Country of ref document: ATKind code of ref document: TEffective date: 20220515
+    2022-08-10,REG,Reference to a national code,Ref country code: LTRef legal event code: MG9D
+    2022-08-17,REG,Reference to a national code,Ref country code: NLRef legal event code: MPEffective date: 20220413
+    2022-09-15,REG,Reference to a national code,Ref country code: ATRef legal event code: MK05Ref document number: 1483502Country of ref document: ATKind code of ref document: TEffective date: 20220413
+    2022-09-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: NLFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220413
+    2022-10-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: SEFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220413Ref country code: PTFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220816Ref country code: NOFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220713Ref country code: LTFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220413Ref country code: HRFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220413Ref country code: GRFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220714Ref country code: FIFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220413Ref country code: ESFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220413Ref country code: BGFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220713Ref country code: ATFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220413
+    2022-10-31,PGFP,Annual fee paid to national office [announced via postgrant information from national office to epo],Ref country code: DEPayment date: 20220527Year of fee payment: 9
+    2022-11-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: RSFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220413Ref country code: PLFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220413Ref country code: LVFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220413Ref country code: ISFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220813
+    2022-11-30,PGFP,Annual fee paid to national office [announced via postgrant information from national office to epo],Ref country code: FRPayment date: 20220927Year of fee payment: 9
+    2023-01-16,REG,Reference to a national code,Ref country code: DERef legal event code: R097Ref document number: 602014083276Country of ref document: DE
+    2023-01-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: SMFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220413Ref country code: SKFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220413Ref country code: ROFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220413Ref country code: EEFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220413Ref country code: DKFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220413Ref country code: CZFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220413
+    2023-02-17,PLBE,No opposition filed within time limit,Free format text: ORIGINAL CODE: 0009261
+    2023-02-17,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: NO OPPOSITION FILED WITHIN TIME LIMIT
+    2023-03-22,26N,No opposition filed,Effective date: 20230116
+    2023-03-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: ALFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220413
+    2023-04-28,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: MCFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220413
+    2023-04-28,REG,Reference to a national code,Ref country code: CHRef legal event code: PL
+    2023-05-25,REG,Reference to a national code,Ref country code: BERef legal event code: MMEffective date: 20220930
+    2023-05-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: SIFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220413
+    2023-06-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: LUFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20220919
+    2023-07-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: LIFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20220930Ref country code: IEFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20220919Ref country code: CHFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20220930
+    2023-09-29,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: BEFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20220930
+    2023-10-31,PGFP,Annual fee paid to national office [announced via postgrant information from national office to epo],Ref country code: GBPayment date: 20230926Year of fee payment: 10
+

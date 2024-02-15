@@ -1,0 +1,200 @@
+ID
+    US20130261864A1
+citation_exist
+    Patent Citations (18)
+citation_infor
+20
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH0979348A                      *,1995-09-11,1997-03-25,Honda Motor Co Ltd,Coupling device between right and left wheels of vehicle
+    US20090038866A1                      *,2007-05-23,2009-02-12,Honda Motor Co., Ltd.,Power unit
+    US20120244992A1                      *,2011-03-25,2012-09-27,Aisin Aw Co., Ltd.,Driving device for vehicle
+    Family To Family Citations,,,,
+    DE3775487D1,1986-07-01,1992-02-06,Hewlett Packard Co,DEVICE FOR DATA PROCESSING.
+    JP2672819B2                      *,1987-09-16,1997-11-05,アイシン・エィ・ダブリュ株式会社,Vehicle braking force control device utilizing motor braking force
+    JP2501476B2,1989-10-25,1996-05-29,株式会社テック,Credit processor
+    JP2752539B2                      *,1991-09-21,1998-05-18,株式会社日立製作所,Control device for vehicle electric motor
+    JPH06289039A                      *,1993-04-01,1994-10-18,Toyota Motor Corp,Slip degree calculation device for vehicles
+    KR100418730B1                      *,1995-09-11,2004-05-20,혼다 기켄 고교 가부시키가이샤,Connecting device between left and right wheel of vehicle
+    JP2002160541A,2000-09-12,2002-06-04,Honda Motor Co Ltd,Controller of front-and-rear-wheel drive vehicle
+    EP1466775A3                      *,2003-04-10,2010-09-15,Nissan Motor Company Limited,Drive controlling apparatus and method for automotive vehicle
+    JP4706235B2                      *,2004-11-12,2011-06-22,トヨタ自動車株式会社,Wheel speed sensor abnormality detection device and automobile equipped with the same
+    JP4188348B2                      *,2005-08-10,2008-11-26,株式会社日立製作所,ELECTRIC VEHICLE TRAVEL CONTROL DEVICE AND ELECTRIC TRAVEL CONTROL SYSTEM
+    CN100391768C                      *,2006-02-27,2008-06-04,华南理工大学,Multiple axle driving system for oil-electricity mixed power automobile
+    JP5226627B2                      *,2009-07-31,2013-07-03,本田技研工業株式会社,Vehicle drive control device
+    JP4757333B2                      *,2009-08-05,2011-08-24,本田技研工業株式会社,Vehicle driving force control device
+    JP5051476B2                      *,2009-08-10,2012-10-17,アイシン・エィ・ダブリュ株式会社,Vehicle drive device
+    JP5683894B2,2010-10-14,2015-03-11,古河電気工業株式会社,Terminal structure of flexible tube for gas transportation
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (7)
+              
+
+
+citedBy_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20190225094A1                      *,2016-10-12,2019-07-25,Ntn Corporation,Drive source control device, and vehicle equipped with said drive source control device
+    US10532745B2                      *,2017-03-08,2020-01-14,Honda Motor Co., Ltd.,Vehicle and control method for vehicle
+    US11171582B2                      *,2018-06-13,2021-11-09,Ricoh Company, Ltd.,Drive device for correcting angular deviation between shafts
+    US20220065623A1                      *,2018-10-25,2022-03-03,Ebm-Papst St. Georgen Gmbh & Co. Kg,Method for determining actual state values
+    US11654892B2                      *,2020-02-19,2023-05-23,Subaru Corporation,Control apparatus
+    Family To Family Citations,,,,
+    JP6274837B2                      *,2013-12-02,2018-02-07,本田技研工業株式会社,Electric vehicle
+    CN104590267B                      *,2014-12-19,2017-11-17,北京新能源汽车股份有限公司,The torque safety control method of new-energy automobile
+
+abstract
+    In a method of obtaining a rotation speed of a right wheel (RWr), the method includes: detecting a motor rotation speed detection value (LMa) using a resolver (20A); detecting a wheel rotation speed detection value (LWa) using a wheel speed sensor (13A); obtaining a ring gear rotation speed conversion value (Rb) based on the motor rotation speed detection value (LMa) and the wheel rotation speed detection value (LWa); detecting a motor rotation speed detection value (RMa) using the resolver (20B); obtaining a wheel rotation speed conversion value (RWb) based on the ring gear rotation speed conversion value (Rb) and the motor rotation speed detection value (RMa); detecting a wheel rotation speed detection value (RWa) using a wheel speed sensor (20B); and selecting the wheel rotation speed conversion value (RWb) or the wheel rotation speed detection value (RWa), whichever is greater, as the rotation speed of the right wheel (RWr).
+title
+    Vehicle drive device and method for controlling vehicle drive device
+similar_document
+21
+    Publication,Publication Date,Title
+    US9139195B2,2015-09-22,Vehicle drive device
+    US9174526B2,2015-11-03,Drive controller for vehicle
+    US9114725B2,2015-08-25,Vehicle drive device and method for controlling vehicle drive device
+    US8905884B2,2014-12-09,Vehicle drive device
+    JP5568602B2,2014-08-06,Vehicle drive device
+    US20170349038A1,2017-12-07,Vehicle drive system
+    US10059323B2,2018-08-28,Vehicle driving system
+    JP5723589B2,2015-05-27,Front and rear wheel drive vehicle
+    US9150118B2,2015-10-06,Vehicle driving system and vehicle driving system control method
+    JP5948109B2,2016-07-06,Vehicle drive device
+    JP6014346B2,2016-10-25,Vehicle drive device
+    JP5977982B2,2016-08-24,Vehicle drive device
+    JP5965677B2,2016-08-10,VEHICLE DRIVE DEVICE AND CONTROL METHOD FOR VEHICLE DRIVE DEVICE
+    JP5914115B2,2016-05-11,Vehicle drive device
+    JP6274837B2,2018-02-07,Electric vehicle
+    JP5657068B2,2015-01-21,Vehicle drive device
+    JP2015127177A,2015-07-09,Vehicle
+    JP6167038B2,2017-07-19,Drive device
+    JP6694314B2,2020-05-13,Vehicle drive
+    JP5927006B2,2016-05-25,Vehicle drive device
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    13
+classfication_items
+78
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,7,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2013-03-29,Application filed by Honda Motor Co Ltd
+    2013-04-05,Assigned to HONDA MOTOR CO., LTD.
+    2013-10-03,Publication of US20130261864A1
+    2015-08-25,Application granted
+    2015-08-25,Publication of US9114725B2
+    Status,Active
+    2033-04-05,Adjusted expiration
+
+active_area
+3
+    J,P
+    C,N
+    U,S
+
+not_active_area
+1
+    D,E
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2012-082938,2012-03-30,
+    JP2012082938A,2012-03-30,VEHICLE DRIVE DEVICE AND CONTROL METHOD FOR VEHICLE DRIVE DEVICE
+
+legal_event
+5
+    Date,Code,Title,Description
+    2013-04-05,AS,Assignment,Owner name: HONDA MOTOR CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:NOGUCHI, MASATOSHI;REEL/FRAME:030160/0532Effective date: 20130315
+    2015-08-05,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2019-02-14,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+    2023-02-08,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+

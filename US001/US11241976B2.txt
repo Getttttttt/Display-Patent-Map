@@ -1,0 +1,225 @@
+ID
+    US11241976B2
+citation_exist
+    Patent Citations (10)
+citation_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20030158638A1                      *,1999-07-30,2003-08-21,Oshkosh Truck Corporation,Control system and method for electric vehicle
+    US20040254047A1                      *,2003-03-19,2004-12-16,The Regents Of The University Of California,Method and system for controlling rate of change of ratio in a continuously variable transmission
+    US20110288711A1                      *,2009-01-29,2011-11-24,Sumitomo Heavy Industries. Ltd.,Hybrid working machine and servo control system
+    US20140265565A1                      *,2013-03-15,2014-09-18,Fastcap Systems Corporation,Modular signal interface devices and related downhole power and data systems
+    JP2018070033A,2016-11-01,2018-05-10,トヨタ自動車株式会社,Automobile
+    US20200391611A1                      *,2019-06-17,2020-12-17,Subaru Corporation,Vehicle
+    Family To Family Citations,,,,
+    JP2011015515A,2009-07-01,2011-01-20,Nissan Motor Co Ltd,System and method for control of electric motor
+    JP2012095443A,2010-10-27,2012-05-17,Toyota Motor Corp,Automobile
+    JP5706274B2,2011-08-31,2015-04-22,ダイムラー・アクチェンゲゼルシャフトＤａｉｍｌｅｒ ＡＧ,Control device for hybrid vehicle
+    JP6439588B2,2015-05-28,2018-12-19,トヨタ自動車株式会社,Motor control device
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP6439725B2                      *,2016-03-17,2018-12-19,株式会社デンソー,Temperature control device for magnetic circuit parts
+    JP7339784B2                      *,2019-06-17,2023-09-06,株式会社Subaru,vehicle
+    US11290045B2                      *,2020-05-05,2022-03-29,Nio Usa, Inc.,Devices, systems, and methods for self-heating batteries
+
+abstract
+    A vehicle includes: a battery; a motor-generator configured to be coupled to a wheel; a power converter configured to convert and supply, to the motor-generator, power of the battery and to convert and feed back, to the battery, power generated in the motor-generator in response to rotation of the wheel; an SOC deriving unit configured to derive a state-of-charge of the battery; a battery temperature sensor configured to detect a temperature of the battery; and a switching controller configured to derive, based on the state-of-charge and the temperature, a number of revolutions for switching at which switching between servo-off control and zero-torque control is performed, and to perform the servo-off control if a number of revolutions of the motor-generator is equal to or lower than the number of revolutions for switching and perform the zero-torque control if the number of revolutions is higher than the number of revolutions for switching.
+title
+    Vehicle having switching controller
+similar_document
+26
+    Publication,Publication Date,Title
+    US11241976B2,2022-02-08,Vehicle having switching controller
+    US7102310B2,2006-09-05,Cooling device of power supply
+    US10046759B2,2018-08-14,Control device and control method for electrically driven vehicle
+    US9725007B2,2017-08-08,Electric vehicle and control method therefor
+    US20120101675A1,2012-04-26,Motor control apparatus for electric vehicle
+    JP2009284597A,2009-12-03,Cooling device for power control unit
+    JP2011072067A,2011-04-07,Power supply system for vehicle and electric vehicle equipped with the same
+    US9764645B2,2017-09-19,Electric vehicle
+    JP5382232B2,2014-01-08,Engine control apparatus and control method
+    JP2008072868A,2008-03-27,Motor controller for vehicle
+    JP2009254206A,2009-10-29,Power source control system
+    US20210067040A1,2021-03-04,Electric-power conversion system controller
+    JP2009060726A,2009-03-19,Vehicle power supply device and control method therefor
+    US11425792B2,2022-08-23,Vehicle warm-up control apparatus
+    JP6336005B2,2018-06-06,Power drive unit control apparatus and control method
+    JP2011087406A,2011-04-28,Electric vehicle
+    US10958196B2,2021-03-23,Powertrain system
+    JP2015177698A,2015-10-05,Power conversion device
+    US20210016659A1,2021-01-21,Vehicle
+    JP6267474B2,2018-01-24,Electric vehicle power conversion system
+    JP5834452B2,2015-12-24,Cooling system abnormality judgment device
+    JP2011182515A,2011-09-15,Motor drive system and electric vehicle with the same
+    JP5316030B2,2013-10-16,Battery hybrid system and method of using the same
+    US20220294256A1,2022-09-15,Vehicle
+    JP2012130134A,2012-07-05,Current sensor abnormality detection device and vehicle drive system
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    17
+classfication_items
+105
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,/,0,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,/,0,0
+    B,6,0,K,1,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B,6,0,L,5,8,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,6
+    B,6,0,L,2,2,4,0,/,6,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+7
+    2020-04-21,Application filed by Subaru Corp
+    2020-04-21,Assigned to Subaru Corporation
+    2020-12-17,Publication of US20200391611A1
+    2022-02-08,Application granted
+    2022-02-08,Publication of US11241976B2
+    Status,Active
+    2040-06-04,Adjusted expiration
+
+active_area
+2
+    J,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2019-111687,2019-06-17,
+    JPJP2019-111687,2019-06-17,
+    JP2019111687A,2019-06-17,vehicle
+
+legal_event
+11
+    Date,Code,Title,Description
+    2020-04-21,AS,Assignment,Owner name: SUBARU CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:NOBUMOTO, YASUKAZU;REEL/FRAME:052451/0156Effective date: 20200225
+    2020-04-21,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2020-05-19,STPP,Information on status: patent application and granting procedure in general,Free format text: APPLICATION DISPATCHED FROM PREEXAM, NOT YET DOCKETED
+    2021-07-18,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2021-08-02,STPP,Information on status: patent application and granting procedure in general,Free format text: EX PARTE QUAYLE ACTION MAILED
+    2021-10-10,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO EX PARTE QUAYLE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2021-10-18,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2021-12-31,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT RECEIVED
+    2022-01-04,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2022-01-19,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

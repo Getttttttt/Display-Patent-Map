@@ -1,0 +1,167 @@
+ID
+    US20230026306A1
+citation_exist
+    Patent Citations (5)
+citation_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US6909200B2                      *,2002-02-28,2005-06-21,Azure Dynamics Inc.,Methods of supplying energy to an energy bus in a hybrid electric vehicle, and apparatuses, media and signals for the same
+    JP4370775B2                      *,2002-12-17,2009-11-25,日産自動車株式会社,Combined brake coordination controller
+    US9026296B1                      *,2013-11-08,2015-05-05,Ford Global Technologies, Llc,System for controlling overall coasting torque in a hybrid electric vehicle
+    US11040625B2                      *,2015-11-11,2021-06-22,Texas Instruments Incorporated,Optimized regenerative braking control of electric motors using look-up tables
+    WO2019109102A1                      *,2017-12-01,2019-06-06,Future Motion, Inc.,Control system for electric vehicles
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    A controller for a motor system includes an input terminal to receive a signal indicating a speed of an electric motor and a regenerative brake current interpolator to indicate a brake current to be applied to the electric motor responsive to the speed of the electric motor. Values of the brake current vary with variation of the speed of the electric motor.
+title
+    Control of a regenerative brake for a motor system and related systems, methods, and devices
+similar_document
+26
+    Publication,Publication Date,Title
+    US8446118B2,2013-05-21,Rotary electric machine control device
+    US8872454B2,2014-10-28,Control unit of rotary device
+    WO2014192467A1,2014-12-04,Device for detecting magnetic pole position of permanent magnet-type synchronous motor
+    CN107612446B,2020-06-02,Built-in permanent magnet synchronous motor model prediction torque control method
+    JP2007525137A,2007-08-30,Position sensorless control algorithm for AC machines
+    US20130093372A1,2013-04-18,Method and system estimating rotor angle of an electric machine
+    JP5634620B2,2014-12-03,Rotating machine control apparatus and inductance measuring method of rotating machine
+    US10340821B2,2019-07-02,Rotor flux angle and torque trajectory control apparatus and methods
+    DE102010038560A1,2011-04-14,Temperature estimation for an electric motor stator winding
+    EP3537601B1,2020-09-09,Motor control method
+    CN110112974B,2020-10-23,Motor control method, controller, storage medium, and motor drive system
+    US8754603B2,2014-06-17,Methods, systems and apparatus for reducing power loss in an electric motor drive system
+    JP6207953B2,2017-10-04,Power conversion device and power conversion method
+    JP5637155B2,2014-12-10,Motor control device and motor control method
+    DE102013205962A1,2013-10-24,Methods, systems and apparatus for generating voltage commands used to control the operation of a permanent magnet machine
+    CN111769776A,2020-10-13,Current reconstruction system and method for hub motor controller
+    US20230026306A1,2023-01-26,Control of a regenerative brake for a motor system and related systems, methods, and devices
+    JP2012138982A,2012-07-19,Motor controller and electric apparatus
+    CN115514279A,2022-12-23,Motor pulse width modulation optimization driving method and system
+    CN113687126A,2021-11-23,Single-resistor current sampling method and device
+    CN113315440A,2021-08-27,Permanent magnet synchronous motor model-free prediction current control method based on current difference full update
+    CN115398794A,2022-11-25,Motor control device, motor system, and motor control method
+    CN107528517B,2020-04-14,Method for controlling rotating electric machine
+    JP2007082380A,2007-03-29,Synchronous motor control device
+    JP2003111490A,2003-04-11,Method and apparatus of controlling inverter
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US17/814,171,2021-07-21,2022-07-21,Control of a regenerative brake for a motor system and related systems, methods, and devices
+
+inventor_number
+    4
+classfication_nums
+    12
+classfication_items
+71
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,2
+    B,6,0,L,1,5,/,0,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,2
+    B,6,0,L,1,5,/,0,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,4,5
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,1,/,0,0
+    H,0,2,P,2,1,/,1,3
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,1,/,0,0
+    H,0,2,P,2,1,/,1,4
+    H,0,2,P,2,1,/,1,8
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,1,/,0,0
+    H,0,2,P,2,1,/,2,2
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,1,/,0,0
+    H,0,2,P,2,1,/,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,9
+
+application_events
+5
+    2022-07-21,Application filed by Microchip Technology Inc
+    2022-07-21,Priority to US17/814,171
+    2022-07-21,Assigned to MICROCHIP TECHNOLOGY INCORPORATED
+    2023-01-26,Publication of US20230026306A1
+    Status,Pending
+
+active_area
+1
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    US202163203412P,2021-07-21,
+    US17/814,171,2022-07-21,Control of a regenerative brake for a motor system and related systems, methods, and devices
+
+legal_event
+3
+    Date,Code,Title,Description
+    2022-07-21,AS,Assignment,Owner name: MICROCHIP TECHNOLOGY INCORPORATED, ARIZONAFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:OPREA, SERGIU;ROSU-HAMZESCU, MIHNEA;DRACEA, MARIUS;REEL/FRAME:060585/0307Effective date: 20220721
+    2022-11-27,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+

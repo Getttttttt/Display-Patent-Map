@@ -1,0 +1,331 @@
+ID
+    US10675985B2
+citation_exist
+    Patent Citations (20)
+citation_infor
+22
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20020022927A1                      *,1993-08-11,2002-02-21,Lemelson Jerome H.,GPS vehicle collision avoidance warning and control system and method
+    JP2011019379A,2009-07-10,2011-01-27,Toyota Motor Corp,Fuel cell system and vehicle equipped with the same
+    JP2013099081A,2011-10-31,2013-05-20,Denso Corp,Fuel cell system
+    US20140244096A1                      *,2013-02-27,2014-08-28,Electronics And Telecommunications Research Institute,Apparatus and method for cooperative autonomous driving between vehicle and driver
+    US9216639B2                      *,2012-01-05,2015-12-22,Toyota Jidosha Kabushiki Kaisha,Control device for vehicle
+    US20160026180A1                      *,2014-07-28,2016-01-28,GM Global Technology Operations LLC,Crowd-sourced transfer-of-control policy for automated vehicles
+    JP2017135860A,2016-01-28,2017-08-03,トヨタ自動車株式会社,Fuel cell system
+    US20170297586A1                      *,2016-04-13,2017-10-19,Toyota Motor Engineering & Manufacturing North America, Inc.,System and method for driver preferences for autonomous vehicles
+    US10065506B2                      *,2014-01-31,2018-09-04,Toyota Jidosha Kabushiki Kaisha,Hybrid brake control
+    US10196055B2                      *,2016-05-20,2019-02-05,Honda Motor Co., Ltd.,Control of internal combustion engine and rotating electrical machine for vehicle
+    US10228698B2                      *,2016-05-02,2019-03-12,Honda Motor Co., Ltd.,Vehicle control system, vehicle control method, and vehicle control program
+    US10324464B2                      *,2016-05-10,2019-06-18,Honda Motor Co., Ltd.,Vehicle control system, vehicle control method, and vehicle control program
+    Family To Family Citations,,,,
+    JP3255012B2                      *,1996-05-02,2002-02-12,トヨタ自動車株式会社,Hybrid car
+    JP2002058111A                      *,2000-08-10,2002-02-22,Mitsubishi Electric Corp,Generation controller for hybrid electric vehicle
+    JP2004072895A                      *,2002-08-06,2004-03-04,Nissan Motor Co Ltd,Controller for fuel cell powered vehicle
+    JP4010257B2,2003-02-14,2007-11-21,トヨタ自動車株式会社,Electric vehicle and control method thereof
+    JP2008193772A                      *,2007-02-01,2008-08-21,Toyota Motor Corp,Electric automobile and controller and control method of same
+    JP5308268B2,2009-08-05,2013-10-09,本田技研工業株式会社,Power supply system
+    JP6168031B2                      *,2014-11-14,2017-07-26,トヨタ自動車株式会社,vehicle
+    JP2018032580A,2016-08-26,2018-03-01,トヨタ自動車株式会社,Fuel cell system
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (11)
+              
+
+
+citedBy_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    US10807598B2                      *,2018-08-07,2020-10-20,Toyota Jidosha Kabushiki Kaisha,Braking force control device
+    US11643086B2,2017-12-18,2023-05-09,Plusai, Inc.,Method and system for human-like vehicle control prediction in autonomous driving vehicles
+    US11650586B2,2017-12-18,2023-05-16,Plusai, Inc.,Method and system for adaptive motion planning based on passenger reaction to vehicle motion in autonomous driving vehicles
+    Family To Family Citations,,,,
+    JP7160013B2                      *,2019-10-08,2022-10-25,トヨタ自動車株式会社,Fuel cell system installed in a vehicle
+    JP7302502B2,2020-02-25,2023-07-04,トヨタ自動車株式会社,FUEL CELL SYSTEM AND METHOD OF CONTROLLING FUEL CELL SYSTEM
+    JP2021136814A                      *,2020-02-28,2021-09-13,株式会社シマノ,Man-power drive vehicle control device
+    JP7347325B2                      *,2020-05-22,2023-09-20,トヨタ自動車株式会社,vehicle
+    CN112356678B                      *,2020-11-10,2022-04-19,长城汽车股份有限公司,Method and device for acquiring coasting torque, storage medium and computer program
+    CN112590569A                      *,2020-12-17,2021-04-02,武汉格罗夫氢能汽车有限公司,Energy management method and system for parallel fuel cell and super capacitor
+    CN113752919B                      *,2021-08-24,2023-08-08,东风汽车集团股份有限公司,Fuel cell automobile energy distribution method and system
+    GB2617698A                      *,2022-04-11,2023-10-18,Hydrogen Vehicle Systems Ltd,A system for the optimization of powertrain subsystems to account for cargo load variations in a hybrid electric vehicle
+
+abstract
+    A fuel cell system mounted on a vehicle includes a drive motor generating a driving force and regenerative power; an auxiliary machine consuming the regenerative power; and a controller. The controller determines that the vehicle is in a first state when the vehicle has a negative vehicle speed, a move forward request is given to the vehicle and an accelerator pedal is depressed or when the vehicle has a positive vehicle speed, the move backward request is given to the vehicle and the accelerator pedal is depressed. When a predetermined first condition including a condition that the vehicle is in the first state is satisfied, the controller performs an auxiliary machine consumption process that causes the auxiliary machine to consume the regenerative power that includes a required power for the drive motor calculated by using a depression amount of the accelerator pedal.
+title
+    Fuel cell system mounted on vehicle and control method thereof
+similar_document
+26
+    Publication,Publication Date,Title
+    US10675985B2,2020-06-09,Fuel cell system mounted on vehicle and control method thereof
+    CN101443978B,2012-05-23,Charge/discharge control device and charge/discharge control method for power storage device, and electric-powered vehicle
+    JP4751854B2,2011-08-17,Vehicle control device, control method, program for realizing the method, and recording medium recording the program
+    US8886479B2,2014-11-11,Charge state detecting device for battery pack and method for detecting charge state
+    US10239530B2,2019-03-26,Vehicle control apparatus for a regenerative braking system based on the battery input power
+    JP2017135860A,2017-08-03,Fuel cell system
+    JP5419745B2,2014-02-19,Series hybrid vehicle control system
+    JP2013106457A,2013-05-30,Output characteristic control method
+    JP5772209B2,2015-09-02,Charge / discharge control device for power storage device and electric vehicle equipped with the same
+    JP5450238B2,2014-03-26,Electric vehicle
+    JP2010268639A,2010-11-25,Vehicle controller
+    JP2018103930A,2018-07-05,Hybrid vehicle controller
+    KR101392141B1,2014-05-07,Power control apparatus of hybrid forklift
+    US11634038B2,2023-04-25,Fuel cell system installed in vehicle
+    JP2019161922A,2019-09-19,Vehicle comprising power generator and method for control of power generation of on-vehicle power generator
+    JP2019087496A,2019-06-06,Cell system
+    JP2022063117A,2022-04-21,Regenerative control method and regenerative control device
+    JP2013038977A,2013-02-21,Method for evaluating life of battery
+    US20220297571A1,2022-09-22,Vehicle control device, vehicle control method, and storage medium
+    JP5699841B2,2015-04-15,Hybrid car
+    US20220297666A1,2022-09-22,Vehicle control device, vehicle control method, and storage medium
+    US20220402368A1,2022-12-22,Brake control apparatus
+    JP2023047001A,2023-04-05,Electric vehicle
+    JP2006071635A,2006-03-16,Controlling battery charge status apparatus for
+    JP2003333701A,2003-11-21,Motor controller
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    32
+classfication_items
+198
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B,6,0,L,1,5,/,2,0,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,7,2
+    B,6,0,L,1,5,/,2,0,8,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,7,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,3,0
+    B,6,0,L,5,8,/,3,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,5
+    B,6,0,T,1,3,/,5,8,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,6,6
+    B,6,0,T,1,3,/,6,6,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,0,2
+    B,6,0,T,7,/,0,4
+    B,6,0,T,7,/,0,4,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,2,1
+    B,6,0,T,8,/,3,2,5,5
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,1,/,0,0
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,6,/,0,0
+    H,0,1,M,1,6,/,0,0,3
+    H,0,1,M,1,6,/,0,0,6
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,2,3
+    H,0,1,M,8,/,0,4,2,6,8
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,9,8
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,9,8
+    H,0,1,M,8,/,0,4,3,1,3
+    H,0,1,M,8,/,0,4,5,3,7
+    H,0,1,M,8,/,0,4,5,4,4
+    H,0,1,M,8,/,0,4,5,5,9
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,9,8
+    H,0,1,M,8,/,0,4,6,9,4
+    H,0,1,M,8,/,0,4,8,5,8
+    H,0,1,M,8,/,0,4,8,6,5
+    H,0,1,M,8,/,0,4,8,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B,6,0,L,2,2,1,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,2,0,/,0,0
+    B,6,0,T,2,2,2,0,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,2,2,2,0,/,0,0
+    H,0,1,M,2,2,2,0,/,2,0
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,2,2,5,0,/,0,0
+    H,0,1,M,2,2,5,0,/,2,0
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+
+application_events
+7
+    2019-02-27,Application filed by Toyota Motor Corp
+    2019-02-27,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2019-09-12,Publication of US20190275899A1
+    2020-06-09,Application granted
+    2020-06-09,Publication of US10675985B2
+    Status,Active
+    2039-02-27,Anticipated expiration
+
+active_area
+3
+    J,P
+    U,S
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2018-040572,2018-03-07,
+    JP2018040572A,2018-03-07,Fuel cell system installed in a vehicle
+
+legal_event
+6
+    Date,Code,Title,Description
+    2019-02-27,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:MATSUO, JUNICHI;REEL/FRAME:048458/0153Effective date: 20181220
+    2019-02-27,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2020-01-21,STPP,Information on status: patent application and granting procedure in general,Free format text: EX PARTE QUAYLE ACTION MAILED
+    2020-02-24,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO EX PARTE QUAYLE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2020-05-20,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

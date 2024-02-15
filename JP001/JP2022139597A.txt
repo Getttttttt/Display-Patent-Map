@@ -1,0 +1,190 @@
+ID
+    JP2022139597A
+citation_exist
+    Patent Citations (9)
+citation_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP5376045B2                      *,2011-04-25,2013-12-25,トヨタ自動車株式会社,電池パック
+    CN103608994B                      *,2011-06-10,2016-08-03,日立汽车系统株式会社,电池控制装置、电池系统
+    US20150042284A1                      *,2011-09-21,2015-02-12,Toyota Jidosha Kabushiki Kaisha,Control apparatus for vehicle battery and control method for vehicle battery
+    JP5830449B2                      *,2012-08-30,2015-12-09,日立オートモティブシステムズ株式会社,電動車駆動システム
+    JP6466409B2                      *,2014-03-31,2019-02-06,住友建機株式会社,ショベル
+    US9923372B2                      *,2015-03-26,2018-03-20,Toyota Motor Engineering & Manufacturing North America, Inc.,Energy management system
+    CN107972498A                      *,2016-10-21,2018-05-01,蔚来汽车有限公司,用于电动交通工具的功率分配方法及系统
+    JP7059634B2,2018-01-10,2022-04-26,トヨタ自動車株式会社,電源システム
+    US11299063B2                      *,2020-02-12,2022-04-12,GM Global Technology Operations LLC,Method and apparatus for controlling electric power flow in a battery system
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    【課題】蓄電装置の循環電流に起因する電力損失を低減可能な車両を提供する。【解決手段】車両１００は、モータジェネレータＭＧと、バッテリＢ１と、ＰＣＵ１８と、制御装置３０とを備える。モータジェネレータＭＧは、発電するように構成される。バッテリＢ１は、モータジェネレータＭＧにより発電される電力を蓄電するように構成される。ＰＣＵ１８は、バッテリＢ１およびモータジェネレータＭＧに電気的に接続され、モータジェネレータＭＧを駆動する。制御装置３０は、ＰＣＵ１８へ流れることなくバッテリＢ１の内部でまたはバッテリＢ１の内部と外部との間で循環する循環電流が発生した場合に、循環電流が発生していない場合よりもモータジェネレータＭＧの発電量を抑制するようにＰＣＵ１８を制御する。【選択図】図１
+title
+    車両
+similar_document
+26
+    Publication,Publication Date,Title
+    US7486036B2,2009-02-03,Power control apparatus, electrically powered vehicle and power control method of power system
+    US8220574B2,2012-07-17,Inverter control device and vehicle
+    KR101135314B1,2012-04-17,2차 전지 승온 제어 장치 및 이를 구비한 차량과, 2차 전지 승온 제어 방법
+    US10189358B2,2019-01-29,Power supply device
+    US8760097B2,2014-06-24,Control device for converter and electrically powered vehicle provided with the same
+    US20130343105A1,2013-12-26,Inverter overheating protection control apparatus and inverter overheating protection control method
+    US9987947B2,2018-06-05,Power supply apparatus of vehicle
+    US10530287B2,2020-01-07,Electric power adjustment system and control method for electric power adjustment system
+    JP2011122835A,2011-06-23,蓄電装置の内部抵抗推定装置、蓄電装置の劣化判定装置、および電源システム
+    JP2008306823A,2008-12-18,車両の電源装置
+    JP2012065425A,2012-03-29,インバータ装置及びインバータ制御方法
+    US9680404B2,2017-06-13,Abnormality detection apparatus and abnormality detection method
+    JP7059621B2,2022-04-26,燃料電池システムおよび燃料電池システムの制御方法
+    US20160276823A1,2016-09-22,Power supply system
+    US9623757B2,2017-04-18,Vehicle and electric power supply device for vehicle
+    JP6228620B2,2017-11-08,電力供給システム
+    US11427179B2,2022-08-30,Power supply system
+    US9694696B2,2017-07-04,Power supply device of vehicle
+    JP2015084624A,2015-04-30,車両制御装置
+    JP2009254206A,2009-10-29,電源制御システム
+    JP2020195215A,2020-12-03,電源システム
+    JP2011087406A,2011-04-28,電動車両
+    JP2022139597A,2022-09-26,車両
+    JP2018133247A,2018-08-23,燃料電池システム
+    JP2011182515A,2011-09-15,電動機駆動システムおよびそれを備える電動車両
+
+patent_application
+    NoExist
+patent_priority_application
+5
+    Application,Priority date,Filing date,Title
+    JP2021040057A,2021-03-12,2021-03-12,車両
+    CN202210154588.0A,2021-03-12,2022-02-21,车辆
+    EP22159526.7A,2021-03-12,2022-03-01,Vehicle
+    US17/683,770,2021-03-12,2022-03-01,Vehicle
+
+inventor_number
+    8
+classfication_nums
+    13
+classfication_items
+84
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,1,4
+    H,0,2,J,7,/,1,4,6,9
+    H,0,2,J,7,/,1,4,9,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,6,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,2
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,0,0,4,8
+    H,0,2,M,1,/,0,0,5,4
+    H,0,2,M,1,/,0,0,5,8
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H,0,2,M,3,/,2,2
+    H,0,2,M,3,/,2,4
+    H,0,2,M,3,/,2,8
+    H,0,2,M,3,/,3,2,5
+    H,0,2,M,3,/,3,3,5
+    H,0,2,M,3,/,3,3,5,6,9
+    H,0,2,M,3,/,3,3,5,7,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+
+application_events
+7
+    2021-03-12,Application filed by Toyota Motor Corp
+    2021-03-12,Priority to JP2021040057A
+    2022-02-21,Priority to CN202210154588.0A
+    2022-03-01,Priority to EP22159526.7A
+    2022-03-01,Priority to US17/683,770
+    2022-09-26,Publication of JP2022139597A
+    Status,Pending
+
+active_area
+4
+    J,P
+    C,N
+    E,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2021040057A,2021-03-12,車両
+
+legal_event
+2
+    Date,Code,Title,Description
+    2023-09-12,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20230912
+

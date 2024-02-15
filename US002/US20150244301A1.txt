@@ -1,0 +1,287 @@
+ID
+    US20150244301A1
+citation_exist
+    Patent Citations (9)
+citation_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    US4475631A                      *,1981-08-25,1984-10-09,Mitsubishi Denki Kabushiki Kaisha,AC Elevator control system
+    US20090021200A1                      *,2006-04-24,2009-01-22,Toyota Jidosha Kabushiki Kaisha,Load Driving Apparatus, Vehicle Incorporating the Same, and Control Method for Load Driving Apparatus
+    US20130249469A1                      *,2012-03-21,2013-09-26,Majid Pahlevaninezhad,Input power controller for ac/dc battery charging
+    Family To Family Citations,,,,
+    JP4396644B2                      *,2006-01-31,2010-01-13,トヨタ自動車株式会社,Start control device for internal combustion engine
+    CN101641760A                      *,2007-04-04,2010-02-03,库帕技术公司,System and method for boosting battery output
+    US7579792B2                      *,2007-04-23,2009-08-25,Gm Global Technology Operations, Inc.,Hybrid motor boost system and methods
+    JP5126630B2                      *,2009-06-02,2013-01-23,本田技研工業株式会社,Control device for load drive system
+    US8378623B2                      *,2010-11-05,2013-02-19,General Electric Company,Apparatus and method for charging an electric vehicle
+    JP5645083B2,2011-06-28,2014-12-24,アイシン・エィ・ダブリュ株式会社,Rotating electrical machine control device
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (9)
+              
+
+
+citedBy_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20160380563A1                      *,2015-06-26,2016-12-29,Denso Corporation,Power conversion control apparatus
+    US20170118858A1                      *,2015-10-23,2017-04-27,Delta Electronics, Inc.,Integrated power module packaging structure
+    US20180162379A1                      *,2016-12-09,2018-06-14,Toyota Jidosha Kabushiki Kaisha,Drive device, vehicle, and control method for drive device
+    CN108521848A                      *,2015-10-30,2018-09-11,施密徳豪泽股份公司,Network-feedback unit and power drive system
+    US10137790B2,2017-02-17,2018-11-27,Ford Global Technologies, Llc,System and method for noise reduction in electrified vehicle powertrain with multi-three-phase electric drive
+    US20180351486A1                      *,2017-06-01,2018-12-06,Mitsubishi Electric Corporation,Synchromous machine control device and method of controlling the synchronous machine control device
+    US10374503B2                      *,2015-02-16,2019-08-06,Mitsubishi Electric Corporation,Power conversion device
+    CN115158037A                      *,2022-09-06,2022-10-11,中国重汽集团济南动力有限公司,Torque distribution method and system for four-wheel drive motor of electric vehicle
+    Family To Family Citations,,,,
+    CN111731152B                      *,2020-06-28,2021-10-29,中国第一汽车股份有限公司,Power control method, device, vehicle and storage medium
+
+abstract
+    A hybrid vehicle includes a battery, a boosting converter, first and second inverters, a first inverter connected to the first inverter, a second motor generator connected to the second inverter, and a control unit configured to start and suspend the boosting converter. The control unit increases one or both of carrier frequencies Fc1, Fc2 of the first and second inverters as a real boost voltage VHr increases during a suspended state of the boosting converter. The control unit decreases one or both of the carrier frequencies of the first and second inverters as real boost voltage VHr decreases during a suspended state of the boosting converter. System efficiency of an electric vehicle can be improved effectively by increasing the suspension time of the boosting converter, while securing drivability of the vehicle.
+title
+    Electric vehicle and control method therefor
+similar_document
+26
+    Publication,Publication Date,Title
+    US9531315B2,2016-12-27,Electric vehicle and control method therefor
+    US9272704B2,2016-03-01,Hybrid vehicle having boost converter and control method of a hybrid vehicle having a boost converter
+    US7750505B2,2010-07-06,Power supply system and vehicle
+    JP4513907B2,2010-07-28,Hybrid vehicle
+    US8297391B2,2012-10-30,Power supply system, vehicle provided with the same, power supply system control method and computer-readable recording medium bearing program for causing computer to control the power supply system
+    US20090315518A1,2009-12-24,Power supply device and vehicle
+    US9744876B2,2017-08-29,Electric vehicle
+    JP5900522B2,2016-04-06,Vehicle power supply
+    US7598689B2,2009-10-06,Motor drive apparatus
+    JP2006238686A,2006-09-07,Double-ended inverter drive system topology for hybrid vehicle
+    JP2006211891A,2006-08-10,Method of controlling integrated power in double-ended inverter drive system for hybrid vehicle
+    WO2007126038A1,2007-11-08,Load drive device, vehicle using the same, and load drive device control method
+    JP2005210779A,2005-08-04,Power unit and automobile mounted therewith
+    JP2008017677A,2008-01-24,Power supply system and vehicle equipped with that power supply system
+    US20110068740A1,2011-03-24,Power supply system for vehicle, electric vehicle having the same, and method of controlling power supply system for vehicle
+    US9868448B2,2018-01-16,Hybrid vehicle
+    US9428079B2,2016-08-30,Electric vehicle
+    US20150120120A1,2015-04-30,Electric drive vehicle
+    JP4915273B2,2012-04-11,Electrical device and method for controlling electrical device
+    JP4735045B2,2011-07-27,Electric motor control device
+    US9035489B2,2015-05-19,Control apparatus and control method for vehicle
+    CN112334374B,2023-07-28,Drive control device and railway vehicle drive device
+    WO2018003334A1,2018-01-04,Charging control device, charging control program, and storage medium
+    JP2017105240A,2017-06-15,Hybrid vehicle
+    US7932629B2,2011-04-26,Method for controlling a generation of an alternating current in a vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    29
+classfication_items
+167
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,7,/,0,0
+    H,0,2,P,2,7,/,0,4
+    H,0,2,P,2,7,/,0,6
+    B,6,0,L,1,1,/,1,8,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,5,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H,0,2,P,2,3,/,0,0,9,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B,6,0,L,2,2,1,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,8,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,5,/,0,0
+    H,0,2,P,5,/,7,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+8
+    2015-02-19,Application filed by Toyota Motor Corp
+    2015-03-13,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2015-08-27,Publication of US20150244301A1
+    2016-12-27,Application granted
+    2016-12-27,Publication of US9531315B2
+    2020-04-01,Assigned to DENSO CORPORATION
+    Status,Active
+    2035-02-19,Anticipated expiration
+
+active_area
+3
+    J,P
+    C,N
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2014032286A,2014-02-21,Electric vehicle
+    JP2014-032286,2014-02-21,
+
+legal_event
+5
+    Date,Code,Title,Description
+    2015-03-13,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:SATO, RYOJI;REEL/FRAME:035165/0324Effective date: 20150108
+    2016-12-07,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2020-04-01,AS,Assignment,Owner name: DENSO CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:TOYOTA JIDOSHA KABUSHIKI KAISHA (AKA TOYOTA MOTOR CORPORATION);REEL/FRAME:052280/0207Effective date: 20191224
+    2020-06-17,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

@@ -1,0 +1,243 @@
+ID
+    US20120119683A1
+citation_exist
+    Patent Citations (17)
+citation_infor
+19
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20100181829A1                      *,2007-07-24,2010-07-22,Toyota Jidosha Kabushiki Kaisha,Power supply system and electric powered vehicle including power supply system, and method for controlling power supply system
+    US7764044B2                      *,2004-08-04,2010-07-27,Toyota Jidosha Kabushiki Kaisha,Motor driving apparatus capable of driving motor with reliability
+    US20100242481A1                      *,2007-12-04,2010-09-30,Toyota Jidosha Kabushiki Kaisha,Drive apparatus, and drive-force output system having drive apparatus, and method for controlling the drive apparatus
+    US8274173B2                      *,2008-12-02,2012-09-25,General Electric Company,Auxiliary drive apparatus and method of manufacturing same
+    US8400100B2                      *,2009-07-17,2013-03-19,Fuji Electric Co., Ltd.,Electric power converter
+    Family To Family Citations,,,,
+    CA1153770A,1978-07-20,1983-09-13,Salvatore J. Monte,Cumylphenol derivatives
+    JPH0448787A,1990-06-15,1992-02-18,Nec Corp,Reflection-type optical semiconductor sensor
+    JP3524661B2,1995-12-08,2004-05-10,本田技研工業株式会社,Power control device for electric vehicle
+    EP1414145B1,2001-08-02,2019-12-25,Toyota Jidosha Kabushiki Kaisha,Motor drive control apparatus
+    US6917179B2                      *,2001-10-25,2005-07-12,Toyota Jidosha Kabushiki Kaisha,Load driver and control method for safely driving DC load and computer-readable recording medium with program recorded thereon for allowing computer to execute the control
+    JP3879528B2,2002-02-14,2007-02-14,トヨタ自動車株式会社,Voltage converter
+    JP4048787B2                      *,2002-01-30,2008-02-20,トヨタ自動車株式会社,Load drive device
+    JP4193704B2                      *,2004-01-20,2008-12-10,トヨタ自動車株式会社,Power supply device and automobile equipped with the same
+    JP4245624B2,2006-09-20,2009-03-25,トヨタ自動車株式会社,Power supply control device and power supply control method for hybrid vehicle
+    JP2008125160A                      *,2006-11-08,2008-05-29,Toyota Motor Corp,Power supply apparatus, vehicle equipped with same, and control method of same
+    JP4315232B1                      *,2008-03-17,2009-08-19,トヨタ自動車株式会社,Electric vehicle
+    JP2009254209A                      *,2008-04-10,2009-10-29,Toyota Motor Corp,Power supply control system
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (9)
+              
+
+
+citedBy_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    US8862319B2                      *,2012-09-13,2014-10-14,Hyundai Motor Company,Over-current damage prevention method and apparatus for subsidiary inverter of electric bus
+    WO2014160738A3                      *,2013-03-27,2015-01-15,Abb Technology Ag,Drive inverter shared by different motors in a vehicle
+    US11351885B2                      *,2018-04-20,2022-06-07,Siemens Aktiengesellschaft,Charging infrastructure unit, and charging infrastructure having a charging power option
+    Family To Family Citations,,,,
+    JP5847022B2                      *,2012-06-11,2016-01-20,三菱電機株式会社,Air conditioner and interleave control method thereof
+    CN104118331B                      *,2013-04-28,2016-08-10,西门子公司,Motor of hybrid power automobile drive circuit
+    JP6240407B2                      *,2013-05-16,2017-11-29,日本車輌製造株式会社,Battery powered carrier
+    CN105501065B                      *,2014-09-26,2018-01-09,中车大连电力牵引研发中心有限公司,Railcar auxiliary power supply system
+    CN107809162B                      *,2016-08-29,2019-11-05,台达电子企业管理（上海）有限公司,Converter series-parallel system and its control method
+    DE112022000581T5,2021-03-22,2023-10-26,Fanuc Corporation,Engine control device
+
+abstract
+    The present invention provides a power supply device for an electric vehicle that allows highly efficient operation of a compressor inverter. A power supply device for motor vehicle 10 has: a main circuit 13 having a power source 11, a DC-DC converter 18, and a main inverter 17 that drives a main motor 12; an auxiliary circuit 15 having an auxiliary inverter 19 that drives an auxiliary motor 14, a first electrical circuit 23 that is connected to the main circuit 13 on a primary side of the DC-DC converter 18, a second electrical circuit 24 that is connected to the main circuit 13 on a secondary side of the DC-DC converter 18, and a connection circuit 30 configured to be capable of selecting one of the first electrical circuit 23 and the second electrical circuit 24 as a path for supplying a direct current voltage to the auxiliary inverter 19; and a control device 16 that controls the connection circuit 30 when the main motor 12 is in power running operation so that switching between the first electrical circuit 23 and the second electrical circuit 24 is performed corresponding to a required voltage of the auxiliary inverter 19.
+title
+    Power supply device for electric vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US8736218B2,2014-05-27,Power supply device for electric vehicle
+    EP2689944B1,2019-10-09,Refrigeration system for transportation
+    US9315112B2,2016-04-19,Power source apparatus for electrically powered vehicle and control method therefor
+    US8963482B2,2015-02-24,Power supply apparatus for electrically powered vehicle and method for controlling the same
+    JP5460727B2,2014-04-02,Vehicle power supply system
+    US20180198399A1,2018-07-12,Dc to dc converter sourcing variable dc link voltage
+    US20130106365A1,2013-05-02,Electric motored vehicle and method for controlling electrically charging the same
+    US20190031125A1,2019-01-31,Electric system architecture for range extended electric vehicles
+    US20120193913A1,2012-08-02,control device for an electric machine and method for the operation thereof
+    US20120098507A1,2012-04-26,Converter control device
+    US10875418B2,2020-12-29,Charge control apparatus and system
+    JP2013504988A,2013-02-07,Fuel cell system cold start method and automobile fuel cell system
+    US7675192B2,2010-03-09,Active DC bus filter for fuel cell applications
+    US10933762B2,2021-03-02,DC/DC conversion unit
+    JP7290965B2,2023-06-14,Electric vehicle power supply system
+    US9912025B2,2018-03-06,Usage of regenerative brake power for system restart in start-stop operation of fuel cell hybrid vehicles
+    US20100321968A1,2010-12-23,Load fault handling for switched reluctance or induction type machines
+    JP4950162B2,2012-06-13,Vehicle power supply
+    US11046191B2,2021-06-29,Drive system and drive control method
+    KR102435344B1,2022-08-23,Battery system of eco-friendly vehicle and method for controlling the same
+    JP5391677B2,2014-01-15,Heat pump type air conditioner outdoor unit
+    KR101686864B1,2016-12-16,Dual Battery Package
+    KR101835742B1,2018-03-07,Dual Battery Package and Operating Method of the Same
+    JP6787271B2,2020-11-18,Power system
+    JP2021052575A,2021-04-01,Electric power system
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    19
+classfication_items
+113
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,1,/,0,0
+    H,0,2,J,1,/,1,0
+    B
+    B,6,0
+    B,6,0,H
+    B,6,0,H,1,/,0,0
+    B,6,0,H,1,/,0,0,6,4,2
+    B,6,0,H,1,/,0,0,7,3,5
+    B,6,0,H,1,/,0,0,7,6,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,7,/,0,0
+    H,0,2,P,2,7,/,0,4
+    H,0,2,P,2,7,/,0,6
+    H,0,2,P,2,7,/,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,3,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,2,3,1,0,/,0,0
+    H,0,2,J,2,3,1,0,/,4,0
+    H,0,2,J,2,3,1,0,/,4,8
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,2,0,1,/,0,0
+    H,0,2,P,2,2,0,1,/,0,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2011-06-20,Application filed by Panasonic Corp
+    2012-04-04,Assigned to PANASONIC CORPORATION
+    2012-05-17,Publication of US20120119683A1
+    2014-05-27,Application granted
+    2014-05-27,Publication of US8736218B2
+    Status,Active
+    2032-05-26,Adjusted expiration
+
+active_area
+5
+    E,P
+    U,S
+    W,O
+    J,P
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2010-143300,2010-06-24,
+    JP2010143300,2010-06-24,
+    PCT/JP2011/003493,2011-06-20,Power supplying apparatus for electric vehicle
+
+legal_event
+5
+    Date,Code,Title,Description
+    2012-04-04,AS,Assignment,Owner name: PANASONIC CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:MATSUYAMA, TETSUYA;REEL/FRAME:027983/0165Effective date: 20111207
+    2014-05-07,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2017-10-19,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551)Year of fee payment: 4
+    2021-11-03,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+

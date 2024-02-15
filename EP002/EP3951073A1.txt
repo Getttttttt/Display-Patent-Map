@@ -1,0 +1,249 @@
+ID
+    EP3951073A1
+citation_exist
+    Patent Citations (10)
+citation_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US6092454A                      *,1998-07-23,2000-07-25,Caterpillar Inc.,Controlled float circuit for an actuator
+    US6892535B2                      *,2002-06-14,2005-05-17,Volvo Construction Equipment Holding Sweden Ab,Hydraulic circuit for boom cylinder combination having float function
+    DE102005038333A1                      *,2005-08-11,2007-02-15,Deere & Company, Moline,Hydraulic arrangement
+    JP2009250361A                      *,2008-04-07,2009-10-29,Sumitomo (Shi) Construction Machinery Co Ltd,Circuit for regenerating hydraulic cylinder operating pressure
+    KR101500744B1                      *,2008-11-19,2015-03-09,두산인프라코어 주식회사,Boom cylinder control circuit for construction machinery
+    WO2014208795A1                      *,2013-06-28,2014-12-31,볼보 컨스트럭션 이큅먼트 에이비,Hydraulic circuit for construction machinery having floating function and method for controlling floating function
+    WO2015037760A1                      *,2013-09-13,2015-03-19,볼보 컨스트럭션 이큅먼트 에이비,Construction machine float valve
+    EP3064654A4                      *,2013-10-31,2017-06-28,Volvo Construction Equipment AB,Flow control valve for construction equipment, having floating function
+    CN106574647B                      *,2015-03-16,2018-07-03,日立建机株式会社,Engineering machinery
+    WO2016195374A1                      *,2015-06-02,2016-12-08,두산인프라코어 주식회사,Hydraulic system of construction machine
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    KR20220154496A                      *,2021-05-13,2022-11-22,볼보 컨스트럭션 이큅먼트 에이비,Hydraulic machine
+    KR20220154485A                      *,2021-05-13,2022-11-22,볼보 컨스트럭션 이큅먼트 에이비,Hydraulic machine
+    KR20230097744A                      *,2021-12-24,2023-07-03,볼보 컨스트럭션 이큅먼트 에이비,Hydraulic machine
+
+abstract
+    A hydraulic machine comprises: a tank (101); a working device including a boom; a boom cylinder which operates the boom and has a large chamber (313a) and a small chamber (313b); a floating hydraulic circuit connected to the large chamber (313a), the small chamber (313b), and the tank (101) so as to perform a floating function which enables the large chamber (313a), the small chamber (313b), and the tank (101) to communicate with each other; and an operator input device for receiving, from a driver, a request for turning on or turning off the floating hydraulic circuit. In the case of a boom down operation for lowering the boom, it is determined whether the working device floats in the air, and when it is determined that the working device floats in the air, the floating hydraulic circuit can be turned off, even if the request for turning on the floating hydraulic circuit is input to the operator input device. In some embodiments, when a value (the pressure of the large chamber (313a) - the pressure of the small chamber (313b)/(a valid area to which the pressure of the large chamber (313a) is applied/a valid area to which the pressure of the small chamber (313b) is applied)) is greater than a preset value, it may be determined that the working device floats in the air. In some alternative embodiments, when the value of the pressure of the large chamber (313a) is greater than the preset value, it may be determined that the working device floats in the air.
+title
+    Hydraulic machine
+similar_document
+26
+    Publication,Publication Date,Title
+    CN105714873B,2017-11-07,excavator hydraulic control system and control method
+    EP3951073A1,2022-02-09,Hydraulic machine
+    EP3106677B1,2019-05-15,Hydraulic drive appraratus for construction machine
+    CN102345303A,2012-02-08,Dual-arm engineering machine
+    US20140244118A1,2014-08-28,System for controlling land leveling work which uses an excavator
+    EP1388670B1,2010-01-13,Hydraulic driving unit
+    CN107882789B,2020-02-21,Electro-hydraulic system with negative flow control
+    JP2002115274A,2002-04-19,Attachment controller for hydraulic backhoe
+    US20200040547A1,2020-02-06,Work Machine
+    JPWO2018164238A1,2020-01-09,Excavator
+    JP2008019910A,2008-01-31,Hydraulic control system of working machine
+    US11802390B2,2023-10-31,Hydraulic machinery
+    JP2019052697A,2019-04-04,Drive device of construction machine
+    JP3788686B2,2006-06-21,Hydraulic drive control device
+    JP2003090302A,2003-03-28,Hydraulic control circuit of construction machine
+    EP4089288A1,2022-11-16,Hydraulic machine
+    JP2010190368A,2010-09-02,Hydraulic control device of construction machine
+    EP3951099A1,2022-02-09,Hydraulic machine
+    JPS58193906A,1983-11-11,Hydraulic circuit for construction machine
+    US20230085648A1,2023-03-23,Construction Machine
+    EP4089289A1,2022-11-16,Hydraulic machine
+    JPH11107328A,1999-04-20,Hydraulic control device for hydraulic shovel
+    CN110295642B,2021-09-14,Hydraulic drive device for construction machine
+    JP2023095796A,2023-07-06,hydraulic machine
+    JP2020056226A,2020-04-09,Driving system of hydraulic shovel
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    6
+classfication_nums
+    18
+classfication_items
+133
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,3,/,0,0
+    E,0,2,F,3,/,0,4
+    E,0,2,F,3,/,2,8
+    E,0,2,F,3,/,3,6
+    E,0,2,F,3,/,4,2
+    E,0,2,F,3,/,4,3
+    E,0,2,F,3,/,4,3,5
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,0,3
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,1,7
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,2,1
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,6,4
+    E,0,2,F,9,/,2,2,6,7
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,7,8
+    E,0,2,F,9,/,2,2,8,5
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,7,8
+    E,0,2,F,9,/,2,2,9,2
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,/,0,0
+    F,1,5,B,1,/,0,2
+    F,1,5,B,1,/,0,2,4
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F,1,5,B,1,1,/,0,2
+    F,1,5,B,1,1,/,0,2,4
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,1,/,0,0
+    F,1,5,B,2,1,/,1,4
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,/,0,0
+    F,1,5,B,1,/,0,2
+    F,1,5,B,1,/,0,2,7
+    F,1,5,B,1,/,0,3,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,3,0
+    F,1,5,B,2,2,1,1,/,3,0,5
+    F,1,5,B,2,2,1,1,/,3,0,5,6
+    F,1,5,B,2,2,1,1,/,3,0,5,6,5
+    F,1,5,B,2,2,1,1,/,3,0,5,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,0,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,4,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,6,5
+    F,1,5,B,2,2,1,1,/,6,6,5,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,0,5
+    F,1,5,B,2,2,1,1,/,7,0,5,1
+    F,1,5,B,2,2,1,1,/,7,0,5,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,0,5
+    F,1,5,B,2,2,1,1,/,7,0,5,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,6
+    F,1,5,B,2,2,1,1,/,7,6,1
+
+application_events
+4
+    2019-04-05,Application filed by Volvo Construction Equipment AB
+    2022-02-09,Publication of EP3951073A1
+    2022-12-07,Publication of EP3951073A4
+    Status,Pending
+
+active_area
+3
+    E,P
+    U,S
+    C,N
+
+not_active_area
+1
+    K,R
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/KR2019/004087,2019-04-05,Hydraulic machine
+
+legal_event
+10
+    Date,Code,Title,Description
+    2020-10-09,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE INTERNATIONAL PUBLICATION HAS BEEN MADE
+    2022-01-07,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2022-01-07,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+    2022-02-09,17P,Request for examination filed,Effective date: 20211005
+    2022-02-09,AK,Designated contracting states,Kind code of ref document: A1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2022-07-13,DAV,Request for validation of the european patent (deleted),
+    2022-07-13,DAX,Request for extension of the european patent (deleted),
+    2022-12-07,A4,Supplementary search report drawn up and despatched,Effective date: 20221104
+    2022-12-07,RIC1,Information provided on ipc code assigned before grant,Ipc: E02F   9/22        20060101ALI20221028BHEPIpc: E02F   3/43        20060101AFI20221028BHEP
+

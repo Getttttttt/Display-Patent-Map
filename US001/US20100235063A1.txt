@@ -1,0 +1,274 @@
+ID
+    US20100235063A1
+citation_exist
+    Patent Citations (7)
+citation_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP3390475B2                      *,1992-12-25,2003-03-24,マツダ株式会社,Vehicle drive system
+    JP3541646B2                      *,1997-10-13,2004-07-14,トヨタ自動車株式会社,Braking force control device
+    JP3541645B2                      *,1997-10-13,2004-07-14,トヨタ自動車株式会社,Braking force control device
+    JP3995835B2                      *,1999-07-12,2007-10-24,トヨタ自動車株式会社,Power control apparatus in a vehicle including an electric motor
+    JP2001057714A                      *,1999-08-09,2001-02-27,Mazda Motor Corp,Running gear of motor running vehicle
+    JP4062666B2                      *,2002-03-25,2008-03-19,本田技研工業株式会社,Torque fluctuation control device and torque fluctuation control program
+    JP2007261415A                      *,2006-03-28,2007-10-11,Mitsubishi Fuso Truck & Bus Corp,Control device for hybrid vehicle
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (2)
+              
+
+
+citedBy_exist
+    
+              Cited By (14)
+              
+
+
+citedBy_infor
+16
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20110190970A1                      *,2010-01-13,2011-08-04,Kabushiki Kaisha Toyota Chuo Kenkyusho,Power generation device equipped on vehicle
+    US20110186772A1                      *,2008-10-08,2011-08-04,Arkerna France,Heat transfer fluid
+    US20130304350A1                      *,2011-02-23,2013-11-14,Niclas Lerede,Detection of power train oscillations
+    US20140097950A1                      *,2011-05-27,2014-04-10,Nissan Motor Co., Ltd.,Deceleration information notification device and deceleration information notification method
+    WO2014033529A3                      *,2012-08-29,2014-10-23,Toyota Jidosha Kabushiki Kaisha,Electric vehicle and control method
+    CN104670213A                      *,2013-11-27,2015-06-03,上海汽车集团股份有限公司,Torque control method for eliminating jitter caused in gaps of car transmission system
+    WO2015107407A1                      *,2014-01-14,2015-07-23,Toyota Jidosha Kabushiki Kaisha,Controller for vehicle
+    US20160114644A1                      *,2014-10-28,2016-04-28,Toyota Jidosha Kabushiki Kaisha,Sprung vibration suppression device for vehicle
+    US20160176295A1                      *,2013-08-06,2016-06-23,Toyota Jidosha Kabushiki Kaisha,Vehicle control device
+    CN106004523A                      *,2016-07-22,2016-10-12,清华大学,Method for optimally controlling real-time torque of distributed type driving electric vehicle
+    US20170001628A1                      *,2015-07-01,2017-01-05,Toyota Jidosha Kabushiki Kaisha,Control device for hybrid vehicle
+    EP3193033A1                      *,2016-01-13,2017-07-19,Toyota Jidosha Kabushiki Kaisha,Controller of vehicle and vehicle
+    WO2018177647A1                      *,2017-03-31,2018-10-04,Robert Bosch Gmbh,Method and device for compensating pulsations in a torque acting on a shaft
+    Family To Family Citations,,,,
+    JP5867109B2                      *,2012-01-24,2016-02-24,トヨタ自動車株式会社,Control device for hybrid vehicle
+
+abstract
+    A hybrid vehicle (1) includes a rotation speed sensor (7) for detecting speed of rotation (Nm) of a motor generator (MG2). Fluctuation of the rotation speed (Nm) of the motor generator (MG2) reflects fluctuation of a first torque generated in a power transmitting member including a drive shaft (8). Hybrid vehicle (1) further includes a controller (30) for controlling a second torque transmitted from motor generator (MG2) through a rotation shaft of motor generator (MG2) to the power transmitting member, based on the speed of rotation (Nm) detected by rotation speed sensor (7). If the first torque is a vibration torque that fluctuates to cause the rotation shaft of motor generator (MG2) to rotate in positive and negative directions, controller (30) controls the second torque such that difference between absolute values of maximum value and minimum value of the vibration torque becomes smaller.
+title
+    Vehicle controller and vehicle provided with the controller
+similar_document
+26
+    Publication,Publication Date,Title
+    US20100235063A1,2010-09-16,Vehicle controller and vehicle provided with the controller
+    US7828093B2,2010-11-09,Vehicle controller, vehicle and vehicle control method
+    US7183740B2,2007-02-27,Motor drive apparatus, vehicle having the same mounted therein, and computer readable storage medium having a program stored therein to cause computer to control voltage conversion
+    US7398844B2,2008-07-15,Hybrid vehicle
+    US8091665B2,2012-01-10,Vehicle drive system and vehicle equipped with it
+    US8195348B2,2012-06-05,Driving power control apparatus for four wheel drive vehicle
+    CN101678826B,2013-01-16,Controller and control method of hybrid vehicle
+    US8718854B2,2014-05-06,Electrically-powered vehicle and method for controlling the same
+    JP5692405B2,2015-04-01,Vehicle and vehicle control method
+    JP4513907B2,2010-07-28,Hybrid vehicle
+    US8052571B2,2011-11-08,Control device and control method for hybrid vehicle
+    US20140316626A1,2014-10-23,Vehicle and method for controlling vehicle
+    JP2006312352A,2006-11-16,Control device for driving system
+    JP2011072067A,2011-04-07,Power supply system for vehicle and electric vehicle equipped with the same
+    JP2010114987A,2010-05-20,Electric motor driver and electric vehicle equipped with the same
+    US9932032B2,2018-04-03,Hybrid vehicle
+    JP4134988B2,2008-08-20,Motor control device and vehicle including the same
+    JP2011061957A,2011-03-24,Control device for vehicle, and control method
+    JP4222297B2,2009-02-12,Vehicle control device
+    JP2018079790A,2018-05-24,Hybrid vehicle
+    JP2012170300A,2012-09-06,Electric vehicle and voltage control method therefor
+    JP2012100419A,2012-05-24,Driving unit and motor vehicle
+    JP5765192B2,2015-08-19,Vehicle and vehicle control method
+    JP2013013201A,2013-01-17,Electric vehicle
+    JP2014144669A,2014-08-14,Control unit of vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    25
+classfication_items
+154
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,5
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,3,6
+    B,6,0,K,6,/,3,6,5
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,4
+    B,6,0,K,6,/,4,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,2,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,/,0,0
+    B,6,0,K,1,/,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B,6,0,L,2,2,4,0,/,6,4,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,6
+    B,6,0,W,2,5,1,0,/,0,6,3,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,8
+    B,6,0,W,2,5,1,0,/,0,8,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,2,/,0,0
+    B,6,0,W,2,5,5,2,/,3,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+4
+    2009-01-13,Application filed by Toyota Motor Corp
+    2009-11-18,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2010-09-16,Publication of US20100235063A1
+    Status,Abandoned
+
+active_area
+2
+    J,P
+    W,O
+
+not_active_area
+1
+    U,S
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2008010573A,2008-01-21,Controller of vehicle and vehicle equipped with the same
+    JP2008-010573,2008-01-21,
+    PCT/JP2009/050285,2009-01-13,Vehicular control device, and vehicle having the device
+
+legal_event
+3
+    Date,Code,Title,Description
+    2009-11-18,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:KAWAMOTO, ATSUSHI;NISHIGAYA, MASABUMI;REEL/FRAME:023537/0651Effective date: 20091007
+    2013-02-06,STCB,Information on status: application discontinuation,Free format text: ABANDONED  --  FAILURE TO RESPOND TO AN OFFICE ACTION
+

@@ -1,0 +1,341 @@
+ID
+    US10829104B2
+citation_exist
+    Patent Citations (26)
+citation_infor
+28
+    Publication number,Priority date,Publication date,Assignee,Title
+    US6059064A                      *,1996-05-02,2000-05-09,Toyota Jidosha Kabushiki Kaisha,Hybrid vehicle
+    US6230496B1,2000-06-20,2001-05-15,Lockheed Martin Control Systems,Energy management system for hybrid electric vehicles
+    US20020107618A1                      *,2001-02-07,2002-08-08,Nissan Motor Co., Ltd.,Control device and control method for hybrid vehicle
+    US6591758B2,2001-03-27,2003-07-15,General Electric Company,Hybrid energy locomotive electrical power storage system
+    US6612245B2,2001-03-27,2003-09-02,General Electric Company,Locomotive energy tender
+    US6612246B2,2001-03-27,2003-09-02,General Electric Company,Hybrid energy locomotive system and method
+    US20050228553A1,2004-03-30,2005-10-13,Williams International Co., L.L.C.,Hybrid Electric Vehicle Energy Management System
+    US20080300762A1                      *,2007-05-30,2008-12-04,Ford Global Technologies, Llc,Regenerative braking with hill descent control
+    US20090125170A1,2007-04-25,2009-05-14,Joseph Forrest Noffsinger,System and method for optimizing a braking schedule of a powered system traveling along a route
+    US20100094496A1                      *,2008-09-19,2010-04-15,Barak Hershkovitz,System and Method for Operating an Electric Vehicle
+    US7715958B2,2007-04-25,2010-05-11,General Electric Company,Hybrid energy power management system and method
+    US20100174484A1,2009-01-05,2010-07-08,Manthram Sivasubramaniam,System and method for optimizing hybrid engine operation
+    US8014914B2,2008-12-05,2011-09-06,International Business Machines Corporation,Energy and emission responsive routing for vehicles
+    US20110246010A1                      *,2006-06-09,2011-10-06,De La Torre Bueno Jose,Technique for Optimizing the Use of the Motor in Hybrid Vehicles
+    US20110313647A1                      *,2005-11-17,2011-12-22,Motility Systems,Power management systems and designs
+    US8299756B2,2007-11-01,2012-10-30,General Electric Company,System and method for battery control
+    US20120316717A1                      *,2011-06-13,2012-12-13,Wolfgang Daum,System and method for controlling and powering a vehicle
+    US8408144B2,2006-10-04,2013-04-02,The United States Of America, As Represented By The Administrator Of The U.S. Environmental Protection Agency,Hybrid locomotive regenerative energy storage system and method
+    US8587260B2,2008-07-24,2013-11-19,General Electric Company,Method and system for control of a vehicle energy storage device
+    US20140121866A1,2012-10-31,2014-05-01,Tesla Motors, Inc.,Fast charge mode for extended trip
+    US20140316618A1                      *,2012-12-28,2014-10-23,General Electric Company,System and method for determining dynamically changing distributions of vehicles in a vehicle system
+    US20150298684A1                      *,2014-04-17,2015-10-22,Palo Alto Research Center Incorporated,Control system for hybrid vehicles with high degree of hybridization
+    US9193268B2,2001-03-27,2015-11-24,General Electric Company,Hybrid energy power management system and method
+    US9200554B2,2013-03-15,2015-12-01,Clean Train Propulsion,Hybrid systems for locomotives
+    US20150367736A1,2013-02-12,2015-12-24,Maintech As,Device for Energy Supply of Trains
+    US9631940B2                      *,2010-06-21,2017-04-25,Ford Global Technologies, Llc,Method and system for determining a route for efficient energy consumption
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (2)
+              
+
+
+citedBy_exist
+    
+              Cited By (7)
+              
+
+
+citedBy_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20220144241A1                      *,2020-11-12,2022-05-12,Ford Global Technologies, Llc,Engine start control system for a hybrid vehicle
+    US20220212653A1                      *,2021-01-04,2022-07-07,Ford Global Technologies, Llc,Method and system for controlling vehicle engine pull-down
+    Family To Family Citations,,,,
+    US11117567B2                      *,2018-06-26,2021-09-14,Toyota Motor Engineering & Manufacturing North America, Inc.,Real time trajectory optimization for hybrid energy management utilizing connected information technologies
+    US11565731B2                      *,2019-12-26,2023-01-31,Transportation Ip Holdings, Llc,Control system and method for a vehicle system
+    FI20205514A1                      *,2020-05-20,2021-11-21,Normet Oy,Method for controlling powertrain, and powertrain
+    US20220242391A1                      *,2021-01-29,2022-08-04,Transportation Ip Holdings, Llc,System and method for managing vehicle operations
+    US20230339354A1                      *,2022-04-21,2023-10-26,Transportation Ip Holdings, Llc,Vehicle charging system and method
+
+abstract
+    A vehicle control system examines characteristics of an upcoming segment of a trip of a hybrid vehicle. One or more locations in the upcoming segment of the trip are identified based on the characteristics as places where an engine of the vehicle is incapable of generating enough energy to power the vehicle through the locations. Operational settings of the vehicle are calculated based on the locations to operate the vehicle in a way that charges an energy storage device with energy that can be used to replace or supplement the energy provided by the engine to propel the hybrid vehicle over or through the locations. The one or more processors are configured to one or more of automatically control or generate a control signal for automated operation of the hybrid vehicle according to the one or more operational settings that are calculated.
+title
+    Hybrid vehicle control system
+similar_document
+26
+    Publication,Publication Date,Title
+    US10829104B2,2020-11-10,Hybrid vehicle control system
+    US11447034B2,2022-09-20,Vehicle control system and method
+    US9545854B2,2017-01-17,System and method for controlling and powering a vehicle
+    US7349797B2,2008-03-25,Emission management for a hybrid locomotive
+    US9079589B2,2015-07-14,Control system and method for remotely isolating powered units in a vehicle system
+    US8948940B2,2015-02-03,Method and system for controlling energy demand of vehicles on a network
+    US11719602B2,2023-08-08,Vehicle control system
+    US10076970B2,2018-09-18,Method and system for an energy storage system
+    US20080288132A1,2008-11-20,Method of operating vehicle and associated system
+    AU2020260383B2,2022-03-03,Vehicle propulsion system
+    EP2151362B1,2012-10-10,Method of operating a vehicle and associated system
+    US20150032301A1,2015-01-29,Two tiered energy storage for a mobile vehicle
+    AU2013205978B2,2018-01-25,Control system and method for remotely isolating powered units in a vehicle system
+    EP2162313B1,2017-03-01,Power supply installation for a railway vehicle
+    CN114746316A,2022-07-12,Model-based predictive control of a vehicle taking into account time-of-arrival factors
+    AU2022275480A1,2023-01-05,Vehicle control system
+    US10647203B2,2020-05-12,Vehicle battery charging system
+    RU2733599C1,2020-10-05,Control system of power plant of unmanned hybrid vehicle
+    US20220242391A1,2022-08-04,System and method for managing vehicle operations
+    US20220402399A1,2022-12-22,Vehicle control system and method
+    Kawashima,2015,Electric bus system with rapid charging at every bus stop using renewable energy
+    Lee et al.,2016,Economic evaluation of wireless charging tram system
+    Kawashima,2017,Basic research on an electric fixed-route bus system with green fast charging at every bus stop using a simulator
+    CA2638479C,2015-11-24,Method of operating vehicle and associated system
+    JP2010036711A,2010-02-18,Method and relevant system for operating vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US15/899,216,2018-02-19,2018-02-19,Hybrid vehicle control system
+
+inventor_number
+    2
+classfication_nums
+    33
+classfication_items
+201
+    B
+    B,6,1
+    B,6,1,C
+    B,6,1,C,7,/,0,0
+    B,6,1,C,7,/,0,4
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,5,0
+    B,6,0,K,6,/,5,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,4
+    B,6,0,W,1,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B,6,0,W,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,0,9,7
+    B
+    B,6,1
+    B,6,1,C
+    B,6,1,C,9,/,0,0
+    B,6,1,C,9,/,0,8
+    B,6,1,C,9,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B,6,0,L,2,2,4,0,/,6,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,5,0
+    B,6,0,L,2,2,6,0,/,5,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,2,/,0,0
+    B,6,0,W,2,5,5,2,/,1,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,2,/,0,0
+    B,6,0,W,2,5,5,2,/,2,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,2,/,0,0
+    B,6,0,W,2,5,5,2,/,3,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,6,/,0,0
+    B,6,0,W,2,5,5,6,/,4,5
+    B,6,0,W,2,5,5,6,/,5,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,2,4
+    B,6,0,W,2,7,1,0,/,2,4,2
+    B,6,0,W,2,7,1,0,/,2,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,0,2
+    B,6,0,W,4,0,/,0,6
+    B,6,0,W,4,0,/,0,7,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,0,2
+    B,6,0,W,4,0,/,0,6
+    B,6,0,W,4,0,/,0,7,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,1,0
+    Y,0,2,T,1,0,/,4,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,8,0
+    Y,0,2,T,1,0,/,8,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,3,0,/,0,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+9
+    2018-02-19,Application filed by GE Global Sourcing LLC
+    2018-02-19,Priority to US15/899,216
+    2018-02-19,Assigned to GENERAL ELECTRIC COMPANY
+    2018-12-19,Assigned to GE GLOBAL SOURCING LLC
+    2019-08-22,Publication of US20190256078A1
+    2020-11-10,Application granted
+    2020-11-10,Publication of US10829104B2
+    Status,Active
+    2038-12-15,Adjusted expiration
+
+active_area
+1
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US15/899,216,2018-02-19,Hybrid vehicle control system
+
+legal_event
+7
+    Date,Code,Title,Description
+    2018-02-19,AS,Assignment,Owner name: GENERAL ELECTRIC COMPANY, NEW YORKFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:LAVERTU, THOMAS MICHAEL;REEL/FRAME:044966/0940Effective date: 20180219
+    2018-02-19,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2018-12-19,AS,Assignment,Owner name: GE GLOBAL SOURCING LLC, CONNECTICUTFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:GENERAL ELECTRIC COMPANY;REEL/FRAME:047952/0689Effective date: 20181101
+    2020-02-10,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2020-04-27,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2020-10-21,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

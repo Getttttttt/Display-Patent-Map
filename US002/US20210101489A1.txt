@@ -1,0 +1,321 @@
+ID
+    US20210101489A1
+citation_exist
+    Patent Citations (10)
+citation_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP4165596B2                      *,2006-10-18,2008-10-15,トヨタ自動車株式会社,Braking / driving force control device
+    JP6015533B2,2013-04-11,2016-10-26,トヨタ自動車株式会社,Vehicle control device
+    JP6107792B2                      *,2014-11-07,2017-04-05,トヨタ自動車株式会社,Automobile
+    JP6183333B2                      *,2014-11-07,2017-08-23,トヨタ自動車株式会社,Hybrid car
+    DE102015212812A1                      *,2015-07-08,2017-01-12,Conti Temic Microelectronic Gmbh,Operation of a rotating electrical machine
+    JP2017123759A,2016-01-08,2017-07-13,トヨタ自動車株式会社,vehicle
+    JP2017175711A,2016-03-22,2017-09-28,トヨタ自動車株式会社,Vehicle
+    JP6984329B2                      *,2017-11-07,2021-12-17,トヨタ自動車株式会社,car
+    JP7096270B2                      *,2018-11-30,2022-07-05,太平洋工業株式会社,Road surface information collection device
+    KR20200068156A                      *,2018-12-04,2020-06-15,현대자동차주식회사,Vehicle and control method for the same
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20220169231A1                      *,2020-11-30,2022-06-02,Hyundai Motor Company,Method of controlling motor torque for learning resolver offset of electric vehicle
+    Family To Family Citations,,,,
+    US20230286386A1                      *,2022-03-10,2023-09-14,Apple Inc.,Propulsion System
+
+abstract
+    An electric vehicle includes first and second traveling motors, first and second rotational position sensors, and a measurement controller. The first rotational position sensor detects a rotation angle of the first traveling motor and has a first wheel-speed range in which a deviation of an original position of the first rotational position sensor is measurable. The second rotational position sensor detects a rotation angle of the second traveling motor and has a second wheel-speed range in which a deviation of an original position of the second rotational position sensor is measurable. The second wheel-speed range differs from the first wheel-speed range. The measurement controller executes, in an execution order, measurements of the deviations of the original positions of the first and second rotational position sensors while the electric vehicle is traveling, and switch the execution order on the basis of acceleration or deceleration data of the electric vehicle.
+title
+    Electric vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US11731517B2,2023-08-22,Electric vehicle
+    US9707860B2,2017-07-18,Vehicle control device and vehicle control method
+    US8862303B2,2014-10-14,Industrial vehicle
+    CN109476235B,2020-05-01,Torque control method and torque control device
+    KR101526432B1,2015-06-05,Apparatus and method for calculating regenerative braking amont of hybrid electirc vehicle
+    US11407420B2,2022-08-09,Vehicle control apparatus and method of controlling vehicle-control force
+    JP2017073886A,2017-04-13,Regenerative braking control device of electric vehicle
+    CN112874316B,2023-03-21,Stability control method and device for electric automobile and vehicle
+    EP2644467B1,2018-04-25,Auxiliary braking device of vehicle
+    JP2019088093A,2019-06-06,Vehicle
+    CN107415769A,2017-12-01,Regenerating control device
+    JP7135915B2,2022-09-13,electric vehicle controller
+    JP4111088B2,2008-07-02,Slip determination device, slip determination method, and vehicle
+    JP5343590B2,2013-11-13,Vehicle deceleration control device and vehicle deceleration control method
+    US11613258B2,2023-03-28,Vehicle control device
+    WO2021014769A1,2021-01-28,Control device and control method for vehicle
+    JP2005047314A,2005-02-24,Slip determining device, slip determining method, and vehicle
+    US20220176816A1,2022-06-09,Vehicle control apparatus
+    JP2008154429A,2008-07-03,Control unit and method of vehicle, program for achieving same, and recording medium having recorded program
+    JP2008030533A,2008-02-14,Vehicle control apparatus
+    US20220242251A1,2022-08-04,Vehicle control apparatus
+    US11332021B2,2022-05-17,Electric vehicle
+    CN112874501B,2022-07-22,Stability control method and device for electric automobile and vehicle
+    US11505192B2,2022-11-22,Vehicle control apparatus
+    US20220258754A1,2022-08-18,Vehicle control device
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    35
+classfication_items
+206
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,/,0,0
+    B,6,0,K,1,/,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,7,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,7,/,0,0
+    B,6,0,K,1,7,/,3,4
+    B,6,0,K,1,7,/,3,5,4
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,2,6,/,0,0
+    B,6,0,K,2,6,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,2
+    B,6,0,L,1,5,/,0,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    G
+    G,0,1
+    G,0,1,B
+    G,0,1,B,2,1,/,0,0
+    G,0,1,B,2,1,/,2,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,7,/,0,0
+    B,6,0,K,1,7,/,3,4
+    B,6,0,K,1,7,/,3,5,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,2,3,/,0,0
+    B,6,0,K,2,3,/,0,8
+    B,6,0,K,2,0,2,3,/,0,8,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,1,0
+    B,6,0,L,2,2,2,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,1,0
+    B,6,0,L,2,2,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B,6,0,L,2,2,4,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B,6,0,L,2,2,5,0,/,2,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,4,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2020-10-01,Application filed by Subaru Corp
+    2020-10-02,Assigned to Subaru Corporation
+    2021-04-08,Publication of US20210101489A1
+    2023-08-22,Application granted
+    2023-08-22,Publication of US11731517B2
+    Status,Active
+    2041-09-15,Adjusted expiration
+
+active_area
+2
+    J,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2019184334A,2019-10-07,electric vehicle
+    JP2019-184334,2019-10-07,
+
+legal_event
+8
+    Date,Code,Title,Description
+    2020-10-01,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2020-10-02,AS,Assignment,Owner name: SUBARU CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:YANO, TAKUYA;REEL/FRAME:053963/0635Effective date: 20200729
+    2021-08-20,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2022-11-21,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2023-04-04,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2023-07-03,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT RECEIVED
+    2023-08-02,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

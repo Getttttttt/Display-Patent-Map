@@ -1,0 +1,278 @@
+ID
+    US9032726B2
+citation_exist
+    Patent Citations (17)
+citation_infor
+19
+    Publication number,Priority date,Publication date,Assignee,Title
+    US6183210B1                      *,1997-09-29,2001-02-06,Hitachi Construction Machinery Co. Ltd.,Torque control device for hydraulic pump in hydraulic construction equipment
+    US6375433B1                      *,2000-07-07,2002-04-23,Caterpillar Inc.,Method and apparatus for controlling pump discharge pressure of a variable displacement hydraulic pump
+    JP2004150307A,2002-10-29,2004-05-27,Komatsu Ltd,Controller of engine
+    JP2005083242A,2003-09-08,2005-03-31,Komatsu Ltd,Drive controller of hybrid working machine
+    JP2005194978A,2004-01-09,2005-07-21,Kobelco Contstruction Machinery Ltd,Working machine
+    US7048515B2                      *,2001-06-21,2006-05-23,Hitachi Construction Machinery Co., Ltd.,Hydraulic drive system and method using a fuel injection control unit
+    JP2008163669A,2006-12-28,2008-07-17,Hitachi Constr Mach Co Ltd,Travel control device for hydraulic travelling vehicle
+    US7525206B2                      *,2004-02-23,2009-04-28,Kobelco Construction Machinery Co., Ltd.,Power source device for working machine
+    US20090238696A1,2006-12-28,2009-09-24,Hitachi Construction Machinery Co., Ltd.,Traveling control apparatus for hydraulic traveling vehicle
+    JP2011174468A,2011-03-25,2011-09-08,Komatsu Ltd,Engine, hydraulic pump, and control device for generator motor
+    US8880265B2                      *,2012-08-30,2014-11-04,Kobelco Construction Machinery Co., Ltd.,Hybrid construction machine
+    US8875820B2                      *,2011-01-26,2014-11-04,Kobelco Construction Machinery Co., Ltd.,Hybrid construction machine
+    Family To Family Citations,,,,
+    EP1191155B1                      *,1999-06-28,2010-01-20,Kobelco Construction Machinery Co., Ltd.,Excavator with hybrid drive apparatus
+    JP4082935B2                      *,2002-06-05,2008-04-30,株式会社小松製作所,Hybrid construction machine
+    JP4732126B2                      *,2005-10-28,2011-07-27,株式会社小松製作所,Engine control device
+    JP5247025B2                      *,2006-12-28,2013-07-24,日立建機株式会社,Travel control device for hydraulic traveling vehicle
+    JP5401992B2                      *,2009-01-06,2014-01-29,コベルコ建機株式会社,Power source device for hybrid work machine
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (15)
+              
+
+
+citedBy_infor
+17
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20140000252A1                      *,2011-02-17,2014-01-02,Kobelco Construction Machinery Co., Ltd.,Power source apparatus and hybrid construction machine equipped with same
+    US20150040553A1                      *,2012-05-01,2015-02-12,Hitachi Construction Machinery Co., Ltd.,Hybrid working machine
+    US20180230802A1                      *,2017-02-14,2018-08-16,Kolberg-Pioneer, Inc,Apparatus and method for a dual power system
+    US11041515B1                      *,2017-06-16,2021-06-22,Kawasaki Jukogyo Kabushiki Kaisha,Hydraulic system
+    Family To Family Citations,,,,
+    US8627797B2,2009-06-11,2014-01-14,Illinois Tool Works Inc.,Automatic start and stop of a portable engine driven power source
+    WO2012002586A1                      *,2010-06-28,2012-01-05,볼보 컨스트럭션 이큅먼트 에이비,Flow control system for a hydraulic pump of construction machinery
+    CN103003498B,2010-07-19,2015-08-26,沃尔沃建造设备有限公司,For controlling the system of the hydraulic pump in construction machinery
+    JP6076013B2                      *,2012-09-26,2017-02-08,株式会社神戸製鋼所,Construction machinery
+    KR101988053B1,2012-12-26,2019-06-11,두산인프라코어 주식회사,Energy storage device charging system for hybrid construction equipment and charging method
+    US10144083B2,2013-02-22,2018-12-04,Illinois Tool Works Inc.,Multi-operator engine driven welder system
+    JP6539462B2                      *,2015-03-10,2019-07-03,日立建機株式会社,Hybrid work machine
+    EP3067252A1                      *,2015-03-13,2016-09-14,BAE Systems PLC,Hydraulic system
+    AU2016231996B2                      *,2015-03-13,2019-11-21,Bae Systems Plc,Hydraulic system
+    JP6419063B2                      *,2015-12-24,2018-11-07,日立建機株式会社,Hybrid work machine
+    GB2546485A                      *,2016-01-15,2017-07-26,Artemis Intelligent Power Ltd,Hydraulic apparatus comprising synthetically commutated machine, and operating method
+
+abstract
+    A controller carries out horsepower control to determine a flow rate of a hydraulic pump based on first characteristics and second characteristics, which each define a maximum input setting of the hydraulic pump by a discharge pressure of the hydraulic pump and a flow rate of the hydraulic pump, and based on the discharge pressure. When the discharge pressure is less than a set pressure and when a state where the discharge pressure is equal to or greater than the set pressure has not continued for a set time period, then the controller determines the flow rate based on the first characteristics, and when the state where the discharge pressure is equal to or greater than the set pressure has continued for the set time period, then the controller determines the flow rate based on the second characteristics.
+title
+    Power source apparatus and hybrid construction machine equipped with same
+similar_document
+14
+    Publication,Publication Date,Title
+    US9032726B2,2015-05-19,Power source apparatus and hybrid construction machine equipped with same
+    EP1834854B1,2017-04-05,Hybrid construction machine
+    US9541103B2,2017-01-10,Power source apparatus and hybrid construction machine equipped with same
+    JP5401992B2,2014-01-29,Power source device for hybrid work machine
+    KR101512207B1,2015-04-14,Engine control device for construction machine
+    EP2851475B1,2018-07-11,Hybrid construction machinery
+    EP2615212B1,2019-02-27,Hybrid construction machine with engine controller
+    US20160340871A1,2016-11-24,Engine and Pump Control Device and Working Machine
+    EP2672023A1,2013-12-11,Rotation-type working machine
+    EP3067473B1,2019-05-29,Hybrid work machine
+    KR20110012037A,2011-02-09,Control system and method for reducing change of rpm in hybrid type construction machine
+    US9802600B2,2017-10-31,Power control device and hybrid construction machine provided with same
+    KR20140038350A,2014-03-28,Operating machine
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    24
+classfication_items
+152
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B,6,0,K,6,/,4,8,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,8
+    B,6,0,W,3,0,/,1,8,8,6
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,0,5,8
+    E,0,2,F,9,/,2,0,6,2
+    E,0,2,F,9,/,2,0,7,5
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,2,1
+    E,0,2,F,9,/,2,2,3,2
+    E,0,2,F,9,/,2,2,3,5
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,7,8
+    E,0,2,F,9,/,2,2,9,6
+    F
+    F,0,2
+    F,0,2,D
+    F,0,2,D,2,9,/,0,0
+    F,0,2,D,2,9,/,0,4
+    F
+    F,0,4
+    F,0,4,B
+    F,0,4,B,1,7,/,0,0
+    F,0,4,B,1,7,/,0,5
+    F
+    F,0,4
+    F,0,4,B
+    F,0,4,B,4,9,/,0,0
+    F,0,4,B,4,9,/,0,0,2
+    F
+    F,0,4
+    F,0,4,B
+    F,0,4,B,4,9,/,0,0
+    F,0,4,B,4,9,/,0,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,1,/,0,0
+    F,1,5,B,2,1,/,1,4
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,6,1,/,0,0
+    F,1,6,H,6,1,/,3,8
+    F,1,6,H,6,1,/,4,0
+    F,1,6,H,6,1,/,4,6
+    F,1,6,H,6,1,/,4,7,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,4,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,6
+    B,6,0,W,2,5,1,0,/,0,6,6,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,3,0
+    B,6,0,W,2,5,1,0,/,3,0,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,0,7
+    F,1,5,B,2,2,1,1,/,2,0,5,1,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,3
+    F,1,5,B,2,2,1,1,/,2,0,5,4,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,8,0
+    F,1,5,B,2,2,1,1,/,8,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+
+application_events
+7
+    2012-02-09,Application filed by Kobelco Construction Machinery Co Ltd
+    2013-08-22,Assigned to KOBELCO CONSTRUCTION MACHINERY CO., LTD.
+    2013-12-05,Publication of US20130318971A1
+    2015-05-19,Application granted
+    2015-05-19,Publication of US9032726B2
+    Status,Active
+    2032-06-20,Adjusted expiration
+
+active_area
+4
+    J,P
+    E,P
+    U,S
+    W,O
+
+not_active_area
+1
+    C,N
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2011-032012,2011-02-17,
+    JP2011032012A,2011-02-17,Power source device for hybrid construction machinery
+    PCT/JP2012/000852,2012-02-09,Power source system and hybrid construction machine equipped with same
+
+legal_event
+5
+    Date,Code,Title,Description
+    2013-08-22,AS,Assignment,Owner name: KOBELCO CONSTRUCTION MACHINERY CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:SORA, TOSHIO;REEL/FRAME:031059/0318Effective date: 20130729
+    2015-04-29,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2018-11-08,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+    2022-11-02,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+

@@ -1,0 +1,191 @@
+ID
+    EP4052951A1
+citation_exist
+    Patent Citations (12)
+citation_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP3225578B2                      *,1992-03-19,2001-11-05,株式会社日立製作所,Electric car
+    JP3700045B2                      *,1998-12-21,2005-09-28,トヨタ自動車株式会社,Vehicle traveling control method and system
+    JP2005231588A                      *,2004-02-23,2005-09-02,Nissan Motor Co Ltd,Vehicular stop assisting device
+    JP5811148B2                      *,2013-07-11,2015-11-11,トヨタ自動車株式会社,Vehicle with regenerative generator
+    JP6177666B2                      *,2013-11-12,2017-08-09,日立オートモティブシステムズ株式会社,Drive control device for moving body
+    JP6233420B2                      *,2013-12-02,2017-11-29,日産自動車株式会社,Electric vehicle control device and electric vehicle control method
+    JP2015116000A                      *,2013-12-10,2015-06-22,カルソニックカンセイ株式会社,Driving force control device of electric vehicle
+    JP6492399B2,2014-01-10,2019-04-03,日産自動車株式会社,Electric vehicle control device and electric vehicle control method
+    JP6033973B2                      *,2014-01-22,2016-11-30,カルソニックカンセイ株式会社,Driving force control device for electric vehicle
+    JP6332180B2                      *,2015-07-15,2018-05-30,トヨタ自動車株式会社,Vehicle control device
+    JP6493540B2                      *,2015-08-26,2019-04-03,日産自動車株式会社,Control method and control apparatus for electric vehicle
+    JP6711064B2                      *,2016-03-25,2020-06-17,日産自動車株式会社,Electric vehicle control method and electric vehicle control device
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    KR20210076489A                      *,2019-12-16,2021-06-24,현대자동차주식회사,Apparatus for controlling regenerative braking torque of electric vehicle and method thereof
+    US11745600B2                      *,2020-02-04,2023-09-05,Subaru Corporation,Driving force controller for vehicle
+    CN113306408A                      *,2021-06-04,2021-08-27,江西江铃集团晶马汽车有限公司,New driving control device for new energy passenger car and working method of new driving control device
+
+abstract
+    A control method for an electric vehicle using a motor as a traveling drive source to decelerate by a regenerative braking force of the motor, including: obtaining an accelerator operation amount; estimating a disturbance torque acting on a vehicle body of the electric vehicle; obtaining an angular velocity of a rotating body that correlates to a rotation speed of a drive shaft which drives the electric vehicle; calculating a first torque command value based on the accelerator operation amount; setting the first torque command value to a torque command value; controlling a torque generated in the motor based on the torque command value; setting a target stop position at the time of stopping the electric vehicle; calculating a target angular velocity of the rotating body according to a distance from the electric vehicle to the target stop position; calculating a second torque command value for stopping the electric vehicle at the target stop position based on a difference between the target angular velocity and the obtained angular velocity; and converging the torque command value to the disturbance torque by setting the second torque command value to the torque command value and adjusting the braking and driving forces of the motor according to a distance to the target stop position, when the accelerator operation amount decreases or becomes zero and the electric vehicle is about to stop.
+title
+    Control method for electric motor vehicle and control device for electric motor vehicle
+similar_document
+17
+    Publication,Publication Date,Title
+    EP3078539B1,2019-07-24,Control device for electric vehicle and control method for electric vehicle
+    EP3078537B1,2020-04-08,Electric vehicle control device and electric vehicle control method
+    EP3575132B1,2020-12-30,Electric vehicle control method and control device
+    EP3798044B1,2023-04-19,Control device for electric motor vehicle and control method for electric motor vehicle
+    EP3251887B1,2019-08-07,Control device for electric vehicle and control method for electric vehicle
+    EP3251888A1,2017-12-06,Control device for electric vehicle and control method for electric vehicle
+    EP3251906B1,2020-11-04,Vehicle control device and vehicle control method
+    EP3446914A1,2019-02-27,Electric vehicle control method and electric vehicle control device
+    CN110191818B,2020-06-30,Method for controlling electric vehicle and device for controlling electric vehicle
+    EP3575133B1,2022-03-09,Electric vehicle control method and control device
+    EP4052951A1,2022-09-07,Control method for electric motor vehicle and control device for electric motor vehicle
+    JP6237789B2,2017-11-29,Electric vehicle control device and electric vehicle control method
+    JP6880674B2,2021-06-02,Electric vehicle control method and electric vehicle control device
+    US11801757B2,2023-10-31,Control device for electric vehicle and control method for electric vehicle
+    WO2015079574A1,2015-06-04,Control device for electric vehicle and control method for electric vehicle
+    JP2023088685A,2023-06-27,Electric vehicle control method and electric vehicle control device
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    7
+classfication_nums
+    13
+classfication_items
+82
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,7,2
+    B,6,0,L,1,5,/,2,0,8,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B,6,0,L,1,5,/,2,0,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,/,0,0
+    B,6,0,K,2,0,0,1,/,0,0,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+4
+    2019-10-28,Application filed by Nissan Motor Co Ltd
+    2022-09-07,Publication of EP4052951A1
+    2022-11-16,Publication of EP4052951A4
+    Status,Pending
+
+active_area
+4
+    C,N
+    J,P
+    E,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2019/042132,2019-10-28,Control method for electric motor vehicle and control device for electric motor vehicle
+
+legal_event
+10
+    Date,Code,Title,Description
+    2021-05-10,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE INTERNATIONAL PUBLICATION HAS BEEN MADE
+    2022-08-05,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2022-08-05,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+    2022-09-07,17P,Request for examination filed,Effective date: 20220414
+    2022-09-07,AK,Designated contracting states,Kind code of ref document: A1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2022-11-16,A4,Supplementary search report drawn up and despatched,Effective date: 20221018
+    2022-11-16,RIC1,Information provided on ipc code assigned before grant,Ipc: B60W  30/09        20120101ALI20221012BHEPIpc: B60L   7/18        20060101ALI20221012BHEPIpc: B60L  15/20        20060101AFI20221012BHEP
+    2023-02-08,DAV,Request for validation of the european patent (deleted),
+    2023-02-08,DAX,Request for extension of the european patent (deleted),
+

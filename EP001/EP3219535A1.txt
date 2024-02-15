@@ -1,0 +1,182 @@
+ID
+    EP3219535A1
+citation_exist
+    Patent Citations (11)
+citation_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2006042416A,2004-07-22,2006-02-09,Toyota Motor Corp,Electric vehicle and its control method
+    EP2409871A2                      *,2010-07-23,2012-01-25,Hitachi, Ltd.,Drive control device for electric vehicle, and electric vehicle
+    US20140067225A1                      *,2012-08-29,2014-03-06,Kia Motors Corporation,Device and method for controlling driving of a vehicle in a coasting situation
+    JP2014079087A,2012-10-10,2014-05-01,Fuji Electric Co Ltd,Motor controller for electric vehicle
+    EP3118078A1                      *,2015-07-13,2017-01-18,Mitsubishi Jidosha Kogyo Kabushiki Kaisha,Controlling apparatus for vehicle
+    Family To Family Citations,,,,
+    JP4241845B2                      *,2007-03-06,2009-03-18,トヨタ自動車株式会社,Vehicle control device, control method, program for realizing the method, and recording medium recording the program
+    JP5183594B2                      *,2009-07-31,2013-04-17,日立オートモティブシステムズ株式会社,Motor control device and motor system including the same
+    DE102011079566A1                      *,2011-07-21,2013-01-24,Robert Bosch Gmbh,Method for operating an electrical network and device for controlling an electrical network
+    DE102013213044A1                      *,2013-07-04,2015-01-08,Voith Patent Gmbh,Permanent magnet electric machine
+    JP5810232B1                      *,2014-03-28,2015-11-11,富士重工業株式会社,Vehicle control device
+    US10421457B2                      *,2016-05-03,2019-09-24,Ford Global Technologies, Llc,Method for operating an automatic start/stop system in a vehicle utilizing a torque converter
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    CA2997232C                      *,2015-09-01,2022-07-26,Nissan Motor Co., Ltd.,Vehicle traveling control method and vehicle traveling control device
+    JP6641846B2                      *,2015-09-30,2020-02-05,三菱自動車工業株式会社,Regenerative brake control device
+    JP6873643B2                      *,2016-09-28,2021-05-19,Ntn株式会社,Electric brake device
+    JP2019068625A                      *,2017-09-29,2019-04-25,ダイハツ工業株式会社,Automobile
+
+abstract
+    A controlling apparatus (5) is provided for a vehicle (1) including a motor (2), an inverter (3), and a battery (4). The controlling apparatus (5) includes a determiner (6), an estimator (7), and a controller (8). The determiner (6) judges whether a first condition is satisfied or not. The first condition is satisfied if the vehicle (1) is in a coasting state in a regeneration prohibited mode in which a regenerative brake is disabled. The estimator (7) estimates whether a second condition is satisfied or not. The second condition is satisfied if the motor (2) is not to generate a regenerative torque upon a shutdown of the inverter (3). The controller (8) shuts down the inverter (3) if the determiner (6) judges that the first condition is satisfied and the estimator (7) estimates that the second condition is satisfied.
+title
+    Controlling apparatus for vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    KR100993301B1,2010-11-09,Control apparatus and control method of a vehicle
+    EP2774802B1,2018-04-25,Vehicle and vehicle control method
+    US8548657B2,2013-10-01,Control apparatus for hybrid vehicle
+    US9994123B2,2018-06-12,Controlling apparatus for vehicle
+    US9694711B2,2017-07-04,Controlling apparatus for vehicle
+    US8096919B2,2012-01-17,Motor control device, motored vehicle equipped therewith, and method of controlling a motor
+    KR101836250B1,2018-03-08,Method and apparatus of controlling output voltage of dc converter for vehicle including driving motor
+    EP2481626B1,2020-11-18,Electric vehicle
+    US11021145B2,2021-06-01,Control device for hybrid vehicle
+    US20130179133A1,2013-07-11,Motor design method, motor designed by motor design method, and electric vehicle provided with motor
+    US9751522B2,2017-09-05,Method and system for controlling a hybrid vehicle
+    KR101720641B1,2017-04-10,Control device of vehicle
+    JP2009220788A,2009-10-01,Hybrid vehicle
+    JP2011116223A,2011-06-16,Controller for hybrid electric vehicle
+    JP2014111413A,2014-06-19,Travel control device of hybrid electric automobile
+    JP2007186048A,2007-07-26,Hybrid car
+    JP2015116871A,2015-06-25,Controller of hybrid electric vehicle
+    US10654366B2,2020-05-19,Method for managing the charge state of a traction battery of a hybrid vehicle
+    JP7120079B2,2022-08-17,vehicle controller
+    CN108290571B,2021-06-11,Regenerative power amount control system for hybrid vehicle, and control method
+    JP4662566B2,2011-03-30,Control device for hybrid vehicle
+    US20210291661A1,2021-09-23,Electric vehicle
+    JP2016120740A,2016-07-07,Control unit of hybrid vehicle
+    CN115107732A,2022-09-27,Vehicle monitoring strategy for detecting unexpected acceleration during speed control
+    JP2008167599A,2008-07-17,Electric vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    6
+classfication_nums
+    11
+classfication_items
+65
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,0,7,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,0,9,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+3
+    2017-03-15,Application filed by Mitsubishi Motors Corp
+    2017-09-20,Publication of EP3219535A1
+    Status,Withdrawn
+
+active_area
+1
+    J,P
+
+not_active_area
+2
+    U,S
+    E,P
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2016052571A,2016-03-16,Controlling apparatus for vehicle
+
+legal_event
+11
+    Date,Code,Title,Description
+    2017-08-18,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2017-09-20,AK,Designated contracting states,Kind code of ref document: A1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2017-09-20,AX,Request for extension of the european patent,Extension  state: BA ME
+    2018-04-25,17P,Request for examination filed,Effective date: 20180316
+    2018-04-25,RBV,Designated contracting states (corrected),Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2019-07-03,RAP1,Party data changed (applicant data changed or rights of an application transferred),Owner name: MITSUBISHI JIDOSHA KOGYO KABUSHIKI KAISHA
+    2019-07-04,GRAP,Despatch of communication of intention to grant a patent,Free format text: ORIGINAL CODE: EPIDOSNIGR1
+    2019-07-31,INTG,Intention to grant announced,Effective date: 20190705
+    2020-04-17,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE APPLICATION IS DEEMED TO BE WITHDRAWN
+    2020-05-20,18D,Application deemed to be withdrawn,Effective date: 20191116
+

@@ -1,0 +1,149 @@
+ID
+    US20230158897A1
+citation_exist
+    Patent Citations (3)
+citation_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP3542197B2                      *,1995-04-28,2004-07-14,本田技研工業株式会社,Control device for electric vehicle
+    ES2490392B2                      *,2013-01-29,2015-06-16,Microelectronica Maser, S.L.,AUTONOMOUS CONTROL SYSTEM
+    JP6508138B2                      *,2016-06-24,2019-05-08,トヨタ自動車株式会社,Power converter for electric vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20230040763A1                      *,2020-02-24,2023-02-09,Great Wall Motor Company Limited,Energy recovery control method, system, and vehicle
+    US11745611B1                      *,2022-10-28,2023-09-05,GM Global Technology Operations LLC,System and method for control of a multi-function electric powertrain
+    Family To Family Citations,,,,
+
+abstract
+    An electric machine is coupled to at least the respective alternating current output terminal or to a plurality of alternating current output terminals of the inverter. The electric machine has a rotor with a rotational speed that is capable of converting rotational mechanical energy of the rotor into electrical energy at the direct current bus terminals until the rotational speed declines below a critical speed. In response to the detection of an impaired state of the battery, a controller is configured to provide control signals to switch or toggle the corresponding low-side switch or switches to manage the charging and discharging of the direct current (DC) bus voltage between a minimum DC voltage and a maximum DC voltage that define a range suitable for providing energy sufficient to power an electronic data processor and control logic of the controller.
+title
+    System for recovering electrical energy from mechanical rotational energy of an electric machine and inverter associated with impaired battery
+similar_document
+26
+    Publication,Publication Date,Title
+    EP4183613A1,2023-05-24,System for recovering electrical energy from mechanical rotational energy of an electric machine and inverter associated with impaired battery
+    US8686694B2,2014-04-01,Discharge circuit for smoothing capacitor of DC power supply
+    US9998061B2,2018-06-12,Motor control device and motor control method
+    RU2482599C1,2013-05-20,Energy conversion device and method of voltage control on capacitor of energy conversion device
+    US8378528B2,2013-02-19,Systems and methods for discharging bus voltage using semiconductor devices
+    CA2793747C,2020-04-14,Pitch drive device capable of emergency operation for a wind or water power plant
+    JP3910220B2,2007-04-25,Electric drive system
+    US8045301B2,2011-10-25,Motor drive device
+    US7332882B2,2008-02-19,Motor drive device that combined charge controller
+    US8878476B2,2014-11-04,Method for discharging charges remaining in capacitor in apparatus
+    KR101831468B1,2018-02-22,Method for operating a drive assembly in a motor vehicle, comprising an at least three-phase electric machine, and control device for an inverter
+    KR20150054812A,2015-05-20,Operating state circuit for an inverter and method for setting operating states of an inverter
+    KR20100108460A,2010-10-06,Electric motor drive device and control method thereof
+    US9373970B2,2016-06-21,System for charging an energy store, and method for operating the charging system
+    EP3612847B1,2023-08-02,Vehicle and control method thereof and system
+    US10715069B2,2020-07-14,Discharge control device
+    JP6289597B1,2018-03-07,VEHICLE POWER DEVICE AND CONTROL METHOD FOR VEHICLE POWER DEVICE
+    JP2010035279A,2010-02-12,Power supply system and electric vehicle
+    CN104015671A,2014-09-03,Battery status presuming apparatus and control system of vehicle
+    US11515763B2,2022-11-29,Method for operating a motor vehicle with a permanently-excited synchronous machine, and motor vehicle
+    US9035612B2,2015-05-19,Method for transferring energy between at least two energy storage cells in a controllable energy store
+    KR20210090957A,2021-07-21,Motor driving device, and vehicle including the same
+    TWI425762B,2014-02-01,Power generation control method
+    US20230318487A1,2023-10-05,Power conversion system
+    CN111865178A,2020-10-30,Power converter
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    US17/456,178,2021-11-23,2021-11-23,System for recovering electrical energy from mechanical rotational energy of an electric machine and inverter associated with impaired battery
+    EP22201582.8A,2021-11-23,2022-10-14,System for recovering electrical energy from mechanical rotational energy of an electric machine and inverter associated with impaired battery
+
+inventor_number
+    4
+classfication_nums
+    7
+classfication_items
+45
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,8,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,7,/,0,0
+    H,0,2,P,2,7,/,0,4
+    H,0,2,P,2,7,/,0,6
+    H,0,2,P,2,7,/,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+
+application_events
+6
+    2021-11-23,Application filed by Deere and Co
+    2021-11-23,Priority to US17/456,178
+    2021-12-03,Assigned to DEERE & COMPANY
+    2022-10-14,Priority to EP22201582.8A
+    2023-05-25,Publication of US20230158897A1
+    Status,Pending
+
+active_area
+2
+    U,S
+    E,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US17/456,178,2021-11-23,System for recovering electrical energy from mechanical rotational energy of an electric machine and inverter associated with impaired battery
+
+legal_event
+2
+    Date,Code,Title,Description
+    2021-12-03,AS,Assignment,Owner name: DEERE & COMPANY, ILLINOISFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:LINN, ERIC R.;AMUNDSON, ROGER K.;TREMEL, CHRISTOPHER J.;SIGNING DATES FROM 20211128 TO 20211201;REEL/FRAME:058285/0917
+

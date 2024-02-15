@@ -1,0 +1,234 @@
+ID
+    US10946766B2
+citation_exist
+    Patent Citations (5)
+citation_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2010006093A,2008-06-24,2010-01-14,Toyota Motor Corp,Electric vehicle
+    JP2010011524A,2008-06-24,2010-01-14,Toyota Motor Corp,Energy flow display device
+    JP2010057288A,2008-08-28,2010-03-11,Nissan Motor Co Ltd,Power supplying device and method of controlling the same
+    JP2014180080A,2013-03-13,2014-09-25,Mitsubishi Heavy Ind Ltd,Controller and control method and program
+    US20160006377A1,2014-07-03,2016-01-07,Toyota Jidosha Kabushiki Kaisha,Electric drive vehicles
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (8)
+              
+
+
+citedBy_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    US11381094B2                      *,2018-05-09,2022-07-05,Lg Energy Solution, Ltd.,Battery control apparatus and energy storage system including same
+    Family To Family Citations,,,,
+    JP7006263B2                      *,2017-12-27,2022-01-24,トヨタ自動車株式会社,Charging device
+    JP6977581B2,2018-01-22,2021-12-08,トヨタ自動車株式会社,Power storage system
+    DE102018102211B3                      *,2018-02-01,2019-09-19,Dr. Ing. H.C. F. Porsche Aktiengesellschaft,Battery system for a battery powered electric vehicle and method for utilizing a remaining range thereof
+    US11398735B2                      *,2018-10-03,2022-07-26,Switching Battery Inc.,Energy storage system and method to improve battery performance based on battery connections
+    JP7352453B2                      *,2019-11-26,2023-09-28,株式会社Subaru,Vehicle controls and vehicles
+    US20220037907A1                      *,2020-07-29,2022-02-03,Cirrus Logic International Semiconductor Ltd.,Optimizing power delivery of a power converter
+    US11735942B2                      *,2020-07-29,2023-08-22,Cirrus Logic Inc.,Maintaining operation within a stable region of a power curve of a power converter
+
+abstract
+    An electrically powered vehicle includes a battery, a mounting member, a switch, and a switch controller. The battery is configured to supply power for moving. On the mounting member, a supplementary battery configured to supply power for moving is detachably mountable. The switch is configured to switch connection of the battery and the supplementary battery mounted on the mounting member between series and parallel connections. The switch controller is configured to control the switch in accordance with condition information about the battery and condition information about the supplementary battery mounted on the mounting member.
+title
+    Electrically powered vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US10946766B2,2021-03-16,Electrically powered vehicle
+    JP6445190B2,2018-12-26,Battery control device
+    US8436585B2,2013-05-07,Power supply device
+    KR101139022B1,2012-04-26,On-vehicle power supplying apparatus with two power supplies
+    US9387763B2,2016-07-12,Power source device for vehicle
+    EP2670018B1,2019-06-26,Electric vehicle battery system
+    JP4843921B2,2011-12-21,Battery pack capacity adjustment device and battery pack capacity adjustment method
+    US20140042973A1,2014-02-13,Electric storage device
+    US20110313613A1,2011-12-22,Electric Storage Device
+    US8174240B2,2012-05-08,Battery management system using a resistor and driving method thereof
+    EP2496437A2,2012-09-12,Vehicular electric power unit and method of controlling the same
+    JP2011223796A,2011-11-04,Vehicle charging apparatus
+    JP2020013726A,2020-01-23,Power supply control system for mobile object
+    US11400818B2,2022-08-02,Drive control apparatus for controlling vehicle drive system
+    JP2012147538A,2012-08-02,Vehicle power supply device
+    JP7178892B2,2022-11-28,vehicle battery charging controller
+    JPWO2020084964A1,2021-10-07,Temperature control device control device
+    CN107852010B,2021-01-08,Storage battery control device
+    JP2017203748A,2017-11-16,Power supply system
+    KR20190120794A,2019-10-24,Method and placement for balancing battery packs
+    JP6765208B2,2020-10-07,Railroad vehicle
+    CN213228372U,2021-05-18,Vehicle control system and vehicle
+    KR20210051538A,2021-05-10,Apparatus for Controlling Power of Parallel Multi Battery Pack and Method thereof
+    WO2022030355A1,2022-02-10,Electric storage device, electric storage system, internal resistance estimation method, and computer program
+    JP2019004565A,2019-01-10,Storage battery control device
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    6
+classfication_nums
+    19
+classfication_items
+117
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,1,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,8,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B,6,0,L,5,8,/,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,5,0
+    B,6,0,L,2,2,6,0,/,5,4
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,1
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,9,1
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,7,/,0,0
+    H,0,2,P,2,7,/,0,4
+    H,0,2,P,2,7,/,0,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+
+application_events
+7
+    2019-06-03,Application filed by Subaru Corp
+    2019-06-03,Assigned to Subaru Corporation
+    2020-03-19,Publication of US20200086761A1
+    2021-03-16,Application granted
+    2021-03-16,Publication of US10946766B2
+    Status,Active
+    2039-06-03,Anticipated expiration
+
+active_area
+3
+    J,P
+    C,N
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2018171080A,2018-09-13,Electric vehicle
+    JP2018-171080,2018-09-13,
+    JPJP2018-171080,2018-09-13,
+
+legal_event
+5
+    Date,Code,Title,Description
+    2019-06-03,AS,Assignment,Owner name: SUBARU CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:HAMADA, KAZU;HIRABAYASHI, KOSUKE;GOTO, KAZUHIRO;AND OTHERS;SIGNING DATES FROM 20190419 TO 20190512;REEL/FRAME:049345/0174
+    2019-06-03,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2020-07-20,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2021-02-24,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

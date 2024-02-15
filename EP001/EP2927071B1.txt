@@ -1,0 +1,403 @@
+ID
+    EP2927071B1
+citation_exist
+    Patent Citations (12)
+citation_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP4244499B2                      *,2000-05-25,2009-03-25,アイシン・エィ・ダブリュ株式会社,Control device and control method for hybrid vehicle
+    JP2005319984A                      *,2004-04-08,2005-11-17,Komatsu Ltd,Drive device for working vehicle, and method of controlling the drive of working vehicle
+    JP4789507B2,2005-05-24,2011-10-12,株式会社小松製作所,Transmission
+    JP4846359B2                      *,2005-12-22,2011-12-28,株式会社小松製作所,Control device for work vehicle
+    JP2007298050A                      *,2006-04-27,2007-11-15,Yanmar Co Ltd,Working vehicle shift control device
+    JP2009051366A                      *,2007-08-27,2009-03-12,Toyota Motor Corp,Controller for hybrid vehicle
+    JP2009202710A                      *,2008-02-27,2009-09-10,Nissan Motor Co Ltd,Vehicle behavior control device and method thereof
+    JP5218244B2                      *,2009-04-17,2013-06-26,トヨタ自動車株式会社,Hybrid car
+    WO2013029054A1                      *,2011-08-25,2013-02-28,Cnh America Llc,Proportional parking brake control in cooperation with operation of a continuously variable transmission
+    WO2014011173A1                      *,2012-07-12,2014-01-16,Cnh America, Llc,System and method for controlling rollback of a work vehicle
+    EP2910441B1                      *,2013-06-28,2017-11-08,Komatsu Ltd.,Work vehicle and method for controlling work vehicle
+    JP6364194B2                      *,2014-01-29,2018-07-25,株式会社小松製作所,Work vehicle and control method thereof
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (8)
+              
+
+
+citedBy_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    EP2910441B1,2013-06-28,2017-11-08,Komatsu Ltd.,Work vehicle and method for controlling work vehicle
+    EP2927072B1                      *,2013-10-18,2018-12-05,Komatsu Ltd.,Work vehicle and method for controlling work vehicle
+    JP6364194B2                      *,2014-01-29,2018-07-25,株式会社小松製作所,Work vehicle and control method thereof
+    JP6332232B2                      *,2015-10-30,2018-05-30,トヨタ自動車株式会社,Hybrid car
+    JP6569181B2                      *,2016-03-16,2019-09-04,日立建機株式会社,Work vehicle
+    JP7156806B2                      *,2018-02-23,2022-10-19,株式会社小松製作所,WORK VEHICLE AND CONTROL METHOD FOR WORK VEHICLE
+    DE102018216006A1                      *,2018-09-20,2020-03-26,Robert Bosch Gmbh,Control structure for a mobile work machine, method and work machine
+    DE102019200076A1                      *,2019-01-07,2020-07-09,Zf Friedrichshafen Ag,Method for increasing the comfort when reversing in a motor vehicle comprising an automatic transmission
+
+abstract
+    
+title
+    Work vehicle with control unit for power transmission device and method of operating the control unit of the work vehicle
+similar_document
+13
+    Publication,Publication Date,Title
+    EP2927071B1,2017-10-25,Work vehicle with control unit for power transmission device and method of operating the control unit of the work vehicle
+    EP2910441B1,2017-11-08,Work vehicle and method for controlling work vehicle
+    EP2993332B1,2021-11-03,Work vehicle and method for controlling same
+    EP2990287B1,2018-06-27,Work vehicle, and method of controlling same
+    EP2942439A1,2015-11-11,Work vehicle and control method for same
+    EP2993098B1,2020-10-07,Work vehicle, and work vehicle control method
+    EP2949530A1,2015-12-02,Work vehicle, and method of controlling same
+    EP2955282B1,2018-01-31,Work vehicle and controlling method therefor
+    EP3053797B1,2020-06-17,Work vehicle, and work vehicle control method
+    EP2939893B1,2021-09-29,Work vehicle, and method of controlling same
+    US20170044736A1,2017-02-16,Work vehicle and method for controlling work vehicle
+    EP2955076B1,2022-01-26,Utility vehicle, and control method for same
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    8
+classfication_nums
+    39
+classfication_items
+246
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,0,8
+    B,6,0,K,6,/,1,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,3,6
+    B,6,0,K,6,/,3,6,5
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,3,8
+    B,6,0,K,6,/,3,8,7
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,4
+    B,6,0,K,6,/,4,4,5
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,5,0
+    B,6,0,K,6,/,5,4
+    B,6,0,K,6,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,0
+    B,6,0,W,1,0,/,1,1
+    B,6,0,W,1,0,/,1,1,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,4
+    B,6,0,W,1,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,0,3,6
+    B,6,0,W,3,0,/,1,8,0,4,5
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,0,2
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,0,5,8
+    E,0,2,F,9,/,2,0,7,9
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,/,0,0
+    F,1,5,B,1,/,0,2
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,1,/,0,0
+    F,1,5,B,2,1,/,0,0,1
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,3,/,0,0
+    F,1,6,H,3,/,4,4
+    F,1,6,H,3,/,6,2
+    F,1,6,H,3,/,6,6
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,3,/,0,0
+    F,1,6,H,3,/,4,4
+    F,1,6,H,3,/,7,2
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,3,/,0,0
+    F,1,6,H,3,/,4,4
+    F,1,6,H,3,/,7,2
+    F,1,6,H,3,/,7,2,7
+    F,1,6,H,3,/,7,2,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,3,8
+    B,6,0,K,2,0,0,6,/,3,8,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,3,0,0,/,0,0
+    B,6,0,W,2,3,0,0,/,1,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,6
+    B,6,0,W,2,7,1,0,/,0,6,6,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,0,1,/,0,0
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,3,7,/,0,0
+    F,1,6,H,3,7,/,0,2
+    F,1,6,H,3,7,/,0,6
+    F,1,6,H,3,7,/,0,8
+    F,1,6,H,3,7,/,1,0
+    F,1,6,H,2,0,3,7,/,1,0,1
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,2,2,0,0,/,0,0
+    F,1,6,H,2,2,0,0,/,2,0
+    F,1,6,H,2,2,0,0,/,2,0,0,2
+    F,1,6,H,2,2,0,0,/,2,0,0,7
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,2,2,0,0,/,0,0
+    F,1,6,H,2,2,0,0,/,2,0
+    F,1,6,H,2,2,0,0,/,2,0,3
+    F,1,6,H,2,2,0,0,/,2,0,4,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+
+application_events
+7
+    2014-09-03,Application filed by Komatsu Ltd
+    2015-10-07,Publication of EP2927071A1
+    2016-09-14,Publication of EP2927071A4
+    2017-10-25,Application granted
+    2017-10-25,Publication of EP2927071B1
+    Status,Active
+    2034-09-03,Anticipated expiration
+
+active_area
+5
+    J,P
+    W,O
+    U,S
+    C,N
+    E,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2013217412,2013-10-18,
+    PCT/JP2014/073187,2014-09-03,Work vehicle and method for controlling work vehicle
+
+legal_event
+50
+    Date,Code,Title,Description
+    2015-09-04,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2015-10-07,17P,Request for examination filed,Effective date: 20150702
+    2015-10-07,AK,Designated contracting states,Kind code of ref document: A1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2015-10-07,AX,Request for extension of the european patent,Extension  state: BA ME
+    2016-09-14,RA4,Supplementary search report drawn up and despatched (corrected),Effective date: 20160816
+    2016-09-14,RIC1,Information provided on ipc code assigned before grant,Ipc: F16H   3/72        20060101ALI20160809BHEPIpc: B60W  10/26        20060101ALI20160809BHEPIpc: B60W  10/10        20120101ALI20160809BHEPIpc: F15B  21/00        20060101ALI20160809BHEPIpc: B60K   6/445       20071001ALI20160809BHEPIpc: E02F   9/20        20060101ALI20160809BHEPIpc: F15B   1/02        20060101ALI20160809BHEPIpc: B60L  11/14        20060101ALI20160809BHEPIpc: B60W  20/00        20160101ALI20160809BHEPIpc: B60W  10/08        20060101AFI20160809BHEPIpc: F16H  37/10        20060101ALI20160809BHEPIpc: F16H   3/66        20060101ALI20160809BHEPIpc: B60L  11/18        20060101ALI20160809BHEP
+    2017-01-25,DAX,Request for extension of the european patent (deleted),
+    2017-04-27,GRAP,Despatch of communication of intention to grant a patent,Free format text: ORIGINAL CODE: EPIDOSNIGR1
+    2017-05-17,RIC1,Information provided on ipc code assigned before grant,Ipc: B60L   7/18        20060101ALI20170410BHEPIpc: E02F   9/20        20060101ALI20170410BHEPIpc: B60W  10/10        20120101ALI20170410BHEPIpc: B60W  20/00        20160101ALI20170410BHEPIpc: F16H   3/72        20060101ALI20170410BHEPIpc: F15B  21/00        20060101ALI20170410BHEPIpc: B60W  10/08        20060101AFI20170410BHEPIpc: F16H  37/10        20060101ALI20170410BHEPIpc: F16H   3/66        20060101ALI20170410BHEPIpc: B60L  11/14        20060101ALI20170410BHEPIpc: B60W  10/26        20060101ALI20170410BHEPIpc: B60L  11/18        20060101ALI20170410BHEPIpc: B60K   6/445       20071001ALI20170410BHEPIpc: F15B   1/02        20060101ALI20170410BHEP
+    2017-05-24,INTG,Intention to grant announced,Effective date: 20170428
+    2017-08-22,GRAS,Grant fee paid,Free format text: ORIGINAL CODE: EPIDOSNIGR3
+    2017-09-22,GRAA,(expected) grant,Free format text: ORIGINAL CODE: 0009210
+    2017-10-25,AK,Designated contracting states,Kind code of ref document: B1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2017-10-25,REG,Reference to a national code,Ref country code: GBRef legal event code: FG4D
+    2017-10-31,REG,Reference to a national code,Ref country code: CHRef legal event code: EP
+    2017-11-15,REG,Reference to a national code,Ref country code: ATRef legal event code: REFRef document number: 939619Country of ref document: ATKind code of ref document: TEffective date: 20171115
+    2017-11-28,REG,Reference to a national code,Ref country code: SERef legal event code: TRGR
+    2017-11-29,REG,Reference to a national code,Ref country code: IERef legal event code: FG4D
+    2017-12-07,REG,Reference to a national code,Ref country code: DERef legal event code: R096Ref document number: 602014016428Country of ref document: DE
+    2018-02-28,REG,Reference to a national code,Ref country code: NLRef legal event code: MPEffective date: 20171025
+    2018-03-12,REG,Reference to a national code,Ref country code: LTRef legal event code: MG4D
+    2018-03-15,REG,Reference to a national code,Ref country code: ATRef legal event code: MK05Ref document number: 939619Country of ref document: ATKind code of ref document: TEffective date: 20171025
+    2018-03-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: NLFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20171025
+    2018-04-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: LTFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20171025Ref country code: FIFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20171025Ref country code: NOFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180125Ref country code: ESFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20171025
+    2018-05-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: GRFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180126Ref country code: RSFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20171025Ref country code: HRFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20171025Ref country code: BGFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180125Ref country code: ISFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20180225Ref country code: LVFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20171025Ref country code: ATFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20171025
+    2018-07-26,REG,Reference to a national code,Ref country code: DERef legal event code: R097Ref document number: 602014016428Country of ref document: DE
+    2018-07-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: CZFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20171025Ref country code: SKFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20171025Ref country code: EEFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20171025Ref country code: CYFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20171025Ref country code: DKFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20171025
+    2018-08-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: ROFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20171025Ref country code: ITFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20171025Ref country code: SMFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20171025Ref country code: PLFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20171025
+    2018-08-31,PLBE,No opposition filed within time limit,Free format text: ORIGINAL CODE: 0009261
+    2018-08-31,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: NO OPPOSITION FILED WITHIN TIME LIMIT
+    2018-10-03,26N,No opposition filed,Effective date: 20180726
+    2018-11-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: SIFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20171025
+    2019-01-31,REG,Reference to a national code,Ref country code: CHRef legal event code: PKFree format text: BERICHTIGUNGEN
+    2019-02-13,RIC2,Information provided on ipc code assigned after grant,Ipc: F15B   1/02        20060101ALI20170410BHEPIpc: B60W  10/26        20060101ALI20170410BHEPIpc: F16H  37/10        20060101ALI20170410BHEPIpc: E02F   9/20        20060101ALI20170410BHEPIpc: F15B  21/00        20060101ALI20170410BHEPIpc: B60W  10/10        20120101ALI20170410BHEPIpc: B60K   6/445       20071001ALI20170410BHEPIpc: B60L  11/14        20060101ALI20170410BHEPIpc: B60L  11/18        20060101ALI20170410BHEPIpc: F16H   3/72        20060101ALI20170410BHEPIpc: B60L   7/18        20060101ALI20170410BHEPIpc: F16H   3/66        20060101ALI20170410BHEPIpc: B60W  10/08        20060101AFI20170410BHEPIpc: B60W  20/00        20160101ALI20170410BHEP
+    2019-04-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: MCFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20171025
+    2019-04-30,REG,Reference to a national code,Ref country code: CHRef legal event code: PL
+    2019-05-22,GBPC,Gb: european patent ceased through non-payment of renewal fee,Effective date: 20180903
+    2019-06-12,REG,Reference to a national code,Ref country code: BERef legal event code: MMEffective date: 20180930
+    2019-06-26,REG,Reference to a national code,Ref country code: IERef legal event code: MM4A
+    2019-06-28,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: LUFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20180903
+    2019-07-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: IEFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20180903
+    2019-08-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: FRFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20180930Ref country code: BEFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20180930Ref country code: CHFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20180930Ref country code: LIFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20180930
+    2019-10-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: GBFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20180903
+    2020-01-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: MTFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20180903
+    2020-03-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: TRFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20171025
+    2020-05-29,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: PTFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20171025
+    2020-06-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: HUFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT; INVALID AB INITIOEffective date: 20140903Ref country code: MKFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20171025
+    2020-07-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: ALFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20171025
+    2022-10-31,PGFP,Annual fee paid to national office [announced via postgrant information from national office to epo],Ref country code: SEPayment date: 20220811Year of fee payment: 9Ref country code: DEPayment date: 20220621Year of fee payment: 9
+

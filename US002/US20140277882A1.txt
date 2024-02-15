@@ -1,0 +1,364 @@
+ID
+    US20140277882A1
+citation_exist
+    Patent Citations (8)
+citation_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20120019231A1                      *,2010-07-21,2012-01-26,Ford Global Technologies, Llc,Variable Voltage Converter with Direct Output Voltage Clamping
+    US20140001985A1                      *,2012-06-29,2014-01-02,Ford Global Technologies, Llc,Vehicle system for evaluating a voltage converter
+    US20140062348A1                      *,2012-08-31,2014-03-06,Ford Global Technologies, Llc,Control strategy for an electric machine in a vehicle
+    US20140114514A1                      *,2012-10-19,2014-04-24,Ford Global Technologies, Llc,Delayed electric-only operation of a hybrid vehicle
+    US20140114512A1                      *,2012-10-19,2014-04-24,Ford Global Technologies, Llc,User override for electric-only operation of a hybrid vehicle
+    Family To Family Citations,,,,
+    EP0177114B1,1984-09-05,1992-04-22,Kabushiki Kaisha Meidensha,Method and system for reconnecting inverter to rotating motors
+    US6405818B1,2000-04-11,2002-06-18,Ford Global Technologies, Inc.,Hybrid electric vehicle with limited operation strategy
+    US6573675B2,2000-12-27,2003-06-03,Transportation Techniques Llc,Method and apparatus for adaptive energy control of hybrid electric vehicle propulsion
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (8)
+              
+
+
+citedBy_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    US9387766B2                      *,2014-09-11,2016-07-12,GM Global Technology Operations LLC,Vehicle with selectively enabled boost converter
+    US9440644B2                      *,2014-05-20,2016-09-13,Ford Global Technologies, Llc,Selective electric mode for electric vehicle
+    JP2017165280A                      *,2016-03-16,2017-09-21,トヨタ自動車株式会社,Hybrid vehicle
+    US20180244265A1                      *,2017-02-27,2018-08-30,Ford Global Technologies, Llc,Autonomous motor control during loss of motor communications
+    JP2018154284A                      *,2017-03-21,2018-10-04,トヨタ自動車株式会社,Hybrid-vehicular control apparatus
+    US20210107668A1                      *,2016-09-12,2021-04-15,Ansel Misfeldt,Integrated feedback to flight computer for adjusting power distribution to rotorcraft motors
+    US20220048393A1                      *,2020-08-11,2022-02-17,The Boeing Company,Power system controller failsafe cycling protection
+    Family To Family Citations,,,,
+    US9834206B1                      *,2017-03-29,2017-12-05,Ford Global Technologies, Llc,Fault-tolerant operation of hybrid electric vehicle
+
+abstract
+    A system and method for controlling an electric vehicle include at least one controller configured to detect an over-voltage condition when an electric-machine voltage exceeds an over-voltage threshold. In response to the over-voltage condition, the electric machine and a variable voltage controller (VVC) are disabled. Upon determining the electric-machine voltage is decreased to at least a second threshold being less than the over-voltage threshold, the controller is configured to set the VVC to a limited-operation mode. Upon determining the electric-machine voltage is decreased to at least a third threshold being less than the second threshold and the over-voltage threshold, the controller is configured to re-enable the electric machine and set the VVC to a normal-operation mode. The limited operation-mode enables the vehicle to maintain vehicle propulsion during the drive-cycle as the electric machine is recovered from a transient condition causing the over-voltage condition.
+title
+    Control Strategy For An Electric Machine In A Vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US9106162B2,2015-08-11,Control strategy for an electric machine in a vehicle
+    US9130487B2,2015-09-08,Control strategy for an electric machine in a vehicle
+    US8965618B2,2015-02-24,Control strategy for an electric machine in a vehicle
+    JP6011541B2,2016-10-19,Charge control device and charge control method
+    US20170232969A1,2017-08-17,Systems and methods for managing torque
+    JP2017178054A,2017-10-05,Hybrid-vehicular power control apparatus
+    JP6730667B2,2020-07-29,Vehicle drive device
+    JP5010288B2,2012-08-29,Control device for hybrid vehicle
+    US8768550B2,2014-07-01,Electric vehicle
+    CN107264294B,2020-08-14,Traveling drive device for vehicle
+    JP2005348583A,2005-12-15,Controller for electric vehicle
+    JP5510283B2,2014-06-04,Power storage unit protection system for vehicles
+    JP5780195B2,2015-09-16,Hybrid vehicle
+    JP2006262645A,2006-09-28,Vehicle control device
+    JP6730668B2,2020-07-29,Vehicle drive device
+    JP2018012355A,2018-01-25,Battery control system of hybrid vehicle
+    US9714029B2,2017-07-25,Vehicle electric machine control strategy
+    KR20110035693A,2011-04-06,Apparatus for controlling fail safe of hybrid vehicle and controlling method thereof
+    KR101518898B1,2015-05-15,Charge sustaining mode control system for plug in hybrid vehicle and method thereof
+    JP2009060726A,2009-03-19,Vehicle power supply device and control method therefor
+    US8963351B2,2015-02-24,Hybrid vehicle and output control method of vehicle-mounted power storage device
+    JP2007210413A,2007-08-23,Power output device, vehicle mounted therewith, and control method for power output device
+    CN104052367B,2016-06-22,Control strategy for the motor in vehicle
+    JP5370291B2,2013-12-18,vehicle
+    US10040447B2,2018-08-07,Control strategy for an electric machine in a vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+4
+    Application,Priority date,Filing date,Title
+    US14/039,901,2013-03-15,2013-09-27,Control strategy for an electric machine in a vehicle
+    DE102014204803.6A,2013-03-15,2014-03-14,Control strategy for an electric machine in a vehicle
+    CN201410099301.4A,2013-03-15,2014-03-17,Control strategy for the motor in vehicle
+
+inventor_number
+    2
+classfication_nums
+    39
+classfication_items
+244
+    H
+    H,0,2
+    H,0,2,H
+    H,0,2,H,7,/,0,0
+    H,0,2,H,7,/,0,8
+    H,0,2,H,7,/,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,5,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,4
+    B,6,0,W,1,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,5,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,2
+    B,6,0,W,5,0,/,0,3,5
+    H
+    H,0,2
+    H,0,2,H
+    H,0,2,H,3,/,0,0
+    H,0,2,H,3,/,0,2
+    H,0,2,H,3,/,0,6
+    H,0,2,H,3,/,0,6,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B,6,0,L,2,2,1,0,/,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,8
+    B,6,0,L,2,2,4,0,/,4,8,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,8,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,2
+    B,6,0,W,5,0,/,0,2,9
+    B,6,0,W,2,0,5,0,/,0,2,9,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,2
+    B,6,0,W,5,0,/,0,2,9
+    B,6,0,W,2,0,5,0,/,0,2,9,7
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,4,0,0,/,0,0
+    B,6,0,Y,2,4,0,0,/,3,0
+    B,6,0,Y,2,4,0,0,/,3,0,8
+    B,6,0,Y,2,4,0,0,/,3,0,8,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+
+application_events
+7
+    2013-09-27,Application filed by Ford Global Technologies LLC
+    2013-09-27,Priority to US14/039,901
+    2014-09-18,Publication of US20140277882A1
+    2015-02-24,Application granted
+    2015-02-24,Publication of US8965618B2
+    Status,Active
+    2033-09-27,Anticipated expiration
+
+active_area
+1
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    US201361788929P,2013-03-15,
+    US14/039,901,2013-09-27,Control strategy for an electric machine in a vehicle
+
+legal_event
+5
+    Date,Code,Title,Description
+    2013-09-30,AS,Assignment,Owner name: FORD GLOBAL TECHNOLOGIES, LLC, MICHIGANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:ISAYEVA, RIMMA;REEL/FRAME:031309/0407Effective date: 20130925
+    2015-02-04,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2018-07-16,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551)Year of fee payment: 4
+    2022-07-13,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+

@@ -1,0 +1,206 @@
+ID
+    WO2012050010A1
+citation_exist
+    Patent Citations (13)
+citation_infor
+15
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH09224302A,1996-02-19,1997-08-26,Aqueous Res:Kk,ハイブリッド車両
+    JPH11164402A,1997-11-28,1999-06-18,Aisin Aw Co Ltd,ハイブリッド車両の制御装置及び制御方法
+    JP2002359935A,2001-05-31,2002-12-13,Komatsu Ltd,ハイブリッド作業機械の蓄電部充放電制御装置
+    WO2010114036A1                      *,2009-03-31,2010-10-07,日立建機株式会社,電源システムを備えた建設機械及び産業車両
+    Family To Family Citations,,,,
+    JP3709654B2                      *,1997-05-21,2005-10-26,日立建機株式会社,掘削手段を備えた土質改良機械
+    US7869923B2                      *,2004-09-24,2011-01-11,Komatsu Ltd.,Slewing controller, slewing control method, and construction machine
+    US8207708B2                      *,2007-03-23,2012-06-26,Komatsu Ltd.,Power generation control method of hybrid construction machine and hybrid construction machine
+    WO2009001587A1                      *,2007-06-26,2008-12-31,Hitachi Construction Machinery Co., Ltd.,自走式建設機械
+    JP5096813B2                      *,2007-07-03,2012-12-12,日立建機株式会社,建設機械のエンジン制御装置
+    EP2314848A4                      *,2008-06-27,2017-01-25,Sumitomo Heavy Industries, LTD.,Hybrid construction machine
+    JP5079725B2                      *,2009-03-05,2012-11-21,住友重機械工業株式会社,作業機械
+    JP5116787B2                      *,2009-03-05,2013-01-09,住友重機械工業株式会社,ハイブリッド型作業機械
+    JP5228000B2                      *,2010-05-26,2013-07-03,日立建機株式会社,ハイブリッド式建設機械
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (13)
+              
+
+
+citedBy_infor
+15
+    Publication number,Priority date,Publication date,Assignee,Title
+    WO2014047564A1                      *,2012-09-21,2014-03-27,Harnischfeger Technologies, Inc.,Energy management system for machinery performing a predictable work cycle
+    Family To Family Citations,,,,
+    JP5226733B2                      *,2010-05-20,2013-07-03,株式会社小松製作所,ハイブリッド建設機械およびハイブリッド建設機械の蓄電器容量計測方法
+    JP2014087115A                      *,2012-10-22,2014-05-12,Kobe Steel Ltd,建設機械用２次電池保護回路
+    JP5580914B1                      *,2013-03-22,2014-08-27,トヨタ自動車株式会社,電源制御装置
+    JP6324661B2                      *,2013-03-29,2018-05-16,住友重機械工業株式会社,ショベル
+    CN103342124B                      *,2013-07-25,2016-08-10,潍柴动力股份有限公司,一种取力器取力的控制方法及装置
+    JP6324072B2                      *,2014-01-07,2018-05-16,株式会社Kcm,ハイブリッド式ホイールローダ
+    JP6557472B2                      *,2015-01-06,2019-08-07,川崎重工業株式会社,作業機械の駆動制御システム、それを備える作業機械、及びその駆動制御方法
+    JP6243856B2                      *,2015-01-22,2017-12-06,日立建機株式会社,ハイブリッド建設機械
+    JP6708969B2,2016-12-08,2020-06-10,コベルコ建機株式会社,旋回制御装置
+    WO2018176041A1                      *,2017-03-24,2018-09-27,Sturman Digital Systems, Llc,Multiple engine block and multiple engine internal combustion power plants for both stationary and mobile applications
+    JP6961548B2                      *,2018-07-19,2021-11-05,日立建機株式会社,建設機械
+    US11319694B2,2018-09-28,2022-05-03,Hitachi Construction Machinery Tierra Co., Ltd.,Electric construction machine
+
+abstract
+    本発明は、旋回部や油圧作業装置の駆動を考慮し、キャパシタに電力を有効に充電することができる建設機械を提供することを目的とする。そのために、建設機械（２）の状態を予め把握しエネルギを算出して、次の動作を予測し、キャパシタ（１３）に充電するエネルギ量を決定し、それに伴いＤＣ／ＤＣコンバータ（１５）を制御することとした。これにより、従来のバッテリ（鉛蓄電池）における回生時の損失を減らすことが可能となり、効率が向上する。
+title
+    建設機械
+similar_document
+17
+    Publication,Publication Date,Title
+    WO2012050010A1,2012-04-19,建設機械
+    JP5340381B2,2013-11-13,電源システムを備えた建設機械及び産業車両
+    JP5356543B2,2013-12-04,作業用車両の駆動制御装置
+    CN102459769B,2014-03-26,混合式挖土机及其控制方法
+    JP5841399B2,2016-01-13,ハイブリッド式建設機械及びその制御方法
+    US9598838B2,2017-03-21,Hybrid work vehicle with load dependent target state of charge
+    KR101834598B1,2018-04-13,하이브리드식 건설 기계
+    JP5174875B2,2013-04-03,ハイブリッドホイールローダ
+    US8297392B2,2012-10-30,Hybrid energy management system
+    JP5922151B2,2016-05-24,作業機械
+    CN102318181A,2012-01-11,混合式挖掘机
+    JP2010173599A,2010-08-12,ハイブリッド式作業機械の制御方法、及びサーボ制御システムの制御方法
+    JP6243857B2,2017-12-06,ハイブリッド建設機械
+    JP2011079637A,2011-04-21,電動産業車両
+    JP6243856B2,2017-12-06,ハイブリッド建設機械
+    JP2015123803A,2015-07-06,ハイブリッド式作業車両
+
+patent_application
+    NoExist
+patent_priority_application
+5
+    Application,Priority date,Filing date,Title
+    KR1020137007950A,2010-10-14,2011-10-04,건설 기계
+    US13/878,822,2010-10-14,2011-10-04,Construction machine
+    CN2011800496393A,2010-10-14,2011-10-04,工程机械
+    EP11832446.6A,2010-10-14,2011-10-04,Construction machine
+
+inventor_number
+    9
+classfication_nums
+    12
+classfication_items
+78
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,0,8
+    E,0,2,F,9,/,1,0
+    E,0,2,F,9,/,1,2
+    E,0,2,F,9,/,1,2,1
+    E,0,2,F,9,/,1,2,3
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,3,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    B
+    B,6,6
+    B,6,6,F
+    B,6,6,F,9,/,0,0
+    B,6,6,F,9,/,0,6
+    B,6,6,F,9,/,0,7,5
+    B,6,6,F,9,/,0,7,5,7,2
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,3,/,0,0
+    E,0,2,F,3,/,0,4
+    E,0,2,F,3,/,2,8
+    E,0,2,F,3,/,3,0
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,3,/,0,0
+    E,0,2,F,3,/,0,4
+    E,0,2,F,3,/,2,8
+    E,0,2,F,3,/,3,6
+    E,0,2,F,3,/,4,2
+    E,0,2,F,3,/,4,2,5
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,0,5,8
+    E,0,2,F,9,/,2,0,9,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,5,0
+    B,6,0,L,2,2,6,0,/,5,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+6
+    2011-10-04,Application filed by 日立建機株式会社
+    2011-10-04,Priority to KR1020137007950A
+    2011-10-04,Priority to US13/878,822
+    2011-10-04,Priority to CN2011800496393A
+    2011-10-04,Priority to EP11832446.6A
+    2012-04-19,Publication of WO2012050010A1
+
+active_area
+3
+    J,P
+    C,N
+    W,O
+
+not_active_area
+3
+    U,S
+    K,R
+    E,P
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2010-231086,2010-10-14,
+    JP2010231086A,2010-10-14,建設機械
+
+legal_event
+7
+    Date,Code,Title,Description
+    2011-10-04,WWE,Wipo information: entry into national phase,Ref document number: 201180049639.3Country of ref document: CN
+    2012-06-06,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 11832446Country of ref document: EPKind code of ref document: A1
+    2013-03-28,ENP,Entry into the national phase,Ref document number: 20137007950Country of ref document: KRKind code of ref document: A
+    2013-04-10,WWE,Wipo information: entry into national phase,Ref document number: 2011832446Country of ref document: EP
+    2013-04-15,NENP,Non-entry into the national phase,Ref country code: DE
+    2013-11-18,WWE,Wipo information: entry into national phase,Ref document number: 13878822Country of ref document: US
+

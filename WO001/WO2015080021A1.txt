@@ -1,0 +1,190 @@
+ID
+    WO2015080021A1
+citation_exist
+    Patent Citations (6)
+citation_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH10304508A                      *,1997-04-25,1998-11-13,Toyota Motor Corp,電気自動車のモータ制御装置
+    JPH10304509A                      *,1997-04-23,1998-11-13,Honda Motor Co Ltd,電気自動車の制御装置
+    JP2003174702A                      *,2001-12-04,2003-06-20,Fuji Heavy Ind Ltd,電気自動車の制御装置
+    JP2012105461A                      *,2010-11-10,2012-05-31,Honda Motor Co Ltd,電動車両用制御装置
+    JP2013155656A                      *,2012-01-30,2013-08-15,Mitsubishi Motors Corp,回生制御装置
+    JP2013219942A                      *,2012-04-10,2013-10-24,Ntn Corp,電気自動車
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (8)
+              
+
+
+citedBy_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN109733210A                      *,2019-02-26,2019-05-10,浙江吉利汽车研究院有限公司,一种整车控制器及具有其的电动汽车
+    CN112172521A                      *,2020-09-02,2021-01-05,宝能(广州)汽车研究院有限公司,驱动控制方法、计算机可读存储介质以及车辆
+    WO2022095132A1                      *,2020-11-06,2022-05-12,广东高标电子科技有限公司,一种电动车制动能量回收方法
+    Family To Family Citations,,,,
+    JP6641784B2                      *,2015-08-24,2020-02-05,日産自動車株式会社,電動車両の制御方法、及び、制御装置
+    JP6641787B2                      *,2015-08-25,2020-02-05,日産自動車株式会社,電動車両の制御方法、及び、制御装置
+    CN111098717B                      *,2019-12-20,2021-07-30,中国第一汽车股份有限公司,一种电动汽车的单踏板控制方法、装置及系统
+    US11745600B2,2020-02-04,2023-09-05,Subaru Corporation,Driving force controller for vehicle
+    CN112428829B                      *,2020-11-30,2022-04-01,合肥巨一动力系统有限公司,一种电动汽车用制动能量回馈控制方法
+
+abstract
+    力行制御と回生制御との間の切換時のショックを低減すると共に、制動距離の短縮を図ることができる電気自動車の制御装置を提供する。この電気自動車の制御装置のモータコントロール部(29)は、力行制御手段(33a)と、回生制御手段(33b)と、これら力行制御手段(33a)および回生制御手段(33b)のいずれを用いるかをＥＣＵ(21)からの指令フラグにより切換える力行・回生制御切換制御部(33c)とを有する。さらに車速検出手段(37)を設け、ＥＣＵ(21)からの指令フラグに基づく力行制御と回生制御との間の切換時に、車速検出手段(37)で検出される車速、アクセルペダル(16a)の踏込み量、およびブレーキペダル(17a)の踏込み量に応じて、時間当たりの力行または回生指令トルクの増加率を異ならせる力行・回生指令トルク増加率変更手段(34)を、モータコントロール部(29)に設けた。
+title
+    電気自動車の制御装置
+similar_document
+23
+    Publication,Publication Date,Title
+    WO2015080021A1,2015-06-04,電気自動車の制御装置
+    US9855858B2,2018-01-02,Control device for electric vehicle
+    JP4985956B2,2012-07-25,電動機の制御装置
+    JP2008259302A,2008-10-23,電動機の制御装置
+    US9956890B2,2018-05-01,Device for controlling electric automobile
+    WO2016052234A1,2016-04-07,電気自動車の制御装置
+    JP4163226B2,2008-10-08,モータの制御装置
+    WO2017018335A1,2017-02-02,モータ駆動装置
+    US9586484B2,2017-03-07,Electric-vehicle control device
+    WO2016052233A1,2016-04-07,電気自動車の制御装置
+    JP2008079420A,2008-04-03,電気自動車
+    JP2017017829A,2017-01-19,電気自動車の左右輪独立制御装置
+    JP6772501B2,2020-10-21,自動車
+    JP2016067147A,2016-04-28,電気自動車制御装置
+    US10819267B2,2020-10-27,Controller for switched reluctance motor
+    WO2016043077A1,2016-03-24,車両の駆動制御装置
+    JP2015154528A,2015-08-24,電気自動車の制御装置
+    WO2017126389A1,2017-07-27,電動モータ装置
+    JP2016220271A,2016-12-22,電気自動車の制御装置
+    JP2015035875A,2015-02-19,電気自動車の制御装置
+    JP2021061699A,2021-04-15,モータ制御装置、モータ制御方法および電動パワーステアリング装置
+    JP2014230384A,2014-12-08,電気自動車の制御装置
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    14
+classfication_items
+85
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,2
+    B,6,0,L,1,5,/,0,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,1,0
+    B,6,0,L,2,2,7,0,/,1,4
+    B,6,0,L,2,2,7,0,/,1,4,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+2
+    2014-11-20,Application filed by Ntn株式会社, 李国棟
+    2015-06-04,Publication of WO2015080021A1
+
+active_area
+2
+    J,P
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2013-245786,2013-11-28,
+    JP2013245786A,2013-11-28,電気自動車の制御装置
+
+legal_event
+4
+    Date,Code,Title,Description
+    2015-07-15,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 14865997Country of ref document: EPKind code of ref document: A1
+    2016-05-30,NENP,Non-entry into the national phase,Ref country code: DE
+    2016-12-21,122,Ep: pct application non-entry in european phase,Ref document number: 14865997Country of ref document: EPKind code of ref document: A1
+

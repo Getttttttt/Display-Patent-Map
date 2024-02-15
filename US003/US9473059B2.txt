@@ -1,0 +1,287 @@
+ID
+    US9473059B2
+citation_exist
+    Patent Citations (11)
+citation_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5047699A                      *,1989-06-26,1991-09-10,Sundstrand Corporation,VSCF start system motor current estimator
+    JPH09107602A,1995-10-09,1997-04-22,Hitachi Ltd,Controller of electric vehicle
+    JP2000023499A,1998-07-06,2000-01-21,Toyota Motor Corp,Motor controller
+    US6137258A                      *,1998-10-26,2000-10-24,General Electric Company,System for speed-sensorless control of an induction machine
+    JP2004159391A,2002-11-05,2004-06-03,Nissan Motor Co Ltd,Control device for three-phase ac motor
+    US20080079385A1,2006-09-28,2008-04-03,Sanyo Electric Co., Ltd.,Motor control device
+    JP2012257360A,2011-06-08,2012-12-27,Denso Corp,Controller of rotary machine
+    US20130214712A1,2012-02-22,2013-08-22,Denso Corporation,Ac motor control apparatus
+    US20130214709A1,2012-02-22,2013-08-22,Denso Corporation,Ac motor control apparatus
+    US20130214713A1,2012-02-22,2013-08-22,Denso Corporation,Controller for ac motor
+    US20140117893A1,2012-11-01,2014-05-01,Denso Corporation,Control apparatus for ac motor
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (15)
+              
+
+
+citedBy_infor
+17
+    Publication number,Priority date,Publication date,Assignee,Title
+    US10951142B2                      *,2017-05-24,2021-03-16,Hangzhou Sanhua Research Institute Co., Ltd.,Control system and control method
+    US11569763B2                      *,2020-11-30,2023-01-31,Nidec Motor Corporation,System and method for addressing failure-to-start condition in electric motor with internal magnets
+    Family To Family Citations,,,,
+    JP6099724B1                      *,2015-11-10,2017-03-22,三菱電機株式会社,Electric motor control device
+    JP6809093B2                      *,2016-09-29,2021-01-06,株式会社デンソー,Motor control device and electric power steering device using it
+    JP6292545B1                      *,2016-10-11,2018-03-14,株式会社安川電機,Motor control system, motor control device, and motor control method
+    EP3333034A1                      *,2016-12-07,2018-06-13,Visedo Oy,A device and a method for controlling an electromechanical power transmission chain
+    JP6856465B2                      *,2017-07-13,2021-04-07,ファナック株式会社,Brake inspection device and motor control device
+    WO2019049188A1                      *,2017-09-05,2019-03-14,株式会社日立製作所,Ac electric motor monitoring device and monitoring method, and electric motor drive system monitoring device and monitoring method
+    JP6962176B2                      *,2017-12-20,2021-11-05,株式会社デンソー,Power converter control device
+    CN108657020A                      *,2018-04-30,2018-10-16,武汉理工大学,The control method of finished and device sauntered after a kind of new-energy automobile automated intelligent is anti-
+    CN108900121B                      *,2018-07-10,2021-02-19,东莞市李群自动化技术有限公司,Motor initial phase and phase sequence detection method and permanent magnet synchronous motor control system
+    EP3819176A4                      *,2018-09-27,2021-09-15,Aisin Aw Co., Ltd.,Control device for vehicle drive device
+    CN109318756A                      *,2018-11-05,2019-02-12,长沙拓扑陆川新材料科技有限公司,A kind of electric energy control system for electric vehicle
+    JP7331778B2,2020-05-22,2023-08-23,株式会社デンソー,motor controller
+    CN112937313A                      *,2021-02-08,2021-06-11,重庆长安新能源汽车科技有限公司,Pure electric vehicle motor torque control method and device and storage medium
+
+abstract
+    A control apparatus controls an AC motor by detecting current passing through one phase. The apparatus includes an upper controller which includes a torque command calculation section, and a torque monitoring section monitoring torque to determine whether the torque is within a range, and a lower controller which controls current supply to an inverter based on a torque command value to control the motor, and which acquires information on a current-supply state and a rotation state of the motor and transmits information on a control state to the upper controller. At least one of the controllers estimates a current estimate value of an estimated phase or a d-q axis current estimate value based on a current detection value of the one phase and an electrical angle, and calculates information for monitoring torque based on the current estimate value. The torque monitoring section monitors the torque based on the information.
+title
+    Control apparatus for AC motor
+similar_document
+20
+    Publication,Publication Date,Title
+    US9473059B2,2016-10-18,Control apparatus for AC motor
+    US9903931B2,2018-02-27,Diagnostic device for voltage sensors
+    US9331627B2,2016-05-03,Control apparatus for AC motor
+    US8981688B2,2015-03-17,Control device for AC motor
+    US9154064B2,2015-10-06,Control device for AC motor
+    US9093936B2,2015-07-28,Control apparatus for AC motor
+    US9318982B2,2016-04-19,Control apparatus for AC motor
+    JP5807847B2,2015-11-10,AC motor control device
+    US9590551B2,2017-03-07,Control apparatus for AC motor
+    US8957613B2,2015-02-17,Control device for AC motor
+    US9007009B2,2015-04-14,Control apparatus for AC motor
+    JP5772843B2,2015-09-02,AC motor control device
+    US8957616B2,2015-02-17,Control device for AC motor
+    US9120388B2,2015-09-01,Rotating electrical machine drive system
+    US20140117893A1,2014-05-01,Control apparatus for ac motor
+    JP5741611B2,2015-07-01,AC motor control device
+    US9419554B2,2016-08-16,Control device of AC motor
+    JP5812021B2,2015-11-11,AC motor control device
+    JP5884747B2,2016-03-15,AC motor control device
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    34
+classfication_items
+162
+    H,0,2,P,2,1,/,1,4,8
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,1,/,0,0
+    H,0,2,P,2,1,/,1,4
+    H,0,2,P,2,1,/,2,0
+    B,6,0,L,1,1,/,0,0,5
+    B,6,0,L,1,1,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,2
+    B,6,0,L,1,5,/,0,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B,6,0,L,2,2,1,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,1,0
+    B,6,0,L,2,2,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,4,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,3
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,2,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y,0,2,T,1,0,/,7,0,7,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,2,5
+    Y,0,2,T,1,0,/,7,2,4,1
+    Y,0,2,T,1,0,/,7,2,7,5
+
+application_events
+7
+    2014-11-05,Application filed by Denso Corp
+    2014-12-19,Assigned to DENSO CORPORATION
+    2015-05-07,Publication of US20150123577A1
+    2016-10-18,Application granted
+    2016-10-18,Publication of US9473059B2
+    Status,Expired - Fee Related
+    2035-01-15,Adjusted expiration
+
+active_area
+0
+
+not_active_area
+2
+    J,P
+    U,S
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2013-229563,2013-11-05,
+    JP2013229563A,2013-11-05,AC motor control device
+
+legal_event
+8
+    Date,Code,Title,Description
+    2014-12-19,AS,Assignment,Owner name: DENSO CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:OMATA, RYUJI;OOWADA, TAKAHUMI;SIGNING DATES FROM 20130531 TO 20141124;REEL/FRAME:034681/0269
+    2015-11-02,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2016-09-28,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2020-06-08,FEPP,Fee payment procedure,Free format text: MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2020-11-23,LAPS,Lapse for failure to pay maintenance fees,Free format text: PATENT EXPIRED FOR FAILURE TO PAY MAINTENANCE FEES (ORIGINAL EVENT CODE: EXP.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2020-11-23,STCH,Information on status: patent discontinuation,Free format text: PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362
+    2020-12-15,FP,Lapsed due to failure to pay maintenance fee,Effective date: 20201018
+

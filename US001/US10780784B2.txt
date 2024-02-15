@@ -1,0 +1,228 @@
+ID
+    US10780784B2
+citation_exist
+    Patent Citations (9)
+citation_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20030073538A1                      *,2001-10-17,2003-04-17,Takahiro Eguchi,Power transmission
+    US20100038158A1                      *,2008-08-15,2010-02-18,Gm Global Technology Operations, Inc.,Hybrid vehicle auto start systems and methods
+    US20110000421A1                      *,2009-07-06,2011-01-06,Gm Global Technology Operations, Inc.,Method and apparatus to estimate automotive alternator belt slip
+    US20150155702A1                      *,2013-12-03,2015-06-04,Hyundai Motor Company,Drive control method based on detected dielectric breakdown
+    Family To Family Citations,,,,
+    KR101844094B1                      *,2013-11-22,2018-05-14,주식회사 만도,Transmission Control Apparatus of Belt Type Mild Hybrid Vehicle and Transmission Control Method Using the Same
+    KR101646409B1                      *,2014-12-11,2016-08-05,현대자동차주식회사,System and method for controlling energy regeneration of mild hybrid vehicle
+    KR102200095B1                      *,2015-05-28,2021-01-07,현대자동차주식회사,System and method for energy regeneration of mild hybrid electric vehicle
+    KR101776761B1,2016-07-19,2017-09-08,현대자동차 주식회사,Method and appratus of determining performance of battery for mild hybrid electric vehicle
+    KR101786707B1,2016-09-12,2017-10-18,현대자동차 주식회사,System and method for a hybrid vehicle regenerative braking control
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    KR102214582B1,2019-12-04,2021-02-15,주식회사 현대케피코,Regenerative control method of Mild hybrid system
+    KR102358852B1,2020-07-27,2022-02-08,주식회사 현대케피코,Coasting regeneration control method and device of CVVD engine with MHEV
+
+abstract
+    A method for executing regenerative braking of a mild hybrid system may include performing, when a brake is operated while a vehicle having the mild hybrid system is traveling, regenerative braking only in a state in which a wheel torque is greater than a clutch load torque by a threshold, thereby preventing occurrence of an abnormal engine-off state during regenerative braking.
+title
+    Method for executing regenerative braking in a mild hybrid system
+similar_document
+26
+    Publication,Publication Date,Title
+    JP5686242B2,2015-03-18,Vehicle control device
+    CN105564421B,2020-02-18,Control method and system for preventing overheating of motor when TMED hybrid vehicle is driven
+    US8504232B2,2013-08-06,Electrically powered vehicle and method for controlling the same
+    US9796374B2,2017-10-24,Overheat prevention method for transmission clutch
+    CN109941088B,2022-06-17,Hybrid vehicle and control method for hybrid vehicle
+    US10131346B2,2018-11-20,Method for diagnosing demagnetization of motor of eco-friendly vehicle
+    CN106696948B,2020-05-12,Method and apparatus for controlling battery charging of motor system
+    US9346364B2,2016-05-24,Method for emergency driving of hybrid electric vehicle
+    US20170166197A1,2017-06-15,Belt controlling device and method of controlling belt for hybrid vehicle
+    US10780784B2,2020-09-22,Method for executing regenerative braking in a mild hybrid system
+    US10363918B2,2019-07-30,Method for controlling torque reduction of hybrid vehicle
+    CN108215812B,2020-07-28,Method and device for starting vehicle at low temperature
+    CN106467104B,2020-06-16,Method and apparatus for controlling engine start of hybrid electric vehicle
+    US10421369B2,2019-09-24,Vehicle refresh charge control device
+    US8606449B2,2013-12-10,Method and system for protecting battery of hybrid vehicle
+    CN105730434B,2020-01-10,System and method for controlling charging of hybrid vehicle
+    KR101724491B1,2017-04-07,Device and method for controlling driving of mild hybrid vehicle
+    CN115503741A,2022-12-23,Emergency operation system and method for hybrid vehicle
+    KR102564025B1,2023-08-04,Apparatus for controlling hybrid vehicle and method thereof
+    KR101500407B1,2015-03-10,Method and system for controlling driving of hybrid vehicle
+    KR101600711B1,2016-03-07,Apparatus for determine the operation of the generator in range extended electric vehicle and method thereof
+    WO2017094841A1,2017-06-08,Hybrid vehicle and control method therefor
+    KR102286837B1,2021-08-05,Apparatus and method for managing HEV battery
+    US20220290645A1,2022-09-15,Engine start control device
+    KR20190079126A,2019-07-05,Torque control method for preventing battery discharge and control apparatus
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    19
+classfication_items
+113
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,8
+    B,6,0,W,3,0,/,1,8,8,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,5
+    B,6,0,T,1,3,/,5,8,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B,6,0,W,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,1,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,2
+    B,6,0,W,2,5,1,0,/,0,2,7,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,6
+    B,6,0,W,2,5,1,0,/,0,6,5,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+
+application_events
+7
+    2018-11-01,Application filed by Hyundai Motor Co, Kia Motors Corp
+    2018-11-01,Assigned to HYUNDAI MOTOR COMPANY, KIA MOTORS CORPORATION
+    2019-05-30,Publication of US20190160952A1
+    2020-09-22,Application granted
+    2020-09-22,Publication of US10780784B2
+    Status,Active
+    2038-11-01,Anticipated expiration
+
+active_area
+3
+    K,R
+    D,E
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    KR1020170161691A,2017-11-29,Method for Entering Regenerative Braking of Mild Hybrid System
+    KR10-2017-0161691,2017-11-29,
+
+legal_event
+8
+    Date,Code,Title,Description
+    2018-11-01,AS,Assignment,Owner name: HYUNDAI MOTOR COMPANY, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:CHOI, KWANG-SEOK;REEL/FRAME:047387/0648Effective date: 20181005Owner name: KIA MOTORS CORPORATION, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:CHOI, KWANG-SEOK;REEL/FRAME:047387/0648Effective date: 20181005
+    2018-11-01,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2018-12-14,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2019-12-27,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2020-03-30,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2020-08-21,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2020-09-02,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

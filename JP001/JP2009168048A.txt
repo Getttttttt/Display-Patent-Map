@@ -1,0 +1,235 @@
+ID
+    JP2009168048A
+citation_exist
+    Patent Citations (3)
+citation_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2000074198A                      *,1998-09-01,2000-03-07,Aisin Aw Co Ltd,車両制御装置、車両制御方法及びそのプログラムを記録した記録媒体
+    JP2000289496A                      *,1998-04-28,2000-10-17,Toyota Motor Corp,無段変速機を備えた車両の制御装置
+    JP2006230051A                      *,2005-02-15,2006-08-31,Toyota Motor Corp,動力出力装置、それを搭載した車両及び動力出力装置の制御方法
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    EP2497679A3                      *,2011-03-07,2016-12-21,Mitsubishi Jidosha Kogyo Kabushiki Kaisha,Output torque control system
+    CN107956865A                      *,2016-10-18,2018-04-24,丰田自动车株式会社,用于车辆的显示系统
+    CN109760683A                      *,2017-11-08,2019-05-17,郑州宇通客车股份有限公司,一种分布式驱动的纯电动车辆爬坡扭矩控制方法及系统
+    CN109760682A                      *,2017-11-08,2019-05-17,郑州宇通客车股份有限公司,一种纯电动车辆爬坡扭矩估算方法和控制方法及其系统
+    Family To Family Citations,,,,
+
+abstract
+    【課題】変速機の変速比を制御する場合に、駆動力源の回転数が相対的に高くなることを抑制できる駆動力制御装置を提供する。【解決手段】駆動力源と車輪との間に変速機が設けられた駆動力制御装置において、駆動力源の目標回転数を求める前に、車両の運転者が車輪に伝達することを要求している要求トルクを求める要求トルク算出手段（ステップＳ００２）と、求められた要求トルクに基づいて、駆動力源の仮回転数を求める仮回転数算出手段（ステップＳ００３）と、駆動力源の実際の回転数を検知する実回転数検知手段（ステップＳ００３）と、駆動力源の実際の回転数と仮回転数とを比較して小さい方の回転数を目標回転数とする目標回転数算出手段（ステップＳ００３）とを備えている。【選択図】図１
+title
+    駆動力制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP4499170B2,2010-07-07,車両およびその制御方法並びに駆動装置
+    JP4258548B2,2009-04-30,車両およびその制御方法
+    JP5198147B2,2013-05-15,車両およびその制御方法並びに駆動装置
+    JP4165596B2,2008-10-15,制駆動力制御装置
+    JP5375913B2,2013-12-25,ハイブリッド車の制御装置
+    JP2008265600A,2008-11-06,車両およびその制御方法
+    JP2008168671A,2008-07-24,車両およびその制御方法
+    JP2006217750A,2006-08-17,自動車およびその制御方法
+    JP2009298232A,2009-12-24,ハイブリッド車およびその制御方法
+    JP4297108B2,2009-07-15,車両およびその制御方法
+    JP5163135B2,2013-03-13,駆動力制御装置
+    JP4375417B2,2009-12-02,ハイブリッド自動車およびその制御方法
+    JP4259488B2,2009-04-30,動力出力装置およびこれを搭載する車両並びにこれらの制御方法
+    JP2009029261A,2009-02-12,車両用駆動力制御装置
+    JP2007232108A,2007-09-13,車両用駆動力制御装置
+    JP4830987B2,2011-12-07,制駆動力制御装置
+    JP2009001097A,2009-01-08,車両およびその制御方法
+    JP2008201383A,2008-09-04,ハイブリッド自動車およびその制御方法
+    JP5092439B2,2012-12-05,駆動力制御装置
+    JP5221068B2,2013-06-26,車両制御装置
+    JP2009057874A,2009-03-19,駆動力制御装置
+    JP3906826B2,2007-04-18,ハイブリッド４輪駆動車の制御装置
+    JP6512173B2,2019-05-15,ハイブリッド自動車
+    JP4910916B2,2012-04-04,制駆動力制御装置
+    JP4475266B2,2010-06-09,制駆動力制御装置
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    JP2008003598A,2008-01-10,2008-01-10,駆動力制御装置
+
+inventor_number
+    10
+classfication_nums
+    20
+classfication_items
+121
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,5,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,8,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2008-01-10,Application filed by Toyota Motor Corp
+    2008-01-10,Priority to JP2008003598A
+    2009-07-30,Publication of JP2009168048A
+    2013-03-13,Application granted
+    2013-03-13,Publication of JP5163135B2
+    Status,Active
+    2028-01-10,Anticipated expiration
+
+active_area
+1
+    J,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2008003598A,2008-01-10,駆動力制御装置
+
+legal_event
+11
+    Date,Code,Title,Description
+    2010-02-10,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20100209
+    2011-10-26,A977,Report on retrieval,Free format text: JAPANESE INTERMEDIATE CODE: A971007Effective date: 20111026
+    2012-04-11,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20120410
+    2012-05-17,A521,Written amendment,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20120516
+    2012-11-13,TRDD,Decision of grant or rejection written,
+    2012-11-21,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20121120
+    2012-12-27,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20121203
+    2012-12-28,FPAY,Renewal fee payment (event date is renewal date of database),Free format text: PAYMENT UNTIL: 20151228Year of fee payment: 3
+    2012-12-28,R151,Written notification of patent or utility model registration,Ref document number: 5163135Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R151
+    2013-01-07,FPAY,Renewal fee payment (event date is renewal date of database),Free format text: PAYMENT UNTIL: 20151228Year of fee payment: 3
+

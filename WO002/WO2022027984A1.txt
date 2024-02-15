@@ -1,0 +1,270 @@
+ID
+    WO2022027984A1
+citation_exist
+    Patent Citations (15)
+citation_infor
+17
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2010183667A                      *,2009-02-03,2010-08-19,Toyo Electric Mfg Co Ltd,電気車制御装置
+    CN108973780A                      *,2018-09-20,2018-12-11,南京恒天领锐汽车有限公司,一种新型纯电动重型汽车制动电阻控制装置
+    CN209600281U                      *,2018-12-28,2019-11-08,湖南铁道职业技术学院,应用于电动汽车的再生制动能量混合吸收装置
+    CN110549912A                      *,2018-03-29,2019-12-10,比亚迪股份有限公司,车辆电池温度调节方法、系统和车辆
+    CN112078368A                      *,2020-08-03,2020-12-15,中联重科股份有限公司,回馈电流控制装置及高空作业车
+    CN112260342A                      *,2020-09-27,2021-01-22,湖南中联重科智能高空作业机械有限公司,锂电池系统及高空作业车
+    CN112259829A                      *,2020-09-27,2021-01-22,湖南中联重科智能高空作业机械有限公司,锂电池系统及高空作业车
+    Family To Family Citations,,,,
+    FR2975243B1                      *,2011-05-13,2013-04-26,Michelin Soc Tech,Dispositif et procede de gestion du freinage electrique d'un vehicule
+    JP6439322B2                      *,2014-08-27,2018-12-19,三菱自動車工業株式会社,ハイブリッド車両の回生制御装置
+    JP6552456B2                      *,2016-06-13,2019-07-31,本田技研工業株式会社,電動芝刈り機の制御装置
+    CN107512179A                      *,2016-06-15,2017-12-26,北京科易动力科技有限公司,一种动力电池系统以及用于该系统的控制方法
+    KR102145524B1                      *,2016-06-22,2020-08-18,주식회사 엘지화학,전기 자동차용 구동 회로 및 그 제어 방법
+    US10017169B1                      *,2016-12-30,2018-07-10,Textron Innovations Inc.,Controlling an electric brake of a utility vehicle which has a lithium battery management system
+    CN206650483U                      *,2017-04-14,2017-11-17,江西韵动新能源科技有限公司,一种高能快充模块化复合型动力电池组
+    CN111409465B                      *,2020-03-31,2022-01-25,潍柴动力股份有限公司,车辆的再生制动控制方法及控制装置
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (5)
+              
+
+
+citedBy_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN114537220A                      *,2022-02-28,2022-05-27,重庆金康赛力斯新能源汽车设计院有限公司,一种用于动力电池的防过冲系统和方法
+    Family To Family Citations,,,,
+    CN112078368B                      *,2020-08-03,2022-03-29,湖南中联重科智能高空作业机械有限公司,回馈电流控制装置及高空作业车
+    CN112910068A                      *,2020-11-23,2021-06-04,湖南中联重科智能高空作业机械有限公司,用于电机驱动器的控制装置、电机驱动器及高空作业车
+    CN112644288B                      *,2020-12-25,2022-04-12,中国第一汽车股份有限公司,一种车辆能量回收分配方法、装置、车辆及存储介质
+    CN116198371B                      *,2023-03-27,2023-10-31,深圳市南霸科技有限公司,一种电动汽车充电控制系统
+
+abstract
+    一种回馈电流控制装置及高空作业车，回馈电流控制装置包括：回馈电流捕获模块（40），其处于电流捕获电路上，用于捕获回馈电流；第一开关模块（50），用于导通或断开电流捕获电路；以及控制模块（60），其包括：第一接收单元（62），用于接收供电电路上的驱动器（20）一端的第一电压与电池（30）一端的第二电压及电池（30）的温度；第一控制单元（64），用于根据第一电压与第二电压的差值及电池（30）的温度执行以下操作：在第一电压与第二电压的差值大于预设电压且电池（30）的温度小于或等于预设温度的情况下，通过控制第一开关模块（50）来导通电流捕获电路，以由回馈电流捕获模块（40）来捕获回馈电流。
+title
+    回馈电流控制装置及高空作业车
+similar_document
+26
+    Publication,Publication Date,Title
+    WO2022027984A1,2022-02-10,回馈电流控制装置及高空作业车
+    USRE45431E1,2015-03-24,Energy storage system for electric or hybrid vehicle
+    CN104163111B,2016-04-13,基于双向dc/dc的电动车复合能源增程系统
+    CN102700427B,2014-05-21,带超级电容的车载燃料电池与蓄电池直接并联动力系统的控制方法
+    US8860359B2,2014-10-14,Hybrid energy storage system
+    CN112260342B,2022-01-28,锂电池系统及高空作业车
+    US9221345B2,2015-12-29,Battery charging device for motor vehicle
+    CN112259829B,2022-01-28,锂电池系统及高空作业车
+    CN104253469A,2014-12-31,二次电池组充放电管理系统
+    CN104538701A,2015-04-22,一种内置于电机驱动系统的电池加热方法及结构
+    CN109910641B,2020-11-13,一种用于纯电动汽车的高效复合储能系统及其控制方法
+    US20150343909A1,2015-12-03,Charge/discharge system
+    WO2020057279A1,2020-03-26,一种干线混合动力机车组控制系统及方法
+    CN204289653U,2015-04-22,一种内置于电机驱动系统的电池加热结构
+    CN104242435A,2014-12-24,无人机的供电系统及无人机
+    CN213367428U,2021-06-04,用于控制回馈电流的电路装置及高空作业车
+    JP5381360B2,2014-01-08,電源装置
+    WO2021003881A1,2021-01-14,一种混合动力有轨电车电制动功率分配方法、装置和介质
+    WO2022062352A1,2022-03-31,锂电池系统及高空作业车
+    WO2022105098A1,2022-05-27,用于电机驱动器的控制装置、电机驱动器及高空作业车
+    CN213305000U,2021-05-28,用于捕获回馈电流的电路装置及高空作业车
+    CN213304999U,2021-05-28,用于截获回馈电流的电路装置及高空作业车
+    CN219029176U,2023-05-16,制动能量回收装置、接触网有轨电车
+    CN212183150U,2020-12-18,一种用于带抽头电池的机载充电控制器
+    JP2004080907A,2004-03-11,モータ駆動装置
+
+patent_application
+    NoExist
+patent_priority_application
+5
+    Application,Priority date,Filing date,Title
+    AU2021322990A,2020-08-03,2021-03-30,Feedback current control device and aerial platform truck
+    US17/790,598,2020-08-03,2021-03-30,Feedback current control device and aerial platform truck
+    CA3166311A,2020-08-03,2021-03-30,Feedback current control device and aerial platform truck
+    EP21854536.6A,2020-08-03,2021-03-30,FEEDBACK POWER CONTROL DEVICE AND AERIAL WORK PLATFORM TRUCK
+
+inventor_number
+    7
+classfication_nums
+    22
+classfication_items
+139
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,1,4
+    H,0,2,J,7,/,1,4,6,9
+    H,0,2,J,7,/,1,4,9,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B,6,0,L,1,5,/,2,0,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,2,0
+    B,6,0,L,5,3,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,2
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,2,9
+    H,0,2,J,7,/,0,0,3,0,2
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,2,9
+    H,0,2,J,7,/,0,0,3,0,9
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,4,7
+    H,0,2,J,7,/,0,0,4,8
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,7
+    H,0,2,J,7,/,0,0,7,1,2
+    H,0,2,J,7,/,0,0,7,1,8,2
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,7
+    H,0,2,J,7,/,0,0,7,1,8,8
+    H,0,2,J,7,/,0,0,7,1,9,2
+    H,0,2,J,7,/,0,0,7,1,9,4
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,1,4
+    H,0,2,J,7,/,1,4,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,4,0
+    B,6,0,L,2,2,0,0,/,4,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,2,3,1,0,/,0,0
+    H,0,2,J,2,3,1,0,/,4,0
+    H,0,2,J,2,3,1,0,/,4,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,8,0
+    Y,0,2,T,1,0,/,9,2
+
+application_events
+6
+    2021-03-30,Application filed by 湖南中联重科智能高空作业机械有限公司
+    2021-03-30,Priority to AU2021322990A
+    2021-03-30,Priority to US17/790,598
+    2021-03-30,Priority to CA3166311A
+    2021-03-30,Priority to EP21854536.6A
+    2022-02-10,Publication of WO2022027984A1
+
+active_area
+5
+    C,N
+    A,U
+    E,P
+    C,A
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    CN202010768953.8A,2020-08-03,回馈电流控制装置及高空作业车
+    CN202010768953.8,2020-08-03,
+
+legal_event
+6
+    Date,Code,Title,Description
+    2022-03-23,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 21854536Country of ref document: EPKind code of ref document: A1
+    2022-06-28,ENP,Entry into the national phase,Ref document number: 3166311Country of ref document: CA
+    2022-07-08,ENP,Entry into the national phase,Ref document number: 2021854536Country of ref document: EPEffective date: 20220623
+    2022-07-21,ENP,Entry into the national phase,Ref document number: 2021322990Country of ref document: AUDate of ref document: 20210330Kind code of ref document: A
+    2023-03-04,NENP,Non-entry into the national phase,Ref country code: DE
+

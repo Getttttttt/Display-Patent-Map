@@ -1,0 +1,164 @@
+ID
+    EP3932728A1
+citation_exist
+    Patent Citations (8)
+citation_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2005168283A,1999-02-08,2005-06-23,Toyota Motor Corp,Vehicle braked by torque of motor and method for controlling same
+    US20080215201A1                      *,2006-10-11,2008-09-04,Ford Global Technologies, Llc,Method for Controlling a Hybrid Electric Vehicle Powertrain with Divided Power Flow Paths
+    GB2454338A                      *,2007-10-30,2009-05-06,Ford Global Tech Llc,Torque control based on driving mode and accelerator pedal position.
+    EP2700530A1                      *,2011-04-21,2014-02-26,Nissan Motor Co., Ltd,Torque control apparatus and contactless charging system
+    US20170247027A1                      *,2016-02-26,2017-08-31,Ford Global Technologies, Llc,Paddle shifter control of hybrid powertrain
+    CN107139916B                      *,2017-05-17,2019-09-24,中国第一汽车股份有限公司,Operator torque demands' analytic method for hybrid vehicle
+    Family To Family Citations,,,,
+    CN206155152U                      *,2016-04-13,2017-05-10,江苏陆地方舟新能源电动汽车有限公司,Power assembly of electric automobile
+    JP7115039B2                      *,2018-05-28,2022-08-09,スズキ株式会社,Motor torque controller for hybrid vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    A powertrain system for an electric automobile includes a paddle switch and a shifter that are mounted in such locations as to be operable by a driver while driving, and are electrically connected directly or indirectly to an ECU, wherein the ECU includes a memory for storing a program, and a processor for executing the program, and the processor controls, based on a torque control map defining the relationship between an accelerator pedal opening and output torque of a motor in advance, the output torque of the motor according to the accelerator pedal opening, and changes, based on an operation on the paddle switch or the shifter, the torque control map to be used for controlling the output torque of the motor.
+title
+    Powertrain system for electric automobile, electric automobile and method of controlling electric automobile
+similar_document
+26
+    Publication,Publication Date,Title
+    EP1966019B1,2010-04-21,Hybrid vehicle and control method thereof
+    EP2741269B1,2020-01-15,Driving assistance apparatus
+    CN102112336B,2013-12-25,Accelerator reaction for control apparatus
+    EP1127730B1,2006-06-14,Power output apparatus and control method thereof
+    EP2159098A1,2010-03-03,Information display systems and methods for hybrid vehicles
+    US7946956B2,2011-05-24,Braking/driving force control device
+    US10377242B2,2019-08-13,Regenerative brake control device
+    US8397850B2,2013-03-19,System and method for driving hybrid electric vehicle
+    CN103043056A,2013-04-17,Method of controlling vehicle wheel axle torque and control system for same
+    US20170282926A1,2017-10-05,Regeneration control apparatus
+    US10974723B2,2021-04-13,Drive force control system for vehicle
+    JP5096109B2,2012-12-12,Power display device and power display method
+    EP3932728A1,2022-01-05,Powertrain system for electric automobile, electric automobile and method of controlling electric automobile
+    CN110171293B,2022-06-14,Vehicle with a steering wheel
+    JP2006151020A,2006-06-15,Acceleration/deceleration controller
+    CN115092111A,2022-09-23,Vehicle drive force control device
+    KR102553848B1,2023-07-13,Vehicle and method for controlling the same
+    JP2018113746A,2018-07-19,Motor torque control device
+    KR101977416B1,2019-05-10,Smart Electric Vehicle and Smart Operation Method thereof
+    JP6614052B2,2019-12-04,Automobile
+    JP2021008867A,2021-01-28,vehicle
+    JP2006298063A,2006-11-02,Vehicle creep control apparatus and method
+    JP2006312997A,2006-11-16,Shift control system of transmission
+    US20230098578A1,2023-03-30,Vehicle control device
+    US20230096866A1,2023-03-30,Vehicle control device
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    5
+classfication_nums
+    11
+classfication_items
+63
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,7,/,0,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,7,/,0,0
+    B,6,0,K,1,7,/,0,4
+    B,6,0,K,1,7,/,1,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,2,6,/,0,0
+    B,6,0,K,2,6,/,0,2
+    B
+    B,6,2
+    B,6,2,D
+    B,6,2,D,1,/,0,0
+    B,6,2,D,1,/,0,2
+    B,6,2,D,1,/,0,4
+    B,6,2,D,1,/,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B,6,0,L,2,2,5,0,/,2,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+3
+    2021-06-10,Application filed by Mazda Motor Corp
+    2022-01-05,Publication of EP3932728A1
+    Status,Pending
+
+active_area
+4
+    J,P
+    C,N
+    E,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2020113863A,2020-07-01,Power train system for electric vehicle
+
+legal_event
+8
+    Date,Code,Title,Description
+    2021-12-03,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2021-12-03,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+    2022-01-05,AK,Designated contracting states,Kind code of ref document: A1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2022-01-05,B565,Issuance of search results under rule 164(2) epc,Effective date: 20211124
+    2022-07-08,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+    2022-08-10,17P,Request for examination filed,Effective date: 20220630
+    2022-08-10,RBV,Designated contracting states (corrected),Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+

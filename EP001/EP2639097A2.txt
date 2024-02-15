@@ -1,0 +1,245 @@
+ID
+    EP2639097A2
+citation_exist
+    Patent Citations (28)
+citation_infor
+30
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2001352607A,2000-06-06,2001-12-21,Hitachi Ltd,Battery-driven rolling stock
+    Family To Family Citations,,,,
+    JPS63174501A                      *,1987-01-14,1988-07-19,Toshiba Corp,Controller for electric rolling stock
+    JPH06103984B2                      *,1989-08-23,1994-12-14,東洋電機製造株式会社,Buck-boost chopper device
+    JP3612745B2                      *,1994-09-20,2005-01-19,株式会社デンソー,Vehicle motion characteristic control device
+    JP4200512B2                      *,1998-10-20,2008-12-24,幸雄 大田,Power unit for electric vehicle
+    JP2002369308A                      *,2001-06-12,2002-12-20,Railway Technical Res Inst,Electric rolling stock system
+    JP3943928B2                      *,2001-12-25,2007-07-11,株式会社東芝,Power converter
+    US6812656B2                      *,2002-02-27,2004-11-02,Railpower Technologies Corp.,Sequenced pulse width modulation method and apparatus for controlling and powering a plurality of direct current motors
+    JP3989450B2                      *,2004-02-20,2007-10-10,財団法人鉄道総合技術研究所,Circuit device and vehicle operation system
+    JP4643355B2                      *,2005-05-09,2011-03-02,株式会社東芝,Electric vehicle control device
+    WO2006126272A1                      *,2005-05-26,2006-11-30,Mitsubishi Denki Kabushiki Kaisha,Controller of variable speed ac motor
+    JP4500217B2                      *,2005-06-06,2010-07-14,財団法人鉄道総合技術研究所,Circuit equipment
+    JP3927584B2                      *,2005-10-26,2007-06-13,三菱電機株式会社,Power control device for automobile
+    CN101501973B                      *,2006-08-09,2012-06-06,三菱电机株式会社,Controller for electric vehicle
+    JP4746525B2                      *,2006-11-30,2011-08-10,株式会社東芝,Electric vehicle control device
+    JP5184798B2                      *,2007-03-12,2013-04-17,川崎重工業株式会社,Charge / discharge control device and charge / discharge control method
+    JP4546988B2                      *,2007-04-27,2010-09-22,株式会社日立製作所,Control device for power converter
+    JP4875633B2                      *,2008-01-17,2012-02-15,三菱重工業株式会社,Vehicle and charge control method thereof
+    JP2009273198A                      *,2008-04-30,2009-11-19,Kawasaki Heavy Ind Ltd,Power flow control method and control device of battery-driven vehicle
+    JP5065222B2                      *,2008-10-17,2012-10-31,トヨタ自動車株式会社,Vehicle control system
+    KR101260139B1                      *,2008-10-23,2013-05-02,미쓰비시덴키 가부시키가이샤,Propulsion control device for electric car
+    WO2010119510A1                      *,2009-04-14,2010-10-21,トヨタ自動車株式会社,Power control device
+    JP5558022B2                      *,2009-04-15,2014-07-23,株式会社東芝,Electric vehicle storage control device and storage control method
+    JP5385728B2                      *,2009-08-28,2014-01-08,公益財団法人鉄道総合技術研究所,Control method and control apparatus
+    JP5452371B2                      *,2010-06-01,2014-03-26,株式会社日立製作所,Railway vehicle drive system
+    JP4977772B2                      *,2010-07-01,2012-07-18,株式会社日立製作所,Drive control device and electric vehicle
+    JP2012182912A                      *,2011-03-01,2012-09-20,Toyota Motor Corp,Electric vehicle and control method therefor
+    JP5295470B1                      *,2012-01-30,2013-09-18,三菱電機株式会社,Electric vehicle propulsion control device and control method thereof
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (8)
+              
+
+
+citedBy_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    WO2017025399A1                      *,2015-08-07,2017-02-16,Siemens Aktiengesellschaft,Device and method for loading a rail vehicle in a stop and then operating it without an overhead line
+    WO2018091701A1                      *,2016-11-21,2018-05-24,Bombardier Transportation Gmbh,Electric network for a rail vehicle, rail vehicle, and method for operating an electric network
+    WO2019076810A1                      *,2017-10-16,2019-04-25,Siemens Mobility GmbH,Energy accumulator arrangement and method for operating an energy accumulator arrangement of this type
+    Family To Family Citations,,,,
+    CN104136263B                      *,2012-02-28,2016-08-17,三菱电机株式会社,Compartment internal information display system and method for supplying power to
+    SE538656C2                      *,2014-10-30,2016-10-11,Scania Cv Ab,Method and system for switching from a first power supply path to a second power supply path
+    JP6762243B2                      *,2017-02-07,2020-09-30,株式会社日立製作所,Power converter for railroad vehicles
+    CN110834543B                      *,2019-10-28,2022-08-23,江苏大学,Coupling system for eddy current braking and regenerative braking of electric vehicle and control method
+    TWI708472B                      *,2020-03-31,2020-10-21,義守大學,Converter
+
+abstract
+    A control device for an electric motor car comprising: a switch which is installed between a power supply source and a power line drawn through the electric motor car; a battery which supplies power to a main motor of the electric motor car; a step-up unit, which is installed between the power line and the battery, configured to increase a voltage; and a control unit which breaks a connection between the power supply source and the power line using the switch when braking the electric motor car, increases the power supplied from the battery using the step-up unit, and performs regenerative braking in the main motor to which the increased power is supplied.
+title
+    Control device, control method and electric motor car
+similar_document
+26
+    Publication,Publication Date,Title
+    US8543275B1,2013-09-24,Control device, control method, and electric motor car
+    JP5382238B2,2014-01-08,Hybrid vehicle and control method thereof
+    KR102302783B1,2021-09-16,Vehicle Driving System and Method
+    JP4960407B2,2012-06-27,Vehicle drive power supply
+    EP2918442B1,2021-06-23,Charge/discharge system
+    WO2011021266A1,2011-02-24,Power converter for propulsion of electric car
+    CN103166278A,2013-06-19,Recharge systems and methods
+    EP2918441B1,2021-03-03,Charge/discharge system
+    JP5413017B2,2014-02-12,Vehicle power supply
+    JP2012500164A,2012-01-05,Control of elevator drive line current and energy storage
+    US11097620B2,2021-08-24,Circuit system for railroad vehicle
+    US20130032416A1,2013-02-07,Ultracapacitor soft-start apparatus and method
+    KR100579298B1,2006-05-11,Auxiliary battery charge control method for environment car
+    JP2017103003A,2017-06-08,Fuel battery system
+    JP6673046B2,2020-03-25,Power supply system for electric vehicles
+    JP6259778B2,2018-01-10,Railway vehicle drive system
+    JP2013133061A,2013-07-08,Hybrid vehicle
+    JP6178597B2,2017-08-09,Power system
+    JP5921420B2,2016-05-24,Hybrid vehicle
+    JP2010063298A,2010-03-18,Main circuit system and power supply method
+    WO2018066624A1,2018-04-12,Power supply system control device
+    JP6240023B2,2017-11-29,Power converter and railway vehicle equipped with the same
+    WO2014097415A1,2014-06-26,Charge/discharge system and charge/discharge method
+    JP2020100243A,2020-07-02,Heat storage control device of vehicle
+    JP2020048347A,2020-03-26,Power system control apparatus
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    7
+classfication_nums
+    17
+classfication_items
+103
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,9,/,0,0
+    B,6,0,L,9,/,1,6
+    B,6,0,L,9,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B,6,0,L,2,2,1,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B,6,0,L,2,2,1,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,1,0
+    B,6,0,L,2,2,2,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,1,0
+    B,6,0,L,2,2,6,0,/,1,6
+    B,6,0,L,2,2,6,0,/,1,6,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+4
+    2012-07-26,Application filed by Toshiba Corp
+    2013-09-18,Publication of EP2639097A2
+    2015-08-12,Publication of EP2639097A3
+    Status,Ceased
+
+active_area
+1
+    U,S
+
+not_active_area
+3
+    J,P
+    E,P
+    C,N
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2012060063A,2012-03-16,Electric vehicle control device
+
+legal_event
+13
+    Date,Code,Title,Description
+    2013-09-17,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2013-09-18,AK,Designated contracting states,Kind code of ref document: A2Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2013-09-18,AX,Request for extension of the european patent,Extension  state: BA ME
+    2015-07-10,PUAL,Search report despatched,Free format text: ORIGINAL CODE: 0009013
+    2015-08-12,AK,Designated contracting states,Kind code of ref document: A3Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2015-08-12,AX,Request for extension of the european patent,Extension  state: BA ME
+    2015-08-12,RIC1,Information provided on ipc code assigned before grant,Ipc: B60L  15/20        20060101ALI20150707BHEPIpc: B60L  11/18        20060101ALI20150707BHEPIpc: B60L   9/18        20060101ALI20150707BHEPIpc: B60L   7/10        20060101AFI20150707BHEPIpc: B60L   7/14        20060101ALI20150707BHEP
+    2016-03-23,17P,Request for examination filed,Effective date: 20160211
+    2016-03-23,RBV,Designated contracting states (corrected),Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2016-08-24,17Q,First examination report despatched,Effective date: 20160726
+    2018-03-23,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE APPLICATION HAS BEEN REFUSED
+    2018-04-25,18R,Application refused,Effective date: 20171026
+

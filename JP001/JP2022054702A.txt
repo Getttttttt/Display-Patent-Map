@@ -1,0 +1,264 @@
+ID
+    JP2022054702A
+citation_exist
+    Patent Citations (7)
+citation_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP4158764B2,2004-12-01,2008-10-01,トヨタ自動車株式会社,加減速度制御装置
+    JP2010284979A,2009-06-09,2010-12-24,Toyota Motor Corp,制駆動力制御装置
+    EP2546496B1                      *,2010-03-09,2016-03-30,Honda Motor Co., Ltd.,Accelerator pedal device
+    MY183379A                      *,2015-11-09,2021-02-18,Nissan Motor,Braking/driving force control method and braking/driving force control device
+    JP6769279B2,2016-12-13,2020-10-14,日産自動車株式会社,電動車両の制動制御方法、及び電動車両の制御装置
+    JP6990115B2                      *,2018-01-15,2022-01-12,日立Astemo株式会社,電動車両の制御装置、電動車両の制御システム及び電動車両の制御方法
+    CN108909711B                      *,2018-06-07,2020-08-04,北京车和家信息技术有限公司,车辆及其控制方法、控制装置和计算机可读存储介质
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    【課題】乗員の意図とは異なる車両の走行状態が継続する状況を生じ難くする。【解決手段】制御装置は、通常モードで車両を制御しているときにブレーキ操作量ＢＫＰがゼロよりも大きい状況下でワンペダルモードを有効化する要求があった場合（ステップＳ１００：ＹＥＳ）、通常モードでの制動力の目標値である第１制動力Ａ１を算出する処理（ステップＳ１３０）と、ワンペダルモードで車両の制動力を制御していると仮定した場合の制動力の目標値である第２制動力Ａ２を算出する処理（ステップＳ１４０）と、第１制動力Ａ１が第２制動力Ａ２以上であるときに（ステップＳ１５０：ＹＥＳ）、ワンペダルモードを有効化する処理（ステップＳ１６０）とを実行する。【選択図】図３
+title
+    車両用制御装置、及び車両用制御プログラム
+similar_document
+26
+    Publication,Publication Date,Title
+    JP4258548B2,2009-04-30,車両およびその制御方法
+    JP3915391B2,2007-05-16,車輌の制動力制御装置
+    EP1851082B1,2011-05-18,Power output device, control method for the same and vehicle equipped therewith
+    CN101120191B,2011-05-11,具有顺序变速杆的混合动力车辆
+    JP2010115059A,2010-05-20,車両およびその制御方法
+    JP2006094589A,2006-04-06,車両の減速度制御装置
+    JP4240713B2,2009-03-18,車両の制御装置
+    JP2009189217A,2009-08-20,自動車およびその制御方法
+    CN111479736B,2023-04-28,混合动力车辆的控制方法和控制装置
+    JP3918841B2,2007-05-23,車両の減速度制御装置
+    JP2009214580A,2009-09-24,ハイブリッド車およびその制御方法
+    CN111605407B,2023-09-19,电动车辆的控制装置
+    JP2022054702A,2022-04-07,車両用制御装置、及び車両用制御プログラム
+    JP4924123B2,2012-04-25,車両およびその制御方法
+    CN111491838A,2020-08-04,混合动力车辆的控制方法和控制装置
+    JP4200842B2,2008-12-24,車両およびその制御方法
+    JP4483988B2,2010-06-16,車両の制御装置
+    JP2006027573A,2006-02-02,制駆動力制御装置
+    JP2018011429A,2018-01-18,自動車
+    JP4215044B2,2009-01-28,ハイブリッド自動車およびその制御方法
+    JP2008100580A,2008-05-01,ハイブリッド自動車およびその制御方法
+    JP5257351B2,2013-08-07,車両およびその制御方法
+    JP4661166B2,2011-03-30,車両用減速度制御装置
+    JP2006063866A,2006-03-09,動力出力装置およびこれを搭載する自動車並びに動力出力装置の制御方法
+    JP2008168842A,2008-07-24,車両およびその制御方法
+
+patent_application
+    NoExist
+patent_priority_application
+4
+    Application,Priority date,Filing date,Title
+    JP2020161873A,2020-09-28,2020-09-28,車両用制御装置、及び車両用制御プログラム
+    DE102021122851.4A,2020-09-28,2021-09-03,Fahrzeugsteuervorrichtung, fahrzeugsteuerprogramm, speichermedium und fahrzeugsteuerverfahren
+    CN202111101361.1A,2020-09-28,2021-09-18,车辆控制器、存储介质和车辆控制方法
+
+inventor_number
+    4
+classfication_nums
+    26
+classfication_items
+153
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,4
+    B,6,0,K,6,/,4,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,6,6
+    B,6,0,T,1,3,/,6,6,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,0,2
+    B,6,0,T,7,/,0,4
+    B,6,0,T,7,/,0,4,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B,6,0,W,1,0,/,1,8,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,1,4
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,1,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B,6,0,L,2,2,5,0,/,2,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,2,0,/,0,0
+    B,6,0,T,2,2,2,0,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,1,4
+    B,6,0,W,2,0,5,0,/,1,4,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+
+application_events
+9
+    2020-09-28,Application filed by Toyota Motor Corp
+    2020-09-28,Priority to JP2020161873A
+    2021-09-03,Priority to DE102021122851.4A
+    2021-09-18,Priority to CN202111101361.1A
+    2022-04-07,Publication of JP2022054702A
+    2023-08-23,Application granted
+    2023-08-23,Publication of JP7331814B2
+    Status,Active
+    2040-09-28,Anticipated expiration
+
+active_area
+3
+    J,P
+    D,E
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2020161873A,2020-09-28,車両用制御装置、及び車両用制御プログラム
+
+legal_event
+9
+    Date,Code,Title,Description
+    2022-05-24,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20220524
+    2023-02-21,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20230221
+    2023-02-24,A977,Report on retrieval,Free format text: JAPANESE INTERMEDIATE CODE: A971007Effective date: 20230224
+    2023-04-20,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20230420
+    2023-07-04,TRDD,Decision of grant or rejection written,
+    2023-07-11,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20230711
+    2023-08-15,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20230724
+    2023-08-15,R151,Written notification of patent or utility model registration,Ref document number: 7331814Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R151
+

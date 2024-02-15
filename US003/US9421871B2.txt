@@ -1,0 +1,321 @@
+ID
+    US9421871B2
+citation_exist
+    Patent Citations (21)
+citation_infor
+23
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5215159A                      *,1990-06-04,1993-06-01,Mitsubishi Denki K.K.,System for controlling a driving device of a vehicle
+    US6370470B1                      *,1999-08-10,2002-04-09,Nissan Motor Co., Ltd.,Adaptive cruise control system for vehicle
+    US20050065687A1                      *,2003-09-18,2005-03-24,Nissan Motor Co., Ltd.,Driving assist system for vehicle
+    US20050090984A1                      *,2003-10-23,2005-04-28,Nissan Motor Co., Ltd.,Driving assist system for vehicle
+    JP2007129827A,2005-11-04,2007-05-24,Nissan Motor Co Ltd,Intelligent brake assist system of hybrid vehicle
+    JP2007132293A,2005-11-11,2007-05-31,Toyota Motor Corp,Control of internal combustion engine provided with supercharger
+    JP2008125329A,2006-11-15,2008-05-29,Toyota Motor Corp,Vehicle and control method therefor
+    US20090088925A1                      *,2007-09-27,2009-04-02,Hitachi, Ltd.,Drive Assist System
+    US20090164082A1                      *,2007-12-19,2009-06-25,Nissan Motor Co., Ltd.,Inter-vehicle distance maintenance supporting system and method
+    US20090164080A1                      *,2007-12-19,2009-06-25,Nissan Motor Co., Ltd.,Inter-vehicle distance maintenance supporting system and method
+    US20100045482A1                      *,2006-10-13,2010-02-25,Matthias Strauss,Method and Appratus for Identifying Concealed Objects In Road Traffic
+    US20100094509A1                      *,2006-10-13,2010-04-15,Continental Teves Ag & Co Ohg,System for Reducing The Braking Distance of a Vehicle
+    US20110066342A1                      *,2009-09-17,2011-03-17,Hitachi Automotive Systems, Ltd.,Vehicle Control Apparatus
+    US20110245992A1                      *,2008-10-21,2011-10-06,Continental Teves Ag & Co. Ohg,Method for controlling a motor vehicle and device therefor
+    JP2012008933A,2010-06-28,2012-01-12,Honda Motor Co Ltd,Vehicle control system
+    US20120035825A1                      *,2009-04-27,2012-02-09,Toyota Jidosha Kabushiki Kaisha,Drive assisting device
+    US20150291163A1                      *,2014-04-14,2015-10-15,Mando Corporation,Adaptive cruise control system interlocking with lane keeping assist system and constant speed control method therefor
+    Family To Family Citations,,,,
+    JP2001054203A                      *,1999-08-06,2001-02-23,Mitsubishi Motors Corp,Regenerative braking device of vehicle
+    JP5548426B2                      *,2009-10-29,2014-07-16,株式会社日立製作所,Inkjet coating apparatus and method
+    JP6194152B2                      *,2011-03-28,2017-09-06,本田技研工業株式会社,Vehicle control device
+    GB2508668A                      *,2012-12-10,2014-06-11,Jaguar Land Rover Ltd,Adaptive cruise control (ACC) means for a host vehicle having regenerative and non-regenerative braking means
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (11)
+              
+
+
+citedBy_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    US11623640B2,2021-02-22,2023-04-11,Ford Global Technologies, Llc,Methods and systems for assistive action of a vehicle
+    Family To Family Citations,,,,
+    JP6686767B2                      *,2016-07-26,2020-04-22,トヨタ自動車株式会社,Electric vehicle
+    JP6693322B2                      *,2016-07-26,2020-05-13,トヨタ自動車株式会社,Electric vehicle
+    KR101916721B1,2016-11-14,2018-11-08,엘지전자 주식회사,Regenerative braking control apparatus for vehicle
+    JP2018103925A                      *,2016-12-28,2018-07-05,日立オートモティブシステムズ株式会社,Vehicle control device
+    KR102353346B1,2017-01-31,2022-01-18,현대자동차주식회사,Braking control apparatus and method for vehicle
+    JP6546959B2                      *,2017-06-14,2019-07-17,本田技研工業株式会社,vehicle
+    CN108454615B                      *,2018-03-29,2019-05-28,吉林大学,A kind of planet parallel-serial hybrid power driver demand torque estimation method
+    JP7135746B2                      *,2018-11-07,2022-09-13,トヨタ自動車株式会社,Driving support device
+    CN110329249B                      *,2019-07-02,2020-08-07,武汉理工大学,Automobile forward collision early warning control system and method of cyclic neural network
+    JP7318541B2                      *,2020-01-17,2023-08-01,株式会社アドヴィックス,Braking control device
+
+abstract
+    A motor controller includes an inter-vehicle sensor detecting an inter-vehicle distance between an own vehicle and a front vehicle, a speed sensor detecting a speed difference between a speed of the own vehicle and a speed of the front vehicle, an accelerator sensor detecting an accelerator pressing quantity, and a control portion controlling a regeneration torque of the motor based on the inter-vehicle distance, the speed difference, and the accelerator pressing quantity. When the control portion determines that the accelerator pressing quantity is less than or equal to a predetermined pressing quantity, the control portion determines that a speed-reduction request is generated. When the control portion determines that the inter-vehicle distance is no more than a first predetermined distance and when the own vehicle is in an approaching state, the control portion increases the regeneration torque of the motor, so as to generate a regeneration braking force.
+title
+    Motor controller
+similar_document
+26
+    Publication,Publication Date,Title
+    US9421871B2,2016-08-23,Motor controller
+    US9944275B2,2018-04-17,Control device for hybrid vehicle
+    US9002560B2,2015-04-07,Control device of a vehicle
+    US7832512B2,2010-11-16,Hybrid vehicle
+    US9751523B2,2017-09-05,Hybrid vehicle
+    CN105383492B,2020-07-10,Vehicle system and method for adjusting deceleration rate
+    WO2013051104A1,2013-04-11,Electrical charging control apparatus and electrical charging method
+    JP5949731B2,2016-07-13,Hybrid vehicle
+    EP2848482B1,2018-01-03,Vehicle and vehicle control method
+    JP2010058579A,2010-03-18,Hybrid car
+    CN109017748B,2021-07-02,Vehicle control device
+    US11207968B2,2021-12-28,Hybrid vehicle cruise control device
+    JP5803507B2,2015-11-04,Hybrid vehicle control device and hybrid vehicle
+    JP2012223044A,2012-11-12,Vehicle control system
+    JP2007331646A,2007-12-27,Motor driving device
+    US9440639B2,2016-09-13,Control device for vehicle
+    US9067584B2,2015-06-30,Vehicle and control method for vehicle
+    CN103827467A,2014-05-28,Vehicle and method for controlling vehicle
+    WO2013088530A1,2013-06-20,Vehicle control apparatus
+    JP2012224304A,2012-11-15,Damping control device of vehicle
+    US10730506B2,2020-08-04,Hybrid vehicle and control method therefor
+    JP2016132263A,2016-07-25,Hybrid automobile
+    JP6048266B2,2016-12-21,Hybrid vehicle drive device
+    JP5724840B2,2015-05-27,Hybrid vehicle
+    JP2017077863A,2017-04-27,Hybrid vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    33
+classfication_items
+189
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,4
+    B,6,0,K,6,/,4,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B,6,0,L,5,0,/,6,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B,6,0,W,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,0,8
+    B,6,0,W,3,0,/,0,9
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,4,2,0,/,0,0
+    B,6,0,W,2,4,2,0,/,4,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,4,2,0,/,0,0
+    B,6,0,W,2,4,2,0,/,5,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,0
+    B,6,0,W,2,5,5,0,/,3,0,2
+    B,6,0,W,2,5,5,0,/,3,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,4,/,0,0
+    B,6,0,W,2,5,5,4,/,8,0
+    B,6,0,W,2,5,5,4,/,8,0,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,4,/,0,0
+    B,6,0,W,2,5,5,4,/,8,0
+    B,6,0,W,2,5,5,4,/,8,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,8,9
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,3
+
+application_events
+7
+    2015-09-09,Application filed by Denso Corp
+    2015-09-09,Assigned to DENSO CORPORATION
+    2016-05-19,Publication of US20160137067A1
+    2016-08-23,Application granted
+    2016-08-23,Publication of US9421871B2
+    Status,Active
+    2035-09-09,Anticipated expiration
+
+active_area
+2
+    J,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2014-230774,2014-11-13,
+    JP2014230774A,2014-11-13,Motor control device
+
+legal_event
+5
+    Date,Code,Title,Description
+    2015-09-09,AS,Assignment,Owner name: DENSO CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:CAO, JUNMIN;REEL/FRAME:036516/0346Effective date: 20150904
+    2015-11-02,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2016-08-03,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2020-02-11,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

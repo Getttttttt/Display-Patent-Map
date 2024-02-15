@@ -1,0 +1,203 @@
+ID
+    US20170326997A1
+citation_exist
+    Patent Citations (8)
+citation_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US7733039B2                      *,2006-10-19,2010-06-08,Ut-Battelle, Llc,Electric vehicle system for charging and supplying electrical power
+    JP5288178B2                      *,2008-02-28,2013-09-11,富士電機株式会社,Motor drive system
+    JP5644070B2                      *,2008-07-16,2014-12-24,株式会社豊田中央研究所,Power control device
+    US7932633B2                      *,2008-10-22,2011-04-26,General Electric Company,Apparatus for transferring energy using power electronics and machine inductance and method of manufacturing same
+    FR2938711B1,2008-11-18,2012-12-14,Valeo Sys Controle Moteur Sas,COMBINED POWER SUPPLY AND LOAD DEVICE
+    FR2961970B1,2010-06-25,2017-03-10,Valeo Systemes De Controle Moteur,ELECTRICAL MOTOR WITH ALTERNATING CURRENT OF A COMBINED POWER SUPPLY AND CHARGING ELECTRICAL DEVICE
+    KR101216848B1                      *,2011-06-23,2012-12-28,엘에스산전 주식회사,Switching apparatus
+    US9931939B2                      *,2012-06-05,2018-04-03,Volvo Lastvagnar Ab,Electrical apparatus and method for charging a battery
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN109501609A                      *,2018-12-05,2019-03-22,李洪广,Mobile charging electric vehicle
+    Family To Family Citations,,,,
+    CN109878507B                      *,2019-01-14,2020-07-28,江苏理工学院,Vehicle-mounted hybrid power supply energy management control method based on lambda factor
+    CN114447972B                      *,2021-12-21,2022-11-22,西南交通大学,Through flexible traction substation with existing traction transformer and protection configuration method thereof
+
+abstract
+    The invention relates to a method for recharging an electrical energy source (S) on-board an electric or hybrid vehicle, comprising at least two electric traction motors (M1,M2) respectively associated with a first and second traction converter (C1,C2) and a control electronics (E), said vehicle functioning according to a traction mode using electrical energy provided by the electrical energy source (S), according to a braking mode for recharging said electrical energy source (S) during braking or deceleration phases, and according to a shutdown recharge mode for recharging said electrical energy source (S) during the shutdown phases of the vehicle, characterized in that it consists of utilizing the control electronics (E) managing the traction converters (C1,C2) to carry out a static reconfiguration both of the two converters (C1,C2) and of the motors (M1,M2), in order to transform said converters (C1,C2) associated with the motors (M1,M2) into a charger for the on-board energy source (S).
+title
+    Method for recharging energy accumulation means fitted to an electric or hybrid vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US10763690B2,2020-09-01,Vehicle-side charging circuit for a vehicle with electric drive, and method for operating a vehicle-side current converter, and use of at least one winding of a vehicle-side electric machine for intermediate storagectrical machine for buffer
+    US11161424B2,2021-11-02,On-board vehicle electrical system for charging an electrically operated vehicle, and method
+    US10946756B2,2021-03-16,Bidirectional integrated charger for a vehicle battery
+    US9931939B2,2018-04-03,Electrical apparatus and method for charging a battery
+    US20140239869A1,2014-08-28,Electrical System
+    CN109311409B,2022-08-12,Vehicle electrical system having an inverter, an energy store, an electric machine and a direct current transmission terminal
+    US9862276B2,2018-01-09,Fault protection for electric drive systems
+    US10128786B2,2018-11-13,Electric vehicle electric drive system
+    CN107791851B,2022-10-11,Backup power supply for discharging a main capacitor
+    EP2325971B1,2021-05-26,Multi-tasking power processor for a vehicle electric system
+    US20140103650A1,2014-04-17,Dual-dc bus starter/generator
+    US20170326997A1,2017-11-16,Method for recharging energy accumulation means fitted to an electric or hybrid vehicle
+    US20200016991A1,2020-01-16,Conversion device, associated control method and associated vehicle
+    US9637007B2,2017-05-02,Supplying electric traction motors of a rail vehicle with electrical energy using a plurality of internal combustion engines
+    KR102332054B1,2021-11-29,Apparatus for charging battery of vehicle
+    KR102202513B1,2021-01-12,Method for discharging at least one capacitor of an electric circuit
+    JP2016007118A,2016-01-14,Rotary electric machine system
+    KR20210126752A,2021-10-20,On-board vehicle electrical system with accumulator battery, alternating voltage connection and direct voltage connection
+    JP2000358305A,2000-12-26,Power device for hybrid electric vehicle
+    RU175680U1,2017-12-14,VOLTAGE VOLTAGE CONVERTER WITH INTEGRATED CHARGER
+    KR20120124815A,2012-11-14,Electric vehicle and operating method of the same
+    CN109412469B,2021-01-26,Traction converter system main circuit, control method and system
+    US10525843B1,2020-01-07,Common mode current reduction hybrid drive system
+    CN110626183A,2019-12-31,Isolated dual bus hybrid vehicle powertrain system
+    US20230278441A1,2023-09-07,Bidirectional electric vehicle charging with multi-phase machines
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    18
+classfication_items
+90
+    B,6,0,L,1,1,/,1,8,1,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,1,0
+    B,6,0,L,5,3,/,1,4
+    B,6,0,L,1,1,/,1,8,1,2
+    B,6,0,L,1,1,/,1,8,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,2,0
+    B,6,0,L,5,3,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,2,0
+    B,6,0,L,5,3,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,5,0
+    B,6,0,L,2,2,2,0,/,5,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,5,0
+    B,6,0,L,2,2,2,0,/,5,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+
+application_events
+4
+    2015-11-17,Application filed by Lohr Electromecanique SAS
+    2017-05-17,Assigned to LOHR ELECTROMECANIQUE
+    2017-11-16,Publication of US20170326997A1
+    Status,Abandoned
+
+active_area
+1
+    W,O
+
+not_active_area
+5
+    F,R
+    A,U
+    E,P
+    U,S
+    C,A
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    FR1461089A,2014-11-17,METHOD FOR RECHARGING ENERGY ACCUMULATION MEANS EQUIPPED WITH AN ELECTRIC OR HYBRID VEHICLE
+    FR1461089,2014-11-17,
+    PCT/FR2015/053099,2015-11-17,Method for recharging energy accumulation means fitted to an electric or hybrid vehicle
+
+legal_event
+5
+    Date,Code,Title,Description
+    2017-05-17,AS,Assignment,Owner name: LOHR ELECTROMECANIQUE, FRANCEFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:DUMAS, PIERRE;VERDIER, LAURENT;REEL/FRAME:042409/0748Effective date: 20170310
+    2018-10-18,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2019-07-23,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2019-11-07,STCB,Information on status: application discontinuation,Free format text: ABANDONED  --  FAILURE TO PAY ISSUE FEE
+

@@ -1,0 +1,190 @@
+ID
+    US10023071B2
+citation_exist
+    Patent Citations (8)
+citation_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN103661434A,2013-12-30,2014-03-26,北京交通大学,Operation control method for train
+    CN103738367A,2013-12-27,2014-04-23,北京交控科技有限公司,Rail transit planed running chart optimization method
+    JP2014144754A,2013-01-30,2014-08-14,Mitsubishi Electric Corp,Railway train control system and automatic railway train driving device
+    US8831801B1                      *,2013-03-14,2014-09-09,Mitsubishi Electric Research Laboratories, Inc.,System and method for optimizing energy consumption in railway systems
+    US20140277861A1                      *,2013-03-14,2014-09-18,Mitsubishi Electric Corporation,System and Method for Optimizing Energy Consumption in Railway Systems with Energy Storage Devices
+    CN104401370A,2014-10-21,2015-03-11,北京交通大学,Energy-saving optimization method for cooperative control on multiple trains
+    US20160001799A1                      *,2013-03-15,2016-01-07,David Cook,Hybrid systems for locomotives
+    US20160347204A1                      *,2014-02-07,2016-12-01,Mitsubishi Electric Corporation,Train-energy control system, ground device, and on-board device
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (11)
+              
+
+
+citedBy_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN111055891A                      *,2019-12-26,2020-04-24,交控科技股份有限公司,Train operation diagram adjusting method
+    CN111791923A                      *,2020-05-21,2020-10-20,北京交通大学,Energy-saving-oriented single-track railway train scheduling method and system
+    Family To Family Citations,,,,
+    JP6643030B2                      *,2015-10-06,2020-02-12,株式会社東芝,Regenerative energy estimation device, brake planning device, and regenerative energy estimation method
+    US10279823B2                      *,2016-08-08,2019-05-07,General Electric Company,System for controlling or monitoring a vehicle system along a route
+    CN107618519B                      *,2017-08-18,2019-06-25,西南交通大学,A kind of fuel cell hybrid tramcar parameter matching combined optimization method
+    CN108725519A                      *,2018-01-26,2018-11-02,中车工业研究院有限公司,A kind of route map of train optimization method reducing operation energy consumption
+    CN109625028B                      *,2018-10-26,2020-09-29,北京全路通信信号研究设计院集团有限公司,Train arrival or departure space-time path planning method and device
+    CN110083056A                      *,2019-05-28,2019-08-02,北京交通大学,A kind of municipal rail train PID controller automatic adjusting method
+    CN110239600B                      *,2019-06-04,2020-08-21,北京交通大学,Train operation control method and system for regenerative braking energy utilization
+    CN110395299B                      *,2019-07-29,2021-08-06,交控科技股份有限公司,Train braking energy utilization method in urban rail transit
+    CN112278015A                      *,2020-10-13,2021-01-29,通号城市轨道交通技术有限公司,Train operation plan determining method and device and electronic equipment
+
+abstract
+    Embodiments of the present invention provide a train control method for maximizing utilization of regenerative energy. The method mainly comprises: working out a matching error ΔT of a current matched pair of trains Mx (i, j) of a station in the current running situation; and comparing the matching error ΔT with a preset maximum adjustable error ΔTx of the current matched pair of trains Mx (i, j) of the station and determining a strategy for adjusting train running of the current matched pair of trains Mx (i, j) according to comparison results.
+title
+    Train control method for maximizing utilization of regenerative energy
+similar_document
+26
+    Publication,Publication Date,Title
+    US10023071B2,2018-07-17,Train control method for maximizing utilization of regenerative energy
+    CN106828547B,2019-02-15,A kind of train scheduling method and system utilized towards regenerating braking energy
+    CN104228887B,2016-05-25,The method and system that a kind of ATO grade is adjusted in real time
+    EP2292928A3,2014-04-02,Wind turbine control methods and systems
+    CN104064829B,2016-04-06,A kind of electric automobile real time charging method based on electric automobile cluster Charge Prediction
+    CN103761371B,2016-11-02,Vehicle follow gallop system self-adaption control method based on model reference
+    EP2617617A3,2018-05-02,Vehicle energy and power management method and system
+    CN102424050B,2014-06-11,Energy-saving control method and system of automatic train operation system of train
+    CN107487228B,2020-04-17,Stability control method of electric locomotive under constant-speed operation condition
+    CN104654522A,2015-05-27,Control method and control system for variable-frequency chilled water pump
+    CN104015758B,2016-03-23,A kind of method for control speed and system
+    WO2012134668A3,2013-08-01,Systems and methods for controlling a hybrid heating system
+    CN104228843B,2016-12-07,The gas pedal moment of torsion identifying processing method of hybrid vehicle
+    WO2014149710A8,2015-08-06,System and method for energy rate balancing in hybrid automatic transmissions
+    CN109080503A,2018-12-25,Method for controlling driving speed, system, readable storage medium storing program for executing and electric car
+    CN104410312A,2015-03-11,Paralleled current sharing control method of photovoltaic inverter
+    WO2019159578A1,2019-08-22,Operation curve preparation device, operation assistance device, and operation control device
+    CN103248251B,2016-06-08,Automatic variable coefficient control method for inverter
+    CN111086393B,2021-05-11,Bidirectional ICPT system segmented power supply control method considering braking energy recovery
+    CN107662599B,2021-01-22,Vehicle control method, control device and vehicle
+    EP2837524A1,2015-02-18,Method for minimising the electricity consumption of a public transport network, and associated computational platform
+    CN116080460A,2023-05-09,Quick power battery charging method based on charging pile
+    CN111191819B,2023-07-07,Track traffic multi-train speed curve track coordination optimization method
+    CN107704059A,2018-02-16,A kind of server power supply radiator structure and its control method
+    CN108081988A,2018-05-29,Electric automobile energy management control method based on power of battery balance
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    6
+classfication_nums
+    17
+classfication_items
+70
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,9,/,0,0
+    B
+    B,6,1
+    B,6,1,C
+    B,6,1,C,1,5,/,0,0
+    B
+    B,6,1
+    B,6,1,C
+    B,6,1,C,3,/,0,0
+    B,6,1,L,2,7,/,0,0,1,6
+    B,6,1,L,2,7,/,0,0,2,7
+    B,6,1,L,2,7,/,0,0,3,8
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,2,7,/,0,0
+    B,6,1,L,2,7,/,1,0
+    B,6,1,L,2,7,/,1,2
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,2,7,/,0,0
+    B,6,1,L,2,7,/,1,0
+    B,6,1,L,2,7,/,1,6
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,2,7,/,0,0
+    B,6,1,L,2,7,/,2,0
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,3,/,0,0
+    B,6,1,L,3,/,0,0,6
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,3,/,0,0
+    B,6,1,L,3,/,0,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,5,8
+
+application_events
+7
+    2016-07-28,Application filed by Beijing Jioatong University
+    2016-11-21,Assigned to BEIJING JIOATONG UNIVERSITY
+    2017-03-02,Publication of US20170057378A1
+    2018-07-17,Application granted
+    2018-07-17,Publication of US10023071B2
+    Status,Active
+    2036-08-21,Adjusted expiration
+
+active_area
+2
+    C,N
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    CN201510527621,2015-08-25,
+    CN201510527621.XA,2015-08-25,Maximally utilize the operation control method for train of regenerated energy
+    CN201510527621.X,2015-08-25,
+
+legal_event
+5
+    Date,Code,Title,Description
+    2016-11-21,AS,Assignment,Owner name: BEIJING JIOATONG UNIVERSITY, CHINAFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:XUN, JING;NING, BIN;TANG, TAO;AND OTHERS;REEL/FRAME:040387/0677Effective date: 20161115
+    2018-06-27,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2018-08-28,CC,Certificate of correction,
+    2022-01-11,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YR, SMALL ENTITY (ORIGINAL EVENT CODE: M2551); ENTITY STATUS OF PATENT OWNER: SMALL ENTITYYear of fee payment: 4
+

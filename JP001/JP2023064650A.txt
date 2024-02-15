@@ -1,0 +1,172 @@
+ID
+    JP2023064650A
+citation_exist
+    Patent Citations (3)
+citation_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP4315185B2,2006-11-03,2009-08-19,トヨタ自動車株式会社,ハイブリッド車両の検査システムおよび検査方法
+    JP2011122799A,2009-12-14,2011-06-23,Mitsubishi Heavy Ind Ltd,空気調和機の制御装置
+    JP6525065B2,2015-12-21,2019-06-05,日産自動車株式会社,モータの診断方法及びこれを用いた電力変換装置
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    【課題】車両の走行中に車両が備える回転電機の回転部の診断を行う診断システムを提供する。【解決手段】診断システムは、回転部の診断を行う場合に、回転電機から車両が備える蓄電池３０への充電を停止させ、回転部の回転によって生じる回転電機の誘起電圧を計測する計測部と、誘起電圧の大きさが予め定められた値以上である場合に、回転部が異常と判断する判断部とを備える。方法は、回転部の診断を行う場合に、回転電機から車両が備える蓄電池への充電を停止させ、回転部が回転することによって生じる回転電機の誘起電圧を計測する段階と、誘起電圧の大きさが予め定められた値以上である場合に、回転部が異常と判断する段階とを備える。【選択図】図１
+title
+    診断システム、車両、方法及びプログラム
+similar_document
+26
+    Publication,Publication Date,Title
+    CN101387688B,2011-06-15,用于电动马达转矩监测的方法和设备
+    US8956266B2,2015-02-17,Vehicle driving force control device
+    US10386269B2,2019-08-20,Electric-vehicle testing device and method
+    CN104024070B,2018-01-02,用于监控轨道车辆的制动装置的制动系统的方法和装置
+    JP2015530065A,2015-10-08,電気機械を備えたモーター装置のエラー発生を識別するための方法およびモーター制御機器
+    CN106740441A,2017-05-31,用于诊断刹车灯的方法和装置
+    KR20140050470A,2014-04-29,휠속도 센서 고장 진단 기능을 이용한 차량의 주행 안정화 장치 및 그 방법
+    CN112187118A,2021-01-05,车辆驱动装置
+    US10972022B2,2021-04-06,Apparatus and method of diagnosing failure of motor driving system using output signal of resolver
+    US20120290186A1,2012-11-15,Multiplex control system, transport device having multiplex control system, and control method thereof
+    JP2009207315A,2009-09-10,モータ制御装置
+    JP7289886B2,2023-06-12,診断システム、車両、方法及びプログラム
+    CN115214614B,2023-11-07,故障检测方法、装置、电子设备和可读介质
+    KR20200110530A,2020-09-24,전기자동차 고장 진단 장치 및 방법
+    JP2021156715A,2021-10-07,車両診断装置及び車両診断システム
+    JP2014034912A,2014-02-24,車両用制御装置
+    KR102555514B1,2023-07-13,병렬형 하이브리드 차량의 모터 제어 장치 및 그것의 모터 고장 진단 방법
+    CN110621870B,2021-10-08,用于监控用于内燃机的起动器的处理单元
+    WO2021157219A1,2021-08-12,車載装置、通信システム
+    JP2016135657A,2016-07-28,車両データ保存装置
+    CN114646470A,2022-06-21,用于感测发动机的轴承损伤的方法
+    KR20120005724A,2012-01-17,전기자동차 및 비상제어방법
+    KR101527133B1,2015-06-09,차량용 에이비에스의 진단 방법 및 장치
+    CN116834721A,2023-10-03,刹车盘的检测方法、检测装置及车辆
+    CN114714915A,2022-07-08,电动汽车的能量回收监控方法、装置、车辆及存储介质
+
+patent_application
+    NoExist
+patent_priority_application
+4
+    Application,Priority date,Filing date,Title
+    JP2021175040A,2021-10-26,2021-10-26,診断システム、車両、方法及びプログラム
+    CN202211056592.XA,2021-10-26,2022-08-30,诊断系统、车辆、诊断方法和计算机可读存储介质
+    US17/950,118,2021-10-26,2022-09-22,Diagnosis system, vehicle, method, and computer-readable storage medium
+
+inventor_number
+    6
+classfication_nums
+    11
+classfication_items
+66
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    G
+    G,0,1
+    G,0,1,R
+    G,0,1,R,1,9,/,0,0
+    G,0,1,R,1,9,/,0,0,8,4
+    G
+    G,0,1
+    G,0,1,R
+    G,0,1,R,3,1,/,0,0
+    G,0,1,R,3,1,/,3,4
+    G,0,1,R,3,1,/,3,4,3
+    G
+    G,0,7
+    G,0,7,C
+    G,0,7,C,5,/,0,0
+    G,0,7,C,5,/,0,2
+    G
+    G,0,7
+    G,0,7,C
+    G,0,7,C,5,/,0,0
+    G,0,7,C,5,/,0,8
+    G,0,7,C,5,/,0,8,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,7
+
+application_events
+9
+    2021-10-26,Application filed by Honda Motor Co Ltd
+    2021-10-26,Priority to JP2021175040A
+    2022-08-30,Priority to CN202211056592.XA
+    2022-09-22,Priority to US17/950,118
+    2023-05-11,Publication of JP2023064650A
+    2023-06-12,Application granted
+    2023-06-12,Publication of JP7289886B2
+    Status,Active
+    2041-10-26,Anticipated expiration
+
+active_area
+3
+    J,P
+    C,N
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2021175040A,2021-10-26,診断システム、車両、方法及びプログラム
+
+legal_event
+8
+    Date,Code,Title,Description
+    2022-05-30,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20220530
+    2023-04-04,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20230404
+    2023-05-12,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20230512
+    2023-05-16,TRDD,Decision of grant or rejection written,
+    2023-05-30,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20230530
+    2023-06-02,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20230531
+    2023-06-02,R150,Certificate of patent or registration of utility model,Ref document number: 7289886Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R150
+

@@ -1,0 +1,370 @@
+ID
+    US20170120892A1
+citation_exist
+    Patent Citations (7)
+citation_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP3374802B2                      *,1999-09-24,2003-02-10,株式会社日立製作所,Hybrid vehicle
+    JP4100335B2                      *,2003-11-28,2008-06-11,株式会社エクォス・リサーチ,Drive control device and hybrid vehicle
+    CN103906651B                      *,2011-11-04,2016-04-20,丰田自动车株式会社,The control method of vehicle and vehicle
+    JP5696790B2                      *,2011-11-04,2015-04-08,トヨタ自動車株式会社,Vehicle and vehicle control method
+    JP5682581B2,2012-02-28,2015-03-11,トヨタ自動車株式会社,Hybrid vehicle
+    JP5772743B2,2012-07-17,2015-09-02,トヨタ自動車株式会社,Brake control device for vehicle
+    JP5811991B2                      *,2012-11-30,2015-11-11,トヨタ自動車株式会社,Driving assistance device
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (17)
+              
+
+
+citedBy_infor
+19
+    Publication number,Priority date,Publication date,Assignee,Title
+    US10634086B1                      *,2018-12-20,2020-04-28,Ford Global Technologies, Llc,System and method for estimating cylinder pressures
+    US10882514B2                      *,2017-07-27,2021-01-05,Toyota Jidosha Kabushiki Kaisha,Automatic parking control device and automatic parking system
+    US20210070263A1                      *,2019-09-10,2021-03-11,Subaru Corporation,Brake controlling apparatus and vehicle
+    US20220041058A1                      *,2018-09-17,2022-02-10,Knorr-Bremse Systeme Fuer Nutzfahrzeuge Gmbh,A System and a Method for Controlling an Electric Vehicle
+    WO2022037892A1                      *,2020-08-19,2022-02-24,Bayerische Motoren Werke Aktiengesellschaft,Method and apparatus for controlling an electric machine during a recuperation process
+    US11447017B2                      *,2020-01-30,2022-09-20,Fca Us Llc,Control of user-selectable vehicle deceleration rate to maximize regeneration for electrified propulsion systems
+    Family To Family Citations,,,,
+    JP7020144B2                      *,2018-01-30,2022-02-16,トヨタ自動車株式会社,Electric vehicle and control method of electric vehicle
+    JP7010038B2                      *,2018-02-08,2022-01-26,トヨタ自動車株式会社,Hybrid car
+    JP6738497B2                      *,2018-02-23,2020-08-12,日立建機株式会社,Work vehicle power regeneration system
+    JP2019187130A                      *,2018-04-12,2019-10-24,トヨタ自動車株式会社,Control system for autonomous vehicle
+    JP7063752B2                      *,2018-07-13,2022-05-09,日野自動車株式会社,Charge / discharge control device
+    CN109017323B                      *,2018-08-06,2022-03-18,武汉理工大学,Method for controlling regenerative braking of tandem electric vehicle driven by hub motor under long slope
+    WO2020061421A1                      *,2018-09-21,2020-03-26,ePower Engine Systems Inc,Ai-controlled multi-channel power divider / combiner for a power-split series electric hybrid heavy vehicle
+    CN111993899A                      *,2019-05-27,2020-11-27,观致汽车有限公司,Energy management method and energy management system of new energy vehicle
+    JP7226352B2                      *,2020-01-24,2023-02-21,トヨタ自動車株式会社,vehicle alarm device
+    KR102294158B1                      *,2020-10-27,2021-08-25,숭실대학교 산학협력단,Regenerative braking control method based on driving perception of xEV vehicles
+    CN112477865B                      *,2020-12-02,2022-02-11,南京航空航天大学,Regenerative braking control method based on driver braking behavior prediction
+
+abstract
+    A vehicle control apparatus of the invention is applied to a hybrid vehicle. The apparatus executes an enlarged regeneration control for applying an increased regeneration braking force larger than a normal regeneration braking force to at least one vehicle wheel when a position where it is predicted that a deceleration of the hybrid vehicle ends is set as a target deceleration end position and the acceleration operation amount is zero. The apparatus executes a downslope prediction control when determining that a downslope zone exists on a scheduled traveling route of the hybrid vehicle in order to decrease a battery charge amount. The apparatus forbids an execution of the enlarged regeneration control when both a condition for executing the downslope prediction control and a condition for executing the enlarged regeneration control are satisfied.
+title
+    Vehicle control apparatus
+similar_document
+24
+    Publication,Publication Date,Title
+    US20170120892A1,2017-05-04,Vehicle control apparatus
+    US10029689B2,2018-07-24,Vehicle control apparatus
+    US9944185B2,2018-04-17,Vehicle control device
+    CN106467107B,2021-06-25,Method for controlling vehicle
+    US9409567B2,2016-08-09,Driving assistance apparatus
+    JP4858039B2,2012-01-18,Vehicle control device
+    JP6269641B2,2018-01-31,Control device for hybrid vehicle
+    US10137786B2,2018-11-27,Vehicle control device
+    EP2928745B1,2021-06-30,Hybrid electric vehicle control system and method
+    US9278672B2,2016-03-08,Driving support apparatus
+    US9981542B2,2018-05-29,Vehicle control device
+    US9932027B2,2018-04-03,Dynamic deceleration control for hybrid vehicle to achieve a consistent overrun response
+    AU2011374406A1,2014-01-16,Driving assistance device
+    CN111409621B,2023-09-29,System and method for torque distribution arbitration
+    US10962107B2,2021-03-30,Control device for vehicle
+    US20170159593A1,2017-06-08,Control of preparatory measures in a vehicle
+    WO2017086471A1,2017-05-26,Hybrid vehicle and control method therefor
+    US10851889B2,2020-12-01,Control device and control method of vehicle
+    JP2017087799A,2017-05-25,Vehicle control apparatus
+    US11603090B2,2023-03-14,Control device for vehicle
+    CN114407866B,2023-11-17,Control device for vehicle
+    US20230331146A1,2023-10-19,Changing headlight properties to recommend vehicle speed
+    JP2017061169A,2017-03-30,Vehicular control apparatus
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    42
+classfication_items
+251
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B,6,0,W,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B,6,0,L,1,5,/,2,0,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B,6,0,L,5,0,/,6,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,4
+    B,6,0,W,1,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,4,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,2
+    B,6,0,L,2,2,4,0,/,6,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B,6,0,L,2,2,4,0,/,6,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,8,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B,6,0,L,2,2,5,0,/,2,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,5,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,2,/,0,0
+    B,6,0,W,2,5,5,2,/,1,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,5,/,0,0
+    B,6,0,W,2,5,5,5,/,6,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,6,/,0,0
+    B,6,0,W,2,5,5,6,/,4,5
+    B,6,0,W,2,5,5,6,/,5,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,1,0
+    B,6,0,W,2,7,2,0,/,1,0,6
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,1,8
+    B,6,0,Y,2,3,0,0,/,1,8,0,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,2,5
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,4,3
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,6,0
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,9,1
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,4,0,0,/,0,0
+    B,6,0,Y,2,4,0,0,/,1,1
+    B,6,0,Y,2,4,0,0,/,1,1,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,4,7
+
+application_events
+4
+    2016-10-05,Application filed by Toyota Motor Corp
+    2016-10-05,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2017-05-04,Publication of US20170120892A1
+    Status,Abandoned
+
+active_area
+1
+    C,N
+
+not_active_area
+3
+    J,P
+    U,S
+    D,E
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2015-213667,2015-10-30,
+    JP2015213667A,2015-10-30,Vehicle control apparatus
+
+legal_event
+3
+    Date,Code,Title,Description
+    2016-10-05,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:KATO, MITSUHARU;OGURI, HARUKI;SIGNING DATES FROM 20160824 TO 20160825;REEL/FRAME:039947/0359
+    2018-03-16,STCB,Information on status: application discontinuation,Free format text: ABANDONED  --  FAILURE TO RESPOND TO AN OFFICE ACTION
+

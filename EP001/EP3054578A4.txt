@@ -1,0 +1,289 @@
+ID
+    EP3054578A4
+citation_exist
+    Patent Citations (14)
+citation_infor
+16
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2008125162A                      *,2006-11-08,2008-05-29,Toyota Motor Corp,Electric vehicle
+    US20110310644A1                      *,2010-06-16,2011-12-22,Hitachi Automotive Systems, Ltd.,Power Conversion Device
+    WO2012117893A1                      *,2011-03-03,2012-09-07,日立オートモティブシステムズ株式会社,Electric power converter
+    Family To Family Citations,,,,
+    JP3724344B2,2000-06-29,2005-12-07,日産自動車株式会社,Electric motor control device
+    JP3863092B2                      *,2002-11-20,2006-12-27,本田技研工業株式会社,In-vehicle motor regeneration control device
+    JP2004248432A                      *,2003-02-14,2004-09-02,Toyota Motor Corp,Driving apparatus and automobile having the same
+    US8022659B2                      *,2006-05-25,2011-09-20,Mitsubishi Electric Corporation,Control apparatus for AC rotary machine and control method for AC rotary machine
+    JP4989591B2,2008-04-23,2012-08-01,三菱電機株式会社,Permanent magnet synchronous motor driving device, air conditioner, ventilation fan driving device, washing machine, automobile and vehicle
+    JP5460561B2,2010-03-23,2014-04-02,本田技研工業株式会社,Electric power supply system for electric motorcycles
+    US8598819B2                      *,2010-04-29,2013-12-03,Analogic Corporation,Motor control
+    JP2012235591A,2011-04-28,2012-11-29,Toyota Motor Corp,Vehicle
+    JP5397432B2,2011-08-22,2014-01-22,トヨタ自動車株式会社,Rotating electrical machine drive system
+    JP2013066326A,2011-09-20,2013-04-11,Toyota Motor Corp,Vehicle, and vehicle control method
+    JP2013121256A,2011-12-07,2013-06-17,Toyota Motor Corp,Power conversion device
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP6608761B2                      *,2016-04-14,2019-11-20,ファナック株式会社,Motor drive device for suppressing voltage fluctuation of DC link capacitor
+    CN110417254A                      *,2019-07-26,2019-11-05,上海芯龙半导体技术股份有限公司,The integrated circuit of one built-in triple channel DC voltage converter
+    JP7294227B2                      *,2020-04-28,2023-06-20,株式会社デンソー,Power converter control circuit
+    JP7259800B2,2020-05-01,2023-04-18,株式会社デンソー,power converter
+
+abstract
+    
+title
+    Power conversion device
+similar_document
+26
+    Publication,Publication Date,Title
+    EP3048718A4,2017-05-17,Power conversion device
+    EP3054572A4,2017-09-13,Power conversion device
+    ZA201403943B,2016-07-27,Power conversion device
+    PT2860423T,2018-06-06,Power conversion device
+    EP3059846A4,2017-07-12,Power converter
+    AU2014335668A1,2016-05-12,Power converter
+    EP2978114A4,2017-04-12,Power conversion apparatus
+    EP2928062A4,2017-03-15,Power conversion device
+    EP2983284A4,2016-11-30,Power conversion device
+    EP3048717A4,2017-05-17,Power converter
+    EP3029824A4,2017-06-21,Multilevel power conversion device
+    EP3086459A4,2017-08-09,Power conversion device
+    EP2858225A4,2017-03-15,Power conversion device
+    EP3070835A4,2017-06-28,Power conversion device
+    SG11201506921WA,2015-09-29,Power conversion device
+    EP3089343A4,2017-08-16,Power conversion device
+    EP3057217A4,2017-07-12,Power conversion device
+    EP3038245A4,2017-05-03,Power converter
+    EP3089344A4,2017-01-18,Power conversion device
+    EP2985897A4,2017-03-15,Power conversion device
+    EP2913915A4,2017-04-19,Power conversion device
+    EP3011599A4,2017-03-15,Photovoltaic devices
+    EP2961047A4,2016-11-16,Power conversion device
+    EP3070832A4,2017-08-23,Power generation device
+    EP2943430A4,2017-03-15,Power transfer device
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    6
+classfication_nums
+    20
+classfication_items
+127
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,7,/,0,0
+    H,0,2,P,2,7,/,0,4
+    H,0,2,P,2,7,/,0,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,6,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,6,6
+    H,0,2,M,7,/,6,8
+    H,0,2,M,7,/,7,2
+    H,0,2,M,7,/,7,9
+    H,0,2,M,7,/,7,9,7
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,3,/,0,0
+    H,0,2,P,3,/,0,6
+    H,0,2,P,3,/,0,8
+    H,0,2,P,3,/,1,2
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,3,/,0,0
+    H,0,2,P,3,/,0,6
+    H,0,2,P,3,/,0,8
+    H,0,2,P,3,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,7
+    E
+    E,0,5
+    E,0,5,Y
+    E,0,5,Y,2,8,0,0,/,0,0
+    E,0,5,Y,2,8,0,0,/,2,5
+    E,0,5,Y,2,8,0,0,/,2,5,2
+    E
+    E,0,5
+    E,0,5,Y
+    E,0,5,Y,2,9,0,0,/,0,0
+    E,0,5,Y,2,9,0,0,/,1,0
+    E,0,5,Y,2,9,0,0,/,1,3
+    E,0,5,Y,2,9,0,0,/,1,3,2
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,0,0,0,3
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,3,/,0,0
+    H,0,2,P,3,/,0,6
+    H,0,2,P,3,/,1,8
+    H,0,2,P,3,/,2,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+
+application_events
+7
+    2014-09-29,Application filed by Hitachi Automotive Systems Ltd
+    2016-08-10,Publication of EP3054578A1
+    2017-05-10,Publication of EP3054578A4
+    2019-05-15,Application granted
+    2019-05-15,Publication of EP3054578B1
+    Status,Active
+    2034-09-29,Anticipated expiration
+
+active_area
+4
+    E,P
+    U,S
+    J,P
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2013206480,2013-10-01,
+    PCT/JP2014/075774,2014-09-29,Power conversion device
+
+legal_event
+45
+    Date,Code,Title,Description
+    2016-07-08,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2016-08-10,17P,Request for examination filed,Effective date: 20160330
+    2016-08-10,AK,Designated contracting states,Kind code of ref document: A1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2016-08-10,AX,Request for extension of the european patent,Extension  state: BA ME
+    2017-01-04,DAX,Request for extension of the european patent (deleted),
+    2017-05-10,A4,Supplementary search report drawn up and despatched,Effective date: 20170411
+    2017-05-10,RIC1,Information provided on ipc code assigned before grant,Ipc: H02M   7/48        20070101AFI20170405BHEPIpc: B60L   7/16        20060101ALI20170405BHEPIpc: H02M   7/797       20060101ALI20170405BHEPIpc: H02P  27/06        20060101ALI20170405BHEPIpc: B60L   7/00        20060101ALI20170405BHEP
+    2019-01-07,GRAP,Despatch of communication of intention to grant a patent,Free format text: ORIGINAL CODE: EPIDOSNIGR1
+    2019-01-07,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: GRANT OF PATENT IS INTENDED
+    2019-01-23,INTG,Intention to grant announced,Effective date: 20190108
+    2019-01-23,RIN1,Information on inventor provided before grant (corrected),Inventor name: TODA, ISSEIInventor name: ONO, KOICHIInventor name: HIDA, SHINICHIROU
+    2019-04-09,GRAS,Grant fee paid,Free format text: ORIGINAL CODE: EPIDOSNIGR3
+    2019-04-12,GRAA,(expected) grant,Free format text: ORIGINAL CODE: 0009210
+    2019-04-12,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE PATENT HAS BEEN GRANTED
+    2019-05-15,AK,Designated contracting states,Kind code of ref document: B1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2019-05-15,REG,Reference to a national code,Ref country code: CHRef legal event code: EP
+    2019-06-06,REG,Reference to a national code,Ref country code: DERef legal event code: R096Ref document number: 602014046987Country of ref document: DE
+    2019-06-12,REG,Reference to a national code,Ref country code: IERef legal event code: FG4D
+    2019-09-18,REG,Reference to a national code,Ref country code: NLRef legal event code: MPEffective date: 20190515
+    2019-09-25,REG,Reference to a national code,Ref country code: LTRef legal event code: MG4D
+    2019-10-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: ALFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190515Ref country code: PTFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190915Ref country code: NLFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190515Ref country code: HRFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190515Ref country code: LTFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190515Ref country code: ESFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190515Ref country code: FIFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190515Ref country code: NOFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190815Ref country code: SEFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190515
+    2019-11-29,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: RSFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190515Ref country code: GRFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190816Ref country code: LVFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190515Ref country code: BGFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190815
+    2019-12-15,REG,Reference to a national code,Ref country code: ATRef legal event code: MK05Ref document number: 1134602Country of ref document: ATKind code of ref document: TEffective date: 20190515
+    2020-01-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: SKFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190515Ref country code: ROFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190515Ref country code: CZFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190515Ref country code: DKFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190515Ref country code: ATFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190515Ref country code: EEFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190515
+    2020-02-18,REG,Reference to a national code,Ref country code: DERef legal event code: R097Ref document number: 602014046987Country of ref document: DE
+    2020-02-28,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: SMFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190515Ref country code: ITFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190515
+    2020-03-20,PLBE,No opposition filed within time limit,Free format text: ORIGINAL CODE: 0009261
+    2020-03-20,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: NO OPPOSITION FILED WITHIN TIME LIMIT
+    2020-03-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: TRFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190515
+    2020-04-22,26N,No opposition filed,Effective date: 20200218
+    2020-05-01,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: PLFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190515
+    2020-05-29,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: MCFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190515Ref country code: SIFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190515
+    2020-05-29,REG,Reference to a national code,Ref country code: CHRef legal event code: PL
+    2020-07-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: LUFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20190929Ref country code: IEFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20190929Ref country code: LIFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20190930Ref country code: CHFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20190930
+    2020-08-06,REG,Reference to a national code,Ref country code: BERef legal event code: MMEffective date: 20190930
+    2020-08-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: BEFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20190930
+    2020-09-02,GBPC,Gb: european patent ceased through non-payment of renewal fee,Effective date: 20190929
+    2020-10-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: GBFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20190929Ref country code: FRFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20190930
+    2021-03-19,REG,Reference to a national code,Ref country code: DERef legal event code: R081Ref document number: 602014046987Country of ref document: DEOwner name: HITACHI ASTEMO, LTD., HITACHINAKA-SHI, JPFree format text: FORMER OWNER: HITACHI AUTOMOTIVE SYSTEMS, LTD., HITACHINAKA-SHI, IBARAKI, JP
+    2021-05-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: CYFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190515
+    2021-06-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: ISFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190915
+    2021-07-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: MTFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190515Ref country code: HUFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT; INVALID AB INITIOEffective date: 20140929
+    2022-06-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: MKFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190515
+    2022-10-31,PGFP,Annual fee paid to national office [announced via postgrant information from national office to epo],Ref country code: DEPayment date: 20220809Year of fee payment: 9
+

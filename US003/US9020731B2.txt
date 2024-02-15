@@ -1,0 +1,310 @@
+ID
+    US9020731B2
+citation_exist
+    Patent Citations (17)
+citation_infor
+19
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH09312978A,1996-05-21,1997-12-02,Toyo Electric Mfg Co Ltd,Controller of dc-ac converter
+    JP2000050689A,1998-07-24,2000-02-18,Toyota Motor Corp,Drive control equipment of ac motor
+    US6515446B1                      *,1999-04-19,2003-02-04,Toyota Jidosha Kabushiki Kaisha,Motor control apparatus and control method
+    JP2005045880A,2003-07-24,2005-02-17,Toyota Motor Corp,Load driving device and recording medium with program recorded thereon for causing computer to control voltage conversion in load driving device
+    JP2005051850A,2003-07-30,2005-02-24,Toyota Motor Corp,Vehicle and method for controlling the same
+    US20060192519A1,2005-02-25,2006-08-31,Mitsubishi Heavy Industries, Ltd.,Forklift and method for controlling induction motor applied to the same
+    JP2008167557A,2006-12-27,2008-07-17,Nissan Motor Co Ltd,Motor control method
+    US20080218111A1                      *,2005-05-10,2008-09-11,Toyota Jidosha Kabushiki Kaisha,Control Device for Motor Drive System and Electric Vehicle Including the Same
+    US20110031911A1                      *,2009-08-10,2011-02-10,Emerson Climate Technologies, Inc.,Power factor correction  with variable bus voltage
+    US20110241584A1                      *,2010-03-31,2011-10-06,Aisin Aw Co., Ltd.,Control device of motor driving apparatus
+    US20110248663A1                      *,2008-12-22,2011-10-13,Toyota Jidosha Kabushiki Kaisha,Control system for ac motor
+    US20120249046A1                      *,2011-03-30,2012-10-04,Bose Corporation,Rate Limited Common Mode Control for Pulse-Width Modulation Drives
+    US20130187583A1                      *,2009-06-22,2013-07-25,Aisin Aw Co., Ltd.,Control device for electric motor driving apparatus
+    Family To Family Citations,,,,
+    US4608527A                      *,1982-12-20,1986-08-26,Sundstrand Corporation,Phase advance waveform generator for brushless DC actuator system controller
+    IN172484B                      *,1990-09-10,1993-08-28,Paramount Sinters Private Limi,
+    JP4175207B2                      *,2003-07-30,2008-11-05,トヨタ自動車株式会社,Vehicle and vehicle control method
+    JP5149695B2                      *,2008-05-15,2013-02-20,パナソニック株式会社,Motor drive control device
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (15)
+              
+
+
+citedBy_infor
+17
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20150025828A1                      *,2013-07-16,2015-01-22,Ford Global Technologies, Llc,Method of Current Sensor Related Torque Error Estimation for IPMSM Based E-Drive System
+    US10277115B2,2016-04-15,2019-04-30,Emerson Climate Technologies, Inc.,Filtering systems and methods for voltage control
+    US10284132B2,2016-04-15,2019-05-07,Emerson Climate Technologies, Inc.,Driver for high-frequency switching voltage converters
+    US10305373B2,2016-04-15,2019-05-28,Emerson Climate Technologies, Inc.,Input reference signal generation systems and methods
+    US10312798B2,2016-04-15,2019-06-04,Emerson Electric Co.,Power factor correction circuits and methods including partial power factor correction operation for boost and buck power converters
+    US10437317B2,2016-04-15,2019-10-08,Emerson Climate Technologies, Inc.,Microcontroller architecture for power factor correction converter
+    US10656026B2,2016-04-15,2020-05-19,Emerson Climate Technologies, Inc.,Temperature sensing circuit for transmitting data across isolation barrier
+    US10763740B2,2016-04-15,2020-09-01,Emerson Climate Technologies, Inc.,Switch off time control systems and methods
+    US11296625B2                      *,2017-09-14,2022-04-05,Sinfona Technology Co., Ltd.,Control device and control method for synchronous electric motor
+    Family To Family Citations,,,,
+    US9000701B2                      *,2011-12-30,2015-04-07,GM Global Technology Operations LLC,Methods, systems and apparatus for generating voltage commands used to control operation of a permanent magnet machine
+    JP6282487B2                      *,2014-02-25,2018-02-21,三菱重工業株式会社,Turbocharger and ship
+    FR3027748B1                      *,2014-10-27,2016-11-04,Valeo Equip Electr Moteur,METHOD AND DEVICE FOR CONTROLLING A POLYNHASE SYNCHRONOUS ROTARY ELECTRIC MACHINE AND REVERSIBLE ELECTRIC MACHINE FOR A MOTOR VEHICLE CORRESPONDING THERETO
+    CN105811827A                      *,2014-12-29,2016-07-27,上海大郡动力控制技术有限公司,Suppression method of pure electric vehicle rotation speed fluctuation
+    CN108809170B                      *,2018-06-11,2021-01-29,北京北方华创微电子装备有限公司,Automatic control circuit of matcher motor
+    CN111216564B                      *,2018-11-27,2022-05-24,宇通客车股份有限公司,Vehicle torque control method and device
+
+abstract
+    A PI calculation unit of a rectangular-wave voltage control unit calculates a control deviation by performing a PI calculation on a torque deviation relative to a torque command value, and outputs a voltage phase of a rectangular-wave voltage in accordance with the control deviation. A rate-of-change limiter imposes a restriction on the rate of change of the voltage phase. Here, the rate-of-change limiter lessens the restriction on the rate of change of the voltage phase, when the rate of change of the rotational speed of an electric motor is larger than a predetermined value representing an abrupt change of the rotational speed of the electric motor.
+title
+    Control apparatus for electric motor, electrically-powered vehicle including the control apparatus, and method for controlling electric motor
+similar_document
+21
+    Publication,Publication Date,Title
+    US9020731B2,2015-04-28,Control apparatus for electric motor, electrically-powered vehicle including the control apparatus, and method for controlling electric motor
+    US8502493B2,2013-08-06,Control device and control method for alternating-current motor
+    US8427087B2,2013-04-23,Control device for AC motor
+    US8497646B2,2013-07-30,Controller for AC electric motor and electric powered vehicle
+    US8148937B2,2012-04-03,Alternating-current motor control apparatus
+    US8536810B2,2013-09-17,Control device and control method for alternating-current motor
+    US8471519B2,2013-06-25,Control device and control method for AC motor
+    US8373380B2,2013-02-12,Device and method for controlling alternating-current motor
+    EP2733844B1,2017-03-29,Vehicle and method for controlling vehicle
+    JP5482574B2,2014-05-07,AC motor control system
+    US9281774B2,2016-03-08,Motor control system
+    JP2010161907A,2010-07-22,Controller for motor driving control system
+    US20140176029A1,2014-06-26,Vehicle and control device for vehicle
+    US9656554B2,2017-05-23,Vehicle and control device for vehicle
+    JP2011067010A,2011-03-31,Motor drive of vehicle
+    JP5210822B2,2013-06-12,AC motor control device and electric vehicle equipped with the same
+    JP5696607B2,2015-04-08,AC motor control apparatus and control method
+    JP5768542B2,2015-08-26,AC motor control apparatus and control method
+    JP5780022B2,2015-09-16,AC motor control apparatus and control method
+    JP5884297B2,2016-03-15,Motor drive control system, vehicle equipped with the same, and motor drive control system control method
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    30
+classfication_items
+178
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,2
+    B,6,0,L,1,5,/,0,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,1,/,0,0
+    H,0,2,P,2,1,/,0,0,0,3
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,7,/,0,0
+    H,0,2,P,2,7,/,0,4
+    H,0,2,P,2,7,/,0,6
+    H,0,2,P,2,7,/,0,8
+    H,0,2,P,2,7,/,0,8,5
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,6,/,0,0
+    H,0,2,P,6,/,0,8
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,6,/,0,0
+    H,0,2,P,6,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B,6,0,L,2,2,1,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B,6,0,L,2,2,1,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,1,0
+    B,6,0,L,2,2,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,3
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+8
+    2011-04-05,Application filed by Toyota Motor Corp
+    2013-09-27,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2014-01-16,Publication of US20140018991A1
+    2015-04-28,Application granted
+    2015-04-28,Publication of US9020731B2
+    2020-04-01,Assigned to DENSO CORPORATION
+    Status,Active
+    2031-04-05,Anticipated expiration
+
+active_area
+5
+    J,P
+    C,N
+    U,S
+    E,P
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2011/058598,2011-04-05,Control apparatus for electric motor, electric vehicle provided with same, and method for controlling electric motor
+
+legal_event
+7
+    Date,Code,Title,Description
+    2013-09-27,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:YAMADA, KENJI;REEL/FRAME:031352/0529Effective date: 20130828
+    2015-04-08,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2015-12-05,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2018-10-11,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+    2020-04-01,AS,Assignment,Owner name: DENSO CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:TOYOTA JIDOSHA KABUSHIKI KAISHA;REEL/FRAME:052285/0419Effective date: 20191224
+    2022-10-19,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+

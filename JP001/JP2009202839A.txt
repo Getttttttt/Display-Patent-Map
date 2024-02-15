@@ -1,0 +1,213 @@
+ID
+    JP2009202839A
+citation_exist
+    Patent Citations (12)
+citation_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPS5594844A                      *,1979-01-09,1980-07-18,Caterpillar Mitsubishi Ltd,Remote controllable vehicle
+    JP2000233730A                      *,1999-02-12,2000-08-29,Toyota Motor Corp,車両制動制置
+    JP2001301593A                      *,2000-04-18,2001-10-31,Toyota Motor Corp,車両用減速度制御装置
+    JP2003341496A                      *,2002-05-29,2003-12-03,Komatsu Forklift Co Ltd,産業車両の走行制御装置
+    Family To Family Citations,,,,
+    JPH0995222A,1995-09-29,1997-04-08,Mitsubishi Motors Corp,減速付加装置
+    JPH09202221A,1996-01-29,1997-08-05,Komatsu Ltd,車両のブレーキ制御装置
+    DE19703688B4                      *,1997-01-31,2006-02-09,Robert Bosch Gmbh,Verfahren und Vorrichtung zur Steuerung einer Bremsanlage
+    DE69834480T2                      *,1997-03-06,2006-09-21,Kelsey-Hayes Co., Livonia,Gerät und Verfahren zur Bereitstellung eines Bremssteuersignals
+    US6259980B1                      *,1998-10-21,2001-07-10,Northrop Grumman Corporation,Automated control system for remote vehicles
+    EP1160119B1,1999-02-08,2011-10-05,Toyota Jidosha Kabushiki Kaisha,Vehicle braked by motor torque and method of controlling the vehicle
+    DE19909326A1                      *,1999-03-03,2000-09-21,Lucas Ind Plc,Vorrichtung und Verfahren zum Steuern der Fahrgeschwindigkeit eines Kraftfahrzeuges
+    JP3921908B2,2000-02-14,2007-05-30,トヨタ自動車株式会社,車両用減速度制御装置
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (11)
+              
+
+
+citedBy_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    WO2016042852A1                      *,2014-09-16,2016-03-24,ヤマハモーターパワープロダクツ株式会社,車両
+    KR20180079125A                      *,2016-12-31,2018-07-10,농업회사법인 희망농업기계 주식회사,정유압식 무단변속장치를 갖는 농업용 작업 차량의 보조 브레이크 시스템
+    KR20200076313A                      *,2018-12-19,2020-06-29,주식회사 두산,지게차의 자동감속 시스템
+    Family To Family Citations,,,,
+    CN103328294B                      *,2011-01-31,2016-10-12,铃木株式会社,再生控制装置、再生控制方法和混合动力车辆
+    JP5563004B2                      *,2012-03-28,2014-07-30,日信工業株式会社,車両用ブレーキ液圧制御装置
+    WO2014099060A1                      *,2012-12-20,2014-06-26,Cnh America Llc,System and method for controlling the operation of a work vehicle having a power shift transmission and a proportional parking brake
+    WO2015097910A1                      *,2013-12-27,2015-07-02,株式会社小松製作所,フォークリフト及びフォークリフトの制御方法
+    JP6237396B2                      *,2014-03-26,2017-11-29,株式会社豊田自動織機,産業車両の走行制御装置
+    DE102015012377A1                      *,2015-09-21,2017-03-23,Wabco Gmbh,Verfahren zum Einstellen von Bremsdrücken eines Kraftfahrzeugs, Bremsanlage zur Durchführung des Verfahrens sowie Kraftfahrzeug
+    JP6701662B2                      *,2015-10-07,2020-05-27,三菱自動車工業株式会社,電動車の回生制動制御装置
+    US11318920B2,2020-02-28,2022-05-03,Bendix Commercial Vehicle Systems Llc,Brake controller storing deceleration profiles and method using deceleration profiles stored in a brake controller
+
+abstract
+    【課題】制動力を適切に設定可能とすることによりオペレータのフィーリングを最適な状態とする。【解決手段】アクセル開度検出センサ２と、車速センサ３と、車両の減速度を調整可能な制動手段（ソレノイド制御ブレーキ）７とを備えた制御装置１０において、所定のパラメータに応じて前記減速度が設定された減速度テーブル１２を複数格納した記憶部１０ｂを備え、減速度選択手段４、５により、目的とする減速度を選択された際に、車速が予め設定された車速Ｖ１以下で、且つアクセル開度が予め設定されたアクセル開度以下である場合に、前記減速度の選択を有効として、前記減速度選択手段により選択された減速度に対応する減速度テーブル１２を前記記憶部１０ｂより読み出し、該テーブルに規定された制動パラメータに基づき前記制動手段を作動させて、選択された減速度になるように減速制御を実行する。【選択図】図１
+title
+    車両制御装置及び該装置を搭載した車両
+similar_document
+22
+    Publication,Publication Date,Title
+    JP4909302B2,2012-04-04,車両制御装置及び該装置を搭載した車両
+    EP2138742B1,2013-03-20,Vehicle with vehicle control unit
+    JP4793134B2,2011-10-12,フォークリフトの走行制御装置
+    JP5087358B2,2012-12-05,作業車両のペダルロック制御装置
+    JP5555710B2,2014-07-23,車両の発進補助装置
+    US20100204872A1,2010-08-12,Vehicle controller and vehicle mounted with the same
+    CN111788360A,2020-10-16,作业车辆
+    JP4473200B2,2010-06-02,作業車両の原動機制御装置
+    KR20140114010A,2014-09-25,작업 차량의 제어 장치
+    US10730515B2,2020-08-04,Method for adjusting an auto-braking system override threshold
+    US7240757B2,2007-07-10,Control system of self propelled industrial machine
+    JP4613520B2,2011-01-19,駐車補助制御装置、駐車補助制御システムおよび駐車補助プログラム
+    JP5087359B2,2012-12-05,作業車両のペダルロック制御装置
+    JP2012086619A,2012-05-10,アーティキュレート車両における小旋回制御装置
+    KR20220056887A,2022-05-09,차량의 자율주행을 위한 장치 및 그 제어방법
+    JP2008222181A,2008-09-25,フォークリフト車の安全装置
+    JP2006175944A,2006-07-06,加減速度制御装置
+    JP7287504B2,2023-06-06,駆動力制御方法及び駆動力制御装置
+    JP2021079848A,2021-05-27,作業車両
+    JPH0640532Y2,1994-10-26,車両用制動装置の制御装置
+    JP2005106074A,2005-04-21,油圧駆動式鉄道施設車の走行制御装置
+
+patent_application
+    NoExist
+patent_priority_application
+6
+    Application,Priority date,Filing date,Title
+    JP2008049925A,2008-02-29,2008-02-29,車両制御装置及び該装置を搭載した車両
+    EP08791722.5A,2008-02-29,2008-07-22,Vehicle control unit, and vehicle mounting the same
+    CN2008801100832A,2008-02-29,2008-07-22,车辆控制装置和搭载有该装置的车辆
+    US12/680,886,2008-02-29,2008-07-22,Vehicle control device and vehicle mounted with the device
+    PCT/JP2008/063486,2008-02-29,2008-07-22,車両制御装置及び該装置を搭載した車両
+
+inventor_number
+    8
+classfication_nums
+    12
+classfication_items
+69
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,1,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,1,2
+    B,6,0,T,7,/,1,2,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,9,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,0
+    B,6,0,W,2,5,4,0,/,1,0,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,1,0
+    B,6,0,W,2,7,2,0,/,1,0,6
+
+application_events
+8
+    2008-02-29,Application filed by Mitsubishi Heavy Industries Ltd
+    2008-02-29,Priority to JP2008049925A
+    2009-09-10,Publication of JP2009202839A
+    2011-10-20,Publication of JP2009202839A5
+    2012-04-04,Application granted
+    2012-04-04,Publication of JP4909302B2
+    Status,Active
+    2028-02-29,Anticipated expiration
+
+active_area
+5
+    J,P
+    W,O
+    U,S
+    E,P
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2008049925A,2008-02-29,車両制御装置及び該装置を搭載した車両
+
+legal_event
+20
+    Date,Code,Title,Description
+    2010-04-14,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20100413
+    2011-09-03,A521,Written amendment,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20110902
+    2011-09-03,A871,Explanation of circumstances concerning accelerated examination,Free format text: JAPANESE INTERMEDIATE CODE: A871Effective date: 20110902
+    2011-09-03,RD02,Notification of acceptance of power of attorney,Free format text: JAPANESE INTERMEDIATE CODE: A7422Effective date: 20110902
+    2011-09-16,A975,Report on accelerated examination,Free format text: JAPANESE INTERMEDIATE CODE: A971005Effective date: 20110914
+    2011-09-20,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20110916
+    2011-11-15,A521,Written amendment,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20111114
+    2011-12-15,TRDD,Decision of grant or rejection written,
+    2011-12-22,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20111221
+    2012-01-05,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01
+    2012-01-19,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20120113
+    2012-01-20,FPAY,Renewal fee payment (event date is renewal date of database),Free format text: PAYMENT UNTIL: 20150120Year of fee payment: 3
+    2012-01-20,R151,Written notification of patent or utility model registration,Ref document number: 4909302Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R151
+    2012-01-23,FPAY,Renewal fee payment (event date is renewal date of database),Free format text: PAYMENT UNTIL: 20150120Year of fee payment: 3
+    2013-05-02,FPAY,Renewal fee payment (event date is renewal date of database),Free format text: PAYMENT UNTIL: 20150120Year of fee payment: 3
+    2013-05-02,S111,Request for change of ownership or part of ownership,Free format text: JAPANESE INTERMEDIATE CODE: R313111
+    2013-05-14,R350,Written notification of registration of transfer,Free format text: JAPANESE INTERMEDIATE CODE: R350
+    2017-12-07,S533,Written request for registration of change of name,Free format text: JAPANESE INTERMEDIATE CODE: R313533
+    2017-12-15,R350,Written notification of registration of transfer,Free format text: JAPANESE INTERMEDIATE CODE: R350
+

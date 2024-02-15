@@ -1,0 +1,413 @@
+ID
+    US9658075B2
+citation_exist
+    Patent Citations (16)
+citation_infor
+18
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH08338736A,1995-06-13,1996-12-24,Honda Motor Co Ltd,Guiding equipment for traveling of vehicle
+    US20020045985A1                      *,2000-07-28,2002-04-18,Boris Kerner,Method for determining the traffic state in a traffic network with effective bottlenecks
+    US20070021909A1                      *,2005-07-21,2007-01-25,Denso Corporation,Navigation system
+    US20070208467A1,2006-03-06,2007-09-06,Gm Global Technology Operations, Inc.,Hybrid vehicle powertrain control method and apparatus
+    US20080094250A1                      *,2006-10-19,2008-04-24,David Myr,Multi-objective optimization for real time traffic light control and navigation systems for urban saturated networks
+    US20080275639A1                      *,2007-05-01,2008-11-06,Kyungso Yun,Method of selecting route and terminal thereof
+    CN101517361A,2006-09-28,2009-08-26,丰田自动车株式会社,Display device for vehicle, method of controlling display device for vehicle, program, and recording medium having program recorded thereon
+    US20100131139A1,2008-11-25,2010-05-27,Denso Corporation,Charge planning apparatus
+    JP2010252409A,2009-04-10,2010-11-04,Denso Corp,Navigation apparatus and method of navigating electric automobile
+    JP2011020571A,2009-07-16,2011-02-03,Nissan Motor Co Ltd,Device for controlling hybrid vehicle
+    JP2011027472A,2009-07-22,2011-02-10,Toyota Central R&D Labs Inc,Route search apparatus, program, start frequency prediction apparatus, fuel consumption calculation apparatus, and operation schedule determination apparatus
+    US8412445B2                      *,2011-02-18,2013-04-02,Honda Motor Co., Ltd,Predictive routing system and method
+    EP2689982A1,2012-07-26,2014-01-29,Fujitsu Limited,Method of operating hybrid vehicles
+    Family To Family Citations,,,,
+    JP4470311B2                      *,1999-10-15,2010-06-02,日産自動車株式会社,Travel pattern generator
+    JP5024879B2                      *,2007-11-30,2012-09-12,トヨタ自動車株式会社,Traffic information creation method and traffic information creation device
+    JP5045685B2                      *,2009-01-20,2012-10-10,アイシン・エィ・ダブリュ株式会社,Route guidance device, route guidance method and computer program
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (16)
+              
+
+
+citedBy_infor
+18
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP6136976B2                      *,2014-02-24,2017-05-31,トヨタ自動車株式会社,Movement support device, movement support method, and driving support system
+    JP5855163B2                      *,2014-05-13,2016-02-09,三菱電機株式会社,Vehicle energy management system
+    WO2016112116A2                      *,2015-01-06,2016-07-14,Monsanto Technology Llc,Modulation of release rate from microencapsulated pesticides
+    JP6012795B2                      *,2015-03-04,2016-10-25,三菱電機株式会社,Energy management device for hybrid vehicles
+    CN106052709A                      *,2016-05-16,2016-10-26,腾讯科技（深圳）有限公司,Congestion information processing method and device
+    CN109641593B                      *,2016-09-07,2021-07-27,三菱电机株式会社,Travel plan correction device and travel plan correction method
+    KR20180051274A                      *,2016-11-08,2018-05-16,현대자동차주식회사,Method for controlling driving of vehicle using driving information of front vehicle
+    CN110268227A                      *,2017-02-17,2019-09-20,爱信艾达株式会社,Driving assist system and computer program
+    JP6235748B1                      *,2017-06-22,2017-11-22,株式会社ショーワ,Route generating device, vehicle, and vehicle system
+    JP6867258B2                      *,2017-09-08,2021-04-28,本田技研工業株式会社,Vehicle heat exchange systems, vehicle heat exchange methods, and programs
+    CN107705607A                      *,2017-09-29,2018-02-16,联想(北京)有限公司,A kind of information processing method and information processor
+    JP7180065B2                      *,2017-10-20,2022-11-30,株式会社デンソー,vehicle controller
+    CN108162953B                      *,2017-12-01,2020-04-21,浙江吉利汽车研究院有限公司,Vehicle congestion area control method and device
+    JP2019196125A                      *,2018-05-10,2019-11-14,本田技研工業株式会社,Vehicle control system, vehicle control method, and program
+    CN109624967B                      *,2019-01-29,2020-09-11,浙江吉利汽车研究院有限公司,Energy management method, device and equipment of hybrid vehicle
+    JPWO2022208810A1                      *,2021-03-31,2022-10-06,,
+
+abstract
+    A travel assist system, a travel assist method, and a computer program that prevent frequent corrections of a travel plan due to variations in congestion information are provided. Congestion information is acquired from a VICS center. The current state of a vehicle is acquired. It is determined whether or not the congestion status of an expected travel route for the vehicle has been varied from the congestion information using a criterion based on the state of the vehicle. In the case where it is determined that the congestion status of the expected travel route has been varied, the travel plan 48 is corrected using the congestion status after the variation.
+title
+    Travel assist system, travel assist method, and computer program
+similar_document
+26
+    Publication,Publication Date,Title
+    US9658075B2,2017-05-23,Travel assist system, travel assist method, and computer program
+    US10913442B2,2021-02-09,Hybrid vehicle
+    US8874358B2,2014-10-28,Route guidance device, method, and program
+    EP2172740B1,2016-04-13,Map display device, map display method, and computer readable tangible medium
+    US8364388B2,2013-01-29,Traveling guidance system, traveling guidance method, and computer program
+    US8412476B2,2013-04-02,Travel support system, method, and program
+    US20190135265A1,2019-05-09,Vehicle and method for controlling the same
+    JP5012754B2,2012-08-29,In-vehicle battery charging support device, in-vehicle battery charging support method, and computer program
+    US10730504B2,2020-08-04,Vehicle and method for controlling the vehicle
+    JP5974957B2,2016-08-23,Driving support system, driving support method, and computer program
+    JP5929944B2,2016-06-08,Movement support device, movement support method, and driving support system
+    US10266065B2,2019-04-23,Electric vehicle and control method for electric vehicle
+    US11453381B2,2022-09-27,Vehicle and method for controlling the same
+    JP5920309B2,2016-05-18,Movement support device, movement support method, and driving support system
+    US11142182B2,2021-10-12,Control device of hybrid vehicle
+    KR102035017B1,2019-10-22,Control device for hybrid vehicle
+    JP6020285B2,2016-11-02,Driving support system, driving support method, and computer program
+    JP2013234924A,2013-11-21,Information processing apparatus for vehicle and information processing system
+    JP4779273B2,2011-09-28,Power generation control device
+    US20230022823A1,2023-01-26,Route determination device and vehicle dispatch system
+    JP2022006595A,2022-01-13,Hybrid vehicle
+    WO2017138225A1,2017-08-17,Charge and discharge assist device, computer program, and charge and discharge assist method
+    JP2022085238A,2022-06-08,Control device of hybrid vehicle
+    JP2023072925A,2023-05-25,vehicle
+    CN116729345A,2023-09-12,Travel control device, travel control method, and storage medium for vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    8
+classfication_nums
+    60
+classfication_items
+275
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,4
+    B,6,0,K,6,/,4,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,1,1,/,0,0,5
+    B,6,0,L,1,1,/,1,2,3
+    B,6,0,L,1,1,/,1,4
+    B,6,0,L,1,1,/,1,8,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,2
+    G
+    G,0,1
+    G,0,1,C
+    G,0,1,C,2,1,/,0,0
+    G,0,1,C,2,1,/,2,6
+    G,0,1,C,2,1,/,3,4
+    G
+    G,0,1
+    G,0,1,C
+    G,0,1,C,2,1,/,0,0
+    G,0,1,C,2,1,/,2,6
+    G,0,1,C,2,1,/,3,4
+    G,0,1,C,2,1,/,3,4,0,7
+    G,0,1,C,2,1,/,3,4,1,5
+    G
+    G,0,1
+    G,0,1,C
+    G,0,1,C,2,1,/,0,0
+    G,0,1,C,2,1,/,2,6
+    G,0,1,C,2,1,/,3,4
+    G,0,1,C,2,1,/,3,4,5,3
+    G,0,1,C,2,1,/,3,4,9,2
+    G
+    G,0,8
+    G,0,8,G
+    G,0,8,G,1,/,0,0
+    G,0,8,G,1,/,0,9
+    G,0,8,G,1,/,0,9,6,2
+    G
+    G,0,8
+    G,0,8,G
+    G,0,8,G,1,/,0,0
+    G,0,8,G,1,/,0,9
+    G,0,8,G,1,/,0,9,6,2
+    G,0,8,G,1,/,0,9,6,8
+    G
+    G,0,8
+    G,0,8,G
+    G,0,8,G,1,/,0,0
+    G,0,8,G,1,/,0,9
+    G,0,8,G,1,/,0,9,6,2
+    G,0,8,G,1,/,0,9,6,8
+    G,0,8,G,1,/,0,9,6,8,0,5
+    G,0,8,G,1,/,0,9,6,8,2,7
+    G
+    G,0,8
+    G,0,8,G
+    G,0,8,G,1,/,0,0
+    G,0,8,G,1,/,0,9
+    G,0,8,G,1,/,0,9,6,2
+    G,0,8,G,1,/,0,9,6,8
+    G,0,8,G,1,/,0,9,6,8,3,3
+    G,0,8,G,1,/,0,9,6,8,4,4
+    G
+    G,0,8
+    G,0,8,G
+    G,0,8,G,1,/,0,0
+    G,0,8,G,1,/,0,9
+    G,0,8,G,1,/,0,9,6,2
+    G,0,8,G,1,/,0,9,6,8
+    G,0,8,G,1,/,0,9,6,8,5,5
+    G,0,8,G,1,/,0,9,6,8,7,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,2
+    B,6,0,L,2,2,4,0,/,6,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,5,0
+    B,6,0,L,2,2,6,0,/,5,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,5,0
+    B,6,0,L,2,2,6,0,/,5,4
+    B,6,0,W,2,5,5,0,/,2,0
+    B,6,0,W,2,5,5,0,/,4,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,4,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,6,/,0,0
+    B,6,0,W,2,5,5,6,/,4,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y,0,2,T,1,0,/,6,2,1,7
+    Y,0,2,T,1,0,/,6,2,3,9
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,0,5
+    Y,0,2,T,1,0,/,7,0,2,2
+    Y,0,2,T,1,0,/,7,0,4,4
+    Y,0,2,T,1,0,/,7,0,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y,0,2,T,1,0,/,7,0,7,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,5,8
+    Y,0,2,T,1,0,/,7,2,8,3
+    Y,0,2,T,1,0,/,7,2,9,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+    Y,0,2,T,9,0,/,1,6,1
+    Y,0,2,T,9,0,/,1,6,2
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+
+application_events
+7
+    2014-03-03,Application filed by Aisin AW Co Ltd, Toyota Motor Corp
+    2015-10-23,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA, AISIN AW CO., LTD.
+    2016-02-04,Publication of US20160033294A1
+    2017-05-23,Application granted
+    2017-05-23,Publication of US9658075B2
+    Status,Active
+    2034-03-03,Anticipated expiration
+
+active_area
+5
+    J,P
+    W,O
+    E,P
+    C,N
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2013-074882,2013-03-29,
+    JP2013074882A,2013-03-29,Driving support system, driving support method, and computer program
+    PCT/JP2014/055242,2014-03-03,Travel support system, travel support method, and computer program
+
+legal_event
+5
+    Date,Code,Title,Description
+    2015-10-23,AS,Assignment,Owner name: AISIN AW CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:SANAMI, KENTA;MIYAJIMA, TAKAYUKI;HIRANO, SATOSHI;AND OTHERS;SIGNING DATES FROM 20150529 TO 20151007;REEL/FRAME:036869/0770Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:SANAMI, KENTA;MIYAJIMA, TAKAYUKI;HIRANO, SATOSHI;AND OTHERS;SIGNING DATES FROM 20150529 TO 20151007;REEL/FRAME:036869/0770
+    2016-12-03,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2017-05-03,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2020-11-11,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

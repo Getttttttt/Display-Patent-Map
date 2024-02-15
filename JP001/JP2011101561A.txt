@@ -1,0 +1,185 @@
+ID
+    JP2011101561A
+citation_exist
+    Patent Citations (4)
+citation_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH08149606A                      *,1994-11-16,1996-06-07,Toyota Motor Corp,電気自動車の制動装置
+    JPH114503A                      *,1997-06-10,1999-01-06,Toyota Motor Corp,車両用制動装置
+    JP2008104306A                      *,2006-10-20,2008-05-01,Nissan Motor Co Ltd,車両の制御装置
+    WO2008117660A1                      *,2007-03-14,2008-10-02,Toyota Jidosha Kabushiki Kaisha,車輌の制動装置
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2012071666A                      *,2010-09-28,2012-04-12,Advics Co Ltd,車両用ブレーキ装置
+    WO2012053609A1                      *,2010-10-22,2012-04-26,日産自動車株式会社,車両の回生制動制御装置
+    CN105346539A                      *,2015-12-04,2016-02-24,潍柴动力股份有限公司,混合动力汽车的制动控制方法
+    CN113895475A                      *,2020-07-06,2022-01-07,中车株洲电力机车研究所有限公司,一种多编组铰接式列车制动力管理方法及系统
+    Family To Family Citations,,,,
+
+abstract
+    【課題】通信遅れなどによって回生制動力の実行値が適切に取得できない場合があった。【解決手段】制動制御装置１５において、ブレーキＥＣＵ７０は、車両１に与えるべき目標制動力を設定し、目標制動力が車両１に与えられるよう、回生ブレーキユニット１０によって車両１に与えるべき目標回生制動力および液圧ブレーキユニット２０によって車両１に与えられるべき目標摩擦制動力を算出する。ブレーキＥＣＵ７０は、車速と、回生ブレーキユニット１０によって車両１に付与可能な最大回生制動力との対応関係を保持し、検出された車速にその対応関係において対応付けられた最大回生制動力を取得する。ブレーキＥＣＵ７０は、検出された車速が所定速度範囲内の場合、取得した最大回生制動力に基づいて目標回生制動力および目標摩擦制動力を算出する。【選択図】図１
+title
+    制動制御装置
+similar_document
+25
+    Publication,Publication Date,Title
+    JP4623090B2,2011-02-02,ブレーキ制御装置
+    JP5229393B2,2013-07-03,ブレーキ制御装置
+    JP4222382B2,2009-02-12,車両制動装置
+    JP5168409B2,2013-03-21,ブレーキ制御装置
+    JP5402578B2,2014-01-29,ブレーキ制御装置
+    EP3038869B1,2017-05-24,Vehicle
+    JP5263091B2,2013-08-14,ブレーキ制御装置
+    JP5062020B2,2012-10-31,ブレーキ制御装置
+    JP4508095B2,2010-07-21,ブレーキ制御装置
+    JP5293862B2,2013-09-18,ブレーキ制御装置
+    JP5287672B2,2013-09-11,制動制御装置
+    AU2014313900A1,2016-03-17,Vehicle
+    JP4497107B2,2010-07-07,ブレーキ制御装置
+    JP5556245B2,2014-07-23,ブレーキ制御装置
+    JP2009234490A,2009-10-15,ブレーキ制御装置およびブレーキ制御方法
+    JP2012153266A,2012-08-16,ブレーキ制御装置
+    JP2010206992A,2010-09-16,ブレーキ制御装置
+    JP5115014B2,2013-01-09,ブレーキ制御装置
+    JP4779768B2,2011-09-28,車両制動装置
+    JP5251675B2,2013-07-31,ブレーキ制御装置
+    JP5521657B2,2014-06-18,ブレーキ制御装置
+    JP5062070B2,2012-10-31,制動制御装置および制動制御方法
+    JP5251248B2,2013-07-31,ブレーキ制御装置
+    JP2009227092A,2009-10-08,ブレーキ装置
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    JP2009256397A,2009-11-09,2009-11-09,制動制御装置
+
+inventor_number
+    8
+classfication_nums
+    12
+classfication_items
+74
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,0
+    B,6,0,L,3,/,1,0,6
+    B,6,0,L,3,/,1,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+7
+    2009-11-09,Application filed by Toyota Motor Corp
+    2009-11-09,Priority to JP2009256397A
+    2011-05-19,Publication of JP2011101561A
+    2013-09-11,Application granted
+    2013-09-11,Publication of JP5287672B2
+    Status,Active
+    2029-11-09,Anticipated expiration
+
+active_area
+1
+    J,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2009256397A,2009-11-09,制動制御装置
+
+legal_event
+8
+    Date,Code,Title,Description
+    2012-01-19,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20120118
+    2013-03-27,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20130326
+    2013-04-13,A521,Written amendment,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20130412
+    2013-04-25,TRDD,Decision of grant or rejection written,
+    2013-05-08,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20130507
+    2013-06-10,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20130520
+    2013-06-14,R151,Written notification of patent or utility model registration,Ref document number: 5287672Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R151
+

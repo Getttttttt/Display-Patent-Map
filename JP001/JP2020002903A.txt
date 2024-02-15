@@ -1,0 +1,123 @@
+ID
+    JP2020002903A
+citation_exist
+    Patent Citations (4)
+citation_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPS56142201U                      *,1980-03-26,1981-10-27,,
+    JPS6081408A                      *,1983-10-13,1985-05-09,Toshiba Corp,複合サイクル発電プラントシステムの負荷制御装置
+    JP2017036721A                      *,2015-08-14,2017-02-16,三菱重工業株式会社,発電システムの制御装置、発電システム、及び発電方法
+    JP2017180406A                      *,2016-03-31,2017-10-05,三菱重工業株式会社,排熱回収装置、内燃機関システムおよび船舶、並びに排熱回収装置の制御方法
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    【課題】調速弁開度が全開に近い弁開度範囲で調速弁開度の増減が繰り返されるハンチングを抑制し、安定した弁開度制御を実現することを目的とする。【解決手段】発電システムは、排ガスによって生成された蒸気によって駆動される蒸気タービンと、蒸気タービンに供給する蒸気量を制御する調速弁と、蒸気タービンに接続された発電機とを備えている。発電システム制御装置は、蒸気条件及び調速弁開度の少なくともいずれか一方を用いて発電機の負荷容量値を算出する負荷容量値算出部７０ａを備えている。負荷容量値算出部７０ａは、調速弁開度が全開に近い値に設定された所定の開度範囲における負荷容量値の増加幅又は増加率が調速弁開度の他の開度範囲に比べて小さくなるような負荷容量値を算出する。【選択図】図３
+title
+    発電システム及びその制御装置並びに制御方法
+similar_document
+15
+    Publication,Publication Date,Title
+    JP5155977B2,2013-03-06,発電システムの制御装置および発電システムならびに発電システムの制御方法
+    JP5155980B2,2013-03-06,ターボコンパウンドシステムおよびその運転方法
+    KR101232393B1,2013-02-12,터빈 발전기의 제어 방법 및 장치
+    JP2011116152A,2011-06-16,排熱回収型船舶推進装置およびこれを備えた船舶ならびに排熱回収型船舶推進装置の制御方法
+    JP5138643B2,2013-02-06,タービン発電機、タービン発電機の制御方法、制御装置、および該タービン発電機を備えた船舶
+    CN107923258B,2020-01-14,发电系统的控制装置、发电系统及发电方法
+    JP2011027053A5,2012-08-16,
+    JP5232766B2,2013-07-10,船舶の機関制御システム
+    KR101965122B1,2019-04-02,발전 시스템 및 발전 시스템의 제어 방법
+    WO2020003600A1,2020-01-02,発電システム及びその制御装置並びに制御方法
+    JP2013029111A,2013-02-07,発電方法、タービン発電機、タービン発電機の制御方法、制御装置、および該タービン発電機を備えた船舶
+    JP2013032153A,2013-02-14,船舶の制御方法および船舶
+    JP5398886B2,2014-01-29,発電システムの制御装置および発電システムならびに発電方法
+    JP5675932B2,2015-02-25,発電方法、タービン発電機、タービン発電機の制御方法、制御装置、および該タービン発電機を備えた船舶
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    JP2018124770A,2018-06-29,2018-06-29,発電システム及びその制御装置並びに制御方法
+    PCT/JP2019/006502,2018-06-29,2019-02-21,発電システム及びその制御装置並びに制御方法
+
+inventor_number
+    8
+classfication_nums
+    5
+classfication_items
+27
+    F
+    F,0,1
+    F,0,1,D
+    F,0,1,D,1,7,/,0,0
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,2,3,/,0,0
+    F,0,1,K,2,3,/,0,2
+    F,0,1,K,2,3,/,0,6
+    F,0,1,K,2,3,/,1,0
+    F
+    F,0,2
+    F,0,2,G
+    F,0,2,G,5,/,0,0
+    F,0,2,G,5,/,0,2
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,9,/,0,0
+    H,0,2,P,9,/,0,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,1,0
+    Y,0,2,T,1,0,/,1,2
+
+application_events
+9
+    2018-06-29,Application filed by Mitsubishi Heavy Industries Ltd
+    2018-06-29,Priority to JP2018124770A
+    2019-02-21,Priority to PCT/JP2019/006502
+    2020-01-09,Publication of JP2020002903A
+    2021-07-26,Publication of JP2020002903A5
+    2022-10-11,Application granted
+    2022-10-11,Publication of JP7150498B2
+    Status,Active
+    2038-06-29,Anticipated expiration
+
+active_area
+2
+    J,P
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2018124770A,2018-06-29,発電システム及びその制御装置並びに制御方法
+
+legal_event
+10
+    Date,Code,Title,Description
+    2020-03-25,A711,Notification of change in applicant,Free format text: JAPANESE INTERMEDIATE CODE: A711Effective date: 20200325
+    2021-05-14,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20210514
+    2021-05-14,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20210514
+    2022-03-15,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20220315
+    2022-05-12,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20220512
+    2022-08-23,TRDD,Decision of grant or rejection written,
+    2022-08-30,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20220830
+    2022-09-30,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20220928
+    2022-09-30,R150,Certificate of patent or registration of utility model,Ref document number: 7150498Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R150
+

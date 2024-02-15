@@ -1,0 +1,155 @@
+ID
+    WO2019049836A1
+citation_exist
+    Patent Citations (8)
+citation_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH10271884A                      *,1997-01-27,1998-10-09,Hitachi Ltd,永久磁石型同期モータ用制御装置及び電気自動車用制御装置
+    JP2005033901A                      *,2003-07-10,2005-02-03,Mitsubishi Heavy Ind Ltd,電気車輌の制御装置、及び、それの制御方法
+    JP2005289321A                      *,2004-04-05,2005-10-20,Bridgestone Corp,インホイールモータ搭載全輪駆動車
+    JP2009220705A                      *,2008-03-17,2009-10-01,Jtekt Corp,操舵制御装置
+    JP2010058691A                      *,2008-09-04,2010-03-18,Fuji Heavy Ind Ltd,操向支援装置
+    JP2012037359A                      *,2010-08-06,2012-02-23,Toyota Motor Corp,電源装置の制御装置
+    JP2014233109A                      *,2013-05-28,2014-12-11,株式会社デンソー,電動車両の制御方法
+    JP2015050854A                      *,2013-09-02,2015-03-16,株式会社東芝,電気車制御装置
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    駆動アシストまたは回生制動が行えて、車両の重量が増大することを抑えると共に、電動発電機から想定しない制動力等が発生することを防止する車両動力補助システムを提供する。この車両動力補助システムは、直流電源(10)と、車輪(5)を回転支持する車輪用軸受に支持され、駆動アシスト力または回生制動力を発生させる電動発電機(14)と、制御装置(39)とを備える。制御装置(39)は、直流電力を交流電力に変換する電力変換回路(12)と、電力変換回路(12)を制御する制御回路(16)と、電力変換回路(12)と電動発電機(14)との間に設けられ電気的に接続と遮断を切り替え可能な相開放回路(13)とを有する。制御回路(16)は、電動発電機(14)が回転することにより発生する誘起電圧が電源電圧を超えるとき、相開放回路(13)により電動発電機(14)と直流電源(10)とを電気的に切り離す。
+title
+    車両動力補助システム
+similar_document
+26
+    Publication,Publication Date,Title
+    JP5354086B2,2013-11-27,電動車両およびその制御方法
+    JP6976083B2,2021-12-01,車両動力補助システムおよび車両従動輪回生システム
+    JP7089939B2,2022-06-23,モータおよびこのモータを備えた車両用動力装置、発電機およびこの発電機を備えた発電機付車輪用軸受
+    JP2019050712A,2019-03-28,車両用動力装置およびこの車両用動力装置を備えた車両
+    WO2020162399A1,2020-08-13,車両用動力装置および発電機付き車輪用軸受装置
+    JP7109271B2,2022-07-29,車両動力補助システム
+    WO2021251299A1,2021-12-16,車両用動力装置および発電機付車輪用軸受
+    WO2019078217A1,2019-04-25,車両用動力装置
+    WO2020162400A1,2020-08-13,電動機を備えた車両用動力装置および発電機を備えた発電機付車輪用軸受
+    JP2019146446A,2019-08-29,電動車両
+    JP6491719B1,2019-03-27,車両動力補助システム
+    WO2019138965A1,2019-07-18,車輪用軸受装置およびこの車輪用軸受装置を備えた車両
+    JP6997571B2,2022-02-04,発電機付き車輪用軸受装置
+    JP2013184663A,2013-09-19,車両用制御装置
+    JP4765877B2,2011-09-07,車両のモータトラクション制御装置
+    WO2019049836A1,2019-03-14,車両動力補助システム
+    JP2019205241A,2019-11-28,三相永久磁石同期モータおよびこの三相永久磁石同期モータを備えた車両用動力装置、発電機およびこの発電機を備えた発電機付車輪用軸受
+    WO2018056270A1,2018-03-29,車両動力補助システム
+    JP7140608B2,2022-09-21,車両用動力装置および発電機付き車輪用軸受装置
+    WO2019078216A1,2019-04-25,車両用動力装置および発電機付き車輪用軸受装置
+    JP6755988B2,2020-09-16,車両動力補助システム
+    JP2001339804A,2001-12-07,ハイブリッド車両
+    JP2011172324A,2011-09-01,インバータ制御装置
+    JP2013099091A,2013-05-20,電力回生システム
+    JP2013094001A,2013-05-16,電力回生システム
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    7
+classfication_nums
+    10
+classfication_items
+58
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,5,0
+    B,6,0,K,6,/,5,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,5,0
+    B,6,0,K,6,/,5,4
+    B,6,0,K,6,/,5,4,7
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,7,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,9,/,0,0
+    B,6,0,L,9,/,1,6
+    B,6,0,L,9,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+
+application_events
+3
+    2018-06-14,Priority claimed from JP2018113242A
+    2018-09-03,Application filed by Ntn株式会社
+    2019-03-14,Publication of WO2019049836A1
+
+active_area
+1
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+5
+    Application,Filing date,Title
+    JP2017173225,2017-09-08,
+    JP2017-173225,2017-09-08,
+    JP2018-113242,2018-06-14,
+    JP2018113242A,2018-06-14,車両動力補助システム
+
+legal_event
+4
+    Date,Code,Title,Description
+    2019-04-24,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 18854789Country of ref document: EPKind code of ref document: A1
+    2020-03-10,NENP,Non-entry into the national phase,Ref country code: DE
+    2020-11-11,122,Ep: pct application non-entry in european phase,Ref document number: 18854789Country of ref document: EPKind code of ref document: A1
+

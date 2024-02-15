@@ -1,0 +1,313 @@
+ID
+    US10286805B2
+citation_exist
+    Patent Citations (19)
+citation_infor
+21
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH117341A,1997-06-18,1999-01-12,Toshiba Corp,Power source device
+    KR20050070727A,2003-12-30,2005-07-07,현대자동차주식회사,Apparatus for cooling battery
+    KR20050070726A,2003-12-30,2005-07-07,현대자동차주식회사,Apparatus for cooling battery and method of the same
+    JP2010093993A,2008-10-10,2010-04-22,Toyota Motor Corp,Power supply control device and vehicle with the same
+    KR20110081622A,2010-01-08,2011-07-14,(주)브이이엔에스,Electric vehicle and method for cooling battery thereof
+    US20120169129A1                      *,2011-01-05,2012-07-05,Samsung Sdi Co., Ltd.,Energy Storage Device
+    JP2013031249A,2011-07-27,2013-02-07,Mitsubishi Motors Corp,Battery device charging system
+    KR20130042088A,2011-10-18,2013-04-26,송영길,Hybrid battery system for electric vehicle
+    US20140084863A1                      *,2011-06-09,2014-03-27,Toyota Jidosha Kabushiki Kaisha,Power receiving device, vehicle, and contactless power feeding system
+    US20140097799A1,2009-12-30,2014-04-10,Lg Chem, Ltd.,Method and apparatus for managing battery pack
+    US20150295420A1                      *,2014-04-15,2015-10-15,Win Sheng Cheng,Multi-chemistry battery pack system
+    Family To Family Citations,,,,
+    JP4037031B2                      *,2000-03-27,2008-01-23,日本碍子株式会社,Series stage number switching power supply
+    JP2004025979A                      *,2002-06-25,2004-01-29,Shin Kobe Electric Mach Co Ltd,Power supply system for travelling vehicle
+    CN101318489B                      *,2008-05-07,2011-09-21,中国科学院电工研究所,Vehicle mounted battery management system control method
+    JP2010022108A                      *,2008-07-09,2010-01-28,Fuji Heavy Ind Ltd,Power supply apparatus
+    TWI398068B                      *,2010-01-22,2013-06-01,Nat Chip Implementation Ct Nat Applied Res Lab,Unitized charging and discharging battery management system and programmable battery management module thereof
+    DE102010041040A1                      *,2010-09-20,2012-03-22,Robert Bosch Gmbh,Power supply network and method for charging at least one energy storage cell serving as energy storage for a DC voltage intermediate circuit in a power supply network
+    DE102011003810A1                      *,2011-02-08,2012-08-09,Robert Bosch Gmbh,Controllable energy storage and method for operating a controllable energy storage
+    CN102377228A                      *,2011-12-02,2012-03-14,苏州海格新能源汽车电控系统科技有限公司,Management system circuit used for hybrid power of hybrid electric bus
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (18)
+              
+
+
+citedBy_infor
+20
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    KR101744560B1                      *,2015-11-04,2017-06-08,한국기술교육대학교 산학협력단,Hybrid battery management system
+    US10097010B2                      *,2016-04-19,2018-10-09,Infineon Technologies Ag,Control of freewheeling voltage
+    JP6779708B2                      *,2016-08-25,2020-11-04,矢崎総業株式会社,Quick charging device
+    JP7003394B2                      *,2016-09-06,2022-01-20,株式会社村田製作所,Batteries for secondary batteries, secondary batteries, battery packs, electric vehicles, power storage systems, power tools and electronic devices
+    DE102017222192A1                      *,2017-12-07,2019-06-13,Audi Ag,HV battery assembly for a motor vehicle, electrical system, motor vehicle and method for controlling a HV battery assembly
+    JP7006263B2                      *,2017-12-27,2022-01-24,トヨタ自動車株式会社,Charging device
+    KR102413075B1                      *,2017-12-29,2022-06-24,두산산업차량 주식회사,ELECTRIC forklift truck and method of driving the same
+    KR102020566B1,2018-01-18,2019-11-05,주식회사 블루윙모터스,Apparatus and metod for controlling electrical energy in two or three wheeled vehicle
+    JP6977581B2,2018-01-22,2021-12-08,トヨタ自動車株式会社,Power storage system
+    JP6992540B2                      *,2018-01-23,2022-01-13,トヨタ自動車株式会社,Battery system
+    DE102018104414A1                      *,2018-02-27,2019-08-29,Dr. Ing. H.C. F. Porsche Aktiengesellschaft,Method for the electrical charging of an energy storage device
+    CN108933310B                      *,2018-05-25,2021-07-02,四川大学,High-capacity high-power lithium ion/air hybrid battery system
+    KR101930214B1                      *,2018-06-27,2018-12-17,주식회사 제이에스영테크,Hybrid energy storage module system with supplementary battery
+    WO2020041371A1                      *,2018-08-20,2020-02-27,Btu Research Llc,Power over ethernet integrated with or into a premises security system
+    CN109484246B                      *,2018-11-06,2022-01-14,贾哲敏,Battery connecting structure of electric automobile
+    CN109532564A                      *,2018-12-14,2019-03-29,宁波石墨烯创新中心有限公司,A kind of power-supply system and electric car
+    US11548396B2                      *,2020-02-05,2023-01-10,Gravic, Inc.,System and method to reconfigure internal power source and load impedance elements
+    WO2023167883A1                      *,2022-03-02,2023-09-07,REON Technology, Inc.,Software-defined energy storage system interface
+
+abstract
+    The present invention relates to an energy storage module system and, more specifically, to a hybrid energy storage module system selectively using, according to the amount of power required in a load, a lithium battery and a lead storage battery by mutually supplementing the lithium battery and the lead storage battery. According to the present invention, the hybrid energy storage module system is an energy storage module system for supplying power necessary for the driving of a load and comprises an energy storage device, a first sensing unit and a second sensing unit, and a controller. The energy storage device includes at least one lithium battery module and at least one lead storage battery module. In addition, the energy storage device includes a switching network configured so as to connect the lithium battery module and the lead storage battery module in different arrangement modes. The energy storage device is connected to both ends of a load and supplies power. The switching network can include a path for connecting the lithium battery module and the lead storage battery module, and a plurality of switches provided on the path. The first sensing unit is configured so as to measure the temperature and the voltage of the lithium battery modules, and the second sensing unit is configured so as to measure the temperature and the voltage of the lead storage battery module. The controller controls the switching network in order to change the arrangement modes of the lithium battery module and the lead storage battery module of the energy storage device.
+title
+    Hybrid energy storage module system
+similar_document
+22
+    Publication,Publication Date,Title
+    US10286805B2,2019-05-14,Hybrid energy storage module system
+    KR101281066B1,2013-07-09,Hybrid Battery System for Electric Vehicle
+    US10259336B2,2019-04-16,Charging a battery using interpack switch
+    JP7140852B2,2022-09-21,Hybrid energy storage module system with auxiliary battery
+    US9358899B2,2016-06-07,Method for revitalizing and increasing lithium ion battery capacity
+    US10414285B2,2019-09-17,Apparatus and method for preventing over-charging of battery
+    US8532854B2,2013-09-10,Method and apparatus for managing multiple battery packs in a hybrid or electric vehicle
+    US7933695B2,2011-04-26,Electric vehicle power source selection
+    US8742718B2,2014-06-03,Charging apparatus for vehicle
+    US20110234164A1,2011-09-29,Power supply device capable of equalizing electrical properties of batteries
+    CN104085312A,2014-10-08,Battery management system of electric car
+    US20230006453A1,2023-01-05,Power storage device, vehicle, power storage device control method, and program
+    CN110650863A,2020-01-03,Method and apparatus for balancing battery pack
+    JP6055703B2,2016-12-27,Power system
+    KR102258306B1,2021-06-02,Electric vehicle charging system using energy storage system
+    CN214189325U,2021-09-14,Automotive charger baby system
+    CN116893362A,2023-10-17,Control device for secondary battery and full charge capacity estimation method for secondary battery
+    KR20210028991A,2021-03-15,Method for controlling sub battery of electric vehicle
+    KR20230050495A,2023-04-17,System and method for operating removable auxiliary battert of electroic vehicle
+    GB2608956A,2023-01-18,Straddled vehicle battery pack and straddled vehicle
+    JP2019126219A,2019-07-25,Solar power generating system
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    37
+classfication_items
+175
+    B,6,0,L,1,1,/,1,8,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,2
+    B,6,0,L,1,1,/,1,8
+    B,6,0,L,1,1,/,1,8,0,9
+    B,6,0,L,1,1,/,1,8,5,5
+    B,6,0,L,1,1,/,1,8,6,2
+    B,6,0,L,1,1,/,1,8,6,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,5,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,1,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B,6,0,L,5,8,/,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,4
+    B,6,0,W,1,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,0,5
+    H,0,1,M,1,0,/,0,5,2
+    H,0,1,M,1,0,/,0,5,2,5
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,4
+    H,0,1,M,1,0,/,4,4,3
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,8
+    H,0,1,M,1,0,/,4,8,6
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,8
+    H,0,1,M,1,0,/,4,8,8
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,5,0,/,0,0
+    H,0,1,M,5,0,/,5,0
+    H,0,1,M,5,0,/,5,6,9
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,1,3
+    H,0,2,J,7,/,0,0,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,1,1
+    Y,0,2,T,1,0,/,7,0,1,6
+    Y,0,2,T,1,0,/,7,0,4,4
+    Y,0,2,T,1,0,/,7,0,6,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+
+application_events
+7
+    2016-01-20,Application filed by JSYOUNGTECH CO Ltd
+    2017-07-20,Assigned to JSYOUNGTECH CO.,LTD
+    2017-12-28,Publication of US20170368958A1
+    2019-05-14,Application granted
+    2019-05-14,Publication of US10286805B2
+    Status,Active
+    2036-01-20,Anticipated expiration
+
+active_area
+6
+    K,R
+    U,S
+    J,P
+    W,O
+    E,P
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    KR1020150009369A,2015-01-20,Hybrid energy storage module system
+    KR10-2015-0009369,2015-01-20,
+    PCT/KR2016/000584,2016-01-20,Hybrid energy storage module system
+
+legal_event
+5
+    Date,Code,Title,Description
+    2017-07-20,AS,Assignment,Owner name: JSYOUNGTECH CO.,LTD, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:EUN, KEUN SOO;REEL/FRAME:043055/0577Effective date: 20170720
+    2019-03-29,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2019-04-24,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2022-11-02,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YR, SMALL ENTITY (ORIGINAL EVENT CODE: M2551); ENTITY STATUS OF PATENT OWNER: SMALL ENTITYYear of fee payment: 4
+

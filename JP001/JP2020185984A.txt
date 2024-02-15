@@ -1,0 +1,169 @@
+ID
+    JP2020185984A
+citation_exist
+    Patent Citations (8)
+citation_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    DE19640767A1                      *,1996-10-02,1998-04-09,Teves Gmbh Alfred,Einrichtung zur Betätigung einer Kraftfahrzeug-Bremsanlage
+    KR101448751B1                      *,2012-12-13,2014-10-13,현대자동차 주식회사,차량 제동 시스템 및 그 제어 방법
+    CN104129382A                      *,2014-08-24,2014-11-05,吉林东光奥威汽车制动系统有限公司,一种可模拟踏板行程的真空助力器
+    US9561786B2                      *,2014-10-15,2017-02-07,Ford Global Technologies, Llc.,System and method for brake pedal feel control
+    DE102015212188A1                      *,2015-06-30,2017-01-05,Robert Bosch Gmbh,Verfahren zum Betreiben eines fahrzeugeigenen Bremssystems mit einem Elektromotor und Steuervorrichtung für zumindest einen Elektromotor eines fahrzeugeigenen Bremssystems
+    DE102016202575A1                      *,2016-02-19,2017-08-24,Volkswagen Aktiengesellschaft,Verfahren zum Betrieb eines Kraftfahrzeugs und Kraftfahrzeug-Bremssystem
+    DE102016214593A1                      *,2016-08-05,2018-02-08,Robert Bosch Gmbh,Verfahren zum Erzeugen einer Bremskraft in einem Fahrzeug
+    CN106828119B                      *,2017-01-11,2018-12-18,电子科技大学,一种兼顾回馈效率与制动效能的制动系统及制动方法
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN113656394A                      *,2021-09-18,2021-11-16,江西五十铃汽车有限公司,一种汽车制动踏板感客观数据处理方法
+    Family To Family Citations,,,,
+
+abstract
+    【課題】回生ブレーキを有する車両のブレーキペダル操作特性曲線修正方法を提供する。【解決手段】ブレーキシステムは、電気機械式のアクチュエータと液圧コンポーネントによって液圧接続された摩擦ブレーキと、回生ブレーキとを有する。ブレーキペダル特性曲線は、電気機械式のアクチュエータのストロークに依存する、液圧コンポーネントにおける圧力の関数である。ブレーキペダル特性曲線はアイドルストロークと剛性係数とを有する。この方法は次の各ステップを有する。動的に判定された基準に従って、特に事前定義された回数のブレーキシステムの操作の後に、電気機械式のアクチュエータによってブレーキペダル特性曲線の測定が実行され、このときブレーキ作用の少なくとも一部が摩擦ブレーキによって生成され、測定されたブレーキペダル特性曲線が保存され、測定されたブレーキペダル特性曲線によってブレーキペダル特性曲線が置き換えられる。【選択図】図４
+title
+    回生ブレーキを有する車両のブレーキシステムのためのブレーキペダル特性曲線の決定
+similar_document
+26
+    Publication,Publication Date,Title
+    US9902377B2,2018-02-27,Method for controlling braking force of brake according to velocity
+    US8521391B2,2013-08-27,Methods and systems for brake pedal tuning and braking control in vehicles
+    JP2013532604A,2013-08-19,車両のためのブレーキシステムおよび車両のためのブレーキシステムを作動する方法
+    JP2015509460A,2015-03-30,ブレーキ装置を作動させるための方法
+    US9840244B2,2017-12-12,Electromechanical brake booster
+    KR102417509B1,2022-07-05,회생제동 협조제어 시 제동 제어 방법
+    US20200398801A1,2020-12-24,Device and method for determining at least one brake characteristic value of a hydraulic braking system of a vehicle
+    JPH10217924A,1998-08-18,ブレーキ装置の制御方法及び装置
+    JP2020185984A,2020-11-19,回生ブレーキを有する車両のブレーキシステムのためのブレーキペダル特性曲線の決定
+    US8180545B2,2012-05-15,Methods and systems for calibrating braking systems and controlling braking in vehicles
+    US7681962B2,2010-03-23,Method for estimating master cylinder pressure during brake apply
+    JP6591227B2,2019-10-16,電動ブレーキシステム
+    JP6855178B2,2021-04-07,電動機を備えた車両固有のブレーキシステムを運転するための方法、および車両固有のブレーキシステムの少なくとも１つの電動機のための制御装置
+    JP2006036195A,2006-02-09,減速車両用のフロント／リアのブレーキ配分のための方法および装置
+    JP4328746B2,2009-09-09,ベンド走行中の減速車両用内側および外側ブレーキの管理方法および装置
+    KR20140005562A,2014-01-15,스마트 부스터 제동장치에서의 авｓ작동 시 압력 제어 방법
+    JP6111340B2,2017-04-05,車両のブレーキシステムのための制御装置、および車両のブレーキシステムを作動させる方法
+    JP4211330B2,2009-01-21,車両用アンチロックブレーキシステムの開発支援装置及び開発支援方法
+    KR20100040358A,2010-04-20,차량용 브레이크 디스크의 온도 추정방법
+    JP6660262B2,2020-03-11,ブレーキシステム
+    WO2015030865A1,2015-03-05,Driver braking demand indicator apparatus for a heavy vehicle
+    CN111775904A,2020-10-16,一种制动灯开关检测控制装置与驾驶员制动请求识别方法
+    JP2022540961A,2022-09-20,ブレーキシステムを自動的にパラメータ化するための方法
+    JP3704985B2,2005-10-12,４輪独立ブレーキ力制御装置
+    CN110636961B,2022-02-08,车辆的机电式制动力放大器运行用的控制装置和方法
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    6
+classfication_nums
+    11
+classfication_items
+66
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,0,2
+    B,6,0,T,7,/,0,4
+    B,6,0,T,7,/,0,4,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,6,6
+    B,6,0,T,1,3,/,6,6,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,7,4
+    B,6,0,T,1,3,/,7,4,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,7,/,0,0
+    B,6,0,T,1,7,/,1,8
+    B,6,0,T,1,7,/,2,2
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,1,/,0,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,8,6
+
+application_events
+3
+    2020-03-24,Application filed by Robert Bosch GmbH
+    2020-11-19,Publication of JP2020185984A
+    Status,Pending
+
+active_area
+3
+    D,E
+    J,P
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    DE102019204687.8A,2019-04-02,Bestimmung einer Bremspedalkennlinie für das Bremssystem eines Fahrzeugs mit einer Rekuperations-Bremse
+    DE102019204687.8,2019-04-02,
+
+legal_event
+2
+    Date,Code,Title,Description
+    2023-03-06,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20230306
+

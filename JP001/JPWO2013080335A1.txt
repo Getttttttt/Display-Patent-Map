@@ -1,0 +1,302 @@
+ID
+    JPWO2013080335A1
+citation_exist
+    Patent Citations (3)
+citation_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2006160033A                      *,2004-12-06,2006-06-22,Nissan Motor Co Ltd,車輪への給電構造
+    JP2006174548A                      *,2004-12-14,2006-06-29,Takenaka Komuten Co Ltd,コードレス電力伝送のための集電車輪
+    JP2010226880A                      *,2009-03-24,2010-10-07,Denso Corp,ナビゲーション装置，電気自動車の駆動用モータ制御システム及び駆動用モータの制御方法
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    KR102496636B1,2016-11-25,2023-02-07,현대자동차주식회사,하이브리드 차량의 타행주행 제어 장치 및 그 방법
+    US10381901B2                      *,2017-05-12,2019-08-13,Toyota Motor Engineering & Manufacturing North America, Inc.,Wireless in-wheel electric assemblies with integrated in-wheel cooling and vehicles incorporating the same
+
+abstract
+    第１バッテリ（１１１）と、直流を交流に変換するＤＣ−ＡＣ変換部（１２１ａ）と、送電アンテナ（１２２ａ）を有する送電手段と、送電アンテナから送信された交流電力を受電する受電アンテナ（１２３ａ）と、交流を直流へ変換するＡＣ−ＤＣ変換部（２０１ａ）を有する受電手段と、ハブに装着され、車輪を駆動するモータ（Ｍ）と、受電手段で受電した直流電力を蓄える第２バッテリ（２１２ａ）と、第２バッテリの直流電力を交流電力に変換するインバータ（２０３ａ）と、モータを回転制御するトルク制御部（２２２）と、送電手段より受電手段への給電を制御する残量制御部（２２１）と、ステアリング角度検出手段と、ステアリング角度に基づいて、送電アンテナの送電面と受電アンテナの受電面の相対角度を算出する相対角度算出手段と、を備え、残量制御部は、相対角度が所定角度未満の場合に送電手段より受電手段への無線給電を行うように制御する。
+title
+    車両駆動装置
+similar_document
+25
+    Publication,Publication Date,Title
+    JP5705333B2,2015-04-22,車両駆動装置
+    JP5775605B2,2015-09-09,車両駆動装置
+    US8935032B2,2015-01-13,Torque distribution apparatus, torque distribution method, torque distribution value generation method, and program
+    US9014897B2,2015-04-21,Torque distribution apparatus, torque distribution method, torque distribution value generation method, and program
+    JP4965751B1,2012-07-04,トルク配分装置、トルク配分方法、トルク配分値生成方法およびプログラム
+    CN103269898B,2015-09-23,电动车辆及其控制方法
+    JP5822951B2,2015-11-25,車両駆動装置
+    JP5830449B2,2015-12-09,電動車駆動システム
+    JP5739548B2,2015-06-24,車両駆動装置
+    JP2012228163A,2012-11-15,トルク配分装置およびトルク配分方法
+    JP5822946B2,2015-11-25,車両駆動装置
+    JP5771284B2,2015-08-26,車両駆動装置
+    JP2001028804A,2001-01-30,車両用モータ制御装置
+    JPH0576106A,1993-03-26,電気自動車の駆動装置
+    JP2013115937A,2013-06-10,電動車両の制御システム
+    JP5771285B2,2015-08-26,車両駆動装置
+    JP2012171616A,2012-09-10,トルク配分装置およびトルク配分方法
+    Gasbaoui et al.,2012,A novel multi-drive electric vehicle system control based on multi-input multi-output PID controller
+    JP5096623B2,2012-12-12,トルク配分装置およびトルク配分方法
+    CN107848433A,2018-03-27,车辆用电源装置和车辆用电源装置的控制方法
+    KR20110048859A,2011-05-12,차량의 모터 토크 제어 방법
+    Mutoh et al.,2011,Front and rear wheel independent drive type electric vehicle (FRID EV) providing efficient running performance on various road surfaces
+    JP2012175904A,2012-09-10,トルク配分装置およびトルク配分方法
+    JP2018011488A,2018-01-18,電動車両
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    33
+classfication_items
+198
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,7,/,0,0
+    B,6,0,K,1,7,/,3,4
+    B,6,0,K,1,7,/,3,5,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,7,/,0,0
+    B,6,0,K,7,/,0,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,1,0
+    B,6,0,L,5,3,/,1,2
+    B,6,0,L,5,3,/,1,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,1,0
+    B,6,0,L,5,3,/,1,2
+    B,6,0,L,5,3,/,1,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,0
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,5,0,/,0,0
+    H,0,2,J,5,0,/,1,0
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,5,0,/,0,0
+    H,0,2,J,5,0,/,8,0
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,5,0,/,0,0
+    H,0,2,J,5,0,/,9,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,7,/,0,0
+    B,6,0,K,2,0,0,7,/,0,0,3,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,7,/,0,0
+    B,6,0,K,2,0,0,7,/,0,0,9,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,8
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,2,9
+    H,0,2,J,7,/,0,0,3,0,2
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,2,9
+    H,0,2,J,7,/,0,0,3,0,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+
+application_events
+6
+    2011-11-30,Application filed by Pioneer Corp
+    2015-04-27,Publication of JPWO2013080335A1
+    2015-11-25,Application granted
+    2015-11-25,Publication of JP5822946B2
+    Status,Active
+    2031-11-30,Anticipated expiration
+
+active_area
+2
+    J,P
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2011/077681,2011-11-30,車両駆動装置
+
+legal_event
+7
+    Date,Code,Title,Description
+    2015-02-04,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20150203
+    2015-04-03,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20150403
+    2015-09-04,TRDD,Decision of grant or rejection written,
+    2015-09-16,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20150915
+    2015-10-15,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20151006
+    2015-10-16,R150,Certificate of patent or registration of utility model,Ref document number: 5822946Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R150
+

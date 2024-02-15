@@ -1,0 +1,206 @@
+ID
+    US20220032785A1
+citation_exist
+    Patent Citations (8)
+citation_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20160144854A1                      *,2013-04-10,2016-05-26,Bosch Corporation,Torque control apparatus
+    US20180370506A1                      *,2015-12-24,2018-12-27,Robert Bosch Gmbh,Wheelie controller and control method thereof
+    Family To Family Citations,,,,
+    JP2007245993A                      *,2006-03-17,2007-09-27,Sanko Sangyo:Kk,Wheelie control device and motorcycle
+    JP2009261592A                      *,2008-04-24,2009-11-12,Taiyo Co Ltd,Running toy
+    JP5413377B2                      *,2011-01-28,2014-02-12,株式会社エクォス・リサーチ,vehicle
+    JP6341579B2                      *,2014-03-03,2018-06-13,ローベルト ボッシュ ゲゼルシャフト ミット ベシュレンクテル ハフツング,Vehicle drive torque control method, drive torque control device, and vehicle
+    CN206745965U                      *,2017-05-11,2017-12-15,吴宁,Can nose stunt recreational vehicle
+    US10245952B1                      *,2018-01-07,2019-04-02,Spin Master Ltd.,Self-balancing two-wheeled vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    A method for assisting a vehicle to tilt includes: receiving a first torque instruction output by a throttle assembly, and generating a second torque instruction, in which the first torque instruction is determined based on a manipulation degree applied to the throttle assembly, and the second torque instruction is determined based on attitude information of the vehicle; performing a weighted summation on the first torque instruction and the second torque instruction based on a first proportional coefficient of the first torque instruction and a second proportional coefficient of the second torque instruction to obtain a third torque instruction; and outputting the third torque instruction to a motor controller, and controlling a tilt angle of the vehicle by the motor controller based on the third torque instruction, in which the tilt angle of the vehicle is less than or equal to a target angle threshold.
+title
+    Method and device for assisting vehicle to tilt, vehicle and computer storage medium
+similar_document
+26
+    Publication,Publication Date,Title
+    EP4227146A1,2023-08-16,Vehicle torque control method and device, vehicle, and storage medium
+    WO2005057327A3,2006-01-26,Adaptive computing environment
+    US20060067543A1,2006-03-30,Electronic volume control apparatus
+    US20220032785A1,2022-02-03,Method and device for assisting vehicle to tilt, vehicle and computer storage medium
+    EP3283187B1,2019-05-22,Steering stabilizing system with automatic parameter download for a model vehicle
+    US8473169B2,2013-06-25,Vehicle transmission control apparatus
+    CN113602347B,2023-01-13,Control method, device, medium and equipment for electric steering assistance
+    KR20210157506A,2021-12-29,Apparatus and method for controlling motor driven power steering system of vehicle
+    KR20210135738A,2021-11-16,Apparatus and method for controlling motor driven power steering system of vehicle
+    CN115092146A,2022-09-23,Control method and control device for active distress relieving function, storage medium and processor
+    GB2582591A,2020-09-30,Control system and method for controlling a vehicle
+    CN111824241B,2021-12-07,Auxiliary steering control method and device and vehicle
+    CN108945081B,2020-09-29,Steering wheel adjusting method and device, vehicle and computer readable storage medium
+    US20220073137A1,2022-03-10,Drive mode setting device and drive mode setting method
+    CN113635885B,2023-03-31,Method and device for controlling vehicle running, vehicle and storage medium
+    US11143249B2,2021-10-12,Driving force distribution control device
+    EP3418176A1,2018-12-26,Control system of learning applications for electric bikes
+    CN112319478A,2021-02-05,Vehicle driving mode switching method and device, storage medium and electric commercial vehicle
+    CN110126829B,2021-11-26,Torque filter coefficient determining method, vehicle-mounted terminal and vehicle
+    CN114919651A,2022-08-19,Vehicle steering power assisting method, device, equipment and computer readable storage medium
+    JP4069829B2,2008-04-02,Vehicle steering system
+    KR101441818B1,2014-09-18,Device for controlling rear wheel driving power of four wheel drive vehicle and method for controlling the same
+    CN112046607B,2021-11-02,Yaw adjusting method and device in vehicle driving, vehicle and medium
+    JP2001092415A,2001-04-06,Liquid crystal display device
+    US20220153144A1,2022-05-19,Control device and method of electric vehicle for realizing virtual drive system sensibility
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    19
+classfication_items
+106
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,7,2
+    B
+    B,6,2
+    B,6,2,J
+    B,6,2,J,2,7,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,1,8,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,1,0
+    B,6,0,W,4,0,/,1,1
+    B
+    B,6,2
+    B,6,2,K
+    B,6,2,K,1,1,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,0,2
+    B,6,0,W,3,0,/,0,4
+    B,6,0,W,2,0,3,0,/,0,4,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,3,0,0,/,0,0
+    B,6,0,W,2,3,0,0,/,3,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,1,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,3,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+4
+    2021-07-20,Application filed by Ninebot Beijing Technology Co Ltd
+    2021-07-21,Assigned to NINEBOT (BEIJING) TECH CO., LTD.
+    2022-02-03,Publication of US20220032785A1
+    Status,Pending
+
+active_area
+3
+    C,N
+    E,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    CN202010714596.7,2020-07-21,
+    CN202010714596.7A,2020-07-21,Auxiliary head raising method and device for vehicle, vehicle and computer storage medium
+
+legal_event
+6
+    Date,Code,Title,Description
+    2021-07-21,AS,Assignment,Owner name: NINEBOT (BEIJING) TECH CO., LTD., CHINAFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:YUAN, YUBIN;ZHANG, QIANG;REEL/FRAME:056928/0253Effective date: 20210618
+    2021-11-29,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2023-06-14,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2023-08-03,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2023-10-18,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+

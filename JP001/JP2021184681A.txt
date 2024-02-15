@@ -1,0 +1,122 @@
+ID
+    JP2021184681A
+citation_exist
+    Patent Citations (10)
+citation_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP3596468B2,2001-01-04,2004-12-02,日産自動車株式会社,燃料電池車両の制御装置
+    JP3733879B2                      *,2001-07-03,2006-01-11,日産自動車株式会社,燃料電池車両の制御装置
+    JP3852841B2,2002-11-28,2006-12-06,本田技研工業株式会社,燃料電池自動車の制御装置、及び制御方法
+    JP2006025495A,2004-07-06,2006-01-26,Nissan Motor Co Ltd,燃料電池車両の制御装置
+    JP6304193B2                      *,2015-10-22,2018-04-04,トヨタ自動車株式会社,車両制御装置
+    JP2017135860A,2016-01-28,2017-08-03,トヨタ自動車株式会社,燃料電池システム
+    JP6855902B2                      *,2017-04-24,2021-04-07,トヨタ自動車株式会社,燃料電池システム
+    JP6844515B2                      *,2017-11-29,2021-03-17,トヨタ自動車株式会社,燃料電池システム
+    JP6621489B2                      *,2018-02-16,2019-12-18,本田技研工業株式会社,燃料電池システム
+    JP7114944B2                      *,2018-03-07,2022-08-09,トヨタ自動車株式会社,車両に搭載される燃料電池システム
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    【課題】 余剰電力消費制御を伴う車両において、進行方向の切り替わり時に生じ得る不安定な挙動を抑制する。【解決手段】 複数の補機は、余剰電力消費制御中においても、他の目的による動作に応じてその消費電力が変動し得る第１補機と、余剰電力消費制御中においては、他の目的による動作を禁じてその消費電力を固定し得る第２補機とを含む。制御装置は、第１補機に対して、余剰電力消費制御における消費電力の要求値を決定する処理と、第１補機に対する消費電力の要求値に、第１補機の他の目的による消費電力を加味することによって、第１補機による消費電力の実際値を特定する処理と、第１補機による消費電力の実際値を、余剰電力消費制御で消費すべき余剰電力の総量から減じることによって、第２補機に対して余剰電力消費制御における消費電力の要求値を決定する処理とを実行する。【選択図】図３
+title
+    車両
+similar_document
+26
+    Publication,Publication Date,Title
+    JP7068893B2,2022-05-17,車両電源システム
+    JP7010069B2,2022-02-10,燃料電池システム、燃料電池システムを備える車両、および、燃料電池システムの制御方法
+    JP5683628B2,2015-03-11,電源制御装置
+    WO2011021443A1,2011-02-24,電気車推進用電力変換装置
+    CN110315988B,2023-03-28,车辆电源系统
+    JP2019161688A,2019-09-19,車両に搭載される燃料電池システム
+    JP6909694B2,2021-07-28,作業車両の電力回生システム
+    CN110315976B,2022-08-16,车辆电源系统
+    US11091058B2,2021-08-17,Fuel cell system
+    JP2017178056A,2017-10-05,車両の走行駆動装置
+    CN110316019B,2023-03-28,车辆电源系统
+    WO2014148560A1,2014-09-25,電源制御装置
+    CN110316018B,2023-03-28,车辆电源系统
+    JP6989431B2,2022-01-05,車両電源システム
+    JP7096046B2,2022-07-05,車両電源システム
+    JP2006062427A,2006-03-09,電力変換装置、電力変換システムおよびその制御方法
+    JP7347325B2,2023-09-20,車両
+    KR20060003520A,2006-01-11,환경 차량의 보조 배터리 충전 제어방법
+    WO2012053067A1,2012-04-26,車両の制御装置および制御方法
+    JP5853377B2,2016-02-09,電動車両のバッテリ充電制御装置
+    JP2011239629A,2011-11-24,電動車両の制御装置
+    KR102496258B1,2023-02-08,연료전지 차량의 구동모터 제어방법
+    WO2018066624A1,2018-04-12,電源システム制御装置
+    KR100520562B1,2005-10-11,하이브리드 전기자동차의 리젠 제어방법
+    JP2016144366A,2016-08-08,電動車両
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    JP2020090026A,2020-05-22,2020-05-22,車両
+    CN202110187562.1A,2020-05-22,2021-02-18,车辆
+
+inventor_number
+    4
+classfication_nums
+    2
+classfication_items
+11
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+
+application_events
+8
+    2020-05-22,Application filed by Toyota Motor Corp
+    2020-05-22,Priority to JP2020090026A
+    2021-02-18,Priority to CN202110187562.1A
+    2021-12-02,Publication of JP2021184681A
+    2023-09-20,Application granted
+    2023-09-20,Publication of JP7347325B2
+    Status,Active
+    2040-05-22,Anticipated expiration
+
+active_area
+2
+    J,P
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2020090026A,2020-05-22,車両
+
+legal_event
+9
+    Date,Code,Title,Description
+    2022-05-23,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20220523
+    2023-03-31,A977,Report on retrieval,Free format text: JAPANESE INTERMEDIATE CODE: A971007Effective date: 20230331
+    2023-04-04,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20230404
+    2023-04-14,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20230414
+    2023-08-02,TRDD,Decision of grant or rejection written,
+    2023-08-08,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20230808
+    2023-09-11,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20230821
+    2023-09-11,R151,Written notification of patent or utility model registration,Ref document number: 7347325Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R151
+

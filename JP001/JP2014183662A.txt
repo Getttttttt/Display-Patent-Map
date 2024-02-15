@@ -1,0 +1,156 @@
+ID
+    JP2014183662A
+citation_exist
+    Patent Citations (6)
+citation_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH06105405A                      *,1992-09-18,1994-04-15,Hitachi Ltd,電気自動車の制動制御装置
+    JPH10150704A                      *,1996-11-14,1998-06-02,Toyota Motor Corp,動力出力装置
+    JP2000354305A                      *,1999-06-08,2000-12-19,Nissan Motor Co Ltd,モータ制御システム
+    JP2012157178A                      *,2011-01-26,2012-08-16,Mitsubishi Motors Corp,電動車両
+    JP2012213253A                      *,2011-03-30,2012-11-01,Aisin Aw Co Ltd,電動機制御装置
+    JP2013038845A                      *,2011-08-04,2013-02-21,Toyota Motor Corp,車両の駆動装置
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2017163649A                      *,2016-03-08,2017-09-14,三菱電機株式会社,電動車両の制御装置および制御方法
+    Family To Family Citations,,,,
+
+abstract
+    【課題】インバータを適切に保護しながらバッテリを適切な状態とする。【解決手段】回生発電機能を持つ回転電機１０と、バッテリ２０と、複数のスイッチング素子３１を有するインバータ３０と、複数のスイッチング素子３１の相関温度を取得する温度取得手段３３ａ，３３ｂと、バッテリ２０と複数のスイッチング素子３１との間にスイッチ部３５ｓを介して接続され、スイッチ部３５ｓのオンオフに応じてバッテリ２０の電力を消費する抵抗部３５ｒと、複数のスイッチング素子３１を切り換えてバッテリ２０の電力を消費するスイッチング放電制御及びスイッチ部３５ｓをオンにして抵抗部３５ｒによりバッテリ２０の電力を消費する抵抗放電制御の少なくとも一方を実施する制御手段４とを備える。制御手段４は、相関温度が所定温度以上のときにスイッチング放電制御を停止して抵抗放電制御を実施する。【選択図】図１
+title
+    車両の制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP4961830B2,2012-06-27,蓄電装置の充放電制御装置および充放電制御方法ならびに電動車両
+    US8098050B2,2012-01-17,Charge/discharge control device for secondary battery and vehicle equipped with the same
+    JP5653534B2,2015-01-14,電動車両の制御装置
+    JP5200991B2,2013-06-05,電動車両のモータ制御方法及びその装置
+    CN102470856B,2014-03-12,车辆用控制装置及车辆用控制方法
+    JP2010093871A,2010-04-22,バッテリの昇温制御装置
+    EP2564684A1,2013-03-06,Electric working vehicle
+    US20160152150A1,2016-06-02,Power Supply System Applied to Electrically Powered Vehicle
+    JP6079437B2,2017-02-15,電動車両の制御方法
+    CN105216785A,2016-01-06,混合动力车辆及其控制方法
+    JP2017100521A,2017-06-08,車両用電源装置
+    US9868434B2,2018-01-16,Vehicle and control method for vehicle
+    CN110316019B,2023-03-28,车辆电源系统
+    JP2015035841A,2015-02-19,建設機械の蓄電装置充放電制御装置
+    JP5924702B2,2016-05-25,ハイブリッド車の発電制御装置およびハイブリッド車の発電制御方法
+    JP2015168345A,2015-09-28,車両制御装置、車両、及び車両の制御方法
+    JP5042816B2,2012-10-03,内燃機関制御装置
+    US20150015168A1,2015-01-15,Vehicular driving system
+    US20140163800A1,2014-06-12,Vehicle and vehicle control method
+    JP5358622B2,2013-12-04,回転電機制御装置
+    JP5419745B2,2014-02-19,シリーズハイブリッド車両の制御装置
+    JP6705341B2,2020-06-03,ハイブリッド車
+    JP5772209B2,2015-09-02,蓄電装置の充放電制御装置およびそれを搭載した電動車両
+    JP2010022123A,2010-01-28,電動車両の駆動制御装置
+    KR20180068463A,2018-06-22,하이브리드 차량 및 이의 시동 제어 방법
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    JP2013057079A,2013-03-19,2013-03-19,車両の制御装置
+
+inventor_number
+    4
+classfication_nums
+    8
+classfication_items
+51
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,2
+    H,0,2,H
+    H,0,2,H,7,/,0,0
+    H,0,2,H,7,/,1,0
+    H,0,2,H,7,/,1,2
+    H,0,2,H,7,/,1,2,2
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,2,9
+    H,0,2,J,7,/,0,0,3,0,2
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,7
+    H,0,2,J,7,/,0,0,7,1,8,8
+    H,0,2,J,7,/,0,0,7,1,9,2
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+
+application_events
+4
+    2013-03-19,Application filed by Mitsubishi Motors Corp
+    2013-03-19,Priority to JP2013057079A
+    2014-09-29,Publication of JP2014183662A
+    Status,Pending
+
+active_area
+1
+    J,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2013057079A,2013-03-19,車両の制御装置
+
+legal_event
+5
+    Date,Code,Title,Description
+    2015-12-18,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20151218
+    2016-08-30,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20160830
+    2016-09-01,A977,Report on retrieval,Free format text: JAPANESE INTERMEDIATE CODE: A971007Effective date: 20160831
+    2017-02-28,A02,Decision of refusal,Free format text: JAPANESE INTERMEDIATE CODE: A02Effective date: 20170228
+

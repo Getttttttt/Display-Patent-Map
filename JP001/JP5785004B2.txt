@@ -1,0 +1,263 @@
+ID
+    JP5785004B2
+citation_exist
+    Patent Citations (5)
+citation_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JPH07274585A                      *,1994-03-30,1995-10-20,Hokuto Seigyo Kk,ブラシレスモータの停止位置検出方法及びブラシレスモータの駆動制御装置
+    JP2007209105A                      *,2006-02-01,2007-08-16,Sawafuji Electric Co Ltd,電気自動車運転駆動装置
+    JP2010029028A                      *,2008-07-23,2010-02-04,Jtekt Corp,モータ制御装置
+    JP2010041868A                      *,2008-08-07,2010-02-18,Honda Motor Co Ltd,同期電動機のロータ回転監視装置および制御システム
+    JP5709373B2                      *,2009-12-07,2015-04-30,Ntn株式会社,インホイールモータ駆動装置
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP6142845B2                      *,2014-05-27,2017-06-07,株式会社デンソー,車両制御装置
+    CN111902323A                      *,2017-12-21,2020-11-06,Vhit私人股份有限公司,控制车辆的正确操作的方法
+    JP7234737B2                      *,2019-03-28,2023-03-08,株式会社デンソー,検出ユニット
+    DE102022200861A1                      *,2022-01-26,2023-07-27,Brose Fahrzeugteile SE & Co. Kommanditgesellschaft, Würzburg,Verfahren zum Betrieb eines elektrisch angetriebenen Kraftfahrzeugs
+
+abstract
+    
+title
+    モータ駆動装置
+similar_document
+25
+    Publication,Publication Date,Title
+    EP2728736B1,2017-04-26,Motor drive device
+    JP5808923B2,2015-11-10,モータ駆動装置及び電気自動車
+    JP5603807B2,2014-10-08,電気自動車用駆動モータの診断装置および診断方法並びに電気自動車用駆動モータの診断装置を備えた電気自動車
+    JP5562276B2,2014-07-30,電気自動車
+    JP4985956B2,2012-07-25,電動機の制御装置
+    JP5702237B2,2015-04-15,モータ駆動装置
+    JP5657426B2,2015-01-21,電気自動車
+    JP5832868B2,2015-12-16,電気自動車
+    JP5705585B2,2015-04-22,電気自動車
+    JP5886008B2,2016-03-16,電気自動車のモータ制御装置
+    WO2014054454A1,2014-04-10,電気自動車のモータ異常検出装置
+    JP5785004B2,2015-09-24,モータ駆動装置
+    JP2008259289A,2008-10-23,電動機の制御装置
+    US20050078431A1,2005-04-14,Electric discharge controller, electric discharge control method and its program
+    JP2014241720A,2014-12-25,電気自動車用駆動モータの診断装置
+    JP2013017352A,2013-01-24,モータ駆動装置
+    JP6087399B2,2017-03-01,モータ駆動装置
+    WO2016052234A1,2016-04-07,電気自動車の制御装置
+    US9586484B2,2017-03-07,Electric-vehicle control device
+    JP2012178906A,2012-09-13,電気自動車
+    JP2015154528A,2015-08-24,電気自動車の制御装置
+    JP2006042416A,2006-02-09,電気自動車およびその制御方法
+    JP5856233B2,2016-02-09,電気自動車
+    JP2014230384A,2014-12-08,電気自動車の制御装置
+
+patent_application
+    NoExist
+patent_priority_application
+7
+    Application,Priority date,Filing date,Title
+    JP2011145559A,2011-06-30,2011-06-30,モータ駆動装置
+    EP12804455.9A,2011-06-30,2012-06-27,Motor drive device
+    US14/125,866,2011-06-30,2012-06-27,Motor drive device
+    CN201280032129.XA,2011-06-30,2012-06-27,电动机驱动装置
+    PCT/JP2012/066365,2011-06-30,2012-06-27,モータ駆動装置
+    US14/923,192,2011-06-30,2015-10-26,Motor drive device
+
+inventor_number
+    4
+classfication_nums
+    23
+classfication_items
+141
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,6,/,0,0
+    H,0,2,P,6,/,1,4
+    H,0,2,P,6,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,2
+    B,6,0,L,1,5,/,0,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,3,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,9,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,1,0
+    B,6,0,L,2,2,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,1,0
+    B,6,0,L,2,2,2,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,4,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2011-06-30,Application filed by NTN Corp
+    2011-06-30,Priority to JP2011145559A
+    2013-01-17,Publication of JP2013013286A
+    2015-09-24,Application granted
+    2015-09-24,Publication of JP5785004B2
+    Status,Active
+    2031-06-30,Anticipated expiration
+
+active_area
+1
+    J,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2011145559A,2011-06-30,モータ駆動装置
+
+legal_event
+13
+    Date,Code,Title,Description
+    2014-03-25,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20140322
+    2014-09-10,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20140909
+    2014-11-06,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20141105
+    2015-06-24,TRDD,Decision of grant or rejection written,
+    2015-07-01,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20150630
+    2015-07-30,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20150723
+    2015-07-31,R150,Certificate of patent or registration of utility model,Ref document number: 5785004Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R150
+    2018-06-19,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2019-06-18,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2020-06-11,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2021-06-14,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2022-06-13,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+

@@ -1,0 +1,248 @@
+ID
+    JP2014129078A
+citation_exist
+    Patent Citations (4)
+citation_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2005051893A                      *,2003-07-31,2005-02-24,Mazda Motor Corp,ハイブリッド車両の制御装置
+    JP2010188809A                      *,2009-02-17,2010-09-02,Nissan Motor Co Ltd,ハイブリット車両の駆動制御装置
+    JP2011031855A                      *,2009-08-05,2011-02-17,Toyota Motor Corp,ハイブリッド車両用制御装置
+    JP2011255837A                      *,2010-06-11,2011-12-22,Toyota Motor Corp,ハイブリッド車両の制御装置
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (6)
+              
+
+
+citedBy_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN114248759A                      *,2020-09-24,2022-03-29,丰田自动车株式会社,混合动力车辆的控制装置及控制方法
+    WO2022113596A1                      *,2020-11-27,2022-06-02,株式会社クボタ,ハイブリッドシステム
+    JP2022085760A                      *,2020-11-27,2022-06-08,株式会社クボタ,ハイブリッドシステム
+    JP2022085759A                      *,2020-11-27,2022-06-08,株式会社クボタ,ハイブリッドシステム
+    WO2023153237A1                      *,2022-02-14,2023-08-17,株式会社豊田中央研究所,ハイブリッド車両の制御装置及びハイブリッド車両の制御方法並びにそれらを用いたハイブリッド車両
+    Family To Family Citations,,,,
+    WO2018092027A1                      *,2016-11-15,2018-05-24,Tvs Motor Company Limited,Control system for assisting an internal combustion engine
+
+abstract
+    【課題】車両の動力源としてエンジンとモータジェネレータとを搭載したハイブリッド車において少ない電気エネルギで効率良くＰＭ（粒子状物質）の排出量を低減できるようにする。【解決手段】エンジン１１の動力で走行するエンジン走行モードと、モータジェネレータ１２によるトルクアシストを行ってエンジン１１の動力とモータジェネレータ１２の動力の両方で走行するモータアシスト走行モードとを切り換えるシステムにおいて、アクセル開度等から求めたドライバ要求出力に基づいてＰＭ排出率（エンジン１１の単位出力当りのＰＭ排出量）を推定することで、ドライバ要求出力をエンジン１１で実現した場合のＰＭ排出率を求め、このＰＭ排出率が所定値よりも大きいときにモータアシスト走行モードに切り換える。これにより、モータジェネレータ１２の単位出力当りのＰＭ低減量を大きくすることができ、少ない電気エネルギで効率良くＰＭ排出量を低減する。【選択図】図１
+title
+    ハイブリッド車の制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    US9821795B2,2017-11-21,Hybrid vehicle and control method for hybrid vehicle
+    CN108223063B,2020-01-10,混合动力车辆
+    US10914255B2,2021-02-09,Vehicle, control device for vehicle, and control method for vehicle
+    JP4535184B2,2010-09-01,ハイブリッド車両の制御装置
+    US20110035136A1,2011-02-10,Control device and control method for vehicle
+    WO2015159218A2,2015-10-22,Hybrid vehicle and control method for hybrid vehicle
+    JP2014129078A,2014-07-10,ハイブリッド車の制御装置
+    US20150151759A1,2015-06-04,Hybrid vehicle and control method for hybrid vehicle
+    US20150106000A1,2015-04-16,Method of controlling an automatic engine stop during coasting phase
+    US9046059B2,2015-06-02,Electric vehicle and fault detection method for exhaust gas recirculation system of internal combustion engine
+    JP2015140150A,2015-08-03,ハイブリッド車両
+    JP2011255861A,2011-12-22,車両用制御装置および車両用制御方法
+    JP2015128935A,2015-07-16,ハイブリッド車両
+    JP4752919B2,2011-08-17,エンジンの制御装置
+    JP6222323B2,2017-11-01,ハイブリッド車両
+    US11067025B2,2021-07-20,Controller for vehicle and method for controlling vehicle
+    WO2009090456A2,2009-07-23,Control apparatus and control method for hybrid system
+    JP2006238700A,2006-09-07,車両制御装置
+    US10710573B2,2020-07-14,Vehicle and control method of vehicle
+    JP2019048580A,2019-03-28,ハイブリッド車両の制御方法及びハイブリッド車両の制御装置
+    US20200139956A1,2020-05-07,Hybrid vehicle
+    JP2017114206A,2017-06-29,回生制御装置
+    JP2015034468A,2015-02-19,ハイブリッド車両
+    JP2004124827A,2004-04-22,動力出力装置及びハイブリッド型の動力出力装置並びにその制御方法、ハイブリッド車両
+    JP2011194926A,2011-10-06,車両およびその制御方法
+
+patent_application
+    NoExist
+patent_priority_application
+4
+    Application,Priority date,Filing date,Title
+    JP2013211455A,2012-11-29,2013-10-08,ハイブリッド車の制御装置
+    PCT/JP2013/006739,2012-11-29,2013-11-18,ハイブリッド車の制御装置
+    DE112013005708.5T,2012-11-29,2013-11-18,Steuervorrichtung für ein Hybridfahrzeug
+
+inventor_number
+    9
+classfication_nums
+    21
+classfication_items
+131
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B,6,0,K,6,/,4,8,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,5
+    B,6,0,W,2,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,1,0
+    B,6,0,L,2,2,7,0,/,1,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+6
+    2013-10-08,Application filed by Denso Corp, Nippon Soken Inc
+    2013-10-08,Priority to JP2013211455A
+    2013-11-18,Priority to PCT/JP2013/006739
+    2013-11-18,Priority to DE112013005708.5T
+    2014-07-10,Publication of JP2014129078A
+    Status,Pending
+
+active_area
+2
+    J,P
+    W,O
+
+not_active_area
+1
+    D,E
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2012260672,2012-11-29,
+    JP2012260672,2012-11-29,
+    JP2013211455A,2013-10-08,ハイブリッド車の制御装置
+
+legal_event
+6
+    Date,Code,Title,Description
+    2015-11-06,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20151106
+    2016-03-07,RD04,Notification of resignation of power of attorney,Free format text: JAPANESE INTERMEDIATE CODE: A7424Effective date: 20160307
+    2016-03-09,RD03,Notification of appointment of power of attorney,Free format text: JAPANESE INTERMEDIATE CODE: A7423Effective date: 20160309
+    2016-07-26,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20160726
+    2017-02-07,A02,Decision of refusal,Free format text: JAPANESE INTERMEDIATE CODE: A02Effective date: 20170207
+

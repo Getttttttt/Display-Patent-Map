@@ -1,0 +1,194 @@
+ID
+    JP2019129665A
+citation_exist
+    Patent Citations (7)
+citation_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2005354805A                      *,2004-06-10,2005-12-22,Nissan Motor Co Ltd,発電制御装置及び発電制御方法
+    JP2016116287A                      *,2014-12-12,2016-06-23,トヨタ自動車株式会社,充電装置
+    JP2016203969A                      *,2015-04-22,2016-12-08,株式会社デンソー,電源装置
+    Family To Family Citations,,,,
+    EP2272722B1                      *,2009-07-01,2015-04-08,Denso Corporation,Power source apparatus for vehicle
+    JP5889750B2,2012-08-10,2016-03-22,株式会社デンソー,車両用電源システム
+    JP6380171B2                      *,2015-03-06,2018-08-29,株式会社デンソー,電源システム
+    JP6082420B2                      *,2015-03-31,2017-02-15,富士重工業株式会社,車両用電源装置
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    SE544597C2                      *,2020-12-16,2022-09-20,Man Truck & Bus Se,A method for determining the association of a sensor device with an electric battery unit
+
+abstract
+    【課題】発電機の回生電力を増加させる。【解決手段】車輪２０に動力伝達経路６０を介して連結されるスタータジェネレータ１６と、スタータジェネレータ１６に接続され、第１許容電圧が設定されるリチウムイオンバッテリ３１と、リチウムイオンバッテリ３１と並列にスタータジェネレータ１６に接続され、第２許容電圧が設定される鉛バッテリ３２と、リチウムイオンバッテリ３１の端子電圧を検出するバッテリセンサ４３と、鉛バッテリ３２の端子電圧を検出するバッテリセンサ４６と、スタータジェネレータ１６を回生発電状態に制御する際に、スタータジェネレータ１６の発電電圧を第１許容電圧と第２許容電圧との双方よりも上げる発電制御部５２と、を有し、発電制御部５２は、リチウムイオンバッテリ３１の端子電圧が第１許容電圧に達する場合、または鉛バッテリ３２の端子電圧が第２許容電圧に達する場合に、スタータジェネレータ１６の発電電圧の上昇を禁止する。【選択図】図１
+title
+    車両用電源装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP5977855B1,2016-08-24,車両用電源装置
+    JP5520629B2,2014-06-11,車両用電源装置
+    CN108656968B,2022-01-07,车辆用电源装置
+    JP6082420B2,2017-02-15,車両用電源装置
+    JP6371791B2,2018-08-08,車両用電源装置
+    JP7189751B2,2022-12-14,車両用電源装置
+    JP6272291B2,2018-01-31,車両用電源装置
+    JP6691502B2,2020-04-28,車両用電源装置
+    JP6860421B2,2021-04-14,車両用電源装置
+    JP6646703B2,2020-02-14,車両用電源装置
+    JP2017114303A,2017-06-29,車両用電源装置
+    JP2018131040A,2018-08-23,車両用制御装置
+    JP2019031259A,2019-02-28,車両用制御装置
+    JP6560713B2,2019-08-14,車両用電源装置
+    JP6757365B2,2020-09-16,車両用電源装置
+    CN108656953B,2022-12-13,车辆用控制装置
+    JP6722080B2,2020-07-15,車両用電源装置
+    JP6616851B2,2019-12-04,車両用電源装置
+    JP6793156B2,2020-12-02,車両用電源装置
+    JP7227718B2,2023-02-22,車両用電源装置
+    JP2019006263A,2019-01-17,車両用制御装置
+    JP7133407B2,2022-09-08,車両用電源装置
+    JP7193959B2,2022-12-21,車両用電源装置
+    JP6748670B2,2020-09-02,車両用電源装置
+    JP2020022291A,2020-02-06,車両用電源装置
+
+patent_application
+    NoExist
+patent_priority_application
+5
+    Application,Priority date,Filing date,Title
+    JP2018011591A,2018-01-26,2018-01-26,車両用電源装置
+    US16/165,800,2018-01-26,2018-10-19,Vehicle electric power supply apparatus
+    CN201811507562.XA,2018-01-26,2018-12-11,车辆用电源装置
+    DE102018132420.0A,2018-01-26,2018-12-17,Fahrzeug-Versorgungsvorrichtung für elektrische Energie
+
+inventor_number
+    5
+classfication_nums
+    12
+classfication_items
+75
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,1
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,1,4
+    H,0,2,J,7,/,1,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,2,3,1,0,/,0,0
+    H,0,2,J,2,3,1,0,/,4,0
+    H,0,2,J,2,3,1,0,/,4,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2018-01-26,Application filed by Subaru Corp
+    2018-01-26,Priority to JP2018011591A
+    2019-08-01,Publication of JP2019129665A
+    2019-12-04,Application granted
+    2019-12-04,Publication of JP6616851B2
+    Status,Active
+    2038-01-26,Anticipated expiration
+
+active_area
+4
+    J,P
+    U,S
+    C,N
+    D,E
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2018011591A,2018-01-26,車両用電源装置
+
+legal_event
+9
+    Date,Code,Title,Description
+    2018-11-09,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20181109
+    2019-09-05,A977,Report on retrieval,Free format text: JAPANESE INTERMEDIATE CODE: A971007Effective date: 20190905
+    2019-10-08,TRDD,Decision of grant or rejection written,
+    2019-10-15,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20191015
+    2019-11-14,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20191108
+    2019-11-15,R150,Certificate of patent or registration of utility model,Ref document number: 6616851Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R150
+    2022-09-07,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2023-09-05,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+

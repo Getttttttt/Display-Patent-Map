@@ -1,0 +1,275 @@
+ID
+    US9174646B2
+citation_exist
+    Patent Citations (19)
+citation_infor
+21
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5222572A                      *,1989-07-13,1993-06-29,Honda Giken Kogyo Kabushiki Kaisha,Electric motor driven vehicle and power unit thereof
+    JPH05168109A,1991-12-12,1993-07-02,Toyota Motor Corp,Automatic speed change controller for electric automobile
+    JPH05176419A,1991-12-20,1993-07-13,Hitachi Ltd,Driving device for electric automobile
+    JPH05336618A,1992-05-29,1993-12-17,Honda Motor Co Ltd,Electric traveling vehicle
+    JPH10248113A,1997-03-05,1998-09-14,Meidensha Corp,Method for improving traveling distance in one charge of electric automobile having automatic transmission
+    JPH10244858A,1997-03-06,1998-09-14,Toyota Motor Corp,Deceleration energy regenerating device for vehicle
+    US6090007A                      *,1998-03-20,2000-07-18,Nissan Motor Co., Ltd.,Hybrid vehicle drive force control device and control method
+    JP2004175320A,2002-11-29,2004-06-24,Equos Research Co Ltd,Drive unit for hybrid vehicle
+    JP2009133426A,2007-11-30,2009-06-18,Toyota Motor Corp,Driving force distribution device, control device of driving force distribution device, control method, program for realizing its method by computer and recording medium for recording its program
+    JP2010036741A,2008-08-05,2010-02-18,Toyota Motor Corp,Controller for vehicular drive unit
+    US20110077810A1                      *,2009-09-30,2011-03-31,Jatco Ltd.,Electric drive apparatus and process
+    US20150057856A1                      *,2011-11-01,2015-02-26,Nissan Motor Co., Ltd. Kanagawa,Motor control device for electric vehicle
+    Family To Family Citations,,,,
+    JP2003285671A                      *,2002-03-29,2003-10-07,Nissan Diesel Motor Co Ltd,Hybrid vehicle
+    US7076356B2                      *,2004-02-14,2006-07-11,General Motors Corporation,Optimal selection of input torque with stability of power flow for a hybrid electric vehicle
+    JP4306597B2                      *,2004-02-25,2009-08-05,トヨタ自動車株式会社,Control device for vehicle drive device
+    JP2010083361A                      *,2008-09-30,2010-04-15,Toyota Motor Corp,Controller of power transmission for vehicle
+    JP5171799B2                      *,2008-12-18,2013-03-27,日産自動車株式会社,Control device for belt type continuously variable transmission
+    JP2010143491A                      *,2008-12-19,2010-07-01,Toyota Motor Corp,Controller for vehicular power transmission device
+    US8634976B2                      *,2010-03-01,2014-01-21,GM Global Technology Operations LLC,Systems and methods for managing torque capability in electric motor systems
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (14)
+              
+
+
+citedBy_infor
+16
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    EP2774803B1                      *,2011-11-01,2020-12-09,Nissan Motor Co., Ltd.,Motor control device for electric vehicle
+    JP6402331B2                      *,2014-05-12,2018-10-10,株式会社 Ａｃｒ,Control device for vehicle drive device
+    KR101526432B1                      *,2014-07-31,2015-06-05,현대자동차 주식회사,Apparatus and method for calculating regenerative braking amont of hybrid electirc vehicle
+    CN106441861A                      *,2015-08-10,2017-02-22,中国石油天然气股份有限公司,Automatic transmission oil transmission efficiency detection device and automatic transmission oil transmission efficiency detection method
+    US9809130B2                      *,2015-11-12,2017-11-07,GM Global Technology Operations LLC,Vehicle speed control systems and methods
+    US9939050B2                      *,2016-02-18,2018-04-10,GM Global Technology Operations LLC,Pressure sensor for power take off
+    KR101855764B1,2016-04-08,2018-05-09,현대자동차 주식회사,Apparatus and method for controlling motor
+    CN107830002B                      *,2017-10-27,2023-07-04,江苏徐工工程机械研究院有限公司,Electrohydraulic control system and method and aerial work platform
+    CN108111071A                      *,2017-12-28,2018-06-01,湖南利能科技股份有限公司,A kind of Hydropower Unit complex control system and method based on brushless dual-feed motor
+    CN110667398A                      *,2018-12-29,2020-01-10,长城汽车股份有限公司,Drive control method and system for electric vehicle
+    ES2779948A1                      *,2019-02-18,2020-08-20,Leitum Assets Sl,Powertrain for electric vehicles based on a continuously variable transmission and associated method of operation (Machine-translation by Google Translate, not legally binding)
+    JP2022543374A                      *,2019-08-01,2022-10-12,システム７３ リミテッド,MULTI-ENGINE SWITCHING SYSTEM AND PERFORMANCE OPTIMIZATION METHOD
+    DE102020001795B3                      *,2019-11-28,2020-10-29,Hans Hermann Rottmerhusen,Electric motor drive for a motor vehicle
+    CN112977085B                      *,2021-03-02,2022-11-08,北京航天发射技术研究所,Running control method for heavy-duty rail electric drive system
+
+abstract
+    An electric vehicle motor control device controls the transmission of power from an electric motor to driving wheels via an automatic transmission. The electric vehicle motor control device includes a vehicle speed detecting device that detects a vehicle speed of the electric vehicle and a controller. The controller includes a required driving power calculating section that calculates a required driving power of the electric vehicle, and a target motor rotational speed calculating section that calculates a target motor rotational speed. The target motor rotational speed is calculated so that an efficiency of a product of a power consumption rate of the electric motor and a transmission efficiency of the automatic transmission will become a prescribed target efficiency, based on the vehicle speed and the required driving power. The controller controls the electric motor based on the target motor rotational speed.
+title
+    Motor control device for electric vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US9174646B2,2015-11-03,Motor control device for electric vehicle
+    US9267481B2,2016-02-23,Hybrid vehicle engine start control system
+    CN109720334B,2022-03-11,Hybrid vehicle
+    US20180134296A1,2018-05-17,Auto cruise control method for hybrid electric vehicles
+    US9499041B2,2016-11-22,Hybrid vehicle and control method thereof
+    EP2641774B1,2018-03-07,Control apparatus and control method for electrically driven vehicle
+    CN108515970A,2018-09-11,Hybrid vehicle
+    KR101714214B1,2017-03-08,System and method for controlling torque intervention of hybrid electric vehicle
+    JP5277198B2,2013-08-28,Hybrid vehicle control device
+    US20150149008A1,2015-05-28,Transmission control apparatus for belt type mild hybrid vehicle and transmission control method using the same
+    CN104470778B,2016-04-20,The control setup of motor vehicle driven by mixed power
+    JP2019202650A,2019-11-28,Control device and control method for vehicle
+    JP5316002B2,2013-10-16,Control device for hybrid vehicle
+    CN104373586A,2015-02-25,A shift control method and system of a hybrid vehicle
+    CN105196884A,2015-12-30,Electric vehicle
+    US20170072939A1,2017-03-16,Hybrid vehicle
+    EP3272603B1,2019-04-24,Control device and control method for hybrid vehicle
+    KR101745259B1,2017-06-08,Control method of power train for hybrid vehicle and control system for the same
+    KR102237064B1,2021-04-06,Hybrid electric vehicle and controlling method thereof
+    JP7345979B2,2023-09-19,Hybrid vehicle engine control method and engine control device
+    KR20190052297A,2019-05-16,Powertrain for hybrid vehicle and method for controlling the same
+    KR101583990B1,2016-01-21,Plug-in Hybrid Electric Vehicle and Driving Control Method thereof
+    JP2005163587A,2005-06-23,Hybrid vehicle
+    US11458950B2,2022-10-04,Drive force control system for hybrid vehicle
+    JP2018034671A,2018-03-08,Hybrid vehicle and control method therefor
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    28
+classfication_items
+133
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,4
+    B,6,0,K,6,/,4,4,5
+    B,6,0,L,1,1,/,1,4
+    B,6,0,L,1,1,/,1,8,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,0,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y,0,2,T,1,0,/,7,0,7,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,4,1
+    Y,0,2,T,1,0,/,7,2,8,3
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,3
+
+application_events
+8
+    2012-10-23,Application filed by Nissan Motor Co Ltd, JATCO Ltd
+    2014-04-23,Assigned to NISSAN MOTOR CO., LTD., JATCO LTD
+    2015-02-26,Publication of US20150057856A1
+    2015-11-03,Application granted
+    2015-11-03,Publication of US9174646B2
+    2023-09-27,Assigned to NISSAN MOTOR CO., LTD.
+    Status,Active
+    2033-01-10,Adjusted expiration
+
+active_area
+5
+    E,P
+    W,O
+    U,S
+    J,P
+    C,N
+
+not_active_area
+1
+    K,R
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2011-239922,2011-11-01,
+    JP2011239922,2011-11-01,
+    PCT/JP2012/077335,2012-10-23,Motor control device for electric vehicle
+
+legal_event
+6
+    Date,Code,Title,Description
+    2014-04-23,AS,Assignment,Owner name: NISSAN MOTOR CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:UEDA, NAOHARU;YONEDA, KENJI;SIGNING DATES FROM 20140418 TO 20140422;REEL/FRAME:032740/0001Owner name: JATCO LTD, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:UEDA, NAOHARU;YONEDA, KENJI;SIGNING DATES FROM 20140418 TO 20140422;REEL/FRAME:032740/0001
+    2015-10-14,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2019-04-18,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+    2023-04-20,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+    2023-09-27,AS,Assignment,Owner name: NISSAN MOTOR CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:JATCO LTD;REEL/FRAME:065039/0885Effective date: 20230828
+

@@ -1,0 +1,238 @@
+ID
+    JP2012175764A
+citation_exist
+    Patent Citations (6)
+citation_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2006327498A                      *,2005-05-27,2006-12-07,Aisin Aw Co Ltd,駐車支援方法及び駐車支援装置
+    JP2010032398A                      *,2008-07-30,2010-02-12,Alpine Electronics Inc,ナビゲーションシステムの位置検出装置および位置検出方法
+    JP2010208483A                      *,2009-03-10,2010-09-24,Clarion Co Ltd,駐車ナビゲーションシステム
+    JP2010226945A                      *,2009-02-25,2010-10-07,Maspro Denkoh Corp,移動体の電力供給システム
+    JP2010234878A                      *,2009-03-30,2010-10-21,Aisin Aw Co Ltd,受電案内装置、受電案内方法、及び受電案内プログラム
+    JP2011015549A                      *,2009-07-02,2011-01-20,Toyota Motor Corp,駐車支援システムおよび駐車支援システムの制御方法
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (11)
+              
+
+
+citedBy_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    WO2014076888A1                      *,2012-11-16,2014-05-22,株式会社デンソー,運転支援装置、および運転支援方法
+    JP2014147219A                      *,2013-01-29,2014-08-14,Canon Inc,無線給電システム、送電装置、受電装置、送電装置の制御方法、受電装置の制御方法及びプログラム
+    WO2014192136A1                      *,2013-05-31,2014-12-04,株式会社Ihi,車両給電システム
+    WO2015114775A1                      *,2014-01-30,2015-08-06,日産自動車株式会社,駐車支援装置及び駐車支援方法
+    CN106143179A                      *,2015-05-15,2016-11-23,福特全球技术公司,用于定位相对于另一物体运动的物体的成像系统
+    KR101860695B1,2015-01-29,2018-05-23,닛산 지도우샤 가부시키가이샤,주차 지원 시스템 및 주차 지원 방법
+    CN106143188B                      *,2016-07-06,2018-09-11,北京新能源汽车股份有限公司,电动汽车无线充电位置的对准方法和系统
+    JP2018174690A                      *,2017-03-31,2018-11-08,本田技研工業株式会社,非接触電力伝送システム
+    CN109050324A                      *,2018-08-29,2018-12-21,广西电网有限责任公司电力科学研究院,基于电磁位置检测的电动汽车充电系统及其控制方法
+    CN113200033A                      *,2020-02-03,2021-08-03,通用汽车环球科技运作有限责任公司,带有基于相机的自动车辆对准的智能车辆、控制逻辑和先进停车辅助系统
+    Family To Family Citations,,,,
+    CN108515851B                      *,2018-02-06,2019-09-17,杭州电子科技大学,一种弹射式电动汽车充电方法
+
+abstract
+    【課題】非接触充電の受電側と給電側との位置決めを容易かつ的確に行なうことができるように支援して、運転者の負担を軽減する。【解決手段】電気自動車１０は、路面を含む進行方向の実映像を撮影するリアカメラ３４と、車室内に設けられ、少なくともリアカメラ３４で撮影された実映像、及び受電位置を含む車両床下の路面方向の擬似映像を映写する表示装置３８と、表示装置３８の表示画面に表示された実映像上で路面上に配置された送信アンテナ１８の位置が進行方向の車体端部に到達した時点において、給電位置画像を擬似映像に合成する擬似映像生成部と、擬似映像上で給電位置画像を進行方向に対応して追従させる追従部とを備える。【選択図】図１
+title
+    電気自動車
+similar_document
+26
+    Publication,Publication Date,Title
+    JP5743590B2,2015-07-01,電気自動車
+    JP5377119B2,2013-12-25,駐車支援システムおよび駐車支援システムの制御方法
+    JP5423833B2,2014-02-19,車両
+    JP5408343B2,2014-02-05,車両の駐車支援装置およびそれを備える電動車両
+    JP5504009B2,2014-05-28,電気自動車
+    JP5010715B2,2012-08-29,車両の駐車支援装置およびそれを備える電動車両
+    JP5761159B2,2015-08-12,運転支援装置、および運転支援方法
+    JP6160713B2,2017-07-12,駐車支援装置及び駐車支援方法
+    JP5751383B2,2015-07-22,駐車支援システム及び駐車支援方法
+    JP4868093B2,2012-02-01,車両の駐車支援装置およびそれを備える電動車両
+    JP6350312B2,2018-07-04,非接触充電駐車支援装置
+    JP5488210B2,2014-05-14,共鳴型非接触受電装置の位置決め支援装置および共鳴型非接触受電装置の位置決め方法
+    JP6110758B2,2017-04-05,車両誘導装置
+    WO2014199499A1,2014-12-18,車両給電システム
+    CN105189189A,2015-12-23,车辆供电系统
+    CN109195829B,2021-07-16,停车辅助方法和停车辅助装置
+    JP5845921B2,2016-01-20,移動車両給電システム
+    US10384552B2,2019-08-20,Power transmission and reception system for vehicle with graphical alignment
+    US20200039371A1,2020-02-06,Vehicle Positioning for Inductive Energy Transfer
+    US10562397B2,2020-02-18,Power reception apparatus, vehicle, power transmission apparatus, power transmission and reception system, and control method
+    JP2017200330A,2017-11-02,受電装置、輸送機器、送電装置、送受電システム及び制御方法
+    JP2012209882A,2012-10-25,車載用表示装置
+    WO2021095300A1,2021-05-20,駐車支援装置、駐車支援方法、及びプログラム
+    JP2017001510A,2017-01-05,駐車支援装置
+    JP2023129014A,2023-09-14,車両及び車両制御方法
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    JP2011033529A,2011-02-18,2011-02-18,電気自動車
+
+inventor_number
+    6
+classfication_nums
+    19
+classfication_items
+116
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,1,0
+    B,6,0,L,5,3,/,1,2
+    B,6,0,L,5,3,/,1,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,1,0
+    B,6,0,L,5,3,/,1,2
+    B,6,0,L,5,3,/,1,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,3,0
+    B,6,0,L,5,3,/,3,5
+    B,6,0,L,5,3,/,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,3,0
+    B,6,0,L,5,3,/,3,5
+    B,6,0,L,5,3,/,3,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,2
+    B,6,0,L,2,2,4,0,/,6,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+7
+    2011-02-18,Application filed by Honda Motor Co Ltd
+    2011-02-18,Priority to JP2011033529A
+    2012-09-10,Publication of JP2012175764A
+    2015-07-01,Application granted
+    2015-07-01,Publication of JP5743590B2
+    Status,Active
+    2031-02-18,Anticipated expiration
+
+active_area
+1
+    J,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2011033529A,2011-02-18,電気自動車
+
+legal_event
+9
+    Date,Code,Title,Description
+    2013-11-29,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20131128
+    2014-10-20,A977,Report on retrieval,Free format text: JAPANESE INTERMEDIATE CODE: A971007Effective date: 20141020
+    2014-10-29,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20141028
+    2014-11-26,A521,Written amendment,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20141125
+    2015-04-02,TRDD,Decision of grant or rejection written,
+    2015-04-15,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20150414
+    2015-05-07,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20150428
+    2015-05-15,R150,Certificate of patent or registration of utility model,Ref document number: 5743590Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R150
+

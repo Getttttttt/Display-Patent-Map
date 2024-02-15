@@ -1,0 +1,258 @@
+ID
+    WO2021169609A1
+citation_exist
+    Patent Citations (11)
+citation_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2013018332A                      *,2011-07-11,2013-01-31,Suzuki Motor Corp,車両の回生ブレーキ制御装置
+    CN205632437U                      *,2016-04-11,2016-10-12,北京新能源汽车股份有限公司,电动汽车及其制动能量回收系统
+    CN106926709A                      *,2015-12-31,2017-07-07,罗伯特·博世有限公司,制动能量回收装置、方法及轻型电动车
+    CN108583566A                      *,2018-03-30,2018-09-28,吉利汽车研究院（宁波）有限公司,用于混合动力车辆的制动能量回收方法及系统
+    CN108859778A                      *,2017-05-09,2018-11-23,郑州宇通客车股份有限公司,一种新能源汽车再生制动控制方法及装置
+    Family To Family Citations,,,,
+    US5615933A                      *,1995-05-31,1997-04-01,General Motors Corporation,Electric vehicle with regenerative and anti-lock braking
+    CN104590037B                      *,2014-12-16,2017-03-22,北京新能源汽车股份有限公司,一种纯电动车的能量回馈控制方法
+    KR101786666B1                      *,2015-08-26,2017-10-18,현대자동차 주식회사,모터를 구비한 차량의 제어 장치 및 방법
+    CN106627171B                      *,2017-01-12,2019-06-04,重庆长安新能源汽车科技有限公司,一种纯电动车辆的扭矩回收控制方法及控制系统
+    CN110040000A                      *,2019-04-25,2019-07-23,浙江吉利控股集团有限公司,制动能量回收方法、制动能量回收系统及车辆
+    CN110667396B                      *,2019-10-12,2023-07-14,江铃汽车股份有限公司,一种后驱电动汽车能量回收扭矩标定方法
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN116587870A                      *,2023-05-26,2023-08-15,广东金霸智能科技股份有限公司,电动汽车的制动能量回收方法和系统
+    Family To Family Citations,,,,
+    CN114559916A                      *,2021-03-17,2022-05-31,长城汽车股份有限公司,一种制动能量回收控制方法、系统与阀门
+
+abstract
+    一种用于车辆的扭矩控制方法及装置，该扭矩控制方法包括：在执行能量回收功能的过程中，判断是否接收到升降扭矩请求；在未接收到升降扭矩请求的情况下，判断ABS是否处于激活状态；若是，则以第一扭矩变化梯度降低能量回收扭矩；在降低能量回收扭矩期间，判断ABS是否从处于激活状态变为处于非激活状态；若是，则判断是否满足第一当前驾驶员需求扭矩大于第一预设值且ABS处于非激活状态超过第一预设时间；若满足，则以第二扭矩变化梯度将能量回收扭矩恢复为第一当前驾驶员需求扭矩。
+title
+    用于车辆的扭矩控制方法及装置
+similar_document
+26
+    Publication,Publication Date,Title
+    CN109955727B,2023-08-11,用于施加车辆的滑行再生扭矩的系统和方法
+    US10384669B2,2019-08-20,Apparatus and method for controlling vehicle having motor
+    WO2021169609A1,2021-09-02,用于车辆的扭矩控制方法及装置
+    CN111016900B,2021-06-29,车辆四驱控制方法及电子设备
+    CN112109557B,2022-05-24,一种驱动轮转速控制方法及其系统
+    JP7172352B2,2022-11-16,制動制御装置
+    CN108327577B,2020-07-28,一种扭矩确定方法、装置及电动汽车
+    KR20070065946A,2007-06-27,자동차용 트랙션컨트롤시스템의 슬립제어방법
+    JP4872931B2,2012-02-08,車両用トルク制御装置
+    US11299133B2,2022-04-12,System for pre-preventing instability of vehicle by regenerative braking of rear wheel
+    JP2001018777A,2001-01-23,車両のブレーキ制御装置
+    US9043063B2,2015-05-26,Anti-nose down torque control system and method for vehicle
+    JP2001234774A,2001-08-31,ハイブリッド車両
+    JP2021138175A,2021-09-16,車両の制御システム
+    CN114559917B,2023-08-08,一种能量回收方法、系统和可读存储介质
+    JP6948884B2,2021-10-13,車両の制御装置、車両の制御システムおよび車両の制御方法
+    CN116729392B,2023-10-27,车辆脱困辅助系统及其控制单元
+    CN116729391B,2023-10-20,车辆脱困辅助系统及其控制单元
+    CN116729390B,2023-11-03,车辆脱困辅助系统及其控制单元
+    CN113352901B,2023-06-20,一种能量回收扭矩的控制方法、装置及汽车
+    CN116080408A,2023-05-09,一种滑行能量回收的控制方法、设备、存储介质
+    CN114248631A,2022-03-29,制动控制方法和设备、计算机存储介质、电子稳定系统以及电动车辆
+    CN115071445A,2022-09-20,新能源车辆蠕行控制方法及系统
+    CN115123164A,2022-09-30,防抱死控制方法、装置及电子设备、存储介质
+    CN116198504A,2023-06-02,滑行回收扭矩的控制方法、装置、存储介质及车辆
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    EP21761352.0A,2020-02-24,2021-01-05,TORQUE CONTROL METHOD AND DEVICE FOR A VEHICLE
+    US17/790,159,2020-02-24,2021-01-05,Torque control method for vehicle, vehicle controller, and non-transitory machine-readable storage medium
+
+inventor_number
+    9
+classfication_nums
+    24
+classfication_items
+144
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B,6,0,W,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,4,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,0,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,1,7,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,2,0,5,0,/,0,0,0,1
+    B,6,0,W,2,0,5,0,/,0,0,4,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,8
+    B,6,0,W,2,5,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,6
+    B,6,0,W,2,7,1,0,/,0,6,6,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    B,6,0,W,2,7,1,0,/,0,8,5
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,6,1,/,0,0
+    F,1,6,H,6,1,/,0,4
+    F,1,6,H,2,0,6,1,/,0,4,2,5
+    F,1,6,H,2,0,6,1,/,0,4,3,3
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+4
+    2021-01-05,Application filed by 长城汽车股份有限公司
+    2021-01-05,Priority to EP21761352.0A
+    2021-01-05,Priority to US17/790,159
+    2021-09-02,Publication of WO2021169609A1
+
+active_area
+3
+    C,N
+    U,S
+    E,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    CN202010113189.0,2020-02-24,
+    CN202010113189.0A,2020-02-24,用于车辆的扭矩控制方法及装置
+
+legal_event
+4
+    Date,Code,Title,Description
+    2021-10-13,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 21761352Country of ref document: EPKind code of ref document: A1
+    2022-09-27,NENP,Non-entry into the national phase,Ref country code: DE
+    2022-09-30,ENP,Entry into the national phase,Ref document number: 2021761352Country of ref document: EPEffective date: 20220920
+

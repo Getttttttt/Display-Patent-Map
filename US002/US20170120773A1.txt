@@ -1,0 +1,197 @@
+ID
+    US20170120773A1
+citation_exist
+    Patent Citations (11)
+citation_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20090317696A1                      *,2008-06-19,2009-12-24,Chih-Peng Chang,Compound battery device having lithium battery and lead-acid battery
+    US20110288704A1                      *,2010-05-21,2011-11-24,GM Global Technology Operations LLC,Method for heating a high voltage vehicle battery
+    Family To Family Citations,,,,
+    JP2002025630A,2000-07-11,2002-01-25,Shin Kobe Electric Mach Co Ltd,Power supply system of running vehicle
+    US20070029124A1,2005-06-02,2007-02-08,Sankar Dasgupta,Battery powered vehicle overvoltage protection circuitry
+    US20080084182A1                      *,2006-10-06,2008-04-10,Aai Corporation,Lithium battery system
+    EP2272722B1                      *,2009-07-01,2015-04-08,Denso Corporation,Power source apparatus for vehicle
+    JP5494498B2,2010-02-03,2014-05-14,株式会社デンソー,In-vehicle power supply
+    DE102012217190A1                      *,2012-09-24,2014-06-12,Bayerische Motoren Werke Aktiengesellschaft,A coupling storage device for a motor vehicle
+    CA2910928C                      *,2013-04-30,2017-05-16,Aleees Eco Ark Co. Ltd.,Power driving system
+    CN105637700B                      *,2013-07-31,2019-04-19,约翰逊控制技术公司,For having the passive structures of the battery there are two types of different chemical composition
+    US9878631B2                      *,2014-02-25,2018-01-30,Elwha Llc,System and method for predictive control of an energy storage system for a vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (6)
+              
+
+
+citedBy_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20200083706A1                      *,2015-07-23,2020-03-12,Briggs & Stratton Corporation,Lithium-ion battery including two power supplies
+    CN111479721A                      *,2017-12-21,2020-07-31,法国大陆汽车公司,Method for controlling a DC converter in the on-board network of a motor vehicle
+    US10850724B2                      *,2018-02-19,2020-12-01,C.R.F. Societa' Consortile Per Azioni,Management of the operation of an automotive dual battery electrical system with kinetic energy recovery during braking
+    US10985587B2                      *,2018-08-07,2021-04-20,Intel Corporation,Battery charge termination voltage adjustment
+    US11223212B2                      *,2018-10-26,2022-01-11,Toyota Jidosha Kabushiki Kaisha,Battery control device for homogenizing battery cells
+    Family To Family Citations,,,,
+    US20190322193A1                      *,2018-04-19,2019-10-24,Wayne State University,Battery module balancing system of a vehicle and method thereof
+
+abstract
+    A battery system may include multiple battery cells having different chemistries. To achieve certain performance goals, voltage parameters for the battery system, such as cruising voltages and maximum voltages can be adjusted. These adjustments may, for example, direct charging currents to a lithium-ion battery to increase fuel economy or may direct charging currents away from a lithium-ion battery to increase its longevity. Methods for matching batteries having different chemistries based on their open circuit voltages are also discussed.
+title
+    Optimization of cruising voltage for life and fuel economy performance in advanced start-stop systems
+similar_document
+10
+    Publication,Publication Date,Title
+    US11040624B2,2021-06-22,Cooling strategy for battery systems
+    US10766368B2,2020-09-08,Dual function battery system and method
+    US11038363B2,2021-06-15,Battery system to be implemented in an automotive vehicle, wake-up control unit configured to determine whether a short circuit is expected to be present in an electrical system, and short circuit detection unit of an electrical system
+    US10300807B2,2019-05-28,Systems and methods for state of charge and capacity estimation of a rechargeable battery
+    US20230191943A1,2023-06-22,Battery module lithium plating reduction
+    US10547089B2,2020-01-28,Optimization of cruising voltage for life and fuel economy performance in advanced start-stop systems
+    US11112463B2,2021-09-07,Integrated battery sensor for multiple battery modules
+    CN107710548B,2022-02-15,Battery system and method for bi-directional current control
+    US20210206278A1,2021-07-08,Bi-stable relay
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US15/344,359,2015-11-04,2016-11-04,Optimization of cruising voltage for life and fuel economy performance in advanced start-stop systems
+
+inventor_number
+    4
+classfication_nums
+    16
+classfication_items
+87
+    B,6,0,L,1,1,/,1,8,6,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,1,/,1,8,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,0,5
+    H,0,1,M,1,0,/,0,5,2
+    H,0,1,M,1,0,/,0,5,2,5
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,0,6
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,2,5
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,8
+    H,0,1,M,1,0,/,4,8,2
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,2,5
+    H,0,1,M,2,0,1,0,/,4,2,7,1
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,2,5
+    H,0,1,M,2,0,1,0,/,4,2,7,8
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,2,2,2,0,/,0,0
+    H,0,1,M,2,2,2,0,/,2,0
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+
+application_events
+7
+    2016-11-04,Application filed by Johnson Controls Technology Co
+    2016-11-04,Priority to US15/344,359
+    2017-05-04,Publication of US20170120773A1
+    2020-01-28,Application granted
+    2020-01-28,Publication of US10547089B2
+    Status,Active
+    2037-10-01,Adjusted expiration
+
+active_area
+2
+    U,S
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    US201562250655P,2015-11-04,
+    US15/344,359,2016-11-04,Optimization of cruising voltage for life and fuel economy performance in advanced start-stop systems
+
+legal_event
+11
+    Date,Code,Title,Description
+    2017-03-06,AS,Assignment,Owner name: JOHNSON CONTROLS TECHNOLOGY COMPANY, MICHIGANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:ZHANG, ZHENLI;JIN, ZHIHONG H.;WYATT, PERRY M.;SIGNING DATES FROM 20170303 TO 20170306;REEL/FRAME:041478/0848
+    2019-02-06,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2019-05-22,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2019-06-20,AS,Assignment,Owner name: CPS TECHNOLOGY HOLDINGS LLC, NEW YORKFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:JOHNSON CONTROLS TECHNOLOGY COMPANY;REEL/FRAME:049553/0079Effective date: 20190430
+    2019-08-26,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2019-08-29,AS,Assignment,Owner name: CITIBANK N.A., AS COLLATERAL AGENT, DELAWAREFree format text: FIRST LIEN PATENT SECURITY AGREEMENT;ASSIGNOR:CPS TECHNOLOGY HOLDINGS LLC;REEL/FRAME:050229/0029Effective date: 20190827Owner name: CITIBANK N.A., AS COLLATERAL AGENT, NEW YORKFree format text: ABL PATENT SECURITY AGREEMENT;ASSIGNOR:CPS TECHNOLOGY HOLDINGS LLC;REEL/FRAME:050229/0079Effective date: 20190827
+    2019-12-07,STPP,Information on status: patent application and granting procedure in general,Free format text: AWAITING TC RESP, ISSUE FEE PAYMENT VERIFIED
+    2020-01-08,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2020-01-23,AS,Assignment,Owner name: CPS TECHNOLOGY HOLDINGS LLC, NEW YORKFree format text: CORRECTIVE ASSIGNMENT TO CORRECT THE PROPERTIES, REMOVING US APP. NO. 16332731 PREVIOUSLY RECORDED AT REEL: 049553 FRAME: 0079. ASSIGNOR(S) HEREBY CONFIRMS THE ASSIGNMENT;ASSIGNOR:JOHNSON CONTROLS TECHNOLOGY COMPANY;REEL/FRAME:051689/0130Effective date: 20190430
+    2023-07-28,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

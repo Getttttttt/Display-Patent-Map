@@ -1,0 +1,289 @@
+ID
+    US9045152B2
+citation_exist
+    Patent Citations (25)
+citation_infor
+27
+    Publication number,Priority date,Publication date,Assignee,Title
+    US4697661A                      *,1986-07-14,1987-10-06,General Electric Company,Drive design for mobile x-ray units with dual wheel drives
+    JPH0956015A,1995-08-11,1997-02-25,Hitachi Ltd,Electric truck
+    JPH09109894A,1995-10-16,1997-04-28,Hitachi Ltd,Electric carrier
+    JPH09150740A                      *,1995-11-28,1997-06-10,Kubota Corp,Motor-driven handcart
+    JPH09202235A,1996-01-26,1997-08-05,Suzuki Motor Corp,Hand truck with drive means
+    JPH09284991A,1996-04-05,1997-10-31,New Delta Ind Co,Motor protector for self-propelled travel device
+    US5746282A                      *,1995-04-14,1998-05-05,Matsushita Electric Works, Ltd.,Power-assisted cart
+    JPH10336803A,1997-04-01,1998-12-18,Nabco Ltd,Control device for motor-driven car
+    JPH115537A,1997-04-21,1999-01-12,Shinko Electric Co Ltd,Compact vehicle with auxiliary driving
+    JPH11276527A,1998-03-27,1999-10-12,Yamaha Motor Co Ltd,Wheelchair with auxiliary motor
+    JP2000214015A,1999-01-27,2000-08-04,Nippon Automation:Kk,Applying force detector, controller for driver, and car fitted with driving force supporting device
+    US6276471B1                      *,1997-06-06,2001-08-21,EXPRESSO DEUTSCHLAND TRANSPOTGERäTE GMBH,Delivery cart
+    JP2005280385A,2004-03-26,2005-10-13,Matsushita Electric Works Ltd,Conveying device
+    JP2006001426A,2004-06-17,2006-01-05,Mitsuba Corp,Method for controlling conveying device with power assist, and conveying device with power assist
+    JP2006137391A,2004-11-15,2006-06-01,Mitsuba Corp,Method of detecting malfunction of vehicle speed sensor on carrying device with power assist
+    JP2006290319A,2005-04-12,2006-10-26,Kiyoshi Shimizu,Electric-assisted hand-pushed truck
+    US7220222B2                      *,2005-01-19,2007-05-22,Multi-Shifter Inc.,Cart for die transportation
+    JP2008054440A,2006-08-25,2008-03-06,Honda Motor Co Ltd,Overheat protection device
+    JP2009131069A,2007-11-26,2009-06-11,Mitsuba Corp,Motor control unit
+    JP2010123044A,2008-11-21,2010-06-03,Denso Corp,Overcurrent protection circuit
+    US7779941B1                      *,2007-03-21,2010-08-24,Honda Motor Co., Ltd.,Method and apparatus for delivery cart movement start and energy recovery
+    US20110015842A1                      *,2009-01-29,2011-01-20,Yohei Kume,Power assisted vehicle
+    JP2011115025A,2009-11-30,2011-06-09,Sumitomo Heavy Ind Ltd,Gear motor
+    JP2012166748A,2011-02-16,2012-09-06,Kyb Co Ltd,Power-assisted carriage
+    Family To Family Citations,,,,
+    JP2000215015A                      *,1999-01-25,2000-08-04,Seiko Epson Corp,Computer, printer, and print system, and display method and control method
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (2)
+              
+
+
+citedBy_exist
+    
+              Cited By (19)
+              
+
+
+citedBy_infor
+21
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20160302545A1                      *,2015-04-16,2016-10-20,Aviad Berger,Scissor lift that locks at a variable height
+    USD794133S1,2016-02-22,2017-08-08,Radio Flyer Inc.,Folding wagon
+    US9925999B2,2015-09-29,2018-03-27,Radio Flyer Inc.,Power assist wagon
+    US20180194383A1                      *,2017-01-09,2018-07-12,Ford Motor Company,Motorized shopping trolley
+    US10081380B2,2015-07-16,2018-09-25,Radio Flyer Inc.,Foldable wagon
+    USD866676S1,2017-11-02,2019-11-12,Radio Flyer Inc.,Foldable wagon
+    US10583852B2,2016-11-02,2020-03-10,Radio Flyer Inc.,Foldable wagon
+    USD879205S1,2018-09-26,2020-03-24,Radio Flyer Inc.,Wagon
+    USD879885S1,2018-09-26,2020-03-31,Radio Flyer Inc.,Wagon frame
+    US11465665B2,2019-10-09,2022-10-11,Radio Flyer Inc.,Wagon with recline seatback
+    US11590994B2,2019-08-15,2023-02-28,Radio Flyer Inc.,Foldable beach wagon
+    US11718337B2,2019-10-23,2023-08-08,Radio Flyer Inc.,Handle release and locking mechanism
+    Family To Family Citations,,,,
+    ITUA20163152A1                      *,2016-05-05,2017-11-05,Hifive S R L,GOLF TROLLEY WITH HYBRID PROPULSION
+    JP6231630B1                      *,2016-08-12,2017-11-15,Ｋｙｂ株式会社,Vibration control device for railway vehicles
+    JP6864488B2                      *,2017-01-31,2021-04-28,株式会社マキタ,Push-type electric carrier
+    KR101855829B1                      *,2017-12-11,2018-05-09,주식회사 뉴코애드윈드,Cart apparatus with inclination adjustable
+    KR101855827B1                      *,2017-12-11,2018-05-09,주식회사 뉴코애드윈드,Cart apparatus with inclination adjustable
+    DE102020004190A1                      *,2019-08-08,2021-02-11,Makita Corporation,HAND CART
+    WO2023119435A1                      *,2021-12-21,2023-06-29,本田技研工業株式会社,Assist device
+
+abstract
+    An electric assist cart includes: a body frame; a drive wheel; a control handle by which a user can input a driving force to the body frame; a torque sensor that detects a driving torque input to the body frame from the control handle; a controller that computes an assisting force based on the driving torque; and an electric motor that applies the assisting force to the drive wheel. The controller includes an electric current determination part that determines whether or not an electric current having a magnitude equal to or larger than a first setting value continuously flows for a first setting time, and an electric current control part that reduces a maximum value of the electric current that can be supplied to the electric motor to be smaller than the first setting value based on the determination of the electric current determination part.
+title
+    Electric assist cart
+similar_document
+14
+    Publication,Publication Date,Title
+    US9045152B2,2015-06-02,Electric assist cart
+    US9132848B2,2015-09-15,Conveyance cart
+    US9205746B2,2015-12-08,Electric assist cart
+    US9162696B2,2015-10-20,Electric assist cart
+    US20140264207A1,2014-09-18,Electric assist cart
+    US20150028787A1,2015-01-29,Conveyance cart
+    US9421963B2,2016-08-23,Materials handling vehicle having a control apparatus for determining an acceleration value
+    JP5860658B2,2016-02-16,Electric assist cart
+    JP3536785B2,2004-06-14,Travel control device for industrial vehicles
+    US20220089217A1,2022-03-24,Steering control device
+    JP4532176B2,2010-08-25,Control method for power assisted transport device and power assisted transport device
+    JP4888921B2,2012-02-29,Steer-by-wire power steering system
+    JP2006069446A,2006-03-16,Controlling method for power-assisted transport device and power-assisted transport device
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    30
+classfication_items
+147
+    B
+    B,6,2
+    B,6,2,B
+    B,6,2,B,5,/,0,0
+    B,6,2,B,5,/,0,0,2,6
+    B,6,2,B,5,/,0,0,3,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B,6,0,L,1,1,/,1,8,0,5
+    B,6,0,L,1,1,/,1,8,7,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,7,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,8,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,2
+    B
+    B,6,2
+    B,6,2,B
+    B,6,2,B,3,/,0,0
+    B,6,2,B,3,/,0,0,1
+    B
+    B,6,2
+    B,6,2,B
+    B,6,2,B,5,/,0,0
+    B,6,2,B,5,/,0,0,2,6
+    B,6,2,B,5,/,0,0,6,9
+    B,6,2,B,5,/,0,0,7,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,1,0
+    B,6,0,L,2,2,7,0,/,1,4
+    B,6,0,L,2,2,7,0,/,1,4,5
+    B
+    B,6,2
+    B,6,2,B
+    B,6,2,B,2,2,0,3,/,0,0
+    B,6,2,B,2,2,0,3,/,1,0
+    B
+    B,6,2
+    B,6,2,B
+    B,6,2,B,2,3,0,1,/,0,0
+    B,6,2,B,2,3,0,1,/,2,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,0,5
+    Y,0,2,T,1,0,/,7,0,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,7,5
+
+application_events
+8
+    2012-10-03,Application filed by Kayaba Industry Co Ltd
+    2014-04-11,Assigned to KAYABA INDUSTRY CO., LTD.
+    2014-08-28,Publication of US20140244093A1
+    2015-06-02,Application granted
+    2015-06-02,Publication of US9045152B2
+    2015-12-21,Assigned to KYB CORPORATION
+    Status,Expired - Fee Related
+    2032-10-03,Anticipated expiration
+
+active_area
+1
+    W,O
+
+not_active_area
+3
+    J,P
+    U,S
+    C,N
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2011225971A,2011-10-13,Electric assist cart
+    JP2011-225971,2011-10-13,
+    PCT/JP2012/075683,2012-10-03,Power-assisted carriage
+
+legal_event
+9
+    Date,Code,Title,Description
+    2014-04-11,AS,Assignment,Owner name: KAYABA INDUSTRY CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:SEKINE, SHINICHI;MIYATANI, OSAMU;SIGNING DATES FROM 20140307 TO 20140312;REEL/FRAME:032657/0560
+    2015-05-13,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2015-12-21,AS,Assignment,Owner name: KYB CORPORATION, JAPANFree format text: CHANGE OF NAME;ASSIGNOR:KAYABA INDUSTRY CO., LTD.;REEL/FRAME:037355/0086Effective date: 20151001
+    2018-11-20,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+    2023-01-23,FEPP,Fee payment procedure,Free format text: MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2023-07-10,LAPS,Lapse for failure to pay maintenance fees,Free format text: PATENT EXPIRED FOR FAILURE TO PAY MAINTENANCE FEES (ORIGINAL EVENT CODE: EXP.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2023-07-10,STCH,Information on status: patent discontinuation,Free format text: PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362
+    2023-08-01,FP,Lapsed due to failure to pay maintenance fee,Effective date: 20230602
+

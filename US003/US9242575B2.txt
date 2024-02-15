@@ -1,0 +1,228 @@
+ID
+    US9242575B2
+citation_exist
+    Patent Citations (14)
+citation_infor
+16
+    Publication number,Priority date,Publication date,Assignee,Title
+    KR20040001776A,2002-06-28,2004-01-07,현대자동차주식회사,System and method for controlling power conversion of fuel cell hybrid electric vehicle
+    US20060055349A1                      *,2003-06-05,2006-03-16,Toyota Jidosha Kabushiki Kaisha,Motor drive apparatus, vehicle having the same mounted therein, and computer readable storage medium having a program stored therein to cause computer to control voltage conversion
+    US20060062023A1                      *,2004-09-21,2006-03-23,Patwardhan Ajay V,Power converter
+    US20100209792A1                      *,2007-12-25,2010-08-19,Toyota Jidosha Kabushiki Kaisha,Fuel cell system
+    US20100273072A1                      *,2007-12-25,2010-10-28,Toyota Jidosha Kabushiki Kaisha,Fuel cell system
+    US20120043923A1                      *,2010-08-18,2012-02-23,Alexandr Ikriannikov,System, Method, Module, And Energy Exchanger For Optimizing Output Of Series-Connected Photovoltaic And Electrochemical Devices
+    US20140368041A1                      *,2013-06-17,2014-12-18,Mcmaster Universtiy,Reconfigurable hybrid energy storage system for electrified vehicles
+    Family To Family Citations,,,,
+    JP3871960B2                      *,2002-04-26,2007-01-24,日産自動車株式会社,Fuel cell system and fuel cell vehicle
+    US20060029845A1                      *,2004-08-06,2006-02-09,Masaaki Konoto,Fuel cell system
+    KR100645560B1                      *,2004-12-17,2006-11-14,현대자동차주식회사,Power division control method of hybrid vehicle
+    EP2631105B1                      *,2010-10-21,2017-03-22,Toyota Jidosha Kabushiki Kaisha,Electric vehicle power supply system, control method thereof, and electric vehicle
+    CN103441523B                      *,2013-07-31,2016-08-10,中国石油大学(华东),The new energy power generation comprehensive experiment device of novel modularized common DC bus
+    CN103547043B                      *,2013-11-07,2015-10-28,东莞市石龙富华电子有限公司,A kind of centralized direct-current micro-grid electric power system of LED and method for controlling power supply
+    CN103754130B                      *,2014-01-24,2016-01-20,电子科技大学,For energy recovery utilizing system and the method for Liquid Hydrogen fuel battery car
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (7)
+              
+
+
+citedBy_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20180069254A1                      *,2016-09-05,2018-03-08,Hyundai Motor Company,Shut down system and control method of fuel cell vehicle
+    US10632831B2,2017-11-29,2020-04-28,Ford Global Technologies, Llc,System and method for battery charging of a fuel cell plug-in hybrid vehicle having an electric compressor or turbocharger
+    Family To Family Citations,,,,
+    CN107949499B                      *,2015-07-28,2019-05-28,日产自动车株式会社,The control device of fuel-cell vehicle
+    US10774741B2                      *,2016-01-26,2020-09-15,General Electric Company,Hybrid propulsion system for a gas turbine engine including a fuel cell
+    US9597979B1                      *,2016-04-13,2017-03-21,GM Global Technology Operations LLC,Method of controlling regeneration and boost functions of a hybrid powertrain
+    KR102437708B1                      *,2017-05-11,2022-08-30,현대자동차주식회사,Generating system and method for fuel cell vehicle
+    KR102478086B1                      *,2017-11-22,2022-12-16,현대자동차주식회사,Fuel cell vehicle system and control method of the same
+
+abstract
+    A method and system for controlling a fuel cell vehicle are provided in which a bidirectional converter monitors a state of a fuel cell vehicle in real time to improve control responsiveness in a transient state of the fuel cell vehicle. The method includes receiving, by a bidirectional converter, a command for a current limiting value in the high voltage battery from the fuel cell controller while the fuel cell vehicle is driven. In addition, the bidirectional converter is configured to determine whether the fuel cell vehicle is switched to a predetermined mode and change the current limiting value of the high voltage battery. A predetermined control is performed by the bidirectional converter based on the changed current limiting value when the fuel cell vehicle is switched to the predetermined mode.
+title
+    Method and system for controlling a fuel cell vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US9242575B2,2016-01-26,Method and system for controlling a fuel cell vehicle
+    US9502725B2,2016-11-22,Fuel cell system with connector welding prevention
+    JP5143665B2,2013-02-13,Electric power system and fuel cell vehicle
+    US10793020B2,2020-10-06,Fuel cell vehicle system and method of controlling the same
+    US9821664B2,2017-11-21,System and method for emergency starting of fuel cell vehicle
+    US9242573B2,2016-01-26,System and method for controlling air supply of fuel cell vehicle
+    US9317050B2,2016-04-19,Method and apparatus for controlling converter in full cell vehicle
+    US9902285B2,2018-02-27,Power net system for fuel cell vehicle and method of controlling the same
+    CN107490766B,2021-09-10,System and method for measuring insulation resistance of fuel cell vehicle
+    US20150115899A1,2015-04-30,Method and apparatus for controlling charge of a low-voltage battery
+    WO2010143247A1,2010-12-16,Fuel cell system and power control method thereof
+    US10807499B2,2020-10-20,External power supply system and supply method of fuel cell vehicle
+    US10147960B2,2018-12-04,Shut down system and control method of fuel cell vehicle
+    US10179513B2,2019-01-15,Power net system of fuel cell vehicle and method for controlling the same
+    US10099573B2,2018-10-16,Drive system and vehicle
+    US20150318565A1,2015-11-05,System and method of controlling fuel cell vehicle
+    US10272797B2,2019-04-30,Method and system for controlling charging of low-voltage battery
+    US9919604B2,2018-03-20,Power net system of fuel cell vehicle and method for controlling the same
+    US9725011B2,2017-08-08,System and method for controlling emergency driving for fuel cell vehicle
+    CN105870981B,2021-01-08,Low voltage battery charger and method therefor
+    US9669728B2,2017-06-06,System and method for controlling LDC of hybrid vehicle
+    US10727554B2,2020-07-28,Fuel cell system
+    JP5167026B2,2013-03-21,Fuel cell system
+    US11207992B2,2021-12-28,Power conversion system for vehicles and control method thereof
+    US9637021B2,2017-05-02,Emergency start device of fuel cell vehicle for DC/DC converter failure
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    18
+classfication_items
+104
+    B,6,0,L,1,1,/,1,8,8,7
+    B,6,0,L,1,1,/,1,8,6,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,5,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,7,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,3,0
+    B,6,0,L,5,8,/,3,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,6,/,0,0
+    H,0,1,M,1,6,/,0,0,3
+    H,0,1,M,1,6,/,0,0,6
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,9,8
+    H,0,1,M,8,/,0,4,3,1,3
+    H,0,1,M,8,/,0,4,5,3,7
+    H,0,1,M,8,/,0,4,5,7,4
+    H,0,1,M,8,/,0,4,5,9,7
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,9,8
+    H,0,1,M,8,/,0,4,6,9,4
+    H,0,1,M,8,/,0,4,8,5,8
+    H,0,1,M,8,/,0,4,8,9,5
+    H,0,1,M,8,/,0,4,9,1,7
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,2,2,5,0,/,0,0
+    H,0,1,M,2,2,5,0,/,2,0
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,3,0
+    Y,0,2,E,6,0,/,5,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,4,0
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,4,4
+
+application_events
+7
+    2014-04-14,Application filed by Hyundai Motor Co
+    2014-04-14,Assigned to HYUNDAI MOTOR COMPANY
+    2015-04-23,Publication of US20150112530A1
+    2016-01-26,Application granted
+    2016-01-26,Publication of US9242575B2
+    Status,Active
+    2034-04-14,Anticipated expiration
+
+active_area
+4
+    K,R
+    U,S
+    C,N
+    D,E
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    KR1020130124412A,2013-10-18,Method and system for controlling fuel cell vehicle
+    KR10-2013-0124412,2013-10-18,
+
+legal_event
+6
+    Date,Code,Title,Description
+    2014-04-14,AS,Assignment,Owner name: HYUNDAI MOTOR COMPANY, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:KIM, JI TAE;LEE, JAEMOON;REEL/FRAME:032665/0718Effective date: 20140325
+    2015-12-07,FEPP,Fee payment procedure,Free format text: PAYER NUMBER DE-ASSIGNED (ORIGINAL EVENT CODE: RMPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYFree format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2016-01-06,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2019-06-24,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+    2023-06-26,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+

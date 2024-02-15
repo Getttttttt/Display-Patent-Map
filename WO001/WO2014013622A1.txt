@@ -1,0 +1,318 @@
+ID
+    WO2014013622A1
+citation_exist
+    Patent Citations (18)
+citation_infor
+20
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH07236203A                      *,1994-02-23,1995-09-05,Mitsubishi Electric Corp,電気自動車の制御装置
+    JP2007195334A                      *,2006-01-19,2007-08-02,Hitachi Ltd,鉄道車両の駆動装置
+    JP2010136553A                      *,2008-12-05,2010-06-17,Toyota Motor Corp,電源システムおよびそれを搭載した電動車両
+    JP2011168226A,2010-02-22,2011-09-01,Mitsubishi Heavy Ind Ltd,シリーズハイブリッド車両の制御装置
+    JP2012051457A                      *,2010-09-01,2012-03-15,Nissan Motor Co Ltd,ハイブリッド車両の制御装置
+    Family To Family Citations,,,,
+    JP3094745B2                      *,1993-09-24,2000-10-03,トヨタ自動車株式会社,ハイブリッド車の発電制御装置
+    DE4446485C2                      *,1994-12-23,2003-06-26,Daimler Chrysler Ag,Verfahren und Vorrichtung zum Abbremsen eines Kraftfahrzeuges mit Hybridantrieb
+    JPH08289407A                      *,1995-02-13,1996-11-01,Nippon Soken Inc,ハイブリッド車の発電制御装置
+    JP3536581B2                      *,1997-04-16,2004-06-14,日産自動車株式会社,ハイブリッド電気自動車の発電制御装置
+    JP3767103B2                      *,1997-07-16,2006-04-19,日産自動車株式会社,電気自動車の制御装置
+    JP3908400B2,1998-12-01,2007-04-25,株式会社明電舎,シリーズハイブリッド電気自動車
+    JP3912475B2                      *,2000-02-24,2007-05-09,三菱ふそうトラック・バス株式会社,ハイブリッド電気自動車の発電制御装置
+    JP2002271908A,2001-03-13,2002-09-20,Meidensha Corp,シリーズハイブリッド電気自動車
+    JP3661689B2                      *,2003-03-11,2005-06-15,トヨタ自動車株式会社,モータ駆動装置、それを備えるハイブリッド車駆動装置、モータ駆動装置の制御をコンピュータに実行させるプログラムを記録したコンピュータ読取り可能な記録媒体
+    JP2005253126A                      *,2004-03-01,2005-09-15,Nissan Motor Co Ltd,ハイブリッド車両の制動力制御装置および該制御装置を搭載した車両
+    US7267191B2                      *,2004-07-30,2007-09-11,Ford Global Technologies, Llc,System and method for battery protection strategy for hybrid electric vehicles
+    FR2921884A1                      *,2007-10-03,2009-04-10,Peugeot Citroen Automobiles Sa,Procede de pilotage d'une chaine de traction hybride base sur l'etat de charge de la batterie.
+    JP2009232652A                      *,2008-03-25,2009-10-08,Aisin Aw Co Ltd,回転電機制御システム及び当該回転電機制御システムを備えた車両駆動システム
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (11)
+              
+
+
+citedBy_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN105452628A                      *,2014-02-25,2016-03-30,三菱重工业株式会社,增压器及船舶
+    JP2017038499A                      *,2015-08-12,2017-02-16,東洋電機製造株式会社,電力変換システム
+    Family To Family Citations,,,,
+    US9346363B2                      *,2012-08-13,2016-05-24,Mitsubishi Electric Corporation,Propulsion control apparatus of engine hybrid railroad vehicle
+    WO2014162656A1                      *,2013-04-02,2014-10-09,パナソニック株式会社,エンジン駆動車両に用いられる電動駆動装置
+    JP6272291B2                      *,2015-12-24,2018-01-31,株式会社Ｓｕｂａｒｕ,車両用電源装置
+    US10183662B1                      *,2016-01-04,2019-01-22,Hydro-Gear Limited Partnership,Regeneration power control
+    US11014549B1                      *,2016-01-04,2021-05-25,Hydro-Gear Limited Partnership,Regeneration power control
+    WO2018195064A1                      *,2017-04-17,2018-10-25,Autonomous Tractor Corporation,Electric and hydraulic drive system and methods
+    JP7059790B2,2018-05-15,2022-04-26,トヨタ自動車株式会社,車両の駆動装置、および車両の制御方法
+    JP2020108256A                      *,2018-12-27,2020-07-09,トヨタ自動車株式会社,車載バッテリ充電システム
+    EP3681034A1                      *,2019-01-08,2020-07-15,Hamilton Sundstrand Corporation,Electric propulsion systems
+
+abstract
+    エンジンに連結される発電機が出力する交流電力を直流電力に変換するコンバータを制御して発電機の発電量を制御する発電制御部７は、電力貯蔵装置に対する直流電圧指令値Ｖｄｃ＿ｒｅｆと、直流リンク部の直流電圧Ｖｄｃとの差分電圧値ΔＶｄｃに基づいて発電機に対する回転速度指令値ωｃ＿ｒｅｆ１を算出し、この回転速度指令値ωｃ＿ｒｅｆ１に基づいて、コンバータの出力をＰＷＭ制御して発電機の回転速度ωｃを回転速度指令値ωｃ＿ｒｅｆ１に追従させると共に直流電圧Ｖｄｃを直流電圧指令値Ｖｄｃ＿ｒｅｆに追従させることで過電圧を防止する。
+title
+    ハイブリッド車両の制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP5384771B1,2014-01-08,ハイブリッド車両の制御装置
+    KR101684543B1,2016-12-20,하이브리드 차량의 운전 모드 제어 시스템 및 그 방법
+    JP5477030B2,2014-04-23,電動車両の制御装置
+    EP1247687B1,2007-08-08,Control apparatus for electric motor and control apparatus for hybrid vehicle
+    US11332115B2,2022-05-17,Power regeneration system of work vehicle
+    CN107985302B,2020-06-05,车辆
+    JP2019069679A,2019-05-09,ハイブリッド車両
+    JP2018043678A,2018-03-22,ハイブリッド車の作動制御装置
+    JP2008295300A,2008-12-04,蓄電器を備えた車両の電力制限装置
+    CN109689455B,2022-04-01,车辆
+    JP5911513B2,2016-04-27,ハイブリッド車両の発電機制御装置
+    JP2012045996A,2012-03-08,ハイブリッド車両の発電制御装置
+    JP5419745B2,2014-02-19,シリーズハイブリッド車両の制御装置
+    WO2013114575A1,2013-08-08,車両制御装置および鉄道用ハイブリッド車両の制御方法
+    CN110271432B,2022-11-08,具备发电装置的车辆和车辆搭载发电装置的发电控制方法
+    JP5450238B2,2014-03-26,電動車両
+    JP5353365B2,2013-11-27,車両システム
+    JP2022063117A,2022-04-21,回生制御方法及び回生制御装置
+    KR101171831B1,2012-08-14,하이브리드 자동차의 ｐｉｄ 피드백 제어 시스템
+    JP6147380B2,2017-06-14,ハイブリッド車両の発電機制御装置
+    WO2018066624A1,2018-04-12,電源システム制御装置
+    US11702062B2,2023-07-18,MHEV operating strategy for optimized driving dynamics
+    WO2023127344A1,2023-07-06,鉄道車両用駆動システムおよび鉄道車両用駆動システムの駆動方法
+    JP6567362B2,2019-08-28,電力変換システム
+    JP2022093977A,2022-06-24,電源システム
+
+patent_application
+    NoExist
+patent_priority_application
+6
+    Application,Priority date,Filing date,Title
+    US14/415,915,2012-07-20,2012-07-20,Control device for hybrid vehicle
+    AU2012385593A,2012-07-20,2012-07-20,Hybrid vehicle control device
+    PCT/JP2012/068519,2012-07-20,2012-07-20,ハイブリッド車両の制御装置
+    EP12881189.0A,2012-07-20,2012-07-20,Hybrid vehicle control device
+    JP2013506402A,2012-07-20,2012-07-20,ハイブリッド車両の制御装置
+
+inventor_number
+    6
+classfication_nums
+    28
+classfication_items
+176
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,2
+    B,6,0,L,1,5,/,0,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,4
+    B,6,0,W,1,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2012-07-20,Application filed by 三菱電機株式会社
+    2012-07-20,Priority to US14/415,915
+    2012-07-20,Priority to AU2012385593A
+    2012-07-20,Priority to PCT/JP2012/068519
+    2012-07-20,Priority to EP12881189.0A
+    2012-07-20,Priority to JP2013506402A
+    2014-01-23,Publication of WO2014013622A1
+
+active_area
+4
+    E,P
+    W,O
+    J,P
+    U,S
+
+not_active_area
+1
+    A,U
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2012/068519,2012-07-20,ハイブリッド車両の制御装置
+
+legal_event
+7
+    Date,Code,Title,Description
+    2013-02-12,ENP,Entry into the national phase,Ref document number: 2013506402Country of ref document: JPKind code of ref document: A
+    2014-03-12,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 12881189Country of ref document: EPKind code of ref document: A1
+    2015-01-19,WWE,Wipo information: entry into national phase,Ref document number: 2012881189Country of ref document: EP
+    2015-01-20,NENP,Non-entry into the national phase,Ref country code: DE
+    2015-01-20,WWE,Wipo information: entry into national phase,Ref document number: 14415915Country of ref document: US
+    2015-02-05,ENP,Entry into the national phase,Ref document number: 2012385593Country of ref document: AUDate of ref document: 20120720Kind code of ref document: A
+

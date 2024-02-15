@@ -1,0 +1,269 @@
+ID
+    US20190152482A1
+citation_exist
+    Patent Citations (7)
+citation_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP3365301B2                      *,1998-03-19,2003-01-08,トヨタ自動車株式会社,Vehicle braking energy control apparatus and control method thereof
+    JP4134706B2                      *,2002-12-10,2008-08-20,日産自動車株式会社,Braking device for vehicle
+    US8332113B2                      *,2007-04-16,2012-12-11,Advics Co., Ltd,Brake control apparatus for vehicle
+    JP2009012726A                      *,2007-07-09,2009-01-22,Toyota Motor Corp,Control device for hybrid vehicle
+    CN104105609B                      *,2012-02-24,2016-07-27,丰田自动车株式会社,Vehicular behavior controls device
+    FR2998528B1                      *,2012-11-26,2015-02-06,Renault Sa,SYSTEM AND METHOD FOR CONTROLLING A MOTOR VEHICLE WITH INDEPENDENT BACK-ELECTRIC MACHINES
+    US9975436B2                      *,2015-09-12,2018-05-22,GM Global Technology Operations LLC,Regeneration strategy for a vehicle having decoupled front and rear axle drive actuators
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    CN106427601B                      *,2015-08-11,2019-02-26,比亚迪股份有限公司,The braking system and method and electric car of electric car based on four-wheel drive
+    US10647311B2                      *,2017-11-09,2020-05-12,Robert Bosch Gmbh,System and method for motor brake boost function failure
+    US11503053B2,2019-12-20,2022-11-15,Beijing Voyager Technology Co., Ltd.,Security management of an autonomous vehicle
+    CN113085820B                      *,2021-04-23,2022-05-27,精诚工科汽车系统有限公司,Redundant brake control method and system, brake system and storage medium
+
+abstract
+    Brake force distribution via a combination of mechanical braking and regenerative braking techniques is described. In an example, a brake system of a vehicle can detect a braking action and can cause a first negative force to be distributed across two or more wheel assemblies associated with the vehicle. A control system of the vehicle can send a command to at least a power system of the vehicle to cause the power system to affect a second negative force on a first wheel assembly and a positive force on a second wheel assembly to cause an uneven distribution of brake force between the first wheel assembly and the second wheel assembly. As a result, a combined net braking force is applied to the front wheels—the wheels with the most grip—and a reduced net braking force to is applied to the rear wheels to prevent rear-wheel lock-up.
+title
+    Brake force distribution
+similar_document
+26
+    Publication,Publication Date,Title
+    US10322724B2,2019-06-18,Brake force distribution
+    EP3851345A1,2021-07-21,Wheel slip based vehicle motion management for heavy duty vehicles
+    JP6992087B2,2022-01-13,Vehicles and their control systems and methods
+    JP6936350B2,2021-09-15,Vehicle control device and vehicle control method
+    CN110531746B,2023-06-02,Automatic driving vehicle control method and system and vehicle
+    WO2019116458A1,2019-06-20,Vehicle, and control system and control method therefor
+    US8655528B2,2014-02-18,Real-time allocation of actuator torque in a vehicle
+    US11634033B2,2023-04-25,Systems and methods of vehicular braking
+    US11305747B1,2022-04-19,Control for brake system of vehicle
+    US11760366B2,2023-09-19,Vehicle control apparatus, vehicle, vehicle control method, and non transitory computer readable storage medium
+    KR20220064317A,2022-05-18,A method for controlling an actuator of a vehicle
+    JP6979091B2,2021-12-08,Vehicle control devices, vehicles, vehicle control methods and programs
+    US20230237858A1,2023-07-27,Vehicle management device and vehicle management method
+    US20220153146A1,2022-05-19,Vehicle motion management system and an actuator control system for a vehicle
+    US20220348087A1,2022-11-03,Preventing unwanted trailer movement
+    US20230234598A1,2023-07-27,Vehicle and method for diagnosing deterioration of on-vehicle component
+    US20220135040A1,2022-05-05,Vehicle motion management system and a motion support system for a vehicle
+    US20230086041A1,2023-03-23,Axial gap motor and vehicle
+    US20230245505A1,2023-08-03,Vehicle management system and vehicle inspection method
+    WO2023143717A1,2023-08-03,Heavy-duty vehicle motion support device capability feedback
+    KR20230109146A,2023-07-19,Predictive Energy and Motion Management for Multitrailer Heavy Vehicles
+    WO2023193893A1,2023-10-12,Method and system for controlling an electrically powered heavy commercial vehicle
+    WO2022194357A1,2022-09-22,An electrically powered trailer with an endurance braking function
+    JP2023060823A,2023-04-28,Wheel slip boost function for large vehicle
+    KR20230033589A,2023-03-08,Vehicle control based on a dynamically configured sideslip limit
+
+patent_application
+2
+    Application,Priority date,Filing date,Relation,Title
+    US15/784,017,2017-10-13,2017-10-13,Continuation,Brake force distribution
+
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US16/259,163,2017-10-13,2019-01-28,Brake force distribution
+
+inventor_number
+    4
+classfication_nums
+    25
+classfication_items
+151
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,8,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,5,0
+    B,6,0,L,5,3,/,5,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,6
+    B,6,0,T,8,/,1,7,6,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,1,0,/,0,0
+    B,6,0,T,2,2,1,0,/,1,0
+    B,6,0,T,2,2,1,0,/,1,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+
+application_events
+8
+    2019-01-28,Application filed by Zoox Inc
+    2019-01-28,Priority to US16/259,163
+    2019-05-23,Publication of US20190152482A1
+    2019-06-18,Application granted
+    2019-06-18,Publication of US10322724B2
+    2020-02-02,Assigned to Zoox, Inc.
+    Status,Active
+    2037-10-13,Anticipated expiration
+
+active_area
+2
+    U,S
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    US15/784,017,2017-10-13,Brake force distribution
+    US16/259,163,2019-01-28,Brake force distribution
+
+legal_event
+5
+    Date,Code,Title,Description
+    2019-01-28,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2019-05-29,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2020-02-02,AS,Assignment,Owner name: ZOOX, INC., CALIFORNIAFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:EDREN, JOHANNES;BOECKER, MORITZ;FLATLAND, RYAN O'LEARY;REEL/FRAME:051694/0970Effective date: 20171016
+    2022-12-16,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

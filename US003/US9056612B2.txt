@@ -1,0 +1,268 @@
+ID
+    US9056612B2
+citation_exist
+    Patent Citations (6)
+citation_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20070112475A1                      *,2005-11-17,2007-05-17,Motility Systems, Inc.,Power management systems and devices
+    US20090326750A1                      *,2006-09-28,2009-12-31,Toyota Jidosha Kabushiki Kaisha,Vehicle control device, vehicle control method, program for causing computer to execute vehicle control method, and recording medium having program recorded thereon
+    US20110313647A1                      *,2005-11-17,2011-12-22,Motility Systems,Power management systems and designs
+    Family To Family Citations,,,,
+    JP3216082B2                      *,1997-09-17,2001-10-09,本田技研工業株式会社,Control device for hybrid vehicle
+    JP4023445B2                      *,2003-12-25,2007-12-19,株式会社エクォス・リサーチ,Control device for hybrid vehicle
+    JP2006306231A                      *,2005-04-27,2006-11-09,Equos Research Co Ltd,Hybrid car
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (13)
+              
+
+
+citedBy_infor
+15
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP5920309B2                      *,2013-10-21,2016-05-18,トヨタ自動車株式会社,Movement support device, movement support method, and driving support system
+    JP5967051B2                      *,2013-10-21,2016-08-10,トヨタ自動車株式会社,Movement support device, movement support method, and driving support system
+    JP6007929B2                      *,2014-02-24,2016-10-19,トヨタ自動車株式会社,Movement support device, movement support method, and driving support system
+    JP5929945B2                      *,2014-02-24,2016-06-08,トヨタ自動車株式会社,Movement support device, movement support method, and driving support system
+    JP6354713B2                      *,2015-09-04,2018-07-11,トヨタ自動車株式会社,Hybrid car
+    CN106677913B                      *,2015-11-10,2019-11-01,中联重科股份有限公司,Power and load matched control method, device, system and haulage vehicle
+    JP6421742B2                      *,2015-11-27,2018-11-14,株式会社デンソー,Vehicle control device
+    JP6355112B2                      *,2016-08-23,2018-07-11,本田技研工業株式会社,VEHICLE CONTROL DEVICE AND INFORMATION PROVIDING METHOD
+    JP7119941B2                      *,2018-11-22,2022-08-17,トヨタ自動車株式会社,vehicle control system
+    CN111791881B                      *,2020-07-17,2021-09-21,上海汽车集团股份有限公司,Automatic parking method and device
+    JP7314894B2                      *,2020-09-23,2023-07-26,トヨタ自動車株式会社,Vehicle driving route indicator
+    JP2022150307A                      *,2021-03-26,2022-10-07,本田技研工業株式会社,Driving force sharing system
+    CN114483258B                      *,2022-02-11,2023-07-07,中国第一汽车股份有限公司,Driving data processing method, processing device and processor
+
+abstract
+    A driving force control device for a hybrid vehicle includes: a travel load calculation unit adapted to divide a predicted route from a current position to a predetermined distance ahead into a plurality of intervals, and to estimate a travel load in each interval; a recommended discharge amount calculation unit adapted to search for a regeneration possible interval, in which a travel condition required by a driver can be maintained even when an output of an internal combustion engine is stopped and regeneration is performed by a motor/generator, from an estimation result, and to estimate a charge amount expected value in the regeneration possible interval, and distributes the charge amount expected value preferentially to an adjacent interval to the regeneration possible interval as a recommended discharge amount in order to stop the output of the internal combustion engine; and an energy management unit that controls an operation of the motor/generator in the current position on the basis of a travel condition, a state of charge, and the recommended discharge amount in the current position.
+title
+    Driving force control device for hybrid vehicle and driving force control method for hybrid vehicle
+similar_document
+23
+    Publication,Publication Date,Title
+    US9056612B2,2015-06-16,Driving force control device for hybrid vehicle and driving force control method for hybrid vehicle
+    US10513255B2,2019-12-24,Hybrid electric vehicle control system and method
+    US10259445B2,2019-04-16,Vehicle and method of control thereof
+    KR101713734B1,2017-03-08,Method and apparatus of controlling hybrid electric vehicle
+    US11279359B2,2022-03-22,Method and apparatus for assisting in the maintenance of a vehicle speed within a speed range, and a vehicle comprising such an apparatus
+    US9539996B2,2017-01-10,Energy management control of a plug-in hybrid electric vehicle
+    CN108688642B,2023-07-18,Autonomous vehicle constant speed control system
+    CN109563782B,2021-09-03,Method of controlling operation of engine
+    JP6331295B2,2018-05-30,Automatic traveling device for vehicle, vehicle, and automatic traveling method for vehicle
+    JP2017206244A,2017-11-24,Vehicle and controlling method thereof
+    US20130211686A1,2013-08-15,Vehicular drive control apparatus
+    KR20190069772A,2019-06-20,Hybrid vehicle and method of searching for efficient path thereof
+    JP6813430B2,2021-01-13,Vehicle control device
+    JP5201039B2,2013-06-05,Gear ratio control apparatus and gear ratio control method for vehicle
+    JP6210677B2,2017-10-11,Travel control device for hybrid electric vehicle
+    JP5971350B2,2016-08-17,Control device for hybrid vehicle
+    KR20190081379A,2019-07-09,Management method for battery SOC of hybrid electric vehicle
+    JP6593045B2,2019-10-23,Hybrid vehicle and control method thereof
+    JP6593044B2,2019-10-23,Hybrid vehicle and control method thereof
+    JP2016175500A,2016-10-06,Hybrid vehicle and control method therefor
+    CN113022558A,2021-06-25,Method for controlling hybrid power system
+    JP2016175501A,2016-10-06,Hybrid vehicle and control method therefor
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    7
+classfication_nums
+    24
+classfication_items
+149
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,4
+    B,6,0,W,1,0,/,2,6
+    B,6,0,W,2,0,/,1,0,6,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,5,0
+    B,6,0,K,6,/,5,4
+    B,6,0,K,6,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B,6,0,W,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,6,/,0,0
+    B,6,0,W,2,5,5,6,/,4,5
+    B,6,0,W,2,5,5,6,/,5,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,2,4
+    B,6,0,W,2,7,1,0,/,2,4,2
+    B,6,0,W,2,7,1,0,/,2,4,8
+    F
+    F,0,2
+    F,0,2,D
+    F,0,2,D,2,9,/,0,0
+    F,0,2,D,2,9,/,0,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,3
+
+application_events
+7
+    2013-03-13,Application filed by Nissan Motor Co Ltd
+    2014-09-15,Assigned to NISSAN MOTOR CO., LTD.
+    2015-02-26,Publication of US20150057860A1
+    2015-06-16,Application granted
+    2015-06-16,Publication of US9056612B2
+    Status,Active
+    2033-03-13,Anticipated expiration
+
+active_area
+4
+    J,P
+    W,O
+    U,S
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2012-060119,2012-03-16,
+    JP2012060119,2012-03-16,
+    PCT/JP2013/056961,2013-03-13,Driving power control apparatus for hybrid vehicle, and driving power control method for hybrid vehicle
+
+legal_event
+5
+    Date,Code,Title,Description
+    2014-09-15,AS,Assignment,Owner name: NISSAN MOTOR CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:KATAKURA, SHUSAKU;HASE, TAKAMITSU;YAMAMOTO, YOSHINORI;AND OTHERS;SIGNING DATES FROM 20140627 TO 20140701;REEL/FRAME:033737/0503
+    2015-05-27,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2018-11-29,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+    2022-11-16,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+

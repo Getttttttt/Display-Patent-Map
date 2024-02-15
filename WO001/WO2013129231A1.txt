@@ -1,0 +1,223 @@
+ID
+    WO2013129231A1
+citation_exist
+    Patent Citations (4)
+citation_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2003333835A                      *,2002-05-10,2003-11-21,Toyota Motor Corp,電源システム、電源制御方法、および電源制御をコンピュータに実行させるプログラムを記録したコンピュータ読取り可能な記録媒体
+    JP2009131077A                      *,2007-11-26,2009-06-11,Toyota Motor Corp,車両の電源装置
+    JP2010183672A                      *,2009-02-03,2010-08-19,Toyota Motor Corp,充電システム、電動車両および充電制御方法
+    JP2010200529A                      *,2009-02-26,2010-09-09,Omron Corp,充電制御装置および方法、充電装置、並びに、プログラム
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (11)
+              
+
+
+citedBy_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    WO2016095936A1                      *,2014-12-15,2016-06-23,Volvo Truck Corporation,A method and device for charging an electric energy storage system in a vehicle
+    CN110182150A                      *,2018-02-22,2019-08-30,本田技研工业株式会社,车辆用电源装置
+    CN111527689A                      *,2017-12-27,2020-08-11,日本电产株式会社,马达控制装置
+    CN111823951A                      *,2020-06-29,2020-10-27,永安行科技股份有限公司,助力车动力电池系统及持续供能控制方法
+    Family To Family Citations,,,,
+    JP6227984B2                      *,2013-11-27,2017-11-08,京セラ株式会社,電力変換装置及び電力変換方法
+    JP6502088B2                      *,2014-12-25,2019-04-17,国立大学法人横浜国立大学,電源システム、車両及び電圧制御方法
+    JP6596965B2                      *,2015-06-23,2019-10-30,三菱自動車工業株式会社,電動車両
+    JP2017212775A                      *,2016-05-23,2017-11-30,三菱自動車工業株式会社,電動車両
+    JP2018098827A                      *,2016-12-08,2018-06-21,富士通株式会社,電源装置、電源装置の制御回路及び電源装置の制御方法
+    JP7024667B2                      *,2018-08-30,2022-02-24,トヨタ自動車株式会社,車両用電源システム
+    JP7196702B2                      *,2019-03-14,2022-12-27,株式会社デンソー,高電圧補機および高電圧補機制御システム
+
+abstract
+    少なくともモータ３０に電力を供給する第１バッテリと、モータ３０以外の第１負荷に電力を供給する第２バッテリと、第１バッテリと前記第２バッテリとの間に接続され、少なくとも第１バッテリの直流電力を変換して第１負荷又は前記第２バッテリに直流電力を出力する第１電力変換器と、外部電源により第１バッテリを充電する場合に、第１電力変換器の動作を停止させる制御部とを備える。
+title
+    電源装置
+similar_document
+26
+    Publication,Publication Date,Title
+    WO2013129231A1,2013-09-06,電源装置
+    US9315112B2,2016-04-19,Power source apparatus for electrically powered vehicle and control method therefor
+    US8963482B2,2015-02-24,Power supply apparatus for electrically powered vehicle and method for controlling the same
+    KR101189237B1,2012-10-09,하이브리드 자동차의 충전장치 및 방법
+    KR101171908B1,2012-08-07,플러그인 하이브리드 자동차의 충전장치
+    WO2012144045A1,2012-10-26,電動車両の電源装置およびその制御方法
+    RU2480348C2,2013-04-27,Гибридное транспортное средство
+    US9960612B2,2018-05-01,Charging and discharging system for a vehicle including a first fuse in the vehicle and a second fuse in a cable connected to the vehicle
+    JP5759060B2,2015-08-05,電源装置及びその制御方法
+    KR102478091B1,2022-12-16,차량용 배터리 충전 제어 시스템 및 방법
+    US9493081B2,2016-11-15,Power supply system, vehicle equipped with the same, and control method for power supply system
+    JP2003180002A,2003-06-27,車両用電源装置
+    WO2014061137A1,2014-04-24,電源管理システムおよび電源管理方法
+    CN102574470A,2012-07-11,车辆的充电系统及包含该车辆的充电系统的电动车辆
+    US10625622B2,2020-04-21,Power supply device of vehicle
+    JP6183709B2,2017-08-23,電動車両の充放電システム
+    JP7252807B2,2023-04-05,電源システム
+    WO2015071712A1,2015-05-21,Charging and discharging system with connector lock
+    JP2013074733A,2013-04-22,充電制御装置
+    JP6204797B2,2017-09-27,車両用電源装置
+    JP2020099103A,2020-06-25,車両のバッテリ充電制御装置
+    KR101330349B1,2013-11-15,전력 변환 장치 및 이를 이용한 전력 변환 방법
+    EP3068656A1,2016-09-21,Vehicle and charging and discharging system using vehicle
+    KR20150121639A,2015-10-29,하이브리드 자동차의 구동회로 및 그 제어방법
+    JP2013027236A,2013-02-04,バッテリの充電システムおよび車両の充電システム
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    19
+classfication_items
+114
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,1,0
+    B,6,0,L,5,3,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,5,/,0,0
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,3,4
+    H,0,2,J,7,/,3,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,2
+    B,6,0,L,2,2,4,0,/,6,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,1,0
+    B,6,0,L,2,2,7,0,/,1,4
+    B,6,0,L,2,2,7,0,/,1,4,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+2
+    2013-02-21,Application filed by 日産自動車株式会社
+    2013-09-06,Publication of WO2013129231A1
+
+active_area
+2
+    J,P
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2012-039943,2012-02-27,
+    JP2012039943A,2012-02-27,電源装置
+
+legal_event
+4
+    Date,Code,Title,Description
+    2013-10-23,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 13754383Country of ref document: EPKind code of ref document: A1
+    2014-08-27,NENP,Non-entry into the national phase,Ref country code: DE
+    2015-03-25,122,Ep: pct application non-entry in european phase,Ref document number: 13754383Country of ref document: EPKind code of ref document: A1
+

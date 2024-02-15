@@ -1,0 +1,151 @@
+ID
+    JP2023034058A
+citation_exist
+    NoCitation
+citation_infor
+    NoCitation
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    【課題】電磁弁故障の検出精度を向上させる。【解決手段】ＥＣＵ１は、車両に搭載される電磁弁２を制御し、シャント抵抗器１５および電流検出回路１６と、マイクロコンピュータ１９とを備える。シャント抵抗器１５および電流検出回路１６は、電磁弁２への電源供給が停止された直後に電磁弁２に還流する回生電流を検出する。マイクロコンピュータ１９は、回生電流の時間変化における回生電流特異点を検出する。そしてマイクロコンピュータ１９は、回生電流特異点の検出結果に基づいて、電磁弁２の固着故障を検出する。【選択図】図９
+title
+    電子制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP6237952B2,2017-11-29,内部電源回路および半導体装置
+    US10088882B2,2018-10-02,Electronic control unit having multiple power supply routes for microcomputer core
+    US10771054B2,2020-09-08,Control circuit for solid state power controller
+    JP2023034058A,2023-03-13,電子制御装置
+    JP4736569B2,2011-07-27,誘導性負荷の異常検出装置
+    US11128120B2,2021-09-21,Inductive load control device
+    JP6624339B2,2019-12-25,電源装置
+    JP7363955B2,2023-10-18,給電制御装置、給電制御方法及びコンピュータプログラム
+    JP6053235B2,2017-01-11,電源装置
+    JP2015035937A,2015-02-19,Ｄｃ−ｄｃコンバータ
+    US20060050461A1,2006-03-09,Method and device for actuating a power circuit breaker
+    JP7052517B2,2022-04-12,負荷駆動装置
+    CN107061034B,2021-08-17,用于喷射器的驱动及控制模块及其操作方法
+    US10134974B2,2018-11-20,Method for identifying an overcurrent when charging a piezo actuator
+    JP2020058005A,2020-04-09,電子制御装置
+    TWI764235B,2022-05-11,過壓保護電路
+    JP7361740B2,2023-10-16,電動機制御装置
+    US20220052520A1,2022-02-17,Overvoltage protection circuit
+    EP3916941A1,2021-12-01,Inrush current limiter and system including the same
+    JP7135810B2,2022-09-13,噴射制御装置
+    US11081884B2,2021-08-03,Semiconductor device
+    JP4665561B2,2011-04-06,電圧駆動型半導体素子の直列接続方式
+    JP6965588B2,2021-11-10,電子装置
+    JP2017103961A,2017-06-08,電圧変換回路
+    JP2021134732A,2021-09-13,燃料噴射弁駆動装置
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    JP2021140124A,2021-08-30,2021-08-30,電子制御装置
+    US17/878,109,2021-08-30,2022-08-01,Electronic control device
+
+inventor_number
+    12
+classfication_nums
+    10
+classfication_items
+66
+    H
+    H,0,1
+    H,0,1,F
+    H,0,1,F,7,/,0,0
+    H,0,1,F,7,/,0,6
+    H,0,1,F,7,/,0,6,4
+    B
+    B,6,0
+    B,6,0,R
+    B,6,0,R,1,6,/,0,0
+    B,6,0,R,1,6,/,0,2
+    B,6,0,R,1,6,/,0,3
+    B,6,0,R,1,6,/,0,3,3
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,6,6
+    B,6,0,T,1,3,/,6,6,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,4
+    B,6,0,T,8,/,3,6
+    B,6,0,T,8,/,3,6,1,5
+    B,6,0,T,8,/,3,6,3
+    B,6,0,T,8,/,3,6,5
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,1,/,0,0
+    F
+    F,1,6
+    F,1,6,K
+    F,1,6,K,3,1,/,0,0
+    F,1,6,K,3,1,/,0,2
+    F,1,6,K,3,1,/,0,6
+    F
+    F,1,6
+    F,1,6,K
+    F,1,6,K,3,7,/,0,0
+    F,1,6,K,3,7,/,0,0,2,5
+    F,1,6,K,3,7,/,0,0,4,1
+    G
+    G,0,7
+    G,0,7,C
+    G,0,7,C,5,/,0,0
+    G,0,7,C,5,/,0,8
+    G,0,7,C,5,/,0,8,0,8
+    H
+    H,0,1
+    H,0,1,F
+    H,0,1,F,7,/,0,0
+    H,0,1,F,7,/,0,6
+    H,0,1,F,7,/,0,8
+    H,0,1,F,7,/,1,8
+    H,0,1,F,7,/,1,8,4,4
+
+application_events
+5
+    2021-08-30,Application filed by Denso Corp
+    2021-08-30,Priority to JP2021140124A
+    2022-08-01,Priority to US17/878,109
+    2023-03-13,Publication of JP2023034058A
+    Status,Pending
+
+active_area
+2
+    J,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2021140124A,2021-08-30,電子制御装置
+
+legal_event
+    NoExist

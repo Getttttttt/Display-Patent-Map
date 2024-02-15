@@ -1,0 +1,194 @@
+ID
+    WO2011064846A1
+citation_exist
+    Patent Citations (11)
+citation_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH05297079A                      *,1992-04-23,1993-11-12,Toshiba Corp,誘導電動機制御装置
+    JPH11262102A                      *,1998-03-12,1999-09-24,Toshiba Corp,電気車の制御装置
+    JP2007189897A                      *,2007-04-16,2007-07-26,Hitachi Ltd,交流電動機の制御方法
+    Family To Family Citations,,,,
+    JPH048192A,1990-04-25,1992-01-13,Hitachi Ltd,Resistance measuring method and device for motor and control method and device for electric vehicle
+    JP2505325B2,1991-06-10,1996-06-05,東洋電機製造株式会社,誘導電動機の抵抗推定起動装置
+    JPH09304489A                      *,1996-05-09,1997-11-28,Matsushita Electric Ind Co Ltd,誘導電動機のモータ定数測定方法
+    JP4816838B2                      *,2000-07-13,2011-11-16,株式会社安川電機,誘導電動機のベクトル制御装置
+    JP3826787B2                      *,2001-12-27,2006-09-27,アイシン・エィ・ダブリュ株式会社,電動車両駆動制御装置、電動車両駆動制御方法及びそのプログラム
+    CN101029915B                      *,2006-09-11,2010-05-12,国电南瑞科技股份有限公司,交流感应电动机的绕组温度测量和过热保护方法
+    JP5107581B2                      *,2007-01-12,2012-12-26,三菱電機株式会社,電気車の制御装置
+    CN101188398A                      *,2007-11-30,2008-05-28,艾默生网络能源有限公司,异步电机转子电阻的在线识别方法
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20150194918A1                      *,2012-08-09,2015-07-09,Mitsubishi Electric Corporation,Control device for electric car
+    WO2019093064A1                      *,2017-11-08,2019-05-16,株式会社日立製作所,誘導電動機の駆動装置および駆動方法
+    Family To Family Citations,,,,
+    CN107846159B                      *,2017-09-05,2019-10-29,珠海格力电器股份有限公司,电机的控制方法、装置、存储介质、设备及脉冲提取电路
+    CN112133987A                      *,2019-06-25,2020-12-25,北京新能源汽车股份有限公司,一种动力电池的加热控制方法及装置
+
+abstract
+    任意のｄｑ軸電圧指令Ｖｄ＊、Ｖｑ＊に基づいて誘導機１を駆動する電力変換器２と、外部からの力行指令Ｐ、ブレーキ指令Ｂに基づき電力変換器２を制御する制御部４０とを備え、制御部４０は、誘導機１にて検出された相電流情報ｉｕ、ｉｖ、ｉｗを直交回転座標上のｄｑ軸電流検出値ｉｄ、ｉｑに変換するｄｑ／三相変換部１０と、力行指令Ｐ、ブレーキ指令Ｂ、およびｄｑ軸電流検出値ｉｄ、ｉｑに基づいて、電力変換器２に対するｄｑ軸電圧指令Ｖｄ＊、Ｖｑ＊を演算すると共に、誘導機１の速度が零であることを判断する速度判断部４と、ブレーキ指令Ｂから力行指令Ｐに変更になり、かつ、速度判断部４が誘導機１の速度を零と判断したときに、力行指令Ｐ、ｄ軸電流検出値ｉｄ、およびｄ軸電圧指令Ｖｄ＊に基づいて、誘導機１の抵抗値を演算する抵抗演算部５と、を有する。
+title
+    電気車の電力変換装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP5130031B2,2013-01-30,永久磁石モータの位置センサレス制御装置
+    JP4677852B2,2011-04-27,永久磁石同期モータのベクトル制御装置
+    JP5025142B2,2012-09-12,モータ制御装置
+    KR102108911B1,2020-05-12,드라이브 시스템 및 인버터 장치
+    JP4860012B2,2012-01-25,電気車の電力変換装置
+    EP3200340B1,2019-01-23,Power conversion device
+    JP4406552B2,2010-01-27,電動機の制御装置
+    WO2014118958A1,2014-08-07,永久磁石同期電動機の減磁診断装置
+    JP4912516B2,2012-04-11,電力変換装置
+    JP6954149B2,2021-10-27,交流電動機の制御装置
+    JP4738549B2,2011-08-03,電気車の電力変換装置
+    JP5934295B2,2016-06-15,インバータシステムにおける電力ケーブルの状態検出方法
+    JP2009278760A,2009-11-26,モータ制御装置及びモータ制御方法
+    JP2010041868A,2010-02-18,同期電動機のロータ回転監視装置および制御システム
+    JP2008043069A,2008-02-21,電気車制御装置
+    JP3946689B2,2007-07-18,電気車制御装置
+    JP5886117B2,2016-03-16,交流電動機の制御装置
+    JP2006217754A,2006-08-17,同期機駆動制御装置
+    JP2012114974A,2012-06-14,電気車制御装置
+    JP5884747B2,2016-03-15,交流電動機の制御装置
+    JP2018023208A,2018-02-08,インバータ装置
+    JP4583016B2,2010-11-17,永久磁石同期電動機の制御装置
+    WO2021240893A1,2021-12-02,同期電動機の駆動装置および同期電動機の駆動方法
+    JP3578096B2,2004-10-20,モータ制御装置
+    JP5333716B2,2013-11-06,永久磁石形同期電動機の制御装置
+
+patent_application
+    NoExist
+patent_priority_application
+5
+    Application,Priority date,Filing date,Title
+    JP2010528629A,2009-11-25,2009-11-25,電気車の電力変換装置
+    CN200980162607.7A,2009-11-25,2009-11-25,电动车辆的电力变换装置
+    US13/502,528,2009-11-25,2009-11-25,Power conversion apparatus of electric vehicle
+    PCT/JP2009/069854,2009-11-25,2009-11-25,電気車の電力変換装置
+
+inventor_number
+    4
+classfication_nums
+    12
+classfication_items
+71
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,2
+    B,6,0,L,1,5,/,0,2,5
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,1,/,0,0
+    H,0,2,P,2,1,/,1,4
+    H,0,2,P,2,1,/,1,6
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,1,/,0,0
+    H,0,2,P,2,1,/,2,4
+    H,0,2,P,2,1,/,2,6
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,7,/,0,0
+    H,0,2,P,2,7,/,0,4
+    H,0,2,P,2,7,/,0,6
+    H,0,2,P,2,7,/,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,1,0
+    B,6,0,L,2,2,2,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,1,0
+    B,6,0,L,2,2,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,4,4
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,2,0,7,/,0,0
+    H,0,2,P,2,2,0,7,/,0,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+
+application_events
+6
+    2009-11-25,Application filed by 三菱電機株式会社
+    2009-11-25,Priority to JP2010528629A
+    2009-11-25,Priority to CN200980162607.7A
+    2009-11-25,Priority to US13/502,528
+    2009-11-25,Priority to PCT/JP2009/069854
+    2011-06-03,Publication of WO2011064846A1
+
+active_area
+1
+    W,O
+
+not_active_area
+3
+    C,N
+    U,S
+    J,P
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2009/069854,2009-11-25,電気車の電力変換装置
+
+legal_event
+7
+    Date,Code,Title,Description
+    2009-11-25,WWE,Wipo information: entry into national phase,Ref document number: 200980162607.7Country of ref document: CN
+    2010-07-21,ENP,Entry into the national phase,Ref document number: 2010528629Country of ref document: JPKind code of ref document: A
+    2011-07-20,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 09851638Country of ref document: EPKind code of ref document: A1
+    2012-04-18,WWE,Wipo information: entry into national phase,Ref document number: 13502528Country of ref document: US
+    2012-05-25,NENP,Non-entry into the national phase,Ref country code: DE
+    2012-12-19,122,Ep: pct application non-entry in european phase,Ref document number: 09851638Country of ref document: EPKind code of ref document: A1
+

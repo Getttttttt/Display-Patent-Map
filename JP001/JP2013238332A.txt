@@ -1,0 +1,138 @@
+ID
+    JP2013238332A
+citation_exist
+    Patent Citations (6)
+citation_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH01265306A                      *,1988-04-18,1989-10-23,Babcock Hitachi Kk,Data qualitizing device
+    JPH046304A                      *,1990-04-24,1992-01-10,Mitsubishi Heavy Ind Ltd,Steam pressure control device for circulating fluidized bed boiler
+    JPH0674876A                      *,1992-08-28,1994-03-18,Kawasaki Steel Corp,設備診断方法及び装置
+    JPH1038243A                      *,1996-07-23,1998-02-13,Kawasaki Heavy Ind Ltd,カラー画像を利用した燃焼判定・制御方法および判定・制御装置
+    JP2010128553A                      *,2008-11-25,2010-06-10,Mitsubishi Heavy Ind Ltd,設備の不具合管理方法
+    Family To Family Citations,,,,
+    KR101086027B1,2009-10-21,2011-11-22,한국전력공사,베이지안 통계기법을 이용한 발전설비 고장예측방법
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN105805722A                      *,2014-12-30,2016-07-27,华润电力（菏泽）有限公司,一种锅炉压力监控方法和系统
+    Family To Family Citations,,,,
+    CN105351966A                      *,2015-12-04,2016-02-24,深圳智慧能源技术有限公司,引射式燃烧装置的控制逻辑参数阀值快速调节系统
+    WO2017092059A1                      *,2015-12-04,2017-06-08,深圳智慧能源技术有限公司,引射式燃烧装置的控制逻辑参数阀值快速调节系统
+
+abstract
+    【課題】複数の設定項目により循環流動層ボイラの複数の指標項目を最適化する制御が可能な循環流動層ボイラの運転制御システムを提供する。【解決手段】運転制御システムは、複数の設定項目の各々の入力値ＳＶ３と、複数の指標項目の各々の実測値と、の比較に基づいて決定される操作量ＭＶでボイラ２の操作を行うボイラ調節計２７と、複数の設定項目から一部を選択すると共に、選択された選択設定項目の入力値ＳＶ１を調整するための調整値ＳＶ２を算出するベイジアンネットワーク推論部３９と、作業者から入力される値である作業者入力値ＳＶ１と、調整値ＳＶ２と、の関数である調整入力値を、選択設定項目の入力値ＳＶ３としてボイラ調節計２７に渡す入力値調整部５１と、を備る。ベイジアンネットワーク推論部３９は、ベイジアンネットワークを用いた演算を行って上記調整値ＳＶ２を算出する。【選択図】図２
+title
+    循環流動層ボイラの運転制御システム
+similar_document
+26
+    Publication,Publication Date,Title
+    JP5819251B2,2015-11-18,循環流動層ボイラの運転制御システム
+    JP6620056B2,2019-12-11,機器の異常診断方法及び機器の異常診断装置
+    CN108073145B,2020-09-29,运转支援装置以及记录介质
+    KR101918867B1,2018-11-14,열교환기의 감시 장치 및 열교환기의 감시 방법
+    JP5639613B2,2014-12-10,プラントの制御装置及び火力発電プラントの制御装置
+    JP4940167B2,2012-05-30,ボイラの制御装置及びボイラの制御方法
+    JP7126215B2,2022-08-26,システム制御装置及び制御方法
+    TWI777331B,2022-09-11,顯示工廠的狀態之系統、顯示工廠的狀態之裝置及顯示工廠的狀態之方法
+    JP5925587B2,2016-05-25,循環流動層ボイラの運転診断方法及び運転診断装置
+    WO2019082491A1,2019-05-02,プラントの運転支援装置及び運転支援方法
+    JP4937203B2,2012-05-23,ガスタービン経年劣化判定装置及びその方法
+    JP6673799B2,2020-03-25,ガス化溶融炉プラントの排ガス制御装置及び排ガス制御方法
+    WO2022102349A1,2022-05-19,表示装置、制御装置、制御方法及びコンピュータプログラム
+    WO2022102315A1,2022-05-19,表示装置、制御装置、制御方法及びコンピュータプログラム
+    JP7075021B1,2022-05-25,ごみ焼却処理施設の燃焼制御装置及び燃焼制御方法
+    WO2022071082A1,2022-04-07,表示装置、制御装置、制御方法及びコンピュータプログラム
+    JP4937089B2,2012-05-23,サイクロンの詰り判定装置およびサイクロンの詰り判定方法
+    JP7206066B2,2023-01-17,運転支援方法及び運転支援システム
+    JP2022013163A,2022-01-18,情報処理装置、情報処理方法、プログラム、薬剤供給装置、排ガス処理装置、および排ガス処理方法
+    JP2021107962A,2021-07-29,システム及び方法
+    JP2020146643A,2020-09-17,排ガス処理システムおよび排ガス処理方法
+    JP2007064541A,2007-03-15,加圧流動床ボイラにおける流動媒体の層密度最適化方法および層密度最適化システム
+    JP2019002672A,2019-01-10,情報処理装置、および情報処理方法
+    WO2017094150A1,2017-06-08,ボイラの蒸気流量制御方法及び焼却炉システム
+    JP2009275975A,2009-11-26,流動床式熱分解炉の運転方法
+
+patent_application
+    NoExist
+patent_priority_application
+7
+    Application,Priority date,Filing date,Title
+    JP2012110560A,2012-05-14,2012-05-14,循環流動層ボイラの運転制御システム
+    MYPI2014002986A,2012-05-14,2013-01-22,Operation control system of circulating fluidized bed boiler
+    SG11201406956RA,2012-05-14,2013-01-22,Operation control system of circulating fluidized bed boiler
+    KR1020147029153A,2012-05-14,2013-01-22,순환유동층보일러의 운전제어시스템
+    PCT/JP2013/051166,2012-05-14,2013-01-22,循環流動層ボイラの運転制御システム
+    PH12014502458A,2012-05-14,2014-11-04,Operation control system of circulating fluidized bed boiler
+
+inventor_number
+    8
+classfication_nums
+    3
+classfication_items
+20
+    F
+    F,2,3
+    F,2,3,C
+    F,2,3,C,1,0,/,0,0
+    F,2,3,C,1,0,/,1,8
+    F,2,3,C,1,0,/,2,8
+    F
+    F,2,2
+    F,2,2,B
+    F,2,2,B,1,/,0,0
+    F,2,2,B,1,/,0,2
+    F,2,2,B,1,/,1,8
+    F
+    F,2,3
+    F,2,3,C
+    F,2,3,C,1,0,/,0,0
+    F,2,3,C,1,0,/,0,2
+    F,2,3,C,1,0,/,0,4
+    F,2,3,C,1,0,/,0,8
+    F,2,3,C,1,0,/,1,0
+
+application_events
+7
+    2012-05-14,Application filed by Sumitomo Heavy Industries Ltd
+    2012-05-14,Priority to JP2012110560A
+    2013-11-28,Publication of JP2013238332A
+    2015-11-18,Application granted
+    2015-11-18,Publication of JP5819251B2
+    Status,Active
+    2032-05-14,Anticipated expiration
+
+active_area
+3
+    J,P
+    W,O
+    K,R
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2012110560A,2012-05-14,循環流動層ボイラの運転制御システム
+
+legal_event
+6
+    Date,Code,Title,Description
+    2014-11-13,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20141112
+    2015-09-14,TRDD,Decision of grant or rejection written,
+    2015-09-30,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20150929
+    2015-10-08,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20150930
+    2015-10-09,R150,Certificate of patent or registration of utility model,Ref document number: 5819251Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R150
+

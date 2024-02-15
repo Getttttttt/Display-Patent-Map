@@ -1,0 +1,239 @@
+ID
+    US20220169252A1
+citation_exist
+    Patent Citations (7)
+citation_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US6973880B2                      *,2001-03-27,2005-12-13,General Electric Company,Hybrid energy off highway vehicle electric power storage system and method
+    JP4372771B2                      *,2006-06-30,2009-11-25,財団法人日本自動車研究所,Linked car and its driving method
+    EP2707936B1                      *,2011-05-10,2018-08-01,Stephen G. Johnsen,Mobile variable power system and method
+    DE102012108769A1                      *,2012-09-18,2014-03-20,Gottwald Port Technology Gmbh,Battery Electric Tractor Trailer for ISO Container Transport
+    DE102015205811A1                      *,2015-03-31,2016-10-06,Bvb Innovate Gmbh,Use of Range Extender Vehicle and Range Extender Vehicle
+    US10256659B2                      *,2015-10-02,2019-04-09,Carrier Corporation,Inductive charging for a vehicle
+    US10500975B1                      *,2016-09-30,2019-12-10,Hyliion Inc.,Vehicle weight estimation system and related methods
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20220063445A1                      *,2020-08-26,2022-03-03,Hyundai Motor Company,Eco-friendly vehicle and method of controlling the same
+    US20230042649A1                      *,2019-05-03,2023-02-09,Oshkosh Corporation,Battery placement for electrified vehicle
+    CN115805817A                      *,2023-01-30,2023-03-17,北京全路通信信号研究设计院集团有限公司,Traction monitoring method, device, equipment and medium for high-speed magnetic levitation partition operation control
+    US11794604B2,2019-05-03,2023-10-24,Oshkosh Corporation,Battery storage system for electrified vehicle
+    Family To Family Citations,,,,
+
+abstract
+    The present disclosure relates to controlling transfer of electrical energy in a coupling between a first vehicle and a second vehicle of a vehicle combination, each of the first and second vehicles having an electric machine and an energy storage system, wherein at least the electric machine of the second vehicle is operable in a traction mode and a generator mode for generating electrical energy during a regenerative braking event of the second vehicle, the method comprising determining an amount of possible excessive energy from the braking event of the second vehicle, determining a total energy level of the second vehicle, determining a total energy level of the first vehicle, comparing the determined amount of possible excessive energy with the determined total energy levels of the first vehicle and second vehicle, and controlling direction of the transfer of electrical energy between the first and second vehicle based on the comparison.
+title
+    Method for controlling a vehicle combination
+similar_document
+20
+    Publication,Publication Date,Title
+    US20220169252A1,2022-06-02,Method for controlling a vehicle combination
+    US11305634B2,2022-04-19,Tractor unit with on-board regenerative braking energy storage for stopover HVAC operation without engine idle
+    US20190210478A1,2019-07-11,System and Method for All Electrical Operation of a Mining Haul Truck
+    CN107206888B,2020-10-23,Electric propulsion system for a vehicle
+    EP2853459B1,2020-06-17,Apparatus, vehicle, and method for operating vehicle
+    CN112105521A,2020-12-18,System for an electrically driven vehicle, and associated vehicle and associated method
+    CN115023876A,2022-09-06,Portable rescue portable power source
+    US20210197673A1,2021-07-01,218-0779 battery charging by towed regenerative braking
+    KR102585749B1,2023-10-11,System and method for managing battery of eco-friendly vehicle and trailer connected thereto
+    US20230021274A1,2023-01-19,Auxiliary range extension for battery electric vehicle
+    WO2023057060A1,2023-04-13,A method for controlling energy transfer in a vehicle combination
+    JP2013258799A,2013-12-26,Motor vehicle and coupled vehicle
+    JP5312059B2,2013-10-09,Connection vehicle, connection pressure control method and program in connection vehicle
+    US20220388418A1,2022-12-08,Control system for controlling electrical power distribution of a vehicle formation
+    US20230104277A1,2023-04-06,Electrified vehicle control during trailer towing
+    US20220123561A1,2022-04-21,Method for reducing wear of an energy storage device
+    Ng et al.,2021,Electric Vehicle
+    JP6969136B2,2021-11-24,Power transmission equipment installed in freight vehicles and freight vehicles
+    WO2022211819A1,2022-10-06,Auxiliary range extension for battery electric vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    22
+classfication_items
+139
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,3,2
+    B,6,0,L,1,5,/,3,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,5,0
+    B,6,0,L,5,3,/,5,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,2,0
+    H
+    H,0,4
+    H,0,4,L
+    H,0,4,L,1,2,/,0,0
+    H,0,4,L,1,2,/,2,8
+    H,0,4,L,1,2,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B,6,0,L,2,2,4,0,/,6,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,3,2
+    H
+    H,0,4
+    H,0,4,L
+    H,0,4,L,1,2,/,0,0
+    H,0,4,L,1,2,/,2,8
+    H,0,4,L,1,2,/,4,0
+    H,0,4,L,2,0,1,2,/,4,0,2,0,8
+    H,0,4,L,2,0,1,2,/,4,0,2,1,5
+    H
+    H,0,4
+    H,0,4,L
+    H,0,4,L,1,2,/,0,0
+    H,0,4,L,1,2,/,2,8
+    H,0,4,L,1,2,/,4,0
+    H,0,4,L,2,0,1,2,/,4,0,2,6,7
+    H,0,4,L,2,0,1,2,/,4,0,2,7,3
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+4
+    2021-11-09,Application filed by Volvo Truck Corp
+    2021-11-09,Assigned to VOLVO TRUCK CORPORATION
+    2022-06-02,Publication of US20220169252A1
+    Status,Pending
+
+active_area
+2
+    E,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    EP20210939.3,2020-12-01,
+    EP20210939.3A,2020-12-01,A method for controlling a vehicle combination
+
+legal_event
+3
+    Date,Code,Title,Description
+    2021-11-09,AS,Assignment,Owner name: VOLVO TRUCK CORPORATION, SWEDENFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:YHR, HAMID;REEL/FRAME:058057/0558Effective date: 20211103
+    2021-12-21,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+

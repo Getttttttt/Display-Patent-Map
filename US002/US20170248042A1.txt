@@ -1,0 +1,210 @@
+ID
+    US20170248042A1
+citation_exist
+    Patent Citations (27)
+citation_infor
+29
+    Publication number,Priority date,Publication date,Assignee,Title
+    US3342195A                      *,1964-08-11,1967-09-19,Gen Electric,Speed and motive fluid pressure control system for steam turbines
+    US3655954A                      *,1968-12-20,1972-04-11,Siemens Ag,Closed loop control system with automatic variation of its regulating feedback amplification
+    US4007596A                      *,1975-04-24,1977-02-15,Westinghouse Electric Corporation,Dual turbine power plant and method of operating such plant, especially one having an HTGR steam supply
+    US4081956A                      *,1976-05-13,1978-04-04,General Electric Company,Combined gas turbine and steam turbine power plant
+    US4471229A                      *,1981-03-09,1984-09-11,Siemens Aktiengesellschaft,Method and apparatus for controlling a turbo-generator set
+    US20100301615A1                      *,2008-04-28,2010-12-02,Mitsubishi Heavy Industries, Ltd.,Gas turbine control system and method for single-shaft combined cycle plant
+    US20110162591A1                      *,2008-02-20,2011-07-07,Jinqiang Fan,Assisted commissioning method for combustion control system
+    Family To Family Citations,,,,
+    US3953966A                      *,1974-08-08,1976-05-04,Westinghouse Electric Corporation,Combined cycle electric power plant having a control system which enables dry steam generator operation during gas turbine operation
+    JPS54113706A                      *,1978-02-24,1979-09-05,Toshiba Corp,Method of contolling turbine bypass system
+    US4572110A                      *,1985-03-01,1986-02-25,Energy Services Inc.,Combined heat recovery and emission control system
+    JPH0678724B2                      *,1986-04-25,1994-10-05,株式会社日立製作所,Cooling method and cooling device for steam turbine in single-shaft combined plant
+    JP2593578B2                      *,1990-10-18,1997-03-26,株式会社東芝,Combined cycle power plant
+    US5357746A,1993-12-22,1994-10-25,Westinghouse Electric Corporation,System for recovering waste heat
+    JP3804693B2                      *,1996-06-21,2006-08-02,大阪瓦斯株式会社,Waste heat recovery system
+    JPH1150812A                      *,1997-07-31,1999-02-23,Toshiba Corp,Full fired heat recovery combined cycle power generation plant
+    KR100311716B1,1999-02-24,2001-11-02,윤영석,apparatus for control steam temparature-control valve of HRSG in a power plant
+    JP3333477B2                      *,1999-09-01,2002-10-15,株式会社日立製作所,Throttle control device
+    US6565064B2                      *,2001-03-21,2003-05-20,Delphi Technologies, Inc.,Model-based position control for a solenoid actuated valve
+    JP4365553B2                      *,2001-12-26,2009-11-18,株式会社日立製作所,Engine fuel control device and idling air-fuel ratio control method
+    US7937928B2                      *,2008-02-29,2011-05-10,General Electric Company,Systems and methods for channeling steam into turbines
+    JP2009264220A                      *,2008-04-24,2009-11-12,Toho Gas Co Ltd,Steam leakage detection device for steam injection gas turbine
+    KR101230138B1                      *,2008-08-01,2013-02-05,미쓰비시덴키 가부시키가이샤,Valve control apparatus and valve apparatus
+    CN103216314B,2008-12-26,2015-06-03,三菱重工业株式会社,Generating method employing ship waste heat recovery system and waste heat recovery system thereof
+    JP5491851B2,2009-12-28,2014-05-14,株式会社東芝,Feed forward control device and feed forward control method
+    JP2012127243A                      *,2010-12-15,2012-07-05,Toshiba Corp,Turbine plant and operation method thereof
+    JP2012167571A                      *,2011-02-10,2012-09-06,Toshiba Corp,Uniaxial combined cycle power generation plant, and method of operating the same
+    JP5694112B2,2011-09-30,2015-04-01,株式会社東芝,Uniaxial combined cycle power plant and operation method thereof
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (6)
+              
+
+
+citedBy_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    EP3104107B1                      *,2015-06-12,2018-08-08,General Electric Technology GmbH,Steam dump device for a nuclear power plant
+    JP6543175B2                      *,2015-11-24,2019-07-10,株式会社東芝,Control device and control method of control valve
+    ITUB20159367A1                      *,2015-12-28,2017-06-28,A S En Ansaldo Sviluppo Energia S R L,METHOD AND THERMAL EXCHANGE CONTROL DEVICE IN A BOILER WITH HEAT RECOVERY OF A COMBINED CYCLE PLANT AND COMBINED CYCLE PLANT
+    JP6723791B2                      *,2016-03-31,2020-07-15,三菱重工マリンマシナリ株式会社,Exhaust heat recovery device, internal combustion engine system and ship, and control method for exhaust heat recovery device
+    JP7190186B2                      *,2017-11-30,2022-12-15,株式会社フジキン,Self-diagnosis method for flow controller
+    CN108678931B                      *,2018-04-09,2019-06-18,华南理工大学,A kind of method that compressor pumping energy storage improves cogeneration cooling heating system flexibility
+
+abstract
+    A gas turbine plant including a gas turbine and a compressor is provided with a steam turbine plant including a steam turbine and a condenser, and, an exhaust heat recovery boiler. Steam from the exhaust heat recovery boiler is directly flown to the condenser of the steam turbine plant through a bypass control valve. A pressure sensor detects pressure in a turbine bypass system. A controller outputs, based on a set value from an input device and a process value from the pressure sensor, an open level instruction value to the control value so as to make the process value consistent with the set value in a predetermined sampling cycle. A corrector corrects the set value from the input device in a direction in which the open level instruction value decreases when the open level instruction value from the controller becomes a value that substantially fully opens the control valve.
+title
+    Control valve control method and control device, and power generating plant utilizing same
+similar_document
+21
+    Publication,Publication Date,Title
+    US10557379B2,2020-02-11,Control valve control method and control device, and power generating plant utilizing same
+    CA2747950C,2018-12-04,Dynamic tuning of dynamic matrix control of steam temperature
+    CN101118054B,2011-10-05,Steam temperature control in a boiler using a pid controller.
+    US7053341B2,2006-05-30,Method and apparatus for drum level control for drum-type boilers
+    CA2747921C,2018-11-13,Dynamic matrix control of steam temperature with prevention of saturated steam entry into superheater
+    US9335042B2,2016-05-10,Steam temperature control using dynamic matrix control
+    JP2010223579A,2010-10-07,Single loop temperature regulation control mechanism
+    US20150184552A1,2015-07-02,Controlling apparatus and starting method
+    KR20150076111A,2015-07-06,Controlling apparatus and starting method
+    JP6475926B2,2019-02-27,Control gain optimization system for plant controller
+    US9885256B2,2018-02-06,Method for optimization of control and fault analysis in a thermal power plant
+    JP2013040695A,2013-02-28,Apparatus and device for controlling vapor temperature
+    US10450900B2,2019-10-22,Plant control apparatus, plant control method and power generating plant
+    US11125166B2,2021-09-21,Control system, gas turbine, power generation plant, and method of controlling fuel temperature
+    JP6543175B2,2019-07-10,Control device and control method of control valve
+    JP2823342B2,1998-11-11,Steam temperature controller for superheater / reheater in combined cycle power plant
+    US10087786B2,2018-10-02,Plant control apparatus and combined cycle power plant
+    JP2005105912A,2005-04-21,Multiple-coil servo valve control device
+    Li,2007,Application of Self Adaptation Fuzzy-PID Control For Main Steam Temperature Control System in Power Station
+    JP2009008000A,2009-01-15,Method for operational test of steam governing valve
+
+patent_application
+2
+    Application,Priority date,Filing date,Relation,Title
+    US14/333,619,2013-07-17,2014-07-17,Division,Control valve control method and control device, and power generating plant utilizing same
+
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US15/597,279,2013-07-17,2017-05-17,Control valve control method and control device, and power generating plant utilizing same
+
+inventor_number
+    5
+classfication_nums
+    12
+classfication_items
+69
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,2,3,/,0,0
+    F,0,1,K,2,3,/,0,2
+    F,0,1,K,2,3,/,0,6
+    F,0,1,K,2,3,/,1,0
+    F,0,1,K,2,3,/,1,0,1
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,2,3,/,0,0
+    F,0,1,K,2,3,/,0,2
+    F,0,1,K,2,3,/,0,6
+    F,0,1,K,2,3,/,1,0
+    B
+    B,6,3
+    B,6,3,J
+    B,6,3,J,3,/,0,0
+    B,6,3,J,3,/,0,2
+    F
+    F,0,1
+    F,0,1,D
+    F,0,1,D,2,1,/,0,0
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,2,3,/,0,0
+    F,0,1,K,2,3,/,0,2
+    F,0,1,K,2,3,/,0,6
+    F,0,1,K,2,3,/,1,0
+    F,0,1,K,2,3,/,1,0,6
+    F,0,1,K,2,3,/,1,0,8
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,9,/,0,0
+    F,0,1,K,9,/,0,4
+    F
+    F,0,1
+    F,0,1,L
+    F,0,1,L,3,1,/,0,0
+    F
+    F,0,2
+    F,0,2,C
+    F,0,2,C,6,/,0,0
+    F,0,2,C,6,/,1,8
+    F
+    F,1,6
+    F,1,6,K
+    F,1,6,K,3,1,/,0,0
+    F,1,6,K,3,1,/,0,2
+    F
+    F,2,2
+    F,2,2,B
+    F,2,2,B,1,/,0,0
+    F,2,2,B,1,/,0,2
+    F,2,2,B,1,/,1,8
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,2,0,/,0,0
+    Y,0,2,E,2,0,/,1,6
+    Y
+    Y,0,2
+    Y,0,2,P
+    Y,0,2,P,8,0,/,0,0
+    Y,0,2,P,8,0,/,1,0
+    Y,0,2,P,8,0,/,1,5
+
+application_events
+7
+    2017-05-17,Application filed by Toshiba Corp
+    2017-05-17,Priority to US15/597,279
+    2017-08-31,Publication of US20170248042A1
+    2020-02-11,Application granted
+    2020-02-11,Publication of US10557379B2
+    Status,Active
+    2035-05-09,Adjusted expiration
+
+active_area
+5
+    J,P
+    T,W
+    K,R
+    U,S
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+5
+    Application,Filing date,Title
+    JP2013148923A,2013-07-17,Control valve control method and control device, and power plant using these
+    JP2013-148923,2013-07-17,
+    US14/333,619,2014-07-17,Control valve control method and control device, and power generating plant utilizing same
+    US15/597,279,2017-05-17,Control valve control method and control device, and power generating plant utilizing same
+
+legal_event
+7
+    Date,Code,Title,Description
+    2017-06-07,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2019-06-03,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2019-10-23,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2020-01-03,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2020-01-22,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2023-07-26,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

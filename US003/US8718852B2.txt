@@ -1,0 +1,176 @@
+ID
+    US8718852B2
+citation_exist
+    Patent Citations (7)
+citation_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    US7758467B2                      *,2006-08-29,2010-07-20,Nissan Motor Co., Ltd.,Hybrid vehicle control apparatus
+    US7892139B2                      *,2007-10-12,2011-02-22,Zf Friedrichshafen Ag,Hybrid drive arrangement and method for controlling and/or regulating a starting process with a hybrid drive arrangement
+    US8005588B2                      *,2007-01-30,2011-08-23,Gordon Ewbank Dower,Vehicle power and speed control systems
+    US20120297136A1                      *,2008-06-06,2012-11-22,Pivot3, Inc.,Method and system for distributed raid implementation
+    US8517892B2                      *,2011-08-08,2013-08-27,Bae Systems Controls Inc.,Method and apparatus for controlling hybrid electric vehicles
+    Family To Family Citations,,,,
+    TW289183B                      *,1994-08-03,1996-10-21,Tay-Her Yang,A complex power system and device controlled by the speed of the initiative electric set
+    TWI352671B                      *,2008-05-29,2011-11-21,Nat Univ Chung Hsing,Energy recharging controller for electrical motorc
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (15)
+              
+
+
+citedBy_infor
+17
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20150019058A1                      *,2013-07-12,2015-01-15,Stephan P. Georgiev,Regenerative braking regulation in automotive vehicles
+    US20160129809A1                      *,2014-11-12,2016-05-12,Toyota Jidosha Kabushiki Kaisha,Vehicle
+    CN108382334A                      *,2018-04-03,2018-08-10,湖北汽车工业学院,A kind of intelligent driving automobile controller structure
+    US20210263527A1                      *,2020-02-24,2021-08-26,Thales Canada Inc.,Controller, control system and method for vehicle control
+    US11493927B2,2018-06-01,2022-11-08,Thales Canada, Inc.,Self learning vehicle control system
+    Family To Family Citations,,,,
+    JP5848726B2                      *,2013-05-22,2016-01-27,本田技研工業株式会社,Brake system for vehicles
+    TWI625256B                      *,2016-05-25,2018-06-01,Liu rui yang,Vehicle brake consumption oil quantity prompting method and system thereof
+    US10421362B2                      *,2016-09-30,2019-09-24,Faraday&Future Inc.,Regenerative braking control method and system
+    US10207717B2                      *,2017-01-11,2019-02-19,Toyota Motor Engineering & Manufacturing North America, Inc.,Coasting timer for predictive acceleration
+    JP6638699B2                      *,2017-05-30,2020-01-29,トヨタ自動車株式会社,Erroneous operation determination device
+    JP7047461B2                      *,2018-02-28,2022-04-05,株式会社デンソー,Control device
+    KR102542523B1,2018-05-30,2023-06-12,에이치엘만도 주식회사,Brake system and controlling method thereof
+    CN109080462B                      *,2018-08-01,2021-12-07,奇瑞新能源汽车股份有限公司,Energy recovery and regulation method for electric automobile
+    CN111516691B                      *,2020-04-10,2021-11-16,吉利汽车研究院（宁波）有限公司,Sliding energy recovery method and system and vehicle
+    CN113022320B                      *,2021-04-30,2022-09-16,宝能(广州)汽车研究院有限公司,Energy recovery control method, device, equipment and storage medium
+
+abstract
+    A self-learning regenerative braking control module is adapted for use with a vehicle, and includes a driving mode determining unit, an analyzing unit, and a regenerative braking determining unit. The driving mode determining unit determines a driving mode according to an accelerator signal, a brake signal, and a speed signal from the vehicle and outputs a coasting duration and coasting information associated with the driving mode to the analyzing unit for obtaining acceleration information. The regenerative braking determining unit obtains target regenerative braking data containing target vehicle speeds that vary with time based upon the acceleration information and regenerative braking reference data stored therein.
+title
+    Self-learning regenerative braking control module, controller, and vehicle using the same
+similar_document
+26
+    Publication,Publication Date,Title
+    US8718852B2,2014-05-06,Self-learning regenerative braking control module, controller, and vehicle using the same
+    EP3718846A1,2020-10-07,Cruise control method and system for electric vehicle, vehicle, controller, and storage medium
+    US20160121898A1,2016-05-05,Method of controlling coasting operation of hybrid vehicle and apparatus for performing the same
+    CN107323272B,2020-02-21,Electric automobile energy recovery method and device
+    CN212289508U,2021-01-05,Vehicle accelerator pedal assembly
+    DE102014217023A1,2015-03-05,SPEED CONTROL IN ECO MODE
+    CN111479737B,2022-11-29,Control method and control device for hybrid vehicle
+    JP4591269B2,2010-12-01,Driving force control device for starting overstepping of hybrid vehicle
+    CN105172615B,2019-04-23,Torque control device and method for drive motor
+    CN110091726A,2019-08-06,The driving-force control apparatus of vehicle
+    CN109278568A,2019-01-29,A kind of method of adjustment, device and the automobile of Automobile drive power
+    CN111479736A,2020-07-31,Control method and control device for hybrid vehicle
+    US9446764B2,2016-09-20,System and method for controlling engine clutch of hybrid vehicle
+    CN114103923A,2022-03-01,System and method for controlling drive of electronic four-wheel drive hybrid vehicle
+    US20220355803A1,2022-11-10,Method and control device for controlling a vehicle
+    US11628763B2,2023-04-18,Vehicle including electric motor and method of controlling brake lamp for the same
+    CN113386578A,2021-09-14,Torque output control method and device, vehicle and equipment
+    JP2005110469A,2005-04-21,Vehicle driving force controller
+    JP5780837B2,2015-09-16,VEHICLE CONTROL DEVICE, VEHICLE, VEHICLE CONTROL METHOD, AND PROGRAM
+    JP2019196048A,2019-11-14,Vehicle control device, vehicle and vehicle control method
+    JP6355112B2,2018-07-11,VEHICLE CONTROL DEVICE AND INFORMATION PROVIDING METHOD
+    Chen et al.,2013,Adaptive-learning regeneration controller design for electric vehicles
+    CN113119742A,2021-07-16,Method and system for determining required torque of vehicle and vehicle
+    US20160368500A1,2016-12-22,Method for controlling entry to full load mode of engine in hybrid electric vehicle
+    CN112977071B,2023-01-10,Control method and device of new energy vehicle and new energy vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    5
+classfication_nums
+    9
+classfication_items
+53
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,4,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2012-12-26,Application filed by Automotive Research and Testing Center
+    2012-12-26,Assigned to AUTOMOTIVE RESEARCH & TESTING CENTER
+    2014-03-20,Publication of US20140081498A1
+    2014-05-06,Application granted
+    2014-05-06,Publication of US8718852B2
+    Status,Active
+    2032-12-26,Anticipated expiration
+
+active_area
+2
+    T,W
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    TW101133723A,2012-09-14,Brake back to charge control learning module, controller and controlled brake back to the car
+    TW101133723,2012-09-14,
+    TW101133723A,2012-09-14,
+
+legal_event
+5
+    Date,Code,Title,Description
+    2012-12-26,AS,Assignment,Owner name: AUTOMOTIVE RESEARCH & TESTING CENTER, TAIWANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:WENG, KUO-LIANG;CHEN, CHIEN-AN;LIN, DENG-HE;AND OTHERS;REEL/FRAME:029528/0782Effective date: 20121215
+    2014-04-16,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2017-10-17,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YR, SMALL ENTITY (ORIGINAL EVENT CODE: M2551)Year of fee payment: 4
+    2021-09-07,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YR, SMALL ENTITY (ORIGINAL EVENT CODE: M2552); ENTITY STATUS OF PATENT OWNER: SMALL ENTITYYear of fee payment: 8
+

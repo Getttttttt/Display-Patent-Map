@@ -1,0 +1,257 @@
+ID
+    JP2015091167A
+citation_exist
+    Patent Citations (9)
+citation_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2006044338A                      *,2004-08-02,2006-02-16,Nsk Ltd,電動パワーステアリング装置
+    JP2010279110A                      *,2009-05-27,2010-12-09,Toyota Industries Corp,インバータ装置
+    Family To Family Citations,,,,
+    JP4168730B2,2002-11-05,2008-10-22,日産自動車株式会社,３相交流電動機の制御装置
+    JP4561616B2                      *,2005-10-27,2010-10-13,トヨタ自動車株式会社,モータ駆動システム
+    JP2007185043A,2006-01-06,2007-07-19,Toyota Motor Corp,インバータ装置および車両
+    CN102624314B                      *,2006-07-24,2015-02-18,株式会社东芝,可变磁通电动机驱动器系统
+    JP4956123B2,2006-09-28,2012-06-20,三洋電機株式会社,モータ制御装置
+    JP2014072973A                      *,2012-09-28,2014-04-21,Denso Corp,交流電動機の制御装置
+    JP5929873B2,2013-11-05,2016-06-08,株式会社デンソー,交流電動機の制御装置
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (9)
+              
+
+
+citedBy_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    US9331627B2,2013-11-05,2016-05-03,Denso Corporation,Control apparatus for AC motor
+    JP2017028966A                      *,2015-07-28,2017-02-02,株式会社デンソー,電流センサ異常診断装置
+    JP2017195735A                      *,2016-04-22,2017-10-26,三菱電機株式会社,同期機制御装置
+    CN111409460A                      *,2020-04-09,2020-07-14,浙江吉利汽车研究院有限公司,一种用于电动汽车的驱动电机旋转状态监控方法及系统
+    Family To Family Citations,,,,
+    DE102016200665A1                      *,2016-01-20,2017-07-20,Robert Bosch Gmbh,Vorrichtung und Verfahren zum Steuern einer elektrischen Maschine
+    JP6984390B2                      *,2017-12-20,2021-12-17,株式会社デンソー,電力制御ユニット
+    CN110557118B                      *,2018-05-31,2022-12-27,华为技术有限公司,一种锁相装置及锁相方法
+    JP7261050B2                      *,2019-03-20,2023-04-19,日立Astemo株式会社,モータ制御装置及びモータ制御方法
+    JP7193012B2                      *,2020-10-05,2022-12-20,東芝三菱電機産業システム株式会社,電力変換装置の制御装置
+
+abstract
+    【課題】電流検出値に異常が生じた場合に、安定して１相制御に移行可能な交流電動機の制御装置を提供する。【解決手段】安定化判断部５５は、制御用Ｖ相電流検出値ｉｖ＿ｓｎｓ、制御用Ｗ相電流検出値ｉｗ＿ｓｎｓ、監視用Ｖ相電流検出値ｉｖ＿ｓｎｓ＿ａおよび監視用Ｗ相電流検出値ｉｗ＿ｓｎｓ＿ａの一部に異常が検出された後、交流電動機２に通電される電流が安定したか否かを判断する。切替判定部７０では、制御用Ｖ相電流検出値ｉｖ＿ｓｎｓ、制御用Ｗ相電流検出値ｉｗ＿ｓｎｓ、監視用Ｖ相電流検出値ｉｖ＿ｓｎｓ＿ａおよび監視用Ｗ相電流検出値ｉｗ＿ｓｎｓ＿ａの一部に異常が検出された後、交流電動機２に通電される電流が安定したと判断された場合、正常相電流検出値に基づいて演算される電流推定値ｉｄ＿ｅｓｔ、ｉｑ＿ｅｓｔを電流確定値ｉｄ＿ｆｉｘ、ｉｑ＿ｆｉｘとして選択する。これにより、安定して１相制御に移行可能である。【選択図】 図３
+title
+    交流電動機の制御装置
+similar_document
+22
+    Publication,Publication Date,Title
+    JP5929873B2,2016-06-08,交流電動機の制御装置
+    JP5929874B2,2016-06-08,交流電動機の制御装置
+    JP5928438B2,2016-06-01,交流電動機の制御装置
+    JP5807847B2,2015-11-10,交流電動機の制御装置
+    JP5939228B2,2016-06-22,交流電動機の制御装置
+    JP5751234B2,2015-07-22,交流電動機の制御装置
+    JP5772843B2,2015-09-02,交流電動機の制御装置
+    US9590551B2,2017-03-07,Control apparatus for AC motor
+    JP5757304B2,2015-07-29,交流電動機の制御装置
+    JP5958253B2,2016-07-27,交流電動機の制御装置
+    JP5700059B2,2015-04-15,交流電動機の制御装置
+    JP5958250B2,2016-07-27,交流電動機の制御装置
+    JP5741611B2,2015-07-01,交流電動機の制御装置
+    JP5910583B2,2016-04-27,交流電動機の制御装置
+    JP5812021B2,2015-11-11,交流電動機の制御装置
+    JP2011019302A,2011-01-27,モータ駆動システムの制御装置
+    JP5884747B2,2016-03-15,交流電動機の制御装置
+    JP5920635B2,2016-05-18,交流電動機の制御装置
+    JP5910582B2,2016-04-27,交流電動機の制御装置
+    JP6136998B2,2017-05-31,交流電動機の制御装置
+    JP2015162928A,2015-09-07,交流電動機の制御装置
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    JP2013229562A,2013-11-05,2013-11-05,交流電動機の制御装置
+    US14/533,469,2013-11-05,2014-11-05,Control apparatus for AC motor
+
+inventor_number
+    8
+classfication_nums
+    22
+classfication_items
+130
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,6,/,0,0
+    H,0,2,P,6,/,2,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,2
+    B,6,0,L,1,5,/,0,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,3,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,1,/,0,0
+    H,0,2,P,2,1,/,2,2
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,9,/,0,0
+    H,0,2,P,2,9,/,0,2
+    H,0,2,P,2,9,/,0,2,4
+    H,0,2,P,2,9,/,0,2,8
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,9,/,0,0
+    H,0,2,P,2,9,/,0,2
+    H,0,2,P,2,9,/,0,3,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+8
+    2013-11-05,Application filed by Denso Corp
+    2013-11-05,Priority to JP2013229562A
+    2014-11-05,Priority to US14/533,469
+    2015-05-11,Publication of JP2015091167A
+    2016-06-08,Application granted
+    2016-06-08,Publication of JP5929874B2
+    Status,Active
+    2033-11-05,Anticipated expiration
+
+active_area
+2
+    J,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2013229562A,2013-11-05,交流電動機の制御装置
+
+legal_event
+14
+    Date,Code,Title,Description
+    2015-04-27,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20150427
+    2015-09-08,A977,Report on retrieval,Free format text: JAPANESE INTERMEDIATE CODE: A971007Effective date: 20150908
+    2015-10-02,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20151001
+    2015-11-24,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20151124
+    2016-03-31,TRDD,Decision of grant or rejection written,
+    2016-04-05,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20160405
+    2016-05-12,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20160418
+    2016-05-13,R151,Written notification of patent or utility model registration,Ref document number: 5929874Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R151
+    2019-05-21,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2020-05-11,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2021-05-10,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2022-03-30,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2023-05-09,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+

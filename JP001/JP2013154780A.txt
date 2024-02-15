@@ -1,0 +1,191 @@
+ID
+    JP2013154780A
+citation_exist
+    Patent Citations (15)
+citation_infor
+17
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH11301435A                      *,1998-02-20,1999-11-02,Denso Corp,ブレ―キ装置
+    JP2001239927A                      *,1999-12-24,2001-09-04,Denso Corp,ブレーキ装置
+    JP2006311791A                      *,2005-03-31,2006-11-09,Advics:Kk,車両用ブレーキ制御装置
+    JP2007276500A                      *,2006-04-03,2007-10-25,Advics:Kk,車両用ブレーキ制御装置
+    JP2008087623A                      *,2006-10-02,2008-04-17,Advics:Kk,車両用ブレーキ制御装置
+    Family To Family Citations,,,,
+    JP3787223B2                      *,1997-08-28,2006-06-21,アイシン精機株式会社,車輪ブレーキ圧制御装置
+    US6913326B1                      *,1998-08-28,2005-07-05,Toyota Jidosha Kabushiki Kaisha,Apparatus for increasing brake cylinder pressure by controlling pump motor and reducing the pressure by controlling electric energy applied to control valve
+    WO2002026540A1                      *,2000-09-27,2002-04-04,Continental Teves Ag & Co. Ohg,Verfahren und regelsystem zur ansteuerung eines elektronisch regelbaren bremsbetätigungssystems
+    US7597409B2                      *,2006-04-03,2009-10-06,Advics Co., Ltd.,Control unit of brake apparatus for vehicle
+    JP4830600B2                      *,2006-04-13,2011-12-07,株式会社アドヴィックス,車両用制動装置
+    JP5095955B2                      *,2006-05-11,2012-12-12,トヨタ自動車株式会社,車両およびその制御方法
+    JP5245036B2,2007-03-01,2013-07-24,株式会社アドヴィックス,車両用制動制御装置
+    JP5074877B2                      *,2007-10-12,2012-11-14,日立オートモティブシステムズ株式会社,ブレーキ倍力制御装置
+    JP5125813B2                      *,2008-07-02,2013-01-23,日産自動車株式会社,電子制御液圧ブレーキ装置
+    JP5317636B2                      *,2008-11-13,2013-10-16,株式会社アドヴィックス,ブレーキ装置の制御装置
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP5626168B2                      *,2011-09-27,2014-11-19,株式会社アドヴィックス,車両用制動制御装置
+    US9321438B2                      *,2012-06-04,2016-04-26,Hino Motors, Ltd.,Automatic braking control device
+
+abstract
+    【課題】ポンプ加圧とドライバのブレーキ操作とが重なった場合でもそのブレーキ操作を反映できるようにする。【解決手段】第１、第２差圧制御弁１６、３６の差圧を増加させる際に、差圧増加量に基づいて補正量を算出し、この補正量に基づいて差圧指示値が差圧増加量よりも大きくなるように補正する。例えば、差圧増加量に相当するＷ／Ｃ圧増圧量からＭ／Ｃ圧減圧量を算出し、このＭ／Ｃ圧減圧量を補正量として、Ｗ／Ｃ圧増圧量にＭ／Ｃ圧減圧量を加算することで第１、第２差圧制御弁１６、３６への差圧指示値を求める。これにより、ドライバのブレーキ操作中にポンプ加圧が行われたとしても、ドライバが意図するブレーキ操作に対応した本来発生させたいＭ／Ｃ圧に対してＷ／Ｃ増加量を足したＷ／Ｃ圧を発生させることが可能となる。【選択図】図２
+title
+    車両用制動制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP5626168B2,2014-11-19,車両用制動制御装置
+    JP5119646B2,2013-01-16,車両用ブレーキ制御装置
+    JP4835203B2,2011-12-14,車両用ブレーキ制御装置
+    JP5167954B2,2013-03-21,車両用ブレーキ制御装置
+    JP4696950B2,2011-06-08,車両用ブレーキ制御装置
+    JP5245036B2,2013-07-24,車両用制動制御装置
+    US7597409B2,2009-10-06,Control unit of brake apparatus for vehicle
+    JP2015202725A,2015-11-16,車両用ブレーキ装置
+    JP5003205B2,2012-08-15,車両用ブレーキ制御装置
+    JP2007276684A,2007-10-25,車両用ブレーキ制御装置
+    JP4816208B2,2011-11-16,車両用ブレーキ制御装置
+    JP5549690B2,2014-07-16,車両用制動制御装置
+    JP4905037B2,2012-03-28,車両用ブレーキ制御装置
+    JP2007276655A,2007-10-25,車両用ブレーキ制御装置
+    JP2007276683A,2007-10-25,車両用ブレーキ制御装置
+    JP4696949B2,2011-06-08,車両用ブレーキ制御装置
+    JP2020082771A,2020-06-04,ブレーキ制御装置およびブレーキシステム
+    JP2007237777A,2007-09-20,車両用ブレーキ制御装置
+    JP4379272B2,2009-12-09,車両用ブレーキ制御装置
+    JP5565008B2,2014-08-06,制動制御装置
+    JP6020008B2,2016-11-02,車両用ブレーキシステム
+    JP5948982B2,2016-07-06,車両用制動制御装置
+    JP2016016709A,2016-02-01,車両用ブレーキ装置
+    JP6394091B2,2018-09-26,車両用ブレーキ装置
+    JP2013209065A,2013-10-10,車両用ブレーキ液圧制御装置
+
+patent_application
+    NoExist
+patent_priority_application
+4
+    Application,Priority date,Filing date,Title
+    JP2012017090A,2012-01-30,2012-01-30,車両用制動制御装置
+    US13/754,038,2012-01-30,2013-01-30,Brake control device for vehicle
+    CN201310036907.9A,2012-01-30,2013-01-30,车辆用制动控制装置
+
+inventor_number
+    8
+classfication_nums
+    9
+classfication_items
+65
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,1,2
+    B,6,0,T,1,3,/,1,4
+    B,6,0,T,1,3,/,1,4,2
+    B,6,0,T,1,3,/,1,4,7
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,5
+    B,6,0,T,1,3,/,5,8,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,6,6
+    B,6,0,T,1,3,/,6,8
+    B,6,0,T,1,3,/,6,8,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,4
+    B,6,0,T,8,/,4,8
+    B,6,0,T,8,/,4,8,0,9
+    B,6,0,T,8,/,4,8,2,7
+    B,6,0,T,8,/,4,8,6,3
+    B,6,0,T,8,/,4,8,7,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+
+application_events
+9
+    2012-01-30,Application filed by Advics Co Ltd
+    2012-01-30,Priority to JP2012017090A
+    2013-01-30,Priority to US13/754,038
+    2013-01-30,Priority to CN201310036907.9A
+    2013-08-15,Publication of JP2013154780A
+    2014-07-16,Application granted
+    2014-07-16,Publication of JP5549690B2
+    Status,Active
+    2032-01-30,Anticipated expiration
+
+active_area
+3
+    J,P
+    U,S
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2012017090A,2012-01-30,車両用制動制御装置
+
+legal_event
+7
+    Date,Code,Title,Description
+    2013-12-18,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20131217
+    2014-04-07,A977,Report on retrieval,Free format text: JAPANESE INTERMEDIATE CODE: A971007Effective date: 20140407
+    2014-04-11,TRDD,Decision of grant or rejection written,
+    2014-04-23,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20140422
+    2014-05-26,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20140505
+    2014-05-30,R150,Certificate of patent or registration of utility model,Ref document number: 5549690Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R150
+

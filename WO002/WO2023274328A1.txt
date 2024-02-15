@@ -1,0 +1,144 @@
+ID
+    WO2023274328A1
+citation_exist
+    Patent Citations (9)
+citation_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2006197756A                      *,2005-01-14,2006-07-27,Nissan Motor Co Ltd,車両の回生制動制御装置
+    CN112298077A                      *,2020-11-13,2021-02-02,睿驰电装(大连)电动系统有限公司,提高能量回收率的方法、装置和电子设备
+    CN112477607A                      *,2020-11-27,2021-03-12,浙江吉利控股集团有限公司,一种制动能量回收控制方法、系统及车辆
+    CN112622868A                      *,2020-12-25,2021-04-09,中国第一汽车股份有限公司,一种双电机车辆控制方法及装置
+    CN113263918A                      *,2021-06-30,2021-08-17,北京车和家信息技术有限公司,能量回收控制方法及装置
+    Family To Family Citations,,,,
+    DE102011111594A1                      *,2011-08-25,2013-02-28,Audi Ag,Verfahren zum Bremsen eines Kraftfahrzeugs
+    CN110745001A                      *,2018-07-24,2020-02-04,比亚迪股份有限公司,能量分配装置和车辆
+    CN109353341A                      *,2018-09-29,2019-02-19,潍柴动力股份有限公司,降低矿车系统油耗的方法和矿车系统
+    CN112572156B                      *,2020-12-23,2022-07-01,广州橙行智动汽车科技有限公司,能量回收方法、装置、车辆及存储介质
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    CN113263918B                      *,2021-06-30,2023-06-23,北京车和家信息技术有限公司,能量回收控制方法及装置
+    CN116039389B                      *,2023-03-22,2023-08-08,徐州徐工汽车制造有限公司,制动能量的回收方法、装置及系统
+
+abstract
+    一种能量回收控制方法及装置，能量回收控制方法包括：在接收到车辆的制动请求后，确定目标车辆对应的允许能量回收功率和目标能量回收功率，制动请求中包含目标制动扭矩；确定允许能量回收功率小于目标能量回收功率，根据目标驱动电机对应的允许发热功率请求目标电机控制器控制目标驱动电机进行能量回收，并请求目标电机控制器控制目标驱动电机输出目标制动扭矩，其中允许发热功率与允许能量回收功率的和大于或等于目标能量回收功率。
+title
+    能量回收控制方法及装置
+similar_document
+26
+    Publication,Publication Date,Title
+    WO2023274328A1,2023-01-05,能量回收控制方法及装置
+    CN107599890B,2019-10-18,一种电动汽车驱动电机的温度控制方法、装置及电动汽车
+    US9902291B2,2018-02-27,Vehicle and sliding feedback control system of vehicle and method for the same
+    JP6315622B2,2018-04-25,車両
+    Hui et al.,2011,Control strategy of hydraulic/electric synergy system in heavy hybrid vehicles
+    US9561726B2,2017-02-07,Apparatus and method for calculating regenerative braking amount of hybrid electric vehicle
+    CN108528451B,2021-03-23,一种自适应巡航控制方法、装置及电动汽车
+    AU2016204649A1,2016-07-21,System and method for power management during regeneration mode in hybrid electric vehicles
+    WO2021249556A1,2021-12-16,干涉扭矩控制方法、装置、控制器、设备、程序、介质
+    CN113335287B,2023-03-24,一种陡坡缓降控制方法、系统、车辆和存储介质
+    US10471833B2,2019-11-12,Hybrid vehicle and braking method thereof
+    EP2609316B1,2019-11-06,Hybrid power train rate control
+    Chen et al.,2020,Joint propulsion and cooling energy management of hybrid electric vehicles by optimal control
+    Singh et al.,2021,Development of an adaptive neuro‐fuzzy inference system–based equivalent consumption minimisation strategy to improve fuel economy in hybrid electric vehicles
+    Dong et al.,2021,Energy-optimal braking control using a double-layer scheme for trajectory planning and tracking of connected electric vehicles
+    Yao et al.,2021,Hybrid electric vehicle powertrain control based on reinforcement learning
+    CN107303827B,2021-11-30,用于控制车辆的转换器的方法和系统
+    CN111824115B,2021-08-24,一种车辆多能源控制方法、系统、装置及存储介质
+    Larsson et al.,2014,Cubic spline approximations of the dynamic programming cost-to-go in HEV energy management problems
+    CN107891864B,2020-05-15,并联混合动力系统的等效油电折算系数获取方法及装置
+    CN111688497A,2020-09-22,电动汽车电池高荷电状态下回馈制动系统及控制方法
+    Lei et al.,2019,Research on constant speed control strategy of water medium retarders for heavy-duty vehicles
+    Naderi et al.,2013,A fuel cell/battery hybrid vehicle modeling and power management/regenerative braking controller design
+    CN113119738B,2023-07-28,车辆高压能量管理方法、装置和电子设备
+    US11014437B2,2021-05-25,Hybrid electric vehicle battery charge reduction for improved cooling performance
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    7
+classfication_items
+42
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+2
+    2022-06-29,Application filed by 北京车和家信息技术有限公司
+    2023-01-05,Publication of WO2023274328A1
+
+active_area
+1
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    CN202110744060.4A,2021-06-30,能量回收控制方法及装置
+    CN202110744060.4,2021-06-30,
+
+legal_event
+2
+    Date,Code,Title,Description
+    2023-02-15,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 22832140Country of ref document: EPKind code of ref document: A1
+

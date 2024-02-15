@@ -1,0 +1,189 @@
+ID
+    JP2018034537A
+citation_exist
+    Patent Citations (3)
+citation_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH02241863A                      *,1989-01-18,1990-09-26,Lucas Ind Plc,Braking device for vehicle and hydraulically-operated booster therefor
+    US5372409A                      *,1989-01-18,1994-12-13,Lucas Industries Public Limited Company,Fluid-pressure operated boosters for vehicle braking systems
+    JP2007038764A                      *,2005-08-02,2007-02-15,Nissan Motor Co Ltd,ブレーキ液圧制御システム
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (6)
+              
+
+
+citedBy_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP6485418B2                      *,2016-08-09,2019-03-20,トヨタ自動車株式会社,ブレーキ制御装置
+    US10703464B2                      *,2018-07-12,2020-07-07,Goodrich Corporation,Architecture for locked wheel and antiskid performance
+    DE102018217806A1                      *,2018-10-18,2020-04-23,Robert Bosch Gmbh,Verfahren zum Betreiben eines Bremssystems eines Kraftfahrzeugs, Bremssystem, Kraftfahrzeug
+    GB2580641B                      *,2019-01-18,2021-03-10,Caterpillar Sarl,Brake system for a vehicle
+    US11427168B2,2020-01-13,2022-08-30,Caterpillar Sarl,Brake system for a vehicle
+    KR20220075733A                      *,2020-11-30,2022-06-08,현대모비스 주식회사,차량의 제동장치 및 그 제동방법
+
+abstract
+    【課題】自動制動制御時に発生する騒音振動を抑制すること。【解決手段】ブレーキ制御装置は、ブレーキペダルの操作に依らずにマスター圧を変更可能なマスター圧変更装置と、ブレーキ圧を制御可能なブレーキアクチュエータと、自動制動制御を行う制御装置と、を備える。第１モードにおいて、制御装置は、対象車輪のブレーキ圧の目標値が得られるようにブレーキアクチュエータを動作させる。第２モードにおいて、制御装置は、マスター圧がブレーキ圧の目標値となるようにマスター圧変更装置を動作させ、マスター圧と連動するように対象車輪のブレーキ圧を変える。制御装置は、自動制動制御の種類に応じて、第１モードと第２モードとを使い分ける。【選択図】図９
+title
+    ブレーキ制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP2018034537A,2018-03-08,ブレーキ制御装置
+    JP5983871B2,2016-09-06,ブレーキ装置
+    JP5800437B2,2015-10-28,自動車の電気油圧式のブレーキシステムを調整するための方法及び装置
+    JP6485418B2,2019-03-20,ブレーキ制御装置
+    US5707120A,1998-01-13,Stability control device of vehicle improved against hunting
+    US7613557B2,2009-11-03,Vehicle control system
+    JP5814866B2,2015-11-17,車両用制動装置
+    JP6597575B2,2019-10-30,車両の制動システム
+    JP5295750B2,2013-09-18,ブレーキ装置の制御装置
+    CN107697048B,2020-11-10,用于车辆的制动控制设备
+    JP5284241B2,2013-09-11,車両用ブレーキ圧制御装置
+    JP6662257B2,2020-03-11,車両の制動装置
+    JP2007145074A,2007-06-14,車両のアンチロック制御装置
+    JP5768900B2,2015-08-26,液圧ブレーキシステム
+    JP2000223312A,2000-08-11,車両の制動力制御装置
+    JP4682641B2,2011-05-11,車両のトラクション制御装置
+    JP5966994B2,2016-08-10,車両用ブレーキ制御装置
+    JP6197675B2,2017-09-20,車両の制動制御装置
+    JP2012121448A,2012-06-28,車両運動制御システム
+    JP5056408B2,2012-10-24,車両の運動制御装置
+    JP5067001B2,2012-11-07,車両用制動制御装置
+    US20060097568A1,2006-05-11,Method and device for braking two wheels of a vehicle
+    JP2022099964A,2022-07-05,車両用ブレーキシステム
+    JP2012171404A,2012-09-10,アンチスキッド制御装置
+    KR20110114120A,2011-10-19,차량 기준 속도 추정방법
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    JP2016167002A,2016-08-29,2016-08-29,ブレーキ制御装置
+    US15/602,849,2016-08-29,2017-05-23,Brake control device
+
+inventor_number
+    5
+classfication_nums
+    12
+classfication_items
+79
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,6
+    B,6,0,T,8,/,1,7,6,1
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,1,2
+    B,6,0,T,1,3,/,1,4
+    B,6,0,T,1,3,/,1,4,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,1,2
+    B,6,0,T,1,3,/,1,4
+    B,6,0,T,1,3,/,1,4,2
+    B,6,0,T,1,3,/,1,4,5
+    B,6,0,T,1,3,/,1,4,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,6,6
+    B,6,0,T,1,3,/,6,6,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,6,6
+    B,6,0,T,1,3,/,6,8
+    B,6,0,T,1,3,/,6,8,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,0,2
+    B,6,0,T,7,/,0,4
+    B,6,0,T,7,/,0,4,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,1,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,5,5
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,1,/,0,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,0,1,/,0,0
+    B,6,0,T,2,2,0,1,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,3,0
+    B,6,0,T,2,2,7,0,/,3,0,4
+
+application_events
+5
+    2016-08-29,Application filed by Toyota Motor Corp
+    2016-08-29,Priority to JP2016167002A
+    2017-05-23,Priority to US15/602,849
+    2018-03-08,Publication of JP2018034537A
+    Status,Pending
+
+active_area
+1
+    J,P
+
+not_active_area
+1
+    U,S
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2016167002A,2016-08-29,ブレーキ制御装置
+
+legal_event
+5
+    Date,Code,Title,Description
+    2018-02-21,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20180221
+    2019-01-24,A977,Report on retrieval,Free format text: JAPANESE INTERMEDIATE CODE: A971007Effective date: 20190124
+    2019-02-26,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20190226
+    2019-09-03,A02,Decision of refusal,Free format text: JAPANESE INTERMEDIATE CODE: A02Effective date: 20190903
+

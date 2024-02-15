@@ -1,0 +1,430 @@
+ID
+    US10144412B2
+citation_exist
+    Patent Citations (16)
+citation_infor
+18
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5270930A                      *,1990-11-30,1993-12-14,Mitsubishi Jidosha Kogyo Kabushiki Kaisha,Four wheel driving vehicle of a front/rear wheel differential operation limiting type
+    US5916293A                      *,1996-01-25,1999-06-29,Nissan Motor Co., Ltd.,Lockup control apparatus
+    WO2008026028A2,2006-08-28,2008-03-06,Toyota Jidosha Kabushiki Kaisha,Control apparatus and control method for an automatic transmission, program for directing a computer to execute the control method, and storage medium on which program is recorded
+    EP1967431A2,2007-03-06,2008-09-10,Nissan Motor Co., Ltd.,Control apparatus of driving system for vehicle
+    WO2009109831A1,2008-03-03,2009-09-11,Nissan Motor Co., Ltd.,Engine start control system for hybrid vehicle
+    EP2132462A2,2007-04-02,2009-12-16,Toyota Jidosha Kabusiki Kaisha,Vehicular control apparatus and vehicular control method
+    JP2010223402A,2009-03-25,2010-10-07,Jatco Ltd,Controller of vehicle
+    JP2011047458A,2009-08-26,2011-03-10,Jatco Ltd,Vehicle equipped with continuously variable transmission and method for controlling the same
+    US20120108388A1                      *,2010-11-01,2012-05-03,Jatco Ltd,Vehicle control apparatus and vehicle control method
+    Family To Family Citations,,,,
+    JP4698801B2                      *,2000-06-30,2011-06-08,いすゞ自動車株式会社,Half-clutch point learning method
+    JP2002022881A,2000-07-13,2002-01-23,Mitsubishi Heavy Ind Ltd,Concrete storage vessel
+    JP4747684B2                      *,2005-06-06,2011-08-17,日産自動車株式会社,Vehicle starting clutch control device
+    JP4857674B2                      *,2005-09-07,2012-01-18,トヨタ自動車株式会社,Clutch control initial pressure learning method and clutch drive control device
+    JP2008256190A                      *,2007-04-09,2008-10-23,Toyota Motor Corp,Torque transmission start point learning method and torque transmission start point learning device for automatic clutch
+    JP4856140B2                      *,2008-09-24,2012-01-18,ジヤトコ株式会社,Control device for automatic transmission for vehicle
+    JP5409526B2                      *,2010-06-18,2014-02-05,アイシン・エーアイ株式会社,Vehicle power transmission control device
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (20)
+              
+
+
+citedBy_infor
+22
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP6420461B2                      *,2015-03-17,2018-11-07,ジヤトコ株式会社,Control device for hybrid vehicle
+    JP2016210213A                      *,2015-04-30,2016-12-15,アイシン精機株式会社,Vehicle control device
+    EP3348873A4                      *,2015-09-10,2018-11-07,JATCO Ltd,Device for controlling automatic transmission and method for controlling automatic transmission
+    JP2017061236A                      *,2015-09-25,2017-03-30,アイシン精機株式会社,Vehicle drive device
+    JP6653556B2                      *,2015-11-26,2020-02-26,ジヤトコ株式会社,Control device and control method for electric vehicle
+    KR101878028B1                      *,2016-03-18,2018-07-16,현대자동차주식회사,Overheat preventing method of clutch for vehicle
+    KR101866027B1                      *,2016-06-28,2018-06-11,현대자동차주식회사,Method of launching of vehicle
+    DE112017003361T5                      *,2016-08-24,2019-03-21,Hitachi Automotive Systems, Ltd.,Vehicle control device
+    US10650621B1,2016-09-13,2020-05-12,Iocurrents, Inc.,Interfacing with a vehicular controller area network
+    KR102518585B1                      *,2016-12-13,2023-04-05,현대자동차 주식회사,Method and device for controlling engine clutch of hybrid vehicle
+    US10322688B2                      *,2016-12-30,2019-06-18,Textron Innovations Inc.,Controlling electrical access to a lithium battery on a utility vehicle
+    KR102406507B1,2017-03-27,2022-06-10,현대자동차주식회사,Apparatus for controlling autonomous vehicle based on deep learning, system having the same and method thereof
+    CN107120370B                      *,2017-04-27,2019-01-08,广州汽车集团股份有限公司,The guard method of clutch and device in vehicle travel process
+    CN108999711B                      *,2018-06-06,2020-10-09,上海汽车集团股份有限公司,Control method for improving idle speed stability of diesel engine
+    US11077856B2                      *,2019-05-28,2021-08-03,Ford Global Technologies, Llc,Methods and system for adapting operation of a transmission clutch
+    KR102263136B1                      *,2019-12-13,2021-06-10,주식회사 현대케피코,Pre-load Control Method For Improving Lock-Up Entering Response of Damper Clutch
+    CN113944702B                      *,2020-07-17,2023-07-04,上海汽车集团股份有限公司,Clutch torque adjusting method and device
+    CN112576726B                      *,2020-12-16,2022-04-05,潍柴动力股份有限公司,Parallel vehicle clutch self-learning method, device, equipment, medium and product
+    CN113022543A                      *,2021-03-25,2021-06-25,深圳臻宇新能源动力科技有限公司,Self-learning method, device and equipment of hybrid electric vehicle and storage medium
+    CN114572010B                      *,2022-05-05,2022-07-05,深圳弘富源科技有限公司,Energy-saving buffer for new energy automobile
+
+abstract
+    An initial variation learning control is executed when a learning condition is satisfied each time the learning condition is satisfied, with the aim of absorbing initial variations of manufacturing errors or variations of components of a second clutch (CL2). When the number of times of learning control is counted and this becomes a predetermined number (e.g. five times), after that, a deterioration variation learning control, which is equivalent to the initial variation learning control, is executed only once a trip from ON of a key switch to OFF of the key switch. With this, a frequency of execution of the learning control can be reduced, and the number of times of the learning can be reduced. It is therefore possible to suppress energy consumption and improve energy efficiency in stand-by pressure learning control of the second clutch that serves as a starter clutch.
+title
+    Vehicle controller
+similar_document
+13
+    Publication,Publication Date,Title
+    US10144412B2,2018-12-04,Vehicle controller
+    US9580076B2,2017-02-28,Vehicle controller
+    US8725333B2,2014-05-13,Control apparatus for vehicle and control method therefor
+    EP2447578B1,2013-12-11,Automatic transmission
+    US8725375B2,2014-05-13,Hydraulic control apparatus for vehicle
+    US8060268B2,2011-11-15,Control apparatus of a hybrid vehicle and method for controlling the same
+    US8983703B2,2015-03-17,Device for controlling hybrid vehicle
+    KR20120089579A,2012-08-13,Control apparatus for vehicle
+    US9381908B2,2016-07-05,Hybrid vehicle control device
+    US10344811B2,2019-07-09,Vehicle controlling device
+    US20140129071A1,2014-05-08,Vehicle control device
+    US10047853B2,2018-08-14,Oil pressure controller for automatic transmission
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    56
+classfication_items
+303
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,3
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,3,8
+    B,6,0,K,6,/,3,8,7
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,5,0
+    B,6,0,K,6,/,5,4
+    B,6,0,K,6,/,5,4,3
+    B,6,0,L,1,1,/,1,4
+    B,6,0,L,1,1,/,1,8,6,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,5,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,4,8,/,0,0
+    F,1,6,D,4,8,/,0,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,1,0
+    B,6,0,L,2,2,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,8
+    B,6,0,L,2,2,4,0,/,4,8,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,0
+    B,6,0,L,2,2,4,0,/,5,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,2
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,4,2
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,4,2
+    B,6,0,Y,2,3,0,0,/,4,2,7
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,4,2
+    B,6,0,Y,2,3,0,0,/,4,2,9
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,4,0,0,/,0,0
+    B,6,0,Y,2,4,0,0,/,4,2
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,2,5,0,0,/,0,0
+    F,1,6,D,2,5,0,0,/,1,0
+    F,1,6,D,2,5,0,0,/,1,0,6
+    F,1,6,D,2,5,0,0,/,1,0,6,6
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,2,5,0,0,/,0,0
+    F,1,6,D,2,5,0,0,/,3,0
+    F,1,6,D,2,5,0,0,/,3,0,2
+    F,1,6,D,2,5,0,0,/,3,0,2,4
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,2,5,0,0,/,0,0
+    F,1,6,D,2,5,0,0,/,5,0
+    F,1,6,D,2,5,0,0,/,5,0,2
+    F,1,6,D,2,5,0,0,/,5,0,2,4,5
+    F,1,6,D,2,5,0,0,/,5,0,2,5,1
+    F,1,6,D,2,5,0,0,/,5,0,2,6,3
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,2,5,0,0,/,0,0
+    F,1,6,D,2,5,0,0,/,5,0
+    F,1,6,D,2,5,0,0,/,5,1
+    F,1,6,D,2,5,0,0,/,5,1,1,6
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,2,5,0,0,/,0,0
+    F,1,6,D,2,5,0,0,/,7,0
+    F,1,6,D,2,5,0,0,/,7,0,4
+    F,1,6,D,2,5,0,0,/,7,0,4,0,2
+    F,1,6,D,2,5,0,0,/,7,0,4,0,8
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,2,5,0,0,/,0,0
+    F,1,6,D,2,5,0,0,/,7,0
+    F,1,6,D,2,5,0,0,/,7,0,4
+    F,1,6,D,2,5,0,0,/,7,0,4,2,2
+    F,1,6,D,2,5,0,0,/,7,0,4,2,6
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,2,5,0,0,/,0,0
+    F,1,6,D,2,5,0,0,/,7,0
+    F,1,6,D,2,5,0,0,/,7,0,4
+    F,1,6,D,2,5,0,0,/,7,0,4,5,2
+    F,1,6,D,2,5,0,0,/,7,0,4,5,4
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,2,5,0,0,/,0,0
+    F,1,6,D,2,5,0,0,/,7,0
+    F,1,6,D,2,5,0,0,/,7,0,6
+    F,1,6,D,2,5,0,0,/,7,0,6,0,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y,0,2,T,1,0,/,6,2,2,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,0,5
+    Y,0,2,T,1,0,/,7,0,4,4
+    Y,0,2,T,1,0,/,7,0,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y,0,2,T,1,0,/,7,0,7,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,4,1
+    Y,0,2,T,1,0,/,7,2,7,5
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,4,6
+
+application_events
+7
+    2014-08-27,Application filed by JATCO Ltd
+    2016-02-29,Assigned to JATCO LTD
+    2016-07-21,Publication of US20160207523A1
+    2018-12-04,Application granted
+    2018-12-04,Publication of US10144412B2
+    Status,Active
+    2034-10-28,Adjusted expiration
+
+active_area
+6
+    J,P
+    W,O
+    U,S
+    C,N
+    K,R
+    E,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2013190418A,2013-09-13,Vehicle control device
+    JP2013-190418,2013-09-13,
+    PCT/JP2014/072367,2014-08-27,Vehicle controller
+
+legal_event
+4
+    Date,Code,Title,Description
+    2016-02-29,AS,Assignment,Owner name: JATCO LTD, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:KOTSUJI, KOUICHI;SEKIGUCHI, SHOICHI;SIGNING DATES FROM 20160211 TO 20160216;REEL/FRAME:037849/0776
+    2018-11-14,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2022-05-18,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

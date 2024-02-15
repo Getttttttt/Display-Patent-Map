@@ -1,0 +1,233 @@
+ID
+    JP2018122854A
+citation_exist
+    Patent Citations (19)
+citation_infor
+21
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPS6467465A                      *,1987-09-08,1989-03-14,Nippon Abs Ltd,Liquid pressure controller for anti-skid device
+    JPH10322803A                      *,1997-05-12,1998-12-04,Toyota Motor Corp,車両用制動装置
+    JP2002104156A                      *,2000-09-27,2002-04-10,Toyota Motor Corp,車輌の制駆動力制御装置
+    JP2006197757A                      *,2005-01-14,2006-07-27,Nissan Motor Co Ltd,車両の回生制動制御装置
+    JP2008301564A                      *,2007-05-29,2008-12-11,Toyota Motor Corp,車両の回生制動制御装置及びそれを含む車両制御装置
+    JP2017520222A                      *,2014-06-04,2017-07-20,ローベルト ボッシュ ゲゼルシャフト ミット ベシュレンクテル ハフツング,回生ブレーキシステムのための制御装置および回生ブレーキシステムを運転するための方法
+    Family To Family Citations,,,,
+    JP4285124B2                      *,2003-07-17,2009-06-24,株式会社アドヴィックス,最大路面摩擦力推定装置、及びブレーキトルク制御装置
+    JP2006311791A                      *,2005-03-31,2006-11-09,Advics:Kk,車両用ブレーキ制御装置
+    DE102011080431A1                      *,2011-08-04,2013-02-07,Robert Bosch Gmbh,Steuervorrichtung für ein Bremssystem eines Fahrzeugs, Bremssystem für ein Fahrzeug und Verfahren zum Betreiben eines Bremssystems eines Fahrzeugs
+    JP5908779B2                      *,2012-05-01,2016-04-26,日立オートモティブシステムズ株式会社,ブレーキ制御装置、ブレーキ制御方法
+    DE102012211278A1                      *,2012-06-29,2014-01-02,Robert Bosch Gmbh,Verfahren zum Betreiben eines rekuperativen Bremssystems eines Fahrzeugs, Steuervorrichtung für ein rekuperatives Bremssystem eines Fahrzeugs und rekuperatives Bremssystem
+    US20140144728A1                      *,2012-11-28,2014-05-29,Toyota Motor Engineering & Manufacturing North America, Inc.,Brake torque sensing system
+    JP6236672B2                      *,2013-09-26,2017-11-29,日立オートモティブシステムズ株式会社,電動車両の制御装置
+    JP6233063B2                      *,2014-01-31,2017-11-22,トヨタ自動車株式会社,車両
+    US9457777B2                      *,2014-07-16,2016-10-04,Ford Global Technologies, Llc,System and method for applying regenerative braking during high friction coefficient braking
+    KR102120290B1                      *,2015-07-29,2020-06-08,닛산 지도우샤 가부시키가이샤,전동 차량의 제어 장치 및 전동 차량의 제어 방법
+    US20180093571A1                      *,2016-09-30,2018-04-05,Faraday&Future Inc.,Braking torque blending system and method
+    KR102417509B1                      *,2016-11-22,2022-07-05,현대자동차주식회사,회생제동 협조제어 시 제동 제어 방법
+    US20180154777A1                      *,2016-12-02,2018-06-07,Faraday&Future Inc.,Braking torque blending system and method for automatic emergency braking
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US9550480B2                      *,2011-10-21,2017-01-24,Autoliv Nissin Brake Systems Japan Co., Ltd.,Vehicle brake hydraulic pressure control apparatus and road surface friction coefficient estimating device
+    DE102014210559A1                      *,2014-06-04,2015-12-17,Robert Bosch Gmbh,Steuervorrichtung für ein rekuperatives Bremssystem und Verfahren zum Betreiben eines rekuperativen Bremssystems
+    JP6414044B2                      *,2015-12-25,2018-10-31,トヨタ自動車株式会社,車両の駆動力制御装置
+    DE102017204000A1,2017-03-10,2018-09-13,Zf Friedrichshafen Ag,Verfahren zur Antiblockierregelung eines Fahrzeugs und Fahrzeug
+
+abstract
+    【課題】ジェネレータブレーキトルクが、ＡＢＳ制御中においても高いレベルに維持され、ＡＢＳ制御のために標準的な液圧式のホイール制御機能が実施可能な回生ブレーキシステムの提供。【解決手段】回生ブレーキシステムのための制御装置であって電子制御回路を有し、回生ブレーキシステムを備えた車両のジェネレータ式に制動可能なホイールに回生ブレーキシステムの電動機を用いてそれぞれ作用させようとする目標ジェネレータブレーキトルクに関連した目標値Ｍｆｉｎａｌを規定し、目標値Ｍｆｉｎａｌに対応する制御信号が電動機にアウトプット可能である形式のものに関し、ホイールにおいてそれぞれ発生する摩擦値ｆｒ１，ｆｒ２に関連した第１の値ｆｒ１，ｆｒ２を考慮して、ホイールに作用させようとする液圧式の最小ブレーキトルクＭｈｙｄに関連したプリセット値を規定し、規定されたプリセット値Ｍｈｙｄを考慮して、目標値Ｍｆｉｎａｌを規定する。【選択図】図１
+title
+    回生ブレーキシステムのための制御装置および回生ブレーキシステムを運転するための方法
+similar_document
+26
+    Publication,Publication Date,Title
+    JP6577077B2,2019-09-18,回生ブレーキシステムのための制御装置および回生ブレーキシステムを運転するための方法
+    EP3050765B1,2020-11-11,Control device for electric vehicle
+    JP6278974B2,2018-02-14,制動力制御システム
+    US10336195B2,2019-07-02,Vehicle control apparatus and vehicle control method
+    US8308248B2,2012-11-13,Method for operating a vehicle brake system and vehicle brake system
+    EP2823985B1,2021-02-17,Brake control device
+    US20150375726A1,2015-12-31,Method for operating a brake system, brake system in which the method is performed, and uses of the brake system
+    US20160221468A1,2016-08-04,Device for controlling electric vehicle and method for controlling electric vehicle
+    JP2017071385A,2017-04-13,車両用回生制動協調制御システムの制動制御方法
+    KR20110125127A,2011-11-18,회생 제동 제어 방법
+    JP2018093645A,2018-06-14,電動車両の制御装置、電動車両の制御システム及び電動車両の制御方法
+    US9895978B2,2018-02-20,Braking force control method for vehicle
+    US9764720B2,2017-09-19,Method for operating an electric motor for braking a vehicle, and control device for an electric motor designed at least for braking a vehicle
+    JP2016111891A,2016-06-20,車両用制動力制御装置
+    US20180281760A1,2018-10-04,Control device for four-wheel drive vehicle
+    JP2015030280A,2015-02-16,車両用制動装置
+    CN109927558B,2022-06-28,用于控制制动系统的方法以及用于实施该方法的制动系统
+    EP3529113B1,2023-03-08,Lateral dynamic control for regenerative and friction brake blending
+    US11142177B2,2021-10-12,Method for adjusting brake pressures, brake system of a motor vehicle for carrying out such method, and motor vehicle comprising such a brake system
+    EP3666582A1,2020-06-17,Vehicle control device, vehicle control system, and vehicle control method
+    CN112805193B,2023-09-26,用于将驾驶员所请求的制动力矩分配到机动车的车桥上的方法
+    JP6122833B2,2017-04-26,車両の制動システム
+    JP2015196474A,2015-11-09,車両の制動力制御装置
+    JP2020175689A,2020-10-29,車両用制動力制御装置
+    JP2017100497A,2017-06-08,車両制御装置
+
+patent_application
+2
+    Application,Priority date,Filing date,Relation,Title
+    JP2016570257A,2014-06-04,2015-03-31,Division,回生ブレーキシステムのための制御装置および回生ブレーキシステムを運転するための方法
+
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    16
+classfication_items
+97
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,6,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,5
+    B,6,0,T,1,3,/,5,8,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,1,0,/,0,0
+    B,6,0,T,2,2,1,0,/,1,0
+    B,6,0,T,2,2,1,0,/,1,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,8,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,2,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+6
+    2018-03-05,Application filed by Robert Bosch GmbH
+    2018-08-09,Publication of JP2018122854A
+    2019-09-18,Application granted
+    2019-09-18,Publication of JP6577077B2
+    Status,Active
+    2035-03-31,Anticipated expiration
+
+active_area
+6
+    D,E
+    W,O
+    U,S
+    J,P
+    C,N
+    J,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    DE102014210559.5,2014-06-04,
+    DE102014210559.5A,2014-06-04,Steuervorrichtung für ein rekuperatives Bremssystem und Verfahren zum Betreiben eines rekuperativen Bremssystems
+
+legal_event
+12
+    Date,Code,Title,Description
+    2018-03-06,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20180306
+    2019-02-15,A977,Report on retrieval,Free format text: JAPANESE INTERMEDIATE CODE: A971007Effective date: 20190215
+    2019-02-27,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A132Effective date: 20190227
+    2019-05-14,A601,Written request for extension of time,Free format text: JAPANESE INTERMEDIATE CODE: A601Effective date: 20190514
+    2019-07-24,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20190724
+    2019-07-30,TRDD,Decision of grant or rejection written,
+    2019-08-06,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20190806
+    2019-08-29,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20190821
+    2019-08-30,R150,Certificate of patent or registration of utility model,Ref document number: 6577077Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R150
+    2022-08-23,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2023-08-22,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+

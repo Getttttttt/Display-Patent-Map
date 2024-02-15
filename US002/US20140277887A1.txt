@@ -1,0 +1,267 @@
+ID
+    US20140277887A1
+citation_exist
+    Patent Citations (3)
+citation_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20080177444A1                      *,2005-12-05,2008-07-24,Toyota Jidosha Kabushiki Kaisha,Power Source Control Device for Power Steering
+    WO2011114349A2                      *,2010-03-15,2011-09-22,Mahindra Reva Electric Vehicles Pvt. Ltd,Hybrid battery pack
+    US20130116868A1                      *,2011-11-04,2013-05-09,Tennant Company,Battery maintenance system
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (19)
+              
+
+
+citedBy_infor
+21
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20170182908A1                      *,2014-03-21,2017-06-29,Aleees Eco Ark (Cayman) Co. Ltd.,Battery management apparatus
+    EP3231655A1                      *,2016-04-14,2017-10-18,The Raymond Corporation,Systems and methods for a public standard interface for material handling vehicles
+    CN107650716A                      *,2017-09-28,2018-02-02,北京新能源汽车股份有限公司,Electric automobile and its torque monitoring method and system
+    CN108016303A                      *,2016-11-01,2018-05-11,现代自动车株式会社,Control the apparatus and method of the charging of the battery of hybrid vehicle
+    US10195948B2                      *,2017-03-07,2019-02-05,Textron Innovations Inc.,Controlling charge on a lithium battery of a utility vehicle
+    US20190039474A1                      *,2015-11-17,2019-02-07,Omron Corporation,Battery remaining capacity display device, battery system, and battery remaining capacity display method
+    CN109748202A                      *,2017-11-03,2019-05-14,海斯特耶鲁集团股份有限公司,More power supply vehicles
+    US20190165433A1                      *,2016-07-07,2019-05-30,Gs Yuasa International Ltd.,Vehicle communication system, battery management device, circuit board, battery, and communication specification switching method
+    US10395440B2,2016-07-07,2019-08-27,Nio Usa, Inc.,Battery agnostic provisioning of power
+    US10650621B1,2016-09-13,2020-05-12,Iocurrents, Inc.,Interfacing with a vehicular controller area network
+    US10759300B2,2016-10-31,2020-09-01,Hyundai Motor Company,Vehicle and control method thereof
+    CN111976543A                      *,2020-07-20,2020-11-24,南京工程学院,Charging and discharging control method for battery pack of electric automobile
+    EP3826130A1,2019-11-19,2021-05-26,FRONIUS INTERNATIONAL GmbH,Passive additional module for a battery, battery comprising such an additional module and method for supplying power to a passive additional module
+    CN113844315A                      *,2021-09-24,2021-12-28,北京胜能能源科技有限公司,Method, device, medium, electronic device and server for acquiring battery pack information
+    CN113910878A                      *,2021-09-28,2022-01-11,岚图汽车科技有限公司,Method, device, storage medium and equipment for determining parameters of electric drive system
+    CN114791993A                      *,2022-05-16,2022-07-26,江苏大学,SOH prediction method and system for power battery pack
+    CN115313591A                      *,2022-10-10,2022-11-08,福建兴翼机械有限公司,Battery control method, system, equipment, device and medium for electric grinding and polishing machine
+    US11512825B2,2018-02-22,2022-11-29,Signify Holding B.V.,Lighting device with battery housing
+    US11772501B2                      *,2019-07-17,2023-10-03,L3Harris Technologies, Inc.,Unmanned undersea vehicle with modular battery system
+    Family To Family Citations,,,,
+
+abstract
+    An electric vehicle and a method for adjusting vehicle parameters based on a type of battery modules inserted into a vehicle. A processor is configured to: receive at least one input parameter from the battery modules housed in the vehicle; determine at least a type (e.g., lithium or lead acid) and capacity of the battery modules in the vehicle; and adjust output parameters to a battery management system and one or more vehicle subsystems based on the determined type and capacity of battery modules. Accordingly, battery packs can be swapped without updating electrical software in the vehicle. A customer can alternate from one type of battery pack module to another more easily and can obtain cost savings. The method can be implemented using CAN bus protocol.
+title
+    Method and system for detecting battery type and capacity and automatically adjusting related vehicle parameters
+similar_document
+26
+    Publication,Publication Date,Title
+    US20140277887A1,2014-09-18,Method and system for detecting battery type and capacity and automatically adjusting related vehicle parameters
+    US20130241480A1,2013-09-19,Battery control device, battery system, electric vehicle, movable body, power storage device, and power supply device
+    US9696380B2,2017-07-04,Relay control system and method for controlling same
+    EP1548453A1,2005-06-29,Battery state-of-charge estimator
+    US8125187B2,2012-02-28,Method of controlling battery charging and discharging in a hybrid car power source
+    JP6215220B2,2017-10-18,Vehicle power supply
+    US20130113290A1,2013-05-09,Control device for power supply circuit
+    JP2016146728A,2016-08-12,Battery monitoring device
+    CN107107767B,2021-01-08,Method for controlling electrical components in a vehicle and corresponding computer program, computer-readable medium, control unit and vehicle
+    US20220144097A1,2022-05-12,System and method for managing vehicle battery
+    JP5838224B2,2016-01-06,Battery control device
+    KR20200054070A,2020-05-19,Battery control unit
+    US10131244B2,2018-11-20,Method for monitoring a battery
+    US20140062409A1,2014-03-06,Power supply system
+    US10840562B2,2020-11-17,Energy storage system, monitoring unit for energy storage device, and method of monitoring energy storage device
+    US8463474B2,2013-06-11,Method and system for controlling motor torque in hybrid vehicles
+    JP6018169B2,2016-11-02,Storage device failure determination method
+    CN107110917B,2021-01-26,Method for monitoring a battery pack and monitoring device
+    US11300622B2,2022-04-12,Battery value setting apparatus
+    KR20150003545A,2015-01-09,Battery system including auto power relay assembly and operating method thereof
+    JP2021173551A,2021-11-01,Assembled battery state determination device and state determination method
+    JP2016059137A,2016-04-21,Charge/discharge control device
+    US11621575B2,2023-04-04,Method for operating an electrical energy store system
+    US20210396800A1,2021-12-23,Electric insulation monitoring arrangement
+    JP2014106145A,2014-06-09,Battery monitoring device
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US14/212,550,2013-03-15,2014-03-14,Method and system for detecting battery type and capacity and automatically adjusting related vehicle parameters
+
+inventor_number
+    4
+classfication_nums
+    25
+classfication_items
+145
+    B,6,0,L,1,1,/,1,8,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,6,0
+    B,6,0,L,5,3,/,6,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+    Y,0,2,T,9,0,/,1,6,7
+    Y
+    Y,0,4
+    Y,0,4,S
+    Y,0,4,S,3,0,/,0,0
+    Y,0,4,S,3,0,/,1,0
+    Y,0,4,S,3,0,/,1,4
+
+application_events
+6
+    2014-03-14,Application filed by WM GreenTech Automotive Corp
+    2014-03-14,Priority to US14/212,550
+    2014-06-11,Assigned to WM GreenTech Automotive Corp
+    2014-09-18,Publication of US20140277887A1
+    2019-11-11,Assigned to ENCORE WEALTH INVESTMENTS LIMITED
+    Status,Abandoned
+
+active_area
+0
+
+not_active_area
+1
+    U,S
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    US201361798299P,2013-03-15,
+    US14/212,550,2014-03-14,Method and system for detecting battery type and capacity and automatically adjusting related vehicle parameters
+
+legal_event
+4
+    Date,Code,Title,Description
+    2014-06-11,AS,Assignment,Owner name: WM GREENTECH AUTOMOTIVE CORP, VIRGINIAFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:SLATTERY, ETHAN;OMOHUNDRO, ZACHARY;DAOU, YOUSSEF;SIGNING DATES FROM 20140507 TO 20140604;REEL/FRAME:033081/0119
+    2016-09-01,STCB,Information on status: application discontinuation,Free format text: ABANDONED  --  FAILURE TO RESPOND TO AN OFFICE ACTION
+    2019-11-11,AS,Assignment,Owner name: ENCORE WEALTH INVESTMENTS LIMITED, VIRGIN ISLANDS,Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:WM INDUSTRIES CORP. F/K/A WM GREENTECH AUTOMOTIVE CORP.;REEL/FRAME:050980/0900Effective date: 20190815
+

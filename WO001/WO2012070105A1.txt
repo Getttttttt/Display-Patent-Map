@@ -1,0 +1,277 @@
+ID
+    WO2012070105A1
+citation_exist
+    Patent Citations (10)
+citation_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH04289701A                      *,1991-03-18,1992-10-14,Honda Motor Co Ltd,Regenerative braking system for electric motor coach
+    JPH0787601A                      *,1993-09-16,1995-03-31,Honda Motor Co Ltd,電動車用電源装置
+    JPH11215610A,1998-01-21,1999-08-06,Yamaha Motor Co Ltd,電動車両の運転制御装置
+    JP2007001439A                      *,2005-06-23,2007-01-11,Yamaha Motor Co Ltd,ハイブリッド車両の駆動装置及びこれを搭載するハイブリッド車両
+    JP2007269095A                      *,2006-03-30,2007-10-18,Toyota Motor Corp,車両の制動力制御装置
+    JP2009303342A                      *,2008-06-11,2009-12-24,Honda Motor Co Ltd,電動車両、および電動車両の制御方法
+    Family To Family Citations,,,,
+    JP3682590B2                      *,1996-05-24,2005-08-10,ソニー株式会社,移動装置と移動制御方法
+    JP2002186105A                      *,2000-12-15,2002-06-28,Nippon Yusoki Co Ltd,電気車両の回生制動制御装置
+    JP4016714B2                      *,2002-05-21,2007-12-05,松下電器産業株式会社,補助動力装置付き自転車
+    JP2010283951A                      *,2009-06-03,2010-12-16,Mitsuba Corp,モータ制御装置
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (9)
+              
+
+
+citedBy_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN103625305A                      *,2012-08-23,2014-03-12,杨晓东,车轮引动式发电节能型电动或混合动力车
+    CN113093822A                      *,2021-04-02,2021-07-09,重庆理工大学,两轮单辙载具静态平衡控制系统和方法
+    Family To Family Citations,,,,
+    ITMO20140307A1                      *,2014-10-27,2016-04-27,Energica Motor Company S P A,Sistema per il pilotaggio di un motore elettrico in motocicli elettrici o simili
+    ES2879873T3,2017-12-01,2021-11-23,Gogoro Inc,Mecanismos de seguridad para motores eléctricos y sistemas asociados
+    CN109204669A                      *,2018-08-24,2019-01-15,四川卓能智控科技有限公司,充、放电控制系统及其控制方法
+    DE102019209219A1                      *,2019-06-26,2020-12-31,Robert Bosch Gmbh,Steuersystem für eine elektrische Maschine zum Erzeugen eines Bremsmoments durch die elektrische Maschine und Verfahren zum Betreiben eines Steuersystems für eine elektrische Maschine
+    TWI716031B                      *,2019-07-11,2021-01-11,品睿綠能科技股份有限公司,電動機車之檔位模擬系統及電動機車
+    JP2021136814A                      *,2020-02-28,2021-09-13,株式会社シマノ,人力駆動車用制御装置
+    CN115085610B                      *,2022-08-22,2022-12-09,深圳市好盈科技股份有限公司,应用于竞赛级遥控模型车的线性刹车控制方法和装置
+
+abstract
+    電動二輪車は、バッテリと、三相交流電動モータと、モータコントローラと、アクセル操作子と、アクセル操作検出手段と、ブレーキ操作子と、ブレーキ操作検出手段とを含む。電動モータは、界磁の強さを変化させる界磁可変手段を有し、バッテリから電流が供給されたときに駆動輪に伝達すべき駆動力を発生し、駆動輪が外力によって回転されたときに回生電流を発生するように構成されている。モータコントローラは、予め定めるアクセル操作が検出されたとき、およびブレーキ操作子の操作が検出されたときに、電動モータが発生する回生電流をバッテリに供給する回生動作を実行する回生制御手段と、予め定めるアクセル操作が検出されたときに最大回生電流を第１の一定値に設定し、ブレーキ操作子の操作が検出されたときに最大回生電流を第２の一定値に設定する回生量設定手段とを含む。
+title
+    電動二輪車
+similar_document
+22
+    Publication,Publication Date,Title
+    JP5636439B2,2014-12-03,電動二輪車
+    JP5636440B2,2014-12-03,電動二輪車
+    JP4648054B2,2011-03-09,ハイブリッド車両，電動駆動装置用制御装置及び電動駆動装置
+    EP2910400B1,2020-03-25,Regenerative brake control system of electric vehicle
+    JP4513612B2,2010-07-28,車両のトルク配分制御装置
+    JP2009196545A,2009-09-03,ハイブリッド駆動方式の車両
+    JP2008199716A,2008-08-28,車両駆動装置及びそれに用いられる電子回路装置
+    WO2015080021A1,2015-06-04,電気自動車の制御装置
+    JP2009284726A,2009-12-03,電動二輪車用モータ
+    JP5450834B2,2014-03-26,電動二輪車
+    JP2008074328A,2008-04-03,ハイブリッド車両の駆動力制御装置
+    JP6243142B2,2017-12-06,電気自動車の制御装置
+    JP6475047B2,2019-02-27,電動機付自転車
+    WO2016052234A1,2016-04-07,電気自動車の制御装置
+    JP6192811B2,2017-09-06,電動システムおよびそれを備える輸送機器
+    JP2007056933A,2007-03-08,車両の左右トルク配分制御装置
+    JP2009284727A,2009-12-03,電動二輪車用モータ
+    JP2014113023A,2014-06-19,電動車用駆動装置、及び電動車
+    WO2016075811A1,2016-05-19,電動車両の旋回補助システム、電動車両、回転電機
+    JP2008222168A,2008-09-25,４輪駆動車の制御装置
+    JP2004115200A,2004-04-15,フォークリフト
+
+patent_application
+    NoExist
+patent_priority_application
+6
+    Application,Priority date,Filing date,Title
+    EP10860039.6A,2010-11-22,2010-11-22,TWO-WHEEL ELECTRIC VEHICLE
+    JP2012545550A,2010-11-22,2010-11-22,電動二輪車
+    PCT/JP2010/070824,2010-11-22,2010-11-22,電動二輪車
+    CN2010800703045A,2010-11-22,2010-11-22,二轮电动车
+    TW100116221A,2010-11-22,2011-05-09,Two-wheeled electric vehicle
+
+inventor_number
+    7
+classfication_nums
+    25
+classfication_items
+152
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,1,/,0,0
+    H,0,2,P,2,1,/,0,0,8,5
+    H,0,2,P,2,1,/,0,0,8,9
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,3,/,0,0
+    H,0,2,P,3,/,0,6
+    H,0,2,P,3,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,6
+    B,6,0,L,2,2,4,0,/,6,6,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,8,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+7
+    2010-11-22,Application filed by ヤマハ発動機株式会社
+    2010-11-22,Priority to EP10860039.6A
+    2010-11-22,Priority to JP2012545550A
+    2010-11-22,Priority to PCT/JP2010/070824
+    2010-11-22,Priority to CN2010800703045A
+    2011-05-09,Priority to TW100116221A
+    2012-05-31,Publication of WO2012070105A1
+
+active_area
+2
+    C,N
+    W,O
+
+not_active_area
+2
+    J,P
+    E,P
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2010/070824,2010-11-22,電動二輪車
+
+legal_event
+5
+    Date,Code,Title,Description
+    2012-07-18,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 10860039Country of ref document: EPKind code of ref document: A1
+    2013-04-19,ENP,Entry into the national phase,Ref document number: 2012545550Country of ref document: JPKind code of ref document: A
+    2013-05-22,NENP,Non-entry into the national phase,Ref country code: DE
+    2013-06-20,WWE,Wipo information: entry into national phase,Ref document number: 2010860039Country of ref document: EP
+

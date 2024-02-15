@@ -1,0 +1,158 @@
+ID
+    WO2022067425A1
+citation_exist
+    Patent Citations (5)
+citation_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20070002773A1                      *,2002-07-10,2007-01-04,Yongchang Wang,Redundant multi-fiber optical ring network
+    US20100259221A1                      *,2009-04-09,2010-10-14,Tabatowski-Bush Ben A,Battery monitoring and control system and method of use
+    US20150102943A1                      *,2013-10-10,2015-04-16,Datang Nxp Semiconductors Co., Ltd.,Daisy-chain communication bus and protocol
+    US20150270727A1                      *,2012-09-10,2015-09-24,Renesas Electronics Corporation,Semiconductor device and battery voltage monitoring device
+    US20190006723A1                      *,2017-06-30,2019-01-03,Tesla, Inc.,Multi-channel and bi-directional battery management system
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    Vehicles and power banks use electric energy source management systems to manage sets of electric energy source (EES) devices. Examples of EES devices include battery cells, fuel cells, solar cells, and electric generators. An EES management system includes EES nodes and a command node that are connected together with fiber optic cables in a daisy chain communication ring topology to provide seamless and redundant communication. The command node duplicates a message and transmits a first instance of the message in one direction and simultaneously transmits a second instance of the same message in the other direction. Under nominal redundancy operation, a recipient EES node receives the first instance and the second instance of the message within an expected time from each other. In the event of breakage or failure in the network, the recipient EES node still receives the message with no data delay and with no data loss.
+title
+    Redundant fiber optic network and processing system for electric energy source management and related methods
+similar_document
+26
+    Publication,Publication Date,Title
+    US9407582B2,2016-08-02,Redundantly operable industrial communication system and method for operation thereof
+    US20090235001A1,2009-09-17,Communication System Having a Master/Slave Structure
+    US7899035B2,2011-03-01,Communication structure for solar inverters
+    EP2282452A1,2011-02-09,Data transmission in a ring-type communication network
+    US9019816B2,2015-04-28,Communication system, communication method, and communication apparatus
+    JP5579325B2,2014-08-27,Communication apparatus and communication system
+    JP2022508004A,2022-01-19,Multi-module optical fiber laser with real-time monitoring function for optical module abnormality
+    CN111711583B,2022-06-14,Switch supporting configuration of multiple redundancy protocols and transformer substation network system
+    US8959386B2,2015-02-17,Network and expansion unit and method for operating a network
+    CN103414636A,2013-11-27,Route backup device and method based on TD-LTE network and optical network
+    Goraj et al.,2012,Migration paths for IEC 61850 substation communication networks towards superb redundancy based on hybrid PRP and HSR topologies
+    CN112564238A,2021-03-26,Battery pack management system and control method thereof
+    WO2022067425A1,2022-04-07,Redundant fiber optic network and processing system for electric energy source management and related methods
+    CA3149901A1,2022-03-29,Redundant fiber optic network and processing system for electric energy source management and related methods
+    CN110085333A,2019-08-02,A kind of protection system suitable for Small reactor
+    CN112290572A,2021-01-29,Safety control method of energy storage system
+    CN106533771B,2019-12-06,Network equipment and control information transmission method
+    WO2022155745A1,2022-07-28,Redundant electrical communication network and devices for electric energy source management and related methods
+    KR102014202B1,2019-10-21,Power generation management system
+    US11026119B2,2021-06-01,Radio communication system for an industrial automation system and method for operating the radio communication system
+    CN108462537B,2020-04-21,Method for realizing one-master multi-slave communication
+    JP2011259064A,2011-12-22,Optical communication network system, slave station communication device and master station communication device
+    WO2022147618A1,2022-07-14,Redundant power over data wire network system for electric energy source management
+    CN105027455A,2015-11-04,Train information management device
+    CN113726848A,2021-11-30,Real-time data forwarding system and data forwarding method based on OPC
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    CA3149901A,2020-09-29,2021-09-28,Redundant fiber optic network and processing system for electric energy source management and related methods
+
+inventor_number
+    4
+classfication_nums
+    11
+classfication_items
+63
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,1,3,/,0,0
+    H,0,2,J,1,3,/,0,0,0,0,6
+    H,0,2,J,1,3,/,0,0,0,1,6
+    H,0,2,J,1,3,/,0,0,0,1,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,7,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,8,/,0,0
+    B,6,0,L,8,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,8,/,0,0
+    B,6,0,L,8,/,0,0,6
+    H
+    H,0,4
+    H,0,4,B
+    H,0,4,B,1,0,/,0,0
+    H,0,4,B,1,0,/,2,5
+    B
+    B,6,0
+    B,6,0,R
+    B,6,0,R,1,6,/,0,0
+    B,6,0,R,1,6,/,0,2
+    B,6,0,R,1,6,/,0,3
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,3,/,0,0
+    H,0,2,J,3,/,3,8
+    H,0,2,J,3,/,3,8,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+3
+    2021-09-28,Application filed by Neutron Automotive Controls Inc.
+    2021-09-28,Priority to CA3149901A
+    2022-04-07,Publication of WO2022067425A1
+
+active_area
+1
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    US202063084977P,2020-09-29,
+    US63/084,977,2020-09-29,
+
+legal_event
+4
+    Date,Code,Title,Description
+    2022-05-18,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 21873760Country of ref document: EPKind code of ref document: A1
+    2023-05-03,NENP,Non-entry into the national phase,Ref country code: DE
+    2023-10-11,122,Ep: pct application non-entry in european phase,Ref document number: 21873760Country of ref document: EPKind code of ref document: A1
+

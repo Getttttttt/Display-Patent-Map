@@ -1,0 +1,185 @@
+ID
+    WO2019160009A1
+citation_exist
+    Patent Citations (12)
+citation_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2002152903A                      *,1995-09-20,2002-05-24,Mitsubishi Motors Corp,電気式車両の回生制動制御装置
+    JP2011105096A                      *,2009-11-16,2011-06-02,Hitachi Automotive Systems Ltd,車両運動制御装置
+    JP2012121507A                      *,2010-12-10,2012-06-28,Advics Co Ltd,車両の操舵力制御装置
+    WO2013190653A1                      *,2012-06-20,2013-12-27,トヨタ自動車株式会社,車両の制御装置
+    JP2018001886A                      *,2016-06-30,2018-01-11,マツダ株式会社,車両用挙動制御装置
+    Family To Family Citations,,,,
+    JP3956693B2                      *,2001-12-27,2007-08-08,トヨタ自動車株式会社,統合型車両運動制御装置
+    JP2005271822A                      *,2004-03-25,2005-10-06,Mitsubishi Fuso Truck & Bus Corp,車両の自動減速制御装置
+    JP5929173B2                      *,2011-12-26,2016-06-01,株式会社アドヴィックス,ハイブリッド車両用運動制御装置
+    JP6204865B2                      *,2014-03-31,2017-09-27,日立オートモティブシステムズ株式会社,車両の運動制御システム、車両、および、プログラム
+    JP6222472B2                      *,2014-08-11,2017-11-01,マツダ株式会社,車両用挙動制御装置
+    JP6194940B2                      *,2015-11-06,2017-09-13,マツダ株式会社,車両用挙動制御装置
+    JP6253000B1                      *,2016-09-14,2017-12-27,マツダ株式会社,車両の制御装置
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    CN111439129A                      *,2020-04-14,2020-07-24,江西精骏电控技术有限公司,一种电动汽车滑行能量回收控制方法
+    CN112660092A                      *,2021-01-05,2021-04-16,奇瑞新能源汽车股份有限公司,电动汽车的下坡制动方法、装置及电动汽车
+    CN115092106B                      *,2022-06-21,2023-04-25,合众新能源汽车股份有限公司,车辆的冗余制动的控制方法和控制系统
+
+abstract
+    車両の制御方法は、操舵角センサ８により検出された操舵角に基づき、ステアリングホイール６などを含む操舵装置が切り込み操作されたか否かを判定する工程と、操舵装置が切り込み操作されたと判定されたときに、車両姿勢を制御するように、モータジェネレータ４の駆動力を低下させて、車両１に減速度を付加する工程と、勾配センサ１２により検出された路面勾配が下り勾配側の勾配を示す第１値であるときに、勾配センサ１２により検出された路面勾配が第１値よりも平坦側の勾配を示す第２値であるときよりも、車両１に付加する減速度を大きくする工程と、を有する。
+title
+    車両の制御方法、車両システム及び車両の制御装置
+similar_document
+23
+    Publication,Publication Date,Title
+    EP3738816B1,2022-12-07,Vehicle control method, and control device for vehicle system and vehicle
+    WO2019151207A1,2019-08-08,車両の制御方法、車両システム及び車両の制御装置
+    JP7038971B2,2022-03-22,車両の制御方法、車両システム及び車両の制御装置
+    WO2017183416A1,2017-10-26,車両用挙動制御装置
+    WO2017183415A1,2017-10-26,車両用挙動制御装置
+    WO2017183417A1,2017-10-26,車両用挙動制御装置
+    WO2019160009A1,2019-08-22,車両の制御方法、車両システム及び車両の制御装置
+    WO2017183418A1,2017-10-26,車両用挙動制御装置
+    US20210146914A1,2021-05-20,Vehicle control apparatus
+    WO2019151208A1,2019-08-08,車両の制御方法、車両システム及び車両の制御装置
+    US11529991B2,2022-12-20,Control system for vehicle
+    JP7008944B2,2022-02-10,車両システム
+    JP7034438B2,2022-03-14,車両の制御方法及び車両システム
+    JP7038972B2,2022-03-22,車両の制御方法、車両システム及び車両の制御装置
+    JP2020040480A,2020-03-19,車両の制御方法、車両システム及び車両の制御装置
+    JP7008945B2,2022-02-10,車両の制御方法及び車両システム
+    JP7377433B2,2023-11-10,車両の制御システム
+    JP7034437B2,2022-03-14,車両の制御方法及び車両システム
+    JP7185219B2,2022-12-07,車両の制御方法、車両システム及び車両の制御装置
+    US20210197797A1,2021-07-01,Control system for vehicle
+    JP6988557B2,2022-01-05,車両の制御方法、車両システム及び車両の制御装置
+    JP6683186B2,2020-04-15,車両の制御装置
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    5
+classfication_nums
+    13
+classfication_items
+78
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B,6,0,L,1,5,/,2,0,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,5,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,0,2
+    B,6,0,W,3,0,/,0,4,5
+    B
+    B,6,2
+    B,6,2,D
+    B,6,2,D,6,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B,6,0,L,2,2,4,0,/,6,4,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+2
+    2019-02-14,Application filed by マツダ株式会社
+    2019-08-22,Publication of WO2019160009A1
+
+active_area
+3
+    J,P
+    C,N
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2018025656A,2018-02-16,車両の制御方法、車両システム及び車両の制御装置
+    JP2018-025656,2018-11-26,
+
+legal_event
+4
+    Date,Code,Title,Description
+    2019-10-02,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 19754336Country of ref document: EPKind code of ref document: A1
+    2020-08-18,NENP,Non-entry into the national phase,Ref country code: DE
+    2021-02-24,122,Ep: pct application non-entry in european phase,Ref document number: 19754336Country of ref document: EPKind code of ref document: A1
+

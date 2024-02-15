@@ -1,0 +1,312 @@
+ID
+    US20230182739A1
+citation_exist
+    Patent Citations (25)
+citation_infor
+27
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2000175303A                      *,1998-12-03,2000-06-23,Toyota Motor Corp,Braking force controller for vehicle
+    US20160144721A1                      *,2014-11-20,2016-05-26,Ford Global Technologies, Llc,System and method for optimizing regenerative braking in adaptive cruise control
+    Family To Family Citations,,,,
+    GB0130006D0,2000-12-21,2002-02-06,Inpharmatica Ltd,Annotation method
+    US7104617B2,2002-09-06,2006-09-12,Ford Motor Company,Independent braking and controllability control method and system for a vehicle with regenerative braking
+    US7163487B2                      *,2004-05-14,2007-01-16,General Motors Corporation,Engine retard operation scheduling and management in a hybrid vehicle
+    US7386379B2                      *,2005-07-22,2008-06-10,Gm Global Technology Operations, Inc.,Method and apparatus to control coordinated wheel motors
+    JP4637770B2                      *,2006-03-01,2011-02-23,三菱ふそうトラック・バス株式会社,Control device for hybrid electric vehicle
+    JP5040147B2,2006-04-05,2012-10-03,日産自動車株式会社,Brake control device for vehicle
+    US8135526B2,2007-11-03,2012-03-13,GM Global Technology Operations LLC,Method for controlling regenerative braking and friction braking
+    WO2012053592A1,2010-10-21,2012-04-26,日野自動車株式会社,Regeneration control device, hybrid automobile, regeneration control method, and program
+    JP5073875B2,2010-10-22,2012-11-14,日野自動車株式会社,Vehicle, control method, and program
+    JP5637217B2,2010-10-22,2014-12-10,日産自動車株式会社,Vehicle regenerative braking control device
+    US20130162009A1                      *,2011-12-22,2013-06-27,Coda Automotive, Inc.,Electric vehicle regenerative braking system
+    JP5814891B2,2012-08-30,2015-11-17,株式会社アドヴィックス,Braking device for vehicle
+    CN103072576B                      *,2012-10-19,2015-09-23,昆山力久新能源汽车技术有限公司,Based on the chaufeur requested torque security architecture of parallel organization
+    JP6177666B2,2013-11-12,2017-08-09,日立オートモティブシステムズ株式会社,Drive control device for moving body
+    US9352744B2,2014-01-17,2016-05-31,Ford Global Technologies, Llc,Hybrid vehicle braking limit determination system and method
+    US9296391B2,2014-03-25,2016-03-29,Ford Global Technologies, Llc,E-drive torque sensing vehicle state estimation methods for vehicle control
+    KR101664580B1,2014-11-12,2016-10-11,현대자동차주식회사,Method for determining amount of regenerative braking
+    US9340199B1                      *,2014-12-10,2016-05-17,Ford Global Technologies, Llc,Method of braking in hybrid vehicle
+    CN104477038B,2014-12-31,2017-01-04,芜湖伯特利汽车安全系统股份有限公司,Electric automobile regenerative braking system and regenerative braking method thereof
+    US10040439B2                      *,2015-03-06,2018-08-07,GM Global Technology Operations LLC,Method to coordinate propulsion torque actuators through torque limits
+    WO2018011816A1,2016-07-12,2018-01-18,Nauli Manjunath Mallesh,Systems and processes for use on moving transport systems based on deceleration / accelerator status and the principle of energy conservation, for minimizing energy wastage in locomotives, automotives and lifts, using a dual use vane system
+    JP6847492B2                      *,2017-06-02,2021-03-24,日立Astemo株式会社,Electric vehicle control device, electric vehicle control system, and electric vehicle control method
+    WO2022251072A1,2021-05-26,2022-12-01,Cummins Inc.,Method and system with selectable multimode control of regenerative braking torque limitation
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US11745600B2                      *,2020-02-04,2023-09-05,Subaru Corporation,Driving force controller for vehicle
+    FR3113626B1                      *,2020-08-26,2023-04-21,Renault Sas,Method for managing regenerative braking of a motor vehicle
+    US11130403B1                      *,2020-09-28,2021-09-28,Ford Global Technologies, Llc,One-pedal drive system for a vehicle
+
+abstract
+    A method is provided for scheduling regenerative braking torque, comprising: sensing a position of an accelerator pedal; generating a torque request value in response to the sensed accelerator pedal position; determining a speed of operation of a motor/generator; determining a torque limit in response to the torque request value and the determined speed of the motor/generator; generating a regenerative braking command in response to the torque limit; and outputting the regenerative braking command to the motor/generator.
+title
+    System and method for regenerative braking torque scheduling
+similar_document
+26
+    Publication,Publication Date,Title
+    US20230182739A1,2023-06-15,System and method for regenerative braking torque scheduling
+    US8055422B2,2011-11-08,Vehicle deceleration rate control method and apparatus
+    JP5725037B2,2015-05-27,Vehicle and vehicle control method
+    WO1996017741A1,1996-06-13,Braking control device for electric motorcar
+    US20100274423A1,2010-10-28,Idle speed regulation for a hybrid vehicle
+    KR20190136353A,2019-12-10,Brake system and controlling method thereof
+    JP3480489B2,2003-12-22,Regenerative braking control device
+    JP2020023280A,2020-02-13,Control device of hybrid vehicle
+    US20030184147A1,2003-10-02,Method and system to provide coastdown braking torque to an electrically propelled vehicle without regenerative braking
+    JP3228438B2,2001-11-12,Hybrid vehicle
+    JP3791195B2,2006-06-28,Hybrid car
+    JP3636020B2,2005-04-06,Vehicle control when multiple accelerator sensors are abnormal
+    US20200079219A1,2020-03-12,Hybrid Vehicle Brake Control
+    WO2003082619A1,2003-10-09,Control device for hybrid vehicle
+    JP3374720B2,2003-02-10,Control device for hybrid vehicle
+    JP2000219062A,2000-08-08,Hybrid type vehicle
+    JP5185052B2,2013-04-17,Vehicle control apparatus and control method
+    JP5245886B2,2013-07-24,Regenerative cooperative brake control device and regenerative cooperative brake control method
+    JP3721443B2,2005-11-30,Hybrid car
+    US11447017B2,2022-09-20,Control of user-selectable vehicle deceleration rate to maximize regeneration for electrified propulsion systems
+    JP2009208600A,2009-09-17,Regenerative cooperation brake control device
+    JP2003235110A,2003-08-22,Hybrid system for vehicle
+    CN113924238B,2022-08-30,Electric device control method and electric device
+    KR20180070341A,2018-06-26,Hybrid vehicle and method of controlling mode transition
+    JP3292130B2,2002-06-17,Series hybrid electric vehicle
+
+patent_application
+3
+    Application,Priority date,Filing date,Relation,Title
+    US15/734,134,2018-08-01,2019-07-31,Continuation,System and method for regenerative braking torque scheduling
+    PCT/US2019/044332,2018-08-01,2019-07-31,Continuation,System and method for regenerative braking torque scheduling
+
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US18/105,009,2018-08-01,2023-02-02,System and method for regenerative braking torque scheduling
+
+inventor_number
+    3
+classfication_nums
+    29
+classfication_items
+175
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,0,6
+    B,6,0,T,1,/,0,6,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,5
+    B,6,0,T,1,3,/,5,8,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,0,2
+    B,6,0,T,7,/,0,4
+    B,6,0,T,7,/,0,4,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,9,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,1,/,0,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B,6,0,L,2,2,5,0,/,2,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,8
+    B,6,0,W,2,5,1,0,/,0,8,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+
+application_events
+5
+    2023-02-02,Application filed by Cummins Inc
+    2023-02-02,Priority to US18/105,009
+    2023-05-26,Assigned to CUMMINS INC.
+    2023-06-15,Publication of US20230182739A1
+    Status,Pending
+
+active_area
+4
+    E,P
+    U,S
+    E,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+5
+    Application,Filing date,Title
+    US201862713142P,2018-08-01,
+    PCT/US2019/044332,2019-07-31,System and method for regenerative braking torque scheduling
+    US202015734134A,2020-12-01,
+    US18/105,009,2023-02-02,System and method for regenerative braking torque scheduling
+
+legal_event
+5
+    Date,Code,Title,Description
+    2023-05-26,AS,Assignment,Owner name: CUMMINS INC., INDIANAFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:BOOKS, MARTIN T.;PAQUETTE, JOSEPH E.;SIGNING DATES FROM 20190320 TO 20190321;REEL/FRAME:063779/0036
+    2023-06-20,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2023-08-26,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2023-09-13,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+

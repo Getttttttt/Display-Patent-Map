@@ -1,0 +1,213 @@
+ID
+    EP3522349A1
+citation_exist
+    Patent Citations (8)
+citation_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP4489091B2                      *,2003-09-03,2010-06-23,株式会社東芝,Electric vehicle control device
+    JP4568169B2                      *,2005-05-18,2010-10-27,株式会社東芝,Electric vehicle control device
+    JP4746525B2                      *,2006-11-30,2011-08-10,株式会社東芝,Electric vehicle control device
+    US8001906B2                      *,2007-05-07,2011-08-23,General Electric Company,Electric drive vehicle retrofit system and associated method
+    ES2649531T3                      *,2008-09-19,2018-01-12,Mitsubishi Electric Corporation,DC-DC converter
+    WO2011007430A1                      *,2009-07-15,2011-01-20,三菱電機株式会社,Propulsion control device of electric car
+    JP6069151B2,2013-09-24,2017-02-01,株式会社日立製作所,Power converter control circuit
+    CN105226790B                      *,2015-10-14,2017-12-01,北京交通大学,Urban rail super capacitor energy-storage system capacity control method
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    A power conversion device for a railroad vehicle according to one embodiment of the present invention is configured such that a first power conversion device for converting first DC power from a DC power source into AC power, and a second power conversion device for converting the first DC power into second DC power having a voltage level different from the voltage level of the first DC power and for storing the second DC power in a power storage means, are connected in parallel to the DC power source. The power conversion device controls the second power conversion device on the basis of a charging/discharging control command for the power storage means, and a voltage oscillation component superimposed on the first DC power. As a result, a resonance phenomenon in a DC section, to which the first and second power conversion devices are connected in parallel, can be prevented without adjusting control parameters and circuits of the first power conversion device. Consequently, emergency travel and effective utilization of power can be easily achieved by mounting a power storage device in an existing vehicle drive system, for example.
+title
+    Power conversion device for railroad vehicle and for retrofitting to railroad vehicle, and control method therefor
+similar_document
+26
+    Publication,Publication Date,Title
+    US9327604B2,2016-05-03,Electric vehicle control apparatus and electric vehicle
+    CA2768235C,2013-09-24,Propulsion control apparatus for electric motor car
+    US7723865B2,2010-05-25,Bidirectional buck boost DC-DC converter, railway coach drive control system, and railway feeder system
+    JP4643670B2,2011-03-02,Electric car drive
+    JP5048384B2,2012-10-17,Battery charger for railway vehicles
+    CN105897023B,2019-02-26,Vehicle drive system
+    EP2498387B1,2019-12-25,Power converter and power converter of rolling stock
+    EP2412558B1,2017-09-06,Ac electric vehicle control device
+    KR20140148314A,2014-12-31,Power conversion device having electric storage device
+    JP2009183078A,2009-08-13,Drive system of electric vehicle
+    JP2003070160A,2003-03-07,Dc device and vehicle using the same
+    JP6069151B2,2017-02-01,Power converter control circuit
+    EP3522349A1,2019-08-07,Power conversion device for railroad vehicle and for retrofitting to railroad vehicle, and control method therefor
+    GB2537732A,2016-10-26,Vehicle drive system
+    JP3144848B2,2001-03-12,Power converter for electric vehicles
+    JP2000156902A,2000-06-06,Method and apparatus for control of electric railroad rolling stock
+    JP3085406B2,2000-09-11,Power converter for AC electric vehicles
+    JP3186495B2,2001-07-11,Power converter for AC electric vehicles
+    KR100603993B1,2006-07-24,A electric power regeneration apparatus that equipped a active power filter in electric train
+    JP2672885B2,1997-11-05,Power failure detection device for AC electric vehicles
+    CN107206912A,2017-09-26,Power accessories
+    JP2018050406A,2018-03-29,Auxiliary power supply unit
+    JP2023042118A,2023-03-27,Power converter control device and control method
+    JPH0866042A,1996-03-08,Stationary frequency converter
+    JPH0866055A,1996-03-08,Power conversion apparatus
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    9
+classfication_nums
+    17
+classfication_items
+103
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,5,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,9,/,0,0
+    B,6,0,L,9,/,1,6
+    B,6,0,L,9,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,9,/,0,0
+    B,6,0,L,9,/,1,6
+    B,6,0,L,9,/,1,8
+    B,6,0,L,9,/,2,2
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H,0,2,M,3,/,0,2
+    H,0,2,M,3,/,0,4
+    H,0,2,M,3,/,1,0
+    H,0,2,M,3,/,1,4,5
+    H,0,2,M,3,/,1,5,5
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H,0,2,M,3,/,0,2
+    H,0,2,M,3,/,0,4
+    H,0,2,M,3,/,1,0
+    H,0,2,M,3,/,1,4,5
+    H,0,2,M,3,/,1,5,5
+    H,0,2,M,3,/,1,5,6
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,4,2
+    H,0,2,M,7,/,4,4
+    H,0,2,M,7,/,4,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,0,0,0,3
+    H,0,2,M,1,/,0,0,1,6
+    H,0,2,M,1,/,0,0,2,2
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,4
+    Y,0,4,S
+    Y,0,4,S,1,0,/,0,0
+    Y,0,4,S,1,0,/,1,2
+    Y,0,4,S,1,0,/,1,2,6
+
+application_events
+4
+    2017-06-30,Application filed by Hitachi Ltd
+    2019-08-07,Publication of EP3522349A1
+    2020-05-27,Publication of EP3522349A4
+    Status,Withdrawn
+
+active_area
+2
+    J,P
+    W,O
+
+not_active_area
+1
+    E,P
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2016190515,2016-09-29,
+    PCT/JP2017/024136,2017-06-30,Power conversion device for railroad vehicle and for retrofitting to railroad vehicle, and control method therefor
+
+legal_event
+16
+    Date,Code,Title,Description
+    2018-04-07,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE INTERNATIONAL PUBLICATION HAS BEEN MADE
+    2019-07-05,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2019-07-05,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+    2019-08-07,17P,Request for examination filed,Effective date: 20190213
+    2019-08-07,AK,Designated contracting states,Kind code of ref document: A1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2019-08-07,AX,Request for extension of the european patent,Extension  state: BA ME
+    2020-01-08,DAV,Request for validation of the european patent (deleted),
+    2020-01-08,DAX,Request for extension of the european patent (deleted),
+    2020-05-27,A4,Supplementary search report drawn up and despatched,Effective date: 20200423
+    2020-05-27,RIC1,Information provided on ipc code assigned before grant,Ipc: H02M   1/14        20060101AFI20200417BHEPIpc: B60L  50/53        20190101ALI20200417BHEPIpc: H02M   7/48        20070101ALI20200417BHEPIpc: H02M   1/00        20060101ALI20200417BHEPIpc: B60L   9/22        20060101ALI20200417BHEPIpc: H02M   3/156       20060101ALI20200417BHEP
+    2021-02-04,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: EXAMINATION IS IN PROGRESS
+    2021-03-10,17Q,First examination report despatched,Effective date: 20210203
+    2021-06-11,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: EXAMINATION IS IN PROGRESS
+    2022-12-16,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE APPLICATION HAS BEEN WITHDRAWN
+    2023-01-18,18W,Application withdrawn,Effective date: 20221212
+

@@ -1,0 +1,293 @@
+ID
+    US20150066266A1
+citation_exist
+    Patent Citations (19)
+citation_infor
+21
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20060102394A1                      *,2004-11-16,2006-05-18,Eaton Corporation,Regeneration and brake management system
+    US20080208422A1                      *,2007-02-27,2008-08-28,Toyota Jidosha Kabushiki Kaisha,Control system and control method of vehicular drive system
+    US20090150035A1                      *,2007-12-05,2009-06-11,Ford Global Technologies, Llc,Hybrid Electric Vehicle Braking Downshift Control
+    US20090149295A1                      *,2007-12-06,2009-06-11,Hitachi,Ltd.,Vehicle control apparatus and vehicle equipped with the control apparatus
+    US20110177903A1                      *,2010-01-21,2011-07-21,Joshua Campbell,Continuously Variable Planet Gear Transmission
+    US20110239801A1                      *,2010-03-31,2011-10-06,Aisin Aw Co., Ltd.,Control device
+    US20120031692A1                      *,2010-08-05,2012-02-09,Honda Motor Co., Ltd.,Vehicle braking system
+    US20120203438A1                      *,2009-12-12,2012-08-09,Karsten Breuer,Driver Assistance System for a Vehicle, in Particular Commercial Vehicle, and Method for Controlling a Brake System
+    US20120265382A1                      *,2011-04-13,2012-10-18,Ford Global Technologies, Llc.,Torque Modulation in a Hybrid Vehicle Downshift During Regenerative Braking
+    US20120290163A1                      *,2010-03-30,2012-11-15,Aisin Aw Co., Ltd.,Vehicle transmission device
+    US20130020858A1                      *,2010-03-31,2013-01-24,Kazuya Maki,Vehicle brake device
+    Family To Family Citations,,,,
+    DE102005032196A1,2005-07-09,2007-01-18,Bayerische Motoren Werke Ag,Drive device for a motor vehicle
+    JP3982556B1                      *,2006-03-17,2007-09-26,トヨタ自動車株式会社,Vehicle braking device
+    US8112194B2                      *,2007-10-29,2012-02-07,GM Global Technology Operations LLC,Method and apparatus for monitoring regenerative operation in a hybrid powertrain system
+    DE102008032769A1,2008-07-11,2010-01-14,Volkswagen Ag,Method for controlling recuperation process in motor vehicle, involves controlling amount of torque within another time interval, which lies between switching operations, using interconnection relationship
+    US8055422B2                      *,2008-08-08,2011-11-08,GM Global Technology Operations LLC,Vehicle deceleration rate control method and apparatus
+    KR101048138B1                      *,2008-11-28,2011-07-08,기아자동차주식회사,Regenerative braking control device for automobile
+    US9079484B2                      *,2009-03-19,2015-07-14,Toyota Jidosha Kabushiki Kaisha,Control device for vehicle power transmission device
+    KR101048149B1                      *,2009-11-17,2011-07-08,기아자동차주식회사,Regenerative braking torque compensation device and method for hybrid vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20170015188A1                      *,2015-07-13,2017-01-19,Hyundai Motor Company,Vehicle control method for energy recovery
+    Family To Family Citations,,,,
+    US10166855B2                      *,2015-09-12,2019-01-01,GM Global Technology Operations LLC,Vehicle, system, and method of calculating an engine torque request value
+    JP6384464B2,2015-12-14,2018-09-05,トヨタ自動車株式会社,Power transmission control device
+
+abstract
+    A method for maximizing regenerative energy captured by an electric machine in a powertrain including an engine, the electric machine and a transmission device configured to transfer torque through a driveline includes detecting an operator brake request and monitoring a time between the detected operator brake request and a preceding operator brake request that was last detected. A maximized regenerative deceleration event is initiated if the time exceeds a predetermined threshold time that includes monitoring a current fixed gear ratio that is selected from among a plurality of fixed gear ratios of the transmission device when the operator brake request is detected and applying a magnitude of torque at the axle that is sufficient for achieving a maximum capability of the electric machine to capture regenerative energy in the current fixed gear ratio.
+title
+    Method to maximize available regeneration while maintaining linear vehicle deceleration rate
+similar_document
+26
+    Publication,Publication Date,Title
+    EP1970240B1,2011-07-20,Engine start control system for hybrid vehicle
+    US9376006B2,2016-06-28,Vehicle
+    US9126592B2,2015-09-08,Method and apparatus for monitoring unintended vehicle motion
+    US9604623B2,2017-03-28,Drive control system for electric motor and method of controlling electric motor
+    US9663108B2,2017-05-30,Method and apparatus for controlling creep torque in a hybrid powertrain system
+    US20120245773A1,2012-09-27,Control system for electric vehicle
+    US8457825B2,2013-06-04,Method and apparatus for operating a powertrain system in response to accessory load
+    US9283952B2,2016-03-15,Method and apparatus for fault mitigation in a torque machine of a powertrain system
+    CN103832428A,2014-06-04,System and method for controlling engine clutch delivery torque of hybrid electric vehicle
+    CN109969161B,2020-07-28,Vehicle starting method and device
+    JP6040961B2,2016-12-07,Vehicle control system
+    US9139096B2,2015-09-22,One-sided detection and disabling of integrator wind up for speed control in a vehicle
+    US9302674B2,2016-04-05,Method to maximize available regeneration while maintaining linear vehicle deceleration rate
+    US8821341B2,2014-09-02,Output torque error mitigation for strong hybrid PRNDL neutral operation
+    US8948942B2,2015-02-03,Pre-emptive output torque reduction for a transient speed event and prioritization of inertia
+    US9545849B2,2017-01-17,Vehicle system and method for adapting lift pedal regeneration
+    US9260108B2,2016-02-16,Hybrid powertrain and method for controlling the same
+    WO2019188544A1,2019-10-03,Regenerative control device
+    US9822830B2,2017-11-21,Method and apparatus for learning linearity error of hydraulic pressure sensor for hydraulic clutch
+    US8989976B2,2015-03-24,Method and apparatus for operating a multi-mode transmission system under dynamic conditions
+    KR20050119989A,2005-12-22,Method and system for controlling regenerative braking of four wheel drive electric vehicle
+    JP7127364B2,2022-08-30,Regenerative control device for hybrid vehicle
+    CN116605058A,2023-08-18,Vehicle energy recovery intensity control method and device and vehicle
+    JP2016097730A,2016-05-30,Hybrid-vehicular control method
+    WO2014155193A1,2014-10-02,Control apparatus for hybrid vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+4
+    Application,Priority date,Filing date,Title
+    US14/018,503,2013-09-05,2013-09-05,Method to maximize available regeneration while maintaining linear vehicle deceleration rate
+    DE102014111960.6A,2013-09-05,2014-08-21,Method of maximizing available regenerative braking while maintaining a linear vehicle deceleration rate
+    CN201410451870.0A,2013-09-05,2014-09-05,Maximize the method that can maintain the linear vehicle rate of deceleration simultaneously with regeneration
+
+inventor_number
+    4
+classfication_nums
+    26
+classfication_items
+163
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,5,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,0
+    B,6,0,W,1,0,/,1,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,0
+    B,6,0,W,1,0,/,1,1
+    B,6,0,W,1,0,/,1,1,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,9,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B,6,0,W,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,5
+    B,6,0,W,2,0,/,1,9
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,3,0
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,3,/,0,0
+    H,0,2,P,3,/,0,6
+    H,0,2,P,3,/,0,8
+    H,0,2,P,3,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,8
+    B,6,0,L,2,2,4,0,/,4,8,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,1,0
+    B,6,0,W,2,5,1,0,/,1,0,0,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,3,/,0,0
+    H,0,2,P,3,/,0,2
+    H,0,2,P,3,/,0,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,3
+
+application_events
+7
+    2013-09-05,Application filed by GM Global Technology Operations LLC
+    2013-09-05,Priority to US14/018,503
+    2015-03-05,Publication of US20150066266A1
+    2016-04-05,Application granted
+    2016-04-05,Publication of US9302674B2
+    Status,Active
+    2034-06-19,Adjusted expiration
+
+active_area
+3
+    U,S
+    D,E
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US14/018,503,2013-09-05,Method to maximize available regeneration while maintaining linear vehicle deceleration rate
+
+legal_event
+8
+    Date,Code,Title,Description
+    2013-09-06,AS,Assignment,Owner name: GM GLOBAL TECHNOLOGY OPERATIONS LLC, MICHIGANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:ALDRICH, WILLIAM L., III;HAWKINS, MATTHEW;MCGROGAN, SEAN W.;SIGNING DATES FROM 20130828 TO 20130903;REEL/FRAME:031148/0968
+    2014-06-12,AS,Assignment,Owner name: WILMINGTON TRUST COMPANY, DELAWAREFree format text: SECURITY INTEREST;ASSIGNOR:GM GLOBAL TECHNOLOGY OPERATIONS LLC;REEL/FRAME:033135/0440Effective date: 20101027
+    2014-11-07,AS,Assignment,Owner name: GM GLOBAL TECHNOLOGY OPERATIONS LLC, MICHIGANFree format text: RELEASE BY SECURED PARTY;ASSIGNOR:WILMINGTON TRUST COMPANY;REEL/FRAME:034189/0065Effective date: 20141017
+    2015-12-03,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2016-03-16,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2019-09-20,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+    2023-09-21,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+

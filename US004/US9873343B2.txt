@@ -1,0 +1,239 @@
+ID
+    US9873343B2
+citation_exist
+    Patent Citations (16)
+citation_infor
+18
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH07142095A,1993-11-22,1995-06-02,Toshiba Battery Co Ltd,Charging method for secondary battery
+    US6518726B1                      *,2002-01-18,2003-02-11,Eagle-Picher Technologies, L.L.C.,Battery charger and charge control system
+    JP2004242379A,2003-02-03,2004-08-26,Nipron Co Ltd,Backup battery pack for computer
+    JP2008092624A,2006-09-29,2008-04-17,Toyota Motor Corp,Vehicle charging system, vehicle charger and electric vehicle
+    JP2010119171A,2008-11-11,2010-05-27,Toyota Motor Corp,Device and method for controlling inverter
+    JP2010220305A,2009-03-13,2010-09-30,Toyota Motor Corp,Electric vehicle
+    US20100270976A1,2009-04-23,2010-10-28,Denso Corporation,Battery system for vehicle
+    US20100277128A1,2009-05-04,2010-11-04,Apple Inc.,Portable electronic device having automatic low temperature battery charging capability
+    WO2011004464A1,2009-07-08,2011-01-13,トヨタ自動車株式会社,Secondary-battery temperature-raising apparatus and vehicle having same
+    WO2011004250A2,2009-07-08,2011-01-13,Toyota Jidosha Kabushiki Kaisha,Secondary battery temperature-increasing control apparatus and vehicle including the same, and secondary battery temperature-increasing control method
+    JP2011015544A,2009-07-02,2011-01-20,Honda Motor Co Ltd,Electrically-driven vehicle
+    JP2011083124A,2009-10-07,2011-04-21,Toyota Motor Corp,Electric vehicle
+    WO2011101959A1,2010-02-17,2011-08-25,トヨタ自動車株式会社,Power supply device
+    US20150048796A1                      *,2012-03-25,2015-02-19,Gbatteries Energy Inc.,Extended life battery
+    Family To Family Citations,,,,
+    JP4957538B2                      *,2007-12-27,2012-06-20,アイシン・エィ・ダブリュ株式会社,Converter device, rotating electrical machine control device, and drive device
+    JP2010025722A,2008-07-18,2010-02-04,Shimadzu Corp,X-ray detector
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (14)
+              
+
+
+citedBy_infor
+16
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP2015213419A                      *,2014-04-15,2015-11-26,トヨタ自動車株式会社,Electric vehicle
+    JP6064968B2                      *,2014-10-10,2017-01-25,トヨタ自動車株式会社,Power system
+    JP6292154B2,2015-03-19,2018-03-14,トヨタ自動車株式会社,Power system
+    JP6505528B2                      *,2015-07-03,2019-04-24,株式会社神戸製鋼所,Storage system warm-up system
+    CN105141009B                      *,2015-10-13,2018-04-24,珠海市杰理科技股份有限公司,Method for managing power supply, power management chip and electronic system
+    JP6269647B2                      *,2015-12-14,2018-01-31,トヨタ自動車株式会社,Power system
+    JP6776611B2                      *,2016-05-16,2020-10-28,スズキ株式会社,Vehicle battery control
+    CN110392956B,2017-01-09,2023-06-23,米沃奇电动工具公司,Battery pack
+    CN106976408B                      *,2017-05-15,2023-04-07,重庆国翰能源发展有限公司,Charging pile sharing box capable of achieving parallel sharing charging
+    CN111098760B                      *,2018-10-26,2021-12-10,法法汽车(中国)有限公司,Device and method for heating battery pack of electric vehicle and electric vehicle
+    JP7099277B2                      *,2018-11-21,2022-07-12,株式会社デンソー,Electric car
+    CN110962692B,2019-06-24,2020-12-11,宁德时代新能源科技股份有限公司,Battery pack heating system and control method thereof
+    DE102020123983A1                      *,2019-09-18,2021-03-18,Schaeffler Technologies AG & Co. KG,Circuit for discharging an energy store of a drive system
+    JP2022181576A                      *,2021-05-26,2022-12-08,株式会社デンソー,Charging device and program
+
+abstract
+    A power storage system having a power storage device configured to be charged and discharged, a boost circuit and a controller, and a method of controlling the temperature of the power storage device are provided. The boost circuit includes a reactor and switching devices, and boosts the output voltage of the power storage device when the switching devices are driven. The controller alternately performs a charging operation to supply electric power from an external power supply to the power storage device, and a temperature elevating operation to warm up the power storage device, using ripple current generated when the switching devices are driven.
+title
+    Power storage system and temperature control method for the same
+similar_document
+20
+    Publication,Publication Date,Title
+    US9873343B2,2018-01-23,Power storage system and temperature control method for the same
+    US11338702B2,2022-05-24,Control system and method for battery pack heating system, and battery pack heating management system
+    JP4840481B2,2011-12-21,Secondary battery temperature increase control device, vehicle equipped with the same, and secondary battery temperature increase control method
+    US10358047B2,2019-07-23,Electric power storage system
+    KR101189237B1,2012-10-09,System and method of recharge for hybrid vehicle
+    JP5648211B2,2015-01-07,Plug-in hybrid vehicle charging device
+    US20160207403A1,2016-07-21,Electric power storage system
+    JP5333671B1,2013-11-06,Power storage system
+    JP2011055700A,2011-03-17,Device for transferring energy using onboard power electronics and method for manufacturing the same
+    US8760111B2,2014-06-24,Secondary battery output power controller
+    JP5338799B2,2013-11-13,Battery heating system
+    US20150105955A1,2015-04-16,Power system of electric vehicle, electric vehicle comprising the same and method for heating battery group of electric vehicle
+    JP2014075297A,2014-04-24,Power storage system
+    JP2018026300A,2018-02-15,Charging system
+    JP2014135825A,2014-07-24,Power storage system
+    US9007034B2,2015-04-14,Electric power generation control system for vehicle
+    JP2014087081A,2014-05-12,Power storage system
+    KR20150034857A,2015-04-06,System and method for battery heating control of electric vehicle
+    JP5724922B2,2015-05-27,Power storage system and abnormality determination method
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    25
+classfication_items
+112
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,1,0
+    B,6,0,L,5,3,/,1,4
+    B,6,0,L,1,1,/,1,8,1,6
+    B,6,0,L,1,1,/,1,8,0,3
+    B,6,0,L,1,1,/,1,8,6,1
+    B,6,0,L,1,1,/,1,8,7,2
+    B,6,0,L,1,1,/,1,8,7,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B,6,0,L,5,8,/,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B,6,0,L,5,8,/,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,2,5
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,4
+    H,0,1,M,1,0,/,4,4,3
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,7
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,1,4
+    H,0,2,J,7,/,1,4,3,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,2,5
+    H,0,1,M,2,0,1,0,/,4,2,7,1
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,2,2,2,0,/,0,0
+    H,0,1,M,2,2,2,0,/,2,0
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,0,5
+    Y,0,2,T,1,0,/,7,0,4,4
+    Y,0,2,T,1,0,/,7,0,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+
+application_events
+7
+    2013-08-14,Application filed by Toyota Motor Corp
+    2014-12-17,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2015-11-12,Publication of US20150321577A1
+    2018-01-23,Application granted
+    2018-01-23,Publication of US9873343B2
+    Status,Active
+    2034-03-22,Adjusted expiration
+
+active_area
+5
+    J,P
+    E,P
+    U,S
+    C,N
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2012-188877,2012-08-29,
+    JP2012188877A,2012-08-29,Power storage system
+    PCT/IB2013/001778,2013-08-14,Power storage system and temperature control method for the same
+
+legal_event
+4
+    Date,Code,Title,Description
+    2014-12-17,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:MURATA, TAKASHI;REEL/FRAME:034532/0409Effective date: 20141113
+    2018-01-03,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2020-12-07,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

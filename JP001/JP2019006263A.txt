@@ -1,0 +1,230 @@
+ID
+    JP2019006263A
+citation_exist
+    Patent Citations (9)
+citation_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2004248458A                      *,2003-02-17,2004-09-02,Toshiba Corp,ハイブリッド電気自動車駆動装置
+    JP2015061442A                      *,2013-09-19,2015-03-30,株式会社オートネットワーク技術研究所,変圧装置
+    JP2016022774A                      *,2014-07-17,2016-02-08,パナソニックＩｐマネジメント株式会社,車両用電源システム
+    JP2016193632A                      *,2015-03-31,2016-11-17,富士重工業株式会社,車両用電源装置
+    Family To Family Citations,,,,
+    JP5928177B2,2012-06-14,2016-06-01,日産自動車株式会社,トルクアシスト制御装置
+    JP5757298B2                      *,2013-01-25,2015-07-29,トヨタ自動車株式会社,車両の電源システムおよびそれを備える車両
+    WO2014188541A1                      *,2013-05-22,2014-11-27,三菱電機株式会社,車両用電源システム
+    JP5977855B1                      *,2015-03-31,2016-08-24,富士重工業株式会社,車両用電源装置
+    JP6582509B2                      *,2015-04-15,2019-10-02,スズキ株式会社,車両用電源システム
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    CN111572556B                      *,2020-05-26,2021-04-20,安徽安凯汽车股份有限公司,一种智能驾驶上电控制设备
+
+abstract
+    【課題】蓄電体に異常が発生した場合であっても、車両用制御装置を適切に機能させる。【解決手段】鉛バッテリ３１とこれに接続される電気負荷とを備える第１電源系５１と、エンジンに連結されるスタータジェネレータ１６とこれに接続されるリチウムイオンバッテリ３２とを備える第２電源系５２と、第１電源系５１と第２電源系５２とを接続する導通状態と切り離す遮断状態とに制御されるスイッチＳＷ１と、スタータジェネレータ１６の作動状態に基づいてスイッチＳＷ１を制御するスイッチ制御部と、を有し、スイッチ制御部は、スタータジェネレータ１６が力行状態に制御され、エンジンが停止状態から始動回転される場合には、スイッチＳＷ１を遮断状態に制御する一方、スタータジェネレータ１６が力行状態に制御され、エンジンが回転状態から補助駆動される場合には、スイッチＳＷ１を導通状態に制御する。【選択図】図９
+title
+    車両用制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP6467451B2,2019-02-13,車両用電源装置
+    JP6371791B2,2018-08-08,車両用電源装置
+    JP2016193634A,2016-11-17,車両用電源装置
+    JP6272291B2,2018-01-31,車両用電源装置
+    JP6691502B2,2020-04-28,車両用電源装置
+    JP2016193635A,2016-11-17,車両用電源装置
+    JP6527561B2,2019-06-05,車両用制御装置
+    JP6860421B2,2021-04-14,車両用電源装置
+    JP6523747B2,2019-06-05,車両用電源装置
+    JP2020096402A,2020-06-18,車両用電源装置
+    JP2016194253A,2016-11-17,車両用制御装置
+    JP6646703B2,2020-02-14,車両用電源装置
+    JP2017114303A,2017-06-29,車両用電源装置
+    JP6543069B2,2019-07-10,車両用電源装置
+    JP2018131040A,2018-08-23,車両用制御装置
+    JP2015180140A,2015-10-08,車両用電源システム
+    JP6560713B2,2019-08-14,車両用電源装置
+    CA3000605C,2022-06-21,Vehicle power supply control method and vehicle power supply control device
+    CN108656953B,2022-12-13,车辆用控制装置
+    JP2011163282A,2011-08-25,車両用電源装置
+    JP2019006263A,2019-01-17,車両用制御装置
+    JP6793156B2,2020-12-02,車両用電源装置
+    JP6768039B2,2020-10-14,車両用電源装置
+    JP7133407B2,2022-09-08,車両用電源装置
+    JP6748670B2,2020-09-02,車両用電源装置
+
+patent_application
+    NoExist
+patent_priority_application
+4
+    Application,Priority date,Filing date,Title
+    JP2017124009A,2017-06-26,2017-06-26,車両用制御装置
+    US15/967,334,2017-06-26,2018-04-30,Vehicle control apparatus
+    CN201810514611.6A,2017-06-26,2018-05-25,车辆用控制装置
+
+inventor_number
+    5
+classfication_nums
+    18
+classfication_items
+115
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,6,1
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B,6,0,K,6,/,4,8,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,0,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,2,6
+    B,6,0,K,2,0,0,6,/,2,6,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B,6,0,K,2,0,0,6,/,4,8,3,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,2,0,5,0,/,0,0,0,1
+    B,6,0,W,2,0,5,0,/,0,0,0,2
+    B,6,0,W,2,0,5,0,/,0,0,0,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+
+application_events
+6
+    2017-06-26,Application filed by Subaru Corp
+    2017-06-26,Priority to JP2017124009A
+    2018-04-30,Priority to US15/967,334
+    2018-05-25,Priority to CN201810514611.6A
+    2019-01-17,Publication of JP2019006263A
+    Status,Pending
+
+active_area
+3
+    J,P
+    U,S
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2017124009A,2017-06-26,車両用制御装置
+
+legal_event
+6
+    Date,Code,Title,Description
+    2018-03-16,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20180316
+    2019-02-14,A977,Report on retrieval,Free format text: JAPANESE INTERMEDIATE CODE: A971007Effective date: 20190214
+    2019-03-05,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20190305
+    2019-05-07,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20190507
+    2019-10-23,A02,Decision of refusal,Free format text: JAPANESE INTERMEDIATE CODE: A02Effective date: 20191023
+

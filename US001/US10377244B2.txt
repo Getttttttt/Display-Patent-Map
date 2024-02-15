@@ -1,0 +1,297 @@
+ID
+    US10377244B2
+citation_exist
+    Patent Citations (22)
+citation_infor
+24
+    Publication number,Priority date,Publication date,Assignee,Title
+    US3774095A                      *,1972-09-20,1973-11-20,Westinghouse Air Brake Co,System for blending regenerative and dynamic and friction braking
+    US5511859A                      *,1995-08-25,1996-04-30,General Motors Corporation,Regenerative and friction brake blend control
+    KR100561152B1,2003-04-24,2006-03-15,닛산 지도우샤 가부시키가이샤,Vehicle brake system
+    KR20080024651A,2006-09-14,2008-03-19,주식회사 만도,The control method of hydraulic brake for hybrid electric vehicle
+    KR101152013B1,2010-05-03,2012-06-01,성균관대학교산학협력단,method for controlling regenerative braking of the In？wheel motor type vehicles
+    US20140257664A1                      *,2011-09-28,2014-09-11,Continental Teves Ag & Co., Ohg,Slip-controlled braking system for electrically driven motor vehicles
+    US20150202965A1                      *,2004-03-09,2015-07-23,Ford Global Technologies, Llc,System and method for controlling regenerative braking in a vehicle
+    JP2015226377A,2014-05-28,2015-12-14,Ntn株式会社,Automobile brake device
+    JP2016028913A,2014-07-25,2016-03-03,日産自動車株式会社,Vehicle pitching vibration control device
+    KR20160056530A,2014-11-12,2016-05-20,현대자동차주식회사,Method for determining amount of regenerative braking
+    US20180134161A1                      *,2016-11-11,2018-05-17,Toyota Motor Engineering & Manufacturing North America, Inc.,Systems and methods for adaptive braking using brake wear data
+    Family To Family Citations,,,,
+    JP3322084B2                      *,1995-08-07,2002-09-09,トヨタ自動車株式会社,Electric vehicle braking system
+    JP4058932B2                      *,2001-10-25,2008-03-12,トヨタ自動車株式会社,Brake control device for vehicle
+    JP4370775B2                      *,2002-12-17,2009-11-25,日産自動車株式会社,Combined brake coordination controller
+    JP4839864B2                      *,2006-01-31,2011-12-21,トヨタ自動車株式会社,VEHICLE, ITS CONTROL METHOD, AND BRAKE DEVICE
+    KR100836039B1                      *,2006-10-24,2008-06-09,현대자동차주식회사,Break control method
+    JP5107075B2                      *,2008-01-31,2012-12-26,トヨタ自動車株式会社,Braking device
+    CN101524995B                      *,2009-04-09,2010-09-29,吉林大学,Hybrid power car braking coordinated control system and control method thereof
+    US20110304198A1                      *,2010-06-11,2011-12-15,Cottrell V Daniel D,Method for controlling regenerative and hydraulic braking
+    JP5691453B2                      *,2010-12-03,2015-04-01,日産自動車株式会社,Brake control device for electric vehicle
+    EP2823985B1                      *,2012-03-07,2021-02-17,Nissan Motor Co., Ltd,Brake control device
+    JP2014111413A                      *,2012-12-05,2014-06-19,Daimler Ag,Travel control device of hybrid electric automobile
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (7)
+              
+
+
+citedBy_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    DE102014210559A1                      *,2014-06-04,2015-12-17,Robert Bosch Gmbh,Control device for a recuperative braking system and method for operating a recuperative braking system
+    FR3084026A1                      *,2018-07-17,2020-01-24,Psa Automobiles Sa,METHOD FOR CONTROLLING AN ELECTRICAL CONTROL CIRCUIT OF A MOTOR VEHICLE BRAKING SYSTEM
+    US11142176B2                      *,2018-12-20,2021-10-12,Vanderhall Motor Works, Inc.,Electric vehicle with antilock braking system
+    JP7035995B2                      *,2018-12-25,2022-03-15,トヨタ自動車株式会社,Driving support device
+    CN109720209A                      *,2018-12-29,2019-05-07,重庆小康工业集团股份有限公司,Energy back-feed control method, system and vehicle
+    CN111674265B                      *,2020-05-21,2023-05-23,中国汽车技术研究中心有限公司,Braking energy monitoring device and method for electric automatic driving automobile
+    CN113460014B                      *,2021-07-28,2022-08-26,安徽江淮汽车集团股份有限公司,Control method for deceleration of brake tail end of electric automobile
+
+abstract
+    A braking control method includes steps of: (i) confirming whether to enter a blending section where regenerative braking torque is reduced and friction braking torque is increased; (ii) determining a target reduced deceleration by a controller upon entering the blending section; (iii) reducing braking torque of a vehicle in response to the determined target reduced deceleration; and (iv) returning the braking torque of the vehicle to driver's requested braking torque when the vehicle is being stopped.
+title
+    Braking control method in regenerative braking cooperative control
+similar_document
+26
+    Publication,Publication Date,Title
+    US10377244B2,2019-08-13,Braking control method in regenerative braking cooperative control
+    US8744713B2,2014-06-03,Method for controlling braking of vehicle
+    US8903621B2,2014-12-02,Method and system for controlling braking of vehicle
+    JP5721792B2,2015-05-20,Vehicle regenerative braking control method including at least one electric motor
+    JP5668856B2,2015-02-12,Brake control device for vehicle
+    US9931942B2,2018-04-03,Method and system for controlling braking force in regenerative brake cooperative control
+    US7322659B2,2008-01-29,Method and system for brake distribution in a regenerative braking system
+    US10131232B2,2018-11-20,Method for controlling braking force in regenerative brake cooperation control system
+    US20130085631A1,2013-04-04,System and method for controlling uphill driving of an electric vehicle
+    CN107428324B,2020-03-24,Method for operating a recuperation brake system of a vehicle and control device for a recuperation brake system of a vehicle
+    CN105460004B,2020-05-01,Apparatus and method for controlling creep torque of hybrid electric vehicle
+    CN109910851B,2021-06-04,IEHB-based slip rate and acceleration joint anti-lock control method and system
+    WO2013182674A1,2013-12-12,Braking control system
+    CN107521476B,2022-06-17,Method and assembly for powertrain braking and friction braking of a vehicle
+    US20160052521A1,2016-02-25,Apparatus and method for controlling distribution of braking force of vehicle
+    US10179578B2,2019-01-15,Method for controlling braking of vehicle to prevent jerk when parking or stopping vehicle
+    US9981554B2,2018-05-29,System and method for controlling braking of electric vehicle
+    US20150360570A1,2015-12-17,Method and apparatus for controlling drive motor
+    JP2013086618A,2013-05-13,Braking force control device
+    CN110198872B,2021-12-21,Brake system
+    JP5966663B2,2016-08-10,Brake control device for vehicle
+    JP2013133006A,2013-07-08,Brake control device of vehicle
+    JP5966662B2,2016-08-10,Brake control device for vehicle
+    CN111186306A,2020-05-22,Control method and system for preventing vehicle from rolling down slope reversely and vehicle comprising system for preventing vehicle from rolling down slope reversely
+    US11407314B2,2022-08-09,Brake system
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    28
+classfication_items
+166
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,2,6
+    B,6,0,T,8,/,2,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,2,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B,6,0,W,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B,6,0,L,2,2,4,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,8,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,2,0,/,0,0
+    B,6,0,T,2,2,2,0,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,3,0,/,0,0
+    B,6,0,T,2,2,3,0,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,1
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,2
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,4,0,0,/,0,0
+    B,6,0,Y,2,4,0,0,/,8,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+
+application_events
+7
+    2017-04-09,Application filed by Hyundai Motor Co
+    2017-04-19,Assigned to HYUNDAI MOTOR COMPANY
+    2018-05-24,Publication of US20180141441A1
+    2019-08-13,Application granted
+    2019-08-13,Publication of US10377244B2
+    Status,Active
+    2037-11-15,Adjusted expiration
+
+active_area
+3
+    K,R
+    U,S
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    KR1020160155717A,2016-11-22,Method for controlling regenerative brake cooperation system
+    KR10-2016-0155717,2016-11-22,
+
+legal_event
+6
+    Date,Code,Title,Description
+    2017-04-19,AS,Assignment,Owner name: HYUNDAI MOTOR COMPANY, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:KIM, IN SU;LEE, SANG HYUP;REEL/FRAME:042094/0780Effective date: 20170324
+    2019-03-23,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2019-04-08,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2019-07-24,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2023-01-23,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

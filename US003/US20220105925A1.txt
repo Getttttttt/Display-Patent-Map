@@ -1,0 +1,285 @@
+ID
+    US20220105925A1
+citation_exist
+    Patent Citations (10)
+citation_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    KR101558772B1                      *,2014-05-21,2015-10-07,현대자동차주식회사,Control apparatus and method for regenerative braking of eco-friendly vehicle
+    US20160347294A1                      *,2015-05-29,2016-12-01,Hyundai Motor Company,System and method for variably controlling regenerative braking
+    US20180326852A1                      *,2015-11-09,2018-11-15,Nissan Motor Co., Ltd.,Braking/Driving Force Control Method and Braking/Driving Force Control Device
+    US20200148208A1                      *,2018-11-09,2020-05-14,Hyundai Motor Company,Vehicle and method for controlling the same
+    Family To Family Citations,,,,
+    DE102015214538A1                      *,2015-07-30,2017-02-02,Continental Automotive Gmbh,Driver assistance system for adjusting the braking force of an electric recuperation brake of a vehicle
+    JP6568759B2                      *,2015-09-30,2019-08-28,日立オートモティブシステムズ株式会社,Lane change system
+    CN114801757A                      *,2016-11-09,2022-07-29,华为技术有限公司,Method and device for recovering braking energy of vehicle
+    US11161510B2                      *,2017-03-06,2021-11-02,Ford Global Technologies, Llc,Methods and system for operating a hybrid vehicle
+    JP7290964B2                      *,2019-03-20,2023-06-14,株式会社Subaru,vehicle
+    KR20220006158A                      *,2020-07-07,2022-01-17,현대자동차주식회사,Vehicle and control method for the same
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20220111844A1                      *,2020-10-09,2022-04-14,Toyota Jidosha Kabushiki Kaisha,Vehicle control system
+    US20220348201A1                      *,2021-04-30,2022-11-03,Nissan North America, Inc.,Intelligent Pedal Lane Change Assist
+    US11702075B2,2021-04-30,2023-07-18,Nissan North America, Inc.,System and method for proactive lane assist
+    US11807237B2                      *,2020-10-09,2023-11-07,Toyota Jidosha Kabushiki Kaisha,Vehicle control system
+    Family To Family Citations,,,,
+
+abstract
+    Method and systems for one-pedal driving (OPD) control for a vehicle. The methods and systems determine that regenerative braking is to be applied based on accelerator pedal stroke data, predict an upcoming deceleration event based on sensor data from a sensor system of the vehicle, thereby providing deceleration prediction data, adjust a default braking profile based on the deceleration prediction data, generate a regenerative braking command based on the accelerator pedal stroke data and the adjusted braking profile, and output the regenerative braking command to a motor/generator of the vehicle.
+title
+    One pedal driving
+similar_document
+26
+    Publication,Publication Date,Title
+    JP6512303B2,2019-05-15,Braking / driving force control method and braking / driving force control device
+    US10239526B2,2019-03-26,Adaptive cruise control system
+    US10220848B2,2019-03-05,Braking/driving force control method and braking/driving force control device
+    JP6286192B2,2018-02-28,Drive control device for moving body
+    US10759425B2,2020-09-01,Autonomous driving system
+    JP6305218B2,2018-04-04,Vehicle travel control device
+    US20220105925A1,2022-04-07,One pedal driving
+    KR20200068156A,2020-06-15,Vehicle and control method for the same
+    US20220203988A1,2022-06-30,Method for driving a vehicle platoon
+    JP2018090064A,2018-06-14,Travel control device, vehicle, control method for travel control device, and program
+    US11273823B2,2022-03-15,Method for determining a maximum speed of a vehicle during a parking maneuver
+    JP3797115B2,2006-07-12,Vehicle speed control device
+    US20210284142A1,2021-09-16,Control device and vehicle
+    JP2019077353A,2019-05-23,Drive support apparatus
+    EP4126618A1,2023-02-08,Arbitrating friction and regenerative braking for autonomous vehicles
+    JP7191973B2,2022-12-19,Garage mode control unit, control system and control method
+    JP3870674B2,2007-01-24,Vehicle tracking control device
+    US20230059643A1,2023-02-23,Vehicle and acceleration limit control method therefor
+    US11273831B2,2022-03-15,Vehicle and control device for the same
+    US20230331146A1,2023-10-19,Changing headlight properties to recommend vehicle speed
+    JP2023071521A,2023-05-23,Driving force control device
+    CN117002268A,2023-11-07,Single pedal driving system with active area notification for electric vehicle
+    KR20220108250A,2022-08-03,System for controlling failure of environmental vehicle
+    CN116788223A,2023-09-22,Vehicle and computer-implemented method of operating a vehicle
+    JP2021079746A,2021-05-27,Control device of vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+4
+    Application,Priority date,Filing date,Title
+    US17/060,698,2020-10-01,2020-10-01,One pedal driving
+    DE102021110803.9A,2020-10-01,2021-04-27,ONE PEDAL RIDING
+    CN202110505508.7A,2020-10-01,2021-05-10,Single pedal driving
+
+inventor_number
+    4
+classfication_nums
+    28
+classfication_items
+163
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,0,8
+    B,6,0,W,3,0,/,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,0,8
+    B,6,0,W,3,0,/,0,9,5
+    B,6,0,W,3,0,/,0,9,5,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,1,0
+    B,6,0,W,4,0,/,1,0,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,0,9,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B,6,0,W,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,4,2,0,/,0,0
+    B,6,0,W,2,4,2,0,/,4,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,4,2,0,/,0,0
+    B,6,0,W,2,4,2,0,/,5,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,2,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,4,/,0,0
+    B,6,0,W,2,5,5,4,/,4,0
+    B,6,0,W,2,5,5,4,/,4,0,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,4,/,0,0
+    B,6,0,W,2,5,5,4,/,4,0
+    B,6,0,W,2,5,5,4,/,4,0,4
+    B,6,0,W,2,5,5,4,/,4,0,4,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,4,/,0,0
+    B,6,0,W,2,5,5,4,/,8,0
+    B,6,0,W,2,5,5,4,/,8,0,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,5,/,0,0
+    B,6,0,W,2,5,5,5,/,6,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,6,/,0,0
+    B,6,0,W,2,5,5,6,/,4,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,6,/,0,0
+    B,6,0,W,2,5,5,6,/,4,5
+    B,6,0,W,2,5,5,6,/,5,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,6,/,0,0
+    B,6,0,W,2,5,5,6,/,4,5
+    B,6,0,W,2,5,5,6,/,6,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+
+application_events
+7
+    2020-10-01,Application filed by GM Global Technology Operations LLC
+    2020-10-01,Priority to US17/060,698
+    2020-10-01,Assigned to GM Global Technology Operations LLC
+    2021-04-27,Priority to DE102021110803.9A
+    2021-05-10,Priority to CN202110505508.7A
+    2022-04-07,Publication of US20220105925A1
+    Status,Abandoned
+
+active_area
+2
+    D,E
+    C,N
+
+not_active_area
+1
+    U,S
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US17/060,698,2020-10-01,One pedal driving
+
+legal_event
+8
+    Date,Code,Title,Description
+    2020-10-01,AS,Assignment,Owner name: GM GLOBAL TECHNOLOGY OPERATIONS LLC, MICHIGANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:NASERIAN, MOHAMMAD;SAMII, SOHEIL;MICHALUK, NATHANIEL S.;SIGNING DATES FROM 20200930 TO 20201001;REEL/FRAME:053949/0138
+    2021-08-20,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2022-06-17,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2022-09-30,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2022-11-22,STPP,Information on status: patent application and granting procedure in general,Free format text: FINAL REJECTION MAILED
+    2023-02-07,STPP,Information on status: patent application and granting procedure in general,Free format text: ADVISORY ACTION MAILED
+    2023-10-10,STCB,Information on status: application discontinuation,Free format text: ABANDONED  --  FAILURE TO RESPOND TO AN OFFICE ACTION
+

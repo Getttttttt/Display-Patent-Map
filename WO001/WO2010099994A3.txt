@@ -1,0 +1,168 @@
+ID
+    WO2010099994A3
+citation_exist
+    Patent Citations (13)
+citation_infor
+15
+    Publication number,Priority date,Publication date,Assignee,Title
+    DE19612155A1                      *,1995-05-16,1996-11-21,Andritz Patentverwaltung,Verfahren zur Steuerung und/oder Regelung eines Trocknungsprozesses, insbesondere von Papiertrocknung
+    WO2000034572A1                      *,1998-12-04,2000-06-15,Metso Paper, Inc.,Method and apparatus for controlling the drying process in a drying section of a paper machine or the like
+    WO2006051157A2                      *,2004-11-12,2006-05-18,Metso Paper, Inc.,Method and system in a paper machine and software product
+    Family To Family Citations,,,,
+    US3654075A                      *,1969-12-10,1972-04-04,Beloit Corp,Control system for paper refiners utilizing mass rate and machine property compensation
+    US3815254A                      *,1972-01-18,1974-06-11,W Mills,Method and apparatus for controlling the amount of moisture removed from material
+    FI80100C,1986-12-18,1990-04-10,Valmet Oy,Foerfarande vid styrning och/eller oevervakning av en belaeggningsprocess av en bana.
+    FI102625B1,1997-05-30,1999-01-15,Valmet Corp,Menetelmä ja laite lämmön talteenottamiseksi paperikoneen tai vastaavan tyhjöjärjestelmän poistoilmasta
+    FI110706B                      *,1999-03-04,2003-03-14,Metso Paper Inc,Menetelmä konesuuntaisen ratakosteuden säätämiseksi päällystyskoneella ja kalanterilla
+    DE19910910A1                      *,1999-03-11,2000-09-28,Voith Sulzer Papiertech Patent,Verfahren zur Durchführung eines optimierten Faser- oder Papierherstellungsprozesses
+    AU2001252298A1                      *,2000-04-05,2001-10-15,Liqum Oy,Method and system for monitoring and analyzing a paper manufacturing process
+    US20040122547A1                      *,2002-12-20,2004-06-24,Seymour Sydney Keith,Equipment and methods for manufacturing cigarettes
+    US8594828B2                      *,2008-09-30,2013-11-26,Rockwell Automation Technologies, Inc.,System and method for optimizing a paper manufacturing process
+    DE102009011217A1,2009-03-04,2010-09-09,Siemens Aktiengesellschaft,Steuerung der erweiterten Trockenpartie einer Papiermaschine
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (12)
+              
+
+
+citedBy_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    DE102009011217A1,2009-03-04,2010-09-09,Siemens Aktiengesellschaft,Steuerung der erweiterten Trockenpartie einer Papiermaschine
+    DE102012201836A1                      *,2012-02-08,2013-08-08,Voith Patent Gmbh,Maschineneffizienzüberwachung
+    DE102012213063A1                      *,2012-07-25,2014-01-30,Siemens Aktiengesellschaft,Steuervorrichtung für eine Prozess- und/oder Fertigungsanlage
+    CN103061192A                      *,2012-11-21,2013-04-24,彭华山,一种空气能纸张烘干系统
+    US10108796B2                      *,2012-12-12,2018-10-23,BBPOS Limited,System and method for PIN entry on mobile devices
+    FI125364B                      *,2013-04-19,2015-09-15,Metso Automation Oy,Optimization of a process
+    EP3392405A1                      *,2017-04-18,2018-10-24,Siemens Aktiengesellschaft,Verfahren zum betrieb einer papiermaschine, antriebssystem und papiermaschine
+    US10969749B2                      *,2017-08-22,2021-04-06,Honeywell Limited,Application of model predictive control (MPC)-based forced ramping of process input variables and process output reference trajectory design over a prediction horizon for MPC-based paper machine grade change control
+    EP3736375B1                      *,2019-05-06,2023-10-25,Valmet Technologies Oy,Verfahren und anordnung zur steuerung des energieverbrauchs in einem verfahren zur herstellung einer faserstoffbahn
+    US11181872B1                      *,2019-05-30,2021-11-23,Georgia-Pacific LLC,Systems and processes for optimizing operation of industrial equipment
+    CN111241754B                      *,2020-01-17,2023-08-11,广州博依特智能信息科技有限公司,一种用于纸页干燥关键过程参数软测量方法
+    CN112949162B                      *,2021-01-25,2023-06-23,广州博依特智能信息科技有限公司,基于数据驱动的箱板纸机干燥部能量系统运行优化方法
+
+abstract
+    Die Erfindung betrifft ein Verfahren und eine modellgestützte Steuerung zur Steuerung zumindest eines Teils einer Papiermaschine, eine Papiermaschine mit einer derartigen Steuerung, ein Computerprogramm zur Durchführung des erfindungsgemäßen Verfahrens sowie ein Computerprogrammprodukt, auf dem das erfindungsgemäße Computerprogramm gespeichert ist. Um eine verbesserte beziehungsweise optimierte Fahrweise einer „erweiterten Trockenpartie" einer Papiermaschine - bestehend aus der „eigentlichen" Trockenpartie, ggf. aufgeteilt in Vor- und Nachtrockenpartie mit dazwischen befindlicher Leimpresse, einem Dampf- und Kondensatsystem, einem Abluft-Wärmerückgewinnungssystem, einer Nasspresse und dem Siebwasser - zu ermöglichen, wird ein die genannten Anlagenteile umfassendes Modell vorgeschlagen, mittels dem anhand von Werten für die für die Trocknung relevanten Parameter Massen- und Energiebilanzen für die Anlagenteile sowie der spezifische Energieverbrauch in der Trockenpartie berechnet wird.
+title
+    Steuerung der erweiterten trockenpartie einer papiermaschine
+similar_document
+26
+    Publication,Publication Date,Title
+    WO2010099994A3,2010-11-25,Steuerung der erweiterten trockenpartie einer papiermaschine
+    WO2007145451A3,2008-02-14,Laundry dryer and method for controlling the same
+    PT2511637E,2015-02-05,Método para secar matéria em partículas húmida, em que a matéria em partículas seca é um mineral branco tendo um brilho ry de pelo menos 65%, através de secagem numa corrente de vapor superaquecido
+    BRPI0518028A,2008-11-04,método e máquina para produção de produtos de fibra a partir de estoque, e um novo tipo de produto de fibra
+    WO2011002236A3,2011-04-21,Laundry machine and controlling methods thereof
+    EP1939349A3,2009-03-25,Waschmaschine und Steuerungsverfahren dafür
+    WO2008038959A3,2008-08-28,Laundry dryer
+    WO2007145448B1,2008-04-03,Laundry dryer and method for controlling the same
+    WO2010094913A3,2010-12-29,Drying apparatus with energy recuperation
+    PL1790769T3,2010-09-30,Suszarka bębnowa do ubrań oraz sposób jej sterowania
+    WO2006126811A3,2007-03-08,Steam generator having press-sensor for drum washing machine and control method as the same
+    WO2008007888A3,2008-03-20,Laundry machine and controlling method thereof
+    WO2006051157A3,2006-08-31,Method and system in a paper machine and software product
+    WO2012168074A3,2014-03-13,Verfahren zum betreiben eines umlauf-abhitzedampferzeugers
+    WO2008119784A3,2009-10-22,Arrangement with a steam turbine and a condenser for feedwater preheating
+    FI20055279A0,2005-06-02,Sovitelma soodakattilassa
+    WO2009091169A3,2010-10-07,Laundry machine having a steam generator and controlling method of the same
+    WO2007102723A3,2007-12-27,Dryer and dry method for the same
+    WO2005064071A3,2006-02-23,Verfahren und vorrichtung zum trocken von wäsche
+    WO2008031716A3,2008-10-16,Dampfkreisprozess mit verbesserter energieausnutzung
+    WO2008148844A3,2009-04-09,A washer/dryer and the control method thereof
+    CN105538455B,2017-09-29,一种竹束干热处理方法
+    WO2007102722A3,2008-01-03,Control method of dryer
+    CN206791820U,2017-12-26,鞋头鞋面蒸湿装置
+    ATE516403T1,2011-07-15,Verfahren zur umwandlung von lignozellulose- lösungen mit hohem trockenmaterialanteil
+
+patent_application
+    NoExist
+patent_priority_application
+6
+    Application,Priority date,Filing date,Title
+    ES10700855T,2009-03-04,2010-01-14,Control de la parte de secado ampliada de una máquina papelera
+    US13/254,901,2009-03-04,2010-01-14,Control of an expanded drying section of a paper machine
+    CN201080010299.9A,2009-03-04,2010-01-14,造纸机的扩展的干燥部分的控制
+    BRPI1013236A,2009-03-04,2010-01-14,Método para controlar pelo menos uma parte de uma máquina de papel
+    EP10700855A,2009-03-04,2010-01-14,Steuerung der erweiterten trockenpartie einer papiermaschine
+
+inventor_number
+    6
+classfication_nums
+    5
+classfication_items
+26
+    D
+    D,2,1
+    D,2,1,F
+    D,2,1,F,5,/,0,0
+    D
+    D,2,1
+    D,2,1,F
+    D,2,1,F,5,/,0,0
+    D,2,1,F,5,/,2,0
+    D
+    D,2,1
+    D,2,1,G
+    D,2,1,G,9,/,0,0
+    D,2,1,G,9,/,0,0,0,9
+    D,2,1,G,9,/,0,0,3,6
+    Y
+    Y,0,2
+    Y,0,2,P
+    Y,0,2,P,7,0,/,0,0
+    Y,0,2,P,7,0,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,P
+    Y,0,2,P,8,0,/,0,0
+    Y,0,2,P,8,0,/,1,0
+    Y,0,2,P,8,0,/,1,5
+
+application_events
+9
+    ,First worldwide family litigation filed
+    2010-01-14,Application filed by Siemens Aktiengesellschaft
+    2010-01-14,Priority to ES10700855T
+    2010-01-14,Priority to US13/254,901
+    2010-01-14,Priority to CN201080010299.9A
+    2010-01-14,Priority to BRPI1013236A
+    2010-01-14,Priority to EP10700855A
+    2010-09-10,Publication of WO2010099994A2
+    2010-11-25,Publication of WO2010099994A3
+
+active_area
+5
+    C,N
+    E,S
+    B,R
+    U,S
+    W,O
+
+not_active_area
+2
+    D,E
+    E,P
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    DE102009011217A,2009-03-04,Steuerung der erweiterten Trockenpartie einer Papiermaschine
+    DE102009011217.0,2009-03-04,
+
+legal_event
+8
+    Date,Code,Title,Description
+    2010-01-14,WWE,Wipo information: entry into national phase,Ref document number: 201080010299.9Country of ref document: CN
+    2010-10-27,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 10700855Country of ref document: EPKind code of ref document: A2
+    2011-08-03,WWE,Wipo information: entry into national phase,Ref document number: 2010700855Country of ref document: EP
+    2011-09-05,NENP,Non-entry into the national phase,Ref country code: DE
+    2011-09-06,WWE,Wipo information: entry into national phase,Ref document number: 13254901Country of ref document: US
+    2012-11-27,REG,Reference to national code,Ref country code: BRRef legal event code: B01ARef document number: PI1013236Country of ref document: BR
+    2016-04-05,ENP,Entry into the national phase,Ref document number: PI1013236Country of ref document: BRKind code of ref document: A2Effective date: 20110905
+

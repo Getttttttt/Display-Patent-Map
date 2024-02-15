@@ -1,0 +1,174 @@
+ID
+    WO2020235316A1
+citation_exist
+    Patent Citations (4)
+citation_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2007259644A                      *,2006-03-24,2007-10-04,Denso Corp,車両用発電電動装置
+    JP2016187237A                      *,2015-03-27,2016-10-27,マツダ株式会社,電動車両用駆動装置
+    WO2018037506A1                      *,2016-08-24,2018-03-01,三菱電機株式会社,回転機の制御装置及び電動パワーステアリングの制御装置
+    Family To Family Citations,,,,
+    JP2012115031A,2010-11-24,2012-06-14,Toyota Motor Corp,車両電源システム
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    本発明の課題は、バッテリのＳＯＣを考慮しながら、モータの駆動力や制動力を制御することである。　独立した複数系統の巻線を有する回転電機を制御するための制御装置であって、交流電流を前記複数系統の巻線に通電して、前記巻線に生じる合成磁界が所定値以上となるようにトルクを発生させる第１モードと、前記第１モードと異なる位相差の交流電流を前記複数系統の巻線に通電して、前記巻線に生じる合成磁界を前記所定値より小さくしつつ、前記第１モード以上の電流を流す第２モードとによって前記回転電機を制御することを特徴とする。
+title
+    回転電機の制御装置及び制御方法
+similar_document
+26
+    Publication,Publication Date,Title
+    JP4380700B2,2009-12-09,電動車両
+    US8825252B2,2014-09-02,Vehicle and control method therefor
+    JP2005020952A,2005-01-20,車両の制御装置
+    JP5200991B2,2013-06-05,電動車両のモータ制御方法及びその装置
+    JP2015019555A,2015-01-29,車載用モータ制御装置
+    US20150120120A1,2015-04-30,Electric drive vehicle
+    JPWO2011118019A1,2013-07-04,電力変換装置
+    JP4259489B2,2009-04-30,車両用制動制御装置
+    US20190263387A1,2019-08-29,Electric vehicle
+    JP7026571B2,2022-02-28,電動車両
+    KR100623745B1,2006-09-19,4륜 하이브리드 전기자동차의 인버터 제어장치 및 방법
+    JP2018023212A,2018-02-08,車両の制動制御装置
+    WO2020235316A1,2020-11-26,回転電機の制御装置及び制御方法
+    JP6137045B2,2017-05-31,車両の駆動電動機制御装置
+    JP4104940B2,2008-06-18,ハイブリッド車両の駆動制御装置
+    WO2013014768A1,2013-01-31,ハイブリッド車両の制御システム
+    JP2011223791A,2011-11-04,車両用回転電機の制御装置
+    JP6614088B2,2019-12-04,電源システム制御装置
+    JP7206722B2,2023-01-18,電動発電機の制御装置
+    US20230253909A1,2023-08-10,Motor driving apparatus
+    JP2013017324A,2013-01-24,電源システムおよびその制御方法
+    WO2022059559A1,2022-03-24,電力変換器の制御装置
+    JP2017143654A,2017-08-17,電気自動車
+    JP4978802B2,2012-07-18,回転電機制御システム及び当該回転電機制御システムを備えた車両駆動システム
+    JP2023102405A,2023-07-25,車両の駆動システム
+
+patent_application
+    NoExist
+patent_priority_application
+5
+    Application,Priority date,Filing date,Title
+    DE112020001917.9T,2019-05-17,2020-04-28,Steuervorrichtung und steuerverfahren für rotierende elektrische maschine
+    JP2021520682A,2019-05-17,2020-04-28,回転電機の制御装置及び制御方法
+    US17/611,285,2019-05-17,2020-04-28,Control device and control method for rotating electric machine
+    CN202080035248.5A,2019-05-17,2020-04-28,旋转电机的控制装置和控制方法
+
+inventor_number
+    3
+classfication_nums
+    12
+classfication_items
+70
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,5,/,0,0
+    H,0,2,P,2,5,/,1,6
+    H,0,2,P,2,5,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,2
+    B,6,0,L,1,5,/,0,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,3,/,0,0
+    H,0,2,P,2,3,/,2,0
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,3,/,0,0
+    H,0,2,P,2,3,/,2,8
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,7,/,0,0
+    H,0,2,P,2,7,/,0,4
+    H,0,2,P,2,7,/,0,6
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,3,/,0,0
+    H,0,2,P,3,/,0,6
+    H,0,2,P,3,/,1,8
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,6,/,0,0
+    H,0,2,P,6,/,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,5
+
+application_events
+6
+    2020-04-28,Application filed by 日立オートモティブシステムズ株式会社
+    2020-04-28,Priority to DE112020001917.9T
+    2020-04-28,Priority to JP2021520682A
+    2020-04-28,Priority to US17/611,285
+    2020-04-28,Priority to CN202080035248.5A
+    2020-11-26,Publication of WO2020235316A1
+
+active_area
+5
+    D,E
+    W,O
+    C,N
+    J,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2019093419,2019-05-17,
+    JP2019-093419,2019-05-17,
+
+legal_event
+4
+    Date,Code,Title,Description
+    2021-01-06,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 20809600Country of ref document: EPKind code of ref document: A1
+    2021-09-27,ENP,Entry into the national phase,Ref document number: 2021520682Country of ref document: JPKind code of ref document: A
+    2022-06-01,122,Ep: pct application non-entry in european phase,Ref document number: 20809600Country of ref document: EPKind code of ref document: A1
+

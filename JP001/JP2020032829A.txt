@@ -1,0 +1,373 @@
+ID
+    JP2020032829A
+citation_exist
+    Patent Citations (11)
+citation_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2012045996A                      *,2010-08-25,2012-03-08,Nissan Motor Co Ltd,ハイブリッド車両の発電制御装置
+    JP2013151247A                      *,2012-01-26,2013-08-08,Nissan Motor Co Ltd,ハイブリッド車両の制御装置
+    JP2013224078A                      *,2012-04-20,2013-10-31,Toyota Motor Corp,ハイブリッド車両
+    JP2017191701A                      *,2016-04-13,2017-10-19,トヨタ自動車株式会社,燃料電池車両の制御装置
+    Family To Family Citations,,,,
+    DE112005001657B8                      *,2004-07-12,2022-03-24,Toyota Jidosha Kabushiki Kaisha,Leistungsausgabevorrichtung, mit Leistungsausgabevorrichtung ausgestattetes Fahrzeug und Steuerverfahren der Leistungsausgabevorrichtung
+    JP2010215007A,2009-03-13,2010-09-30,Toyota Motor Corp,ハイブリッド車両の制御装置
+    CN102882263B                      *,2011-07-15,2016-01-06,三菱自动车工业株式会社,电动车辆的再生控制装置
+    JP5991375B2                      *,2012-07-05,2016-09-14,トヨタ自動車株式会社,ハイブリッド車両の制御装置
+    JP5879251B2                      *,2012-12-14,2016-03-08,本田技研工業株式会社,電動機の駆動制御装置
+    US9156358B2                      *,2013-10-15,2015-10-13,Ford Global Technologies, Llc,Regenerative braking in the presence of an antilock braking system control event
+    CA2988622C                      *,2015-06-08,2018-04-24,Nissan Motor Co., Ltd.,Power generation control device for a hybrid vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    DE102018208425A1                      *,2018-05-28,2019-11-28,Bayerische Motoren Werke Aktiengesellschaft,Antriebsstrang für ein Kraftfahrzeug, insbesondere für einen Kraftwagen, sowie Verfahren zum Betreiben eines solchen Antriebsstrangs
+    JP7343428B2                      *,2020-03-16,2023-09-12,トヨタ自動車株式会社,ハイブリッド車両の駆動装置
+    GB2594284B                      *,2020-04-21,2022-09-28,Jaguar Land Rover Ltd,Apparatus and method for controlling an electric machine
+
+abstract
+    【課題】駆動輪速が急減した場合であっても、バッテリの過充電を抑制することが可能なハイブリッド車両の制御装置を提供する。【解決手段】エンジンと、エンジンによって駆動される発電機と、電力が供給されて駆動トルクを出力する駆動用モータと、発電された電力を充電可能な蓄電装置とを備え、前記発電された電力を蓄電装置に充電もしくは駆動用モータに直接供給するように構成されたハイブリッド車両の制御装置において、発電機を制御するコントローラを備え、コントローラは、駆動輪がロックするおそれがあるか否かを判断し（ステップＳ２）、駆動輪がロックするおそれがあると判断された場合に、発電機により発電される電力を前記蓄電装置に入力可能な予め定められた所定の電力以下に制御する（ステップＳ３）。【選択図】図２
+title
+    ハイブリッド車両の制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    US9074683B2,2015-07-07,Gear shift indication device
+    US10369985B2,2019-08-06,Control apparatus for hybrid vehicle, hybrid vehicle, and control method for hybrid vehicle
+    CN110861632B,2022-09-13,混合动力车辆的控制装置
+    CN110871785B,2022-12-23,混合动力车辆的控制装置
+    US10059324B2,2018-08-28,Travel driving apparatus of vehicle
+    US10173694B2,2019-01-08,Traveling control device for vehicle
+    JP2007055473A,2007-03-08,ハイブリッド車およびその制御方法
+    US20160129911A1,2016-05-12,Motor vehicle
+    JP5282708B2,2013-09-04,ハイブリッド車両およびその制御方法
+    JP2008284972A,2008-11-27,自動車およびその制御方法
+    JP3594010B2,2004-11-24,車両の駆動力制御方法とその制御装置
+    CN110386128B,2022-05-27,电动车辆
+    JP4165439B2,2008-10-15,自動車
+    JP2008143316A,2008-06-26,動力出力装置およびその制御方法並びに車両
+    JP2012091645A,2012-05-17,ハイブリッド自動車
+    JP2009107554A,2009-05-21,動力出力装置、それを備えた車両および動力出力装置の制御方法
+    JP6089587B2,2017-03-08,ハイブリッド車の制御装置
+    JP2009018708A,2009-01-29,車両およびその制御方法
+    JP5176862B2,2013-04-03,動力出力装置およびその制御方法並びに車両
+    JP6089586B2,2017-03-08,ハイブリッド車の制御装置
+    JP2009083586A,2009-04-23,ハイブリッド車およびその制御方法
+    JP4062197B2,2008-03-19,車両および車両の制御方法
+    JP2020040449A,2020-03-19,ハイブリッド車両の制御装置
+    JP2021133690A,2021-09-13,発電制御装置
+    JP2007202264A,2007-08-09,車両およびその制御方法
+
+patent_application
+    NoExist
+patent_priority_application
+5
+    Application,Priority date,Filing date,Title
+    JP2018159997A,2018-08-29,2018-08-29,ハイブリッド車両の制御装置
+    US16/516,325,2018-08-29,2019-07-19,Control system for hybrid vehicle
+    EP19191386.2A,2018-08-29,2019-08-13,Control system for hybrid vehicle
+    CN201910783272.6A,2018-08-29,2019-08-23,混合动力车辆的控制装置
+
+inventor_number
+    17
+classfication_nums
+    41
+classfication_items
+251
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,2,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,2,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,2,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,3,8
+    B,6,0,K,6,/,3,8,7
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,4
+    B,6,0,K,6,/,4,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,3,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,5
+    B,6,0,T,1,3,/,5,8,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,6,6
+    B,6,0,T,1,3,/,6,6,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,7,/,0,0
+    B,6,0,T,1,7,/,1,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,7,/,0,0
+    B,6,0,T,1,7,/,1,8
+    B,6,0,T,1,7,/,2,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,5,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,0,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,3,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,1,7,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,0,9,7
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,1,/,0,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,5,0
+    B,6,0,K,6,/,5,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,1
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,2
+    B,6,0,W,5,0,/,0,2,9
+    B,6,0,W,2,0,5,0,/,0,2,9,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,6
+    B,6,0,W,2,5,1,0,/,0,6,7,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,2,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,8
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,2
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,9,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+
+application_events
+7
+    2018-08-29,Application filed by Toyota Motor Corp
+    2018-08-29,Priority to JP2018159997A
+    2020-03-05,Publication of JP2020032829A
+    2022-01-26,Application granted
+    2022-01-26,Publication of JP7010174B2
+    Status,Active
+    2038-08-29,Anticipated expiration
+
+active_area
+4
+    J,P
+    U,S
+    E,P
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2018159997A,2018-08-29,ハイブリッド車両の制御装置
+
+legal_event
+6
+    Date,Code,Title,Description
+    2021-01-21,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20210121
+    2021-11-09,A977,Report on retrieval,Free format text: JAPANESE INTERMEDIATE CODE: A971007Effective date: 20211109
+    2021-12-06,TRDD,Decision of grant or rejection written,
+    2021-12-14,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20211214
+    2022-01-17,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20211227
+

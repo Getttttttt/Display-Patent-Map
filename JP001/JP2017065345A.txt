@@ -1,0 +1,251 @@
+ID
+    JP2017065345A
+citation_exist
+    Patent Citations (12)
+citation_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2010179840A                      *,2009-02-06,2010-08-19,Nissan Motor Co Ltd,回生協調ブレーキ制御装置及び回生協調ブレーキ制御方法
+    JP2014069756A                      *,2012-09-28,2014-04-21,Hitachi Automotive Systems Ltd,ブレーキ制御装置
+    Family To Family Citations,,,,
+    US7957875B2                      *,2008-01-17,2011-06-07,GM Global Technology Operations LLC,Method and apparatus for predicting braking system friction
+    EP2529992A4                      *,2010-01-28,2018-05-02,Toyota Jidosha Kabushiki Kaisha,Vehicle, and control method and control device for vehicle
+    JP5884757B2                      *,2012-06-15,2016-03-15,株式会社アドヴィックス,車両用制動装置
+    US8862358B2                      *,2013-03-15,2014-10-14,Ford Global Technologies, Llc,Vehicle and method for controlling regenerative braking
+    US20160039292A1                      *,2013-04-09,2016-02-11,Toyota Jidosha Kabushiki Kaisha,Brake control device for vehicle
+    JP2015009701A                      *,2013-06-28,2015-01-19,株式会社デンソー,車両用制動装置
+    JP5979101B2                      *,2013-08-26,2016-08-24,トヨタ自動車株式会社,車両
+    JP6164045B2                      *,2013-10-30,2017-07-19,トヨタ自動車株式会社,車両の制動力制御方法
+    JP2015093586A                      *,2013-11-12,2015-05-18,日産自動車株式会社,車両用制動制御装置
+    JP6605248B2                      *,2015-07-27,2019-11-13,Ｎｔｎ株式会社,摩擦ブレーキシステム
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    US11376967B2                      *,2016-08-10,2022-07-05,Advics Co., Ltd.,Vehicle brake device
+    Family To Family Citations,,,,
+    JP7204502B2                      *,2019-01-25,2023-01-16,株式会社アドヴィックス,制動制御装置
+
+abstract
+    【課題】すり替え制御時における運転者の違和感発生を抑制することができる車両用制動装置を提供する。【解決手段】液圧に基づいて車輪に摩擦制動力を発生させる摩擦ブレーキ装置６０１〜６０４と、車輪に回生制動力を発生可能に構成された回生ブレーキ装置Ａと、摩擦ブレーキ装置６０１〜６０４と回生ブレーキ装置Ａとの協調制御により、摩擦制動力と回生制動力とを制御する制御部６、９と、を備え、制御部６（６２）は、制動中において回生制動力を減少させるとともに摩擦制動力を増加させることで回生制動力を摩擦制動力にすり替えるすり替え制御において、前記液圧を摩擦制動力に変換する際に用いられる摩擦に関する係数を、変換される摩擦制動力が増大する側に車速の低下に応じて変更することで実際に車輪に発生する摩擦制動力の変化勾配の増大を抑制する係数変更制御を実施する。【選択図】 図６
+title
+    車両用制動装置
+similar_document
+18
+    Publication,Publication Date,Title
+    JP6124840B2,2017-05-10,制動制御装置
+    JP5516819B2,2014-06-11,マスタシリンダ装置およびそれを用いた液圧ブレーキシステム
+    JP5862771B2,2016-02-16,車両用ブレーキシステム
+    JP5884757B2,2016-03-15,車両用制動装置
+    JP6132813B2,2017-05-24,車両用制動装置
+    JP5626414B2,2014-11-19,マスタシリンダ装置およびそれを用いた液圧ブレーキシステム
+    WO2014065237A1,2014-05-01,車両用制動制御装置
+    JP6250892B2,2017-12-20,車両用制動装置
+    JP6099598B2,2017-03-22,車両制御装置
+    JP6356642B2,2018-07-11,車両用制動装置
+    JP6411980B2,2018-10-24,車両用制動装置
+    JP6325493B2,2018-05-16,車両用制動装置
+    JP6235351B2,2017-11-22,車両用制動装置
+    CN108290555B,2020-08-28,用于车辆的制动装置
+    WO2014115593A1,2014-07-31,制動制御装置
+    JP5978504B2,2016-08-24,車両用ブレーキ装置
+    JP5871135B2,2016-03-01,車両のブレーキ制御装置
+
+patent_application
+    NoExist
+patent_priority_application
+6
+    Application,Priority date,Filing date,Title
+    JP2015191056A,2015-09-29,2015-09-29,車両用制動装置
+    PCT/JP2016/078590,2015-09-29,2016-09-28,車両用制動装置
+    DE112016004428.3T,2015-09-29,2016-09-28,Bremsvorrichtung für ein fahrzeug
+    CN201680055673.4A,2015-09-29,2016-09-28,用于车辆的制动装置
+    US15/758,553,2015-09-29,2016-09-28,Braking device for vehicle
+
+inventor_number
+    9
+classfication_nums
+    22
+classfication_items
+133
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,6,6
+    B,6,0,T,1,3,/,6,6,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,7,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,2,0,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,4
+    B,6,0,T,8,/,4,0
+    B,6,0,T,8,/,4,0,7,2
+    B,6,0,T,8,/,4,0,7,7
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,7,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B,6,0,L,2,2,4,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,0,1,/,0,0
+    B,6,0,T,2,2,0,1,/,0,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2015-09-29,Application filed by Advics Co Ltd, Toyota Motor Corp
+    2015-09-29,Priority to JP2015191056A
+    2017-04-06,Publication of JP2017065345A
+    2018-10-24,Application granted
+    2018-10-24,Publication of JP6411980B2
+    Status,Active
+    2035-09-29,Anticipated expiration
+
+active_area
+5
+    J,P
+    C,N
+    U,S
+    D,E
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2015191056A,2015-09-29,車両用制動装置
+
+legal_event
+8
+    Date,Code,Title,Description
+    2017-08-10,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20170810
+    2018-04-24,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20180424
+    2018-06-22,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20180622
+    2018-08-24,TRDD,Decision of grant or rejection written,
+    2018-09-04,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20180904
+    2018-10-04,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20180927
+    2018-10-05,R150,Certificate of patent or registration of utility model,Ref document number: 6411980Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R150
+

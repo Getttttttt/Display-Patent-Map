@@ -1,0 +1,212 @@
+ID
+    JP2020001478A
+citation_exist
+    Patent Citations (6)
+citation_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2013018411A                      *,2011-07-13,2013-01-31,Hitachi Automotive Systems Ltd,車両制御装置
+    JP2017060343A                      *,2015-09-18,2017-03-23,日立オートモティブシステムズ株式会社,制動制御装置
+    WO2018030083A1                      *,2016-08-10,2018-02-15,株式会社アドヴィックス,車両用制動装置
+    Family To Family Citations,,,,
+    JP5736673B2                      *,2010-06-07,2015-06-17,日産自動車株式会社,複合ブレーキの制動力協調制御装置
+    JP5626168B2                      *,2011-09-27,2014-11-19,株式会社アドヴィックス,車両用制動制御装置
+    JP5990548B2                      *,2014-01-28,2016-09-14,株式会社アドヴィックス,車両の制動制御装置
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    【課題】 制動制御装置において、回生制動と摩擦制動とのすり替え作動において、摩擦制動を発生する制動液圧が「０」から増加される際にも十分な昇圧応答性が確保され得るものを提供する。【解決手段】 制動制御装置は、回生ジェネレータを備えた車両に適用される。制動制御装置は、「電動ポンプ、及び、調圧弁にて構成され、電動ポンプと調圧弁との間の調圧流体路の調整液圧を調節する調圧ユニット」と、「電動ポンプ、及び、調圧弁を制御するコントローラ」と、を備える。コントローラは、回生ジェネレータによる回生制動力と調整液圧による摩擦制動力とのすり替え作動を開始する前に、調整液圧を「０」から所定液圧に増加して維持する先行加圧を行い、先行加圧を行った後に、電動ポンプの回転数を増加し、調整液圧を所定液圧から増加してすり替え作動を実行する。【選択図】 図４
+title
+    車両の制動制御装置
+similar_document
+17
+    Publication,Publication Date,Title
+    US11787292B2,2023-10-17,Brake control device for vehicle
+    JP6935710B2,2021-09-15,車両の制動制御装置
+    JP7067099B2,2022-05-16,車両の制動制御装置
+    WO2020045565A1,2020-03-05,車両の制動制御装置
+    WO2020004240A1,2020-01-02,車両の制動制御装置
+    WO2019156035A1,2019-08-15,車両の制動制御装置
+    WO2020004241A1,2020-01-02,車両の制動制御装置
+    JP2019018695A,2019-02-07,車両の制動制御装置
+    JP7172526B2,2022-11-16,車両の制動制御装置
+    US11807215B2,2023-11-07,Brake control device for vehicles
+    JP6935711B2,2021-09-15,車両の制動制御装置
+    JP7091797B2,2022-06-28,車両の制動制御装置
+    JP7070001B2,2022-05-18,車両の制動制御装置
+    JP2020032833A,2020-03-05,車両の制動制御装置
+    WO2023033021A1,2023-03-09,車両の制動制御装置
+    JP2023034693A,2023-03-13,車両の制動制御装置
+
+patent_application
+    NoExist
+patent_priority_application
+5
+    Application,Priority date,Filing date,Title
+    JP2018120580A,2018-06-26,2018-06-26,車両の制動制御装置
+    US17/251,414,2018-06-26,2019-06-21,Brake control device for vehicles
+    CN201980043427.0A,2018-06-26,2019-06-21,车辆制动控制装置
+    PCT/JP2019/024629,2018-06-26,2019-06-21,車両の制動制御装置
+
+inventor_number
+    8
+classfication_nums
+    18
+classfication_items
+113
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B,6,0,W,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,5
+    B,6,0,T,1,3,/,5,8,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,6,6
+    B,6,0,T,1,3,/,6,6,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,6,6
+    B,6,0,T,1,3,/,6,6,5
+    B,6,0,T,1,3,/,6,6,7
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B,6,0,W,1,0,/,1,8,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B,6,0,W,1,0,/,1,9,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,1,/,0,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,8
+    B,6,0,W,2,7,1,0,/,1,8,2
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,8,9
+
+application_events
+7
+    2018-06-26,Application filed by Advics Co Ltd
+    2018-06-26,Priority to JP2018120580A
+    2020-01-09,Publication of JP2020001478A
+    2022-10-04,Application granted
+    2022-10-04,Publication of JP7146167B2
+    Status,Active
+    2038-06-26,Anticipated expiration
+
+active_area
+3
+    J,P
+    W,O
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2018120580A,2018-06-26,車両の制動制御装置
+
+legal_event
+8
+    Date,Code,Title,Description
+    2021-05-11,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20210511
+    2022-03-01,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20220301
+    2022-04-25,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20220425
+    2022-08-16,TRDD,Decision of grant or rejection written,
+    2022-08-22,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20220822
+    2022-09-26,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20220904
+    2022-09-26,R150,Certificate of patent or registration of utility model,Ref document number: 7146167Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R150
+

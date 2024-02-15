@@ -1,0 +1,315 @@
+ID
+    US20200381935A1
+citation_exist
+    Patent Citations (25)
+citation_infor
+27
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    EP1083618B1                      *,1998-05-20,2013-04-03,KRI Inc.,Nonaqueous secondary cell
+    US6583606B2                      *,2000-05-29,2003-06-24,Matsushita Electric Industrial Co., Ltd.,Method for charging determining life of and detecting state of charge of battery
+    JP3719229B2                      *,2001-12-19,2005-11-24,トヨタ自動車株式会社,Power supply
+    JP4626125B2,2003-03-14,2011-02-02,日産自動車株式会社,Fuel cell system
+    JP2004342461A                      *,2003-05-15,2004-12-02,Nissan Motor Co Ltd,Fuel cell system
+    JP2005254974A                      *,2004-03-11,2005-09-22,Toyota Motor Corp,Vehicular temperature adjustment system
+    JP4271682B2                      *,2005-11-24,2009-06-03,本田技研工業株式会社,Control device for motor-driven vehicle
+    JP2007250374A                      *,2006-03-16,2007-09-27,Denso Corp,Fuel cell system
+    JP4495111B2                      *,2006-05-10,2010-06-30,本田技研工業株式会社,Contactor failure detection device in fuel cell system
+    JP4486618B2                      *,2006-06-06,2010-06-23,株式会社リコー,Charging circuit, charging circuit operation control method, and power supply device
+    JP4893745B2                      *,2006-10-19,2012-03-07,トヨタ自動車株式会社,Fuel cell system
+    JP2011008988A                      *,2009-06-24,2011-01-13,Toyota Motor Corp,Fuel cell system
+    WO2011021266A1                      *,2009-08-17,2011-02-24,三菱電機株式会社,Power converter for propulsion of electric car
+    JP5041010B2                      *,2010-01-18,2012-10-03,トヨタ自動車株式会社,Fuel cell system
+    WO2012056543A1                      *,2010-10-28,2012-05-03,トヨタ自動車株式会社,Power supply apparatus for electric vehicle, method of controlling power supply apparatus, and electric vehicle
+    JP5835922B2,2011-03-31,2015-12-24,三菱重工業株式会社,Hybrid vehicle
+    US10367239B1                      *,2011-03-31,2019-07-30,Elite Power Holdings Llc,Integral battery temperature control system
+    WO2013021589A1                      *,2011-08-11,2013-02-14,パナソニック株式会社,Equalizer circuit, power supply system, and vehicle
+    JP5335047B2,2011-09-09,2013-11-06,本田技研工業株式会社,Fuel cell system
+    JP5622693B2,2011-09-09,2014-11-12,本田技研工業株式会社,Fuel cell vehicle
+    TWI463764B                      *,2011-12-16,2014-12-01,鴻海精密工業股份有限公司,Power management system and method
+    US9252623B2                      *,2012-09-24,2016-02-02,Samsung Sdi Co., Ltd.,Protection apparatus for secondary battery
+    JP6303642B2                      *,2014-03-13,2018-04-04,ブラザー工業株式会社,AC uninterruptible power supply system
+    JP6228059B2,2014-03-28,2017-11-08,トヨタ自動車株式会社,DC / DC converter and battery system
+    US9627723B2                      *,2014-07-30,2017-04-18,Ec Power, Llc,Operation of electrochemical energy systems
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    US11171500B2                      *,2019-06-20,2021-11-09,Quanta Computer Inc.,Smart battery device and charging method
+    Family To Family Citations,,,,
+    DE102019110343A1                      *,2019-04-18,2020-10-22,e.Go REX GmbH,CIRCUIT ARRANGEMENT FOR AN ON-BOARD NETWORK OF AN ELECTRICALLY DRIVEN MOTOR VEHICLE AND A METHOD FOR OPERATING SUCH A CIRCUIT ARRANGEMENT
+
+abstract
+    An electric power supply system 100 comprises a fuel cell system 20 including an FC auxiliary machine 23 that operates to causes fuel cells to generate an electric power, and a battery 10 that generates heat through discharging and charging. The electric power supply system 100 supplies the electric power to an electric load device 90. The electric power supply system 100 determines an operation state of the battery 10, and supplies the electric power discharged from the battery 10 to the FC auxiliary machine 23 of the fuel cell system 20 when it is determined that the battery 10 is a predetermined temperature or less. When it is determined that the battery 10 is in a charging state, the electric power supply system 100 reduces or stops the electric power supplied to the FC auxiliary machine 23.
+title
+    Electric power supply system and control method therefor
+similar_document
+24
+    Publication,Publication Date,Title
+    CN106864280B,2021-09-10,Method and system for controlling voltage in stop mode of fuel cell vehicle
+    US9118197B2,2015-08-25,Charging control system
+    JP2010093871A,2010-04-22,Temperature rise controller for battery
+    US20130294479A1,2013-11-07,Electric storage system
+    US11233256B2,2022-01-25,Power supply system and control method therefor
+    US11400818B2,2022-08-02,Drive control apparatus for controlling vehicle drive system
+    JP2004080909A,2004-03-11,Apparatus for equalizing remaining capacity of combined battery pack
+    US8698453B2,2014-04-15,Full charge control apparatus for onboard battery
+    JPWO2019035172A1,2020-07-09,Vehicle power supply system
+    KR101858808B1,2018-05-16,Fuel cell system
+    US10770761B2,2020-09-08,Fuel cell control device, control method thereof, and fuel cell vehicle
+    US9889766B2,2018-02-13,Electric power system
+    US10998748B2,2021-05-04,Electric power supply system and control method therefor
+    JP5975068B2,2016-08-23,Vehicle power supply
+    KR20140068556A,2014-06-09,Control method of DC-DC converter for electric vehicle
+    US20220250499A1,2022-08-11,Control apparatus for vehicle
+    US20180108926A1,2018-04-19,Fuel cell system
+    WO2019026150A1,2019-02-07,Power supply system and control method therefor
+    JP5954188B2,2016-07-20,Secondary battery management device
+    US8868272B2,2014-10-21,Electric vehicle and method of controlling the same
+    US9580067B2,2017-02-28,Charging/discharging control system for electricity storage device
+    JP7276268B2,2023-05-18,storage battery controller
+    JP2016124481A,2016-07-11,Vehicle power control device
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    30
+classfication_items
+187
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,7
+    H,0,2,J,7,/,0,0,7,1,8,8
+    H,0,2,J,7,/,0,0,7,1,9,2
+    H,0,2,J,7,/,0,0,7,1,9,4
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,9,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,7,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B,6,0,L,5,8,/,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,3,0
+    B,6,0,L,5,8,/,3,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    G
+    G,0,1
+    G,0,1,R
+    G,0,1,R,3,1,/,0,0
+    G,0,1,R,3,1,/,3,6
+    G,0,1,R,3,1,/,3,8,2
+    G,0,1,R,3,1,/,3,8,2,8
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,4
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,4
+    H,0,1,M,1,0,/,4,4,3
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,8
+    H,0,1,M,1,0,/,4,8,6
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,6,0
+    H,0,1,M,1,0,/,6,1
+    H,0,1,M,1,0,/,6,1,5
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,6,0
+    H,0,1,M,1,0,/,6,2
+    H,0,1,M,1,0,/,6,2,5
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,6,/,0,0
+    H,0,1,M,1,6,/,0,0,3
+    H,0,1,M,1,6,/,0,0,6
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,2,3
+    H,0,1,M,8,/,0,4,2,6,8
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,9,8
+    H,0,1,M,8,/,0,4,6,9,4
+    H,0,1,M,8,/,0,4,8,5,8
+    H,0,1,M,8,/,0,4,9,2,5
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,4,7
+    H,0,2,J,7,/,0,0,4,8
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,6,3
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,6,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,3,0
+    Y,0,2,E,6,0,/,5,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,4,0
+
+application_events
+7
+    2017-07-31,Application filed by Nissan Motor Co Ltd
+    2020-01-21,Assigned to NISSAN MOTOR CO., LTD.
+    2020-12-03,Publication of US20200381935A1
+    2021-05-04,Application granted
+    2021-05-04,Publication of US10998748B2
+    Status,Active
+    2037-07-31,Anticipated expiration
+
+active_area
+4
+    E,P
+    U,S
+    C,N
+    J,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2017/027760,2017-07-31,Power supply system and control method therefor
+
+legal_event
+7
+    Date,Code,Title,Description
+    2020-01-21,AS,Assignment,Owner name: NISSAN MOTOR CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:SHIMADA, KAZUHIDE;REEL/FRAME:051565/0007Effective date: 20191220
+    2020-01-21,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2021-01-26,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2021-04-05,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT RECEIVED
+    2021-04-06,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2021-04-14,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

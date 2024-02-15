@@ -1,0 +1,149 @@
+ID
+    WO2021180300A1
+citation_exist
+    Patent Citations (4)
+citation_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20080270023A1                      *,2007-04-25,2008-10-30,Ajith Kuttannair Kumar,Hybrid Energy Power Management System And Method
+    US20190291593A1                      *,2015-05-01,2019-09-26,Hyliion Inc.,Trailer-based energy capture and management
+    US10518831B2,2017-04-21,2019-12-31,Wrightspeed, Inc.,Self-powered actively steerable converter dollies for long combination vehicles
+    US20200062239A1                      *,2017-05-30,2020-02-27,Brian Layfield,Method and apparatus for an active convertor dolly
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    WO2023057060A1                      *,2021-10-06,2023-04-13,Volvo Truck Corporation,A method for controlling energy transfer in a vehicle combination
+    Family To Family Citations,,,,
+
+abstract
+    A method for controlling an articulated vehicle combination (100, 500, 600) comprising a plurality of self-powered vehicle units (110, 120, 130, 140), wherein each self-powered vehicle unit (110, 120, 130, 140) comprises a propulsion device (230, 270, 720) and a regenerative braking device (230, 270, 710) connected to an energy source (210, 250, 725), the method comprising determining (S1) a current state of charge associated with an energy source of a target vehicle (202) unit comprised in the plurality of self-powered vehicle units (110, 120, 130, 140), and if the current state of charge is below a desired state of charge, generating (S5) a negative torque (M2) by the regenerative braking device (270) of the target vehicle unit (202), and compensating (S6) at least partly for the generated negative torque (M2) by generating a positive torque (M1) by the propulsion device (230) of at least one source vehicle unit (201) comprised in the plurality of self-powered vehicle units (110, 120, 130, 140), thereby transferring an amount of energy from the energy source of the at least one source vehicle unit (201) to the energy source of the target vehicle unit (202).
+title
+    Methods for controlling a power level in an energy source of a vehicle unit
+similar_document
+16
+    Publication,Publication Date,Title
+    US20220266715A1,2022-08-25,Methods and apparatus for an active convertor dolly
+    US20220041069A1,2022-02-10,Fuel efficiency optimization apparatus and method for hybrid tractor trailer vehicles
+    CN114454866A,2022-05-10,Wheel slip based vehicle motion management for heavy vehicles
+    EP3233600B1,2020-07-15,Method and arrangement for improving manoeuvrability of a vehicle combination
+    US20220017161A1,2022-01-20,Anti-jackknifing control apparatus and method for active converter dolly
+    US20230112013A1,2023-04-13,Methods for controlling a power level in an energy source of a vehicle unit
+    US20230080456A1,2023-03-16,Methods for controlling a self-powered dolly vehicle during evasive maneuvering
+    US20210197673A1,2021-07-01,218-0779 battery charging by towed regenerative braking
+    US20230082801A1,2023-03-16,A control architecture for a self-powered dolly vehicle
+    US20220161801A1,2022-05-26,System and a method for controlling wheel slip of a vehicle
+    US20230312029A1,2023-10-05,Apparatus and method for shifting trailers
+    JP2023540180A,2023-09-22,Method of controlling steering of vehicle equipment
+    WO2022106004A1,2022-05-27,Predictive energy and motion management for multitrailer heavy-duty vehicles
+    EP4247686A1,2023-09-27,Methods for reducing high-speed off-tracking in multi-trailer heavy duty vehicles
+    WO2023057060A1,2023-04-13,A method for controlling energy transfer in a vehicle combination
+
+patent_application
+    NoExist
+patent_priority_application
+5
+    Application,Priority date,Filing date,Title
+    US17/908,592,2020-03-09,2020-03-09,Methods for controlling a power level in an energy source of a vehicle unit
+    CN202080097804.1A,2020-03-09,2020-03-09,Method for controlling a power level in an energy source of a vehicle unit
+    EP20710488.6A,2020-03-09,2020-03-09,Methods for controlling a power level in an energy source of a vehicle unit
+    PCT/EP2020/056183,2020-03-09,2020-03-09,Methods for controlling a power level in an energy source of a vehicle unit
+
+inventor_number
+    2
+classfication_nums
+    9
+classfication_items
+50
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,3,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,3,2
+    B,6,0,L,1,5,/,3,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,3,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+
+application_events
+6
+    2020-03-09,Application filed by Volvo Truck Corporation
+    2020-03-09,Priority to US17/908,592
+    2020-03-09,Priority to CN202080097804.1A
+    2020-03-09,Priority to EP20710488.6A
+    2020-03-09,Priority to PCT/EP2020/056183
+    2021-09-16,Publication of WO2021180300A1
+
+active_area
+3
+    U,S
+    E,P
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/EP2020/056183,2020-03-09,Methods for controlling a power level in an energy source of a vehicle unit
+
+legal_event
+4
+    Date,Code,Title,Description
+    2021-10-27,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 20710488Country of ref document: EPKind code of ref document: A1
+    2022-10-11,NENP,Non-entry into the national phase,Ref country code: DE
+    2022-10-14,ENP,Entry into the national phase,Ref document number: 2020710488Country of ref document: EPEffective date: 20221010
+

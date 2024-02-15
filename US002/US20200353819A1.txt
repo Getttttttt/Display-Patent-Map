@@ -1,0 +1,276 @@
+ID
+    US20200353819A1
+citation_exist
+    Patent Citations (9)
+citation_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP2000168534A                      *,1998-12-08,2000-06-20,Nisshinbo Ind Inc,Braking force distribution controlling method
+    JP4765487B2                      *,2005-08-29,2011-09-07,株式会社アドヴィックス,Brake device for vehicle
+    JP2008230326A                      *,2007-03-19,2008-10-02,Hitachi Ltd,Brake control system
+    CN102556056A                      *,2012-01-16,2012-07-11,河南科技大学,Double fuzzy energy control management system of hybrid power automobile
+    JP6164045B2                      *,2013-10-30,2017-07-19,トヨタ自動車株式会社,Vehicle braking force control method
+    CN103661334B                      *,2013-12-20,2015-11-11,北京万得嘉瑞汽车技术有限公司,A kind of control method of vehicle electronics brakig force distribution
+    JP6219186B2                      *,2014-01-31,2017-10-25,日立オートモティブシステムズ株式会社,Brake control device
+    JP6618073B2                      *,2015-09-18,2019-12-11,日立オートモティブシステムズ株式会社,Braking control device
+    CN106740846B                      *,2016-12-02,2019-02-12,大连理工大学,A kind of electric car self-adapting cruise control method of double mode switching
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP7070453B2                      *,2019-02-01,2022-05-18,トヨタ自動車株式会社,Vehicle braking force control device
+
+abstract
+    A brake force control apparatus allocates all of required brake force to a target front wheel friction brake force when the required brake force is equal to or smaller than a maximum regeneration brake force. The apparatus decreases the target regeneration brake force by a first predetermined amount at a first time point at which a front wheel acceleration varies from a value larger than a first acceleration threshold to a value equal to or smaller than the first acceleration threshold. The apparatus increases the target regeneration brake force in such a manner that the target regeneration brake force coincides with the required brake force, if the front wheel acceleration becomes larger than a second acceleration threshold in a period from the first time point to a second time point at which a predetermined time elapses from the first time point.
+title
+    Brake control apparatus for vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    JP3811372B2,2006-08-16,Braking force control device for vehicle
+    CN108099615B,2022-11-29,System and method for controlling braking of electric vehicle
+    US8548707B2,2013-10-01,Braking system and method for braking a vehicle having a hybrid drive
+    JP5302749B2,2013-10-02,Electric vehicle control device
+    US7426975B2,2008-09-23,Vehicle regenerative braking control apparatus and method
+    US7571967B2,2009-08-11,Brake control apparatus for vehicle
+    JP4375376B2,2009-12-02,Braking force control device
+    US7761214B2,2010-07-20,Vehicle deceleration control device
+    US20100174430A1,2010-07-08,Automotive braking control apparatus and method thereof
+    CN102267445A,2011-12-07,Regenerative brake control method
+    US11634138B2,2023-04-25,Electric vehicle
+    JP2013035509A,2013-02-21,Vehicle breaking force control device
+    KR20210052605A,2021-05-11,System and method for regenerative brake
+    JP2018043656A,2018-03-22,Vehicle brake force control device
+    US11458846B2,2022-10-04,Brake control apparatus for vehicle
+    JP5831258B2,2015-12-09,Braking / driving force control device for vehicle
+    JP4665390B2,2011-04-06,Brake control device for vehicle
+    CN105555580A,2016-05-04,Control of regenerative braking in an electric or hybrid vehicle
+    JP3622656B2,2005-02-23,Vehicle braking force control device
+    CN110877531A,2020-03-13,Braking method and braking system for electric vehicle
+    JP2021098400A,2021-07-01,Brake performance decline determination device
+    JP3781101B2,2006-05-31,Braking force control device for vehicle
+    EP4219213A1,2023-08-02,Vehicle and vehicle control method
+    JP2004001625A,2004-01-08,Brake control system
+    JP2000050409A,2000-02-18,Braking equipment of vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    26
+classfication_items
+160
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,6
+    B,6,0,T,8,/,1,7,6,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,0
+    B,6,0,L,3,/,1,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,0
+    B,6,0,L,3,/,1,0,6
+    B,6,0,L,3,/,1,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,0,2
+    B,6,0,T,7,/,0,4
+    B,6,0,T,7,/,0,4,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,0,1
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,1
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,2,0,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,5,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,0,2
+    B,6,0,W,4,0,/,0,6
+    B,6,0,W,4,0,/,0,6,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,1,0
+    B,6,0,W,4,0,/,1,0,5
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,1,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B,6,0,L,2,2,4,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,2,0,/,0,0
+    B,6,0,T,2,2,2,0,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,4,0,/,0,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,8,2
+
+application_events
+7
+    2020-05-06,Application filed by Toyota Motor Corp
+    2020-05-07,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2020-11-12,Publication of US20200353819A1
+    2022-10-04,Application granted
+    2022-10-04,Publication of US11458846B2
+    Status,Active
+    2041-04-10,Adjusted expiration
+
+active_area
+4
+    J,P
+    U,S
+    D,E
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2019088089A,2019-05-08,Vehicle braking control device
+    JPJP2019-088089,2019-05-08,
+    JP2019-088089,2019-05-08,
+
+legal_event
+8
+    Date,Code,Title,Description
+    2020-05-06,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2020-05-07,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:FUJITA, YOSHITAKA;REEL/FRAME:052601/0188Effective date: 20200406
+    2020-07-31,STPP,Information on status: patent application and granting procedure in general,Free format text: APPLICATION DISPATCHED FROM PREEXAM, NOT YET DOCKETED
+    2021-08-20,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2022-06-08,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2022-08-26,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2022-09-14,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

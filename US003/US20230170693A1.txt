@@ -1,0 +1,222 @@
+ID
+    US20230170693A1
+citation_exist
+    Patent Citations (6)
+citation_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20200274368A1                      *,2019-02-22,2020-08-27,Aurora Flight Sciences Corporation,Battery Switch with Current Control
+    US20220069605A1                      *,2020-08-31,2022-03-03,The Boeing Company,System and Method for Allocating Propulsion Load Power Drawn from High-Energy and High-Power Batteries
+    Family To Family Citations,,,,
+    JP2013153545A,2010-08-06,2013-08-08,Sanyo Electric Co Ltd,Battery parallel processing circuit and battery system
+    DE102013222462A1,2013-11-06,2015-05-07,Robert Bosch Gmbh,Vehicle battery with a device for selecting a permissible current direction
+    US20180287398A1,2017-03-28,2018-10-04,Kitty Hawk Corporation,Redundant electric power architecture
+    US11069925B2,2018-08-08,2021-07-20,The Boeing Company,Heterogeneous battery system and method
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    The present disclosure describes at least a coupling circuit for powering an electric or hybrid aircraft with an output voltage. The couple circuit can include multiple connecting inputs, a charging interface, a connecting output, a high-power diodes arrangement, and a pre-charge circuit. The multiple connecting inputs can connect multiple battery packs. The charging interface can connect to a charger for charging the multiple battery packs. The connecting output can connect with a hardware controller. The high-power diodes arrangement can electrically connect to each respective connecting input and the charging interface. The high-power arrangement can include for each battery pack a first high-power diode and a second high-power diode. The pre-charge circuit can electrically connect to the high-power diode arrangement. The pre-charge circuit can include a first branch with a first switch, and a second branch in parallel with the first branch.
+title
+    Circuit and system for coupling battery packs to motor controller in electric or hybrid aircraft
+similar_document
+26
+    Publication,Publication Date,Title
+    US20220037894A1,2022-02-03,High reliability hybrid energy storage system
+    EP1977495B1,2010-11-24,Energy storage system for electric or hybrid vehicle
+    US10279699B2,2019-05-07,On-board electrical system, and method for operating an on-board electrical system
+    US20140252847A1,2014-09-11,Battery management system and switching method thereof
+    US20140084817A1,2014-03-27,Method of energy and power management in dynamic power systems with ultra-capacitors (super capacitors)
+    Hoenicke et al.,2021,Power management control and delivery module for a hybrid electric aircraft using fuel cell and battery
+    US10029632B2,2018-07-24,Method for operating an on-board electrical system
+    US11001388B1,2021-05-11,Systems and methods for power distribution in a drone aircraft
+    US20230234452A1,2023-07-27,Flexible battery system for a vehicle
+    JP2020518225A,2020-06-18,Hysteresis control DC-DC boost converter for aircraft
+    KR20180048077A,2018-05-10,Method of controlling the Unmanned Aircraft and Apparatus for the same
+    US11472297B2,2022-10-18,Hybrid energy storage system
+    US20230170693A1,2023-06-01,Circuit and system for coupling battery packs to motor controller in electric or hybrid aircraft
+    CN110683050A,2020-01-14,Aircraft with a flight control device
+    CN110683059A,2020-01-14,Aircraft with a flight control device
+    CN113320404B,2023-04-14,Fuel cell system based on hybrid power and setting method
+    KR102472923B1,2022-12-01,Power control system and method for fuel cell
+    KR102161980B1,2020-10-06,Hybrid power supply apparatus of aerial vehicle
+    US20220416564A1,2022-12-29,Integration Of Batteries and Super-Capacitors In A Vehicular Power Supply System
+    KR20210062113A,2021-05-31,Hybrid power supply apparatus of aerial vehicle
+    CN111404237A,2020-07-10,Onboard charging controller for battery with taps and control method thereof
+    US20230348079A1,2023-11-02,Electrically propelled aircraft with partially rated converter
+    US11655024B1,2023-05-23,Battery systems with power optimized energy source and energy storage optimized source
+    US20220344968A1,2022-10-27,Electric drive system
+    US20230352936A1,2023-11-02,Systems and methods for integrated fuel cell stack and battery management for transportation use
+
+patent_application
+2
+    Application,Priority date,Filing date,Relation,Title
+    PCT/IB2022/056994,2021-07-29,2022-07-28,Continuation-In-Part,A circuit and system for coupling a plurality of battery packs to a motor controller in an electric of hybrid aircraft
+
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    21
+classfication_items
+121
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,1,3
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,1,/,0,0
+    H,0,2,J,1,/,1,0
+    H,0,2,J,1,/,1,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B,6,0,L,5,0,/,6,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,1,0
+    B,6,0,L,5,3,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,8,/,0,0
+    B,6,0,L,8,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,8,/,0,0
+    B,6,0,L,8,/,0,0,6
+    B
+    B,6,4
+    B,6,4,D
+    B,6,4,D,2,7,/,0,0
+    B,6,4,D,2,7,/,0,2
+    B,6,4,D,2,7,/,2,4
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,1,3
+    H,0,2,J,7,/,0,0,1,4
+    H,0,2,J,7,/,0,0,1,6
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,2,9
+    H,0,2,J,7,/,0,0,3,0,4
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,2,9
+    H,0,2,J,7,/,0,0,3,1
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,2,9
+    H,0,2,J,7,/,0,0,3,4
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,6,8
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,3,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,2,0
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,2,2,0,7,/,0,0
+    H,0,2,J,2,2,0,7,/,1,0
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,2,2,0,7,/,0,0
+    H,0,2,J,2,2,0,7,/,2,0
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,2,3,1,0,/,0,0
+    H,0,2,J,2,3,1,0,/,4,0
+    H,0,2,J,2,3,1,0,/,4,4
+
+application_events
+5
+    2023-01-26,Application filed by H55 SA
+    2023-03-15,Assigned to H55 SA
+    2023-03-15,Assigned to H55 SA
+    2023-06-01,Publication of US20230170693A1
+    Status,Pending
+
+active_area
+1
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    CH20210070116,2021-07-29,
+    CH0701162021,2021-07-29,
+    PCT/IB2022/056994,2022-07-28,A circuit and system for coupling a plurality of battery packs to a motor controller in an electric of hybrid aircraft
+
+legal_event
+6
+    Date,Code,Title,Description
+    2023-03-15,AS,Assignment,Owner name: H55 SA, SWITZERLANDFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:GLASSEY, DAVID;ARCHIMEDE SARL;REEL/FRAME:062995/0781Effective date: 20230214Owner name: H55 SA, SWITZERLANDFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:DEMONT, SEBASTIEN;SUMMERMATTER, FRANCO;SIGNING DATES FROM 20230130 TO 20230201;REEL/FRAME:062995/0735
+    2023-05-30,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2023-09-03,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2023-09-13,STCB,Information on status: application discontinuation,Free format text: FINAL REJECTION MAILED
+    2023-09-13,STPP,Information on status: patent application and granting procedure in general,Free format text: FINAL REJECTION MAILED
+

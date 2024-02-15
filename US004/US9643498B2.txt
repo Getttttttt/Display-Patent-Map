@@ -1,0 +1,292 @@
+ID
+    US9643498B2
+citation_exist
+    Patent Citations (14)
+citation_infor
+16
+    Publication number,Priority date,Publication date,Assignee,Title
+    US6232674B1                      *,1996-11-07,2001-05-15,Robert Bosch Gmbh,Control device for a vehicle electric system
+    JP2002112406A,2000-09-29,2002-04-12,Mitsubishi Motors Corp,Control device for hybrid electric automobile
+    US6668954B2                      *,1992-05-08,2003-12-30,Field Hybrids, Llc,Electric hybrid vehicle
+    US20040201365A1                      *,2001-04-05,2004-10-14,Electrovaya Inc.,Energy storage device for loads having variable power rates
+    EP1595748A1,2003-02-17,2005-11-16,Denso Corporation,Vehicle-use supply system
+    US20060108954A1                      *,2002-08-26,2006-05-25,Dominique Sebille,Control device for a reversible rotating electrical machine
+    US20080215199A1,2006-12-18,2008-09-04,Denso Corporation,Vehicle-use dual voltage type power supply apparatus
+    US7506182B2                      *,2004-08-23,2009-03-17,Denso Corporation,Vehicle-mounted power supply system
+    US20090206660A1                      *,2006-05-16,2009-08-20,Toyota Jidosha Kabushiki Kaisha,Dual power supply system for a vehicle and power supply method
+    US20100125383A1                      *,2008-11-14,2010-05-20,Pierre Caouette,Electronic method of controlling propulsion and regeneration for electric, hybrid-electric and diesel-electric marine crafts, and an apparatus therefor
+    US20110001352A1                      *,2009-07-01,2011-01-06,Denso Corporation,Power source apparatus for vehicle
+    JP2011010501A,2009-06-29,2011-01-13,Panasonic Corp,Power supply device
+    Family To Family Citations,,,,
+    US20080084182A1                      *,2006-10-06,2008-04-10,Aai Corporation,Lithium battery system
+    JP5471083B2                      *,2009-07-01,2014-04-16,株式会社デンソー,In-vehicle power supply
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (4)
+              
+
+
+citedBy_exist
+    
+              Cited By (24)
+              
+
+
+citedBy_infor
+26
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20190036374A1                      *,2016-03-16,2019-01-31,Autonetworks Technologies, Ltd.,Vehicle power supply system and vehicle drive system
+    Family To Family Citations,,,,
+    US9260068B2                      *,2012-10-29,2016-02-16,Sanyo Electric Co., Ltd.,In-vehicle battery system
+    CN105431976B                      *,2013-07-31,2018-08-03,约翰逊控制技术公司,Semi-active structure for having the accumulator there are two types of different chemical composition
+    US9527401B2,2014-01-23,2016-12-27,Johnson Controls Technology Company,Semi-active architectures for batteries having two different chemistries
+    JP5862631B2                      *,2013-10-08,2016-02-16,トヨタ自動車株式会社,Power storage system
+    US11458851B2,2014-07-03,2022-10-04,The Noco Company,Jump starting apparatus
+    US9007015B1,2014-07-03,2015-04-14,The Noco Company,Portable vehicle battery jump start apparatus with safety protection
+    US11787297B2                      *,2014-07-03,2023-10-17,The Noco Company,Battery charging device for charging a deeply discharged battery, and battery charging system and method
+    US10320202B2                      *,2014-09-30,2019-06-11,Johnson Controls Technology Company,Battery system bi-stable relay control
+    CN110077342A                      *,2014-09-30,2019-08-02,株式会社自动网络技术研究所,Automobile electrical source device
+    US9969292B2,2014-11-14,2018-05-15,Johnson Controls Technology Company,Semi-active partial parallel battery architecture for an automotive vehicle systems and methods
+    DE102015002357A1                      *,2015-02-25,2016-08-25,GM Global Technology Operations LLC (n. d. Ges. d. Staates Delaware),Motor vehicle electrical system and battery assembly for it
+    AU2016228306A1                      *,2015-10-29,2017-05-18,Dc Solutions Australia Pty Ltd,Apparatus for monitoring and assisting a battery
+    EP3217465A1                      *,2016-03-08,2017-09-13,BOS Balance of Storage Systems AG,System for storing electrical energy
+    US10202043B2,2016-04-18,2019-02-12,Ford Global Technologies, Llc,Structure to optimize electricity generation in a vehicle
+    FR3068308B1,2017-06-28,2019-07-19,Airbus Group Sas,SYSTEM FOR STORING ELECTRIC ENERGY OF A VEHICLE AND VEHICLE ADAPTED TO IMPLEMENT IT
+    JP6971666B2                      *,2017-07-11,2021-11-24,ビークルエナジージャパン株式会社,Combined power storage system and control method of compound power storage system
+    DE102017221825B4                      *,2017-12-04,2019-06-27,Audi Ag,Method for controlling an electrical system of an electrically driven motor vehicle
+    US20190322193A1                      *,2018-04-19,2019-10-24,Wayne State University,Battery module balancing system of a vehicle and method thereof
+    CN112448628B                      *,2019-09-04,2022-07-26,广州汽车集团股份有限公司,Generator control method and system
+    US10749372B1                      *,2019-11-01,2020-08-18,3B Energy, Llc,Mechanical renewable green energy production
+    US10900540B1,2019-11-01,2021-01-26,Phos Global Energy Solutions, Inc.,Mechanical renewable green energy production
+    FR3104264B1                      *,2019-12-06,2021-12-17,Psa Automobiles Sa,DIAGNOSIS OF A LOW VOLTAGE BATTERY IN AN ELECTRIC VEHICLE
+    FR3109248B1,2020-04-10,2022-03-04,Renault Sas,Electric power supply system of a motor vehicle
+
+abstract
+    A system supplying electrical power to a vehicle including: a network of electricity consuming units; a first electrical accumulation battery connected to the network, exhibiting a first maximum voltage when unloaded less than a maximum network voltage; a second electrical accumulation battery connected to the network, exhibiting a second maximum voltage when unloaded greater than the maximum voltage when unloaded of the first battery, and a minimum acceptable voltage when unloaded below the maximum network voltage; a drivable alternator connected to the network, configured to deliver to the second battery an electrical energy under a setpoint voltage drivable to various setpoint values; an electronic management facility, configured to impose at least two different setpoint voltages successively on the alternator when the vehicle is running, a low alternator voltage greater than the first maximum voltage, and a high alternator voltage greater both than the minimum voltage and than the low alternator voltage.
+title
+    Method for recharging a pair of vehicle batteries of different nominal voltages, and associated system
+similar_document
+26
+    Publication,Publication Date,Title
+    US9643498B2,2017-05-09,Method for recharging a pair of vehicle batteries of different nominal voltages, and associated system
+    US8436585B2,2013-05-07,Power supply device
+    US9676281B2,2017-06-13,Hybrid battery system for electric vehicles
+    KR101397023B1,2014-05-20,Battery pack and method for controlling the same
+    KR102016752B1,2019-08-30,Battery pack and method for controlling the same
+    JP6165765B2,2017-07-19,Method for managing an alternator combined with at least one power battery and driven by a heat engine
+    JP3706565B2,2005-10-12,Power supply for hybrid cars
+    US9855904B2,2018-01-02,Coupling store device for a motor vehicle
+    EP2374651A2,2011-10-12,Electrical system of a vehicle with electric propulsion and control method thereof
+    EP2645467A1,2013-10-02,Battery pack charging system and method of controlling the same
+    CN107078535B,2020-12-08,Multi-accumulator system for an on-board electrical system of a motor vehicle
+    US9350186B2,2016-05-24,Battery pack
+    US11097634B2,2021-08-24,Start control system of vehicle and vehicle having the same
+    GB2506468A,2014-04-02,Rechargeable battery pack management for a vehicle
+    KR20160113133A,2016-09-28,Method for operating an on-board electrical system
+    CN101797895B,2012-09-05,Electric energy power system, electric vehicle, ship and airplane using the electric energy power system
+    CN111433076B,2023-06-27,Electrical device for an electrically drivable motor vehicle and method for controlling the same
+    US7489101B2,2009-02-10,Battery control system for hybrid vehicle and method for controlling a hybrid vehicle battery
+    CN101439679B,2011-04-06,Lead acid battery function test method and apparatus for hybrid power automobile
+    EP2792047B1,2021-01-06,Method and system for battery charging of a vehicle
+    CN105736211A,2016-07-06,Ignition control system of automobile and automobile
+    CN114389323A,2022-04-22,Method for reducing the total power consumption of a parked vehicle
+    CN211166459U,2020-08-04,Low-voltage power supply system of new energy automobile
+    ES2938792B2,2023-09-20,RECHARGEABLE BATTERY MANAGEMENT SYSTEM FOR BATTERY PACKS FOR ELECTRIC VEHICLES
+    CN116749839A,2023-09-15,Control method for parallel charging of multiple batteries, vehicle and storage medium
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    37
+classfication_items
+147
+    B,6,0,L,1,1,/,1,8,0,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,2
+    B,6,0,L,1,/,0,4
+    B,6,0,L,1,/,0,6
+    B,6,0,L,1,/,0,8
+    B,6,0,L,1,1,/,1,4
+    B,6,0,L,1,1,/,1,8,6,1
+    B,6,0,L,1,1,/,1,8,6,8
+    B,6,0,L,1,1,/,1,8,7,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B,6,0,L,5,8,/,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,1,3
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,1,3
+    H,0,2,J,7,/,0,0,2,2
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,1,3
+    H,0,2,J,7,/,0,0,2,4
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,1,4
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,1,4
+    H,0,2,J,7,/,1,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,8,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,0,5
+    Y,0,2,T,1,0,/,7,0,1,1
+    Y,0,2,T,1,0,/,7,0,1,6
+    Y,0,2,T,1,0,/,7,0,4,4
+    Y,0,2,T,1,0,/,7,0,5,5
+    Y,0,2,T,1,0,/,7,0,6,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y,0,2,T,1,0,/,7,0,7,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,1,6
+    Y,0,2,T,1,0,/,7,2,4,1
+
+application_events
+7
+    2012-05-15,Application filed by Renault SAS
+    2014-03-12,Assigned to RENAULT S.A.S.
+    2014-07-03,Publication of US20140184153A1
+    2017-05-09,Application granted
+    2017-05-09,Publication of US9643498B2
+    Status,Active
+    2033-02-23,Adjusted expiration
+
+active_area
+5
+    C,N
+    U,S
+    W,O
+    E,P
+    J,P
+
+not_active_area
+1
+    F,R
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    FR1154468A,2011-05-23,METHOD FOR RECHARGING A TORQUE OF VEHICLE BATTERIES OF DIFFERENT NOMINAL VOLTAGES, AND ASSOCIATED SYSTEM
+    FR1154468,2011-05-23,
+    PCT/FR2012/051081,2012-05-15,Method of recharging a pair of vehicle batteries of different nominal voltages, and associated system
+
+legal_event
+5
+    Date,Code,Title,Description
+    2014-03-12,AS,Assignment,Owner name: RENAULT S.A.S., FRANCEFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:SAINT-LEGER, GERARD;BOUILLON, DINO;REEL/FRAME:032412/0279Effective date: 20140305
+    2016-12-05,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2017-04-19,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2020-11-02,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

@@ -1,0 +1,305 @@
+ID
+    US10106040B2
+citation_exist
+    Patent Citations (12)
+citation_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5707115A,1996-10-07,1998-01-13,General Motors Corporation,Regenerative braking method
+    US6655754B2,2002-04-02,2003-12-02,Ford Global Technologies, Llc,Vehicle brake system having adaptive torque control
+    US6739677B2,2002-02-15,2004-05-25,Nissan Motor Co., Ltd.,Brake control apparatus
+    US7034482B2,2004-03-01,2006-04-25,Nissan Motor Co., Ltd.,Regeneration control for hybrid vehicle
+    US20150019058A1                      *,2013-07-12,2015-01-15,Stephan P. Georgiev,Regenerative braking regulation in automotive vehicles
+    US9002609B2,2010-06-07,2015-04-07,Nissan Motor Co., Ltd.,Vehicle brake control system
+    Family To Family Citations,,,,
+    US9080668B2,2013-05-20,2015-07-14,Ford Global Technologies, Llc,Method and apparatus for driveline softening utilizing a vehicle to cloud to vehicle system
+    KR101724802B1                      *,2014-11-03,2017-04-07,현대자동차주식회사,Braking control method for eco-friendly vehicle
+    CN104608643A                      *,2014-12-08,2015-05-13,北京新能源汽车股份有限公司,Brake energy recovery system and method based on adaptive cruise control system
+    CN105774780B                      *,2014-12-19,2018-10-09,北京宝沃汽车有限公司,The control method and device of emergency braking
+    US9827955B2                      *,2015-03-06,2017-11-28,Ford Global Technologies, Llc,Systems and methods to improve fuel economy using adaptive cruise in a hybrid electric vehicle when approaching traffic lights
+    US9761065B2                      *,2015-03-09,2017-09-12,Ford Global Technologies, Llc,Regenerative braking coaching system
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (20)
+              
+
+
+citedBy_infor
+22
+    Publication number,Priority date,Publication date,Assignee,Title
+    US11247621B2                      *,2018-10-19,2022-02-15,Hyundai Motor Company,Vehicle test system and method for controlling the same
+    Family To Family Citations,,,,
+    US10953756B2                      *,2015-07-15,2021-03-23,Ford Global Technologies, Llc,Adaptive regenerative braking method and system
+    JOP20190160A1                      *,2017-06-14,2019-06-25,Grow Solutions Tech Llc,Industrial cart and system with means for communicating with an industrial cart
+    JP6568916B2                      *,2017-09-29,2019-08-28,株式会社Ｓｕｂａｒｕ,Crew awakening device
+    US11615923B2,2019-06-07,2023-03-28,Anthony Macaluso,Methods, systems and apparatus for powering a vehicle
+    US11289974B2,2019-06-07,2022-03-29,Anthony Macaluso,Power generation from vehicle wheel rotation
+    US11133729B2,2019-06-07,2021-09-28,Anthony Macaluso,Methods and apparatus for providing electricity to a vehicle
+    US11685276B2,2019-06-07,2023-06-27,Anthony Macaluso,Methods and apparatus for powering a vehicle
+    US11432123B2,2019-06-07,2022-08-30,Anthony Macaluso,Systems and methods for managing a vehicle's energy via a wireless network
+    US11641572B2,2019-06-07,2023-05-02,Anthony Macaluso,Systems and methods for managing a vehicle's energy via a wireless network
+    JP7140077B2                      *,2019-09-02,2022-09-21,トヨタ自動車株式会社,Collision avoidance support device
+    US11318920B2                      *,2020-02-28,2022-05-03,Bendix Commercial Vehicle Systems Llc,Brake controller storing deceleration profiles and method using deceleration profiles stored in a brake controller
+    CN111645528B                      *,2020-06-05,2022-02-11,中国第一汽车股份有限公司,Braking energy recovery control method, system, device, vehicle and storage medium
+    CN111775939B                      *,2020-07-02,2021-07-13,浙江吉利新能源商用车集团有限公司,Energy recovery method and system for hybrid vehicle
+    CN111873966A                      *,2020-08-05,2020-11-03,盐城工学院,Electro-hydraulic composite brake optimization control system and method
+    CN114132181A                      *,2020-09-03,2022-03-04,长城汽车股份有限公司,Vehicle control method and device, medium and equipment
+    CN112277914B                      *,2020-09-30,2022-02-08,北汽福田汽车股份有限公司,Control method and device of hydraulic power-assisted brake system
+    DE102021202066A1,2021-03-03,2022-09-08,Volkswagen Aktiengesellschaft,Procedure for maintaining a minimum distance between two vehicles
+    US11577606B1,2022-03-09,2023-02-14,Anthony Macaluso,Flexible arm generator
+    US11472306B1,2022-03-09,2022-10-18,Anthony Macaluso,Electric vehicle charging station
+
+abstract
+    A hybrid electric vehicle (HEV) and methods for operation having a powertrain that includes an engine, an electric machine and storage battery, and a transmission coupled via a drive shaft to wheels having regenerative-friction brakes. The HEV and transmission incorporate regenerative and adaptive braking and a capability to detect nearby obstacles and other vehicles. Such controllers monitor and report the nearby-vehicle distance and a brake pedal tip-lift time and position. In response, the controller(s) cause the electric machine to generate electric power with negative torque, which decelerates the transmission and wheels at a constant or variable rate, adjusted so the nearby-vehicle distance during deceleration equals or exceeds a predetermined, lead-lag distance to nearby vehicles or obstacles. An adaptive cruise signal may also be generated that may indicate driver vehicle preferred settings and profiles, and constant, adjustable, learned, and driver selectable deceleration profiles, which are utilized to control deceleration during braking.
+title
+    Regenerative braking system and method
+similar_document
+26
+    Publication,Publication Date,Title
+    US10106040B2,2018-10-23,Regenerative braking system and method
+    US10696164B2,2020-06-30,Optimizing regenerative braking efficiency in a hybrid vehicle
+    US9026296B1,2015-05-05,System for controlling overall coasting torque in a hybrid electric vehicle
+    US10549745B2,2020-02-04,Vehicle powertrain controller and method
+    US9932914B2,2018-04-03,Method for increasing electric operation in hybrid electric vehicles
+    US10071724B2,2018-09-11,Regenerative torque limit control
+    CN105905110B,2020-07-14,Battery charging strategy in hybrid vehicle
+    US10308138B2,2019-06-04,Hybrid electric vehicle creep control
+    CN105752074B,2020-01-31,Torque converter clutch capacity based on regenerative braking request
+    CN105383492B,2020-07-10,Vehicle system and method for adjusting deceleration rate
+    US10336334B2,2019-07-02,Regenerative braking downshift control using predictive information
+    US10253876B2,2019-04-09,Vehicle regenerative speed control device
+    CN107097772B,2021-10-22,Deceleration control system for hybrid vehicle
+    CN105501211B,2020-04-07,Controlling a clutch between an engine and an electric machine in a hybrid vehicle
+    CN108819936B,2023-07-21,Regenerative braking efficiency optimization in a hybrid vehicle
+    CN108016299B,2023-01-24,Regenerative braking method
+    US9246417B1,2016-01-26,System and method for regenerative braking
+    GB2454586A,2009-05-13,Spinning of crankshaft prior to hybrid vehicle mode change
+    US7243011B2,2007-07-10,Hybrid transmission launch algorithm
+    US10471941B2,2019-11-12,Power capture during a line lock event
+    CN108016428B,2022-09-02,Control system for clutch during regenerative braking event
+    US20150274146A1,2015-10-01,Clutch stroke adaptation on engine shutdown
+    CN108501929B,2023-05-16,Automatic motor control during loss of motor communication
+    CN108407796B,2023-02-21,Torque disturbance management system and method
+    CN105437983B,2020-03-20,Vehicle system and method for adjusting lift pedal regeneration
+
+patent_application
+    NoExist
+patent_priority_application
+4
+    Application,Priority date,Filing date,Title
+    US15/419,331,2017-01-30,2017-01-30,Regenerative braking system and method
+    CN201810063334.1A,2017-01-30,2018-01-23,Regenerative braking system and method
+    DE102018101731.6A,2017-01-30,2018-01-25,NUT BRAKE SYSTEM AND METHOD
+
+inventor_number
+    4
+classfication_nums
+    27
+classfication_items
+168
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,5,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,7,4
+    B,6,0,T,1,3,/,7,4,1
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,0,2
+    B,6,0,T,7,/,0,4
+    B,6,0,T,7,/,0,4,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,1,2
+    B,6,0,T,7,/,2,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,4
+    B,6,0,W,3,0,/,1,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B,6,0,K,2,0,0,6,/,4,8,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B,6,0,L,2,2,4,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,8
+    B,6,0,L,2,2,4,0,/,4,8,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,4,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,0,1,/,0,0
+    B,6,0,T,2,2,0,1,/,0,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,4,/,0,0
+    B,6,0,W,2,5,5,4,/,8,0
+    B,6,0,W,2,5,5,4,/,8,0,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,1,0
+    B,6,0,W,2,7,2,0,/,1,0,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,4,7
+
+application_events
+7
+    2017-01-30,Application filed by Ford Global Technologies LLC
+    2017-01-30,Priority to US15/419,331
+    2018-08-02,Publication of US20180215272A1
+    2018-10-23,Application granted
+    2018-10-23,Publication of US10106040B2
+    Status,Active
+    2037-01-30,Anticipated expiration
+
+active_area
+3
+    U,S
+    C,N
+    D,E
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US15/419,331,2017-01-30,Regenerative braking system and method
+
+legal_event
+5
+    Date,Code,Title,Description
+    2017-01-31,AS,Assignment,Owner name: FORD GLOBAL TECHNOLOGIES, LLC, MICHIGANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:VITULLO, CHARLES;SOO, BRIAN THOMAS;REEL/FRAME:041130/0135Effective date: 20170125
+    2017-04-26,AS,Assignment,Owner name: FORD GLOBAL TECHNOLOGIES, LLC, MICHIGANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:TRICE, KIMBERLY;REEL/FRAME:042151/0691Effective date: 20170125
+    2018-10-03,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2022-03-09,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

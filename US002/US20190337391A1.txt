@@ -1,0 +1,433 @@
+ID
+    US20190337391A1
+citation_exist
+    Patent Citations (17)
+citation_infor
+19
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5539641A                      *,1994-02-14,1996-07-23,General Motors Corporation,Brake control system method and apparatus
+    US5573312A                      *,1993-05-18,1996-11-12,Smh Management Services Ag,Vehicle having an electric and mechanical braking system
+    US20020163250A1                      *,2001-05-03,2002-11-07,Huls Timothy Allen,Distribution of torque when driven wheels slip during regenerative braking
+    US6702404B2                      *,2001-12-20,2004-03-09,Visteon Global Technologies, Inc.,Hybrid electromagnetic/friction actuation system
+    US20040090116A1                      *,2002-11-08,2004-05-13,Nissan Motor Co., Ltd.,Vehicle braking apparatus
+    US20050264102A1                      *,2004-05-31,2005-12-01,Fuji Jukogyo Kabushiki Kaisha,Vehicle braking system and vehicle braking method
+    US20080162009A1                      *,2004-12-27,2008-07-03,Kabushikikaisha Equos Research,Wheel Control Device and Control Device
+    US20080234909A1                      *,2007-03-19,2008-09-25,Hitachi, Ltd.,Brake control apparatus and pump-up system
+    US20090178876A1                      *,2005-04-28,2009-07-16,Kabushikikaisha Equos Research,Controlling apparatus and vehicle provided therewith
+    US20090256417A1                      *,2008-02-29,2009-10-15,Hideaki Ishii,Brake device
+    US20110221265A1                      *,2010-03-12,2011-09-15,Gm Global Technology Operations, Inc.,Method for operating a vehicle brake system
+    US20130144476A1                      *,2010-06-03,2013-06-06,Mira Ltd.,Yaw Motion Control of a Vehicle
+    US20130144479A1                      *,2010-07-23,2013-06-06,Kensuke Ito,Abnormal torque evaluation apparatus for electrically driven vehicle
+    US20130325233A1                      *,2012-06-01,2013-12-05,GM Global Technology Operations LLC,Control architecture for a multi-mode powertrain system
+    US20150307086A1                      *,2012-11-26,2015-10-29,Renault S.A.S.,Method and system for controlling a hybrid vehicle with independent rear electric motors
+    US20160039405A1                      *,2013-12-17,2016-02-11,Honda Motor Co., Ltd.,Vehicle
+    US20170183008A1                      *,2015-12-25,2017-06-29,Toyota Jidosha Kabushiki Kaisha,Driving force control system for vehicle
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (9)
+              
+
+
+citedBy_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN111196162A                      *,2020-01-16,2020-05-26,宁德时代电动科技有限公司,Control method for preventing wheel reversal in regenerative braking of electric automobile
+    US20210253101A1                      *,2020-02-19,2021-08-19,Dana Automotive Systems Group, Llc,Sand mode system and method for a vehicle
+    CN113320392A                      *,2021-06-02,2021-08-31,武汉理工大学,Control method and system for vehicle sliding energy recovery and storage medium
+    US11124192B2                      *,2019-08-13,2021-09-21,Ford Global Technologies, Llc,Electrified vehicle configured to selectively increase energy recovery threshold based on friction prediction and corresponding method
+    US20220055470A1                      *,2018-02-20,2022-02-24,The United States Of America, As Represented By The Secretary Of The Navy,Hyper-Compact Electric All-Terrain Vehicle Drivetrain and Conversion Kit
+    US20220111837A1                      *,2020-10-12,2022-04-14,Hyundai Motor Company,Method of moving autonomous vehicle after accident
+    US20220314970A1                      *,2021-04-02,2022-10-06,Toyota Research Institute, Inc.,Wheel well mounted depth sensors for tire monitoring
+    US11472384B2                      *,2018-07-09,2022-10-18,Denso Corporation,Drive control apparatus for drive system of vehicle
+    Family To Family Citations,,,,
+    CN114084115B                      *,2020-08-24,2023-04-28,瀚德万安(上海)电控制动系统有限公司,Braking system and braking method for vehicle
+
+abstract
+    A hybrid electric vehicle having one or more controllers, at least two independently driven electric machines (EMs) that are each coupled to separate drive wheels, and controllers configured to generate a torque split ratio responsive to lateral acceleration and/or unequal friction coefficients detected during braking, and to generate electric power with the motors by regeneratively braking each wheel with unequal torques adjusted by the ratio, such that combined wheel braking torques do not exceed a total braking torque limit for the vehicle. In some configurations, the controller(s) generate the torque split ratio by a predetermined lookup table that maps a plurality of torque split ratios to lateral accelerations, the coefficients, and other parameters. Further arrangements include the controller(s) coupled with sensors that detect wheel slip and yaw rate, and responsive to a braking signal, the controller(s) disengage regenerative braking when the wheel slip and/or vehicle yaw are detected.
+title
+    Hybrid electric vehicle with torque split regenerative braking
+similar_document
+26
+    Publication,Publication Date,Title
+    US20190337391A1,2019-11-07,Hybrid electric vehicle with torque split regenerative braking
+    US10850725B2,2020-12-01,Vehicles with modular parallel high voltage batteries
+    CN109466536B,2022-07-29,Method for controlling electric four-wheel drive hybrid vehicle
+    US10106040B2,2018-10-23,Regenerative braking system and method
+    CN100453359C,2009-01-21,Power output apparatus, method of controlling power output apparatus, and automobile with power output apparatus mounted thereon
+    US7458650B2,2008-12-02,Regenerative braking system for motor vehicles
+    US8116927B2,2012-02-14,Dynamic traction control
+    CN100475596C,2009-04-08,Vehicle regenerative braking control apparatus and method
+    CN108688642B,2023-07-18,Autonomous vehicle constant speed control system
+    CN109624962B,2022-05-10,Hybrid vehicle
+    CN105383492B,2020-07-10,Vehicle system and method for adjusting deceleration rate
+    EP3085593A1,2016-10-26,Vehicle
+    US10696288B2,2020-06-30,Electronic all-wheel-drive escape systems and methods
+    JP2004099029A,2004-04-02,Braking and controllability control method and system of vehicle with regenerative braking
+    US10486684B2,2019-11-26,HEV energy management for high performance operation
+    CN111016916A,2020-04-17,Estimation of vehicle speed in all-wheel drive vehicle
+    CN104773174A,2015-07-15,Method and apparatus for controlling creep torque in a hybrid powertrain system
+    KR101714238B1,2017-03-22,Braking control method for eco-friendly vehicle
+    Lacandia et al.,2013,Adaptive energy management strategy calibration in PHEVs based on a sensitivity study
+    CN114248770A,2022-03-29,Uphill vehicle start in single-pedal driving mode
+    EP2394889B1,2018-11-21,Vehicle trailer equipped with an additional traction system, vehicle with said trailer, and method for managing the additional traction system
+    CN107804182B,2022-11-11,Electric vehicle having extended interface mechanism connected to second electrical device
+    CN103338957A,2013-10-02,Vehicle, and vehicle control method
+    CN104185566B,2017-11-07,Adjust the method and adjusting means of the hybrid drive of hybrid electric vehicle
+    US10343674B2,2019-07-09,Vehicles with multiple high voltage batteries
+
+patent_application
+    NoExist
+patent_priority_application
+4
+    Application,Priority date,Filing date,Title
+    US15/970,469,2018-05-03,2018-05-03,Hybrid electric vehicle with torque split regenerative braking
+    DE102019111254.0A,2018-05-03,2019-05-01,HYBRID ELECTRIC VEHICLE WITH TORQUE CONTROL WITH TORQUE DISTRIBUTION
+    CN201910369297.1A,2018-05-03,2019-05-05,Hybrid electric vehicle with torque distribution regenerative braking
+
+inventor_number
+    4
+classfication_nums
+    47
+classfication_items
+292
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,5,0
+    B,6,0,K,6,/,5,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,0
+    B,6,0,L,3,/,1,0,6
+    B,6,0,L,3,/,1,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,4
+    B,6,0,W,1,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B,6,0,W,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,0,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,0,2
+    B,6,0,W,3,0,/,0,4,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,4,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,0,2
+    B,6,0,W,4,0,/,0,6
+    B,6,0,W,4,0,/,0,6,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,1,0
+    B,6,0,W,4,0,/,1,1,4
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B,6,0,K,2,0,0,6,/,4,8,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B,6,0,L,2,2,4,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B,6,0,L,2,2,4,0,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B,6,0,L,2,2,4,0,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B,6,0,L,2,2,4,0,/,6,4,7
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,2,0,5,0,/,0,0,0,1
+    B,6,0,W,2,0,5,0,/,0,0,1,9
+    B,6,0,W,2,0,5,0,/,0,0,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B,6,0,W,2,5,2,0,/,1,0,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,2
+    B,6,0,W,2,5,2,0,/,1,2,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,2,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,4,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,4,0
+    B,6,0,W,2,7,2,0,/,4,0,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,4,0
+    B,6,0,W,2,7,2,0,/,4,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,0,2
+    B,6,0,W,4,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,0,2
+    B,6,0,W,4,0,/,0,6
+    B,6,0,W,4,0,/,0,6,4
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,8,9
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+7
+    2018-05-03,Application filed by Ford Global Technologies LLC
+    2018-05-03,Priority to US15/970,469
+    2018-05-04,Assigned to FORD GLOBAL TECHNOLOGIES, LLC
+    2019-05-01,Priority to DE102019111254.0A
+    2019-05-05,Priority to CN201910369297.1A
+    2019-11-07,Publication of US20190337391A1
+    Status,Pending
+
+active_area
+3
+    U,S
+    D,E
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US15/970,469,2018-05-03,Hybrid electric vehicle with torque split regenerative braking
+
+legal_event
+15
+    Date,Code,Title,Description
+    2018-05-04,AS,Assignment,Owner name: FORD GLOBAL TECHNOLOGIES, LLC, MICHIGANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:CROMBEZ, DALE SCOTT;KUANG, MING LANG;ZHAO, YANAN;SIGNING DATES FROM 20180309 TO 20180502;REEL/FRAME:045719/0865
+    2018-09-04,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2019-12-02,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2020-08-11,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2021-01-12,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2021-04-20,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2021-07-22,STCV,Information on status: appeal procedure,Free format text: NOTICE OF APPEAL FILED
+    2021-09-29,STCV,Information on status: appeal procedure,Free format text: APPEAL BRIEF (OR SUPPLEMENTAL BRIEF) ENTERED AND FORWARDED TO EXAMINER
+    2022-01-04,STCV,Information on status: appeal procedure,Free format text: EXAMINER'S ANSWER TO APPEAL BRIEF MAILED
+    2022-03-08,STCV,Information on status: appeal procedure,Free format text: ON APPEAL -- AWAITING DECISION BY THE BOARD OF APPEALS
+    2022-12-28,STCV,Information on status: appeal procedure,Free format text: BOARD OF APPEALS DECISION RENDERED
+    2023-05-25,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2023-07-10,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2023-10-13,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+

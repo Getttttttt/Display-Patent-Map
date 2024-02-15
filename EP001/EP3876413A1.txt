@@ -1,0 +1,271 @@
+ID
+    EP3876413A1
+citation_exist
+    Patent Citations (5)
+citation_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20110316333A1                      *,2009-02-12,2011-12-29,Bombardier Transportation Gmbh,Arrangement for operating consumers in a rail vehicle with electrical energy, selectively from an energy supply network or from a motor-generator combination
+    EP2671748A1                      *,2011-01-31,2013-12-11,Hitachi, Ltd.,Driving system, driving system for railroad-vehicle, and railroad-vehicle and multi-car train mounted with same
+    JP2014064398A,2012-09-21,2014-04-10,Kyushu Railway Co,Electric power system for electric motor vehicle, and electric power supply control method
+    JP2014064397A,2012-09-21,2014-04-10,Kyushu Railway Co,Electric power system for electric motor vehicle, and electric supply control method
+    US20140312810A1                      *,2012-01-05,2014-10-23,Kabushiki Kaisha Toshiba,Electric vehicle control apparatus and electric vehicle
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN114552656A                      *,2022-03-28,2022-05-27,西南交通大学,Grid-connected control method of flexible traction power supply system
+    Family To Family Citations,,,,
+
+abstract
+    The invention relates to power supply system (102) for a traction unit (100), the traction unit (100) having a transformer (104) for providing a transformer AC voltage from an electrical grid (107, 160) and a battery (110) for providing a battery DC voltage, the power supply system (102) comprising: a DC link (112) for providing a DC link voltage; a first converter (114) and a second converter (116) for converting at least one of the transformer AC voltage and the battery DC voltage into the DC link voltage, wherein each of the first converter (114) and the second converter (116) comprises at least two half bridges (200, 202) and wherein each of the half bridges (200, 202) is connected in parallel to the DC link (112); a first transformer terminal (122) and a second transformer terminal (126) for connecting each pole (120, 124) of a secondary coil (108) of the transformer (104) to a midpoint (208) of at least one of the half bridges (200, 202); a first battery terminal (130) for connecting a first pole (158) of the battery (110) to a midpoint (208) of at least one of the half bridges (200, 202); a second battery terminal (133) for connecting a second pole (132) of the battery (110) to the DC link (112); a switch (134) switchable between a first closed state and a second closed state, wherein the switch (134) connects a midpoint (208) of one of the half bridges (200, 202) either to one of the first transformer terminal (122) and the second transformer terminal (126) in the first closed state or to the first battery terminal (130) in the second closed state.
+title
+    Multiuse of phase legs in a power supply system for a traction unit
+similar_document
+21
+    Publication,Publication Date,Title
+    US9090165B2,2015-07-28,Driving system, driving system for railroad-vehicle, and railroad-vehicle and multi-car train mounted with same
+    US11167654B2,2021-11-09,Apparatus for transferring energy using power electronics and machine inductance and method of manufacturing same
+    AU2005267432B2,2011-02-03,Energy storage system and method for hybrid propulsion
+    US9321367B2,2016-04-26,Apparatus for energy transfer using converter and method of manufacturing same
+    JP4144646B1,2008-09-03,Electric vehicle, vehicle charging device, and vehicle charging system
+    US8421271B2,2013-04-16,Apparatus for transferring energy using onboard power electronics and method of manufacturing same
+    US9018792B2,2015-04-28,Arrangement for operating consumers in a rail vehicle with electrical energy, selectively from an energy supply network or from a motor-generator combination
+    JP2018529307A,2018-10-04,Controller for inductive loads having one or more induction windings
+    US8441229B2,2013-05-14,System for recharging plug-in hybrid vehicle and control method for the same
+    US10044312B2,2018-08-07,Modular stacked DC architecture traction system and method of making same
+    EP2695763B1,2019-11-06,Traction power converter for multisystem rail vehicle
+    CN104080639A,2014-10-01,Propulsion control device of electric vehicle and control method thereof
+    EP2689983B1,2016-01-06,Drive system and railway vehicle provided with the drive system
+    Chymera et al.,2011,Simplified power converter for integrated traction energy storage
+    EP3876413A1,2021-09-08,Multiuse of phase legs in a power supply system for a traction unit
+    CN110077240A,2019-08-02,A kind of multi power source AC drive locomotive circuit topological structure
+    US20230234621A1,2023-07-27,Arrangement for driving a locomotive having various energy-provision systems
+    CN115503510A,2022-12-23,Electric locomotive and power supply device and method thereof
+    GB2611341A,2023-04-05,Drive system for a railway vehicle
+    CN112706660A,2021-04-27,Power supply system, train carriage and propulsion system
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    EP20161470.8A,2020-03-06,2020-03-06,Multiuse of phase legs in a power supply system for a traction unit
+
+inventor_number
+    9
+classfication_nums
+    28
+classfication_items
+170
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,9,/,0,0
+    H,0,2,J,9,/,0,4
+    H,0,2,J,9,/,0,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,3,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,2,0
+    B,6,0,L,5,3,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,0,2
+    B,6,0,L,7,/,0,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,9,/,0,0
+    B,6,0,L,9,/,1,6
+    B,6,0,L,9,/,2,4
+    B,6,0,L,9,/,2,8
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,1,0
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,3,2
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H,0,2,M,3,/,0,2
+    H,0,2,M,3,/,0,4
+    H,0,2,M,3,/,1,0
+    H,0,2,M,3,/,1,4,5
+    H,0,2,M,3,/,1,5,5
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,5,/,0,0
+    H,0,2,M,5,/,4,0
+    H,0,2,M,5,/,4,2
+    H,0,2,M,5,/,4,4
+    H,0,2,M,5,/,4,5,3
+    H,0,2,M,5,/,4,5,8
+    H,0,2,M,5,/,4,5,8,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,2
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,1
+    B,6,0,Y,2,2,0,0,/,9,1,2
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,4,0,0,/,0,0
+    B,6,0,Y,2,4,0,0,/,2,1
+    B,6,0,Y,2,4,0,0,/,2,1,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+
+application_events
+4
+    2020-03-06,Application filed by ABB Schweiz AG
+    2020-03-06,Priority to EP20161470.8A
+    2021-09-08,Publication of EP3876413A1
+    Status,Pending
+
+active_area
+1
+    E,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    EP20161470.8A,2020-03-06,Multiuse of phase legs in a power supply system for a traction unit
+
+legal_event
+7
+    Date,Code,Title,Description
+    2021-08-06,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2021-08-06,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+    2021-09-08,AK,Designated contracting states,Kind code of ref document: A1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2022-02-25,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+    2022-03-30,17P,Request for examination filed,Effective date: 20220222
+    2022-03-30,RBV,Designated contracting states (corrected),Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+

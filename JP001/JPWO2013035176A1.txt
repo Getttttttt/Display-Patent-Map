@@ -1,0 +1,282 @@
+ID
+    JPWO2013035176A1
+citation_exist
+    Patent Citations (5)
+citation_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2007218680A                      *,2006-02-15,2007-08-30,Hitachi Ulsi Systems Co Ltd,充放電監視装置
+    JP2008289234A                      *,2007-05-16,2008-11-27,Hitachi Vehicle Energy Ltd,セルコントローラ、電池モジュールおよび電源システム
+    Family To Family Citations,,,,
+    JP2007280872A                      *,2006-04-11,2007-10-25,Sony Corp,電池パックおよびコネクタ
+    JP5486822B2                      *,2009-02-17,2014-05-07,株式会社日立製作所,電池システム
+    JP5470073B2                      *,2010-02-05,2014-04-16,日立ビークルエナジー株式会社,電池制御装置および電池システム
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (9)
+              
+
+
+citedBy_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN107650684A                      *,2016-07-25,2018-02-02,罗伯特·博世有限公司,高电压电池、用于运行高电压电池的方法、电池系统和车辆
+    Family To Family Citations,,,,
+    JP6347254B2,2013-04-01,2018-06-27,ソニー株式会社,蓄電装置、蓄電システムおよび電動車両
+    US10377261B2,2014-12-15,2019-08-13,Volvo Truck Corporation,Method and device for charging an electric energy storage system in a vehicle
+    JP6265157B2,2015-03-26,2018-01-24,トヨタ自動車株式会社,通信システム
+    JP6675339B2                      *,2017-02-17,2020-04-01,日立オートモティブシステムズ株式会社,蓄電池制御装置
+    JP6477787B2                      *,2017-06-19,2019-03-06,トヨタ自動車株式会社,通信システム
+    KR102180138B1                      *,2017-11-24,2020-11-17,주식회사 엘지화학,무선 배터리 관리 시스템 및 그것을 이용하여 배터리팩을 보호하는 방법
+    WO2020226441A1                      *,2019-05-07,2020-11-12,주식회사 엘지화학,배터리 컨트롤러, 무선 배터리 제어 시스템, 배터리 팩 및 배터리 밸런싱 방법
+    JP7310532B2,2019-10-16,2023-07-19,株式会社デンソー,電圧監視装置
+
+abstract
+    複数の電池セルを直列接続した複数個のセルグループを直列または直並列に接続した電池モジュールを制御する電池制御装置は、複数個のセルグループを各々制御する複数のセルコントローラＩＣと、複数のセルコントローラＩＣを電池モジュールに接続するために設けられた１つ以上のコネクタとを備える。複数のセルコントローラＩＣは、第１および第２のセルコントローラＩＣを含む。第１のセルコントローラＩＣのＧＮＤ端子側配線と第２のセルコントローラＩＣのＶＣＣ端子側配線とを電池制御装置の外部で接続するための補助接続部材（ピン）を設け、第１のセルコントローラＩＣのＧＮＤ端子側配線と第２のセルコントローラＩＣのＶＣＣ端子側配線との間にスイッチを設けた。
+title
+    電池制御装置、蓄電装置および車両
+similar_document
+22
+    Publication,Publication Date,Title
+    JP5895029B2,2016-03-30,蓄電装置および車両
+    JP5860886B2,2016-02-16,電池制御装置、蓄電装置および車両
+    JP5760144B2,2015-08-05,蓄電池制御装置および蓄電装置
+    JP5470073B2,2014-04-16,電池制御装置および電池システム
+    JP5331493B2,2013-10-30,電池制御装置
+    JP5594893B2,2014-09-24,電池制御装置およびこれを備えた蓄電装置
+    JP5732570B2,2015-06-10,蓄電装置、蓄電装置の充放電方法、蓄電装置の運転方法および車両
+    JP5486780B2,2014-05-07,電池システム
+    JP5552218B2,2014-07-16,電源装置
+    JP5677261B2,2015-02-25,蓄電システム
+    WO2013057820A1,2013-04-25,電池システムの監視装置およびこれを備えた蓄電装置
+    JP2010130827A,2010-06-10,蓄電装置
+    WO2011148926A1,2011-12-01,電源装置
+    JP2010015931A,2010-01-21,二次電池を用いた電源装置
+    JP5401239B2,2014-01-29,電池制御装置
+    JP2012186873A,2012-09-27,電池制御装置
+    JP7349510B2,2023-09-22,車載電池システム
+    JP2012074333A,2012-04-12,蓄電装置及びそれに用いられる監視制御装置
+    JP5685624B2,2015-03-18,電池システム
+    JP7373372B2,2023-11-02,電池制御装置
+    JP2010133758A,2010-06-17,温度検出装置および蓄電装置
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    12
+classfication_nums
+    28
+classfication_items
+170
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,8,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,8
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,1,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B,6,0,L,2,2,1,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B,6,0,L,2,2,1,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+6
+    2011-09-07,Application filed by Hitachi Automotive Systems Ltd
+    2015-03-23,Publication of JPWO2013035176A1
+    2016-02-16,Application granted
+    2016-02-16,Publication of JP5860886B2
+    Status,Active
+    2031-09-07,Anticipated expiration
+
+active_area
+2
+    W,O
+    J,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2011/070392,2011-09-07,電池制御装置、蓄電装置および車両
+
+legal_event
+9
+    Date,Code,Title,Description
+    2015-04-01,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20150331
+    2015-06-01,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20150601
+    2015-11-17,TRDD,Decision of grant or rejection written,
+    2015-11-25,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20151124
+    2015-12-24,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20151221
+    2015-12-25,R150,Certificate of patent or registration of utility model,Ref document number: 5860886Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R150
+    2021-03-15,S533,Written request for registration of change of name,Free format text: JAPANESE INTERMEDIATE CODE: R313533
+    2021-04-09,R350,Written notification of registration of transfer,Free format text: JAPANESE INTERMEDIATE CODE: R350
+

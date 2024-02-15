@@ -1,0 +1,391 @@
+ID
+    US10233613B2
+citation_exist
+    Patent Citations (25)
+citation_infor
+27
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPS6367403A,1986-09-05,1988-03-26,Komatsu Ltd,Hydraulic device for driving inertia body
+    JPH0527303U,1991-09-18,1993-04-09,住友建機株式会社,Inertial body control device
+    US6708787B2                      *,2001-03-12,2004-03-23,Komatsu Ltd.,Hybrid construction equipment
+    JP2008075753A,2006-09-21,2008-04-03,Kobelco Contstruction Machinery Ltd,Control device for hydraulic working machine
+    US7472009B2                      *,2004-10-20,2008-12-30,Leica Geosystems Ag,Method and apparatus for monitoring a load condition of a dragline
+    US7565801B2                      *,2005-06-06,2009-07-28,Caterpillar Japan Ltd.,Swing drive device and work machine
+    US7797934B2                      *,2007-04-30,2010-09-21,Caterpillar Inc,Anti-stall system utilizing implement pilot relief
+    US7904224B2                      *,2005-01-20,2011-03-08,Komatsu Ltd.,Excavator control mode switching device and excavator
+    JP2012077458A,2010-09-30,2012-04-19,Daikin Ind Ltd,Work machine
+    JP2013124736A,2011-12-15,2013-06-24,Hitachi Constr Mach Co Ltd,Hydraulic system of hydraulic working machine
+    JP2014145387A,2013-01-28,2014-08-14,Caterpillar Sarl,Engine assist device and work machine
+    US9022749B2                      *,2008-03-31,2015-05-05,Komatsu Ltd.,Swing drive controlling system for construction machine
+    US9067586B2                      *,2010-10-06,2015-06-30,Sumitomo Heavy Industries, Ltd.,Hybrid working machine
+    US10000906B2                      *,2012-11-09,2018-06-19,Sumitomo Heavy Industries, Ltd.,Shovel
+    US10024341B2                      *,2013-01-30,2018-07-17,Parker-Hannifin Corporation,Hydraulic hybrid swing drive system for excavators
+    Family To Family Citations,,,,
+    JP3129768B2,1991-07-23,2001-01-31,日本電産コパル株式会社,Barrier for lens barrel
+    JP3877307B2                      *,2002-10-18,2007-02-07,株式会社小松製作所,Pressure oil energy recovery device
+    JP4844363B2                      *,2006-11-28,2011-12-28,コベルコ建機株式会社,Hydraulic drive device and work machine equipped with the same
+    CN101918649B                      *,2007-12-28,2013-02-06,住友重机械工业株式会社,Hybrid construction machine
+    JP5412077B2                      *,2008-10-01,2014-02-12,キャタピラー  エス  エー  アール  エル,Power regeneration mechanism for hydraulic work machines
+    WO2010150382A1                      *,2009-06-25,2010-12-29,住友重機械工業株式会社,Hybrid working machine and method of controlling working machine
+    JP5175870B2                      *,2010-01-13,2013-04-03,川崎重工業株式会社,Drive control device for work machine
+    JP2011220390A                      *,2010-04-06,2011-11-04,Kobelco Contstruction Machinery Ltd,Control device of hydraulic working machine
+    JP5513535B2                      *,2012-01-25,2014-06-04,カヤバ工業株式会社,Circuit pressure control device, hydraulic control circuit using this circuit pressure control device, and hydraulic control circuit for construction machine
+    JP5872363B2                      *,2012-03-30,2016-03-01,住友建機株式会社,Swing control device
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (12)
+              
+
+
+citedBy_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20170107691A1                      *,2014-03-24,2017-04-20,Doosan Infracore Co., Ltd.,Method for controlling swing motor in hydraulic system and hydraulic system
+    US11162245B2                      *,2017-06-19,2021-11-02,Caterpillar Sarl,Stick control system in construction machine
+    Family To Family Citations,,,,
+    JP7156806B2                      *,2018-02-23,2022-10-19,株式会社小松製作所,WORK VEHICLE AND CONTROL METHOD FOR WORK VEHICLE
+    JP6910983B2                      *,2018-03-28,2021-07-28,株式会社クボタ,Work machine hydraulic system
+    JP7030594B2,2018-03-28,2022-03-07,株式会社クボタ,Work machine hydraulic system
+    CN109356894A                      *,2018-10-22,2019-02-19,广西柳工机械股份有限公司,Land leveller front-wheel drive control valve and hydraulic system
+    JP7198072B2                      *,2018-12-13,2022-12-28,キャタピラー エス エー アール エル,Hydraulic control circuit for construction machinery
+    CN109404353A                      *,2018-12-17,2019-03-01,广西柳工机械股份有限公司,Land leveller front-wheel drive control valve and hydraulic system
+    CN109404354A                      *,2018-12-17,2019-03-01,广西柳工机械股份有限公司,Land leveller front-wheel drive control valve and hydraulic system
+    KR20210136084A                      *,2019-04-05,2021-11-16,볼보 컨스트럭션 이큅먼트 에이비,hydraulic machine
+    CN112555207A                      *,2020-12-01,2021-03-26,上海华兴数字科技有限公司,Hydraulic control system and mechanical equipment
+    JP2022148801A                      *,2021-03-24,2022-10-06,株式会社小松製作所,Hydraulic shovel and hydraulic shovel control method
+
+abstract
+    A shovel includes a swing hydraulic motor configured to swing a rotating structure, a swing drive hydraulic circuit configured to drive the swing hydraulic motor, an assist hydraulic motor connected to an engine and configured to be supplied with hydraulic oil discharged from the swing drive hydraulic circuit, and a controller configured to control the driving of the shovel. The controller is configured to detect the load condition of the engine, and control the supply of the hydraulic oil to the assist hydraulic motor at the time of deceleration of the swing hydraulic motor, based on the detected load condition.
+title
+    Shovel and method of driving shovel
+similar_document
+21
+    Publication,Publication Date,Title
+    US10233613B2,2019-03-19,Shovel and method of driving shovel
+    US10604916B2,2020-03-31,Shovel
+    JP6054414B2,2016-12-27,Excavator
+    EP3037589B1,2019-03-20,Construction machine
+    JP6054412B2,2016-12-27,Excavator
+    US10100847B2,2018-10-16,Shovel
+    KR102460499B1,2022-10-27,shovel
+    JP6675871B2,2020-04-08,Excavator
+    KR101747519B1,2017-06-14,Hybrid construction machine
+    WO2014073337A1,2014-05-15,Construction machine
+    JP6776334B2,2020-10-28,Excavator and control valve for excavator
+    WO2019054366A1,2019-03-21,Hydraulic drive system for construction machine
+    US10900199B2,2021-01-26,Drive system of construction machine
+    JP2011226491A,2011-11-10,Turning hydraulic circuit of hydraulic shovel
+    US11214941B2,2022-01-04,Construction machine
+    JP6338834B2,2018-06-06,Excavator
+    JP2019094608A,2019-06-20,Shovel
+    KR102385608B1,2022-04-11,Control valves for shovels and shovels
+    JP6615868B2,2019-12-04,Excavator and excavator driving method
+    JPWO2019022029A1,2020-07-30,Excavator
+
+patent_application
+2
+    Application,Priority date,Filing date,Relation,Title
+    PCT/JP2016/059516,2015-03-27,2016-03-24,Continuation,Shovel and method for driving shovel
+
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    33
+classfication_items
+249
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,2,1
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,3,/,0,0
+    E,0,2,F,3,/,0,4
+    E,0,2,F,3,/,2,8
+    E,0,2,F,3,/,3,6
+    E,0,2,F,3,/,4,2
+    E,0,2,F,3,/,4,3
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,0,8
+    E,0,2,F,9,/,1,0
+    E,0,2,F,9,/,1,2
+    E,0,2,F,9,/,1,2,1
+    E,0,2,F,9,/,1,2,3
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,0,8
+    E,0,2,F,9,/,1,0
+    E,0,2,F,9,/,1,2
+    E,0,2,F,9,/,1,2,1
+    E,0,2,F,9,/,1,2,8
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,1,7
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,2,1
+    E,0,2,F,9,/,2,2,2,5
+    E,0,2,F,9,/,2,2,2,8
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,6,4
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,7,8
+    E,0,2,F,9,/,2,2,9,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,1,/,0,0
+    F,1,5,B,2,1,/,1,4
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F,1,5,B,1,1,/,0,2
+    F,1,5,B,1,1,/,0,4
+    F,1,5,B,1,1,/,0,4,0,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,0,7
+    F,1,5,B,2,2,1,1,/,2,0,5,2,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,3
+    F,1,5,B,2,2,1,1,/,2,0,5,4,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,7,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,3,0
+    F,1,5,B,2,2,1,1,/,3,0,5
+    F,1,5,B,2,2,1,1,/,3,0,5,2,5
+    F,1,5,B,2,2,1,1,/,3,0,5,3
+    F,1,5,B,2,2,1,1,/,3,0,5,3,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,3,0
+    F,1,5,B,2,2,1,1,/,3,0,5
+    F,1,5,B,2,2,1,1,/,3,0,5,6
+    F,1,5,B,2,2,1,1,/,3,0,5,6,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,3,0
+    F,1,5,B,2,2,1,1,/,3,0,5
+    F,1,5,B,2,2,1,1,/,3,0,5,6
+    F,1,5,B,2,2,1,1,/,3,0,5,6,5
+    F,1,5,B,2,2,1,1,/,3,0,5,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,3,0
+    F,1,5,B,2,2,1,1,/,3,1
+    F,1,5,B,2,2,1,1,/,3,1,0,5
+    F,1,5,B,2,2,1,1,/,3,1,1,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,4,0
+    F,1,5,B,2,2,1,1,/,4,0,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,4,0
+    F,1,5,B,2,2,1,1,/,4,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,0,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,0,6
+    F,1,5,B,2,2,1,1,/,6,3,0,9
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,0,6
+    F,1,5,B,2,2,1,1,/,6,3,1,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,4,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,6,5
+    F,1,5,B,2,2,1,1,/,6,6,5,1
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,0,5
+    F,1,5,B,2,2,1,1,/,7,0,5,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,1
+    F,1,5,B,2,2,1,1,/,7,1,1,4
+    F,1,5,B,2,2,1,1,/,7,1,2,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,1
+    F,1,5,B,2,2,1,1,/,7,1,3,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,1
+    F,1,5,B,2,2,1,1,/,7,1,4,2
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,5,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,8,0
+    F,1,5,B,2,2,1,1,/,8,5
+    F,1,5,B,2,2,1,1,/,8,5,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,8,0
+    F,1,5,B,2,2,1,1,/,8,8
+
+application_events
+7
+    2017-09-26,Application filed by Sumitomo Heavy Industries Ltd
+    2017-09-26,Assigned to SUMITOMO HEAVY INDUSTRIES, LTD.
+    2018-01-18,Publication of US20180016770A1
+    2019-03-19,Application granted
+    2019-03-19,Publication of US10233613B2
+    Status,Active
+    2036-03-24,Anticipated expiration
+
+active_area
+5
+    K,R
+    C,N
+    J,P
+    W,O
+    U,S
+
+not_active_area
+1
+    E,P
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2015-067689,2015-03-27,
+    JP2015067689,2015-03-27,
+    PCT/JP2016/059516,2016-03-24,Shovel and method for driving shovel
+
+legal_event
+5
+    Date,Code,Title,Description
+    2017-09-26,AS,Assignment,Owner name: SUMITOMO HEAVY INDUSTRIES, LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:HONDA, KEIJI;ISHIYAMA, HIROSHI;SIGNING DATES FROM 20170912 TO 20170920;REEL/FRAME:043702/0791
+    2017-09-26,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2019-02-27,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2022-09-07,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

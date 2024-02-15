@@ -1,0 +1,243 @@
+ID
+    US9732984B2
+citation_exist
+    Patent Citations (17)
+citation_infor
+19
+    Publication number,Priority date,Publication date,Assignee,Title
+    US4921163A                      *,1986-09-17,1990-05-01,Hans Viessmann,Method and apparatus for temperature control of heating and cooling plants
+    US6606968B2                      *,2002-01-11,2003-08-19,Takagi Industrial Co., Ltd.,Water heater unit
+    US20050278040A1                      *,2004-06-09,2005-12-15,Sanyo Electric Co., Ltd.,Equipment control system
+    WO2006080223A1,2005-01-26,2006-08-03,Noritz Corporation,Combustion control device
+    JP2006207903A,2005-01-26,2006-08-10,Noritz Corp,Combustion control device
+    JP2006220349A,2005-02-09,2006-08-24,Noritz Corp,Combustion control device and combustion device
+    JP2007322004A,2006-05-30,2007-12-13,Noritz Corp,Water heater
+    US7322532B2                      *,2004-08-06,2008-01-29,Takagi Industrial Co., Ltd.,Hot-water supply apparatus, anti-freezing method thereof, and anti-freezing program thereof
+    US7597066B2                      *,2006-03-27,2009-10-06,Rinnai Corporation,Circulation type hot water supply device
+    US20100024449A1                      *,2008-08-04,2010-02-04,Lg Electronics Inc.,Method for controlling hot water circulation system associated with heat pump
+    US20100082134A1                      *,2004-08-26,2010-04-01,Phillips Terry G,Modular control system and method for a water heater
+    JP2010261686A,2009-05-11,2010-11-18,Rinnai Corp,Hot water heating system
+    US20120090341A1                      *,2010-10-14,2012-04-19,Takagi Industrial Co., Ltd.,Water heater and control method therefor
+    Family To Family Citations,,,,
+    JP2002257339A                      *,2001-02-27,2002-09-11,Inkusu Kk,Combustion safety controller
+    JP3758519B2                      *,2001-04-20,2006-03-22,株式会社ノーリツ,Water heater
+    JP5055878B2                      *,2006-08-01,2012-10-24,タイガー魔法瓶株式会社,Electric rice cooker
+    JP2009135655A                      *,2007-11-29,2009-06-18,Hitachi Ltd,Electronic control device
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (14)
+              
+
+
+citedBy_infor
+16
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US7506617B2                      *,2007-03-09,2009-03-24,Lochinvar Corporation,Control system for modulating water heater
+    US9513003B2                      *,2010-08-16,2016-12-06,Purpose Company Limited,Combustion apparatus, method for combustion control, board, combustion control system and water heater
+    US10408470B2                      *,2015-11-09,2019-09-10,Allied Air Enterprises Llc,Heater for gas furnace condensate drain system
+    CN109073271A                      *,2016-02-19,2018-12-21,吉拉德产品有限责任公司,For Recreational Vehicle without case water heater and correlation technique
+    JP6642098B2                      *,2016-02-24,2020-02-05,株式会社ノーリツ,Hot water equipment
+    US10989442B2                      *,2016-07-26,2021-04-27,Noritz Corporation,Heating and hot water supply device
+    CN109564006A                      *,2016-07-26,2019-04-02,株式会社能率,Heat hot water supply apparatus
+    US10502454B2,2016-08-01,2019-12-10,Johnson Controls Technology Company,Furnace for a rooftop unit
+    ES2735200T3                      *,2016-08-31,2019-12-17,Wuhu Midea Kitchen & Bath Appliances Mfg Co Ltd,Gas water heater and safety control system and associated procedure
+    JP6889863B2                      *,2017-07-24,2021-06-18,株式会社ノーリツ,Heating and hot water supply system
+    JP6900812B2                      *,2017-07-24,2021-07-07,株式会社ノーリツ,Heating and hot water supply device
+    JP7098923B2                      *,2017-12-18,2022-07-12,株式会社ノーリツ,Water heater
+    JP7119711B2                      *,2018-07-27,2022-08-17,株式会社ノーリツ,Combustion and water heating systems
+    CN111930047A                      *,2020-08-19,2020-11-13,周鹏,Intelligent hot water control system
+
+abstract
+    The present invention becomes possible to employ a main microprocessor with a relatively lower number of input ports, whereby while maintaining the performance and function of a water heater, the cost of a control apparatus is cut down. Some of sensors, adapted for measurement of various parameters which are for use in operational control of the water heater and in need of immediate response, are connected to a main microprocessor 31. The other sensors that are not in need of an immediate response, such as an ambient temperature sensor 36, are connected only to a sub microprocessor 32 if the main microprocessor 31 does not have any extra analog signal input port. The sub microprocessor converts an analog signal from the sensor 36 which is connected only to the sub microprocessor into digital data. And the sub microprocessor transmits the digital data to the main microprocessor through communication therewith.
+title
+    Control apparatus for water heater
+similar_document
+26
+    Publication,Publication Date,Title
+    US9732984B2,2017-08-15,Control apparatus for water heater
+    US10088852B2,2018-10-02,Multi-tank water heater systems
+    US9885484B2,2018-02-06,Multi-tank water heater systems
+    US7506617B2,2009-03-24,Control system for modulating water heater
+    US9182159B2,2015-11-10,Water heater and control method therefor
+    TWI529357B,2016-04-11,Hot water supply system
+    US20180112891A1,2018-04-26,Water heating system
+    US20110271880A1,2011-11-10,Redundant Modulating Furnace Gas Valve Closure System and Method
+    EP3428547A1,2019-01-16,Heating system
+    EP2122261B1,2012-12-19,Boiler for a heating system, in particular for domestic use
+    JP5545099B2,2014-07-09,Hot water system
+    JP3906917B2,2007-04-18,Connected water heater
+    WO2022137196A1,2022-06-30,A hydraulic unit
+    JP6667365B2,2020-03-18,Water heater
+    JP3867771B2,2007-01-10,Water heater
+    US10107521B2,2018-10-23,Connected hot-water supply system
+    JP2012032042A,2012-02-16,Hot water supply system
+    JP3962753B2,2007-08-22,Hot water system
+    JP5516138B2,2014-06-11,Hot water system
+    JP5589610B2,2014-09-17,Hot water system
+    JP2012047422A,2012-03-08,Hot water storage system
+    JP5527607B2,2014-06-18,Hot water system
+    JP2018048782A,2018-03-29,Hot water supply system
+    JP3800412B2,2006-07-26,Linked hot water system
+    JP4750756B2,2011-08-17,Water heater
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    19
+classfication_items
+109
+    F
+    F,2,4
+    F,2,4,H
+    F,2,4,H,9,/,0,0
+    F,2,4,H,9,/,2,0
+    F,2,4,H,9,/,2,0,0,7
+    F,2,4,H,9,/,2,0,3,5
+    F
+    F,2,4
+    F,2,4,D
+    F,2,4,D,1,9,/,0,0
+    F,2,4,D,1,9,/,0,0,9,5
+    F
+    F,2,4
+    F,2,4,H
+    F,2,4,H,1,/,0,0
+    F,2,4,H,1,/,1,0
+    F,2,4,H,1,/,1,2
+    F,2,4,H,1,/,1,2,4
+    F
+    F,2,4
+    F,2,4,H
+    F,2,4,H,1,5,/,0,0
+    F,2,4,H,1,5,/,1,0
+    F,2,4,H,1,5,/,1,3,6
+    F
+    F,2,4
+    F,2,4,H
+    F,2,4,H,1,5,/,0,0
+    F,2,4,H,1,5,/,2,0
+    F,2,4,H,1,5,/,2,1,2
+    F,2,4,H,1,5,/,2,1,5
+    F
+    F,2,4
+    F,2,4,H
+    F,2,4,H,1,5,/,0,0
+    F,2,4,H,1,5,/,2,0
+    F,2,4,H,1,5,/,2,1,2
+    F,2,4,H,1,5,/,2,1,9
+    F
+    F,2,4
+    F,2,4,H
+    F,2,4,H,1,5,/,0,0
+    F,2,4,H,1,5,/,2,0
+    F,2,4,H,1,5,/,2,3,5
+    F
+    F,2,4
+    F,2,4,H
+    F,2,4,H,1,5,/,0,0
+    F,2,4,H,1,5,/,2,0
+    F,2,4,H,1,5,/,2,5,4
+    F
+    F,2,4
+    F,2,4,H
+    F,2,4,H,1,5,/,0,0
+    F,2,4,H,1,5,/,3,0
+    F,2,4,H,1,5,/,3,0,5
+    F,2,4,H,1,5,/,3,1
+    F
+    F,2,4
+    F,2,4,H
+    F,2,4,H,1,5,/,0,0
+    F,2,4,H,1,5,/,3,0
+    F,2,4,H,1,5,/,3,5,5
+    F,2,4,H,1,5,/,3,6
+    F
+    F,2,4
+    F,2,4,H
+    F,2,4,H,1,5,/,0,0
+    F,2,4,H,1,5,/,4,0
+    F,2,4,H,1,5,/,4,1,4
+    F,2,4,H,1,5,/,4,2,1
+    F
+    F,2,4
+    F,2,4,H
+    F,2,4,H,8,/,0,0
+    F,2,4,H,8,/,0,0,6
+    G
+    G,0,5
+    G,0,5,B
+    G,0,5,B,1,9,/,0,0
+    G,0,5,B,1,9,/,0,2
+    G,0,5,B,1,9,/,0,4
+    G,0,5,B,1,9,/,0,4,2
+    G,0,5,B,1,9,/,0,4,2,1
+    F
+    F,2,4
+    F,2,4,H
+    F,2,4,H,1,5,/,0,0
+    F,2,4,H,1,5,/,3,0
+    F,2,4,H,1,5,/,3,4,5
+    F,2,4,H,1,5,/,3,5
+    F
+    F,2,4
+    F,2,4,H
+    F,2,4,H,1,5,/,0,0
+    F,2,4,H,1,5,/,3,0
+    F,2,4,H,1,5,/,3,9,5
+    Y
+    Y,0,2
+    Y,0,2,B
+    Y,0,2,B,3,0,/,0,0
+    Y,0,2,B,3,0,/,1,0,6
+    Y
+    Y,0,2
+    Y,0,2,B
+    Y,0,2,B,3,0,/,0,0
+    Y,0,2,B,3,0,/,7,0
+    Y,0,2,B,3,0,/,7,6,2
+
+application_events
+7
+    2013-10-30,Application filed by Noritz Corp
+    2013-10-31,Assigned to NORITZ CORPORATION
+    2014-05-01,Publication of US20140116357A1
+    2017-08-15,Application granted
+    2017-08-15,Publication of US9732984B2
+    Status,Active
+    2035-01-30,Adjusted expiration
+
+active_area
+4
+    J,P
+    C,N
+    E,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2012-240016,2012-10-31,
+    JP2012240016A,2012-10-31,Water heater control device
+
+legal_event
+4
+    Date,Code,Title,Description
+    2013-10-31,AS,Assignment,Owner name: NORITZ CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:YANO, YUIKO;OKAMOTO, SHINICHI;REEL/FRAME:031520/0759Effective date: 20130927
+    2017-07-26,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2020-09-23,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

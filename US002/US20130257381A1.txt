@@ -1,0 +1,270 @@
+ID
+    US20130257381A1
+citation_exist
+    Patent Citations (18)
+citation_infor
+20
+    Publication number,Priority date,Publication date,Assignee,Title
+    US3980940A                      *,1973-04-10,1976-09-14,Mabuchi Motor Co. Ltd.,Battery equalizing system
+    US5504415A                      *,1993-12-03,1996-04-02,Electronic Power Technology, Inc.,Method and apparatus for automatic equalization of series-connected batteries
+    US5764027A                      *,1996-06-21,1998-06-09,Ford Global Technologies, Inc.,Method and apparatus for battery charge balancing
+    US6064178A                      *,1998-05-07,2000-05-16,Ford Motor Company,Battery charge balancing system having parallel switched energy storage elements
+    US6184656B1                      *,1995-06-28,2001-02-06,Aevt, Inc.,Radio frequency energy management system
+    US20030146737A1                      *,2002-01-17,2003-08-07,Matsushita Electric Industrial Co., Ltd.,Battery assembly system and electric-motor vehicle system using the same
+    US20040164706A1                      *,2001-03-30,2004-08-26,Osborne Jeffrey Roger,Battery management unit, system and method
+    US20060077603A1                      *,2004-09-07,2006-04-13,Kim Jong S,Protective circuit for a secondary battery pack and method of operating the same
+    US20070229034A1                      *,2006-03-30,2007-10-04,Yoshinao Tatebayashi,Battery module system, method of charging battery module and charging type vacuum cleaner
+    US20090085516A1                      *,2007-09-28,2009-04-02,Hitachi, Ltd.,Automotive Power Supply System
+    US20100019724A1                      *,2008-07-24,2010-01-28,Kabushiki Kaisha Toshiba,Battery system using secondary battery
+    JP2010220380A                      *,2009-03-17,2010-09-30,Nissan Motor Co Ltd,Device for adjusting capacity of battery pack
+    WO2011040412A1                      *,2009-09-29,2011-04-07,株式会社デンソー,Assembled battery control device
+    US20110112781A1                      *,2009-11-12,2011-05-12,Gm Global Technology Operations, Inc.,Method for estimating battery degradation in a vehicle battery pack
+    US20120025769A1                      *,2009-03-26,2012-02-02,Hitachi Vehicle Energy, Ltd.,Battery System for Vehicle
+    US20140021925A1                      *,2011-03-31,2014-01-23,Panasonic Corporation,Battery power supply apparatus and battery power supply system
+    US20140049222A1                      *,2011-03-07,2014-02-20,A123 Systems, Inc,Method for Opportunistically Balancing Charge Between Battery Cells
+    US9013146B2                      *,2009-06-29,2015-04-21,Nec Energy Devices, Ltd.,Secondary battery pack
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (16)
+              
+
+
+citedBy_infor
+18
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20130335036A1                      *,2012-06-15,2013-12-19,Tao Zhang,Balance charging detector
+    US20140278174A1                      *,2013-03-15,2014-09-18,Atieva, Inc.,Method of connecting cell voltage sensors
+    US20150028814A1                      *,2013-07-25,2015-01-29,GM Global Technology Operations LLC,Methods and systems for adjusting battery voltage limits
+    US20150051855A1                      *,2012-11-29,2015-02-19,Lg Chem, Ltd.,Apparatus and method for estimating power of secondary battery comprising blended cathode material
+    US20150239364A1                      *,2014-02-21,2015-08-27,GM Global Technology Operations LLC,System and method of monitoring a performance level of a battery
+    US20160003911A1                      *,2014-07-03,2016-01-07,Infineon Technologies Ag,Battery cell characteristic identification
+    US20170264110A1                      *,2016-03-08,2017-09-14,Panasonic Intellectual Property Management Co., Ltd.,Electricity storage system and control method of electricity storage system
+    US20180062402A1                      *,2016-08-25,2018-03-01,Yazaki Corporation,Quick charging device
+    US20180076638A1                      *,2016-09-13,2018-03-15,Mitsumi Electric Co., Ltd.,Battery control circuit
+    US10608442B1                      *,2018-09-24,2020-03-31,Texas Instruments Incorporated,Adaptive cell-balancing
+    CN113178632A                      *,2021-04-25,2021-07-27,上海空间电源研究所,Method for recovering monomer consistency of lithium ion storage battery pack
+    US20210362616A1                      *,2020-05-19,2021-11-25,Volkswagen Aktiengesellschaft,Method For Proposing A Charging Strategy For Aging-Optimized Charging Of An Energy Store Of A Motor Vehicle, Charging Device And Motor Vehicle
+    US11196270B2                      *,2019-08-20,2021-12-07,Acer Incorporated,Charging method for charging battery module
+    US11223212B2                      *,2018-10-26,2022-01-11,Toyota Jidosha Kabushiki Kaisha,Battery control device for homogenizing battery cells
+    US11411423B2                      *,2017-09-30,2022-08-09,Honor Device Co., Ltd.,Charging control method, related device, and computer storage medium
+    CN116381514A                      *,2023-06-07,2023-07-04,广汽埃安新能源汽车股份有限公司,Cell differential pressure early warning method, device, storage medium and equipment
+    Family To Family Citations,,,,
+
+abstract
+    A battery pack management system adjusts the relative state-of-charge of respective battery blocks in a battery pack to equalize (i.e., align, balance or otherwise make similar) the peak battery block voltages (i.e., maximum or “upper peak” battery block voltages when the battery pack is being charged and/or minimum or “lower peak” battery block voltages when the battery is being discharged). Upon detecting an anomalous battery block that exhibits outlier upper and lower peak voltages, the battery pack management system adjusts the relative state of charge of respective battery blocks to center their respective upper and lower peak voltages between operating limits, thus maximizing the operating margin of the battery pack as a whole.
+title
+    Peak-equalized battery charge balancing
+similar_document
+25
+    Publication,Publication Date,Title
+    US10690725B2,2020-06-23,Battery state-of-charge estimation
+    US9728820B2,2017-08-08,Margin-based battery charge balancing
+    US20130257381A1,2013-10-03,Peak-equalized battery charge balancing
+    US9885757B2,2018-02-06,Method and apparatus for determining the state-of-charge of a battery
+    JP6300567B2,2018-03-28,Secondary battery system
+    JP6111275B2,2017-04-05,Battery control device
+    EP2963433B1,2021-04-14,Method and apparatus for estimating state of battery
+    JP6084225B2,2017-02-22,Battery control device, secondary battery system
+    JP6101714B2,2017-03-22,Battery control device, battery system
+    CN105452889B,2018-05-29,Battery control device
+    JP6324248B2,2018-05-16,Battery state detection device, secondary battery system, battery state detection program, battery state detection method
+    KR101813461B1,2017-12-29,Method for transmitting data in a battery management system
+    EP3171186B1,2019-10-23,Battery state detection device, secondary battery system, program product, and battery state detection method
+    JP5784108B2,2015-09-24,Charge control device
+    CN106463988B,2019-07-30,Battery control device
+    WO2011163331A2,2011-12-29,Determining the state-of-charge of batteries via selective sampling of extrapolated open circuit voltage
+    JP6970289B2,2021-11-24,Charge control devices, transportation equipment, and programs
+    US20160099587A1,2016-04-07,Method for cell balancing for a plurality of battery cells, and battery system for performing such a method
+    CN105917518A,2016-08-31,Method for equalising charge state in battery
+    KR20120079674A,2012-07-13,Apparatus and method for managing battery based on differential soc estimation and battery pack using it
+    CN106168644B,2018-11-09,Manual maintenance decoupler fuse state determines system and method
+    JP7168336B2,2022-11-09,Secondary battery controller
+    KR101261149B1,2013-05-06,Method for estimating state of charge of battery
+    KR101348251B1,2014-01-08,Battery management system test device
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US13/434,692,2012-03-29,2012-03-29,Peak-equalized battery charge balancing
+
+inventor_number
+    5
+classfication_nums
+    21
+classfication_items
+130
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,1,0
+    B,6,0,L,5,3,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,1,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,2
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,1,3
+    H,0,2,J,7,/,0,0,1,4
+    H,0,2,J,7,/,0,0,1,6
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,4,7
+    H,0,2,J,7,/,0,0,4,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+
+application_events
+4
+    2012-03-29,Application filed by Atieva Inc
+    2012-03-29,Priority to US13/434,692
+    2013-10-03,Publication of US20130257381A1
+    Status,Abandoned
+
+active_area
+0
+
+not_active_area
+1
+    U,S
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US13/434,692,2012-03-29,Peak-equalized battery charge balancing
+
+legal_event
+12
+    Date,Code,Title,Description
+    2014-02-04,AS,Assignment,Owner name: ATIEVA, INC., CALIFORNIAFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:DIAMOND, STEVEN;RISK, GABRIEL;HU, STANLEY;AND OTHERS;SIGNING DATES FROM 20120402 TO 20120816;REEL/FRAME:032132/0951
+    2017-03-31,AS,Assignment,Owner name: TRINITY CAPITAL FUND III, L. P., ARIZONAFree format text: INTELLECTUAL PROPERTY SECURITY AGREEMENT;ASSIGNOR:ATIEVA, INC;REEL/FRAME:042125/0897Effective date: 20170331
+    2017-11-15,AS,Assignment,Owner name: YINLONG ELECTRIC VEHICLE (HK) GROUP LIMITED, HONG KONGFree format text: SECURITY INTEREST;ASSIGNORS:ATIEVA, INC.;ATIEVA USA, INC;REEL/FRAME:044457/0942Effective date: 20171027Owner name: YINLONG ELECTRIC VEHICLE (HK) GROUP LIMITED, HONGFree format text: SECURITY INTEREST;ASSIGNORS:ATIEVA, INC.;ATIEVA USA, INC;REEL/FRAME:044457/0942Effective date: 20171027
+    2018-08-24,AS,Assignment,Owner name: ATIEVA INC., CAYMAN ISLANDSFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:ATIEVA USA INC.;REEL/FRAME:046696/0283Effective date: 20180808
+    2018-09-13,AS,Assignment,Owner name: ATIEVA USA, INC., CALIFORNIAFree format text: RELEASE BY SECURED PARTY;ASSIGNOR:TRINITY CAPITAL FUND III, L.P.;REEL/FRAME:047529/0619Effective date: 20180912Owner name: AVB METRICS, LLC, CALIFORNIAFree format text: RELEASE BY SECURED PARTY;ASSIGNOR:TRINITY CAPITAL FUND III, L.P.;REEL/FRAME:047529/0619Effective date: 20180912Owner name: ATIEVA, INC., CAYMAN ISLANDSFree format text: RELEASE BY SECURED PARTY;ASSIGNOR:TRINITY CAPITAL FUND III, L.P.;REEL/FRAME:047529/0619Effective date: 20180912
+    2018-09-24,AS,Assignment,Owner name: AVB METRICS, LLC, CALIFORNIAFree format text: RELEASE BY SECURED PARTY;ASSIGNOR:YINLONG ELECTRIC VEHICLE (HK) GROUP LIMITED;REEL/FRAME:047620/0451Effective date: 20180914Owner name: ATIEVA USA, INC., CALIFORNIAFree format text: RELEASE BY SECURED PARTY;ASSIGNOR:YINLONG ELECTRIC VEHICLE (HK) GROUP LIMITED;REEL/FRAME:047620/0451Effective date: 20180914Owner name: ATIEVA, INC., CAYMAN ISLANDSFree format text: RELEASE BY SECURED PARTY;ASSIGNOR:YINLONG ELECTRIC VEHICLE (HK) GROUP LIMITED;REEL/FRAME:047620/0451Effective date: 20180914
+    2018-10-05,AS,Assignment,Owner name: AYAR THIRD INVESTMENT COMPANY, SAUDI ARABIAFree format text: SECURITY INTEREST;ASSIGNOR:ATIEVA, INC.;REEL/FRAME:047199/0221Effective date: 20180916
+    2019-03-05,STCV,Information on status: appeal procedure,Free format text: EXAMINER'S ANSWER TO APPEAL BRIEF MAILED
+    2019-04-05,AS,Assignment,Owner name: ATIEVA, INC., CALIFORNIAFree format text: RELEASE BY SECURED PARTY;ASSIGNOR:AYAR THIRD INVESTMENT COMPANY;REEL/FRAME:048811/0472Effective date: 20190402
+    2019-07-17,STCV,Information on status: appeal procedure,Free format text: ON APPEAL -- AWAITING DECISION BY THE BOARD OF APPEALS
+    2020-11-12,STCB,Information on status: application discontinuation,Free format text: ABANDONED  --  AFTER EXAMINER'S ANSWER OR BOARD OF APPEALS DECISION
+

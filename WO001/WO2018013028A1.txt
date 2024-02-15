@@ -1,0 +1,225 @@
+ID
+    WO2018013028A1
+citation_exist
+    Patent Citations (10)
+citation_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20090211253A1                      *,2005-06-16,2009-08-27,Utc Power Corporation,Organic Rankine Cycle Mechanically and Thermally Coupled to an Engine Driving a Common Load
+    US20130333380A1,2011-03-17,2013-12-19,Zoltan Kardos,Arrangement for converting thermal energy to mechanical energy in a vehicle
+    JP2015108304A                      *,2013-12-03,2015-06-11,ダイムラー・アクチェンゲゼルシャフトＤａｉｍｌｅｒ ＡＧ,Vehicle power generator with waste heat recovery device
+    US20150308318A1                      *,2012-12-19,2015-10-29,Mack Trucks, Inc.,Apparatus and method of disabling a waste heat recovery apparatus working fluid flow
+    DE102015007104A1,2015-05-29,2015-12-17,Daimler Ag,Waste heat utilization device and method for its operation
+    WO2016089277A1                      *,2014-12-05,2016-06-09,Scania Cv Ab,A cooling arrangement for a whr-system
+    Family To Family Citations,,,,
+    JP2012001168A                      *,2010-06-21,2012-01-05,Denso Corp,System for distribution of regenerative energy of hybrid vehicle
+    CN104284823B                      *,2012-05-08,2017-06-20,沃尔沃拉斯特瓦格纳公司,EMS and saving of fuel method for hybrid electric vehicle
+    WO2014055016A1                      *,2012-10-02,2014-04-10,Scania Cv Ab,Regulation of a temperature in an exhaust aftertreatment system
+    JP6474973B2,2014-07-25,2019-02-27,日野自動車株式会社,Waste heat recovery device
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    EP3934954A4                      *,2019-03-08,2022-11-16,Scania CV AB,A method for controlling a vehicle in association with a descent, a powertrain, a vehicle, a computer program and a computer-readable medium
+    Family To Family Citations,,,,
+    DE102018218065A1                      *,2018-10-22,2020-04-23,Mahle International Gmbh,Waste heat utilization device, in particular for an internal combustion engine of a motor vehicle
+
+abstract
+    The invention relates to a method for controlling a waste heat recovery system (10) associated with a powertrain (3) of a vehicle (1), the powertrain (3) comprising a combustion engine (2) and a gearbox (4) connected to the combustion engine (2), the waste heat recovery system (10) comprising a working fluid circuit (12); an evaporator (14); an expander (16); a condenser (18); a reservoir (20) for a working fluid (WF) and a pump (22) arranged to pump the working fluid (WF) through the circuit (12), wherein the evaporator (14) is arranged for heat exchange between the working fluid (WF) and at least one heat source (24), wherein the waste heat recovery system (10) further comprises a cooling circuit (26) arranged in connection to the condenser (18), and wherein the expander (16) is mechanically connected to the powertrain (3). The method comprises the steps of: predicting (s101) a downhill slope which will require braking of the vehicle; reducing (s102) the temperature of the evaporator (14) to a predetermined temperature; and turning off (s103) the pump (22) and thus the waste heat recovery system (10). The invention also relates to a waste heat recovery system (10), a vehicle (1) comprising such a system (10), a computer program (P) and a computer program product.
+title
+    Method and system for controlling the waste heat recovery system at a predicted downhill slope
+similar_document
+13
+    Publication,Publication Date,Title
+    US10662894B2,2020-05-26,Method for controlling the temperature of a waste heat recovery system and such a waste heat recovery system
+    JP5716837B2,2015-05-13,Engine waste heat utilization device
+    CN108005811B,2022-01-11,Waste heat recovery for power generation and engine warm-up
+    CN104214006A,2014-12-17,Motor vehicle with a couplable waste heat recovery system
+    US10662820B2,2020-05-26,Method for controlling a waste heat recovery system and such a waste heat recovery system
+    US20190257216A1,2019-08-22,Method and system for controlling the waste heat recovery system at a predicted downhill slope
+    EP3510264B1,2022-12-21,A method for controlling the temperature of a cooling fluid in a cooling system and a cooling system
+    WO2018013027A1,2018-01-18,A method and system for controlling the rotational speed of an expander in a waste heat recovery system
+    US10913327B2,2021-02-09,Air conditioner for vehicle
+    SE541172C2,2019-04-23,A method and a vehicle for controlling a WHR-system in response to a determined recoverable energy of a downhill slope
+    WO2014103825A1,2014-07-03,Rankine cycle system
+    CN113260775A,2021-08-13,Control unit, waste heat recovery system, vehicle comprising such a system and method for starting an expansion device of a waste heat recovery system
+
+patent_application
+    NoExist
+patent_priority_application
+6
+    Application,Priority date,Filing date,Title
+    CN201780042174.6A,2016-07-12,2017-05-12,For controlling the method and system of Waste Heat Recovery System at the descending predicted
+    BR112019000552-8A,2016-07-12,2017-05-12,method for controlling a waste heat recovery system and such a waste heat recovery system
+    KR1020197002437A,2016-07-12,2017-05-12,Waste heat recovery system control method and such waste heat recovery system
+    US16/315,553,2016-07-12,2017-05-12,Method and system for controlling the waste heat recovery system at a predicted downhill slope
+    EP17828052.5A,2016-07-12,2017-05-12,Method and system for controlling the waste heat recovery system at a predicted downhill slope
+
+inventor_number
+    4
+classfication_nums
+    19
+classfication_items
+112
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,0,2
+    B,6,0,W,4,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,0,2
+    B,6,0,W,4,0,/,0,6
+    B,6,0,W,4,0,/,0,7,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,2,3,/,0,0
+    F,0,1,K,2,3,/,0,2
+    F,0,1,K,2,3,/,0,6
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,2,3,/,0,0
+    F,0,1,K,2,3,/,0,2
+    F,0,1,K,2,3,/,0,6
+    F,0,1,K,2,3,/,0,6,5
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,2,3,/,0,0
+    F,0,1,K,2,3,/,0,2
+    F,0,1,K,2,3,/,0,6
+    F,0,1,K,2,3,/,1,0
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,2,3,/,0,0
+    F,0,1,K,2,3,/,0,2
+    F,0,1,K,2,3,/,0,6
+    F,0,1,K,2,3,/,1,0
+    F,0,1,K,2,3,/,1,0,1
+    F
+    F,0,1
+    F,0,1,N
+    F,0,1,N,5,/,0,0
+    F,0,1,N,5,/,0,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,0,1,/,0,0
+    B,6,0,T,2,2,0,1,/,0,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,2,/,0,0
+    B,6,0,W,2,5,5,2,/,1,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,6,/,0,0
+    B,6,0,W,2,5,5,6,/,4,5
+    B,6,0,W,2,5,5,6,/,5,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,0,9,7
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,1,8
+    B,6,0,Y,2,3,0,0,/,1,8,0,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,0,8
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,1,5,/,0,0
+    F,0,1,K,1,5,/,0,2
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,2,3,/,0,0
+    F,0,1,K,2,3,/,1,2
+    F,0,1,K,2,3,/,1,4
+    F
+    F,0,2
+    F,0,2,G
+    F,0,2,G,5,/,0,0
+    F,0,2,G,5,/,0,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,1,0
+    Y,0,2,T,1,0,/,1,2
+
+application_events
+7
+    2017-05-12,Application filed by Scania Cv Ab
+    2017-05-12,Priority to CN201780042174.6A
+    2017-05-12,Priority to BR112019000552-8A
+    2017-05-12,Priority to KR1020197002437A
+    2017-05-12,Priority to US16/315,553
+    2017-05-12,Priority to EP17828052.5A
+    2018-01-18,Publication of WO2018013028A1
+
+active_area
+3
+    C,N
+    K,R
+    E,P
+
+not_active_area
+2
+    B,R
+    U,S
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    SE1651040A,2016-07-12,A method for controlling a waste heat recovery system and such a waste heat recovery system
+    SE1651040-6,2016-07-12,
+
+legal_event
+7
+    Date,Code,Title,Description
+    2018-11-28,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 17828052Country of ref document: EPKind code of ref document: A1
+    2019-01-15,NENP,Non-entry into the national phase,Ref country code: DE
+    2019-01-22,REG,Reference to national code,Ref country code: BRRef legal event code: B01ARef document number: 112019000552Country of ref document: BR
+    2019-01-24,ENP,Entry into the national phase,Ref document number: 20197002437Country of ref document: KRKind code of ref document: A
+    2019-02-15,ENP,Entry into the national phase,Ref document number: 2017828052Country of ref document: EPEffective date: 20190212
+    2019-05-21,ENP,Entry into the national phase,Ref document number: 112019000552Country of ref document: BRKind code of ref document: A2Effective date: 20190111
+

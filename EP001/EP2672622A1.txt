@@ -1,0 +1,130 @@
+ID
+    EP2672622A1
+citation_exist
+    Patent Citations (4)
+citation_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    DE3708261A1                      *,1986-03-19,1987-09-24,Kone Elevator Gmbh,Einrichtung zum steuern eines dreiphasen-wechselrichters zur versorgung des wechselstrommotors einer aufzugsanlage
+    JPH0199482A                      *,1987-10-12,1989-04-18,Toshiba Corp,Regenerative brake control device for motor
+    JPH01107686A                      *,1987-10-20,1989-04-25,Mitsubishi Electric Corp,Inverter device
+    US20050001635A1                      *,2003-07-04,2005-01-06,Mitsubishi Denki Kabushiki Kaisha,Vehicle controller
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    WO2021088229A1                      *,2019-11-07,2021-05-14,迅达（中国）电梯有限公司,电梯永磁同步曳引机的封星电路设计方法
+    US11415191B2                      *,2019-10-04,2022-08-16,Otis Elevator Company,System and method configured to identify conditions indicative of electromagnetic brake temperature
+    Family To Family Citations,,,,
+
+abstract
+    Die vorliegende Erfindung bezieht sich auf einen Frequenzumrichter (2) mit einem einen Zwischenkreis (14) speisenden Gleichrichter, einem aus dem Zwischenkreis (14) gespeisten Wechselrichter mit leistungselektronischen Schaltern (T1 - T6), einem vom Frequenzumrichter (2) betriebenen Drehstrommotor (4), und einem Bremstransistor (T7) mit einem damit verbundenen Bremswiderstand (8) sowie auf ein entsprechendes Verfahren.  Um eine Absicherung für den Bremstransistor und den Bremswiderstand zu schaffen, der nicht aufwendig anlagenspezifisch angepasst werden muss, um funktionsfähig zu sein, sondern auf eine einfache und kostengünstige Art in einen beliebigen Frequenzumrichter integriert werden kann, wird vorgeschlagen, dass der Frequenzumrichter (2) zusätzlich aufweist: eine Messeinrichtung (10), die misst, ob am Bremswiderstand (8) eine elektrische Spannung anliegt, eine mit der Messeinrichtung (10) verbundene Auswerteeinrichtung (12) zum Vergleich der von der Messeinrichtung (10) ermittelten Messwerte mit gespeicherten Vergleichswerten, eine mit der Auswerteeinrichtung (12) verbundene Schaltvorrichtung (6), mit der die Zwischenkreisspannung auf den Bremswiderstand (8) abschaltbar ist, wobei die Auswerteeinrichtung (12) die Abschaltung der Zwischenkreisspannung vom Bremswiderstand (8) auslöst, wenn die von der Messeinrichtung (10) ermittelte Messwerte eine Einschaltdauer des Bremswiderstands (8) anzeigen, die den in der Auswerteeinrichtung (12) vorgegebenen Grenzwert der Einschaltdauer überschreitet.
+title
+    Frequenzumrichter mit Bremswiderstand und Verfahren zur Funktionsüberwachung eines Bremswiderstandes in einem Frequenzumrichterbetrieb
+similar_document
+26
+    Publication,Publication Date,Title
+    DE102015104171B4,2021-08-19,Motorsteuerungsvorrichtung mit Funktion zur Erkennung einer Kontaktverschmelzung in einem elektromagnetischen Kontaktschalter
+    EP2817860B1,2019-02-06,Sicherheitsschaltvorrichtung mit netzteil
+    EP2956396B1,2017-03-29,Batteriegestützte sicherheitskreis-überwachungsanlage
+    DE102019112839B3,2020-10-22,Schutz- und Überwachungseinrichtung in einer Ladeinfrastruktur zum Laden von elektrisch angetriebenen Fahrzeugen und Verfahren zur Überwachung einer Ladeinfrastruktur
+    EP3699015B1,2023-09-20,Elektrische schaltungsvorrichtung zur erkennung eines nichtgeöffneten schaltkontaktes sowie einer schutzleiterunterbrechung in einer ein- oder mehrphasigen elektrischen zuleitung
+    EP2898521B2,2021-10-13,Schaltgerät zum steuern der energiezufuhr eines nachgeschalteten elektromotors
+    EP2956366B1,2017-03-29,Sicherheitskreisüberwachung mit wechselspannung
+    EP3011578B1,2017-09-13,Überwachungsschaltung zum erkennen eines schaltzustandes eines elektrischen schaltkontaktes und verfahren hierzu
+    WO2014075742A1,2014-05-22,Schaltgerät zum steuern der energiezufuhr eines nachgeschalteten elektromotors
+    DE102015107718B4,2021-10-14,Vorrichtung und Verfahren zum Absichern einer Bordnetz-Komponente eines Fahrzeug-Bordnetzes
+    EP2972600A1,2016-01-20,Sichere spannungsverbindung eines antriebswechselrichters
+    EP2638438B1,2015-10-21,Schaltungsanordnung mit einem not-halt-schalter eines hebezeuges
+    EP2546852B1,2017-08-30,Bistabiles Sicherheitsrelais
+    EP2672622A1,2013-12-11,Frequenzumrichter mit Bremswiderstand und Verfahren zur Funktionsüberwachung eines Bremswiderstandes in einem Frequenzumrichterbetrieb
+    DE10110046A1,2002-09-05,Vorrichtung zum Ansteuern elektrischer Verbraucher in einem Kraftfahrzeug
+    DE10261454B4,2010-04-08,Motorsteuerung mit sicherem Halt
+    DE102011053728B4,2016-09-22,Batteriesystem und Verfahren zum Abschalten von in Serie geschalteten Energiespeichermodulen einer Batterie eines Batteriesystems
+    WO2011047952A1,2011-04-28,Überwachungseinrichtung für ein elektrisches hochspannungsnetz eines fahrzeuges
+    DE102016206053A1,2016-11-24,Schutzschaltung für Bremswiderstand
+    EP2907149B1,2017-06-14,System zur funktionsüberwachung einer stromschleife
+    DE3029851C2,1985-03-07,Schaltungsanordnung zur signaltechnisch sicheren Ansteuerung eines Stromverbrauchers
+    DE112019006581T5,2021-09-30,Solarstromerzeugungssystem
+    EP4121383B1,2023-10-04,Steuereinheit für eine aufzugsanlage
+    EP2500208B2,2021-04-07,Schutzschaltungsanordnung
+    EP3704048A1,2020-09-09,Sicherheitsüberwachungsvorrichtung zum überwachen von sicherheitsrelevanten zuständen in einer personenförderanlage sowie verfahren zum betreiben derselben
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    EP12004351.8A,2012-06-08,2012-06-08,Frequenzumrichter mit Bremswiderstand und Verfahren zur Funktionsüberwachung eines Bremswiderstandes in einem Frequenzumrichterbetrieb
+
+inventor_number
+    4
+classfication_nums
+    4
+classfication_items
+25
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,9,/,0,0
+    H,0,2,P,2,9,/,6,0
+    H,0,2,P,2,9,/,6,8
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,3,/,0,0
+    H,0,2,P,3,/,0,6
+    H,0,2,P,3,/,1,8
+    H,0,2,P,3,/,2,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+
+application_events
+4
+    2012-06-08,Application filed by Osma-Aufzuege Albert Schenk & Co KG GmbH
+    2012-06-08,Priority to EP12004351.8A
+    2013-12-11,Publication of EP2672622A1
+    Status,Withdrawn
+
+active_area
+0
+
+not_active_area
+1
+    E,P
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    EP12004351.8A,2012-06-08,Frequenzumrichter mit Bremswiderstand und Verfahren zur Funktionsüberwachung eines Bremswiderstandes in einem Frequenzumrichterbetrieb
+
+legal_event
+6
+    Date,Code,Title,Description
+    2013-12-10,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2013-12-11,AK,Designated contracting states,Kind code of ref document: A1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2013-12-11,AX,Request for extension of the european patent,Extension  state: BA ME
+    2014-12-05,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE APPLICATION IS DEEMED TO BE WITHDRAWN
+    2015-01-07,18D,Application deemed to be withdrawn,Effective date: 20140612
+

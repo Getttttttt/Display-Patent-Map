@@ -1,0 +1,277 @@
+ID
+    US10324114B2
+citation_exist
+    Patent Citations (19)
+citation_infor
+21
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5061863A                      *,1989-05-16,1991-10-29,Kabushiki Kaisha Toyoda Jidoshokki Seisakusho,Transistor provided with a current detecting function
+    US5144514A,1989-06-26,1992-09-01,Kabushiki Kaisha Toyoda Jidoshokki Seisakusho,Transistor device drive circuit
+    US5710508A                      *,1995-05-16,1998-01-20,Fuji Electric Co., Ltd.,Semiconductor apparatus
+    JP2000323974A,1999-05-12,2000-11-24,Fuji Electric Co Ltd,Short-circuit protecting circuit for semiconductor element
+    US6717785B2                      *,2000-03-31,2004-04-06,Denso Corporation,Semiconductor switching element driving circuit
+    JP2006187101A,2004-12-27,2006-07-13,Nissan Motor Co Ltd,Method of driving voltage driver element
+    US7535283B2,2005-02-16,2009-05-19,Kabushiki Kaisha Toshiba,Gate drive circuit, semiconductor module and method for driving switching element
+    US7570085B2                      *,2006-02-27,2009-08-04,Hitachi, Ltd.,Gate driver circuit for switching device
+    JP2011097812A,2009-11-02,2011-05-12,Toshiba Corp,Inverter device
+    US8134388B2                      *,2005-08-17,2012-03-13,Infineon Technologies Ag,Low EMC/EMI emissions' gate driver for wide supply voltage ranges
+    US8466734B2                      *,2010-07-15,2013-06-18,Fuji Electric Co., Ltd.,Gate driving circuit for power semiconductor element
+    JP2013219910A,2012-04-09,2013-10-24,Denso Corp,Driving device for driving target switching element
+    US8633755B2                      *,2010-11-22,2014-01-21,Denso Corporation,Load driver with constant current variable structure
+    US20140375333A1                      *,2012-06-22,2014-12-25,Fuji Electric Co., Ltd.,Overcurrent detection apparatus and intelligent power module using same
+    US20150188410A1                      *,2013-01-16,2015-07-02,Fuji Electric Co., Ltd.,Power conversion device
+    US20150236686A1                      *,2014-02-19,2015-08-20,Denso Corporation,Gate driver
+    US20150318850A1,2012-12-21,2015-11-05,Mitsubishi Electric Corporation,Switching element drive circuit, power module, and automobile
+    Family To Family Citations,,,,
+    JPH0531323B2                      *,1986-10-13,1993-05-12,Fuji Electric Co Ltd,
+    US8703091B2                      *,2012-07-31,2014-04-22,Uht Unitech Co., Ltd.,High modulus graphite fiber and manufacturing method thereof
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (5)
+              
+
+
+citedBy_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP2018093684A                      *,2016-12-07,2018-06-14,ルネサスエレクトロニクス株式会社,Semiconductor device and power conversion device
+    WO2019049698A1                      *,2017-09-08,2019-03-14,パナソニックＩｐマネジメント株式会社,Power conversion circuit and power conversion device
+    DE102019119973B3                      *,2019-07-24,2021-01-21,Infineon Technologies Ag,INTELLIGENT ELECTRONIC SWITCH
+    KR20210015261A                      *,2019-08-01,2021-02-10,현대자동차주식회사,Overcurrent detection reference compensation system of switching element for inverter and overcurrent detection system using the same
+    CN111653852B                      *,2020-05-19,2021-06-11,南京理工大学,On-chip transformer-based transmission zero-point adjustable filter
+
+abstract
+    Adjustment of drive control based on a detection voltage of a transformer requires a loop time, and therefore high-speed processing of the adjustment is difficult. A semiconductor integrated circuit device includes a driving circuit that drives a power semiconductor device and a driving capability control circuit that controls a driving capability of the driving circuit. The driving circuit stops driving of the power semiconductor device based on an abnormal current detected from a sense current of the power semiconductor device. The driving capability control circuit controls the driving capability of the driving circuit based on a normal current detected from the sense current of the power semiconductor device.
+title
+    Semiconductor integrated circuit device and electronic device for driving a power semiconductor device
+similar_document
+26
+    Publication,Publication Date,Title
+    US10324114B2,2019-06-18,Semiconductor integrated circuit device and electronic device for driving a power semiconductor device
+    US10291110B2,2019-05-14,Driving circuit for switching element and power conversion system
+    US10116296B2,2018-10-30,Semiconductor integrated circuit device and electronic device
+    US20100013422A1,2010-01-21,Motor driving apparatus and control method thereof
+    US8237396B2,2012-08-07,Motor driving device, and control method of motor driving device
+    JP2015208174A,2015-11-19,Power generator for vehicle
+    JP2007089354A,2007-04-05,Signal detector of load drive unit
+    JP6522232B2,2019-05-29,Overheat protection control device and power circuit device for vehicle
+    US20130088096A1,2013-04-11,Short-circuit protection method
+    JP2015171200A,2015-09-28,Semiconductor device, motor using the same, and air conditioner
+    JP3889450B2,2007-03-07,Current sense MOSFET in parallel MOSFET power circuit
+    JP5716158B2,2015-05-13,Motor current detection IC and current detector or motor control device using the same
+    US10658947B2,2020-05-19,Semiconductor device, power module, and control method of power conversion device
+    JP2015033149A,2015-02-16,Drive unit of semiconductor element and power conversion device using the same
+    KR101787273B1,2017-10-19,Motor driving apparatus and method for detecting disconnection of wire of the same
+    JP6180578B1,2017-08-16,Control device and control method for power conversion device
+    US10720871B2,2020-07-21,Driving circuit and motor
+    JP2018057227A,2018-04-05,Inverter device
+    JP4590658B2,2010-12-01,Control device
+    JP5477159B2,2014-04-23,Motor current detection IC and current detector or motor control device using the same
+    US9543867B2,2017-01-10,Brushless direct current motor and driving apparatus thereof
+    US11711014B2,2023-07-25,Electric-power conversion apparatus
+    JP2018057226A,2018-04-05,Inverter device
+    CN106505917A,2017-03-15,Motor drive
+    JPWO2016174756A1,2017-07-27,Protection circuit and protection circuit system
+
+patent_application
+2
+    Application,Priority date,Filing date,Relation,Title
+    US15/216,859,2015-09-02,2016-07-22,Continuation,Semiconductor integrated circuit device and electronic device for driving a power semiconductor device
+
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US15/797,757,2015-09-02,2017-10-30,Semiconductor integrated circuit device and electronic device for driving a power semiconductor device
+
+inventor_number
+    2
+classfication_nums
+    26
+classfication_items
+141
+    G
+    G,0,1
+    G,0,1,R
+    G,0,1,R,1,9,/,0,0
+    G,0,1,R,1,9,/,1,6,5
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,4,2
+    H,0,2,M,7,/,4,4
+    H,0,2,M,7,/,4,8
+    H,0,2,M,7,/,5,3
+    H,0,2,M,7,/,5,3,7
+    H,0,2,M,7,/,5,3,8,7
+    B,6,0,L,1,1,/,1,8,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,2
+    B,6,0,L,1,5,/,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,7,/,0,0
+    H,0,2,P,2,7,/,0,4
+    H,0,2,P,2,7,/,0,6
+    H,0,2,P,2,7,/,0,8
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,7,/,0,0
+    H,0,2,P,2,7,/,0,4
+    H,0,2,P,2,7,/,0,6
+    H,0,2,P,2,7,/,0,8
+    H,0,2,P,2,7,/,0,8,5
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,9,/,0,0
+    H,0,2,P,2,9,/,0,2
+    H,0,2,P,2,9,/,0,3,2
+    H
+    H,0,3
+    H,0,3,K
+    H,0,3,K,1,7,/,0,0
+    H,0,3,K,1,7,/,0,8
+    H,0,3,K,1,7,/,0,8,2
+    H,0,3,K,1,7,/,0,8,2,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,9
+    G
+    G,0,1
+    G,0,1,R
+    G,0,1,R,1,9,/,0,0
+    G,0,1,R,1,9,/,1,6,5
+    G,0,1,R,1,9,/,1,6,5,3,3
+    G,0,1,R,1,9,/,1,6,5,3,8
+    G,0,1,R,1,9,/,1,6,5,4,7
+    G
+    G,0,1
+    G,0,1,R
+    G,0,1,R,3,1,/,0,0
+    G,0,1,R,3,1,/,2,6
+    G,0,1,R,3,1,/,2,6,0,7
+    G,0,1,R,3,1,/,2,6,0,8
+    G
+    G,0,1
+    G,0,1,R
+    G,0,1,R,3,1,/,0,0
+    G,0,1,R,3,1,/,4,0
+    G,0,1,R,3,1,/,4,2
+    H
+    H,0,3
+    H,0,3,K
+    H,0,3,K,1,7,/,0,0
+    H,0,3,K,1,7,/,0,4
+    H,0,3,K,1,7,/,0,4,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,4
+    Y,0,2,T,1,0,/,6,4,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,0,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,4,1
+
+application_events
+7
+    2017-10-30,Application filed by Renesas Electronics Corp
+    2017-10-30,Priority to US15/797,757
+    2018-03-08,Publication of US20180067150A1
+    2019-06-18,Application granted
+    2019-06-18,Publication of US10324114B2
+    Status,Active
+    2036-07-22,Anticipated expiration
+
+active_area
+4
+    J,P
+    U,S
+    C,N
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+5
+    Application,Filing date,Title
+    JP2015-172625,2015-09-02,
+    JP2015172625A,2015-09-02,Semiconductor integrated circuit device and electronic device
+    US15/216,859,2016-07-22,Semiconductor integrated circuit device and electronic device for driving a power semiconductor device
+    US15/797,757,2017-10-30,Semiconductor integrated circuit device and electronic device for driving a power semiconductor device
+
+legal_event
+5
+    Date,Code,Title,Description
+    2017-10-30,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2019-02-06,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2019-05-29,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2022-12-06,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

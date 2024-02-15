@@ -1,0 +1,150 @@
+ID
+    US11629888B2
+citation_exist
+    Patent Citations (7)
+citation_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    US4598668A                      *,1985-01-09,1986-07-08,Energy Systems And Service Corp.,Apparatus for efficiently controlling the operation of parallel boiler units
+    US5452687A                      *,1994-05-23,1995-09-26,Century Controls, Inc.,Microprocessor-based boiler sequencer
+    US8371252B1                      *,2008-04-30,2013-02-12,Lochinvar, Llc,Control system for a boiler assembly
+    JP2016223745A,2015-06-03,2016-12-28,三菱電機株式会社,Hot water storage type water heater
+    US20170130971A1                      *,2015-11-06,2017-05-11,Mestek, Inc.,Networked boiler system
+    JP2020016409A,2018-07-26,2020-01-30,株式会社ノーリツ,Connected-type hot water supply system
+    US20220120435A1                      *,2020-10-19,2022-04-21,Rheem Manufacturing Company,Systems and methods for preventing excessive cascade boiler system heating overshoot
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    A connected-type hot-water supply system includes hot-water supply apparatuses connected in parallel and a control means. The control means sets one main hot-water supply apparatus and sub-hot-water supply apparatuses, and performs leveling control of cumulative loads of the hot-water supply apparatuses by setting the main hot-water supply apparatus based on sequential rotation among the hot-water supply apparatuses. The control means includes a failure sign response mode in which it is determined whether there is a failure sign respectively for components of the hot-water supply apparatuses, and when a component of a part of hot-water supply apparatuses is a failure sign component determined to have a failure sign, a main use time of a hot-water supply apparatus having the failure sign component is increased, and the main use time is a main use time of serving as the main hot-water supply apparatus in the leveling control.
+title
+    Connected-type hot-water supply system
+similar_document
+26
+    Publication,Publication Date,Title
+    KR101961565B1,2019-03-25,Optimal operation of heating cascade system operation control method
+    US11149965B2,2021-10-19,Water heating system including multi-function heat source apparatus
+    JP2020148425A,2020-09-17,Heater/hot water supply device
+    US11629888B2,2023-04-18,Connected-type hot-water supply system
+    JP5914307B2,2016-05-11,Heat pump heating system
+    JP5741912B2,2015-07-01,Combustion device
+    JP5988080B2,2016-09-07,Heat source equipment
+    JP6530299B2,2019-06-12,Heating system
+    JP2013108723A,2013-06-06,Heating system
+    JP2011247487A,2011-12-08,Water heater
+    JP5151512B2,2013-02-27,Heating system
+    JP3962640B2,2007-08-22,Water heater
+    JP2020016409A,2020-01-30,Connected-type hot water supply system
+    CN108700334B,2020-03-03,Heat carrier boiler system
+    JP3960229B2,2007-08-15,Hot water heater
+    JP4064910B2,2008-03-19,Hot water floor heating method and apparatus
+    JP2018091541A,2018-06-14,Water heater
+    JP4250665B2,2009-04-08,Freezing prevention operation method and heating system
+    JP2022091171A,2022-06-21,Boiler device
+    JP2000205653A,2000-07-28,Heat source facility
+    KR20170046100A,2017-04-28,Heating system
+    JP6530346B2,2019-06-12,Heating system
+    JPH0783507A,1995-03-28,Operation controlling method for large capacity hot water supplying system with composite heat source equipment
+    WO2019207725A1,2019-10-31,Hot water storage-type hot water supply system
+    JP2020169751A,2020-10-15,Fuel cell system
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    8
+classfication_items
+47
+    F
+    F,2,4
+    F,2,4,H
+    F,2,4,H,1,5,/,0,0
+    F,2,4,H,1,5,/,1,0
+    F,2,4,H,1,5,/,1,0,4
+    F
+    F,2,4
+    F,2,4,D
+    F,2,4,D,1,7,/,0,0
+    F,2,4,D,1,7,/,0,0,2,6
+    F
+    F,2,4
+    F,2,4,D
+    F,2,4,D,1,9,/,0,0
+    F,2,4,D,1,9,/,1,0
+    F,2,4,D,1,9,/,1,0,0,6
+    F,2,4,D,1,9,/,1,0,5,1
+    F
+    F,2,4
+    F,2,4,H
+    F,2,4,H,1,5,/,0,0
+    F,2,4,H,1,5,/,2,0
+    F,2,4,H,1,5,/,2,4,6
+    F,2,4,H,1,5,/,2,4,8
+    F
+    F,2,4
+    F,2,4,H
+    F,2,4,H,1,5,/,0,0
+    F,2,4,H,1,5,/,3,0
+    F,2,4,H,1,5,/,3,3,5
+    F
+    F,2,4
+    F,2,4,H
+    F,2,4,H,8,/,0,0
+    F
+    F,2,4
+    F,2,4,H
+    F,2,4,H,8,/,0,0
+    F,2,4,H,8,/,0,0,6
+    F
+    F,2,4
+    F,2,4,H
+    F,2,4,H,9,/,0,0
+    F,2,4,H,9,/,2,0
+    F,2,4,H,9,/,2,0,0,7
+    F,2,4,H,9,/,2,0,3,5
+
+application_events
+7
+    2022-01-19,Application filed by Noritz Corp
+    2022-01-19,Assigned to NORITZ CORPORATION
+    2022-07-28,Publication of US20220235969A1
+    2023-04-18,Application granted
+    2023-04-18,Publication of US11629888B2
+    Status,Active
+    2042-01-19,Anticipated expiration
+
+active_area
+3
+    J,P
+    C,N
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JPJP2021-008724,2021-01-22,
+    JP2021-008724,2021-01-22,
+    JP2021008724A,2021-01-22,Connection-type hot water system
+
+legal_event
+6
+    Date,Code,Title,Description
+    2022-01-19,AS,Assignment,Owner name: NORITZ CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:OKUMURA, KAZUAKI;REEL/FRAME:058686/0202Effective date: 20211213
+    2022-01-19,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2022-09-13,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2022-12-27,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2023-03-29,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

@@ -1,0 +1,141 @@
+ID
+    JP2011031698A
+citation_exist
+    NoCitation
+citation_infor
+    NoCitation
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (5)
+              
+
+
+citedBy_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2012228917A                      *,2011-04-25,2012-11-22,Toyota Motor Corp,スタンバイ四輪駆動車
+    JP2015146657A                      *,2014-01-31,2015-08-13,日立オートモティブシステムズ株式会社,ブレーキ制御装置
+    JP2016151325A                      *,2015-02-18,2016-08-22,トヨタ自動車株式会社,車両の制御装置、および、車両
+    JP2018518407A                      *,2015-05-26,2018-07-12,ジャガー ランド ローバー リミテッドＪａｇｕａｒ Ｌａｎｄ Ｒｏｖｅｒ Ｌｉｍｉｔｅｄ,ドライブライン制御の制御システム及び方法
+    US20210001829A1                      *,2019-07-02,2021-01-07,Hyundai Mobis Co., Ltd.,Method for controlling esc integrated braking system
+    Family To Family Citations,,,,
+
+abstract
+    【課題】回生制動時のヨー安定性を向上させることができるハイブリッド四輪駆動車の回生制動力制御装置の提供を課題とする。【解決手段】上記課題は、前後輪の一方で常時駆動される第１駆動輪を第１動力源（例えばエンジン）で駆動し、前後輪の他方で必要に応じて駆動される第２駆動輪を第２動力源（例えば電動機）で駆動し、クラッチ機構によって第１駆動輪と第２駆動輪との間の機械的な接続状態を開放状態から直結状態まで変化させることができるハイブリッド四輪駆動車両において、回生制動時、クラッチ機構が開放状態にあるときには、第２駆動輪の制動力を理想制動力配分よりも大きく設定することにより解決できる。【選択図】  図７
+title
+    ハイブリッド四輪駆動車の回生制動力制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP4380700B2,2009-12-09,電動車両
+    KR100686296B1,2007-02-26,모터 구동 장치, 전동 4륜 구동차 및 하이브리드 차량
+    US10112613B2,2018-10-30,Systems and methods for managing torque
+    CN103043056B,2016-01-20,控制车轮轴扭矩的方法和用于其的控制系统
+    JP4576434B2,2010-11-10,車両の左右輪差動トルク発生装置
+    JP5905013B2,2016-04-20,ハイブリッド駆動装置
+    JP2004017963A,2004-01-22,ヨー・スタビリティ制御中の回生制動制御方法、そのためのシステム及び装置
+    US9457788B2,2016-10-04,Electromotive drive device used in engine-driven vehicle
+    US9440540B2,2016-09-13,Electric vehicle and control method
+    CN102381178A,2012-03-21,插电式混合动力汽车动力系统及其再生制动控制方法
+    WO2010151775A1,2010-12-29,Direct electrical connection for multi-motor hybrid drive system
+    WO2011088203A1,2011-07-21,System and method of controlling a direct electrical connection and coupling in a vehicle drive system
+    US10611362B2,2020-04-07,Vehicle including traveling motor
+    CN103419616A,2013-12-04,四驱混合动力汽车及其控制方法
+    JP2011031698A,2011-02-17,ハイブリッド四輪駆動車の回生制動力制御装置
+    JP2008056151A,2008-03-13,車両の制動制御装置
+    KR20100061208A,2010-06-07,자동차용 회생제동 제어장치
+    US20100065356A1,2010-03-18,Electric powertrain for off-highway trucks
+    JP6146292B2,2017-06-14,ハイブリッド自動車
+    JP2003209905A,2003-07-25,ハイブリッド車両の制御装置
+    EP1958838B1,2017-10-04,Vehicle drive system
+    JP6052034B2,2016-12-27,ハイブリッド車両の駆動制御装置
+    JP2013094000A,2013-05-16,電力回生システム
+    CN114347800B,2023-10-03,一种分布式四驱纯增程系统及其控制方法
+    KR100579925B1,2006-05-15,4륜 하이브리드 전기자동차의 슬립 제어장치 및 방법
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    JP2009178578A,2009-07-31,2009-07-31,ハイブリッド四輪駆動車の回生制動力制御装置
+
+inventor_number
+    4
+classfication_nums
+    8
+classfication_items
+47
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,0
+    B,6,0,L,3,/,1,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,1,0
+    B,6,0,L,2,2,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+
+application_events
+4
+    2009-07-31,Application filed by Hitachi Automotive Systems Ltd
+    2009-07-31,Priority to JP2009178578A
+    2011-02-17,Publication of JP2011031698A
+    Status,Pending
+
+active_area
+1
+    J,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2009178578A,2009-07-31,ハイブリッド四輪駆動車の回生制動力制御装置
+
+legal_event
+    NoExist

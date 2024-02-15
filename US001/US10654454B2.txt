@@ -1,0 +1,258 @@
+ID
+    US10654454B2
+citation_exist
+    Patent Citations (16)
+citation_infor
+18
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5366281A                      *,1994-02-14,1994-11-22,General Motors Corporation,Method of initializing a brake actuator
+    US5366280A                      *,1994-02-14,1994-11-22,General Motors Corporation,Method of adaptively homing brake actuators
+    US5539641A                      *,1994-02-14,1996-07-23,General Motors Corporation,Brake control system method and apparatus
+    US6969126B2                      *,2000-02-28,2005-11-29,Hitachi, Ltd.,Braking apparatus and method of controlling the same
+    US20090256417A1                      *,2008-02-29,2009-10-15,Hideaki Ishii,Brake device
+    JP2012240632A,2011-05-24,2012-12-10,Advics Co Ltd,Electric brake system, and method for controlling the same
+    US20140100751A1                      *,2012-10-05,2014-04-10,Research & Business Foundation, Sungkyunkwan University,Braking system for hybrid vehicle and control method for the same
+    US20170232849A1                      *,2016-02-16,2017-08-17,Toyota Jidosha Kabushiki Kaisha,Vehicle brake system
+    US20170297452A1                      *,2016-04-18,2017-10-19,Hyundai Motor Company,Method of improving braking performance through motor torque control of vehicle
+    US20180126862A1                      *,2016-11-08,2018-05-10,Hyundai Motor Company,Regenerative braking apparatus for vehicle and method using the same
+    US20190145475A1                      *,2017-11-13,2019-05-16,Toyota Jidosha Kabushiki Kaisha,Electric brake device and vehicular brake system including electric brake device
+    Family To Family Citations,,,,
+    JP4033281B2                      *,2000-09-06,2008-01-16,日産自動車株式会社,Braking device
+    JP4186969B2,2005-08-23,2008-11-26,トヨタ自動車株式会社,Planetary rotation-linear motion converter
+    JP5257764B2                      *,2008-09-11,2013-08-07,Ｎｔｎ株式会社,Electric linear actuator and electric brake device
+    JP6148581B2                      *,2013-09-04,2017-06-14,Ntn株式会社,Electric brake device
+    CN106594115B                      *,2016-12-29,2018-11-06,合肥工业大学,A kind of brake-by-wire device of motor joint magnetostriction effect
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (8)
+              
+
+
+citedBy_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    KR101916074B1                      *,2016-11-08,2019-01-30,현대자동차 주식회사,Regenerative braking apparatus for vehicle and method of the same
+    JP2018199412A                      *,2017-05-26,2018-12-20,トヨタ自動車株式会社,Hydraulic brake device
+    WO2019065380A1                      *,2017-09-27,2019-04-04,日立オートモティブシステムズ株式会社,Brake device, control device for vehicle, and electric brake control device
+    JP7056301B2                      *,2018-03-26,2022-04-19,株式会社アドヴィックス,Braking control device
+    WO2020066735A1                      *,2018-09-26,2020-04-02,日立オートモティブシステムズ株式会社,Electric brake, and control device
+    WO2020066645A1                      *,2018-09-26,2020-04-02,日立オートモティブシステムズ株式会社,Electric brake, and control device
+    DE102018218837B4                      *,2018-11-05,2020-06-18,Mando Corporation,Wheel speed sensor system, a vehicle including the wheel speed sensor system, and method for processing wheel speed signals
+    KR20210003430A                      *,2019-07-02,2021-01-12,현대모비스 주식회사,Method for controlling esc integrated braking system
+
+abstract
+    A vehicle brake system, wherein an electric brake device is configured such that a clearance exists between a friction member and a rotary body when no braking force request is made, and wherein a controller is configured to: execute, for a hydraulic brake device, from a time point of generation of the request, a braking-force-request-dependent control for generating a hydraulic braking force in accordance with a degree of the request; and execute, for the electric brake device, (a) a clearance removing control for removing the clearance, which is executed from the time point of generation of the request till a time point when the degree increases up to a threshold degree, and (b) a braking-force-request-dependent control for generating an electric braking force in accordance with the degree of the request, the control being executed after the time point when the degree becomes equal to the threshold degree.
+title
+    Vehicle brake system
+similar_document
+24
+    Publication,Publication Date,Title
+    US10654454B2,2020-05-19,Vehicle brake system
+    CN108146418B,2020-07-28,Vehicle brake system
+    US8632136B2,2014-01-21,Brake control system
+    KR102142028B1,2020-08-06,Brake system
+    US20130082514A1,2013-04-04,Brake control device
+    US9278676B2,2016-03-08,Brake control device
+    US10005442B2,2018-06-26,Brake control device
+    US10787157B2,2020-09-29,Vehicle brake system
+    US10611350B2,2020-04-07,Electric brake device
+    US10189454B2,2019-01-29,Brake system
+    EP2828132A1,2015-01-28,Brake device
+    CN110103926B,2021-09-14,Vehicle brake system
+    CN113242823A,2021-08-10,Electric brake device
+    KR102148890B1,2020-08-27,Electric brake device and vehicular brake system including electric brake device
+    JP2018188110A,2018-11-29,Vehicle brake system
+    CN115397707A,2022-11-25,Electric brake device and electric brake control device
+    JP5769787B2,2015-08-26,Brake control device
+    JP5648798B2,2015-01-07,Brake device
+    US20220234563A1,2022-07-28,Brake system
+    CN116044925A,2023-05-02,Braking force and braking clearance control method of electromechanical brake
+    CN117043028A,2023-11-10,Electric parking brake device and brake control device
+    JP2014091444A,2014-05-19,Brake control system
+    JP2012101686A,2012-05-31,Brake control system
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    20
+classfication_items
+130
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,0,6
+    B,6,0,T,1,/,0,6,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,5
+    B,6,0,T,1,3,/,5,8,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,6,6
+    B,6,0,T,1,3,/,6,6,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,7,4
+    B,6,0,T,1,3,/,7,4,1
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,0,2
+    B,6,0,T,7,/,0,4
+    B,6,0,T,7,/,0,4,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,1,2
+    B,6,0,T,7,/,2,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,4
+    B,6,0,T,8,/,4,0
+    B,6,0,T,8,/,4,0,7,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,4
+    B,6,0,T,8,/,4,0
+    B,6,0,T,8,/,4,0,7,2
+    B,6,0,T,8,/,4,0,8,1
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,5,/,0,0
+    F,1,6,D,6,5,/,1,4
+    F,1,6,D,6,5,/,1,6
+    F,1,6,D,6,5,/,1,8
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,5,/,0,0
+    F,1,6,D,6,5,/,1,4
+    F,1,6,D,6,5,/,1,6
+    F,1,6,D,6,5,/,2,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,1,0,/,0,0
+    B,6,0,T,2,2,1,0,/,1,0
+    B,6,0,T,2,2,1,0,/,1,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,2,0,/,0,0
+    B,6,0,T,2,2,2,0,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2018-06-13,Application filed by Toyota Motor Corp
+    2018-06-13,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2019-02-07,Publication of US20190039579A1
+    2020-05-19,Application granted
+    2020-05-19,Publication of US10654454B2
+    Status,Active
+    2038-08-18,Adjusted expiration
+
+active_area
+4
+    J,P
+    U,S
+    C,N
+    D,E
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2017152495A,2017-08-07,Vehicle braking system
+    JP2017-152495,2017-08-07,
+
+legal_event
+9
+    Date,Code,Title,Description
+    2018-06-13,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:OHKUBO, MASAYASU;REEL/FRAME:046075/0764Effective date: 20180515
+    2018-06-13,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2018-07-19,STPP,Information on status: patent application and granting procedure in general,Free format text: APPLICATION DISPATCHED FROM PREEXAM, NOT YET DOCKETED
+    2019-04-17,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2019-10-16,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2020-01-24,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2020-04-17,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2020-04-29,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

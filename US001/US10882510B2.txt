@@ -1,0 +1,298 @@
+ID
+    US10882510B2
+citation_exist
+    Patent Citations (8)
+citation_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20130035839A1,2011-08-04,2013-02-07,GM Global Technology Operations LLC,Engine start stop inhibit system and method
+    US20130297161A1                      *,2012-05-04,2013-11-07,Ford Global Technologies, Llc,Methods and systems for holding a vehicle stopped on a hill
+    US20130296102A1                      *,2012-05-04,2013-11-07,Ford Global Technologies, Llc,Methods and systems for extending regenerative braking
+    US20140116793A1                      *,2011-06-09,2014-05-01,Prevost, Une Division De Groupe Volvo Canada Inc.,Hybrid vehicle
+    US20150105213A1,2013-10-14,2015-04-16,Ford Global Technologies, Llc,Hybrid vehicle control when towing
+    US9014940B2,2013-04-02,2015-04-21,The United States Of America, As Represented By The Administrator Of The U.S. Environmental Protection Agency,Hybrid vehicle control methods
+    US20150134162A1,2013-11-11,2015-05-14,Ford Global Technologies, Llc,Load-based vehicle operating control
+    US20190039596A1                      *,2017-08-04,2019-02-07,Toyota Motor Engineering & Manufacturing North America, Inc.,Navigation-enhanced battery state of charge maintenance
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (7)
+              
+
+
+citedBy_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US11241958B2                      *,2018-02-16,2022-02-08,The Toro Company,Electronic speed control system
+    US10975825B2                      *,2019-01-24,2021-04-13,Ford Global Technologies, Llc,Methods and system for inhibiting automatic engine stopping
+    CN110949137A                      *,2019-12-19,2020-04-03,东风商用车有限公司,Regenerative braking control method
+    CN115697754A                      *,2020-09-17,2023-02-03,瑞维安知识产权控股有限责任公司,System and method for controlling an inverter of a towed electric vehicle
+    US20230250787A1                      *,2022-02-04,2023-08-10,Toyota Motor Engineering & Manufacturing North America, Inc.,Trail driving engine start-stop judgment systems and methods
+    EP4261076A1                      *,2022-02-21,2023-10-18,Cummins, Inc.,Optimizing regenerative braking
+    CN114771284B                      *,2022-05-31,2023-01-03,深圳市好盈科技股份有限公司,Intelligent drag brake method and device, model climbing vehicle and storage medium
+
+abstract
+    Systems and methods are provided for determining an optimal point during operation of a hybrid electric vehicle towing a trailer at which the energy that can be recouped through regenerative braking is maximized. Operating conditions or characteristics of the hybrid electric vehicle and the brake characteristics of the trailer are considered in determining the optimal point at which the energy that can be recouped is maximized. At the optimal point at which the energy that can be recouped is maximized, the engine of the hybrid electric vehicle is turned off. Otherwise, the engine of the hybrid electric vehicle is left on.
+title
+    Engine autostop control
+similar_document
+24
+    Publication,Publication Date,Title
+    US10882510B2,2021-01-05,Engine autostop control
+    US10392003B2,2019-08-27,Navigation-enhanced battery state of charge maintenance
+    US10507820B2,2019-12-17,Vehicle mass and road load estimation in an EV condition
+    US10513255B2,2019-12-24,Hybrid electric vehicle control system and method
+    EP2928748B1,2021-07-28,Vehicle and method of control thereof
+    US9637125B2,2017-05-02,Vehicle and method of control thereof
+    CN108068807B,2022-07-22,Automatic cruise control method for hybrid electric vehicle
+    US11254320B2,2022-02-22,Systems and methods for selective driver coaching based on driver efficiency
+    US11724697B2,2023-08-15,Geofenced AI controlled vehicle dynamics
+    US10618512B2,2020-04-14,Expanding electric vehicle mode during downhill grade conditions
+    GB2517471A,2015-02-25,Dynamic deceleration control for hybrid vehicle
+    US10814860B1,2020-10-27,Limiting engine on condition while coasting
+    US11565581B2,2023-01-31,Sequential simulated gear ratio calculation and rev-matching in a hybrid electric vehicle
+    US11408506B2,2022-08-09,Simulated rev-matching in a vehicle having a two motor hybrid system transmission
+    US10300907B2,2019-05-28,Deceleration control in a hybrid vehicle
+    US10710574B2,2020-07-14,Gradeability control in a hybrid vechicle
+    US11186199B2,2021-11-30,HEV battery SOC meter and boost power display
+    US20200180600A1,2020-06-11,Vehicle noise reduction for vehicle occupants
+    US20230067494A1,2023-03-02,Systems and methods for variable energy regeneration cruise control
+    EP2903874A1,2015-08-12,Device and method for comfortable and/or fuel saving driving of a motor vehicle
+    US11731640B2,2023-08-22,Energy saving traction and stability control
+    US20230347909A1,2023-11-02,Low speed cornering stiffness derate using a dynamic vehicle model
+    US20230227037A1,2023-07-20,Personalized adaptive cruise control based on steady-state operation
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US15/874,824,2018-01-18,2018-01-18,Engine autostop control
+
+inventor_number
+    2
+classfication_nums
+    31
+classfication_items
+180
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,1,2
+    B,6,0,W,4,0,/,1,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,0,9,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B,6,0,K,2,0,0,6,/,4,8,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B,6,0,L,2,2,4,0,/,6,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,5,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,2,0,5,0,/,0,0,6,2
+    B,6,0,W,2,0,5,0,/,0,0,7,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,1,8
+    B,6,0,W,2,5,1,0,/,1,8,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B,6,0,W,2,5,2,0,/,1,0,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,3,0,/,0,0
+    B,6,0,W,2,5,3,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,3,0,/,0,0
+    B,6,0,W,2,5,3,0,/,2,0,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,3,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,6,/,0,0
+    B,6,0,W,2,5,5,6,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+7
+    2018-01-18,Application filed by Toyota Motor Engineering and Manufacturing North America Inc
+    2018-01-18,Priority to US15/874,824
+    2019-07-18,Publication of US20190217847A1
+    2021-01-05,Application granted
+    2021-01-05,Publication of US10882510B2
+    Status,Active
+    2038-10-14,Adjusted expiration
+
+active_area
+1
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US15/874,824,2018-01-18,Engine autostop control
+
+legal_event
+9
+    Date,Code,Title,Description
+    2018-01-18,AS,Assignment,Owner name: TOYOTA MOTOR ENGINEERING & MANUFACTURING NORTH AMEFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:HAWLEY, THOMAS S.;REEL/FRAME:044660/0962Effective date: 20180118Owner name: TOYOTA MOTOR ENGINEERING & MANUFACTURING NORTH AMEFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:HAWLEY, THOMAS S.;REEL/FRAME:044660/0946Effective date: 20180118Owner name: TOYOTA MOTOR ENGINEERING & MANUFACTURING NORTH AMERICA, INC., KENTUCKYFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:HAWLEY, THOMAS S.;REEL/FRAME:044660/0946Effective date: 20180118Owner name: TOYOTA MOTOR ENGINEERING & MANUFACTURING NORTH AMERICA, INC., KENTUCKYFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:HAWLEY, THOMAS S.;REEL/FRAME:044660/0962Effective date: 20180118
+    2018-01-18,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2019-12-10,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2020-03-18,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2020-06-23,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2020-10-06,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2020-12-16,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2021-02-01,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:TOYOTA MOTOR ENGINEERING & MANUFACTURING NORTH AMERICA, INC.;REEL/FRAME:055098/0327Effective date: 20210129
+

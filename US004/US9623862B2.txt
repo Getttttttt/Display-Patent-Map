@@ -1,0 +1,374 @@
+ID
+    US9623862B2
+citation_exist
+    Patent Citations (27)
+citation_infor
+29
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20020079147A1                      *,2000-12-27,2002-06-27,Aisin Aw Co., Ltd.,Hybrid vehicle and control method thereof
+    US20050060080A1                      *,2003-09-11,2005-03-17,Ford Global Technologies, Llc,Vehicle fast torque coordination
+    US20050060076A1                      *,2003-09-11,2005-03-17,Ford Global Technologies, Llc,Vehicle torque resolution
+    US20060097671A1                      *,2004-11-08,2006-05-11,Toyota Jidosha Kabushiki Kaisha,Driving device and motor vehicle equipped with driving device
+    JP2009196415A,2008-02-19,2009-09-03,Toyota Motor Corp,Control device and control method for hybrid vehicle
+    JP2010098882A,2008-10-17,2010-04-30,Toyota Motor Corp,Vehicle control system
+    US20110130904A1                      *,2009-11-30,2011-06-02,Gm Global Technology Operation, Inc.,Method of determining output torque constraints for a powertrain
+    US20120209463A1                      *,2011-02-15,2012-08-16,GM Global Technology Operations LLC,Method for operating a hybrid vehicle
+    US20120283067A1                      *,2011-05-05,2012-11-08,GM Global Technology Operations LLC,Method and apparatus for effecting light-off of a catalytic converter in a hybrid powertrain system
+    US20130030633A1                      *,2010-04-07,2013-01-31,Toyota Jidosha Kabushiki Kaisha,Control device for hybrid vehicle, and hybrid vehicle incorporating control device
+    US20130035839A1                      *,2011-08-04,2013-02-07,GM Global Technology Operations LLC,Engine start stop inhibit system and method
+    US20130054060A1                      *,2011-08-31,2013-02-28,Bae Systems Controls Inc.,Engine automatic stop/start mechanism
+    US20130073136A1                      *,2010-06-04,2013-03-21,Denso Corporation,Hybrid vehicle and control method for the same
+    US20130260957A1                      *,2012-03-30,2013-10-03,Aisin Aw Co., Ltd,Control device for hybrid vehicle automatic transmission
+    US20140045655A1                      *,2012-08-07,2014-02-13,Kia Motors Corporation,Method and System for Controlling Idle Stop of Vehicle
+    US20140163794A1                      *,2012-12-11,2014-06-12,Kia Motors Corporation,Control method and system for limiting maximum speed of engine and motor of hybrid vehicle
+    US20140172214A1                      *,2012-12-18,2014-06-19,Kia Motors Corporation,Method and system for setting motor torque for hybrid vehicle
+    US20150032316A1                      *,2012-03-23,2015-01-29,Aisin Aw Co., Ltd.,Control device and control method for automatic transmission
+    US20150097432A1                      *,2013-10-09,2015-04-09,Michael H. Gurin,Hybrid Power Generation with Variable Voltage Flux
+    US9045132B1                      *,2013-12-19,2015-06-02,Ford Global Technologies, Llc,System and method for engine idle stop control with starter motor protection
+    US20150175149A1                      *,2013-12-19,2015-06-25,Ford Global Technologies, Llc,System and method for engine idle stop control
+    US20150258900A1                      *,2014-03-12,2015-09-17,Denso Corporation,Control device for controlling converter
+    US20160001763A1                      *,2013-02-11,2016-01-07,Volvo Truck Corporaiton,A method for propelling a vehicle
+    US20160009270A1                      *,2014-07-10,2016-01-14,Ford Global Technologies, Llc,Methods and systems for improving hybrid vehicle performance consistency
+    Family To Family Citations,,,,
+    JP4710545B2                      *,2005-10-25,2011-06-29,トヨタ自動車株式会社,Motor drive device
+    JP4232789B2                      *,2006-04-24,2009-03-04,トヨタ自動車株式会社,Stop control device and stop control method for internal combustion engine
+    JP5923888B2                      *,2011-07-26,2016-05-25,トヨタ自動車株式会社,Hybrid vehicle and control method thereof
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US10306541B2                      *,2013-04-05,2019-05-28,Nokia Technologies Oy,Method, apparatus and computer program for handling overlapping interworking information
+    JP6044569B2                      *,2014-03-12,2016-12-14,株式会社デンソー,Control device
+    US20180105157A1                      *,2016-10-14,2018-04-19,Ford Global Technologies, Llc,System and method for controlling electrified vehicles
+    JP6741904B2                      *,2016-12-09,2020-08-19,株式会社デンソー,Drive and car
+
+abstract
+    In a control device, a control unit controls at least one switching element of a converter to increase a voltage supplied from a battery, thus outputting the increased voltage to a rotating electrical machine. The rotating electrical machine is capable of driving, based on the increased voltage output from the converter, an internal combustion engine, and capable of charging the battery based on torque supplied from the internal combustion engine. A limit unit limits, based on a change of an available maximum output of the internal combustion engine, the increased voltage output from the converter to be equal to or lower than a predetermined upper limit.
+title
+    Control device for controlling converter
+similar_document
+25
+    Publication,Publication Date,Title
+    JP5029915B2,2012-09-19,Rotating electrical machine control system and vehicle drive system
+    US7822535B2,2010-10-26,Internal combustion engine stop controller and stop control method
+    US7898208B2,2011-03-01,Control device and corresponding control method for a boost converter in a motor drive system
+    KR101038753B1,2011-06-03,Motor-driven control system and its control method
+    JP4788975B2,2011-10-05,Rotating electrical machine control system and vehicle drive system
+    JP4835383B2,2011-12-14,Control device and control method for power supply unit, program for causing computer to realize the method, and recording medium recording the program
+    US20110298427A1,2011-12-08,Battery heating apparatus for vehicle
+    US10027262B2,2018-07-17,Pseudorandom PWM variation based on motor operating point
+    US9290106B2,2016-03-22,Power control system of hybrid vehicle
+    JP5029914B2,2012-09-19,Rotating electrical machine control system and vehicle drive system
+    US7598689B2,2009-10-06,Motor drive apparatus
+    US9623862B2,2017-04-18,Control device for controlling converter
+    JP2011162178A,2011-08-25,Power generation device equipped on vehicle
+    JP5747988B2,2015-07-15,Vehicle, vehicle control method and control device
+    US9932032B2,2018-04-03,Hybrid vehicle
+    US10611365B2,2020-04-07,Hybrid vehicle and method of controlling the same
+    JP6248766B2,2017-12-20,Hybrid vehicle control system
+    JP5549337B2,2014-07-16,Motor generator drive device and vehicle drive system
+    JP5755583B2,2015-07-29,Power control system
+    JP2010158088A,2010-07-15,Vehicle and control method therefor
+    JP2017218021A,2017-12-14,Hybrid vehicle
+    JP2012170300A,2012-09-06,Electric vehicle and voltage control method therefor
+    JP2012100419A,2012-05-24,Driving unit and motor vehicle
+    JP2018154284A,2018-10-04,Hybrid-vehicular control apparatus
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    52
+classfication_items
+245
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,4
+    B,6,0,K,6,/,4,4,5
+    B,6,0,L,1,1,/,1,2,3
+    B,6,0,L,1,1,/,1,4
+    B,6,0,L,1,1,/,1,8,5,7
+    B,6,0,L,1,1,/,1,8,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,4
+    B,6,0,W,1,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B,6,0,W,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,4,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,1,0
+    B,6,0,L,2,2,7,0,/,1,2
+    F
+    F,0,2
+    F,0,2,N
+    F,0,2,N,1,1,/,0,0
+    F,0,2,N,1,1,/,0,4
+    F
+    F,0,2
+    F,0,2,N
+    F,0,2,N,1,1,/,0,0
+    F,0,2,N,1,1,/,0,8
+    F,0,2,N,1,1,/,0,8,6,2
+    F
+    F,0,2
+    F,0,2,N
+    F,0,2,N,1,1,/,0,0
+    F,0,2,N,1,1,/,0,8
+    F,0,2,N,2,0,1,1,/,0,8,8,1
+    F,0,2,N,2,0,1,1,/,0,8,9,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y,0,2,T,1,0,/,6,2,1,7
+    Y,0,2,T,1,0,/,6,2,3,9
+    Y,0,2,T,1,0,/,6,2,8,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,0,5
+    Y,0,2,T,1,0,/,7,0,4,4
+    Y,0,2,T,1,0,/,7,0,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y,0,2,T,1,0,/,7,0,7,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,1,6
+    Y,0,2,T,1,0,/,7,2,4,1
+    Y,0,2,T,1,0,/,7,2,7,5
+
+application_events
+7
+    2015-03-11,Application filed by Denso Corp
+    2015-04-09,Assigned to DENSO CORPORATION
+    2015-09-17,Publication of US20150258900A1
+    2017-04-18,Application granted
+    2017-04-18,Publication of US9623862B2
+    Status,Active
+    2035-04-13,Adjusted expiration
+
+active_area
+2
+    J,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2014048954A,2014-03-12,Control device
+    JP2014-048954,2014-03-12,
+
+legal_event
+4
+    Date,Code,Title,Description
+    2015-04-09,AS,Assignment,Owner name: DENSO CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:MORII, AKIYOSHI;REEL/FRAME:035367/0801Effective date: 20150319
+    2017-03-29,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2020-09-19,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

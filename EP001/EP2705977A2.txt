@@ -1,0 +1,221 @@
+ID
+    EP2705977A2
+citation_exist
+    Patent Citations (5)
+citation_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    DE4226469C2,1991-08-09,2000-12-07,Nissan Motor,Regelvorrichtung für den Motor eines Elektrofahrzeugs
+    Family To Family Citations,,,,
+    JP3903787B2                      *,2001-12-26,2007-04-11,アイシン・エィ・ダブリュ株式会社,電動車両駆動制御装置、電動車両駆動制御方法及びそのプログラム
+    ATE455671T1                      *,2005-09-20,2010-02-15,Atlet Ab,Verbessertes kontrollsystem für ein flurförderfahrzeug
+    JP4755063B2                      *,2006-10-26,2011-08-24,三菱重工業株式会社,電動車両、そのスリップ制御装置および制御方法
+    DE102010020906A1                      *,2010-05-18,2011-11-24,Gottwald Port Technology Gmbh,Verfahren zum energieoptimierten Betrieb eines flurgebundenen Schwerlast-Transportfahrzeugs mit einem elektrischen Fahrantrieb
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (7)
+              
+
+
+citedBy_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN110065396A                      *,2018-01-24,2019-07-30,奥迪股份公司,用于运行机动车的方法以及机动车
+    WO2020094171A1,2018-11-09,2020-05-14,Paade Gmbh,Elektrisch angetriebenes fahrzeug und verfahren zum betrieb eines solchen
+    DE102019205180A1                      *,2019-04-11,2020-10-15,Robert Bosch Gmbh,Verfahren zum Bremsen eines Fahrzeugs
+    CN114666181A                      *,2022-03-21,2022-06-24,中国重汽集团济南动力有限公司,一种专用车底盘转速控制方法和控制系统
+    WO2023043472A1                      *,2021-09-15,2023-03-23,Terex South Dakota, Inc.,Lift device and method of controlling on a grade
+    Family To Family Citations,,,,
+    DE102021207156A1,2021-07-07,2023-01-12,Zf Friedrichshafen Ag,Verfahren zum Betreiben des Antriebsstrangs, Antriebsstrang für eine Arbeitsmaschine und Arbeitsmaschine
+    DE102022204548A1,2022-05-10,2023-11-16,Zf Friedrichshafen Ag,Elektrifizierter Antriebsstrang für eine Arbeitsmaschine, Verfahren zum Betreiben eines elektrifizierten Antriebsstrangs für eine Arbeitsmaschine und Arbeitsmaschine
+
+abstract
+    Bei einem Verfahren zur Regelung eines Fahrantriebs eines Elektrofahrzeugs, das durch mindestens einen elektrischen Fahrantriebsmotor (17) angetrieben wird, wobei in einem ersten Betriebszustand eine Drehmomentregelung durchgeführt wird, bei der einer Stellung eines Fahrsignalgebers ein Solldrehmoment des Fahrantriebsmotors (17) zugeordnet ist, und in einem zweiten Betriebszustand eine Drehzahlregelung durchgeführt wird, bei der einer Stellung des Fahrsignalgebers eine Solldrehzahl (N soll ) des Fahrantriebsmotors (17) zugeordnet ist, erfolgt die Regelung des Fahrantriebsmotors (17) in dem ersten Betriebszustand, wenn eine Abweichung einer Solldrehzahl (N soll ) zu einer Istdrehzahl (N ist ) des Fahrantriebsmotors (17) größer als ein Schwellenwert ist, und ansonsten wird der Fahrantriebsmotor (17) in dem zweiten Betriebszustand geregelt.
+title
+    Regelungsverfahren für Elektrofahrzeuge
+similar_document
+26
+    Publication,Publication Date,Title
+    EP2705977B1,2022-02-09,Regelungsverfahren für Elektrofahrzeuge
+    DE69733866T2,2006-06-08,Regler für den Antrieb eines Permanentmagnet-Synchronmotors
+    EP1458586B1,2006-06-21,Vorrichtung und verfahren zur regelung der fahrgeschwindigkeit eines fahrzeugs
+    EP2201672B1,2013-01-23,Verfahren und steuerungssystem zur steuerung einer elektrischen synchronmaschine
+    DE102005035770A1,2006-04-20,Steuerung für einen auf einem Fahrzeug anzubringenden Motor sowie diese verwendende elektrische Servolenkungsvorrichtung und elektrische Bremsvorrichtung
+    EP2443011A1,2012-04-25,Verfahren und vorrichtung zur bestimmung des beginns einer startphase eines verbrennungsmotors in einem hybridfahrzeug
+    DE102014220208A1,2016-05-25,Steuervorrichtung für eine elektromaschine, fahrzeug und verfahren
+    EP0662266B1,1996-08-14,Verfahren und vorrichtung zur regelung eines umrichtergespeisten permanenterregten synchronmotors
+    DE102011005962A1,2012-09-27,Aufteilen einer Momentenanforderung auf zwei von unterschiedlichen Motoren angetriebenen Antriebsachsen eines Kraftfahrzeugs
+    EP3145746B1,2023-08-02,Verfahren zur ansteuerung eines bremssystems
+    EP3581428B1,2021-06-09,Kurzschlussbremsung eines llm
+    EP2988980B1,2017-05-10,Kraftfahrzeug mit generatorlastabhängiger motorsteuerung
+    DE102020123871A1,2021-03-18,System und verfahren zum koordinieren unabhängiger achsen zur kontinuierlichen radschlupfsteuerung
+    DE102012205371A1,2013-10-02,Reglerstruktur und Verfahren zur feldorientierten Regelung einer Drehfeldmaschine bei Feldschwächung
+    WO2015003885A1,2015-01-15,Steuersystem sowie verfahren zum betreiben eines kraftfahrzeugs
+    DE10019152A1,2000-12-21,Regelungssystem mit modellgestützter Sicherheitsüberwachung eines elektronisch geregelten Stellers im Kraftfahrzeug
+    WO2014056799A2,2014-04-17,Motorsteuerung und verfahren zum feldorientierten regeln eines elektromotors
+    DE10111562A1,2002-09-19,Verfahren zum Betreiben eines lastabhängigen Stromerzeugungssystems in einem Fahrzeug
+    EP1458587A1,2004-09-22,Verfahren und einrichtung zur regelung des antriebsmomentes nach einem lastwechsel bei hybridfahrzeugen
+    DE3720184A1,1987-12-23,Verfahren und vorrichtung zur steuerung eines gleichstromstellers
+    EP2371647A2,2011-10-05,Steuerung eines Energierückgewinnungssystems eines Kraftfahrzeugs
+    DE102013207727A1,2014-10-30,Verfahren zur Ansteuerung eines bürstenlosen Motors
+    DE10328752A1,2004-02-05,Verfahren zum Lenken eines Fahrzeugs mit einer Überlagerungslenkung
+    DE602004001243T2,2007-05-03,Regelsystem für ein Kraftfahrzeuggetriebe
+    DE102009018390B4,2019-06-13,Kupplungssteuervorrichtung
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    6
+classfication_nums
+    11
+classfication_items
+66
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,4,0
+    B,6,0,L,2,2,0,0,/,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2013-07-04,Application filed by Linde Material Handling GmbH
+    2014-03-12,Publication of EP2705977A2
+    2017-04-19,Publication of EP2705977A3
+    2022-02-09,Application granted
+    2022-02-09,Publication of EP2705977B1
+    Status,Active
+    2033-07-04,Anticipated expiration
+
+active_area
+2
+    D,E
+    E,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    DE102012106535.7A,2012-07-19,Regelungsverfahren für Elektrofahrzeuge
+
+legal_event
+49
+    Date,Code,Title,Description
+    2014-03-11,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2014-03-12,AK,Designated contracting states,Kind code of ref document: A2Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2014-03-12,AX,Request for extension of the european patent,Extension  state: BA ME
+    2017-03-17,PUAL,Search report despatched,Free format text: ORIGINAL CODE: 0009013
+    2017-04-19,AK,Designated contracting states,Kind code of ref document: A3Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2017-04-19,AX,Request for extension of the european patent,Extension  state: BA ME
+    2017-04-19,RIC1,Information provided on ipc code assigned before grant,Ipc: B60L   7/14        20060101ALI20170316BHEPIpc: B60L  11/18        20060101ALI20170316BHEPIpc: B60L  15/20        20060101AFI20170316BHEP
+    2017-09-15,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+    2017-10-18,17P,Request for examination filed,Effective date: 20170911
+    2017-10-18,RBV,Designated contracting states (corrected),Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2018-01-19,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: EXAMINATION IS IN PROGRESS
+    2018-02-21,17Q,First examination report despatched,Effective date: 20180118
+    2020-10-17,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: EXAMINATION IS IN PROGRESS
+    2021-10-07,REG,Reference to a national code,Ref country code: DERef legal event code: R079Ref document number: 502013016068Country of ref document: DEFree format text: PREVIOUS MAIN CLASS: B60L0015200000Ipc: B60L0050510000
+    2021-10-21,GRAP,Despatch of communication of intention to grant a patent,Free format text: ORIGINAL CODE: EPIDOSNIGR1
+    2021-10-21,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: GRANT OF PATENT IS INTENDED
+    2021-11-10,RIC1,Information provided on ipc code assigned before grant,Ipc: B60L   7/14        20060101ALI20211007BHEPIpc: B60L  15/20        20060101ALI20211007BHEPIpc: B60L  50/51        20190101AFI20211007BHEP
+    2021-11-17,INTG,Intention to grant announced,Effective date: 20211021
+    2021-12-24,GRAS,Grant fee paid,Free format text: ORIGINAL CODE: EPIDOSNIGR3
+    2022-01-07,GRAA,(expected) grant,Free format text: ORIGINAL CODE: 0009210
+    2022-01-07,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE PATENT HAS BEEN GRANTED
+    2022-02-09,AK,Designated contracting states,Kind code of ref document: B1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2022-02-09,REG,Reference to a national code,Ref country code: GBRef legal event code: FG4DFree format text: NOT ENGLISH
+    2022-02-15,REG,Reference to a national code,Ref country code: CHRef legal event code: EPRef country code: ATRef legal event code: REFRef document number: 1467294Country of ref document: ATKind code of ref document: TEffective date: 20220215
+    2022-02-24,REG,Reference to a national code,Ref country code: DERef legal event code: R096Ref document number: 502013016068Country of ref document: DE
+    2022-03-02,REG,Reference to a national code,Ref country code: IERef legal event code: FG4DFree format text: LANGUAGE OF EP DOCUMENT: GERMAN
+    2022-06-10,REG,Reference to a national code,Ref country code: LTRef legal event code: MG9D
+    2022-06-15,REG,Reference to a national code,Ref country code: NLRef legal event code: MPEffective date: 20220209
+    2022-07-29,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: SEFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220209Ref country code: RSFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220209Ref country code: PTFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220609Ref country code: NOFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220509Ref country code: NLFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220209Ref country code: LTFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220209Ref country code: HRFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220209Ref country code: ESFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220209Ref country code: BGFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220509
+    2022-08-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: PLFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220209Ref country code: LVFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220209Ref country code: GRFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220510Ref country code: FIFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220209
+    2022-09-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: ISFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220609
+    2022-10-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: SMFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220209Ref country code: SKFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220209Ref country code: ROFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220209Ref country code: EEFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220209Ref country code: DKFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220209Ref country code: CZFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220209
+    2022-10-31,PGFP,Annual fee paid to national office [announced via postgrant information from national office to epo],Ref country code: DEPayment date: 20220621Year of fee payment: 10
+    2022-11-10,REG,Reference to a national code,Ref country code: DERef legal event code: R097Ref document number: 502013016068Country of ref document: DE
+    2022-11-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: ALFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220209
+    2022-12-16,PLBE,No opposition filed within time limit,Free format text: ORIGINAL CODE: 0009261
+    2022-12-16,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: NO OPPOSITION FILED WITHIN TIME LIMIT
+    2023-01-18,26N,No opposition filed,Effective date: 20221110
+    2023-02-28,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: SIFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220209Ref country code: MCFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220209
+    2023-02-28,REG,Reference to a national code,Ref country code: CHRef legal event code: PL
+    2023-03-29,GBPC,Gb: european patent ceased through non-payment of renewal fee,Effective date: 20220704
+    2023-03-29,REG,Reference to a national code,Ref country code: BERef legal event code: MMEffective date: 20220731
+    2023-04-28,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: LUFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20220704Ref country code: LIFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20220731Ref country code: FRFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20220731Ref country code: CHFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20220731
+    2023-05-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: GBFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20220704Ref country code: BEFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20220731
+    2023-06-14,P01,Opt-out of the competence of the unified patent court (upc) registered,Effective date: 20230507
+    2023-07-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: ITFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220209Ref country code: IEFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20220704
+    2023-09-15,REG,Reference to a national code,Ref country code: ATRef legal event code: MM01Ref document number: 1467294Country of ref document: ATKind code of ref document: TEffective date: 20220704
+    2023-10-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: ATFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20220704
+

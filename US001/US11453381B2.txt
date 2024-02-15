@@ -1,0 +1,359 @@
+ID
+    US11453381B2
+citation_exist
+    Patent Citations (5)
+citation_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20130015860A1                      *,2011-07-14,2013-01-17,Ford Global Technologies, Llc,Method And System For Determining A Target State of Charge To Charge A Battery In A Vehicle Using External Electric Power
+    US20150097512A1                      *,2013-10-04,2015-04-09,Ford Global Technologies, Llc,Vehicle battery charge setpoint control
+    KR20170138838A,2016-06-08,2017-12-18,현대자동차주식회사,System and Method for charging electric bus
+    US20180111496A1                      *,2016-10-21,2018-04-26,Medatech Engineering Services Ltd.,Electric mining vehicle, charge controller, and related process
+    US20200161874A1                      *,2018-11-16,2020-05-21,Toyota Jidosha Kabushiki Kaisha,Charging control apparatus for vehicle
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    CN112644503B                      *,2021-01-08,2022-07-29,东风小康汽车有限公司重庆分公司,Intelligent mode control method and system for electric automobile
+    US11731527B2                      *,2021-01-22,2023-08-22,Toyota Motor North America, Inc.,Transport charge capability re-routing
+    CN113232518B                      *,2021-04-28,2022-11-04,安徽江淮汽车集团股份有限公司,Vehicle power distribution control method, device, equipment and storage medium
+    CN113815423B                      *,2021-09-30,2023-10-20,华人运通(江苏)技术有限公司,Energy feedback control method and device for electric automobile and vehicle
+
+abstract
+    A vehicle and a method for controlling the vehicle are provided. The vehicle may include a battery; and a motor configured to generate a driving force by using the electric power charged in the battery, perform a regenerative braking, and charge the battery through the regenerative braking. The vehicle identifies destination information entered in the input during the preparation of charging at the charging station, searches for a route from the charging station to the destination based on the position information of the charging station and the position information of the destination, acquires the charging amount by regenerative braking based on the road information in the searched route and the table, and stops controlling the charging of the battery when the charging amount charged in the battery is charged by the regenerative braking during charging of the battery at the charging station.
+title
+    Vehicle and method for controlling the same
+similar_document
+20
+    Publication,Publication Date,Title
+    US11453381B2,2022-09-27,Vehicle and method for controlling the same
+    US9658075B2,2017-05-23,Travel assist system, travel assist method, and computer program
+    EP2071285B1,2019-01-16,Display device for vehicle, method of controlling display device for vehicle, program, and recording medium having program recorded thereon
+    US8417401B2,2013-04-09,Map display apparatus, map display method, and computer-readable tangible medium
+    US10829105B2,2020-11-10,Vehicle and method for controlling the same
+    JP5071018B2,2012-11-14,Vehicle consumption energy estimation device, vehicle consumption energy estimation method, and computer program
+    US8874358B2,2014-10-28,Route guidance device, method, and program
+    US10730504B2,2020-08-04,Vehicle and method for controlling the vehicle
+    CN101516703A,2009-08-26,Vehicle control device, vehicle control method, program for causing computer to execute vehicle control method, and recording medium having program recorded thereon
+    JP5842476B2,2016-01-13,Electric drive vehicle
+    US10435008B2,2019-10-08,Vehicle and method for controlling the same
+    JP2014196907A,2014-10-16,Travel support system, travel support method and computer program
+    JP5167968B2,2013-03-21,Hybrid vehicle driving support apparatus, driving support method and program
+    JP2011158277A,2011-08-18,Navigation apparatus
+    JP5834634B2,2015-12-24,Electric drive vehicle
+    JP2012091775A,2012-05-17,Electric drive vehicle
+    JP2023074396A,2023-05-29,Travel support device
+    KR20220008960A,2022-01-24,Battery management apparatus, vehicle having the same, and method for controlling the vehicle
+    KR20210021217A,2021-02-25,Vehicle, Server communicating with the vehicle and method for controlling the vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    42
+classfication_items
+250
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B,6,0,W,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,6,0
+    B,6,0,L,5,3,/,6,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,7,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,2,6,/,0,0
+    B,6,0,K,2,6,/,0,2
+    B,6,0,K,2,6,/,0,2,1
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,3,5,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B,6,0,L,1,5,/,2,0,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,6,0
+    B,6,0,L,5,3,/,6,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,0,2
+    B,6,0,T,7,/,0,4
+    B,6,0,T,7,/,0,4,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,4
+    B,6,0,W,1,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,3,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,0,2
+    B,6,0,W,4,0,/,0,6
+    B,6,0,W,4,0,/,0,7,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,0,8
+    B,6,0,W,4,0,/,0,9
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,1,0
+    B,6,0,W,4,0,/,1,0,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,1,4
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,2,3,7,0,/,0,0
+    B,6,0,K,2,3,7,0,/,5,0
+    B,6,0,K,2,3,7,0,/,5,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B,6,0,L,2,2,4,0,/,6,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,2,0,/,0,0
+    B,6,0,T,2,2,2,0,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,2,0,5,0,/,0,0,0,1
+    B,6,0,W,2,0,5,0,/,0,0,1,9
+    B,6,0,W,2,0,5,0,/,0,0,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,1,4
+    B,6,0,W,2,0,5,0,/,1,4,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,3,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,2,/,0,0
+    B,6,0,W,2,5,5,2,/,1,5
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,1
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,4,0
+
+application_events
+7
+    2019-10-17,Application filed by Hyundai Motor Co, Kia Motors Corp
+    2020-06-04,Assigned to KIA MOTORS CORPORATION, HYUNDAI MOTOR COMPANY
+    2021-01-07,Publication of US20210001834A1
+    2022-09-27,Application granted
+    2022-09-27,Publication of US11453381B2
+    Status,Active
+    2040-07-07,Adjusted expiration
+
+active_area
+3
+    K,R
+    U,S
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    KR1020190081394A,2019-07-05,Vehicle and method for controlling the same
+    KR10-2019-0081394,2019-07-05,
+
+legal_event
+10
+    Date,Code,Title,Description
+    2019-10-17,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2020-06-04,AS,Assignment,Owner name: HYUNDAI MOTOR COMPANY, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:KIM, JINYONG;REEL/FRAME:052837/0506Effective date: 20191007Owner name: KIA MOTORS CORPORATION, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:KIM, JINYONG;REEL/FRAME:052837/0506Effective date: 20191007
+    2020-06-26,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2021-08-16,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2021-11-18,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2021-12-16,STPP,Information on status: patent application and granting procedure in general,Free format text: FINAL REJECTION MAILED
+    2022-02-03,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2022-06-21,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2022-09-07,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

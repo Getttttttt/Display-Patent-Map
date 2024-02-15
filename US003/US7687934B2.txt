@@ -1,0 +1,146 @@
+ID
+    US7687934B2
+citation_exist
+    Patent Citations (1)
+citation_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    US6049141A                      *,1997-05-21,2000-04-11,Aer Energy Resources, Inc.,Device and a method allowing multiple batteries to share a common load
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (14)
+              
+
+
+citedBy_infor
+16
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20110011659A1                      *,2009-07-20,2011-01-20,International Truck Intellectual Property Company, Llc,Scalable, hybrid energy storage for plug-in vehicles
+    US20140181547A1                      *,2012-12-26,2014-06-26,Nvidia Corporation,Smart charging system for hybrid battery pack
+    US20150001925A1                      *,2013-06-28,2015-01-01,Dr. Ing. H.C. F. Porsche Aktiengesellschaft,Vehicle electrical distribution system stabilization
+    Family To Family Citations,,,,
+    DE102009019531A1                      *,2009-04-30,2009-12-24,Daimler Ag,Electrically drivable motor vehicle, has electronic switching arrangement comprising electronic circuit breakers, where vehicle batteries are individually or combinely interconnected to electric consumer by circuit breakers
+    JP4893804B2                      *,2009-11-05,2012-03-07,トヨタ自動車株式会社,Vehicle power supply
+    US9366193B2                      *,2009-12-18,2016-06-14,Les F. Nelson,Adjusting motor power
+    US8853883B2                      *,2010-12-29,2014-10-07,Caterpillar Inc.,System and methods for starting a prime mover of a power system
+    US9006921B2                      *,2011-07-29,2015-04-14,International Rectifier Corporation,Energy storage system and related method
+    EP2612786B1                      *,2012-01-09,2018-12-12,Tata Technologies Pte Ltd,Buddy charging for electric vehicles
+    US8981727B2                      *,2012-05-21,2015-03-17,General Electric Company,Method and apparatus for charging multiple energy storage devices
+    JP6051803B2                      *,2012-11-15,2016-12-27,株式会社ジェイテクト,Electric power steering device
+    US9524018B2                      *,2013-08-30,2016-12-20,Dell Products, Lp,Adaptive integral battery pack and voltage regulator
+    KR102022705B1                      *,2017-11-13,2019-09-18,주식회사 이진스,Complex circuit for charging and low voltage converting of electric vehicle
+    US20210291669A1                      *,2021-05-27,2021-09-23,Munir Ibrahim Vohra,YW Extended Range Battery
+
+abstract
+    A method and system for using a secondary energy source with an electric or hybrid vehicle in a way that requires no interaction with the vehicle's on-board communications system or the vehicle's processors. The secondary energy source, which can be a battery pack or any energy storage device, can generally be charged at home or business using the 110 volt line. The energy from the secondary source can be metered into the system in a way that allows the primary battery state-of-charge to fluctuate normally. Most of the electrical energy propelling the vehicle can come from the secondary source. All of the regenerative energy from braking can go into the primary battery. A controller can control a regulator to regulate the amount of current flowing from the secondary source.
+title
+    System and method for managing energy use in an electric vehicle
+similar_document
+18
+    Publication,Publication Date,Title
+    US7687934B2,2010-03-30,System and method for managing energy use in an electric vehicle
+    US11697352B2,2023-07-11,Method and apparatus for charging multiple energy storage devices
+    JP7051758B2,2022-04-11,Devices and methods for charging electric vehicles
+    US8534400B2,2013-09-17,Electric vehicle and method of control for active auxiliary battery depletion
+    JP6130634B2,2017-05-17,Apparatus and method for charging an electric vehicle
+    JP6467198B2,2019-02-06,Device for rapid charging using in-vehicle power electronics and method of manufacturing the same
+    JP6194164B2,2017-09-06,Apparatus and method for quickly charging an electric vehicle
+    JP6050780B2,2016-12-21,Uninterruptible power supply system using vehicles
+    EP2290778B1,2021-04-07,Apparatus for transferring energy using onboard power electronics
+    US9421867B2,2016-08-23,Electric vehicle
+    US7973424B2,2011-07-05,Method and apparatus for producing tractive effort with interface to other apparatus
+    JP6659203B2,2020-03-04,System for transferring energy from an energy source and method of manufacturing the same
+    EP2823987B1,2019-06-19,Electric-powered vehicle and method for controlling same
+    EP2558329A2,2013-02-20,Power supply system and vehicle equipped with power supply system
+    KR101500080B1,2015-03-06,Method for controlling LDC in regenerative braking of eco-friendly vehicle
+    JP2013090486A,2013-05-13,Power supply device for electric vehicle
+    JP2012056462A,2012-03-22,Apparatus and method for controlling, and system for vehicular electrical power supply
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US12/157,925,2008-06-13,2008-06-13,System and method for managing energy use in an electric vehicle
+
+inventor_number
+    2
+classfication_nums
+    6
+classfication_items
+36
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,2,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+8
+    2008-06-13,Application filed by Village Renewables Fund LLC
+    2008-06-13,Priority to US12/157,925
+    2008-07-14,Assigned to Village Renewables Fund LLC
+    2009-12-17,Publication of US20090309422A1
+    2010-03-30,Application granted
+    2010-03-30,Publication of US7687934B2
+    Status,Expired - Fee Related
+    2028-09-16,Adjusted expiration
+
+active_area
+0
+
+not_active_area
+1
+    U,S
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US12/157,925,2008-06-13,System and method for managing energy use in an electric vehicle
+
+legal_event
+6
+    Date,Code,Title,Description
+    2008-07-14,AS,Assignment,Owner name: VILLAGE RENEWABLES FUND LLC,CALIFORNIAFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:HELMICK, MARK;REEL/FRAME:021231/0138Effective date: 20080630Owner name: VILLAGE RENEWABLES FUND LLC, CALIFORNIAFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:HELMICK, MARK;REEL/FRAME:021231/0138Effective date: 20080630
+    2013-11-08,REMI,Maintenance fee reminder mailed,
+    2014-03-30,LAPS,Lapse for failure to pay maintenance fees,
+    2014-04-28,STCH,Information on status: patent discontinuation,Free format text: PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362
+    2014-05-20,FP,Lapsed due to failure to pay maintenance fee,Effective date: 20140330
+

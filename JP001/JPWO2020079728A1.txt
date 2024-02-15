@@ -1,0 +1,240 @@
+ID
+    JPWO2020079728A1
+citation_exist
+    Patent Citations (6)
+citation_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2008054387A                      *,2006-08-23,2008-03-06,Hitachi Ltd,電気車両の制御装置
+    JP2015172840A                      *,2014-03-11,2015-10-01,株式会社東芝,乗合車両の運賃決定システム
+    JP2016140204A                      *,2015-01-28,2016-08-04,株式会社東芝,電気車制御装置
+    JP2017046379A                      *,2015-08-24,2017-03-02,九州旅客鉄道株式会社,補機平均消費電力推定装置、乗務員支援装置及び方法
+    JP6151090B2                      *,2013-05-31,2017-06-21,東日本旅客鉄道株式会社,車内空調制御装置
+    JP2017144801A                      *,2016-02-15,2017-08-24,東京電力ホールディングス株式会社,電気自動車
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    CN113928139B                      *,2020-06-29,2023-09-05,比亚迪股份有限公司,列车充电控制方法、设备以及存储介质
+
+abstract
+    列車（１）で発生した電力を蓄電池（３０）に充電する制御を行う車両情報管理装置（１０）は、列車（１）の現在の運行状態の情報を取得する情報取得部（１１）と、列車（１）に搭載されるエンジン（５０）を用いて発電された電力で蓄電池（３０）を充電する際の制御内容が列車（１）の運行状態に応じて設定された充電制御情報を記憶する記憶部（１２）と、記憶部（１２）から列車（１）の現在の運行状態に合致した充電制御情報を取得し、取得した充電制御情報に基づいて、蓄電池（３０）の充電を制御する制御部（１３）と、を備える。
+title
+    車両情報管理装置および充電制御方法
+similar_document
+26
+    Publication,Publication Date,Title
+    US10266067B2,2019-04-23,Method and system for controlling voltage of fuel cell in stop-mode of fuel cell vehicle
+    US8063609B2,2011-11-22,Method and system for extending life of a vehicle energy storage device
+    US8963365B2,2015-02-24,System and method for optimizing energy storage device cycle life
+    JP5783511B2,2015-09-24,ハイブリッド電気自動車用バッテリ充電システム
+    US9126498B2,2015-09-08,Method and system for distributing a recuperation for a vehicle
+    US9073438B2,2015-07-07,System for selectively coupling an energy source to a load and method of making same
+    CN102844956B,2015-05-13,蓄电装置的控制装置以及搭载该蓄电装置的控制装置的车辆
+    JP6227003B2,2017-11-08,充放電システム
+    US9403438B2,2016-08-02,Control device for hybrid vehicle and control method for hybrid vehicle
+    JP2015199470A,2015-11-12,車両制御システム
+    US20190214693A1,2019-07-11,On-board battery temperature regulating apparatus, the on-board battery temperature regulating method, and non-transitory tangible recording medium storing therein on-board battery temperature regulating program
+    JP2011166962A,2011-08-25,車両システム
+    JP6972375B2,2021-11-24,車両情報管理装置および充電制御方法
+    JP6310938B2,2018-04-11,充放電システム
+    JP4830448B2,2011-12-07,車両駆動システム
+    WO2016113880A1,2016-07-21,充放電制御装置
+    KR102570296B1,2023-08-24,차량 및 그 제어방법
+    JP2015220952A,2015-12-07,充電装置
+    KR20200110564A,2020-09-24,전기자동차의 견인모드 제어 장치 및 그 방법
+    TW201139175A,2011-11-16,Battery system for motor vehicles with high-power loads
+    JP6403922B1,2018-10-10,駆動システムおよび駆動制御方法
+    KR102441505B1,2022-09-07,전기 자동차의 배터리 충전 방법
+    JP2012044805A,2012-03-01,車両用電源システム
+    KR102237065B1,2021-04-06,하이브리드 차량의 제어 시스템 및 그 제어 방법
+    JP2006340427A,2006-12-14,ハイブリッド車両の制御装置
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    22
+classfication_items
+128
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,6,0
+    B,6,0,L,5,3,/,6,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,1
+    B,6,1,C
+    B,6,1,C,1,7,/,0,0
+    B,6,1,C,1,7,/,0,6
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,1,5,/,0,0
+    B,6,1,L,1,5,/,0,0,7,2
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,2,5,/,0,0
+    B,6,1,L,2,5,/,0,2
+    B,6,1,L,2,5,/,0,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,3,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B,6,0,L,2,2,4,0,/,6,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,5,0
+    B,6,0,L,2,2,6,0,/,5,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,3,0,/,0,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+6
+    2018-10-15,Application filed by Mitsubishi Electric Corp
+    2021-04-30,Publication of JPWO2020079728A1
+    2021-11-24,Application granted
+    2021-11-24,Publication of JP6972375B2
+    Status,Active
+    2038-10-15,Anticipated expiration
+
+active_area
+3
+    U,S
+    W,O
+    J,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2018/038301,2018-10-15,車両情報管理装置および充電制御方法
+
+legal_event
+11
+    Date,Code,Title,Description
+    2021-01-27,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20210127
+    2021-01-27,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20210127
+    2021-01-27,A871,Explanation of circumstances concerning accelerated examination,Free format text: JAPANESE INTERMEDIATE CODE: A871Effective date: 20210127
+    2021-03-23,A975,Report on accelerated examination,Free format text: JAPANESE INTERMEDIATE CODE: A971005Effective date: 20210318
+    2021-05-11,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20210511
+    2021-07-08,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20210708
+    2021-09-29,TRDD,Decision of grant or rejection written,
+    2021-10-05,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20211005
+    2021-11-05,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20211102
+    2021-11-05,R150,Certificate of patent or registration of utility model,Ref document number: 6972375Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R150
+

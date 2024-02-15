@@ -1,0 +1,261 @@
+ID
+    US10889188B2
+citation_exist
+    Patent Citations (15)
+citation_infor
+17
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5453930A                      *,1991-02-08,1995-09-26,Nissan Motor Co., Ltd.,Drive system for electric automobiles
+    JPH08163702A,1994-12-01,1996-06-21,Matsushita Electric Ind Co Ltd,Method for controlling motor
+    JPH08223704A,1995-02-09,1996-08-30,Nissan Motor Co Ltd,Controller for electric vehicle
+    JPH10248107A,1997-03-04,1998-09-14,Honda Motor Co Ltd,Controller for electric car
+    US6615940B2                      *,2000-01-19,2003-09-09,Toyota Jidosha Kabushiki Kaisha,Control system for vehicle having fuel cell
+    US6909959B2                      *,2003-03-07,2005-06-21,Stephen James Hallowell,Torque distribution systems and methods for wheeled vehicles
+    US20060152180A1                      *,2003-04-04,2006-07-13,Kazuo Tahara,Electric drive device for vehicle and hybrid engine/motor-type four wheel drive device
+    JP2006256454A,2005-03-16,2006-09-28,Nissan Motor Co Ltd,Torque distribution control device of vehicle
+    US20070187158A1                      *,2006-02-15,2007-08-16,Koichiro Muta,Control apparatus and control method for electric vehicle
+    US20090159350A1                      *,2005-12-26,2009-06-25,Toyota Jidosha Kabushiki Kaisha,Vehicle Controller, Vehicle and Vehicle Control Method
+    US20100185351A1                      *,2007-08-08,2010-07-22,Nippon Soken, Inc.,Hybrid vehicle
+    US8113307B2                      *,2006-11-17,2012-02-14,Holland Ronald A,Electric vehicle drive system
+    JP2013106390A,2011-11-11,2013-05-30,Ntn Corp,Electric vehicle
+    JP2015100149A,2013-11-18,2015-05-28,Ntn株式会社,Anti-loci brake controller
+    WO2015141520A1,2014-03-19,2015-09-24,Ntn株式会社,Slip control device of electric automobile
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (4)
+              
+
+
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US10793157B2                      *,2017-05-24,2020-10-06,Toyota Motor Engineering & Manufacturing North America, Inc.,Operating electrified vehicles during traction events
+    KR102334659B1                      *,2017-06-29,2021-12-03,현대모비스 주식회사,Apparatus and method for detecting faults in in-wheel driving system of vehicle
+    CN112440751A                      *,2020-11-06,2021-03-05,广东高标电子科技有限公司,Electric vehicle braking energy recovery method
+
+abstract
+    Provided is a drive control device for a vehicle with independently driven wheels, the control device enabling the vehicle to avoid unstable behavior caused by an overrevolution of one of the drive wheels. The vehicle includes left and right motors (6, 6) that independently drive left and right drive wheels (2, 2), respectively. The control device includes: an ECU (21) to generate and output a command torque; an inverter device (22); rotation speed detection modules (34, 34) to detect the rotation speeds of the respective left and right motors (6, 6); and a control module (35) to change the command torques for the respective left and right motors (6, 6) so as to reduce the rotation speeds of the left and right motors (6, 6) when at least one rotation speed between the detected rotation speeds of the left and right motors (6, 6) exceeds a predetermined rotation speed.
+title
+    Drive control device for vehicle with independently driven wheels
+similar_document
+23
+    Publication,Publication Date,Title
+    US10093308B2,2018-10-09,Electronic stability control system for vehicle
+    JP5985178B2,2016-09-06,Motor control device
+    EP2679433B1,2020-01-22,Electric automobile
+    JP5705585B2,2015-04-22,Electric car
+    JP6534509B2,2019-06-26,Drive control device for a wheel independent drive type vehicle
+    US10889188B2,2021-01-12,Drive control device for vehicle with independently driven wheels
+    US10017075B2,2018-07-10,Device for controlling electric automobile
+    US9440540B2,2016-09-13,Electric vehicle and control method
+    JP5886008B2,2016-03-16,Electric vehicle motor control device
+    JP6396180B2,2018-09-26,Drive control device for wheel independent drive type vehicle
+    WO2017018335A1,2017-02-02,Motor drive device
+    JP6411132B2,2018-10-24,Drive control device for wheel independent drive type vehicle
+    JP2017005899A,2017-01-05,Drive control device of wheel independent drive type vehicle
+    US9586484B2,2017-03-07,Electric-vehicle control device
+    WO2016125686A1,2016-08-11,Vehicle braking/driving torque control device
+    JP6137045B2,2017-05-31,Vehicle drive motor control device
+    WO2021182428A1,2021-09-16,Drive control device for vehicle having independently driven wheels
+    JP2013251988A,2013-12-12,Motor generator control device
+    WO2021125218A1,2021-06-24,Drive control apparatus and drive control method for vehicle having independently driven wheels
+    US20190291592A1,2019-09-26,Vehicle control device
+    JP6443266B2,2018-12-26,VEHICLE CONTROL METHOD AND VEHICLE CONTROL DEVICE
+    JP2020124001A,2020-08-13,Regenerative brake system and electric drive vehicle
+
+patent_application
+3
+    Application,Priority date,Filing date,Relation,Title
+    PCT/JP2017/004465,2016-02-26,2017-02-08,Continuation,Gas separation membrane, gas separation module, gas separation device, and gas separation method
+    PCT/JP2017/004650,2016-02-12,2017-02-08,Continuation,Drive control apparatus for individual-wheel drive vehicles
+
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    23
+classfication_items
+134
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,0
+    B,6,0,L,3,/,1,0,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,2,8,/,0,0
+    B,6,0,K,2,8,/,1,0
+    B,6,0,K,2,8,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,0
+    B,6,0,L,3,/,1,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,9,/,0,0
+    B,6,0,L,9,/,1,6
+    B,6,0,L,9,/,1,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,0,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,1,7,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,/,0,0
+    B,6,0,K,1,/,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,2,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2018-08-10,Application filed by NTN Corp
+    2018-08-14,Assigned to NTN CORPORATION
+    2018-12-06,Publication of US20180345796A1
+    2021-01-12,Application granted
+    2021-01-12,Publication of US10889188B2
+    Status,Active
+    2037-09-19,Adjusted expiration
+
+active_area
+5
+    J,P
+    W,O
+    E,P
+    C,N
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2016024414A,2016-02-12,Drive control device for wheel independent drive type vehicle
+    JP2016-024414,2016-02-12,
+    PCT/JP2017/004650,2017-02-08,Drive control apparatus for individual-wheel drive vehicles
+
+legal_event
+7
+    Date,Code,Title,Description
+    2018-08-10,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2018-08-14,AS,Assignment,Owner name: NTN CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:KANDA, TAKESHI;REEL/FRAME:046819/0532Effective date: 20180703
+    2018-10-31,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2020-05-18,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2020-08-12,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2020-12-22,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

@@ -1,0 +1,374 @@
+ID
+    US9126599B2
+citation_exist
+    Patent Citations (19)
+citation_infor
+21
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5376868A                      *,1991-04-01,1994-12-27,Aisin Aw Co., Ltd.,Driving force controller for electric motor vehicle
+    US5481460A                      *,1990-10-03,1996-01-02,Hitachi, Ltd.,Controller for electric vehicle
+    JP2004175313A,2002-11-29,2004-06-24,Toyota Motor Corp,Vehicle controller
+    WO2004085186A2,2003-03-28,2004-10-07,Plishner Paul J,Vehicle with a distributed motor
+    JP2005204436A,2004-01-16,2005-07-28,Nissan Motor Co Ltd,Drive force control device of wheel independently driven type electric vehicle
+    CN1751924A,2004-09-20,2006-03-29,丰田自动车株式会社,The vehicle braked force control device
+    CN1767965A,2003-03-28,2006-05-03,保罗·J·普利斯纳,Vehicle with a distributed motor
+    JP2006258289A,2005-02-16,2006-09-28,Ntn Corp,In-wheel motor drive unit
+    JP2006256454A                      *,2005-03-16,2006-09-28,Nissan Motor Co Ltd,Torque distribution control device of vehicle
+    JP2006333603A,2005-05-25,2006-12-07,Hiroshi Shimizu,Drive control device of electric vehicle
+    US7173386B1                      *,2005-07-13,2007-02-06,Siemens Vdo Halla, Ltd.,Apparatus for detecting over current of dual motor in vehicle
+    US7200482B2                      *,2002-12-27,2007-04-03,Sony Corporation,Drive control apparatus and method and two-wheeled vehicle
+    JP2008061326A,2006-08-30,2008-03-13,Equos Research Co Ltd,Drive control unit for vehicle
+    JP2008172935A,2007-01-12,2008-07-24,Ntn Corp,In-wheel motor driver
+    US20090236157A1                      *,2006-09-19,2009-09-24,Yoshinobu Akamatsu,Sensor-equipped axle unit having a built-in motor of in-wheel type
+    US7688216B2                      *,2003-08-29,2010-03-30,Ntn Corporation,Wireless sensor system and wheel support bearing assembly utilizing the same
+    CN101767535A,2008-12-30,2010-07-07,比亚迪股份有限公司,Driving/braking system and method of independent four-wheel electric automobile
+    Family To Family Citations,,,,
+    JP2004187388A                      *,2002-12-02,2004-07-02,Toyota Motor Corp,Driving control device for vehicle
+    GB2463130B                      *,2009-07-29,2011-06-22,Protean Holdings Corp,Torque control system
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (5)
+              
+
+
+citedBy_exist
+    
+              Cited By (24)
+              
+
+
+citedBy_infor
+26
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20160039290A1                      *,2013-04-12,2016-02-11,Mitsubishi Electric Corporation,Propulsion control device and propulsion control method
+    US10407033B2,2015-07-02,2019-09-10,Mitsubishi Jidosha Kogyo Kabushiki Kaisha,Electric brake device
+    US10978984B2                      *,2018-09-19,2021-04-13,Subaru Corporation,Electric vehicle
+    US11325502B2                      *,2017-09-25,2022-05-10,Lg Chem, Ltd.,Electric vehicle
+    Family To Family Citations,,,,
+    JP6050089B2                      *,2012-11-02,2016-12-21,Ntn株式会社,Electric vehicle control device and electric vehicle
+    US9027682B2                      *,2013-02-01,2015-05-12,Daniel James LAMBERT,Self charging electric vehicle
+    JP6130730B2                      *,2013-05-21,2017-05-17,Ntn株式会社,Motor control device
+    KR101912796B1                      *,2013-07-26,2018-10-29,한화지상방산 주식회사,Control system for wheels of electric vehicle
+    JP6534509B2                      *,2014-08-29,2019-06-26,Ntn株式会社,Drive control device for a wheel independent drive type vehicle
+    JP6422752B2                      *,2014-12-03,2018-11-14,Ntn株式会社,Vehicle braking force control device
+    JP6537832B2                      *,2015-01-19,2019-07-03,Ntn株式会社,Control device for abnormality of electric car
+    CN106608250B                      *,2015-10-26,2019-03-29,比亚迪股份有限公司,The active safety control system and method for vehicle
+    US10023073B2                      *,2015-10-27,2018-07-17,Thunder Power New Energy Vehicle Development Company Limited,Four motor direct driving system
+    US9809129B2,2015-10-27,2017-11-07,Thunder Power New Energy Vehicle Development Company Limited,Four motor direct driving system
+    GB2564645B                      *,2017-07-17,2019-09-25,Protean Electric Ltd,A control system for a vehicle
+    JP6380628B1                      *,2017-07-31,2018-08-29,株式会社安川電機,Power conversion apparatus, server, and data generation method
+    CN109435938B                      *,2017-08-28,2020-09-15,比亚迪股份有限公司,Brake control method and device
+    WO2019111560A1                      *,2017-12-05,2019-06-13,日本電産株式会社,Control device for mobile robot and mobile robot system
+    CN109591608B                      *,2018-12-03,2020-12-22,潍柴动力股份有限公司,Electric automobile brake control method, whole automobile control device and system
+    JP7079347B2                      *,2018-12-26,2022-06-01,本田技研工業株式会社,Electric drive unit and electric vehicle
+    KR20200115820A                      *,2019-03-27,2020-10-08,현대자동차주식회사,Hybrid vehicle and method of braking control for the same
+    US20220190754A1                      *,2020-12-16,2022-06-16,Feng-Tien Chen,Motor arrangement system of endurable and energy-saving electric vehicle
+    JP2022110333A                      *,2021-01-18,2022-07-29,株式会社デンソー,Vehicle control device
+    JP7320048B2,2021-12-27,2023-08-02,本田技研工業株式会社,electric mover
+
+abstract
+    An electric vehicle including a plurality of motors for individually driving left and right drive wheels is provided with a motor abnormality detector for detecting the occurrence of an abnormality in each of the motors and one side abnormality response controller. The one side abnormality response controller controls, when an abnormality other than a motor stoppage is detected the motor in the wheel of either one of the left and right, which are arranged at the same forward or rearward position of the vehicle, by the motor abnormality detector, the motor for the other wheel to approach the same condition as that of the motor in which the abnormality has been detected.
+title
+    Electric vehicle
+similar_document
+13
+    Publication,Publication Date,Title
+    US9126599B2,2015-09-08,Electric vehicle
+    US9114711B2,2015-08-25,Electric vehicle
+    US9126501B2,2015-09-08,Electric vehicle
+    EP2679433B1,2020-01-22,Electric automobile
+    US9550435B2,2017-01-24,Electric vehicle control device
+    US8843291B2,2014-09-23,Electric vehicle
+    JP5705585B2,2015-04-22,Electric car
+    US8880267B2,2014-11-04,Electric automobile
+    JP5936306B2,2016-06-22,Electric car
+    US9172319B2,2015-10-27,Motor control device for electric automobile
+    JP5851812B2,2016-02-03,Electric vehicle control device and electric vehicle
+    JP5985724B2,2016-09-06,Electric car
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    45
+classfication_items
+232
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,7,/,0,0
+    B,6,0,K,1,7,/,0,4
+    B,6,0,K,1,7,/,0,4,3
+    B,6,0,K,1,7,/,0,4,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,7,/,0,0
+    B,6,0,K,1,7,/,3,4
+    B,6,0,K,1,7,/,3,5,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,7,/,0,0
+    B,6,0,K,7,/,0,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,2
+    B,6,0,L,1,5,/,0,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,5,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,0,7
+    B,6,0,L,3,/,0,0,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,9,6
+    H,0,2,K,1,1,/,0,0,1
+    H
+    H,0,2
+    H,0,2,K
+    H,0,2,K,1,1,/,0,0
+    H,0,2,K,1,1,/,2,0
+    H
+    H,0,2
+    H,0,2,K
+    H,0,2,K,1,1,/,0,0
+    H,0,2,K,1,1,/,3,0
+    H,0,2,K,1,1,/,3,3
+    H
+    H,0,2
+    H,0,2,K
+    H,0,2,K,7,/,0,0
+    H,0,2,K,7,/,1,0
+    H,0,2,K,7,/,1,1,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,7,/,0,0
+    B,6,0,K,2,0,0,7,/,0,0,3,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,7,/,0,0
+    B,6,0,K,2,0,0,7,/,0,0,9,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,1,0
+    B,6,0,L,2,2,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,5,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,8
+    B,6,0,L,2,2,4,0,/,4,8,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,6,/,0,0
+    B,6,0,W,2,6,0,0,/,0,0
+    H,0,2,K,1,1,/,0,0,7,3
+    H
+    H,0,2
+    H,0,2,K
+    H,0,2,K,2,2,1,3,/,0,0
+    H,0,2,K,2,2,1,3,/,0,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,1
+    Y,0,2,T,1,0,/,6,4,6
+    Y,0,2,T,1,0,/,6,4,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,5,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+
+application_events
+7
+    2012-03-05,Application filed by NTN Corp
+    2013-12-26,Publication of US20130345918A1
+    2014-03-25,Assigned to NTN CORPORATION
+    2015-09-08,Application granted
+    2015-09-08,Publication of US9126599B2
+    Status,Expired - Fee Related
+    2032-03-05,Anticipated expiration
+
+active_area
+3
+    J,P
+    E,P
+    W,O
+
+not_active_area
+2
+    C,N
+    U,S
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2011048632A,2011-03-07,Electric car
+    JP2011-048632,2011-03-07,
+    PCT/JP2012/055533,2012-03-05,Electric vehicle
+
+legal_event
+11
+    Date,Code,Title,Description
+    2014-03-25,AS,Assignment,Owner name: NTN CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:OZAKI, TAKAYOSHI;REEL/FRAME:032521/0551Effective date: 20130807
+    2015-05-12,ZAAA,Notice of allowance and fees due,Free format text: ORIGINAL CODE: NOA
+    2015-05-13,ZAAB,Notice of allowance mailed,Free format text: ORIGINAL CODE: MN/=.
+    2015-06-03,ZAAA,Notice of allowance and fees due,Free format text: ORIGINAL CODE: NOA
+    2015-08-19,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2015-12-08,CC,Certificate of correction,
+    2019-02-22,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+    2023-05-01,FEPP,Fee payment procedure,Free format text: MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2023-10-16,LAPS,Lapse for failure to pay maintenance fees,Free format text: PATENT EXPIRED FOR FAILURE TO PAY MAINTENANCE FEES (ORIGINAL EVENT CODE: EXP.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2023-10-16,STCH,Information on status: patent discontinuation,Free format text: PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362
+

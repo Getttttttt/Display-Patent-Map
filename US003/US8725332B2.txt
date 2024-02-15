@@ -1,0 +1,278 @@
+ID
+    US8725332B2
+citation_exist
+    Patent Citations (18)
+citation_infor
+20
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5778326A                      *,1994-10-25,1998-07-07,Kabushikikaisha Equos Research,Hybrid vehicle with battery charge control relative to a driving route
+    JP2001169408A,1999-12-03,2001-06-22,Nissan Motor Co Ltd,Controller for hybrid car
+    US20020069000A1                      *,2000-12-04,2002-06-06,Yoshitada Nakao,Apparatus for controlling hybrid electric vehicle
+    US6507127B1                      *,1999-09-24,2003-01-14,Hitachi, Ltd.,Hybrid vehicle
+    JP2003235106A,2002-02-04,2003-08-22,Sanyo Electric Co Ltd,Battery control method for hybrid car
+    JP2004032904A,2002-06-26,2004-01-29,Nissan Motor Co Ltd,Controller for hybrid vehicle
+    JP2004324613A,2003-04-28,2004-11-18,Nissan Motor Co Ltd,Temperature controller for prime mover
+    JP2005261034A,2004-03-10,2005-09-22,Toyota Motor Corp,Controller of electric storage mechanism
+    JP2006306231A,2005-04-27,2006-11-09,Equos Research Co Ltd,Hybrid car
+    JP2007050888A,2006-09-25,2007-03-01,Aisin Aw Co Ltd,Driving control system for hybrid vehicle
+    JP2007126145A,2000-01-14,2007-05-24,Denso Corp,Hybrid car controller
+    JP2008024306A,2007-09-10,2008-02-07,Equos Research Co Ltd,Driving controller and hybrid car
+    US20080183348A1,2007-01-31,2008-07-31,Hitachi, Ltd.,Hybrid Cruising Control System
+    US20080262668A1                      *,2007-04-23,2008-10-23,Denso Corporation,Charge/discharge control apparatus for hybrid vehicle and control program device therefor
+    Family To Family Citations,,,,
+    JP3710085B2                      *,2000-11-08,2005-10-26,本田技研工業株式会社,Control device for front and rear wheel drive vehicle
+    JP2008306231A                      *,2007-06-05,2008-12-18,Renesas Technology Corp,Semiconductor device
+    JP2009085631A,2007-09-27,2009-04-23,Toyota Central R&D Labs Inc,Measuring method of oxygen concentration
+    JP2010234972A                      *,2009-03-31,2010-10-21,Toyota Motor Corp,Hybrid car
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (6)
+              
+
+
+citedBy_exist
+    
+              Cited By (15)
+              
+
+
+citedBy_infor
+17
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP2010234972A                      *,2009-03-31,2010-10-21,Toyota Motor Corp,Hybrid car
+    JP4816780B2                      *,2009-09-11,2011-11-16,株式会社デンソー,On-vehicle charge / discharge control device and partial control device included therein
+    US8600598B2                      *,2011-06-08,2013-12-03,GM Global Technology Operations LLC,Thermal conditioning of vehicle rechargeable energy storage systems
+    JP6119103B2                      *,2012-03-07,2017-04-26,日産自動車株式会社,Control device for hybrid vehicle
+    CN104284823B                      *,2012-05-08,2017-06-20,沃尔沃拉斯特瓦格纳公司,EMS and saving of fuel method for hybrid electric vehicle
+    CN105102287B                      *,2013-03-14,2019-04-12,艾里逊变速箱公司,System and method for energy management during hybrid-power electric vehicle regeneration mode
+    US10406937B2                      *,2013-10-24,2019-09-10,Ford Global Technologies, Llc,Electric vehicle charger and charging method
+    JP2015110383A                      *,2013-12-06,2015-06-18,トヨタ自動車株式会社,Hybrid vehicle
+    JP5859507B2                      *,2013-12-19,2016-02-10,プライムアースＥｖエナジー株式会社,Battery system
+    US9403528B2                      *,2014-07-18,2016-08-02,Ford Global Technologies, Llc,Method and assembly for directing power within an electrified vehicle
+    JP6531705B2                      *,2016-04-21,2019-06-19,株式会社デンソー,Control device of rotating electric machine
+    US10931124B2,2016-07-06,2021-02-23,Apple Inc.,Battery preconditioning for charging
+    JP6922820B2                      *,2018-04-13,2021-08-18,トヨタ自動車株式会社,Power control unit
+    JP2020058207A                      *,2018-10-04,2020-04-09,トヨタ自動車株式会社,Electric vehicle
+    JP7238750B2                      *,2019-12-11,2023-03-14,トヨタ自動車株式会社,TRIP CONTROL DEVICE, METHOD, PROGRAM AND VEHICLE
+
+abstract
+    A hybrid vehicle includes a regenerative charging area detection section, a recovery loss estimation section, and a motor use ratio increase section. The regenerative charging area detection section detects arrival of a regenerative charging possible area in which a regenerative charging from a motor to a battery is possible. The recovery loss estimation section estimates a recovery loss of the regenerative charging based on a regenerative charge amount in the regenerative charging possible area and a current remaining battery amount in response to detection by the regenerative charging area detection section. In response to estimation by the recovery loss estimation section, before the arrival at the regenerative charging possible area, the motor use ratio increase section increases a use ratio of the motor so as to decrease a remaining battery amount while limiting the temperature of the battery to a predetermined temperature range.
+title
+    Hybrid vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US8725332B2,2014-05-13,Hybrid vehicle
+    CN105905100B,2020-07-14,Battery state of charge target based on predicted regenerative energy
+    CN105905102B,2020-04-17,Engine off threshold based on battery state of charge for predicted operation
+    US9469289B2,2016-10-18,Energy reservation coordination for hybrid vehicle
+    CN105905107B,2020-04-07,Battery state of charge targeting based on vehicle inclination
+    KR101245807B1,2013-03-20,Vehicle power control device
+    KR100906908B1,2009-07-08,Method for controlling battery charging of hybrid electric vehicle
+    KR101836250B1,2018-03-08,Method and apparatus of controlling output voltage of dc converter for vehicle including driving motor
+    EP2586663B1,2017-07-26,Control device for vehicle and control method for vehicle
+    JP4984726B2,2012-07-25,Vehicle power supply control device
+    US10266065B2,2019-04-23,Electric vehicle and control method for electric vehicle
+    JP2015059639A,2015-03-30,Control device for vehicle
+    US10910971B2,2021-02-02,Alternator control unit, alternator driving control method, and power supply management system for engine vehicle
+    EP3079219B1,2018-08-29,Charging control device
+    KR101382306B1,2014-05-07,Systen for battery management of hybrid vehicle and method thereof
+    JP2014111413A,2014-06-19,Travel control device of hybrid electric automobile
+    US10933861B2,2021-03-02,Method for controlling driving of hybrid vehicle using dynamic traffic information
+    JP6210677B2,2017-10-11,Travel control device for hybrid electric vehicle
+    JP4770468B2,2011-09-14,Control device for vehicle generator
+    EP3674129A1,2020-07-01,Vehicular charging control system
+    KR101619492B1,2016-05-23,Apparatus and Method for Driving Control Using Route
+    CN109473737B,2023-05-05,Cooling device for vehicle-mounted equipment
+    JP6222891B2,2017-11-01,Control device for hybrid vehicle
+    JP2007239526A,2007-09-20,Control device for vehicle
+    JP6986950B2,2021-12-22,Control device for electric vehicles
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    9
+classfication_nums
+    21
+classfication_items
+135
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,5,0
+    B,6,0,K,6,/,5,4
+    B,6,0,K,6,/,5,4,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,0,9,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,2,/,0,0
+    B,6,0,W,2,5,5,2,/,2,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,2,4
+    B,6,0,W,2,7,1,0,/,2,4,2
+    B,6,0,W,2,7,1,0,/,2,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,2,4
+    B,6,0,W,2,7,1,0,/,2,4,2
+    B,6,0,W,2,7,1,0,/,2,4,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+
+application_events
+7
+    2010-03-31,Application filed by Aisin AW Co Ltd, Denso Corp
+    2011-09-30,Assigned to DENSO CORPORATION, AISIN AW CO., LTD.
+    2012-02-16,Publication of US20120041629A1
+    2014-05-13,Application granted
+    2014-05-13,Publication of US8725332B2
+    Status,Expired - Fee Related
+    2030-08-21,Adjusted expiration
+
+active_area
+2
+    J,P
+    W,O
+
+not_active_area
+3
+    C,N
+    D,E
+    U,S
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2009085631A,2009-03-31,Hybrid car
+    JP2009-085631,2009-03-31,
+    PCT/JP2010/002353,2010-03-31,Hybrid vehicle
+
+legal_event
+9
+    Date,Code,Title,Description
+    2011-09-30,AS,Assignment,Owner name: AISIN AW CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:YAMADA, KAZUNAO;NAITO, TAKASHI;NIWA, TOSHIAKI;AND OTHERS;SIGNING DATES FROM 20110725 TO 20110823;REEL/FRAME:026999/0812Owner name: DENSO CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:YAMADA, KAZUNAO;NAITO, TAKASHI;NIWA, TOSHIAKI;AND OTHERS;SIGNING DATES FROM 20110725 TO 20110823;REEL/FRAME:026999/0812
+    2013-12-09,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2014-04-23,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2017-11-06,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551)Year of fee payment: 4
+    2022-01-03,FEPP,Fee payment procedure,Free format text: MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2022-06-20,LAPS,Lapse for failure to pay maintenance fees,Free format text: PATENT EXPIRED FOR FAILURE TO PAY MAINTENANCE FEES (ORIGINAL EVENT CODE: EXP.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2022-06-20,STCH,Information on status: patent discontinuation,Free format text: PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362
+    2022-07-12,FP,Lapsed due to failure to pay maintenance fee,Effective date: 20220513
+

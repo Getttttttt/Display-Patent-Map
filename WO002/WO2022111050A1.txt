@@ -1,0 +1,114 @@
+ID
+    WO2022111050A1
+citation_exist
+    Patent Citations (10)
+citation_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2005039908A                      *,2003-07-17,2005-02-10,Mitsubishi Motors Corp,ハイブリッド車両の回生制動制御装置
+    JP2016220478A                      *,2015-05-26,2016-12-22,渡邉 雅弘,回生制動機能を有する車両の減速走行制御方法
+    CN109801511A                      *,2017-11-16,2019-05-24,华为技术有限公司,一种碰撞预警方法及装置
+    CN111038512A                      *,2019-12-25,2020-04-21,联合汽车电子有限公司,车辆减速控制方法及整车控制器
+    CN111547035A                      *,2020-04-17,2020-08-18,中国第一汽车股份有限公司,车辆减速控制方法、装置、存储介质及车辆
+    CN111546903A                      *,2020-04-26,2020-08-18,中国第一汽车股份有限公司,滑行扭矩的确定方法、装置、设备及存储介质
+    CN111959286A                      *,2020-08-31,2020-11-20,东风汽车集团有限公司,一种电动汽车滑行能量回收强度控制方法、装置及介质
+    Family To Family Citations,,,,
+    KR101755846B1                      *,2015-09-21,2017-07-07,현대자동차주식회사,전기차의 에코코스팅 연비향상률 표시방법 및 장치
+    CN108928238B                      *,2017-05-26,2020-10-27,华为技术有限公司,一种制动能量回收方法及电动汽车
+    DE102017216408A1                      *,2017-09-15,2019-03-21,Bayerische Motoren Werke Aktiengesellschaft,Adaptive Abstandswahl zur Effizienzoptimierung
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    本申请涉及车辆控制技术领域，提供一种车辆的能量回收强度的指导方法和装置。该方法包括：检测所述车辆的前方路况信息和所述车辆的车速；根据所述前方路况信息和/或所述车辆的车速，确定是否需要计算最优减速度；在确定需要计算所述最优减速度时，至少根据所述前方路况信息和/或所述车辆的车速，确定各减速度情况下所述车辆的滑行持续时间和所述车辆的能量消耗；至少根据各减速度情况下所述车辆的滑行持续时间和所述车辆的能量消耗，确定最优减速度；基于所述最优减速度，根据所述前方路况信息和/或所述车辆的车速，确定所述车辆开始滑行位置，以指导所述车辆的驾驶员使所述车辆进行滑行。本申请可以以最优的方式兼顾回收能量并减速。
+title
+    车辆的能量回收强度的指导方法和装置
+similar_document
+26
+    Publication,Publication Date,Title
+    US10239526B2,2019-03-26,Adaptive cruise control system
+    US8774998B2,2014-07-08,Vehicle control device
+    CN103930937B,2016-03-16,驾驶支援装置
+    CN106971624B,2020-05-08,超车预警的方法和装置
+    JP5846214B2,2016-01-20,運転支援装置
+    CN103930936B,2016-03-09,驾驶支援装置
+    CN109318893B,2020-10-02,基于车牌像素高度变化的安全驾驶辅助方法和系统
+    EP2781722A1,2014-09-24,Driving assistance device
+    CN110001638B,2022-04-01,自动驾驶车辆的行驶控制装置
+    CN110001639B,2022-04-01,自动驾驶车辆的行驶控制装置
+    WO2013114624A1,2013-08-08,減速因子推定装置及び運転支援装置
+    CN105654754A,2016-06-08,一种车辆控制方法及装置
+    JP2018092371A,2018-06-14,運転支援装置
+    US9776619B2,2017-10-03,Driving assistance apparatus
+    KR101628563B1,2016-06-08,친환경 자동차의 타행 주행 제어 방법
+    JP5743576B2,2015-07-01,物体検出システム
+    JP2011005920A,2011-01-13,車両走行制御方法
+    JP5895674B2,2016-03-30,運転支援装置
+    JP5098503B2,2012-12-12,走行制御計画生成装置
+    JP6253646B2,2017-12-27,車両制御装置
+    WO2022111050A1,2022-06-02,车辆的能量回收强度的指导方法和装置
+    JP5375924B2,2013-12-25,走行制御計画生成装置
+    JP2017124806A,2017-07-20,省エネルギー減速走行制御方法
+    WO2013114625A1,2013-08-08,運転支援装置
+    JP5247666B2,2013-07-24,車載安全制御装置及び安全運転支援システム
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    11
+classfication_nums
+    3
+classfication_items
+19
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B,6,0,L,2,2,4,0,/,1,6
+
+application_events
+2
+    2021-09-30,Application filed by 长城汽车股份有限公司
+    2022-06-02,Publication of WO2022111050A1
+
+active_area
+1
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    CN202011341331.3A,2020-11-25,车辆的能量回收强度的指导方法和装置
+    CN202011341331.3,2020-11-25,
+
+legal_event
+3
+    Date,Code,Title,Description
+    2022-07-13,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 21896552Country of ref document: EPKind code of ref document: A1
+    2023-06-27,NENP,Non-entry into the national phase,Ref country code: DE
+

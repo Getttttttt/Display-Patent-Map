@@ -1,0 +1,185 @@
+ID
+    US20200391613A1
+citation_exist
+    Patent Citations (8)
+citation_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP4387813B2                      *,2004-01-26,2009-12-24,株式会社東芝,DC voltage feeder
+    JP2009273218A                      *,2008-05-07,2009-11-19,Toyo Electric Mfg Co Ltd,Power accumulation system
+    KR101071208B1,2009-12-29,2011-10-10,한국철도기술연구원,energy storage system of AC method of electric supply
+    JP5452371B2                      *,2010-06-01,2014-03-26,株式会社日立製作所,Railway vehicle drive system
+    KR101232218B1                      *,2011-03-04,2013-02-12,한국철도기술연구원,Restoration energy storage device of urban rail
+    KR101224570B1                      *,2011-12-12,2013-01-21,주식회사 우진산전,Auto tuning method based energy storaging system of a railroad
+    JP5931705B2                      *,2012-11-28,2016-06-08,三菱重工業株式会社,Charge / discharge control device, charge / discharge control system, charge / discharge control method, and program
+    JP6279748B2                      *,2014-08-29,2018-02-14,株式会社東芝,Railway system
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    KR102435260B1                      *,2020-09-23,2022-08-24,이온어스(주),Method and device for managing power using ess
+    KR102239780B1                      *,2020-10-22,2021-04-13,이온어스(주),Method and device for managing power of electric vehicle charging station using ess
+    CN112455286B                      *,2021-02-01,2021-05-18,江苏时代新能源科技有限公司,Charging control method and device and battery management system
+
+abstract
+    An ESS charging and discharging operation method may include the steps of: checking whether SOC of the ESS is within an operable range, and performing an SOC management operation if the SOC of the ESS is not within the operable range; performing, if the SOC of the ESS is within the operable range, a catenary wire voltage control operation based on range of catenary wire voltage and range of variation rate of the catenary wire voltage; performing the SOC management operation after the ESS is charged or discharged depending on the catenary wire voltage control operation over unit time, if output current of the ESS does not exceed current reference value; and stopping the catenary wire voltage control operation and switching the operation to a standby state.
+title
+    Ess charging and discharging operation method
+similar_document
+26
+    Publication,Publication Date,Title
+    US20200259338A1,2020-08-13,Systems and methods for series battery charging
+    US8836285B2,2014-09-16,Power management system
+    US8946929B2,2015-02-03,Method and apparatus for effective utilization of energy storage components within a microgid
+    US11312264B2,2022-04-26,ESS charging and discharging operation method
+    US20130187466A1,2013-07-25,Power management system
+    CN106364354B,2019-06-28,A kind of automobile charge control system and automobile charge control method
+    US11791501B2,2023-10-17,Direct current power supplying system
+    CN104157918A,2014-11-19,Method and device for performing redundant reassembling on storage batteries
+    KR20140051881A,2014-05-02,Apparatus for battery management using battery&#39;s state of health and method thereof
+    CN108110862A,2018-06-01,The charge-discharge control system of echelon lithium battery in communication base station
+    US9148025B2,2015-09-29,System and method for a rechargeable battery
+    KR102061308B1,2019-12-31,Control power supplying apparatus and method for battery management and energy stock system using the same
+    CN105556785B,2018-05-11,Battery system
+    US20190280494A1,2019-09-12,Method and system for managing electrochemical batteries of a power supply facility in case of battery failure
+    WO2018003581A1,2018-01-04,Power storage system
+    KR101811125B1,2017-12-20,A method of controlling an Energy Storage system with Peak-Cut Mode operation, and an apparatus thereof
+    US11418051B2,2022-08-16,Direct current power supplying system
+    EP3718815A1,2020-10-07,Electric power management system
+    CN116381526A,2023-07-04,Battery cluster grid-connected fault detection method and multi-battery cluster parallel energy storage system
+    WO2022193165A1,2022-09-22,Energy storage system, and power supply method for battery management system
+    KR20190093034A,2019-08-08,ESS Output Distribution Method and Apparatus thereof
+    JP5517986B2,2014-06-11,Battery system
+    CN210867226U,2020-06-26,Charging station
+    CN110854954A,2020-02-28,Intelligent scheduling system and scheduling method for battery cluster of energy storage system
+    CN209159468U,2019-07-26,A kind of energy storage battery BMS system of quick response
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    12
+classfication_items
+68
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,4,7
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,4,7
+    H,0,2,J,7,/,0,0,4,8
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,6
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,3,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2019-07-10,Application filed by Hyosung Heavy Industries Corp
+    2020-08-24,Assigned to HYOSUNG HEAVY INDUSTRIES CORPORATION
+    2020-12-17,Publication of US20200391613A1
+    2022-04-26,Application granted
+    2022-04-26,Publication of US11312264B2
+    Status,Active
+    2039-07-10,Anticipated expiration
+
+active_area
+3
+    K,R
+    W,O
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    KR10-2018-0080805,2018-07-11,
+    KR1020180080805A,2018-07-11,Operation Method of ESS in Charging and Discharging
+    PCT/KR2019/008511,2019-07-10,Ess charging and discharging operation method
+
+legal_event
+9
+    Date,Code,Title,Description
+    2020-08-24,AS,Assignment,Owner name: HYOSUNG HEAVY INDUSTRIES CORPORATION, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:PARK, SANG HUI;LEE, SEO WOO;REEL/FRAME:053576/0158Effective date: 20200821
+    2020-08-24,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2020-09-24,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2021-10-13,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2021-12-15,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2022-01-05,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2022-03-30,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2022-04-06,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

@@ -1,0 +1,103 @@
+ID
+    JP2023077505A
+citation_exist
+    Patent Citations (2)
+citation_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP2012131273A                      *,2010-12-20,2012-07-12,Daimler Ag,ハイブリッド電気自動車の制御装置
+    JP7139740B2                      *,2018-07-12,2022-09-21,いすゞ自動車株式会社,車両の制御装置、及び車両
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    【課題】所定区間の終了地点まで電動車両に惰性走行を行わせることができるようにすること。【解決手段】制御装置は、自動速度制御の実施中に登坂路及び降坂路のうちの第１坂路を経た後に第２坂路を経る一連の区間である所定区間を電動車両が走行する場合、許可条件が成立すると、所定区間の終了地点まで電動車両に惰性走行を行わせるべくモータジェネレータを制御する。制御装置は、所定区間で電動車両に惰性走行させた場合に当該電動車両が第１坂路の終了地点に到達したときにおける走行速度の予測値Ａ１を導出する（ステップＳ１１０）。制御装置は、所定区間で電動車両に惰性走行させた場合に当該電動車両が第２坂路の終了地点に到達したときにおける走行速度の予測値Ａ２を導出する（ステップＳ１３０）。制御装置は、各予測値Ａ１，Ａ２と設定速度ＶＳとの関係を基に、許可条件が成立したか否かを判定する（ステップＳ１２０，Ｓ１４０）。【選択図】図２
+title
+    車両の走行制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    KR101964026B1,2019-03-29,제구동력 제어 방법 및 제구동력 제어 장치
+    CN108349399B,2021-03-19,制动驱动力控制方法以及制动驱动力控制装置
+    US11021153B2,2021-06-01,Control apparatus of electric vehicle
+    KR101588789B1,2016-01-26,구동 모터를 구비한 차량의 크립 토크 제어 방법 및 장치
+    US20110046835A1,2011-02-24,Vehicle travel control system
+    JP2005253126A,2005-09-15,ハイブリッド車両の制動力制御装置および該制御装置を搭載した車両
+    KR101836250B1,2018-03-08,구동 모터를 구비한 차량의 dc 컨버터의 출력 전압을 제어하는 방법 및 장치
+    JP2002171603A,2002-06-14,ハイブリッド自動車の制御装置
+    KR102032214B1,2019-10-15,하이브리드 차량 내의 에너지 관리를 위한 방법
+    JP6640453B2,2020-02-05,車両の制御装置
+    JP2015059639A,2015-03-30,車両用制御装置
+    JP6646260B2,2020-02-14,車両の走行駆動装置
+    US10981455B2,2021-04-20,Electric vehicle
+    JP2017114312A,2017-06-29,ハイブリッド車両及びその制御方法
+    JP2011101515A,2011-05-19,車両の制動力制御装置
+    KR20200029788A,2020-03-19,전방의 주행환경정보를 이용한 친환경 차량의 감속 제어 방법
+    JP7149093B2,2022-10-06,車両電源システム
+    JP2013233051A,2013-11-14,燃料電池車両の回生制御装置
+    JP2008143483A,2008-06-26,ハイブリッド車両の制御装置
+    CN115122938A,2022-09-30,行驶控制装置、行驶控制方法以及非临时性存储介质
+    JP5803594B2,2015-11-04,出力特性制御方法
+    KR102539294B1,2023-06-02,하이브리드 차량의 타력주행시 회생제동의 제어 장치 및 그 방법
+    KR101876091B1,2018-07-06,회생 제동 모드 판단 시스템 및 방법
+    WO2023095725A1,2023-06-01,車両走行制御装置及び車両走行制御方法
+    JP2016088440A,2016-05-23,ハイブリッド駆動車両の出力制御装置
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    JP2021190791A,2021-11-25,2021-11-25,車両の走行制御装置
+    PCT/JP2022/042860,2021-11-25,2022-11-18,車両走行制御装置及び車両走行制御方法
+
+inventor_number
+    5
+classfication_nums
+    2
+classfication_items
+11
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+
+application_events
+5
+    2021-11-25,Application filed by Advics Co Ltd, Aisin Corp
+    2021-11-25,Priority to JP2021190791A
+    2022-11-18,Priority to PCT/JP2022/042860
+    2023-06-06,Publication of JP2023077505A
+    Status,Pending
+
+active_area
+1
+    J,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2021190791A,2021-11-25,車両の走行制御装置
+
+legal_event
+2
+    Date,Code,Title,Description
+    2022-11-16,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20221116
+

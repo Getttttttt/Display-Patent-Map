@@ -1,0 +1,183 @@
+ID
+    JP2022109066A
+citation_exist
+    Patent Citations (7)
+citation_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH04104502U                      *,1992-01-23,1992-09-09,,
+    JPH0674703A                      *,1992-08-24,1994-03-18,Monkichi Iwata,平勾配の長さを基準にした隅木の長さと水平線の長さを基準にした隅木の長さが勾配毎にわかる定規
+    JP2009098048A                      *,2007-10-18,2009-05-07,Works Matsushita:Kk,三角スケールの製造方法
+    Family To Family Citations,,,,
+    JP4251210B2                      *,2006-11-07,2009-04-08,トヨタ自動車株式会社,ハイブリッド車両の表示装置
+    US9718359B2                      *,2011-08-30,2017-08-01,Ford Global Technologies, Llc,Braking display system and method
+    JP2014076715A                      *,2012-10-10,2014-05-01,Mitsubishi Motors Corp,ブレーキランプ制御装置
+    JP6332180B2                      *,2015-07-15,2018-05-30,トヨタ自動車株式会社,車両の制御装置
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    【課題】制動灯の点灯状態により後続車の運転者に違和感を与えることを抑えることができる車両の制御装置を提供すること。【解決手段】回生トルクを出力可能な駆動モータ３と、車両１に発生している制動力を表示するメータ２と、アクセルペダルの操作量に応じて駆動モータ３の回生トルクによる制動力を決定し、車両１に発生している制動力に基づいて制動灯４の点灯または消灯を制御し、制動灯４の点灯状態を判別可能に車両１に発生している制動力をメータ２に表示させるＥＣＵ５と、を備える。【選択図】図１
+title
+    車両の制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP6690712B2,2020-04-28,トルク制御方法及びトルク制御装置
+    JPH0678416A,1994-03-18,電気自動車の疑似クリープ発生装置
+    CN108458098A,2018-08-28,一种汽车换挡控制方法、装置、控制器及汽车
+    JP4830927B2,2011-12-07,インバータ過熱警告装置付電動車両
+    JPH07298514A,1995-11-10,車両用交流発電機制御装置
+    JP6015511B2,2016-10-26,車両の走行制御装置
+    JP2022109066A,2022-07-27,車両の制御装置
+    JP6375976B2,2018-08-22,車載用電動機制御装置
+    JP3726876B2,2005-12-14,電気自動車の警報装置
+    WO2019116557A1,2019-06-20,運転支援方法及び運転支援装置
+    US11235739B2,2022-02-01,Control device, control method, and non-transitory computer-readable storage medium
+    JP2005117718A,2005-04-28,電動機駆動車両におけるトルク制御装置及びトルク制御方法
+    JPH10257603A,1998-09-25,電気自動車
+    WO2017169239A1,2017-10-05,回生エネルギー表示装置
+    JP2002101693A,2002-04-05,電動モータの制御装置
+    JP5760970B2,2015-08-12,自動車
+    JPH09135504A,1997-05-20,電気自動車のヒルホールド装置
+    JP6737855B2,2020-08-12,制御装置、制御方法及びプログラム
+    JP2012061917A,2012-03-29,車両の電源制御装置
+    JP7371413B2,2023-10-31,電動車両の運転支援装置
+    JP6355112B2,2018-07-11,車両用制御装置、および情報提供方法
+    JP2008154429A,2008-07-03,車両の制御装置、制御方法、その方法を実現するプログラムおよびそのプログラムを記録した記録媒体
+    JPH0958295A,1997-03-04,車両用トルクアシスト装置
+    US11529871B2,2022-12-20,Control device, control method, and non-transitory computer-readable storage medium
+    KR102167612B1,2020-10-20,전기구동장치의 토크지령 제어 방법
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    JP2021004395A,2021-01-14,2021-01-14,車両の制御装置
+    EP21218296.8A,2021-01-14,2021-12-30,Control device for vehicle
+
+inventor_number
+    4
+classfication_nums
+    15
+classfication_items
+88
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,3,5,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,Q
+    B,6,0,Q,1,/,0,0
+    B,6,0,Q,1,/,2,6
+    B,6,0,Q,1,/,4,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,5
+    B,6,0,T,1,3,/,5,8,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,7,/,0,0
+    B,6,0,T,1,7,/,1,8
+    B,6,0,T,1,7,/,2,2
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,1,/,0,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,2,3,7,0,/,0,0
+    B,6,0,K,2,3,7,0,/,1,6
+    B,6,0,K,2,3,7,0,/,1,6,7
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,2,3,7,0,/,0,0
+    B,6,0,K,2,3,7,0,/,1,6
+    B,6,0,K,2,3,7,0,/,1,7,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,2,3,7,0,/,0,0
+    B,6,0,K,2,3,7,0,/,7,0
+    B,6,0,K,2,3,7,0,/,7,7
+    B,6,0,K,2,3,7,0,/,7,9,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B,6,0,L,2,2,5,0,/,2,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+
+application_events
+5
+    2021-01-14,Application filed by Suzuki Motor Corp
+    2021-01-14,Priority to JP2021004395A
+    2021-12-30,Priority to EP21218296.8A
+    2022-07-27,Publication of JP2022109066A
+    Status,Pending
+
+active_area
+2
+    J,P
+    E,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2021004395A,2021-01-14,車両の制御装置
+
+legal_event
+    NoExist

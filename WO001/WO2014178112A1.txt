@@ -1,0 +1,203 @@
+ID
+    WO2014178112A1
+citation_exist
+    Patent Citations (18)
+citation_infor
+20
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2007056722A                      *,2005-08-23,2007-03-08,Toyota Motor Corp,内燃機関冷却装置の故障検出システム
+    JP2008215183A                      *,2007-03-05,2008-09-18,Hitachi Ltd,内燃機関の冷却系故障診断装置
+    JP2009180103A                      *,2008-01-29,2009-08-13,Toyota Motor Corp,冷却液循環装置
+    JP2011102545A,2009-11-10,2011-05-26,Aisin Seiki Co Ltd,内燃機関冷却システム及び内燃機関冷却システムにおける故障判定方法
+    JP4883225B2,2009-10-05,2012-02-22,トヨタ自動車株式会社,車両の冷却装置
+    Family To Family Citations,,,,
+    US2408269A,1942-09-01,1946-09-24,Vapor Car Heating Co Inc,Thermostatic controller for water temperature
+    EP0010350B1                      *,1978-09-22,1982-01-06,Western Thomson Controls Ltd,Thermostatically controlled valve, method of making same and apparatus for performing the method
+    US4347973A                      *,1981-01-21,1982-09-07,Robertshaw Controls Company,Internal combustion engine coolant system, thermostat therefor and methods of making the same
+    CN2065674U                      *,1989-08-15,1990-11-14,吴新明,节能发动机水泵
+    US6321697B1                      *,1999-06-07,2001-11-27,Mitsubishi Heavy Industries, Ltd.,Cooling apparatus for vehicular engine
+    DE19948249A1                      *,1999-10-07,2001-04-26,Bayerische Motoren Werke Ag,Kühlsystem für eine Brennkraftmaschine in Kraftfahrzeugen
+    CN1265985A                      *,2000-04-25,2000-09-13,杜娟,水冷式内燃发动机冷却系的改进
+    JP2001349245A                      *,2000-06-07,2001-12-21,Honda Motor Co Ltd,内燃機関の冷却系故障検知装置
+    JP2004232519A,2003-01-29,2004-08-19,Toyota Motor Corp,サーモスタットの診断装置
+    US7490581B2                      *,2006-06-20,2009-02-17,Joseph Fishman,Flow control thermostat for internal combustion engines and method of use of same
+    DE102007036258B4                      *,2007-08-02,2019-01-03,Robert Bosch Gmbh,Verfahren und Vorrichtung zum Betreiben einer Brennkraftmaschine
+    JP5136623B2                      *,2010-11-11,2013-02-06,トヨタ自動車株式会社,水温センサ異常判定装置
+    EP2993326B1                      *,2013-04-30,2018-02-28,Toyota Jidosha Kabushiki Kaisha,Cooling-water control device
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (5)
+              
+
+
+citedBy_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    EP2993326B1,2013-04-30,2018-02-28,Toyota Jidosha Kabushiki Kaisha,Cooling-water control device
+    JP6011495B2                      *,2013-09-09,2016-10-19,トヨタ自動車株式会社,冷却水制御装置
+    CN108293312B                      *,2015-12-03,2020-03-03,本田技研工业株式会社,冷却装置
+    KR102371717B1                      *,2017-08-17,2022-03-08,현대자동차주식회사,유량제어밸브
+    JP7377136B2                      *,2020-03-03,2023-11-09,本田技研工業株式会社,バッテリの温度管理システム
+
+abstract
+    冷却水制御装置（３０）は、内燃機関（２０）の内部を通過して冷却水を循環させる第１通路（１８１）と、内燃機関の内部を通過することなく冷却水を循環させる第２通路（１８２）と、開弁状態と閉弁状態との間で状態を切り替える切替弁（１３）と、冷却水を供給する供給機構（１６）とを備える冷却装置（１０）を制御するための冷却水制御装置であって、切替弁の状態を閉弁状態から開弁状態に切り替える指令が出力された後に、第１通路内の冷却水の第１水温（ｔｈｗ）と第２通路内の冷却水の第２水温（ｔｈｂ）との間の差分（ΔＴｓｅｎｓ）に基づいて、切替弁に故障が生じているか否かを判定する判定手段（３０）と、判定手段が切替弁に故障が生じているか否かを判定している間に内燃機関を停止する場合には、内燃機関を停止した後に所定流量の冷却水を供給するように供給機構を制御する制御手段（３０）とを備える。
+title
+    冷却水制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    EP3517335B1,2020-12-16,Electric vehicle
+    JP4631652B2,2011-02-16,冷却システムおよびその制御方法並びに自動車
+    US9739191B2,2017-08-22,Cooling water control apparatus
+    JP5910743B2,2016-04-27,内燃機関の冷却制御装置
+    JP6037000B2,2016-11-30,冷却水制御装置
+    JP5895548B2,2016-03-30,車両の冷却装置
+    JP2013095409A,2013-05-20,バッテリ暖機装置およびバッテリ暖機方法
+    JP2017114477A,2017-06-29,車両用冷却装置
+    JP6171655B2,2017-08-02,電動ポンプ制御装置
+    WO2022163056A1,2022-08-04,温調装置
+    JP2016098650A,2016-05-30,冷却システム制御装置
+    GB2509308A,2014-07-02,Heat transfer arrangement for heating battery
+    JP5929678B2,2016-06-08,ハイブリッド車の制御装置
+    JP2017087801A,2017-05-25,ハイブリッド自動車
+    JP2014196078A,2014-10-16,電動車両の冷却システム
+    JP2016107818A,2016-06-20,ハイブリッド車両の暖機装置
+    JP4052256B2,2008-02-27,温度調節装置
+    JP2015116872A,2015-06-25,ハイブリッド車両の暖機装置
+    JP2009040320A,2009-02-26,冷却システム
+    JP2016147577A,2016-08-18,車両用回転電機の冷却装置
+    JP2018170825A,2018-11-01,車両用冷却システム
+    JP3889396B2,2007-03-07,ハイブリッド車両の冷却装置
+    JP2016112933A,2016-06-23,車両用バッテリの暖機装置
+    JP2015105088A,2015-06-08,車両用制御装置の冷却装置
+    JP2005147028A,2005-06-09,ハイブリッド車の冷却装置及び冷却方法
+
+patent_application
+    NoExist
+patent_priority_application
+6
+    Application,Priority date,Filing date,Title
+    JP2015514713A,2013-04-30,2013-04-30,冷却水制御装置
+    US14/787,502,2013-04-30,2013-04-30,Cooling water control apparatus
+    EP13883372.8A,2013-04-30,2013-04-30,Cooling water control apparatus
+    CN201380076217.4A,2013-04-30,2013-04-30,冷却水控制装置
+    PCT/JP2013/062619,2013-04-30,2013-04-30,冷却水制御装置
+
+inventor_number
+    6
+classfication_nums
+    13
+classfication_items
+69
+    F
+    F,0,1
+    F,0,1,P
+    F,0,1,P,1,1,/,0,0
+    F,0,1,P,1,1,/,1,4
+    F
+    F,0,1
+    F,0,1,P
+    F,0,1,P,7,/,0,0
+    F,0,1,P,7,/,1,4
+    F
+    F,0,1
+    F,0,1,P
+    F,0,1,P,3,/,0,0
+    F,0,1,P,3,/,2,0
+    F
+    F,0,1
+    F,0,1,P
+    F,0,1,P,7,/,0,0
+    F,0,1,P,7,/,1,4
+    F,0,1,P,7,/,1,6
+    F,0,1,P,7,/,1,6,4
+    F
+    F,0,1
+    F,0,1,P
+    F,0,1,P,7,/,0,0
+    F,0,1,P,7,/,1,4
+    F,0,1,P,2,0,0,7,/,1,4,6
+    F
+    F,0,1
+    F,0,1,P
+    F,0,1,P,2,0,2,5,/,0,0
+    F,0,1,P,2,0,2,5,/,0,8
+    F,0,1,P,2,0,2,5,/,3,2
+    F
+    F,0,1
+    F,0,1,P
+    F,0,1,P,2,0,2,5,/,0,0
+    F,0,1,P,2,0,2,5,/,0,8
+    F,0,1,P,2,0,2,5,/,5,2
+    F
+    F,0,1
+    F,0,1,P
+    F,0,1,P,2,0,3,7,/,0,0
+    F,0,1,P,2,0,3,7,/,0,2
+    F
+    F,0,1
+    F,0,1,P
+    F,0,1,P,2,0,5,0,/,0,0
+    F,0,1,P,2,0,5,0,/,2,4
+    F
+    F,0,1
+    F,0,1,P
+    F,0,1,P,2,0,6,0,/,0,0
+    F
+    F,0,1
+    F,0,1,P
+    F,0,1,P,2,0,6,0,/,0,0
+    F,0,1,P,2,0,6,0,/,0,8
+    F
+    F,0,1
+    F,0,1,P
+    F,0,1,P,2,0,6,0,/,0,0
+    F,0,1,P,2,0,6,0,/,1,6
+    F
+    F,0,2
+    F,0,2,G
+    F,0,2,G,5,/,0,0
+    F,0,2,G,5,/,0,2
+
+application_events
+7
+    2013-04-30,Application filed by トヨタ自動車株式会社
+    2013-04-30,Priority to JP2015514713A
+    2013-04-30,Priority to US14/787,502
+    2013-04-30,Priority to EP13883372.8A
+    2013-04-30,Priority to CN201380076217.4A
+    2013-04-30,Priority to PCT/JP2013/062619
+    2014-11-06,Publication of WO2014178112A1
+
+active_area
+5
+    J,P
+    W,O
+    E,P
+    C,N
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2013/062619,2013-04-30,冷却水制御装置
+
+legal_event
+7
+    Date,Code,Title,Description
+    2013-04-30,WWE,Wipo information: entry into national phase,Ref document number: 201380076217.4Country of ref document: CN
+    2014-12-17,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 13883372Country of ref document: EPKind code of ref document: A1
+    2015-10-07,ENP,Entry into the national phase,Ref document number: 2015514713Country of ref document: JPKind code of ref document: A
+    2015-10-26,WWE,Wipo information: entry into national phase,Ref document number: 2013883372Country of ref document: EP
+    2015-10-28,WWE,Wipo information: entry into national phase,Ref document number: 14787502Country of ref document: US
+    2015-10-30,NENP,Non-entry into the national phase,Ref country code: DE
+

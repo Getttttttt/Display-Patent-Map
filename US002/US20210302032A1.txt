@@ -1,0 +1,162 @@
+ID
+    US20210302032A1
+citation_exist
+    Patent Citations (15)
+citation_infor
+17
+    Publication number,Priority date,Publication date,Assignee,Title
+    US6522948B1                      *,2000-08-14,2003-02-18,Flexi-Coil Ltd.,Agricultural product application tracking and control
+    US20070079769A1                      *,2005-10-05,2007-04-12,Lg Electronics Inc.,Heating and hot water supplying system using fuel cell
+    US20070295826A1                      *,2004-11-12,2007-12-27,Farrell Christopher C,System For Delivering Warmed Fluids
+    US20110139184A1                      *,2009-12-16,2011-06-16,Nagendra Srinivas Cherukupalli,Systems, Circuits, and Methods for an Intelligent Cleaning System for an Adaptive Solar Power System
+    US20150053150A1                      *,2012-02-29,2015-02-26,Jx Nippon Oil & Energy Corporation,Device and method for controlling cogeneration system
+    US9316402B2                      *,2010-08-17,2016-04-19,Lg Electronics Inc.,Heat pump
+    US20170102286A1                      *,2014-06-16,2017-04-13,Nec Corporation,Position determination device, leak detection system, position determination method, and computer-readable recording medium
+    US20180137696A1                      *,2016-11-11,2018-05-17,Fujitsu Limited,Computer-readable recording medium, loaded/unloaded state determination method, and loaded/unloaded state determination device
+    US20180229379A1                      *,2016-02-15,2018-08-16,Omron Corporation,Contact determination device, control device, contact determination system, contact determination method, and non-transitory computer-readable recording medium
+    US20190162477A1                      *,2017-11-24,2019-05-30,Yazaki Energy System Corporation,Heat exchanger and absorption refrigerator
+    US20190316811A1                      *,2016-12-27,2019-10-17,Yazaki Energy System Corporation,Solar energy utilization system
+    US20210148617A1                      *,2019-11-19,2021-05-20,Yazaki Energy System Corporation,Absorption chiller
+    US20210150641A1                      *,2019-11-19,2021-05-20,Yazaki Energy System Corporation,Thermal load calculation device
+    Family To Family Citations,,,,
+    JP4426860B2,2004-02-03,2010-03-03,東邦瓦斯株式会社,Cogeneration system operation control system
+    JP2021156491A                      *,2020-03-27,2021-10-07,矢崎エナジーシステム株式会社,Cogeneration system facility determination method, facility determination device, facility determination program and computer readable recording medium
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    US11703233B2                      *,2020-03-27,2023-07-18,Yazaki Energy System Corporation,Equipment determination method of cogeneration system, equipment determination device thereof, and computer readable recording medium thereof
+    Family To Family Citations,,,,
+
+abstract
+    An equipment determination method of a cogeneration system includes the steps of: calculating a total hot water supply load for each day over a predetermined period longer than a specific period based on each unit hot water supply load for hour according to hot water supply use by consumers; setting as a representative period a specific period on which the total hot water supply load becomes at least a low load among the calculated total hot water supply load for each day; determining a capacity of the cogeneration equipment based on the total hot water supply load on the set representative period; and determining a capacity of the plurality of hot water storage tanks based on an amount of hot water supply load exceeding the capacity of the determined cogeneration equipment among each unit hot water supply load for two or more divided periods including the set representative period.
+title
+    Equipment determination method of cogeneration system, equipment determination device thereof, and computer readable recording medium thereof
+similar_document
+26
+    Publication,Publication Date,Title
+    JP5999933B2,2016-09-28,Heat pump hot water supply system, control method thereof, and program
+    JP6280788B2,2018-02-14,Cogeneration system
+    US11703233B2,2023-07-18,Equipment determination method of cogeneration system, equipment determination device thereof, and computer readable recording medium thereof
+    KR101621168B1,2016-05-13,Hot water supply system
+    JP2008275182A,2008-11-13,Exhaust heat recovering system and auxiliary heat storage tank
+    JP4934009B2,2012-05-16,Heat source water supply system
+    RU2668861C2,2018-10-03,In-line heated solar thermal storage collector
+    JP2012159243A,2012-08-23,Heat accommodation control method
+    JP5828219B2,2015-12-02,Cogeneration system, waste heat utilization apparatus, cogeneration system control method, and heat pump hot water supply apparatus
+    JP2008202934A,2008-09-04,Hybrid hot water supply system
+    JP4528226B2,2010-08-18,Hybrid hot water supply system
+    JP2010007891A,2010-01-14,Heat pump storage type hot water supplying/heating device
+    JP5291402B2,2013-09-18,Hybrid hot water supply system
+    EP3901525A1,2021-10-27,Local energy distributing system, local heat extracting assembly and methods for controlling the same
+    JP6280787B2,2018-02-14,Cogeneration system
+    JP2012225543A,2012-11-15,Method for controlling heat accommodation
+    JP5745911B2,2015-07-08,Heat supply system
+    JP2010040349A,2010-02-18,Fuel cell cogeneration system, its control method, and control program
+    JP2015075321A,2015-04-20,Hot water storage type heat source device, and operational method therefor
+    JP4113512B2,2008-07-09,Hot water use system
+    JP4118707B2,2008-07-16,Water heater
+    JP2002295309A,2002-10-09,Method of operating heat/electricity utilizing system and heat/electricity utilizing system
+    JP5745883B2,2015-07-08,Heat supply system
+    RU2728800C2,2020-07-31,Method of controlling multivalent energy saving system
+    JP4727680B2,2011-07-20,Water heater
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    8
+classfication_items
+43
+    F
+    F,2,4
+    F,2,4,D
+    F,2,4,D,3,/,0,0
+    F,2,4,D,3,/,0,8
+    F
+    F,0,2
+    F,0,2,G
+    F,0,2,G,5,/,0,0
+    F,0,2,G,5,/,0,2
+    F
+    F,2,4
+    F,2,4,D
+    F,2,4,D,1,9,/,0,0
+    F,2,4,D,1,9,/,1,0
+    F,2,4,D,1,9,/,1,0,0,6
+    F,2,4,D,1,9,/,1,0,6,6
+    F,2,4,D,1,9,/,1,0,8,1
+    F
+    F,2,8
+    F,2,8,D
+    F,2,8,D,2,1,/,0,0
+    F,2,8,D,2,1,/,0,0,0,1
+    G
+    G,0,5
+    G,0,5,B
+    G,0,5,B,1,5,/,0,0
+    G,0,5,B,1,5,/,0,2
+    F
+    F,2,4
+    F,2,4,D
+    F,2,4,D,2,2,0,0,/,0,0
+    F,2,4,D,2,2,0,0,/,1,6
+    F
+    F,2,4
+    F,2,4,D
+    F,2,4,D,2,2,2,0,/,0,0
+    F,2,4,D,2,2,2,0,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,2,0,/,0,0
+    Y,0,2,E,2,0,/,1,4
+
+application_events
+8
+    2021-03-17,Application filed by Yazaki Energy System Corp
+    2021-03-17,Assigned to YAZAKI ENERGY SYSTEM CORPORATION
+    2021-09-30,Publication of US20210302032A1
+    2023-06-05,Assigned to YAZAKI ENERGY SYSTEM CORPORATION
+    2023-07-18,Application granted
+    2023-07-18,Publication of US11703233B2
+    Status,Active
+    2042-01-04,Adjusted expiration
+
+active_area
+2
+    J,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2020-056958,2020-03-27,
+    JP2020056958A,2020-03-27,Cogeneration system facility determination method, facility determination device, facility determination program and computer readable recording medium
+
+legal_event
+7
+    Date,Code,Title,Description
+    2021-03-17,AS,Assignment,Owner name: YAZAKI ENERGY SYSTEM CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:KUDO, TOMOHARU;INAGAKI, MOTOMI;YAMADA, YOHSUKE;SIGNING DATES FROM 20210301 TO 20210302;REEL/FRAME:055619/0715
+    2021-03-17,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2021-08-22,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2023-06-05,AS,Assignment,Owner name: YAZAKI ENERGY SYSTEM CORPORATION, JAPANFree format text: CHANGE OF ADDRESS;ASSIGNOR:YAZAKI ENERGY SYSTEM CORPORATION;REEL/FRAME:063845/0751Effective date: 20230331
+    2023-06-28,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2023-07-06,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

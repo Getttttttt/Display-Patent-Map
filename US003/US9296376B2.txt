@@ -1,0 +1,311 @@
+ID
+    US9296376B2
+citation_exist
+    Patent Citations (11)
+citation_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2001169405A,1999-12-09,2001-06-22,Toyota Motor Corp,Brake for vehicle
+    US6328390B1,1997-11-21,2001-12-11,Aisin Seiki Kabushiki Kaisha,Brake control system for a vehicle
+    US6598945B2,2000-09-27,2003-07-29,Toyota Jidosha Kabushiki Kaisha,Control apparatus and method of vehicle braking and driving force
+    JP2006188164A,2005-01-07,2006-07-20,Toyota Motor Corp,Vehicular integrated control system
+    JP2007308005A,2006-05-18,2007-11-29,Toyota Motor Corp,Vehicle, and its control method
+    JP2008044554A,2006-08-18,2008-02-28,Nissan Motor Co Ltd,Vehicular brake control device
+    US20090281704A1,2005-01-07,2009-11-12,Toyota Jidosha Kabushiki Kaisha,Vehicle integrated controller for integratively performing vehicle driving support control, driving force control, and braking force control
+    JP2010013036A,2008-07-07,2010-01-21,Nissan Motor Co Ltd,Electronic control hydraulic braking device
+    US20100036577A1,2007-03-29,2010-02-11,Shinya Kodama,Braking apparatus and method for controlling braking apparatus
+    US20100138123A1,2008-12-02,2010-06-03,Denso Corporation,Running control apparatus and running control program for the apparatus
+    US20100187901A1,2008-08-25,2010-07-29,Hitachi Automative Systems, Ltd.,Brake control apparatus and method for controlling the brake
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (17)
+              
+
+
+citedBy_infor
+19
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20180244249A1                      *,2017-02-24,2018-08-30,Hyundai Motor Company,Rear wheel regenerative braking control system for vehicle and method therefor
+    US20210179110A1                      *,2019-12-12,2021-06-17,Subaru Corporation,Vehicle control device
+    Family To Family Citations,,,,
+    DE102009056160B4                      *,2009-11-27,2021-12-09,Bayerische Motoren Werke Aktiengesellschaft,Method for controlling a drive unit of a motor vehicle
+    JP5516528B2                      *,2011-07-25,2014-06-11,株式会社アドヴィックス,Brake device for vehicle
+    US9707847B2                      *,2012-03-14,2017-07-18,Nissan Motor Co., Ltd.,Braking control device and control method
+    GB2508668A                      *,2012-12-10,2014-06-11,Jaguar Land Rover Ltd,Adaptive cruise control (ACC) means for a host vehicle having regenerative and non-regenerative braking means
+    US9352744B2                      *,2014-01-17,2016-05-31,Ford Global Technologies, Llc,Hybrid vehicle braking limit determination system and method
+    JP5990548B2                      *,2014-01-28,2016-09-14,株式会社アドヴィックス,Brake control device for vehicle
+    KR101536247B1                      *,2014-04-25,2015-07-13,현대모비스 주식회사,Brake device and brake method for vehicle
+    CN104149635A                      *,2014-08-19,2014-11-19,青岛盛嘉信息科技有限公司,Magnetic-resistance brake pad based on digital control
+    EP3307317B1                      *,2015-05-29,2019-09-04,Changiz Taghibiglou,Polypeptides to treat skin conditions associated with overproduction of sebum
+    JP6623960B2                      *,2016-02-26,2019-12-25,株式会社アドヴィックス,Vehicle braking system
+    JP6497346B2                      *,2016-03-30,2019-04-10,株式会社アドヴィックス,Brake control device for vehicle
+    CN114714923A,2016-12-29,2022-07-08,康明斯有限公司,Low-speed slow-moving electric drive vehicle
+    DE102017114556A1                      *,2017-06-29,2019-01-03,Ipgate Ag,Device for a hydraulic actuation system
+    JP7167810B2                      *,2019-03-28,2022-11-09,トヨタ自動車株式会社,brake system
+    CN112706737A                      *,2021-01-12,2021-04-27,精诚工科汽车系统有限公司,Brake control method and device and vehicle
+
+abstract
+    A vehicle brake system is provided with a hydraulic brake device, a regenerative brake device incorporating a generator motor, and a brake control device. The control device includes a section for calculating a driver target brake force for each wheel corresponding to a manipulation amount of a braking manipulation member, a section for enabling the brake control device itself to set compensation brake forces for respective wheels, a section for selecting a larger one of the driver target brake force and the compensation brake force for each wheel and for subtracting a base hydraulic brake force from the selected brake force to set differences for respective wheels as compensated target brake forces for the wheels, and a section for controlling the distribution of the compensated target brake force for each wheel to a controlled hydraulic brake force for each wheel and a regenerative brake force for each driving wheel.
+title
+    Vehicle brake system
+similar_document
+23
+    Publication,Publication Date,Title
+    US9296376B2,2016-03-29,Vehicle brake system
+    US8777336B2,2014-07-15,Brake apparatus for vehicle
+    US20050269875A1,2005-12-08,Vehicle brake device
+    JP5983871B2,2016-09-06,Brake device
+    US8042886B2,2011-10-25,Vehicle brake system
+    US7621603B2,2009-11-24,Vehicle brake control device
+    US7284803B2,2007-10-23,Vehicle brake control apparatus
+    US8469463B2,2013-06-25,Brake control apparatus and method for controlling the brake
+    US9233668B2,2016-01-12,Vehicle braking control device
+    CN102056779B,2015-07-01,Automotive braking device
+    US8985713B2,2015-03-24,Vehicle brake system
+    US9016808B2,2015-04-28,Vehicle brake device
+    US20110031804A1,2011-02-10,Braking system
+    US20120161505A1,2012-06-28,Brake control apparatus
+    JP5167954B2,2013-03-21,Brake control device for vehicle
+    US9376097B2,2016-06-28,Vehicle brake device and method of controlling the same
+    US9352655B2,2016-05-31,Brake device for vehicle and control method thereof
+    US20150158476A1,2015-06-11,Vehicle brake apparatus
+    JP2007276655A,2007-10-25,Vehicular brake control device
+    US11364890B2,2022-06-21,Braking device for vehicle
+    CN111065559B,2022-01-11,Vehicle brake device
+    JP4700403B2,2011-06-15,Electric vehicle braking device
+
+patent_application
+2
+    Application,Priority date,Filing date,Relation,Title
+    US13/241,017,2010-09-24,2011-09-22,Division,Vehicle brake system
+
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US14/091,864,2010-09-24,2013-11-27,Vehicle brake system
+
+inventor_number
+    4
+classfication_nums
+    32
+classfication_items
+177
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,5
+    B,6,0,T,1,3,/,5,8,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B,6,0,L,1,1,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,6,6
+    B,6,0,T,1,3,/,6,8
+    B,6,0,T,1,3,/,6,8,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,4
+    B,6,0,T,8,/,4,0
+    B,6,0,T,8,/,4,0,4
+    B,6,0,T,8,/,4,0,5,9
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,4
+    B,6,0,T,8,/,4,8
+    B,6,0,T,8,/,4,8,0,9
+    B,6,0,T,8,/,4,8,2,7
+    B,6,0,T,8,/,4,8,6,3
+    B,6,0,T,8,/,4,8,7,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B,6,0,W,1,0,/,1,8,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,8
+    B,6,0,W,2,7,1,0,/,1,8,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,4,0
+    B,6,0,W,2,7,2,0,/,4,0,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y,0,2,T,1,0,/,7,0,7,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,4,1
+    Y,0,2,T,1,0,/,7,2,7,5
+
+application_events
+8
+    2013-11-27,Application filed by Advics Co Ltd
+    2013-11-27,Priority to US14/091,864
+    2013-11-27,Assigned to ADVICS CO., LTD.
+    2014-05-29,Publication of US20140145499A1
+    2016-03-29,Application granted
+    2016-03-29,Publication of US9296376B2
+    Status,Active
+    2032-01-01,Adjusted expiration
+
+active_area
+1
+    U,S
+
+not_active_area
+2
+    J,P
+    U,S
+
+patent_application_claiming_priority
+5
+    Application,Filing date,Title
+    JP2010213201A,2010-09-24,Brake device for vehicle
+    JP2010-213201,2010-09-24,
+    US13/241,017,2011-09-22,Vehicle brake system
+    US14/091,864,2013-11-27,Vehicle brake system
+
+legal_event
+4
+    Date,Code,Title,Description
+    2013-11-27,AS,Assignment,Owner name: ADVICS CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:NISHIO, AKITAKA;MATSUURA, MASAHIRO;NAITO, MASAYUKI;REEL/FRAME:031685/0909Effective date: 20110917
+    2016-03-09,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2019-09-12,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

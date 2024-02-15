@@ -1,0 +1,345 @@
+ID
+    US9007028B2
+citation_exist
+    Patent Citations (16)
+citation_infor
+18
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH08182112A,1994-12-22,1996-07-12,Toyota Motor Corp,Power generation controller for hybrid electric vehicle
+    JPH10268946A,1997-03-24,1998-10-09,Toyota Motor Corp,Motive force output device and control method therefor
+    JPH11187577A,1997-10-13,1999-07-09,Toyota Motor Corp,Charge/discharge controller for secondary battery
+    JP2003219510A,1997-10-13,2003-07-31,Toyota Motor Corp,Charging and discharging controller for secondary cell
+    US20060022642A1,2004-07-30,2006-02-02,Ford Global Technologies, Llc,Closed loop control of battery power limits based on voltage
+    JP2006094691A,2004-08-25,2006-04-06,Toyota Motor Corp,Power output unit and automobile mounted with the same, and control method of power output unit
+    JP2006174567A,2004-12-14,2006-06-29,Toyota Motor Corp,Power output device, automobile mounted with the same, and control method of power output device
+    JP2006320069A,2005-05-11,2006-11-24,Toyota Motor Corp,Control device for secondary battery
+    JP2007252072A,2006-03-15,2007-09-27,Toyota Motor Corp,Power supply control device and power supply control method
+    JP2008260529A,2004-08-25,2008-10-30,Toyota Motor Corp,Power output device and automobile loaded with the same device and method for controlling power output device
+    JP2009110757A,2007-10-29,2009-05-21,Toyota Motor Corp,Fuel cell output control device
+    US7911077B2                      *,2006-07-31,2011-03-22,Toyota Jidosha Kabushiki Kaisha,Power supply system, vehicle provided with the same, temperature rise control method of power storage device, and computer-readable recording medium with program recorded thereon for causing computer to execute temperature rise control of power storage device
+    US8022674B2                      *,2007-07-10,2011-09-20,Toyota Motor Engineering & Manufacturing North America, Inc.,State of charge control method and systems for vehicles
+    US8405355B2                      *,2010-09-23,2013-03-26,GM Global Technology Operations LLC,Energy storage system energy capacity and capability monitor
+    Family To Family Citations,,,,
+    KR100460881B1                      *,2002-06-28,2004-12-09,현대자동차주식회사,System and method for controlling power conversion of fuel cell hybrid electric vehicle
+    JP4375458B2                      *,2007-08-01,2009-12-02,株式会社デンソー,Secondary battery charge state estimation device and charge control system
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (19)
+              
+
+
+citedBy_infor
+21
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20150229159A1                      *,2014-02-07,2015-08-13,Honda Motor Co., Ltd.,Battery charging apparatus for vehicle
+    US10056778B2,2015-01-29,2018-08-21,Man Truck & Bus Ag,Method and device for limiting the current in a temperature-dependent manner of an energy storage device for electrical energy
+    Family To Family Citations,,,,
+    JPH0829891B2                      *,1990-07-31,1996-03-27,富士通株式会社,Circulating seat storage box and storage method
+    JP5611336B2                      *,2010-05-25,2014-10-22,三菱電機株式会社,Power information management apparatus and power information management system
+    US9246345B2                      *,2010-07-28,2016-01-26,Panasonic Intellectual Property Management Co., Ltd.,Power supply system, controller of power supply system, method of operating power supply system, and method of controlling power supply system
+    JP5817556B2                      *,2012-01-25,2015-11-18,株式会社豊田自動織機,Charging system
+    US9434385B2                      *,2013-04-01,2016-09-06,Toyota Jidosha Kabushiki Kaisha,Charge control device, vehicle control device, vehicle, charge control method and vehicle control method
+    CN105794073B                      *,2013-11-13,2019-07-19,沃尔沃拉斯特瓦格纳公司,Charge-discharge system
+    EP3070808B1                      *,2013-11-13,2019-05-22,Volvo Lastvagnar Aktiebolag,Charge/discharge system
+    US9580067B2                      *,2013-11-29,2017-02-28,Sanyo Electric Co., Ltd.,Charging/discharging control system for electricity storage device
+    DE102014209249A1                      *,2014-05-15,2015-11-19,Ford Global Technologies, Llc,Electric charging method for a vehicle and an electric vehicle charging device
+    KR101587358B1                      *,2014-09-02,2016-02-02,엘에스산전 주식회사,A hybrid vehicle
+    JP2016127770A                      *,2015-01-08,2016-07-11,トヨタ自動車株式会社,Power supply device
+    EP3048450B1                      *,2015-01-22,2021-03-10,Volvo Car Corporation,System and method for determining battery usage limits
+    JP6471599B2,2015-04-22,2019-02-20,スズキ株式会社,Vehicle power generation control device
+    JP6907986B2                      *,2018-03-29,2021-07-21,株式会社オートネットワーク技術研究所,In-vehicle DCDC converter
+    JP7328033B2,2019-07-04,2023-08-16,日野自動車株式会社,Control device
+    JP2021035151A                      *,2019-08-23,2021-03-01,川崎重工業株式会社,Power control system and electrical power system
+    CN110696627A                      *,2019-10-11,2020-01-17,广州小鹏汽车科技有限公司,Feedback method and device for vehicle reach range, automobile and storage medium
+
+abstract
+    A control device controls charging/discharging of an electric power storage device for supplying electric power to a load device. The control device includes: a limit value setting unit setting a limit value of charging electric power for the electric power storage device based on the state of the electric power storage device; a target setting unit setting a target value of the charging electric power based on the state of the load device and the limit value; a correction unit correcting the limit value based on a difference between the target value and the actual electric power input to and output from the electric power storage device; and a command setting unit setting a command value of the charging electric power based on the state of the load device and the corrected limit value.
+title
+    Control device for electric power storage device and vehicle equipped with the same
+similar_document
+26
+    Publication,Publication Date,Title
+    US9007028B2,2015-04-14,Control device for electric power storage device and vehicle equipped with the same
+    US8639413B2,2014-01-28,Vehicle power supply system and method for controlling the same
+    CN106004473B,2018-08-28,Electric vehicle and its control method
+    US8368354B2,2013-02-05,Charge control device for vehicle and electric powered vehicle provided with same
+    US8742718B2,2014-06-03,Charging apparatus for vehicle
+    US9013138B2,2015-04-21,Charging apparatus for electric storage device, vehicle equipped with the charging apparatus, and method of controlling the charging apparatus
+    US10024945B2,2018-07-17,Abnormality diagnosis apparatus that determines an abnormality of a power-supply voltage sensor
+    US9174638B2,2015-11-03,Control apparatus for hybrid vehicle
+    US20140125281A1,2014-05-08,Charging device for power storage device and vehicle mounted with the same
+    US8501360B2,2013-08-06,Fuel cell output control device
+    JP2012096712A,2012-05-24,Vehicle control apparatus
+    JP2011072067A,2011-04-07,Power supply system for vehicle and electric vehicle equipped with the same
+    US20140032027A1,2014-01-30,Vehicle and vehicle control method
+    CN105633437A,2016-06-01,Fuel cell system, fuel cell vehicle, and method of controlling fuel cell system
+    JP5477304B2,2014-04-23,Power supply system, vehicle equipped with the same, and control method of power supply system
+    JP6186248B2,2017-08-23,Inverter abnormality determination device
+    US20160311425A1,2016-10-27,Control Apparatus for Vehicle and Control Method for Vehicle
+    US10024925B2,2018-07-17,Control system for battery
+    JP5447170B2,2014-03-19,Storage device control device and vehicle equipped with the same
+    JP6610410B2,2019-11-27,Automobile
+    JP2016144366A,2016-08-08,Electric vehicle
+    JP7279631B2,2023-05-23,Vehicle running control system, vehicle and vehicle control method
+    JP7006311B2,2022-01-24,Electric vehicle and control method of electric vehicle
+    JP5310054B2,2013-10-09,Remaining capacity calculation device, vehicle equipped with the same, and remaining capacity calculation method
+    JP2019087423A,2019-06-06,Cell system
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    47
+classfication_items
+205
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,1,4
+    H,0,2,J,7,/,1,4,3,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B,6,0,L,1,1,/,0,0,5
+    B,6,0,L,1,1,/,1,4
+    B,6,0,L,1,1,/,1,8,5,9
+    B,6,0,L,1,1,/,1,8,6,2
+    B,6,0,L,1,1,/,1,8,6,8
+    B,6,0,L,1,1,/,1,8,8,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,2,9
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,2,9
+    H,0,2,J,7,/,0,0,3,0,2
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,2,9
+    H,0,2,J,7,/,0,0,3,0,6
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,2,9
+    H,0,2,J,7,/,0,0,3,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B,6,0,L,2,2,1,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,1,0
+    B,6,0,L,2,2,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,2,3,1,0,/,0,0
+    H,0,2,J,2,3,1,0,/,4,0
+    H,0,2,J,2,3,1,0,/,4,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,0,5
+    Y,0,2,T,1,0,/,7,0,2,2
+    Y,0,2,T,1,0,/,7,0,4,4
+    Y,0,2,T,1,0,/,7,0,6,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y,0,2,T,1,0,/,7,0,7,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,3,3
+    Y,0,2,T,1,0,/,7,2,4,1
+    Y,0,2,T,1,0,/,7,2,8,3
+    Y,0,2,T,9,0,/,3,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,4,0
+
+application_events
+7
+    2010-04-28,Application filed by Toyota Motor Corp
+    2012-09-11,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2013-02-21,Publication of US20130043844A1
+    2015-04-14,Application granted
+    2015-04-14,Publication of US9007028B2
+    Status,Active
+    2030-08-24,Adjusted expiration
+
+active_area
+5
+    J,P
+    C,N
+    U,S
+    D,E
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2010/057552,2010-04-28,Control device for electricity storage device and vehicle for mounting same
+
+legal_event
+6
+    Date,Code,Title,Description
+    2012-09-11,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:TASHIRO, HIROKI;REEL/FRAME:028983/0010Effective date: 20120823
+    2015-03-25,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2015-12-04,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2018-09-27,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+    2022-09-28,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+

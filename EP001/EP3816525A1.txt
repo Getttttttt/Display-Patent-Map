@@ -1,0 +1,189 @@
+ID
+    EP3816525A1
+citation_exist
+    Patent Citations (10)
+citation_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JPS606593B2,1978-07-06,1985-02-19,三菱電機株式会社,horn speaker
+    JP3551124B2                      *,2000-04-19,2004-08-04,ダイキン工業株式会社,Air conditioner
+    JP4656357B2                      *,2001-01-12,2011-03-23,ダイキン工業株式会社,Air conditioner
+    US7147168B1,2003-08-11,2006-12-12,Halton Company,Zone control of space conditioning system with varied uses
+    JP5542701B2                      *,2011-01-11,2014-07-09,株式会社竹中工務店,Low temperature regeneration desiccant air conditioner
+    JP5848578B2                      *,2011-10-25,2016-01-27,株式会社日立製作所,Outside air cooling system and data center
+    JP6006593B2                      *,2012-09-19,2016-10-12,アズビル株式会社,Air conditioning control system and air conditioning control method
+    JP6259997B2                      *,2013-11-26,2018-01-17,パナソニックＩｐマネジメント株式会社,Supply / exhaust ventilator
+    CN104834022A                      *,2014-02-10,2015-08-12,松下电器产业株式会社,Air quality displaying system and air quality regulating system
+    JP6305525B2                      *,2014-05-14,2018-04-04,三菱電機株式会社,Air conditioning system
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP7132526B2                      *,2020-09-18,2022-09-07,ダイキン工業株式会社,Selection method of additional ventilation device and air conditioner, and air conditioning ventilation system
+    CN112377990B                      *,2020-11-11,2023-11-07,青岛海信日立空调系统有限公司,Air conditioner and control method for purifying function of air conditioner
+    WO2023007696A1                      *,2021-07-30,2023-02-02,三菱電機株式会社,Ventilation and air conditioning system
+
+abstract
+    An air-conditioning control system includes an air-conditioning apparatus to supply an indoor room with supply air and a ventilator to replace return air flowing from the indoor room with outside air. The air-conditioning apparatus is connected in series with the ventilator such that the outside air flowing from the ventilator and the return air flowing from the indoor room are supplied to the air-conditioning apparatus. The air-conditioning control system further includes a return air (RA) branch damper to adjust a ratio of the return air supplied to the air-conditioning apparatus to the return air supplied to the ventilator, a specified offensive odor substance sensor to detect a concentration of a specified offensive odor substance, and a controller to operate the ventilator and control the RA branch damper such that a relationship of the return air = the supply air - the outside air is satisfied when the controller determines that the concentration of the specified offensive odor substance detected by the specified offensive odor substance sensor is less than or equal to a predetermined threshold and to suspend operation of the ventilator and control the RA branch damper such that all the return air is supplied to the air-conditioning apparatus when the controller determines that the concentration of the specified offensive odor substance detected by the specified offensive odor substance sensor is greater than the predetermined threshold.
+title
+    Air-conditioning control system
+similar_document
+26
+    Publication,Publication Date,Title
+    EP3816525A1,2021-05-05,Air-conditioning control system
+    JP3310118B2,2002-07-29,Humidification method and air conditioning system
+    EP3165845B1,2018-11-21,Ventilation device
+    EP3557152A1,2019-10-23,Heat-exchange-type ventilating device
+    KR101471494B1,2014-12-10,Apparatus and method for cooling sever room using outside air
+    CN111955382A,2020-11-20,Air conditioning system, control method, controller and air conditioning unit
+    JP6253459B2,2017-12-27,Ventilator for air conditioning
+    WO2020003446A1,2020-01-02,Air conditioning device
+    EP4027071A1,2022-07-13,Air conditioning system
+    WO2019026256A1,2019-02-07,Heat exchange ventilation device
+    JP2017101861A,2017-06-08,Air control system, air control method and air control device
+    CN104089341B,2016-08-17,Room conditioning
+    JP6822446B2,2021-01-27,Ventilator
+    CN108036436B,2020-08-04,Dehumidifying method for air conditioner
+    JP6618388B2,2019-12-11,Air conditioning system
+    JPH0650565A,1994-02-22,Air conditioner
+    JP2010091180A,2010-04-22,Method and system for controlling air conditioning
+    JP2021076342A,2021-05-20,Air conditioner
+    JP2020026888A,2020-02-20,Ventilation system
+    JP7041596B2,2022-03-24,Air conditioning system
+    WO2021039490A1,2021-03-04,Ventilator
+    JP6712763B2,2020-06-24,Air control system, air control method, and air control device
+    WO2022118599A1,2022-06-09,Device control system
+    EP3943825A1,2022-01-26,Air-conditioning system
+    JP2022042571A,2022-03-15,Air purification device
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    12
+classfication_items
+70
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,1,2,/,0,0
+    F,2,4,F,1,2,/,0,0,1
+    F,2,4,F,1,2,/,0,0,6
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,1,1,/,0,0
+    F,2,4,F,1,1,/,0,0,0,8
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,1,1,/,0,0
+    F,2,4,F,1,1,/,6,2
+    F,2,4,F,1,1,/,6,3
+    F,2,4,F,1,1,/,6,5
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,1,1,/,0,0
+    F,2,4,F,1,1,/,7,0
+    F,2,4,F,1,1,/,8,0
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,1,1,/,0,0
+    F,2,4,F,1,1,/,7,0
+    F,2,4,F,1,1,/,8,0
+    F,2,4,F,1,1,/,8,1
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,2,1,1,0,/,0,0
+    F,2,4,F,2,1,1,0,/,1,0
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,2,1,1,0,/,0,0
+    F,2,4,F,2,1,1,0,/,1,0
+    F,2,4,F,2,1,1,0,/,1,2
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,2,1,1,0,/,0,0
+    F,2,4,F,2,1,1,0,/,2,0
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,2,1,1,0,/,0,0
+    F,2,4,F,2,1,1,0,/,2,0
+    F,2,4,F,2,1,1,0,/,2,2
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,2,1,1,0,/,0,0
+    F,2,4,F,2,1,1,0,/,5,0
+    F,2,4,F,2,1,1,0,/,5,2
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,2,1,1,0,/,0,0
+    F,2,4,F,2,1,1,0,/,5,0
+    F,2,4,F,2,1,1,0,/,6,0
+    Y
+    Y,0,2
+    Y,0,2,B
+    Y,0,2,B,3,0,/,0,0
+    Y,0,2,B,3,0,/,5,6
+
+application_events
+4
+    2018-06-27,Application filed by Mitsubishi Electric Corp
+    2021-05-05,Publication of EP3816525A1
+    2021-10-13,Publication of EP3816525A4
+    Status,Pending
+
+active_area
+2
+    J,P
+    E,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2018/024368,2018-06-27,Air-conditioning control system
+
+legal_event
+15
+    Date,Code,Title,Description
+    2020-01-03,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE INTERNATIONAL PUBLICATION HAS BEEN MADE
+    2020-12-04,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE INTERNATIONAL PUBLICATION HAS BEEN MADE
+    2021-04-03,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2021-04-03,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+    2021-05-05,17P,Request for examination filed,Effective date: 20201106
+    2021-05-05,AK,Designated contracting states,Kind code of ref document: A1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2021-10-06,DAV,Request for validation of the european patent (deleted),
+    2021-10-06,DAX,Request for extension of the european patent (deleted),
+    2021-10-13,A4,Supplementary search report drawn up and despatched,Effective date: 20210915
+    2021-10-13,RIC1,Information provided on ipc code assigned before grant,Ipc: F24F 110/52        20180101ALN20210909BHEPIpc: F24F 110/20        20180101ALN20210909BHEPIpc: F24F 110/10        20180101ALN20210909BHEPIpc: F24F 110/50        20180101ALN20210909BHEPIpc: F24F  11/81        20180101ALI20210909BHEPIpc: F24F  11/80        20180101ALI20210909BHEPIpc: F24F  11/65        20180101ALI20210909BHEPIpc: F24F  11/00        20180101ALI20210909BHEPIpc: F24F  12/00        20060101ALI20210909BHEPIpc: F24F 110/60        20180101ALI20210909BHEPIpc: F24F 110/22        20180101ALI20210909BHEPIpc: F24F 110/12        20180101ALI20210909BHEPIpc: F24F  11/72        20180101ALI20210909BHEPIpc: F24F   7/08        20060101ALI20210909BHEPIpc: F24F   7/007       20060101AFI20210909BHEP
+    2023-09-18,GRAP,Despatch of communication of intention to grant a patent,Free format text: ORIGINAL CODE: EPIDOSNIGR1
+    2023-09-18,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: GRANT OF PATENT IS INTENDED
+    2023-10-04,RIC1,Information provided on ipc code assigned before grant,Ipc: F24F 110/52        20180101ALN20230829BHEPIpc: F24F 110/20        20180101ALN20230829BHEPIpc: F24F 110/10        20180101ALN20230829BHEPIpc: F24F 110/50        20180101ALN20230829BHEPIpc: F24F  11/81        20180101ALI20230829BHEPIpc: F24F  11/80        20180101ALI20230829BHEPIpc: F24F  11/65        20180101ALI20230829BHEPIpc: F24F  11/00        20180101ALI20230829BHEPIpc: F24F  12/00        20060101ALI20230829BHEPIpc: F24F 110/60        20180101ALI20230829BHEPIpc: F24F 110/22        20180101ALI20230829BHEPIpc: F24F 110/12        20180101ALI20230829BHEPIpc: F24F  11/72        20180101ALI20230829BHEPIpc: F24F   7/08        20060101ALI20230829BHEPIpc: F24F   7/007       20060101AFI20230829BHEP
+    2023-10-18,INTG,Intention to grant announced,Effective date: 20230919
+

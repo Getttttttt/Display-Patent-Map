@@ -1,0 +1,301 @@
+ID
+    US11285951B2
+citation_exist
+    Patent Citations (19)
+citation_infor
+21
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5967621A                      *,1996-05-15,1999-10-19,Honda Giken Kogyo Kabushiki Kaisha,Brake system for an electric vehicle
+    JP2007008238A,2005-06-28,2007-01-18,Toyota Motor Corp,Vehicle control apparatus
+    US20100250081A1                      *,2009-03-27,2010-09-30,Gm Global Technology Operations, Inc.,Method for operating a vehicle brake system
+    GB2498794A                      *,2012-01-30,2013-07-31,Jaguar Cars,Vehicle brake system having a friction braking system and a regenerative braking system and control means for corrosion removal from the friction brake
+    US20210086622A1                      *,2017-06-15,2021-03-25,Tsinghua University,Apparatus and method for controlling braking of electric automobile
+    Family To Family Citations,,,,
+    JP2006131122A,2004-11-05,2006-05-25,Toyota Motor Corp,Vehicle braking system
+    JP2006224768A,2005-02-16,2006-08-31,Toyota Motor Corp,Vehicular braking device including regenerative braking control for battery saturation
+    JP2007230255A                      *,2006-02-27,2007-09-13,Toyota Motor Corp,Vehicle controlling device
+    JP5267535B2                      *,2010-10-25,2013-08-21,日産自動車株式会社,Control device for electric vehicle
+    JP5808968B2                      *,2011-07-13,2015-11-10,日立オートモティブシステムズ株式会社,Vehicle control device
+    US8712616B2                      *,2012-04-26,2014-04-29,Ford Global Technologies, Llc,Regenerative braking control to mitigate powertrain oscillation
+    DE102012209522A1                      *,2012-06-06,2013-12-12,Robert Bosch Gmbh,Method for operating a recuperative braking system of a vehicle and control device for a recuperative braking system of a vehicle
+    JP5596756B2                      *,2012-08-29,2014-09-24,トヨタ自動車株式会社,Electric vehicle
+    RU2671429C2                      *,2013-07-29,2018-10-31,Ниссан Мотор Ко., Лтд.,Vehicle regenerative braking control device
+    JP6361916B2                      *,2014-07-11,2018-07-25,日立オートモティブシステムズ株式会社,Vehicle control apparatus and vehicle control method
+    JP2016088146A                      *,2014-10-30,2016-05-23,ダイハツ工業株式会社,Vehicular brake control device
+    JP6241616B2                      *,2014-12-04,2017-12-06,トヨタ自動車株式会社,Braking force control device for vehicle
+    KR101619700B1                      *,2015-04-02,2016-05-10,현대자동차주식회사,Control system and method for reducing rattle noise of brake caliper
+    JP6564411B2                      *,2017-03-16,2019-08-21,株式会社Ｓｕｂａｒｕ,Vehicle control device
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (6)
+              
+
+
+citedBy_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP7098216B2                      *,2019-12-13,2022-07-11,本田技研工業株式会社,Vehicle support devices, vehicles that can be driven automatically, vehicle support methods and programs
+    US20220055642A1                      *,2020-08-18,2022-02-24,Ford Global Technologies, Llc,System and method for off-road driving assistance for a vehicle
+    CN112644497B                      *,2020-12-31,2022-04-29,东风汽车集团有限公司,Brake chatter suppression method and device based on operation condition
+    CN114454861A                      *,2022-03-04,2022-05-10,东风汽车集团股份有限公司,Control system and control method capable of eliminating brake jitter
+    CN114407934B                      *,2022-03-08,2023-07-14,北京轻舟智航智能技术有限公司,Processing method for automatic driving longitudinal control based on speed mode state machine
+    JP2023132588A                      *,2022-03-11,2023-09-22,日野自動車株式会社,Brake effectiveness determination device
+
+abstract
+    A vehicle brake control apparatus includes a vibration detector configured to detect a predetermined vibration state in a frictional brake device, a power regeneration execution determination unit configured to determine, in a case where the predetermined vibration state is detected by the vibration detector, whether to permit execution of power regeneration by a power generating device or to limit the execution, a pressing force controller configured to change, in a case where the execution of the power regeneration is limited by the power regeneration execution determination unit, a pressing force of a friction material in the frictional brake device, and a driving force cooperative controller configured to adjust a driving force of a vehicle to suppress fluctuation in forward acceleration or backward acceleration of the vehicle associated with a change in the pressing force by the pressing force controller.
+title
+    Vehicle brake control apparatus
+similar_document
+26
+    Publication,Publication Date,Title
+    US11285951B2,2022-03-29,Vehicle brake control apparatus
+    CN105936278B,2021-02-02,Vehicle with a steering wheel
+    US8886375B2,2014-11-11,Control apparatus for electric vehicle
+    US6122588A,2000-09-19,Vehicle speed control with continuously variable braking torque
+    US8523297B2,2013-09-03,Brake control system for an electrically driven vehicle
+    US8798870B2,2014-08-05,Regeneration control device for vehicle
+    JP4581988B2,2010-11-17,Control device for hybrid vehicle
+    US9694806B2,2017-07-04,Power generation control device of hybrid vehicle
+    JP6011572B2,2016-10-19,Automobile
+    JP6350465B2,2018-07-04,Vehicle control device
+    US9296368B2,2016-03-29,Determining effective brake pedal position
+    JP2016028913A,2016-03-03,Vehicle pitching vibration control device
+    US10479361B2,2019-11-19,Apparatus and method for controlling braking of vehicle
+    US10029669B2,2018-07-24,Powertrain and method of coordinating chassis and propulsion system torque limits
+    CN109649389B,2020-06-26,Acceleration-adjustable self-adaptive cruise control system and control method
+    CN104260639A,2015-01-07,Device for automatically converting into emergency brake when driver mistakes accelerator for brake to step on
+    US9981554B2,2018-05-29,System and method for controlling braking of electric vehicle
+    JP6063352B2,2017-01-18,Vehicle control device
+    CN115003578A,2022-09-02,Cruise control system and method for controlling a powertrain
+    CN108349487B,2021-10-26,Hybrid vehicle and control method thereof
+    US20220111846A1,2022-04-14,Controller for vehicle, computer-readable medium storing control program for vehicle, and control method for vehicle
+    CN111605550A,2020-09-01,Ecological cruising: fuel-economy optimized cruise control
+    JP6300385B2,2018-03-28,Vehicle behavior control device
+    JP2014213629A,2014-11-17,Vehicle brake system
+    KR102514400B1,2023-03-29,Regenerative braking amount determine method for emergency braking of electric vehicles
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    6
+classfication_nums
+    28
+classfication_items
+172
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B,6,0,W,1,0,/,1,8,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B,6,0,W,1,0,/,1,9,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B,6,0,L,2,2,4,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,1,0
+    B,6,0,L,2,2,7,0,/,1,4
+    B,6,0,L,2,2,7,0,/,1,4,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,9,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B,6,0,W,2,5,2,0,/,1,0,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,1,8
+    B,6,0,Y,2,3,0,0,/,1,8,0,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,2,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2020-04-08,Application filed by Subaru Corp
+    2020-04-08,Assigned to Subaru Corporation
+    2020-12-24,Publication of US20200398846A1
+    2022-03-29,Application granted
+    2022-03-29,Publication of US11285951B2
+    Status,Active
+    2040-10-01,Adjusted expiration
+
+active_area
+3
+    J,P
+    C,N
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2019114272A,2019-06-20,Braking control device
+    JP2019-114272,2019-06-20,
+    JPJP2019-114272,2019-06-20,
+
+legal_event
+7
+    Date,Code,Title,Description
+    2020-04-08,AS,Assignment,Owner name: SUBARU CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:HORIGUCHI, HARUNOBU;ISHIZUKA, YUTA;NAKAUCHI, MAKOTO;AND OTHERS;SIGNING DATES FROM 20200212 TO 20200225;REEL/FRAME:052349/0493
+    2020-04-08,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2020-05-15,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2021-11-29,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2022-02-28,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2022-03-09,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

@@ -1,0 +1,164 @@
+ID
+    US20150107253A1
+citation_exist
+    Patent Citations (14)
+citation_infor
+16
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    FR2500536B1                      *,1981-02-20,1984-12-14,Bertin & Cie,
+    JP3660732B2,1995-12-19,2005-06-15,株式会社東芝,Steam turbine cooling system for uniaxial combined cycle power plant
+    JP2000345915A                      *,1999-06-07,2000-12-12,Nissan Motor Co Ltd,Power unit
+    JP2001116371A                      *,1999-10-20,2001-04-27,Daikin Ind Ltd,Air conditioner
+    JP2005016326A                      *,2003-06-23,2005-01-20,Denso Corp,Device for utilizing waste heat of heat generation body
+    JP2009000387A,2007-06-22,2009-01-08,Sega Corp,Game apparatus, game control method, game control program, and recording medium
+    US7950230B2,2007-09-14,2011-05-31,Denso Corporation,Waste heat recovery apparatus
+    JP4302759B2                      *,2007-09-14,2009-07-29,株式会社デンソー,Waste heat utilization equipment
+    JP2009097387A                      *,2007-10-15,2009-05-07,Denso Corp,Waste heat recovery apparatus
+    JP2009278723A                      *,2008-05-13,2009-11-26,Calsonic Kansei Corp,Engine vehicle equipped with rankine cycle circuit
+    JP2010150926A                      *,2008-12-23,2010-07-08,Mitsubishi Electric Corp,Scroll expander and refrigerating/air-conditioning device including the same
+    JP2011214480A                      *,2010-03-31,2011-10-27,Sanden Corp,Waste heat using device of internal combustion engine
+    JPWO2011161952A1,2010-06-23,2013-08-19,パナソニック株式会社,Refrigeration cycle equipment
+    JP2013181394A                      *,2012-02-29,2013-09-12,Daimler Ag,Waste heat recovery device of engine
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (6)
+              
+
+
+citedBy_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20150047351A1                      *,2011-09-30,2015-02-19,Takayuki Ishikawa,Waste heat utilization apparatus
+    US9988945B2,2014-05-15,2018-06-05,Sanden Holdings Corporation,Apparatus for utilizing heat wasted from engine
+    US20180223700A1                      *,2017-02-09,2018-08-09,Kabushiki Kaisha Kobe Seiko Sho (Kobe Steel, Ltd.),Thermal energy recovery device
+    Family To Family Citations,,,,
+    WO2014157299A1                      *,2013-03-28,2014-10-02,サンデン株式会社,Exhaust heat recovery device
+    FR3055149B1                      *,2016-08-18,2020-06-26,IFP Energies Nouvelles,CLOSED CIRCUIT OPERATING ACCORDING TO A RANKINE CYCLE WITH A DEVICE FOR EMERGENCY STOPPING OF THE CIRCUIT AND METHOD USING SUCH A CIRCUIT
+    CN112240224B                      *,2019-07-19,2023-08-15,艾默生环境优化技术(苏州)有限公司,Fluid circulation system, method of operating the same, computer readable medium, and controller
+
+abstract
+    An exhaust heat recovery device provided with a Rankine cycle, capable of preventing opportunities for actuating the Rankine cycle from being decreased and capable of efficiently operating the Rankine cycle. An exhaust heat recovery device 1 recovering and using exhaust heat of an engine 10 includes: a Rankine cycle 2 including a heater 22, an expander 23, a condenser 24, and a pump 25; a bypass flow passage 26 allowing the refrigerant to circulate while bypassing the expander 23; a bypass valve 27 opening and closing the bypass flow passage 26; and a control unit 4. When starting up the Rankine cycle 2, the control unit 4 executes start-up control of the Rankine cycle 2 in which the pump 25 is actuated with the bypass valve 27 open and then the bypass valve 27 is closed. Furthermore, the control unit 4 repeatedly executes the start-up control when the pressure difference between the high-pressure side and the low-pressure side of the Rankine cycle 2 after closing the bypass valve 27 does not reach the start-up completion determination value within a predetermined time.
+title
+    Exhaust Heat Recovery Device
+similar_document
+19
+    Publication,Publication Date,Title
+    US20150096297A1,2015-04-09,Exhaust Heat Recovery Device
+    US9518480B2,2016-12-13,Exhaust heat recovery device
+    US9957845B2,2018-05-01,Exhaust heat recovery device
+    US20090071156A1,2009-03-19,Waste heat recovery apparatus
+    JP6143755B2,2017-06-07,Engine waste heat utilization device
+    US9970329B2,2018-05-15,Exhaust heat recovery device
+    JP2010065587A,2010-03-25,Waste heat utilization apparatus
+    JP4588644B2,2010-12-01,Refrigeration equipment with waste heat utilization device
+    US9988945B2,2018-06-05,Apparatus for utilizing heat wasted from engine
+    US10138842B2,2018-11-27,Apparatus for utilizing heat wasted from engine
+    WO2014157299A1,2014-10-02,Exhaust heat recovery device
+    WO2014157298A1,2014-10-02,Exhaust heat recovery device
+    JP2018150873A,2018-09-27,Ranking cycle system and control method of ranking cycle system
+    JP7056253B2,2022-04-19,Rankine cycle system and control method of Rankine cycle system
+    JP6408249B2,2018-10-17,Engine waste heat utilization device
+    JP2014196866A,2014-10-16,Combined cycle device
+    JP2019157734A,2019-09-19,Rankine cycle system and control method of rankine cycle system
+    JP2015199392A,2015-11-12,Vehicle control device
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    8
+classfication_items
+44
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,1,3,/,0,0
+    F,0,1,K,1,3,/,0,2
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,2,3,/,0,0
+    F,0,1,K,2,3,/,0,2
+    F,0,1,K,2,3,/,0,6
+    F,0,1,K,2,3,/,0,6,5
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,2,3,/,0,0
+    F,0,1,K,2,3,/,0,2
+    F,0,1,K,2,3,/,0,6
+    F,0,1,K,2,3,/,1,0
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,2,7,/,0,0
+    F,0,1,K,2,7,/,0,2
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,7,/,0,0
+    F,0,1,K,7,/,1,6
+    F,0,1,K,7,/,3,0
+    F
+    F,0,2
+    F,0,2,G
+    F,0,2,G,5,/,0,0
+    F
+    F,0,2
+    F,0,2,G
+    F,0,2,G,2,2,6,0,/,0,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,1,0
+    Y,0,2,T,1,0,/,1,2
+
+application_events
+6
+    2013-05-02,Application filed by Sanden Holdings Corp
+    2015-04-23,Publication of US20150107253A1
+    2016-12-13,Application granted
+    2016-12-13,Publication of US9518480B2
+    Status,Active
+    2033-06-28,Adjusted expiration
+
+active_area
+5
+    J,P
+    D,E
+    C,N
+    W,O
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2012-107317,2012-05-09,
+    JP2012107317,2012-05-09,
+    PCT/JP2013/062787,2013-05-02,Exhaust heat recovery device
+
+legal_event
+9
+    Date,Code,Title,Description
+    2014-11-12,AS,Assignment,Owner name: SANDEN CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:HARAGUCHI, TOMONORI;WADA, HIROFUMI;REEL/FRAME:034151/0316Effective date: 20140926
+    2016-04-21,AS,Assignment,Owner name: SANDEN HOLDINGS CORPORATION, JAPANFree format text: CHANGE OF NAME;ASSIGNOR:SANDEN CORPORATION;REEL/FRAME:038489/0677Effective date: 20150402
+    2016-11-22,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2016-12-03,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2018-10-09,AS,Assignment,Owner name: SANDEN HOLDINGS CORPORATION, JAPANFree format text: CORRECTIVE ASSIGNMENT TO CORRECT THE PROPERTY NUMBERS PREVIOUSLY RECORDED AT REEL: 038489 FRAME: 0677. ASSIGNOR(S) HEREBY CONFIRMS THE ASSIGNMENT;ASSIGNOR:SANDEN CORPORATION;REEL/FRAME:047208/0635Effective date: 20150402
+    2020-04-27,AS,Assignment,Owner name: SANDEN HOLDINGS CORPORATION, JAPANFree format text: CORRECTIVE ASSIGNMENT TO CORRECT THE TYPOGRAPHICAL ERRORS IN PATENT NOS. 6129293, 7574813, 8238525, 8083454,  D545888, D467946, D573242, D487173, AND REMOVE 8750534 PREVIOUSLY RECORDED ON REEL 047208 FRAME 0635. ASSIGNOR(S) HEREBY CONFIRMS THE CHANGE OF NAME;ASSIGNOR:SANDEN CORPORATION;REEL/FRAME:053545/0524Effective date: 20150402
+    2020-06-03,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+    2022-08-22,AS,Assignment,Owner name: SANDEN CORPORATION, JAPANFree format text: CHANGE OF NAME;ASSIGNOR:SANDEN HOLDINGS CORPORATION;REEL/FRAME:061296/0529Effective date: 20220101
+

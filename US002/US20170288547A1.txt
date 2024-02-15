@@ -1,0 +1,184 @@
+ID
+    US20170288547A1
+citation_exist
+    Patent Citations (11)
+citation_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20160315479A1                      *,2015-04-21,2016-10-27,Toyota Jidosha Kabushiki Kaisha,Electric power conversion system
+    Family To Family Citations,,,,
+    JP3552087B2,1999-04-01,2004-08-11,富士電機ホールディングス株式会社,Electric vehicle power system
+    JP2011078193A                      *,2009-09-30,2011-04-14,Sharp Corp,Video display device
+    JP2011135673A,2009-12-24,2011-07-07,Panasonic Corp,Method for controlling power conversion apparatus
+    JP5832162B2,2011-06-29,2015-12-16,株式会社豊田中央研究所,Power system
+    US9727066B2,2011-07-05,2017-08-08,Toyota Jidosha Kabushiki Kaisha,Fuel cell system
+    JP5831029B2                      *,2011-08-08,2015-12-09,トヨタ自動車株式会社,Vehicle equipped with an electric motor
+    JP5780074B2                      *,2011-09-09,2015-09-16,ダイキン工業株式会社,Switching power supply circuit control device and heat pump unit
+    JP5780914B2                      *,2011-10-24,2015-09-16,株式会社豊田中央研究所,Power converter control device and control method
+    JP5862366B2                      *,2012-02-27,2016-02-16,日産自動車株式会社,Power converter
+    JP5841212B1                      *,2014-09-04,2016-01-13,トヨタ自動車株式会社,Power system
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    US9906133B2                      *,2014-09-04,2018-02-27,Toyota Jidosha Kabushiki Kaisha,Electric source control apparatus
+    US10566055B2                      *,2013-01-30,2020-02-18,Commissariat A L'energie Atomique Et Aux Energies Alternatives,Method for programming a bipolar resistive switching memory device
+    Family To Family Citations,,,,
+    JP6225942B2,2015-04-21,2017-11-08,トヨタ自動車株式会社,Power conversion system
+    JP6824342B1                      *,2019-08-26,2021-02-03,三菱電機株式会社,Power converter control device
+
+abstract
+    An electric source control apparatus has: a determining device for determining whether a converter operates in a first mode or a second mode, wherein the first mode prioritizes increase of efficiency of the electric power conversion than the second mode does and the second mode prioritizes suppression of increase of element temperature of the switching element than the first mode does; and a controlling device for controlling the converter so that (i) a switching pattern becomes a first pattern, if the converter operates in the first mode and (ii) the switching pattern becomes a second pattern, if the converter operates in the second mode, wherein the first pattern is capable of increasing the efficiency of the electric power conversion more than the second pattern is and the second pattern is capable of suppressing the increase of the element temperature more than the first pattern is.
+title
+    Electric source control apparatus
+similar_document
+26
+    Publication,Publication Date,Title
+    US9849789B2,2017-12-26,Power supply system
+    US9438115B2,2016-09-06,Power supply system
+    US10158286B2,2018-12-18,DC/DC converter
+    JP6185860B2,2017-08-23,Bidirectional converter
+    US9906133B2,2018-02-27,Electric source control apparatus
+    JP5958449B2,2016-08-02,Power conversion system
+    JP6102841B2,2017-03-29,Power system
+    JP2016208643A,2016-12-08,Power conversion system
+    CN104348354A,2015-02-11,Power conversion system and method of controlling power conversion system
+    US20160028229A1,2016-01-28,Power supply system
+    US9997990B2,2018-06-12,Conversion apparatus, equipment, and control method
+    JP2014030285A,2014-02-13,Electric power conversion system, charger having the same, and switching control method therefor
+    JP2016111886A,2016-06-20,Power supply system of vehicle
+    JP2015100171A,2015-05-28,Power conversion system
+    JP7209868B2,2023-01-20,DC/DC converter and power converter
+    US9906130B2,2018-02-27,Electrical source system
+    CN105829226B,2020-04-14,PWM strategy for regenerating multilevel drives
+    JP4937895B2,2012-05-23,Drive controller for buck-boost converter
+    US10069396B2,2018-09-04,Electrical power system
+    US10189370B2,2019-01-29,Electrical source control apparatus for converter switch temperature control
+    JP2016123193A,2016-07-07,Power supply system, vehicle and voltage control method
+    JP6821052B1,2021-01-27,DC / DC converter and power converter
+    JP2015192489A,2015-11-02,Power supply control apparatus
+    JP2016152657A,2016-08-22,Power conversion device
+    US20190100113A1,2019-04-04,Electric vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    6
+classfication_nums
+    12
+classfication_items
+66
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H,0,2,M,3,/,0,2
+    H,0,2,M,3,/,0,4
+    H,0,2,M,3,/,1,0
+    H,0,2,M,3,/,1,4,5
+    H,0,2,M,3,/,1,5,5
+    H,0,2,M,3,/,1,5,6
+    H,0,2,M,3,/,1,5,8
+    B,6,0,L,1,1,/,1,8,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,3,2
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,3,2
+    H,0,2,M,1,/,3,2,7
+    H,0,2,M,2,0,0,1,/,3,2,7
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,7,/,0,0
+    H,0,2,P,2,7,/,0,4
+    H,0,2,P,2,7,/,0,6
+    H,0,2,P,2,7,/,0,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+
+application_events
+7
+    2015-07-22,Application filed by Toyota Motor Corp
+    2017-03-02,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2017-10-05,Publication of US20170288547A1
+    2018-02-27,Application granted
+    2018-02-27,Publication of US9906133B2
+    Status,Active
+    2035-07-22,Anticipated expiration
+
+active_area
+5
+    J,P
+    D,E
+    U,S
+    C,N
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2014-180134,2014-09-04,
+    JP2014180134A,2014-09-04,Power system
+    PCT/JP2015/070826,2015-07-22,Power supply control device
+
+legal_event
+4
+    Date,Code,Title,Description
+    2017-03-02,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:TAKAMATSU, NAOYOSHI;OKAMURA, MASAKI;TOMURA, SHUJI;AND OTHERS;SIGNING DATES FROM 20161206 TO 20170104;REEL/FRAME:041443/0796
+    2018-02-07,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2021-08-11,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

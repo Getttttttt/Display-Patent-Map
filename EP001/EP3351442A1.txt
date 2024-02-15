@@ -1,0 +1,237 @@
+ID
+    EP3351442A1
+citation_exist
+    Patent Citations (20)
+citation_infor
+22
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JPH0879907A                      *,1994-09-01,1996-03-22,Mitsubishi Motors Corp,Regenerative brake controller for electric automobile
+    JP3685920B2                      *,1997-09-14,2005-08-24,本田技研工業株式会社,Electric motor controller for hybrid vehicles
+    JP3541646B2,1997-10-13,2004-07-14,トヨタ自動車株式会社,Braking force control device
+    CN2356887Y                      *,1998-04-17,2000-01-05,傅电明,Linkage brake for electrically-propelled vehicle
+    JP2007001403A                      *,2005-06-23,2007-01-11,Toyota Motor Corp,Hybrid car and control method therefor
+    JP4321668B2                      *,2006-02-28,2009-08-26,トヨタ自動車株式会社,Vehicle drive device
+    JP5458788B2                      *,2009-10-13,2014-04-02,アイシン精機株式会社,Power transmission device and control device for power transmission device
+    WO2013084682A1                      *,2011-12-09,2013-06-13,本田技研工業株式会社,Control device for motor vehicle and method for controlling same
+    JP5915208B2,2012-01-31,2016-05-11,日産自動車株式会社,Regenerative brake control device for electric vehicle
+    EP2823985B1,2012-03-07,2021-02-17,Nissan Motor Co., Ltd,Brake control device
+    US9707847B2                      *,2012-03-14,2017-07-18,Nissan Motor Co., Ltd.,Braking control device and control method
+    JP5596756B2                      *,2012-08-29,2014-09-24,トヨタ自動車株式会社,Electric vehicle
+    DE102013217579A1                      *,2013-09-04,2015-03-05,Robert Bosch Gmbh,Method for operating an electromechanical brake booster of a brake system, method for operating a recuperative brake system and control device for at least one electromechanical brake booster of a brake system
+    US9352744B2                      *,2014-01-17,2016-05-31,Ford Global Technologies, Llc,Hybrid vehicle braking limit determination system and method
+    JP6219186B2                      *,2014-01-31,2017-10-25,日立オートモティブシステムズ株式会社,Brake control device
+    JP6439322B2                      *,2014-08-27,2018-12-19,三菱自動車工業株式会社,Regenerative control device for hybrid vehicle
+    JP6649600B2                      *,2015-08-03,2020-02-19,三菱自動車工業株式会社,Regenerative control device for electric vehicles
+    JP6641846B2                      *,2015-09-30,2020-02-05,三菱自動車工業株式会社,Regenerative brake control device
+    US9994108B2                      *,2016-08-29,2018-06-12,Ford Global Technologies, Llc,Regenerative braking power distribution
+    KR102540917B1                      *,2016-12-15,2023-06-07,현대자동차주식회사,Method for controlling motor torque of electric vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    KR102406065B1                      *,2016-12-14,2022-06-08,현대자동차주식회사,Method for controlling energy regeneration of mild hybrid vehicle
+    CN113727892A                      *,2019-04-18,2021-11-30,大陆-特韦斯贸易合伙股份公司及两合公司,Method for operating a vehicle brake system and brake system
+    KR20210072863A                      *,2019-12-09,2021-06-18,현대자동차주식회사,Regenerative braking apparatus of hybrid electric commercial vehicle and method thereof
+
+abstract
+    Provided is a regenerative coordination brake control device that reduces the frequency of switching regenerative braking between a restricted state, in which regenerative braking is prohibited or suppressed, and a restriction removed state, in which the restriction on regenerative braking is removed. A regenerative coordination brake control device 91 includes a regeneration restriction condition determiner 92, which outputs a regeneration restriction signal S1 when determining that a restriction condition for prohibiting or suppressing regenerative braking is met, an acceleration operation detector 93, which outputs a regeneration restriction removal signal S2 when detecting an acceleration of the vehicle, and a regeneration restriction removal determiner 94, which determines whether a restriction on regenerative braking of the vehicle that is in the restricted state is to be continuously imposed or removed using the regeneration restriction removal signal S2 and the regeneration restriction signal S1. To determine whether regenerative braking in the restricted state of due to the regeneration restriction signal S1 is to be released from the restriction, the regeneration restriction removal determiner 94 determines that the restriction on regenerative braking is to be continuously imposed even without an output of the regeneration restriction signal S1, and the regeneration restriction removal determiner 94 determines that the restriction on regenerative braking is to be removed on condition that the regeneration restriction removal signal S2 is output.
+title
+    Regenerative brake control device
+similar_document
+26
+    Publication,Publication Date,Title
+    US8886375B2,2014-11-11,Control apparatus for electric vehicle
+    US8634987B2,2014-01-21,Control apparatus for electric vehicle
+    US10532743B2,2020-01-14,Method for controlling motor torque in electric vehicle
+    US9238412B2,2016-01-19,Normalizing deceleration of a vehicle having a regenerative braking system
+    KR101448755B1,2014-10-08,Method and system for controlling speed reduction while coasting of electric vehicle
+    CN107848424B,2020-10-27,Brake control device
+    US8892281B2,2014-11-18,Torque control system for suppressing vibration in an electric vehicle
+    US11498535B2,2022-11-15,Control apparatus for electric vehicle, control system for electric vehicle, and control method for electric vehicle
+    KR100520565B1,2005-10-11,Method and system for controlling regenerative braking of a four wheel drive electric vehicle
+    US9849786B2,2017-12-26,Vehicle system and method for adjusting deceleration rate
+    US20100049414A1,2010-02-25,Control apparatus for electric vehicle
+    EP2247479A1,2010-11-10,Control apparatus and method for controlling a hybrid vehicle
+    EP2418132A1,2012-02-15,Brake device for vehicle
+    EP3351442B1,2022-02-09,Regenerative brake control device
+    KR20140083398A,2014-07-04,Method of regenerative brake cooperation control
+    US9545849B2,2017-01-17,Vehicle system and method for adapting lift pedal regeneration
+    JP2013158200A,2013-08-15,Passive torque split four-wheel-drive vehicle
+    JP6788546B2,2020-11-25,Vehicle braking system
+    CN104553822A,2015-04-29,Electric-machines-drag torque compensation
+    JP2013141339A,2013-07-18,Regenerative controller
+    US20220402366A1,2022-12-22,Apparatus and method for performing regenerative braking by controlling disconnector of four-wheel drive vehicle
+    JP2017121146A,2017-07-06,Control device for vehicle
+    JP6775878B2,2020-10-28,Vehicle braking device
+    CN116133890A,2023-05-16,Control device for moving body
+    CN115402286A,2022-11-29,Brake control device for hybrid vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    6
+classfication_nums
+    12
+classfication_items
+67
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,1
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,2,0,/,0,0
+    B,6,0,T,2,2,2,0,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2016-09-13,Application filed by Mitsubishi Motors Corp
+    2018-07-25,Publication of EP3351442A1
+    2019-05-08,Publication of EP3351442A4
+    2022-02-09,Application granted
+    2022-02-09,Publication of EP3351442B1
+    Status,Active
+    2036-09-13,Anticipated expiration
+
+active_area
+5
+    E,P
+    U,S
+    C,N
+    W,O
+    J,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2015183172,2015-09-16,
+    PCT/JP2016/004153,2016-09-13,Regenerative brake control device
+
+legal_event
+49
+    Date,Code,Title,Description
+    2017-03-25,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE INTERNATIONAL PUBLICATION HAS BEEN MADE
+    2018-06-22,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2018-06-22,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+    2018-07-25,17P,Request for examination filed,Effective date: 20180329
+    2018-07-25,AK,Designated contracting states,Kind code of ref document: A1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2018-07-25,AX,Request for extension of the european patent,Extension  state: BA ME
+    2018-12-26,DAV,Request for validation of the european patent (deleted),
+    2018-12-26,DAX,Request for extension of the european patent (deleted),
+    2019-05-08,A4,Supplementary search report drawn up and despatched,Effective date: 20190404
+    2019-05-08,RIC1,Information provided on ipc code assigned before grant,Ipc: B60T   8/171       20060101ALI20190329BHEPIpc: B60L  15/20        20060101ALI20190329BHEPIpc: B60L   7/18        20060101ALI20190329BHEPIpc: B60T   8/172       20060101ALI20190329BHEPIpc: B60T   8/17        20060101AFI20190329BHEPIpc: B60L   7/24        20060101ALI20190329BHEP
+    2019-07-03,RAP1,Party data changed (applicant data changed or rights of an application transferred),Owner name: MITSUBISHI JIDOSHA KOGYO KABUSHIKI KAISHA
+    2020-11-13,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: EXAMINATION IS IN PROGRESS
+    2020-11-17,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: EXAMINATION IS IN PROGRESS
+    2020-12-16,17Q,First examination report despatched,Effective date: 20201116
+    2021-09-02,GRAP,Despatch of communication of intention to grant a patent,Free format text: ORIGINAL CODE: EPIDOSNIGR1
+    2021-09-02,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: GRANT OF PATENT IS INTENDED
+    2021-09-29,INTG,Intention to grant announced,Effective date: 20210903
+    2021-12-24,GRAS,Grant fee paid,Free format text: ORIGINAL CODE: EPIDOSNIGR3
+    2022-01-07,GRAA,(expected) grant,Free format text: ORIGINAL CODE: 0009210
+    2022-01-07,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE PATENT HAS BEEN GRANTED
+    2022-02-09,AK,Designated contracting states,Kind code of ref document: B1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2022-02-09,REG,Reference to a national code,Ref country code: GBRef legal event code: FG4D
+    2022-02-15,REG,Reference to a national code,Ref country code: CHRef legal event code: EPRef country code: ATRef legal event code: REFRef document number: 1467310Country of ref document: ATKind code of ref document: TEffective date: 20220215
+    2022-03-02,REG,Reference to a national code,Ref country code: IERef legal event code: FG4D
+    2022-03-03,REG,Reference to a national code,Ref country code: DERef legal event code: R096Ref document number: 602016069034Country of ref document: DE
+    2022-06-10,REG,Reference to a national code,Ref country code: LTRef legal event code: MG9D
+    2022-06-15,REG,Reference to a national code,Ref country code: NLRef legal event code: MPEffective date: 20220209
+    2022-07-15,REG,Reference to a national code,Ref country code: ATRef legal event code: MK05Ref document number: 1467310Country of ref document: ATKind code of ref document: TEffective date: 20220209
+    2022-07-29,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: SEFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220209Ref country code: RSFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220209Ref country code: PTFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220609Ref country code: NOFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220509Ref country code: NLFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220209Ref country code: LTFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220209Ref country code: HRFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220209Ref country code: ESFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220209Ref country code: BGFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220509
+    2022-08-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: PLFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220209Ref country code: LVFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220209Ref country code: GRFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220510Ref country code: FIFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220209Ref country code: ATFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220209
+    2022-09-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: ISFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220609
+    2022-10-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: SMFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220209Ref country code: SKFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220209Ref country code: ROFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220209Ref country code: EEFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220209Ref country code: DKFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220209Ref country code: CZFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220209
+    2022-10-31,PGFP,Annual fee paid to national office [announced via postgrant information from national office to epo],Ref country code: DEPayment date: 20220630Year of fee payment: 7
+    2022-11-10,REG,Reference to a national code,Ref country code: DERef legal event code: R097Ref document number: 602016069034Country of ref document: DE
+    2022-11-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: ALFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220209
+    2022-11-30,PGFP,Annual fee paid to national office [announced via postgrant information from national office to epo],Ref country code: FRPayment date: 20220908Year of fee payment: 7
+    2022-12-16,PLBE,No opposition filed within time limit,Free format text: ORIGINAL CODE: 0009261
+    2022-12-16,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: NO OPPOSITION FILED WITHIN TIME LIMIT
+    2023-01-18,26N,No opposition filed,Effective date: 20221110
+    2023-02-28,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: SIFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220209
+    2023-04-28,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: MCFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220209
+    2023-04-28,REG,Reference to a national code,Ref country code: CHRef legal event code: PL
+    2023-05-24,GBPC,Gb: european patent ceased through non-payment of renewal fee,Effective date: 20220913
+    2023-05-25,REG,Reference to a national code,Ref country code: BERef legal event code: MMEffective date: 20220930
+    2023-06-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: LUFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20220913
+    2023-07-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: LIFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20220930Ref country code: ITFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20220209Ref country code: IEFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20220913Ref country code: CHFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20220930
+    2023-09-29,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: BEFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20220930
+    2023-10-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: GBFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20220913
+

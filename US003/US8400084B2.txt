@@ -1,0 +1,187 @@
+ID
+    US8400084B2
+citation_exist
+    Patent Citations (24)
+citation_infor
+26
+    Publication number,Priority date,Publication date,Assignee,Title
+    US4733333A                      *,1985-09-30,1988-03-22,Koito Manufacturing Co., Ltd.,Cornering lamp system for vehicle
+    US4763347A                      *,1983-02-02,1988-08-09,General Electric Company,Control system, electronically commutated motor system, blower apparatus and methods
+    US4772840A                      *,1986-07-02,1988-09-20,Asulab, S.A.,Method and arrangement for controlling a stepping motor
+    US4959797A                      *,1987-12-11,1990-09-25,Tensor Development, Inc.,System for tightening threaded fastener assemblies
+    US5122719A                      *,1991-02-27,1992-06-16,Eastman Kodak Company,Method and apparatus for reducing recurrent fluctuations in motor torque
+    US5192902A                      *,1989-11-10,1993-03-09,Sanyo Electric Co., Ltd.,Velocity/phase controller for dc servo motor
+    US5198732A                      *,1991-08-22,1993-03-30,Mitsubishi Jukogyo Kabushiki Kaisha,Rotation control system for ultrasonic motor
+    US5227704A                      *,1974-06-24,1993-07-13,General Electric Company,Motor controls, refrigeration systems and methods of motor operation and control
+    US5257174A                      *,1990-02-28,1993-10-26,Sawafuji Electric Co., Ltd.,Engine-driven power generating system with over-current protection and stator teeth with grooves on a top surface
+    US5299277A                      *,1991-07-23,1994-03-29,Rohm Co., Ltd.,Flexible disk drive device
+    US5559375A                      *,1993-09-15,1996-09-24,Samsung Electronics Co., Ltd.,Power window control system of an automotive vehicle
+    US5563486A                      *,1993-12-24,1996-10-08,Nippondenso Co., Ltd.,Pulse motor driver
+    US5565762A                      *,1994-05-26,1996-10-15,Rohm Co., Ltd.,DC/DC converter and audio device incorporating the same
+    US5708337A                      *,1993-06-14,1998-01-13,Camco International, Inc.,Brushless permanent magnet motor for use in remote locations
+    US6700346B2                      *,2001-02-07,2004-03-02,Microtek International Inc.,Motor driving circuit with a motor failure detecting function
+    US20040178757A1                      *,2003-03-14,2004-09-16,Petersen Christian C.,Multiphase motors with single point sensing based commutation
+    US20050073279A1                      *,2003-10-01,2005-04-07,J.L. Behmer Corporation,Phase angle control for synchronous machine control
+    Family To Family Citations,,,,
+    CN1008496B                      *,1986-07-19,1990-06-20,合肥工业大学,Driving circuit used for the motor with switch style reluctance
+    JPH0622589A                      *,1992-06-29,1994-01-28,Secoh Giken Inc,Reluctance motor to be regeneratively braked
+    GB9419755D0                      *,1994-09-30,1994-11-16,Aisin Seiki,Switched reluctance motor
+    GB9915370D0                      *,1999-07-02,1999-09-01,Black & Decker Inc,Electrical machines
+    WO2007007413A1                      *,2005-07-14,2007-01-18,Takashi Umemori,Motor drive system
+    WO2007007833A1                      *,2005-07-14,2007-01-18,Takashi Umemori,Motor drive system
+    JP2008125195A,2006-11-09,2008-05-29,Toyota Motor Corp,Electric motor and hybrid vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (15)
+              
+
+
+citedBy_infor
+17
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20180102722A1                      *,2016-10-12,2018-04-12,Toyota Jidosha Kabushiki Kaisha,Control device for switched reluctance motor
+    US10075050B2,2013-09-16,2018-09-11,Charles Hampton Perry,Switched reluctance motor and switched reluctance apparatus for hybrid vehicles
+    Family To Family Citations,,,,
+    JP5238466B2                      *,2008-11-26,2013-07-17,株式会社Ｅｖモーター・システムズ,DC constant current power supply device and motor drive system using the same
+    US9272743B2                      *,2009-04-10,2016-03-01,The United States Of America As Represented By The Secretary Of The Navy,Spherical modular autonomous robotic traveler
+    JP2013135529A                      *,2011-12-26,2013-07-08,Aisin Seiki Co Ltd,Braking device for vehicle
+    JP2013135532A                      *,2011-12-26,2013-07-08,Aisin Seiki Co Ltd,Braking device for vehicle
+    JP5887918B2                      *,2011-12-26,2016-03-16,アイシン精機株式会社,Vehicle braking device
+    JP5857733B2                      *,2011-12-26,2016-02-10,アイシン精機株式会社,Vehicle braking device
+    US20130342040A1                      *,2012-06-21,2013-12-26,Ev Motor-Systems Co., Ltd.,Switched Reluctance Motor and Switched Reluctance Motor Drive System
+    US20130342039A1                      *,2012-06-21,2013-12-26,EV Motor-Systems Co., Ltd,Switched Reluctance Motor and Switched Reluctance Motor Drive System
+    JP5503794B1                      *,2012-11-27,2014-05-28,株式会社神戸製鋼所,Motor drive device and motor drive system
+    WO2015038197A1                      *,2013-09-16,2015-03-19,Charles Hampton Perry,Improved switched reluctance motor and switched reluctance apparatus for hybrid vehicles
+    JP2017225203A                      *,2014-10-31,2017-12-21,Ｋａｉｓｅｉモータ株式会社,Switched reluctance motor drive system
+    WO2019111684A1                      *,2017-12-07,2019-06-13,株式会社ミツバ,Motor control device
+    JP6881350B2                      *,2018-02-28,2021-06-02,トヨタ自動車株式会社,Switched reluctance motor controller
+
+abstract
+    Provided is a regenerative switched reluctance motor driving system which allows a motor to have a reduced size and weight and an increased efficiency as well as improved energy recovery efficiency at the time of regenerative braking without using a neodymium magnet. Based on an angular position of a rotor in the motor, a constant current flip-flop circuit 2 renders two current paths alternately conductive so as to allow a rectangular-wave current having a width of an electrical angle of 180° to alternately flow in two coils in the motor 3, and shifts the timing of rendering the two current paths alternately conductive, between when driving and when braking the motor 3, by a time during which the rotor is rotated by an angle corresponding to an electrical angle of 180°. When driving the motor, a DC constant current power supply unit 1 discharges a DC power supply, while when braking the motor, it receives an input current through a negative terminal of the DC power supply, and outputs a DC current to the constant current flip-flop circuit 2, and further outputs a DC current regenerated from the motor 3 through the constant current flip-flop circuit 2 to a positive terminal of, and thereby charges, the DC power supply.
+title
+    Regenerative switched reluctance motor driving system
+similar_document
+26
+    Publication,Publication Date,Title
+    US8400084B2,2013-03-19,Regenerative switched reluctance motor driving system
+    Sulaiman et al.,2011,A novel hybrid excitation flux switching synchronous machine for a high-speed hybrid electric vehicle applications
+    WO2009056879A1,2009-05-07,Permanent magnet reluctance machines
+    US20130342040A1,2013-12-26,Switched Reluctance Motor and Switched Reluctance Motor Drive System
+    CN110383639B,2021-06-08,Rotating electric machine system
+    JP2010081782A,2010-04-08,Switched reluctance motor
+    JP5543186B2,2014-07-09,Switched reluctance motor drive system
+    JP2008131684A,2008-06-05,Driving system of electric motor
+    JP2010193700A,2010-09-02,Switched reluctance motor apparatus
+    CN102594228B,2016-01-20,Multiphase permanent magnet brushless DC motor on electric airplane or electric ship
+    JP6202664B2,2017-09-27,Pole conversion permanent magnet type rotating electrical machine and drive system thereof
+    JP4107614B2,2008-06-25,Motor drive system
+    Yang et al.,2004,Design and control of axial-flux brushless dc wheel motors for electric vehicles-Part II: Optimal current waveforms and performance test
+    JP2011259571A,2011-12-22,Motor drive device
+    EP1923990A1,2008-05-21,Motor drive system
+    US20130342039A1,2013-12-26,Switched Reluctance Motor and Switched Reluctance Motor Drive System
+    CN2770217Y,2006-04-05,Permanent-magnet brushless DC machine
+    CN105207548A,2015-12-30,Electronic commutation series excited direct-current motor four-quadrant operation control device and method
+    US20140070750A1,2014-03-13,Hybrid Motor
+    WO2016067634A1,2016-05-06,Motor drive system using constant current control
+    JP5238466B2,2013-07-17,DC constant current power supply device and motor drive system using the same
+    TWI425762B,2014-02-01,Power generation control method
+    Yu et al.,2014,Research on the control strategy of switched reluctance generator system
+    CN103475116A,2013-12-25,Switched reluctance motor with phase change windings
+    CN113922614B,2022-09-30,Fifteen-phase stator hybrid permanent magnet axial flux permanent magnet motor
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    7
+classfication_items
+42
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,5,/,0,0
+    H,0,2,P,2,5,/,0,2
+    H,0,2,P,2,5,/,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    H
+    H,0,2
+    H,0,2,K
+    H,0,2,K,1,9,/,0,0
+    H,0,2,K,1,9,/,0,2
+    H,0,2,K,1,9,/,1,0
+    H,0,2,K,1,9,/,1,0,3
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,3,/,0,0
+    H,0,2,P,3,/,0,6
+    H,0,2,P,3,/,0,8
+    H,0,2,P,3,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,1,0
+    B,6,0,L,2,2,2,0,/,1,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+
+application_events
+8
+    ,First worldwide family litigation filed
+    2008-06-10,Application filed by EV Motor Systems Co Ltd
+    2011-02-25,Assigned to EV MOTOR-SYSTEMS CO., LTD.
+    2011-06-23,Publication of US20110148333A1
+    2013-03-19,Application granted
+    2013-03-19,Publication of US8400084B2
+    Status,Expired - Fee Related
+    2028-12-30,Adjusted expiration
+
+active_area
+1
+    W,O
+
+not_active_area
+6
+    U,S
+    B,R
+    J,P
+    K,R
+    E,P
+    C,N
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2008/060588,2008-06-10,Regenerative switched reluctance motor driving system
+
+legal_event
+6
+    Date,Code,Title,Description
+    2011-02-25,AS,Assignment,Owner name: EV MOTOR-SYSTEMS CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:UMEMORI, TAKASHI;TANAKA, MAKOTO;REEL/FRAME:025866/0328Effective date: 20101130
+    2016-10-28,REMI,Maintenance fee reminder mailed,
+    2017-03-19,LAPS,Lapse for failure to pay maintenance fees,
+    2017-04-17,STCH,Information on status: patent discontinuation,Free format text: PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362
+    2017-05-09,FP,Expired due to failure to pay maintenance fee,Effective date: 20170319
+

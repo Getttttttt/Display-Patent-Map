@@ -1,0 +1,136 @@
+ID
+    WO2019188544A1
+citation_exist
+    Patent Citations (2)
+citation_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH1132404A                      *,1997-06-24,1999-02-02,Nabco Ltd,電気自動車の走行制御装置
+    JP2002152903A                      *,1995-09-20,2002-05-24,Mitsubishi Motors Corp,電気式車両の回生制動制御装置
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    WO2023134605A1                      *,2022-01-14,2023-07-20,长城汽车股份有限公司,一种汽车自适应能量回收方法、装置及汽车
+    Family To Family Citations,,,,
+    CN112373315B                      *,2020-11-23,2022-04-22,安徽江淮汽车集团股份有限公司,能量回收方法、装置、设备及存储介质
+
+abstract
+    コースト走行時にモータージェネレーター３０によって回生発電を行うことで回生ブレーキ力を発生させる制御装置７０は、車両１が平坦路をコースト走行する際の回生ブレーキ力による減速を含む基準減速度を予め記憶している記憶部７２と、コースト走行時に車両１が減速している度合いを示す車両減速度を取得する減速度取得部７４２と、減速度取得部７４２が取得した車両減速度が、基準減速度よりも大きい場合には、モータージェネレーター３０の回生発電量を少なくさせる回生制御部７４４と、を備える。
+title
+    回生制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP5692243B2,2015-04-01,回生制御装置および回生制御方法並びにハイブリッド車両
+    EP1970240B1,2011-07-20,Engine start control system for hybrid vehicle
+    JP5247000B2,2013-07-24,車両のコースト減速制御装置
+    JP5521340B2,2014-06-11,ハイブリッド車両の制御装置
+    KR101588789B1,2016-01-26,구동 모터를 구비한 차량의 크립 토크 제어 방법 및 장치
+    JP5987570B2,2016-09-07,自動変速機の変速制御装置
+    CN103140400B,2015-11-25,车辆及控制方法
+    KR102542523B1,2023-06-12,브레이크 시스템 및 그 제어 방법
+    US8775004B2,2014-07-08,Vehicle, control method, and computer program
+    JP2006160238A,2006-06-22,車両およびその制御方法
+    JP5165812B2,2013-03-21,回生制御装置、ハイブリッド自動車および回生制御方法、並びにプログラム
+    JP6075355B2,2017-02-08,自動車
+    JP2007230384A,2007-09-13,ハイブリッド電気自動車の制御装置
+    JP2009143306A,2009-07-02,内燃機関装置およびその制御方法並びに動力出力装置
+    WO2019188544A1,2019-10-03,回生制御装置
+    JP2009214580A,2009-09-24,ハイブリッド車およびその制御方法
+    JP6060757B2,2017-01-18,車両の制御装置
+    JP2015189382A,2015-11-02,ハイブリッド自動車および回生制御方法
+    JP2012111464A,2012-06-14,ハイブリッド自動車
+    WO2015019789A1,2015-02-12,フライホイール回生システム及びその制御方法
+    JP3966214B2,2007-08-29,車両制御装置
+    JP5853800B2,2016-02-09,車両用電動発電装置
+    JP2007312463A,2007-11-29,車両およびその制御方法
+    KR102558573B1,2023-07-21,하이브리드 차량의 토크 제어 장치 및 이를 이용한 토크 제어 방법
+    JP7088035B2,2022-06-21,車両の制御装置
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    6
+classfication_nums
+    6
+classfication_items
+38
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B,6,0,W,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,5,0
+    B,6,0,K,6,/,5,4
+    B,6,0,K,6,/,5,4,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+2
+    2019-03-19,Application filed by いすゞ自動車株式会社
+    2019-10-03,Publication of WO2019188544A1
+
+active_area
+2
+    J,P
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2018058423A,2018-03-26,回生制御装置
+    JP2018-058423,2018-03-26,
+
+legal_event
+4
+    Date,Code,Title,Description
+    2019-11-13,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 19777391Country of ref document: EPKind code of ref document: A1
+    2020-09-29,NENP,Non-entry into the national phase,Ref country code: DE
+    2021-04-07,122,Ep: pct application non-entry in european phase,Ref document number: 19777391Country of ref document: EPKind code of ref document: A1
+

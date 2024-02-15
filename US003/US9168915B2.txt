@@ -1,0 +1,325 @@
+ID
+    US9168915B2
+citation_exist
+    Patent Citations (20)
+citation_infor
+22
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH09242579A,1996-03-06,1997-09-16,Toyota Motor Corp,Prime mover control device
+    US6053842A                      *,1998-03-31,2000-04-25,Nissan Motor Co., Ltd.,Drive system for hybrid drive vehicle
+    JP2004127747A,2002-10-03,2004-04-22,Toyota Motor Corp,Fuel cell mounted vehicle
+    WO2006053624A1,2004-11-16,2006-05-26,Volkswagen Aktiengesellschaft,Method for controlling an operation of a hybrid motor vehicle and hybrid vehicle
+    JP2007187090A,2006-01-13,2007-07-26,Toyota Motor Corp,Speed-maintaining control device
+    JP2009298232A,2008-06-11,2009-12-24,Toyota Motor Corp,Hybrid vehicle and control method thereof
+    JP2010006309A,2008-06-30,2010-01-14,Toyota Motor Corp,Control device for vehicle
+    JP2011011648A,2009-07-02,2011-01-20,Honda Motor Co Ltd,Control device of hybrid vehicle
+    US20110035135A1                      *,2009-08-05,2011-02-10,Gm Global Technology Operations, Inc.,Active coast and cruise control system and methods
+    JP2011046272A,2009-08-27,2011-03-10,Masahiro Watanabe,Vehicle traveling control method
+    US20110276216A1                      *,2010-05-07,2011-11-10,Texas Instruments Incorporated,Automotive cruise controls, circuits, systems and processes
+    US20120123624A1,2010-11-16,2012-05-17,Hitachi, Ltd.,Running Control Device for Electric Vehicle
+    Family To Family Citations,,,,
+    JP3377040B2                      *,1999-10-08,2003-02-17,トヨタ自動車株式会社,Hybrid vehicle control device
+    CN2522292Y                      *,2002-01-15,2002-11-27,汪章仁,Uphill/downhill automatic force-regulating device for electric bicycle
+    JP3612711B2                      *,2002-07-03,2005-01-19,トヨタ自動車株式会社,Automobile
+    DE10307462B4                      *,2003-02-21,2019-02-28,Robert Bosch Gmbh,Method for controlling the drive unit of a vehicle
+    JP2007331688A                      *,2006-06-19,2007-12-27,Mazda Motor Corp,Electric power generation control apparatus of hybrid vehicle
+    JP2010093947A                      *,2008-10-08,2010-04-22,Masahiro Watanabe,Vehicle running control method
+    JP5304350B2                      *,2009-03-12,2013-10-02,トヨタ自動車株式会社,Vehicle control device
+    DE202009015027U1                      *,2009-11-04,2010-02-18,Fischer Panda Gmbh,Device for controlling a vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (14)
+              
+
+
+citedBy_infor
+16
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20170043667A1                      *,2015-08-11,2017-02-16,Le Holdings (Beijing) Co., Ltd.,System and method for controlling a cycling equipment, and bicycle
+    US11065966B2                      *,2018-02-28,2021-07-20,Denso Corporation,Apparatus for controlling motorized vehicle
+    Family To Family Citations,,,,
+    JP5910140B2                      *,2012-02-10,2016-04-27,三菱自動車工業株式会社,Power generation control device
+    EP2885186B1                      *,2012-08-16,2019-05-01,Jaguar Land Rover Limited,System and method for controlling vehcile speed to enhance occupant comfort
+    JP2016142236A                      *,2015-02-05,2016-08-08,株式会社デンソー,Travel control device
+    US20160257295A1                      *,2015-03-06,2016-09-08,Ford Global Technologies, Llc,Systems and methods for adjusting kinetic energy in a hybrid vehicle before and during a change in road grade
+    JP6651379B2                      *,2016-02-23,2020-02-19,本田技研工業株式会社,Control device for internal combustion engine
+    WO2017210863A1                      *,2016-06-07,2017-12-14,冯旋宇,Power output management method and system for electric vehicle
+    CA3030812C                      *,2016-07-15,2023-01-24,Nissan Motor Co., Ltd.,Torque control method and torque control device
+    JP2018083574A,2016-11-25,2018-05-31,株式会社デンソー,Travel control device for vehicle
+    US10293808B2                      *,2017-03-03,2019-05-21,Toyota Motor Engineering & Manufacturing North America, Inc.,Constant power control
+    KR102322924B1                      *,2017-06-02,2021-11-08,현대자동차주식회사,Vehicle and method for controlling vehicle
+    CN112238754B                      *,2019-07-17,2022-06-10,北京新能源汽车股份有限公司,Control method and controller of electric automobile and electric automobile
+    CN112776611A                      *,2019-11-07,2021-05-11,纳恩博（常州）科技有限公司,Method of controlling vehicle, and medium
+
+abstract
+    A vehicle includes: a motor generator for generating driving power for traveling thereof; an ECU for controlling the motor generator; and an inclination detecting unit for detecting inclination of a road surface. The ECU performs power changing driving in which the vehicle is traveled while switching the motor generator between a first state (high output state) and a second state (low output state). In the first state (high output state), driving power of a first level is generated. In the second state (low output state), the driving power is made smaller than that in the first state. When it is recognized that the vehicle is traveling on an uphill road based on the inclination detected by the inclination detecting unit, ECU sets the driving power in the first state to be larger than that set when the vehicle is traveling on a flat road.
+title
+    Vehicle and method for controlling vehicle
+similar_document
+20
+    Publication,Publication Date,Title
+    US9168915B2,2015-10-27,Vehicle and method for controlling vehicle
+    US9114726B2,2015-08-25,Vehicle and method for controlling vehicle
+    EP2168828B1,2014-01-15,Hybrid vehicle and hybrid vehicle control method
+    US9376032B2,2016-06-28,Vehicle and control method for vehicle
+    US9219433B2,2015-12-22,Vehicle and method of controlling vehicle
+    US9868448B2,2018-01-16,Hybrid vehicle
+    JP2009143563A,2009-07-02,Hybrid vehicle
+    US9108526B2,2015-08-18,Hybrid vehicle
+    JP2006312352A,2006-11-16,Control device for driving system
+    US9199542B2,2015-12-01,Vehicle and method of controlling vehicle
+    JPWO2012101796A1,2014-06-30,Vehicle and vehicle control method
+    US9193278B2,2015-11-24,Vehicle and method of controlling vehicle
+    US20140214254A1,2014-07-31,Vehicle and method of controlling vehicle
+    US9162670B2,2015-10-20,Vehicle and method of controlling vehicle
+    US9302597B2,2016-04-05,Vehicle and method of controlling vehicle
+    US20140244092A1,2014-08-28,Vehicle and method of controlling vehicle
+    JP2015231757A,2015-12-24,Hybrid electric vehicle
+    CN112389409A,2021-02-23,Hybrid vehicle
+    JPWO2013061414A1,2015-04-02,Vehicle and vehicle control method
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    41
+classfication_items
+195
+    B,6,0,W,2,0,/,1,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,4
+    B,6,0,K,6,/,4,4,5
+    B,6,0,L,1,1,/,1,2,3
+    B,6,0,L,1,1,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B,6,0,L,2,2,4,0,/,6,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,4,2
+    B,6,0,W,2,5,5,0,/,1,4,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,2,/,0,0
+    B,6,0,W,2,5,5,2,/,1,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y,0,2,T,1,0,/,6,2,1,7
+    Y,0,2,T,1,0,/,6,2,3,9
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y,0,2,T,1,0,/,7,0,7,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,1,6
+    Y,0,2,T,1,0,/,7,2,4,1
+    Y,0,2,T,1,0,/,7,2,5,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+7
+    2011-11-04,Application filed by Toyota Motor Corp
+    2014-04-29,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2014-10-23,Publication of US20140316626A1
+    2015-10-27,Application granted
+    2015-10-27,Publication of US9168915B2
+    Status,Active
+    2031-11-12,Adjusted expiration
+
+active_area
+3
+    W,O
+    U,S
+    J,P
+
+not_active_area
+2
+    C,N
+    D,E
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2011/075406,2011-11-04,Vehicle and vehicle control method
+
+legal_event
+5
+    Date,Code,Title,Description
+    2014-04-29,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:AMANO, TAKASHI;REEL/FRAME:032779/0349Effective date: 20131203
+    2015-10-07,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2019-04-12,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+    2023-06-19,FEPP,Fee payment procedure,Free format text: MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+

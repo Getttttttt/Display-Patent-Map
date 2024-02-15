@@ -1,0 +1,249 @@
+ID
+    EP3144175A1
+citation_exist
+    Patent Citations (12)
+citation_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP3435975B2                      *,1996-04-10,2003-08-11,株式会社明電舎,Current control unit of rotating electric machine and control device using the same
+    WO2014084009A1                      *,2012-11-29,2014-06-05,富士電機株式会社,Electric motor control device
+    EP2747273A1                      *,2012-12-20,2014-06-25,Siemens Aktiengesellschaft,Method and arrangement for torque estimation of a synchronous machine
+    EP2747272A1                      *,2011-08-18,2014-06-25,Hitachi Construction Machinery Co., Ltd.,Motor control device and work machine using same
+    US20140375234A1                      *,2013-06-24,2014-12-25,Samsung Electronics Co., Ltd.,Methods and apparatuses for compensating for friction torques of permanent magnet synchronous motors
+    WO2015001849A1                      *,2013-07-05,2015-01-08,日立オートモティブシステムズ株式会社,Electric-vehicle braking control device
+    US20150149005A1                      *,2013-11-27,2015-05-28,Ford Global Technologies, Llc,Torque monitoring system and method
+    Family To Family Citations,,,,
+    JPH0355341B2                      *,1985-04-23,1991-08-23,,
+    DE4314448A1                      *,1993-05-03,1994-11-10,Teves Gmbh Alfred,Brake system for motor vehicles with electric drive
+    US20030193310A1                      *,2002-04-12,2003-10-16,Ford Motor Company,Diagnostic method for an electric motor using torque estimates
+    US8612074B2                      *,2010-05-07,2013-12-17,GM Global Technology Operations LLC,Regenerative braking control in vehicles
+    CN104554074B                      *,2013-10-25,2017-09-15,通用电气公司,Vehicle control system
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    The present invention relates to a method for controlling an electric vehicle (1), in particular a railway vehicle, having a three phase electric machine (7) for accelerating and/or decelerating the vehicle, the three phase electric machine includes a stator and a rotor, the method comprising the following steps: determining a current (I1) of a first phase of the three phase electric machine, determining a current (I2) of a second phase of the three phase electric machine, determining the angular position (p) of the rotor, and determining an estimated torque of the three phase electric machine based on the current of the first phase, the current of the second phase and the angular position of the rotor,controlling the electric vehicle based on the estimated torque..
+title
+    Method for controlling an electric vehicle, in particular a railway vehicle, control device for an electric vehicle, and railway vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    JP4455248B2,2010-04-21,Vector control device for induction motor
+    US9973128B2,2018-05-15,Control device
+    US9219432B2,2015-12-22,Control systems and methods for angle estimation of permanent magnet motors
+    CN106160619B,2018-01-19,Servocontrol device
+    JP2013510555A,2013-03-21,Method for validating torque of electric machine and machine controller for executing the method and controlling electric machine
+    KR101755831B1,2017-07-10,Control method of motor
+    WO2014115626A1,2014-07-31,Induction motor control device and induction motor control method
+    CN102510254A,2012-06-20,Initial alignment method of permanent magnetic synchronous motor rotor of pure electric vehicle
+    KR20160124855A,2016-10-28,Method for detecting a short circuit in a synchronous machine fitted with an angular position sensor
+    EP3985862A1,2022-04-20,Device and method for driving permanent magnet synchronous motor, and railway vehicle
+    JP4657892B2,2011-03-23,Rotor angle estimation device and rotor angle estimation method for DC brushless motor
+    EP3144175B1,2022-12-14,Method for controlling an electric vehicle, in particular a railway vehicle, control device for an electric vehicle, and railway vehicle
+    JP2012120320A,2012-06-21,Rotational sensorless control device
+    JP2018196172A,2018-12-06,Control method of permanent magnet synchronous motor for electric automobile and device thereof
+    JP6541092B2,2019-07-10,Control device of permanent magnet synchronous motor
+    EP3208138B1,2022-10-12,Method for estimating a torque of an asynchronous electric machine, a torque controller and an electric vehicle
+    JP2010035352A,2010-02-12,Device for estimating rotor position of synchronous electric motor
+    US8947032B2,2015-02-03,System and method for estimating the position of a wound rotor synchronous machine
+    CN114450885A,2022-05-06,AC rotating electric machine device
+    EP2822175A1,2015-01-07,Motor control device and control method therefor
+    JP2019068665A,2019-04-25,Rotational speed calculation device
+    JP5396754B2,2014-01-22,Output estimation device
+    KR101348338B1,2014-01-16,Apparatus for controlling antislip using load torque observer
+    JP5996485B2,2016-09-21,Motor drive control device
+    JP5106295B2,2012-12-26,Rotor position estimation device for synchronous motor
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    EP15306455.5A,2015-09-17,2015-09-17,Method for controlling an electric vehicle, in particular a railway vehicle, control device for an electric vehicle, and railway vehicle
+    ES15306455T,2015-09-17,2015-09-17,Method for controlling an electric vehicle, in particular a railway vehicle, control device for an electric vehicle, and railway vehicle
+
+inventor_number
+    5
+classfication_nums
+    18
+classfication_items
+100
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,3,/,0,0
+    H,0,2,P,2,3,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,2
+    B,6,0,L,1,5,/,0,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,3,/,0,0
+    H,0,2,P,2,3,/,2,0
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,3,/,0,0
+    H,0,2,P,3,/,0,2
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,3,/,0,0
+    H,0,2,P,3,/,0,6
+    H,0,2,P,3,/,0,8
+    H,0,2,P,3,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,3,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+8
+    2015-09-17,Application filed by Alstom Transport Technologies SAS
+    2015-09-17,Priority to EP15306455.5A
+    2015-09-17,Priority to ES15306455T
+    2017-03-22,Publication of EP3144175A1
+    2022-12-14,Application granted
+    2022-12-14,Publication of EP3144175B1
+    Status,Active
+    2035-09-17,Anticipated expiration
+
+active_area
+2
+    E,P
+    E,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    EP15306455.5A,2015-09-17,Method for controlling an electric vehicle, in particular a railway vehicle, control device for an electric vehicle, and railway vehicle
+
+legal_event
+45
+    Date,Code,Title,Description
+    2017-02-17,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2017-02-17,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE APPLICATION HAS BEEN PUBLISHED
+    2017-03-10,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+    2017-03-22,AK,Designated contracting states,Kind code of ref document: A1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2017-03-22,AX,Request for extension of the european patent,Extension  state: BA ME
+    2017-04-12,17P,Request for examination filed,Effective date: 20170307
+    2017-04-12,RBV,Designated contracting states (corrected),Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2020-10-16,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: EXAMINATION IS IN PROGRESS
+    2020-10-17,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: EXAMINATION IS IN PROGRESS
+    2020-11-18,17Q,First examination report despatched,Effective date: 20201016
+    2021-11-20,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: EXAMINATION IS IN PROGRESS
+    2022-04-06,GRAP,Despatch of communication of intention to grant a patent,Free format text: ORIGINAL CODE: EPIDOSNIGR1
+    2022-04-06,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: GRANT OF PATENT IS INTENDED
+    2022-05-04,INTG,Intention to grant announced,Effective date: 20220407
+    2022-06-14,GRAJ,Information related to disapproval of communication of intention to grant by the applicant or resumption of examination proceedings by the epo deleted,Free format text: ORIGINAL CODE: EPIDOSDIGR1
+    2022-06-14,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: EXAMINATION IS IN PROGRESS
+    2022-07-18,GRAP,Despatch of communication of intention to grant a patent,Free format text: ORIGINAL CODE: EPIDOSNIGR1
+    2022-07-18,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: GRANT OF PATENT IS INTENDED
+    2022-07-20,INTC,Intention to grant announced (deleted),
+    2022-08-17,INTG,Intention to grant announced,Effective date: 20220719
+    2022-11-02,GRAS,Grant fee paid,Free format text: ORIGINAL CODE: EPIDOSNIGR3
+    2022-11-11,GRAA,(expected) grant,Free format text: ORIGINAL CODE: 0009210
+    2022-11-11,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE PATENT HAS BEEN GRANTED
+    2022-12-14,AK,Designated contracting states,Kind code of ref document: B1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2022-12-14,REG,Reference to a national code,Ref country code: GBRef legal event code: FG4D
+    2022-12-15,REG,Reference to a national code,Ref country code: CHRef legal event code: EP
+    2022-12-22,REG,Reference to a national code,Ref country code: DERef legal event code: R096Ref document number: 602015081936Country of ref document: DE
+    2023-01-04,REG,Reference to a national code,Ref country code: IERef legal event code: FG4D
+    2023-01-15,REG,Reference to a national code,Ref country code: ATRef legal event code: REFRef document number: 1537480Country of ref document: ATKind code of ref document: TEffective date: 20230115
+    2023-04-11,REG,Reference to a national code,Ref country code: LTRef legal event code: MG9D
+    2023-04-18,REG,Reference to a national code,Ref country code: ESRef legal event code: FG2ARef document number: 2939008Country of ref document: ESKind code of ref document: T3Effective date: 20230418
+    2023-04-19,REG,Reference to a national code,Ref country code: NLRef legal event code: MPEffective date: 20221214
+    2023-04-28,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: SEFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20221214Ref country code: NOFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20230314Ref country code: LTFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20221214Ref country code: FIFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20221214
+    2023-05-15,REG,Reference to a national code,Ref country code: ATRef legal event code: MK05Ref document number: 1537480Country of ref document: ATKind code of ref document: TEffective date: 20221214
+    2023-05-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: RSFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20221214Ref country code: LVFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20221214Ref country code: HRFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20221214Ref country code: GRFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20230315
+    2023-06-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: NLFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20221214
+    2023-07-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: SMFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20221214Ref country code: ROFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20221214Ref country code: PTFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20230414Ref country code: EEFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20221214Ref country code: CZFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20221214Ref country code: ATFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20221214
+    2023-08-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: SKFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20221214Ref country code: PLFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20221214Ref country code: ISFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20230414Ref country code: ALFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20221214
+    2023-09-15,REG,Reference to a national code,Ref country code: DERef legal event code: R097Ref document number: 602015081936Country of ref document: DE
+    2023-09-27,P01,Opt-out of the competence of the unified patent court (upc) registered,Effective date: 20230823
+    2023-10-11,RAP2,Party data changed (patent owner data changed or rights of a patent transferred),Owner name: ALSTOM HOLDINGS
+    2023-10-20,PLBE,No opposition filed within time limit,Free format text: ORIGINAL CODE: 0009261
+    2023-10-20,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: NO OPPOSITION FILED WITHIN TIME LIMIT
+    2023-10-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: DKFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20221214
+

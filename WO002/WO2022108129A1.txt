@@ -1,0 +1,168 @@
+ID
+    WO2022108129A1
+citation_exist
+    Patent Citations (5)
+citation_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH09210428A                      *,1996-02-01,1997-08-12,Sharp Corp,空気調和機
+    US20100072291A1                      *,2006-11-10,2010-03-25,Daikin Industries, Ltd.,Air conditioner and indoor humidity control method
+    KR20100087193A                      *,2007-10-31,2010-08-03,다이킨 고교 가부시키가이샤,조습장치
+    JP2018162941A                      *,2017-03-27,2018-10-18,シャープ株式会社,加湿装置、およびその制御方法
+    JP2020085375A                      *,2018-11-28,2020-06-04,パナソニックＩｐマネジメント株式会社,換気装置
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    본 발명은, 환기장치 및 그 제어방법에 관한 것이다. 본 발명의 실시예에 따른 환기장치는, 실내에서 실외로 배출되는 공기가 유동하는 배기유로와, 실외에서 실내로 유입되는 공기가 유동하는 급기유로가 형성되는 하우징; 상기 실내에서 실외로 배출되는 공기와, 상기 실외에서 실내로 유입되는 공기를 열교환하는 열교환기; 상기 급기유로의 출구 측에 배치되고, 상기 실외에서 실내로 유입되는 공기에 수분을 공급하는 가습유닛; 실외기 및 실내기 중 적어도 하나와 통신을 수행하는 통신부; 및 제어부를 포함하고, 상기 제어부는, 상기 통신부를 통해 수신되는 데이터에 기초하여, 상기 가습유닛을 통해 공급하는 상기 수분의 양을 결정하고, 상기 결정된 수분의 양에 따라, 상기 가습유닛의 동작을 제어할 수 있다. 그 외에 다양한 실시예들이 가능하다.
+title
+    환기장치 및 그 제어방법
+similar_document
+26
+    Publication,Publication Date,Title
+    JP4360855B2,2009-11-11,空気調和システム
+    WO2012049897A1,2012-04-19,空調制御装置
+    JP2002317990A,2002-10-31,調湿換気装置
+    US9651282B2,2017-05-16,Refrigeration and air-conditioning apparatus and humidity control device
+    CA2155628A1,1997-02-09,Combined air exchange and air conditioning unit
+    JP2000220877A,2000-08-08,換気空調機
+    US20220090813A1,2022-03-24,Outside air treatment device and air conditioning system
+    JP2012088042A,2012-05-10,空調制御装置
+    WO2022108129A1,2022-05-27,환기장치 및 그 제어방법
+    US20230304679A1,2023-09-28,System and method for ventilating and dehumidifying a space
+    JP2003294274A,2003-10-15,恒温恒湿空調システム
+    WO2018221900A1,2018-12-06,이중의 흡기 루트를 구비하는 공조 시스템
+    CN210892241U,2020-06-30,空调系统
+    CN110736161B,2022-06-21,室外空气调节机
+    JP3081461B2,2000-08-28,空気熱源型空調システム
+    KR102493156B1,2023-01-27,공기 조화기 및 그 제어 방법
+    JPH11173623A,1999-07-02,住宅用換気システム装置
+    KR20220122032A,2022-09-02,공조 시스템
+    EP3978820B1,2023-08-09,Air conditioning system
+    WO2023276588A1,2023-01-05,空気調和システム
+    US11698203B2,2023-07-11,Air-conditioning system
+    US20230082958A1,2023-03-16,Air-conditioning system and air-conditioning system controller
+    JPH05196258A,1993-08-06,空気調和設備
+    HIGASHI et al.,2022,Experimental Investigation of Hybrid Air-Conditioning System with Desiccant-Coated Heat Exchanger Using CO2 Refrigerant
+    JP2953461B1,1999-09-27,調湿装置
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    7
+classfication_nums
+    14
+classfication_items
+78
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,1,2,/,0,0
+    F,2,4,F,1,2,/,0,0,1
+    F,2,4,F,1,2,/,0,0,6
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,1,/,0,0
+    F,2,4,F,1,/,0,0,0,7
+    F,2,4,F,1,/,0,0,3,5
+    F,2,4,F,1,/,0,0,3,8
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,1,/,0,0
+    F,2,4,F,1,/,0,0,0,7
+    F,2,4,F,1,/,0,0,8,7
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,1,1,/,0,0
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,1,1,/,0,0
+    F,2,4,F,1,1,/,0,0,0,8
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,1,1,/,0,0
+    F,2,4,F,1,1,/,5,0
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,1,1,/,0,0
+    F,2,4,F,1,1,/,6,2
+    F,2,4,F,1,1,/,6,3
+    F,2,4,F,1,1,/,6,4
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,1,2,/,0,0
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,1,3,/,0,0
+    F,2,4,F,1,3,/,2,0
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,1,3,/,0,0
+    F,2,4,F,1,3,/,3,0
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,3,/,0,0
+    F,2,4,F,3,/,1,2
+    F,2,4,F,3,/,1,4
+    F,2,4,F,3,/,1,5,3
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,7,/,0,0
+    F,2,4,F,7,/,0,4
+    F,2,4,F,7,/,0,6
+    F,2,4,F,7,/,0,8
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,2,1,1,0,/,0,0
+    F,2,4,F,2,1,1,0,/,1,0
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,2,1,1,0,/,0,0
+    F,2,4,F,2,1,1,0,/,2,0
+
+application_events
+2
+    2021-10-19,Application filed by 엘지전자 주식회사
+    2022-05-27,Publication of WO2022108129A1
+
+active_area
+1
+    K,R
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    KR10-2020-0154698,2020-11-18,
+    KR1020200154698A,2020-11-18,환기장치 및 그 제어방법
+
+legal_event
+3
+    Date,Code,Title,Description
+    2022-07-06,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 21894901Country of ref document: EPKind code of ref document: A1
+    2023-06-20,NENP,Non-entry into the national phase,Ref country code: DE
+

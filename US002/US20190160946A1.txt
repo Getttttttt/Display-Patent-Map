@@ -1,0 +1,187 @@
+ID
+    US20190160946A1
+citation_exist
+    Patent Citations (13)
+citation_infor
+15
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP2009042071A,2007-08-09,2009-02-26,Nissan Motor Co Ltd,Voltage sensor diagnosing device and battery pack controller
+    JP2010057284A,2008-08-28,2010-03-11,Nissan Motor Co Ltd,Vehicle power supply
+    JP5221468B2                      *,2009-02-27,2013-06-26,株式会社日立製作所,Battery monitoring device
+    EP2272722B1                      *,2009-07-01,2015-04-08,Denso Corporation,Power source apparatus for vehicle
+    DE102010062187A1                      *,2010-11-30,2012-05-31,Sb Limotive Company Ltd.,Method for determining the open circuit voltage of a battery, battery with a module for determining the open circuit voltage and a motor vehicle with a corresponding battery
+    WO2012164761A1                      *,2011-05-31,2012-12-06,日立ビークルエナジー株式会社,Battery system monitoring device
+    CN103283111B                      *,2011-09-14,2014-09-03,本田技研工业株式会社,Voltage monitoring circuit, and vehicle equipped with same
+    JP2013099167A                      *,2011-11-02,2013-05-20,Toyota Motor Corp,Control device and control method for vehicle mounted with electric storage system
+    JP2013235689A,2012-05-08,2013-11-21,Toyota Industries Corp,Current sensor abnormality detecting device and method
+    JP5790598B2                      *,2012-07-05,2015-10-07,株式会社デンソー,Battery control device
+    JP5970437B2                      *,2013-09-12,2016-08-17,日立オートモティブシステムズ株式会社,Rotating electric machine drive system for electric vehicle, battery system, and rotating electric machine control device
+    JP6569446B2                      *,2015-10-07,2019-09-04,三菱自動車工業株式会社,Battery control device
+    JP2017175871A,2016-03-25,2017-09-28,株式会社ケーヒン,Vehicle travel control device and vehicle travel device
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    An electrically driven vehicle comprises a battery configured by connecting a plurality of cells in series; and a motor configured to transmit electric power to and from the battery. When an abnormality occurs in a cell voltage detection system configured to detect cell voltages of the respective cells of the battery, the electrically driven vehicle prohibits regenerative control of the motor. The electrically driven vehicle determines whether the battery is being charged, based on an open circuit voltage of a block that is comprised of at least two or more cells among all the cells constituting the battery. The open circuit voltage of the block is calculated from a voltage of the block and a battery current flowing in the battery.
+title
+    Electrically driven vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US8368354B2,2013-02-05,Charge control device for vehicle and electric powered vehicle provided with same
+    US11435388B2,2022-09-06,Electric vehicle and control method for electric vehicle
+    US10608575B2,2020-03-31,Abnormality diagnosis apparatus
+    US10340834B2,2019-07-02,Drive system
+    JP5720620B2,2015-05-20,vehicle
+    US10348238B2,2019-07-09,Drive system
+    US10658965B2,2020-05-19,Motor vehicle
+    US11338683B2,2022-05-24,Electrically driven vehicle
+    JP2003032805A,2003-01-31,Controlling device and power outputting device, hybrid vehicle provided therewith, controlling device controlling method, and power outputting device controlling method
+    US20140062409A1,2014-03-06,Power supply system
+    US10926642B2,2021-02-23,Electric vehicle
+    JP6553556B2,2019-07-31,Automobile
+    US11046187B2,2021-06-29,Electrically driven vehicle
+    US10953753B2,2021-03-23,Electrified vehicle and control method for electrified vehicle
+    US10391863B2,2019-08-27,Electrically driven vehicle
+    US11279237B2,2022-03-22,Vehicle
+    JP2015107765A,2015-06-11,Vehicle failure determination device
+    US11260769B2,2022-03-01,Electrified vehicle
+    US20210197792A1,2021-07-01,Vehicle travel control system, vehicle, and vehicle travel control method
+    JP7310576B2,2023-07-19,vehicle controller
+    JP6852652B2,2021-03-31,Automobile
+    JP7028036B2,2022-03-02,Electric vehicle
+    JP2021136809A,2021-09-13,Control device of electric vehicle
+    JP2004312835A,2004-11-04,Charging/discharging controller of battery pack
+    JP2022138959A,2022-09-26,vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    13
+classfication_items
+74
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,0,7
+    B,6,0,L,1,1,/,1,8,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,8,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+
+application_events
+7
+    2018-11-06,Application filed by Toyota Motor Corp
+    2018-11-06,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2019-05-30,Publication of US20190160946A1
+    2021-06-29,Application granted
+    2021-06-29,Publication of US11046187B2
+    Status,Active
+    2039-11-08,Adjusted expiration
+
+active_area
+3
+    J,P
+    C,N
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2017228739A,2017-11-29,Electric vehicle
+    JPJP2017-228739,2017-11-29,
+    JP2017-228739,2017-11-29,
+
+legal_event
+10
+    Date,Code,Title,Description
+    2018-11-06,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:YOSHIDA, HIROSHI;REEL/FRAME:047424/0659Effective date: 20180621
+    2018-11-06,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2019-02-06,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2021-01-05,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2021-03-14,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2021-03-29,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2021-05-24,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT RECEIVED
+    2021-05-26,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2021-06-09,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

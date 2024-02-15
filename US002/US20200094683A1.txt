@@ -1,0 +1,192 @@
+ID
+    US20200094683A1
+citation_exist
+    Patent Citations (7)
+citation_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20110015812A1                      *,2009-07-14,2011-01-20,Gm Global Technology Operations, Inc.,Operating device for a cruise control system in a vehicle with regenerative braking capability
+    US20150019058A1                      *,2013-07-12,2015-01-15,Stephan P. Georgiev,Regenerative braking regulation in automotive vehicles
+    US20160318501A1                      *,2013-12-16,2016-11-03,Thomson Power Inc.,Electric vehicle power management driver control system
+    US20170015202A1                      *,2015-07-15,2017-01-19,Ford Global Technologies, Llc,Adaptive regenerative braking method and system
+    US20170087992A1                      *,2015-09-30,2017-03-30,Mitsubishi Jidosha Kogyo Kabushiki Kaisha,Regenerative brake control device
+    US20180093572A1                      *,2016-09-30,2018-04-05,Faraday&Future Inc.,Regenerative braking control method and system
+    US20190193567A1                      *,2017-12-26,2019-06-27,Samsung Electronics Co., Ltd.,Method and device for regenerative braking of transportation device
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20220055642A1                      *,2020-08-18,2022-02-24,Ford Global Technologies, Llc,System and method for off-road driving assistance for a vehicle
+    US20220097701A1                      *,2020-09-28,2022-03-31,Ford Global Technologies, Llc,One-pedal drive system for a vehicle
+    WO2022211152A1                      *,2021-04-01,2022-10-06,박근호,Braking operation system for electric vehicle
+    Family To Family Citations,,,,
+
+abstract
+    There is provided a method for controlling an electric vehicle. The method includes receiving a regenerative braking activation indicator. If the regenerative braking activation indicator is affirmative, the method includes applying regenerative braking at an initial level to an electric motor of the electric vehicle. The method also includes obtaining a vehicle motion parameter of the electric vehicle measured when the regenerative braking is being applied. In addition, the method includes changing the regenerative braking to a modified level based on the vehicle motion parameter.
+title
+    Methods and apparatuses for controlling an electric vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US20200094683A1,2020-03-26,Methods and apparatuses for controlling an electric vehicle
+    US6033041A,2000-03-07,Regenerative braking control system for electric vehicle
+    CN103661765B,2016-05-25,Electric bicycle and control method thereof
+    US20130162009A1,2013-06-27,Electric vehicle regenerative braking system
+    JP6526132B2,2019-06-05,Vehicle recovery system
+    JP5842105B2,2016-01-13,Electric assist bicycle
+    JP6716831B2,2020-07-01,Electric vehicle control device, electric vehicle control system, and electric vehicle control method
+    US8145374B2,2012-03-27,Methods and systems for dynamically controlling hill rollback of an electric vehicle
+    US9604624B2,2017-03-28,Method for controlling four wheel driving of vehicle
+    JP6669422B1,2020-03-18,Electric bicycle that can run on self-charge
+    CN201792857U,2011-04-13,Self-adaptive roadway torque control system for electric automobile
+    JP4873449B2,2012-02-08,Vehicle equipped with road surface inclination angle calculation device
+    CN105431337A,2016-03-23,Vehicle control device
+    JP2002152903A,2002-05-24,Regenerative braking controller for electric vehicle
+    CN101920704B,2012-11-21,Road surface self-adaptive torque control system of electric automobile
+    US10137787B2,2018-11-27,Regenerative controller for electric motor, regenerative driver for electric motor, and power-assisted vehicle
+    WO2019189285A1,2019-10-03,Motor control device and electrically assisted vehicle
+    JP5554843B2,2014-07-23,Method for reducing steering torque during brake operation
+    CN107697067A,2018-02-16,Electric automobile ramp auxiliary starting control method
+    CN110481344B,2021-03-16,Method and system for controlling acceleration of double-motor automobile
+    JP6433435B2,2018-12-05,Vehicle drive system
+    JP2018043656A,2018-03-22,Vehicle brake force control device
+    WO2007136275A2,2007-11-29,Electric vehicle with all wheel drive
+    WO2007083047A1,2007-07-26,Method for estimating the longitudinal speed of a motor vehicle
+    WO2013031342A1,2013-03-07,Two-wheeled vehicle control apparatus and method for same
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US16/574,165,2018-09-21,2019-09-18,Methods and apparatuses for controlling an electric vehicle
+
+inventor_number
+    4
+classfication_nums
+    12
+classfication_items
+75
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,1,7,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B,6,0,W,2,5,2,0,/,1,0,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,2
+    B,6,0,W,2,5,2,0,/,1,2,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+5
+    2019-09-18,Application filed by Accelerated Systems Inc
+    2019-09-18,Priority to US16/574,165
+    2019-09-18,Assigned to ACCELERATED SYSTEMS INC.
+    2020-03-26,Publication of US20200094683A1
+    Status,Pending
+
+active_area
+1
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    US201862734321P,2018-09-21,
+    US201962837476P,2019-04-23,
+    US16/574,165,2019-09-18,Methods and apparatuses for controlling an electric vehicle
+
+legal_event
+11
+    Date,Code,Title,Description
+    2019-09-18,AS,Assignment,Owner name: ACCELERATED SYSTEMS INC., CANADAFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:ROTILLI FILHO, SILVIO;IKHLAS, MUHAMMAD;LAMBERT, TIM;SIGNING DATES FROM 20190915 TO 20190916;REEL/FRAME:050410/0834
+    2020-06-26,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2021-12-22,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2022-02-26,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2022-03-09,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2022-08-15,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2022-09-28,STPP,Information on status: patent application and granting procedure in general,Free format text: FINAL REJECTION MAILED
+    2023-03-31,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2023-07-25,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2023-10-24,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+

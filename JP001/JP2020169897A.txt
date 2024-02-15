@@ -1,0 +1,219 @@
+ID
+    JP2020169897A
+citation_exist
+    Patent Citations (5)
+citation_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH09297163A                      *,1996-05-07,1997-11-18,Nissan Motor Co Ltd,電池の残存容量計
+    JP2010169609A                      *,2009-01-26,2010-08-05,Calsonic Kansei Corp,バッテリシステム及び入出力電力推定方法
+    JP2011103748A                      *,2009-11-11,2011-05-26,Sanyo Electric Co Ltd,電池の充放電可能電流演算方法及び電源装置並びにこれを備える車両
+    Family To Family Citations,,,,
+    JP5783122B2,2012-04-11,2015-09-24,トヨタ自動車株式会社,電池状態推定装置
+    JP6950435B2,2017-10-10,2021-10-13,ティアック株式会社,クロック出力回路
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    【課題】蓄電装置の保護と使い切りとを両立できる制御装置を提供すること。【解決手段】蓄電装置の充放電を制御する制御装置であって、蓄電装置の蓄電状態を示すＳＯＣを算出する状態算出部と、蓄電装置の充放電中における経過時間とともに増加するように、ＳＯＣの蓄積誤差を算出する誤差算出部と、ＳＯＣ及び蓄積誤差に基づいて、蓄電装置からの電力の入出力が可能な最大電力を設定する電力設定部と、を備える。【選択図】 図２
+title
+    制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP2017163739A,2017-09-14,車両用電源システム
+    KR20200075929A,2020-06-29,차량 배터리의 주기적 보충전 방법
+    JP6969396B2,2021-11-24,電動車両
+    WO2020203453A1,2020-10-08,制御装置
+    JP2004003460A,2004-01-08,車両の制御装置および制御方法
+    WO2020203454A1,2020-10-08,制御装置
+    JP6711221B2,2020-06-17,電池システム
+    US9007034B2,2015-04-14,Electric power generation control system for vehicle
+    JP7036081B2,2022-03-15,制御装置
+    JP7021660B2,2022-02-17,制御装置
+    WO2020203457A1,2020-10-08,制御装置
+    JP2004111101A,2004-04-08,車載蓄電装置の制御装置
+    JPWO2016159087A1,2018-02-01,蓄電素子の劣化エスティメーター、蓄電装置、蓄電素子の出入力制御装置、及び蓄電素子の出入力制御方法
+    US8994324B2,2015-03-31,Charge capacity parameter estimation system of electric storage device
+    JP7310645B2,2023-07-19,制御装置
+    JP2015201941A,2015-11-12,車両バッテリシステム及び車両バッテリシステムの制御方法
+    JPWO2019026149A1,2020-08-27,電源システム及びその制御方法
+    JP2017200250A,2017-11-02,自動車
+    JP3475894B2,2003-12-10,車両用二次電池の満充電判定装置及び残存容量算出装置
+    JP2017150975A,2017-08-31,ハイレート劣化指標推定制御装置
+    JP2019184316A,2019-10-24,推定装置および推定方法
+    JP7276268B2,2023-05-18,蓄電池制御装置
+    JP2014135873A,2014-07-24,二次電池管理装置
+    JP7318564B2,2023-08-01,制御装置
+    JP2005045928A,2005-02-17,車両用発電機の電圧制御装置
+
+patent_application
+    NoExist
+patent_priority_application
+4
+    Application,Priority date,Filing date,Title
+    JP2019071555A,2019-04-03,2019-04-03,制御装置
+    DE112020001728.1T,2019-04-03,2020-03-24,Steuergerät
+    PCT/JP2020/012963,2019-04-03,2020-03-24,制御装置
+
+inventor_number
+    8
+classfication_nums
+    18
+classfication_items
+113
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    G
+    G,0,1
+    G,0,1,R
+    G,0,1,R,3,1,/,0,0
+    G,0,1,R,3,1,/,3,6
+    G,0,1,R,3,1,/,3,8,2
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,2,5
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,4
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,8
+    H,0,1,M,1,0,/,4,8,6
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,7
+    H,0,2,J,7,/,0,0,7,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,4,2
+    H,0,1,M,1,0,/,4,2,5
+    H,0,1,M,2,0,1,0,/,4,2,7,1
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+9
+    2019-04-03,Application filed by Denso Corp
+    2019-04-03,Priority to JP2019071555A
+    2020-03-24,Priority to DE112020001728.1T
+    2020-03-24,Priority to PCT/JP2020/012963
+    2020-10-15,Publication of JP2020169897A
+    2022-03-15,Application granted
+    2022-03-15,Publication of JP7036081B2
+    Status,Active
+    2039-04-03,Anticipated expiration
+
+active_area
+3
+    J,P
+    W,O
+    D,E
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2019071555A,2019-04-03,制御装置
+
+legal_event
+6
+    Date,Code,Title,Description
+    2021-03-30,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20210330
+    2022-01-24,TRDD,Decision of grant or rejection written,
+    2022-02-01,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20220201
+    2022-03-07,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20220214
+    2022-03-07,R151,Written notification of patent or utility model registration,Ref document number: 7036081Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R151
+

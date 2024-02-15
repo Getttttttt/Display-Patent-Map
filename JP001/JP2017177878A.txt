@@ -1,0 +1,358 @@
+ID
+    JP2017177878A
+citation_exist
+    Patent Citations (9)
+citation_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH11332021A                      *,1998-05-18,1999-11-30,Toyota Motor Corp,ハイブリッド車両および動力出力装置
+    JP2001138764A                      *,1999-11-11,2001-05-22,Nissan Motor Co Ltd,ハイブリッド車両
+    JP2003061207A                      *,2001-08-13,2003-02-28,Nissan Motor Co Ltd,ハイブリッド車両の駆動装置
+    JP2006238525A                      *,2005-02-22,2006-09-07,Nissan Motor Co Ltd,電動モータ式４輪駆動車両のモータ駆動制御装置
+    JP2006248319A                      *,2005-03-09,2006-09-21,Toyota Motor Corp,自動車およびその制御方法
+    Family To Family Citations,,,,
+    JP3710085B2                      *,2000-11-08,2005-10-26,本田技研工業株式会社,前後輪駆動車両の制御装置
+    JP3807232B2                      *,2001-02-02,2006-08-09,日産自動車株式会社,ハイブリッド式車両制御装置
+    KR100588500B1                      *,2003-09-24,2006-06-13,현대자동차주식회사,모터를 이용한 사륜구동 장치 및 그 제어방법
+    BR112012002219A2                      *,2009-07-31,2016-05-31,Honda Motor Co Ltd,controlador de acionamento para veículos
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    DE112018005127T5,2017-09-15,2020-06-10,Kabushiki Kaisha Tokai Rika Denki Seisakusho,Schaltvorrichtung
+    Family To Family Citations,,,,
+    US10710523B2                      *,2018-07-10,2020-07-14,Kawasaki Jukogyo Kabushiki Kaisha,Utility vehicle
+    JP7294967B2                      *,2019-09-18,2023-06-20,株式会社クボタ,多目的作業車
+
+abstract
+    【課題】悪路での走行性を確保することができる共に、電動モータの電力消費量を低減することができる作業車が要望されている。【解決手段】トルク上限値変更部は、回転速度低下度ΔＶが基準回転速度低下度ΔＶｓよりも大きい場合（Ｓ２，Ｙｅｓ）は、力行側のトルク上限値Ｔａ＿ｍａｘを大きくし（Ｓ３）、回転速度低下度ΔＶが基準回転速度低下度ΔＶｓよりも小さい場合（Ｓ２，Ｎｏ）は、力行側のトルク上限値Ｔａ＿ｍａｘを小さくする（Ｓ５）。【選択図】図５
+title
+    作業車
+similar_document
+26
+    Publication,Publication Date,Title
+    JP4513612B2,2010-07-28,車両のトルク配分制御装置
+    US9139099B2,2015-09-22,Regenerative brake control device
+    JP4897584B2,2012-03-14,車両用駆動制御装置
+    JP2008006945A,2008-01-17,ハイブリッド車両の制御装置
+    US8655533B2,2014-02-18,Electric vehicle
+    JP5840464B2,2016-01-06,電気自動車
+    JP2006321354A,2006-11-30,車両のクルーズ走行制御装置
+    CN104245387A,2014-12-24,车辆及车辆的控制方法
+    JP6548601B2,2019-07-24,作業車
+    JP2006327335A,2006-12-07,車両のトルク配分制御装置
+    JP2005304182A,2005-10-27,ハイブリッド車両の制御装置
+    JP3786067B2,2006-06-14,ハイブリッド車両
+    JP4561189B2,2010-10-13,車両運動制御装置
+    JP4852931B2,2012-01-11,車両の左右トルク配分制御装置
+    JP5896315B2,2016-03-30,回生ブレーキ制御装置
+    JP6372772B2,2018-08-15,回生ブレーキ制御装置
+    WO2013057930A1,2013-04-25,電気自動車の駆動制御装置
+    JPH11125129A,1999-05-11,車  輌
+    JP6735698B2,2020-08-05,作業車
+    JP2005269793A,2005-09-29,ハイブリッド車両
+    JP2006312424A,2006-11-16,ハイブリッド四輪駆動車の制御装置
+    JP5896316B2,2016-03-30,回生ブレーキ制御装置
+    JP2017165262A,2017-09-21,作業車
+    KR20130142350A,2013-12-30,스마트 전기자동차 및 이의 운용방법
+    JP4102633B2,2008-06-18,ハイブリッド車両の走行駆動制御装置
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    JP2016064299A,2016-03-28,2016-03-28,作業車
+    US15/356,737,2016-03-28,2016-11-21,Work vehicle
+
+inventor_number
+    8
+classfication_nums
+    40
+classfication_items
+238
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,/,0,0
+    B,6,0,K,1,/,0,4
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,/,0,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,7,/,0,0
+    B,6,0,K,1,7,/,3,4
+    B,6,0,K,1,7,/,3,5,4
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,7,/,0,0
+    B,6,0,K,1,7,/,3,4
+    B,6,0,K,1,7,/,3,5,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,2,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,5,0
+    B,6,0,K,6,/,5,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B,6,0,W,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,1,7,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,/,0,0
+    B,6,0,K,2,0,0,1,/,0,0,1
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,/,0,0
+    B,6,0,K,1,/,0,4
+    B,6,0,K,2,0,0,1,/,0,4,0,5
+    B,6,0,K,2,0,0,1,/,0,4,2,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,5,/,0,0
+    B,6,0,K,2,0,0,5,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,2,6
+    B,6,0,W,2,5,2,0,/,2,6,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,2,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,2,0
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,4,0
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,2
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,6,0
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,9,1
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,4,0,0,/,0,0
+    B,6,0,Y,2,4,0,0,/,1,1
+    B,6,0,Y,2,4,0,0,/,1,1,2
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,4,0,0,/,0,0
+    B,6,0,Y,2,4,0,0,/,7,0
+    B,6,0,Y,2,4,0,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,8,0
+    Y,0,2,T,1,0,/,9,2
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,0,4
+    Y,1,0,S,9,0,3,/,9,1,5
+    Y,1,0,S,9,0,3,/,9,1,6
+
+application_events
+8
+    2016-03-28,Application filed by Kubota Corp
+    2016-03-28,Priority to JP2016064299A
+    2016-11-21,Priority to US15/356,737
+    2017-10-05,Publication of JP2017177878A
+    2019-07-24,Application granted
+    2019-07-24,Publication of JP6548601B2
+    Status,Active
+    2036-03-28,Anticipated expiration
+
+active_area
+2
+    J,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2016064299A,2016-03-28,作業車
+
+legal_event
+9
+    Date,Code,Title,Description
+    2018-06-26,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20180626
+    2019-03-04,A977,Report on retrieval,Free format text: JAPANESE INTERMEDIATE CODE: A971007Effective date: 20190304
+    2019-03-12,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20190312
+    2019-05-10,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20190510
+    2019-05-22,TRDD,Decision of grant or rejection written,
+    2019-05-28,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20190528
+    2019-07-04,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20190625
+    2019-07-05,R150,Certificate of patent or registration of utility model,Ref document number: 6548601Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R150
+

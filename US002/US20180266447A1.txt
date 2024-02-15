@@ -1,0 +1,273 @@
+ID
+    US20180266447A1
+citation_exist
+    Patent Citations (7)
+citation_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    US7543449B2                      *,2003-01-29,2009-06-09,Cnh America Llc,Hydraulic system for linear drives controlled by a displacer element
+    WO2013112109A1                      *,2012-01-23,2013-08-01,Demi̇rer Teknoloji̇k Si̇stemler Sanayi̇ Ve Ti̇caret Li̇mi̇ted Şi̇rketi̇,Energy efficient hydrostatic transmission circuit for an asymmetric actuator utilizing a single 4 - quadrant pump
+    WO2014045672A1                      *,2012-09-20,2014-03-27,日立建機株式会社,Drive device for working machine and working machine provided with same
+    US8966892B2                      *,2011-08-31,2015-03-03,Caterpillar Inc.,Meterless hydraulic system having restricted primary makeup
+    US20160201694A1                      *,2013-08-19,2016-07-14,Purdue Research Foundation,Miniature high pressure pump and electrical hydraulic actuation system
+    US9523184B2                      *,2011-10-27,2016-12-20,Volvo Construction Equipment Ab,Hybrid excavator having a system for reducing actuator shock
+    US9829013B2                      *,2013-03-14,2017-11-28,Doosan Infracore Co., Ltd.,Hydraulic system for construction machine
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (5)
+              
+
+
+citedBy_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN111704034A                      *,2020-05-15,2020-09-25,河北雷萨重型工程机械有限责任公司,Crane and telescopic oil cylinder control method
+    CN113604623A                      *,2021-08-30,2021-11-05,中钢集团西安重机有限公司,Differential control loop and control method for hydraulic mud gun
+    US20220025914A1                      *,2020-07-23,2022-01-27,Parker-Hannifin Corporation,System, Valve Assembly, and Methods for Oscillation Control of a Hydraulic Machine
+    US20220074324A1                      *,2020-09-10,2022-03-10,Regents Of The University Of Minnesota,Pressure shifted valve timing
+    US20220307524A1                      *,2019-05-28,2022-09-29,Danfoss Power Solutions Ii Technology A/S,Optimizing mode transitions between dual power electro-hydrostatic control systems
+    Family To Family Citations,,,,
+
+abstract
+    Pump-controlled hydraulic circuits are more efficient than valve-controlled circuits, as they eliminate the energy losses due to flow throttling in valves and require less cooling effort. Presently existing pump-controlled solutions for single rod cylinders encounter an undesirable performance during certain operating conditions. Novel circuit designs employ use of different charge pressures on a pair of pilot-operated charging-control valves or different piston areas and/or spring constants on a shuttle-type charging control valve to shift a critical loading region in a load-force/actuator-velocity plane to a lower load force range, thereby reducing the undesired oscillations experienced in the response of the typical critical loading region. One or more specialized valves are controlled by fluid pressures to provide throttling in the circuit only within the critical loading region, thereby reducing the oscillatory amplitude while avoiding throttling-based energy losses outside the critical region over the majority of the circuit's operational overall operating area.
+title
+    Pump-Controlled Hydraulic Circuits for Operating a Differential Hydraulic Actuator
+similar_document
+26
+    Publication,Publication Date,Title
+    US10927856B2,2021-02-23,Pump-controlled hydraulic circuits for operating a differential hydraulic actuator
+    JP5668259B2,2015-02-12,Hydraulic drive circuit
+    US7905089B2,2011-03-15,Actuator control system implementing adaptive flow control
+    US7258058B2,2007-08-21,Metering valve with integral relief and makeup function
+    US20070044650A1,2007-03-01,Valve having a hysteretic filtered actuation command
+    Cheng et al.,2020,An Electrohydraulic Load Sensing System based on flow/pressure switched control for mobile machinery
+    EP2957778B1,2020-04-29,Actuator unit
+    US20170130744A1,2017-05-11,System and method for hydraulic energy recovery
+    US20180252243A1,2018-09-06,Systems and methods for dynamic response on mobile machines
+    Çalışkan et al.,2016,A Complete Analysis for Pump Controlled Single Rod Actuators
+    US10087956B2,2018-10-02,Actuator unit
+    EP2479439B1,2020-10-21,Aircraft actuator
+    Vukovic et al.,2014,Single edge meter out control for mobile machinery
+    CN112714831B,2023-07-14,Hydraulic valve device
+    Yuan et al.,2005,Modeling and control of two stage twin spool servo-valve for energy-saving
+    Lee et al.,2017,A dual EHA system for the improvement of position control performance via active load compensation
+    Nahian et al.,2015,Introduction of Independent Metering Valve for Energy Saving Excavator System
+    Shi et al.,2020,Force-controlled compensation scheme for PQ valve-controlled asymmetric cylinder used on hydraulic quadruped robots
+    Busquets et al.,2015,Priority-based supervisory controller for a displacement-controlled excavator with pump switching
+    Imam,2020,Pump-controlled hydraulic circuits for single-rod actuators: New designs and performance evaluation
+    EP3112697A1,2017-01-04,Shuttle valve for compensating differential flow rate of single-rod actuators in hydrostatic systems
+    Rundo et al.,2019,Simulation and testing of a hydraulic winch
+    Hubballi et al.,2015,Directional control spool valve performance criteria and analysis of flow-reaction forces
+    Kumar et al.,2021,Modeling and Analysis of a Novel Priority Valve Controlled Cable Reeling Drum Drive of Load Haul Dump Vehicle
+    Chikhalsouk et al.,2017,Modeling and simulation swash plate pump response characteristics in load sensing and pressure compensated hydraulic system
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US15/815,181,2016-11-17,2017-11-16,Pump-controlled hydraulic circuits for operating a differential hydraulic actuator
+
+inventor_number
+    3
+classfication_nums
+    22
+classfication_items
+153
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F,1,5,B,1,1,/,1,6
+    F,1,5,B,1,1,/,1,6,1
+    F,1,5,B,1,1,/,1,6,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,7,/,0,0
+    F,1,5,B,7,/,0,0,5
+    F,1,5,B,7,/,0,0,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,7,/,0,0
+    F,1,5,B,7,/,0,6
+    F,1,5,B,7,/,1,0
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,1,/,0,0
+    F,1,5,B,2,1,/,1,4
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,3
+    F,1,5,B,2,2,1,1,/,2,0,5,4,6
+    F,1,5,B,2,2,1,1,/,2,0,5,5,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,3
+    F,1,5,B,2,2,1,1,/,2,0,5,6,1
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,3
+    F,1,5,B,2,2,1,1,/,2,0,5,6,9
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,7
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,3,0
+    F,1,5,B,2,2,1,1,/,3,0,5
+    F,1,5,B,2,2,1,1,/,3,0,5,0,5
+    F,1,5,B,2,2,1,1,/,3,0,5,1,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,3,0
+    F,1,5,B,2,2,1,1,/,3,5,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,4,0
+    F,1,5,B,2,2,1,1,/,4,0,5
+    F,1,5,B,2,2,1,1,/,4,0,5,0,7
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,4,0
+    F,1,5,B,2,2,1,1,/,4,0,5
+    F,1,5,B,2,2,1,1,/,4,0,5,7,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,5,0
+    F,1,5,B,2,2,1,1,/,5,0,5
+    F,1,5,B,2,2,1,1,/,5,0,5,6,3
+    F,1,5,B,2,2,1,1,/,5,0,5,8,1
+    F,1,5,B,2,2,1,1,/,5,0,5,9
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,1
+    F,1,5,B,2,2,1,1,/,6,1,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,2,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,6,5
+    F,1,5,B,2,2,1,1,/,6,6,5,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,0,5
+    F,1,5,B,2,2,1,1,/,7,0,5,1
+    F,1,5,B,2,2,1,1,/,7,0,5,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,6
+    F,1,5,B,2,2,1,1,/,7,6,1
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,8,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,8,0
+    F,1,5,B,2,2,1,1,/,8,6
+    F,1,5,B,2,2,1,1,/,8,6,1,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,8,0
+    F,1,5,B,2,2,1,1,/,8,6
+    F,1,5,B,2,2,1,1,/,8,6,1,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,8,0
+    F,1,5,B,2,2,1,1,/,8,8
+
+application_events
+7
+    2017-11-16,Application filed by University of Manitoba
+    2017-11-16,Priority to US15/815,181
+    2018-09-20,Publication of US20180266447A1
+    2021-02-23,Application granted
+    2021-02-23,Publication of US10927856B2
+    Status,Active
+    2038-03-30,Adjusted expiration
+
+active_area
+1
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    US201662423286P,2016-11-17,
+    US15/815,181,2017-11-16,Pump-controlled hydraulic circuits for operating a differential hydraulic actuator
+
+legal_event
+11
+    Date,Code,Title,Description
+    2017-11-16,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY
+    2017-12-05,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO SMALL (ORIGINAL EVENT CODE: SMAL); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY
+    2018-07-16,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2019-07-09,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2019-08-19,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2019-10-01,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2020-04-07,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2020-07-21,STPP,Information on status: patent application and granting procedure in general,Free format text: FINAL REJECTION MAILED
+    2020-10-05,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2021-02-03,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

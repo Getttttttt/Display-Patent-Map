@@ -1,0 +1,396 @@
+ID
+    US10227997B2
+citation_exist
+    Patent Citations (9)
+citation_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPS60179504A,1984-02-28,1985-09-13,Mitsubishi Heavy Ind Ltd,Energy recycle circuit
+    EP1600419A1,2003-02-27,2005-11-30,Hitachi Construction Machinery Co., Ltd.,Hydraulic control device of hydraulic working machine
+    US20110197576A1,2008-10-22,2011-08-18,Caterpillar Sarl,Hydraulic control system in working machine
+    KR20120092173A,2010-02-26,2012-08-20,카야바 고교 가부시기가이샤,Construction device control system
+    JP2013053498A,2011-09-06,2013-03-21,Sumitomo (Shi) Construction Machinery Co Ltd,Construction machine
+    JP2013204223A,2012-03-27,2013-10-07,Kobelco Contstruction Machinery Ltd,Control device and construction machine with the same
+    CN103597220A,2011-06-15,2014-02-19,日立建机株式会社,Power regeneration device for work machine
+    KR20140021024A,2011-07-06,2014-02-19,스미도모쥬기가이고교 가부시키가이샤,Shovel and control method of shovel
+    Family To Family Citations,,,,
+    JP5938356B2                      *,2013-02-22,2016-06-22,日立建機株式会社,Hydraulic drive device for hydraulic excavator
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (5)
+              
+
+
+citedBy_exist
+    
+              Cited By (12)
+              
+
+
+citedBy_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    US11447930B2,2019-09-24,2022-09-20,Clark Equipment Company,System and methods for cycle time management
+    Family To Family Citations,,,,
+    JP6316776B2                      *,2015-06-09,2018-04-25,日立建機株式会社,Hydraulic drive system for work machines
+    EP3517789B1                      *,2016-09-23,2023-09-13,Hitachi Construction Machinery Co., Ltd.,Hydraulic energy recovery device for work machine
+    JP6879632B2                      *,2017-07-18,2021-06-02,キャタピラー エス エー アール エル,Work machine control device
+    CN107724455B                      *,2017-11-22,2023-07-07,江苏恒立液压科技有限公司,Hydraulic circuit of engineering machine, engineering machine with hydraulic circuit and control method
+    JP6782852B2                      *,2018-03-15,2020-11-11,日立建機株式会社,Construction machinery
+    CN110486341B                      *,2018-05-14,2023-03-21,博世力士乐（北京）液压有限公司,Hydraulic control system and mobile working equipment
+    JP7065736B2                      *,2018-09-11,2022-05-12,日立建機株式会社,Construction machinery and control systems for construction machinery
+    US11220417B2,2019-05-22,2022-01-11,Cascade Corporation,Hybrid clamp force control for lift truck attachment
+    US11655130B2,2019-05-22,2023-05-23,Cascade Corporation,Synchronized hybrid clamp force controller for lift truck attachment
+    JP7338292B2,2019-07-19,2023-09-05,コベルコ建機株式会社,Hydraulic controller for construction machinery
+    CN112555207A                      *,2020-12-01,2021-03-26,上海华兴数字科技有限公司,Hydraulic control system and mechanical equipment
+
+abstract
+    To provide a hydraulic drive system for a work machine capable of securing a favorable operability in the case where hydraulic fluid discharged from a hydraulic actuator is regenerated for driving other hydraulic actuator. The hydraulic drive system for a work machine includes: a regeneration line that connects a bottom-side hydraulic chamber of a hydraulic cylinder to a portion between a hydraulic pump and a second hydraulic actuator; a regeneration flow rate adjustment device that supplies at least part of the hydraulic fluid discharged from the bottom-side hydraulic chamber to a portion between the hydraulic pump and the second hydraulic actuator through the regeneration line; a differential pressure calculating section that reads a pressure in the bottom-side hydraulic chamber of the hydraulic cylinder detected by a first pressure sensor and a pressure between the hydraulic pump and the second hydraulic actuator detected by a second pressure sensor, and calculates a differential pressure, or a differential pressure sensor; and a control unit that controls the regeneration flow rate adjustment device such as to gradually increase the flow rate of the hydraulic fluid flowing through the regeneration line according to an increase in the differential pressure calculated by the differential pressure calculation section or in the differential pressure detected by the differential pressure sensor.
+title
+    Hydraulic drive system for work machine
+similar_document
+20
+    Publication,Publication Date,Title
+    US10227997B2,2019-03-12,Hydraulic drive system for work machine
+    US10436229B2,2019-10-08,Hydraulic drive system for work machine
+    JP6134263B2,2017-05-24,Hydraulic drive system
+    US10301793B2,2019-05-28,Hydraulic drive system for work machine
+    US9951797B2,2018-04-24,Work machine
+    US10787790B2,2020-09-29,Work machine
+    JP2010078035A,2010-04-08,Hydraulic cylinder control circuit of utility machine
+    KR102460499B1,2022-10-27,shovel
+    KR101747519B1,2017-06-14,Hybrid construction machine
+    JP2014029180A,2014-02-13,Hydraulic control device of working machine
+    KR102456137B1,2022-10-17,shovel
+    JP2015197185A,2015-11-09,Hydraulic control device or work machine
+    JP7095287B2,2022-07-05,Swivel hydraulic work machine
+    US10767674B2,2020-09-08,Construction machine
+    JP6782272B2,2020-11-11,Construction machinery
+    JP6782852B2,2020-11-11,Construction machinery
+    JP6955349B2,2021-10-27,Hydraulic drive system for construction machinery
+    JP2013249900A,2013-12-12,Hydraulic drive circuit
+    JP2021021199A,2021-02-18,Shovel
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    38
+classfication_items
+275
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F,1,5,B,1,1,/,0,2
+    F,1,5,B,1,1,/,0,2,4
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,6,4
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,0,3
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,1,7
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,2,1
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,2,1
+    E,0,2,F,9,/,2,2,3,2
+    E,0,2,F,9,/,2,2,3,5
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,6,4
+    E,0,2,F,9,/,2,2,7,1
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,7,8
+    E,0,2,F,9,/,2,2,9,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,/,0,0
+    F,1,5,B,1,/,2,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F,1,5,B,1,1,/,1,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,1,/,0,0
+    F,1,5,B,2,1,/,1,4
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,3,/,0,0
+    E,0,2,F,3,/,0,4
+    E,0,2,F,3,/,2,8
+    E,0,2,F,3,/,3,0
+    E,0,2,F,3,/,3,2
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,3,/,0,0
+    E,0,2,F,3,/,0,4
+    E,0,2,F,3,/,2,8
+    E,0,2,F,3,/,3,6
+    E,0,2,F,3,/,4,2
+    E,0,2,F,3,/,4,2,5
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,3,/,0,0
+    E,0,2,F,3,/,0,4
+    E,0,2,F,3,/,2,8
+    E,0,2,F,3,/,3,6
+    E,0,2,F,3,/,4,2
+    E,0,2,F,3,/,4,3
+    E,0,2,F,3,/,4,3,5
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,7,8
+    E,0,2,F,9,/,2,2,8,5
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,7,8
+    E,0,2,F,9,/,2,2,9,2
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F,1,5,B,1,1,/,0,2
+    F,1,5,B,1,1,/,0,2,4
+    F,1,5,B,2,0,1,1,/,0,2,4,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,3
+    F,1,5,B,2,2,1,1,/,2,0,5,4,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,5,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,3,0
+    F,1,5,B,2,2,1,1,/,3,0,5
+    F,1,5,B,2,2,1,1,/,3,0,5,6
+    F,1,5,B,2,2,1,1,/,3,0,5,9
+    F,1,5,B,2,2,1,1,/,3,0,5,9,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,4,0
+    F,1,5,B,2,2,1,1,/,4,1
+    F,1,5,B,2,2,1,1,/,4,1,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,4,0
+    F,1,5,B,2,2,1,1,/,4,1,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,4,0
+    F,1,5,B,2,2,1,1,/,4,1,5
+    F,1,5,B,2,2,1,1,/,4,1,5,2,7
+    F,1,5,B,2,2,1,1,/,4,1,5,4,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,4,0
+    F,1,5,B,2,2,1,1,/,4,2
+    F,1,5,B,2,2,1,1,/,4,2,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,4,0
+    F,1,5,B,2,2,1,1,/,4,5,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,0,6
+    F,1,5,B,2,2,1,1,/,6,3,0,9
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,0,6
+    F,1,5,B,2,2,1,1,/,6,3,1,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,0,6
+    F,1,5,B,2,2,1,1,/,6,3,1,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,4,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,6,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,6,5
+    F,1,5,B,2,2,1,1,/,6,6,5,2
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,6,5
+    F,1,5,B,2,2,1,1,/,6,6,5,4
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,0,5
+    F,1,5,B,2,2,1,1,/,7,0,5,1
+    F,1,5,B,2,2,1,1,/,7,0,5,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,1
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,6
+    F,1,5,B,2,2,1,1,/,7,6,1
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,8,0
+    F,1,5,B,2,2,1,1,/,8,8
+
+application_events
+7
+    2015-09-16,Application filed by Hitachi Construction Machinery Co Ltd
+    2017-02-06,Assigned to HITACHI CONSTRUCTION MACHINERY CO., LTD.
+    2017-08-17,Publication of US20170234334A1
+    2019-03-12,Application granted
+    2019-03-12,Publication of US10227997B2
+    Status,Active
+    2036-04-05,Adjusted expiration
+
+active_area
+6
+    J,P
+    C,N
+    W,O
+    K,R
+    E,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2014-204348,2014-10-02,
+    JP2014204348A,2014-10-02,Hydraulic drive system for work machines
+    PCT/JP2015/076349,2015-09-16,Work vehicle hydraulic drive system
+
+legal_event
+4
+    Date,Code,Title,Description
+    2017-02-06,AS,Assignment,Owner name: HITACHI CONSTRUCTION MACHINERY CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:HIJIKATA, SEIJI;ISHIKAWA, KOUJI;IMURA, SHINYA;SIGNING DATES FROM 20170124 TO 20170127;REEL/FRAME:041181/0529
+    2019-02-20,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2022-08-31,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

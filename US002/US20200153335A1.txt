@@ -1,0 +1,352 @@
+ID
+    US20200153335A1
+citation_exist
+    Patent Citations (21)
+citation_infor
+23
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP3681596B2,1999-12-24,2005-08-10,東芝三菱電機産業システム株式会社,DC power supply
+    US7304461B2                      *,2004-11-18,2007-12-04,Honda Motor Co., Ltd.,DC/DC converter
+    JP2007159177A                      *,2005-11-30,2007-06-21,Tdk Corp,Switching power supply
+    JP4878562B2                      *,2007-02-06,2012-02-15,本田技研工業株式会社,Composite transformer and step-up / step-down circuit using the same
+    JP4825837B2                      *,2008-03-31,2011-11-30,本田技研工業株式会社,DC / DC converter and fuel cell vehicle
+    JP5617227B2,2009-11-26,2014-11-05,トヨタ自動車株式会社,DC-DC converter
+    JP5660025B2,2011-03-11,2015-01-28,株式会社デンソー,Voltage conversion circuit and voltage conversion system including the voltage conversion circuit
+    KR101302919B1                      *,2011-12-19,2013-09-06,엘에스산전 주식회사,Blocking filter for power line communication
+    JP2015056940A                      *,2013-09-11,2015-03-23,株式会社デンソー,Multi-phase power conversion device filter circuit and multi-phase power conversion device
+    CN103683921B                      *,2013-12-11,2018-03-06,华为技术有限公司,A kind of control method and control device of staggeredly interconnection booster circuit
+    JP5805230B2,2014-02-04,2015-11-04,タイコエレクトロニクスジャパン合同会社,Electrical connector
+    CN104901536A                      *,2015-06-08,2015-09-09,南车青岛四方机车车辆股份有限公司,Bidirectional DC-DC voltage boosting and reduction system and energy storage system
+    KR20180023163A                      *,2016-08-25,2018-03-07,현대자동차주식회사,Trans Inductor and power converter device using the same
+    JP2018082506A                      *,2016-11-14,2018-05-24,株式会社オートネットワーク技術研究所,Dc-dc converter
+    CN106787738A                      *,2017-03-14,2017-05-31,华中科技大学,A kind of multiphase interleaving DC converter
+    JP6805932B2                      *,2017-03-30,2020-12-23,株式会社デンソー,vehicle
+    CN206962714U,2017-07-24,2018-02-02,中车青岛四方车辆研究所有限公司,DC D/C power main circuits
+    JP2019057991A                      *,2017-09-20,2019-04-11,トヨタ自動車株式会社,DC-DC converter
+    JP6819525B2                      *,2017-09-20,2021-01-27,トヨタ自動車株式会社,Power conversion circuit
+    JP2019057993A                      *,2017-09-20,2019-04-11,トヨタ自動車株式会社,Power inverter circuit
+    JP7156118B2,2019-03-20,2022-10-19,株式会社デンソー,motor system
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20220006372A1                      *,2020-07-06,2022-01-06,Delta Electronics, Inc.,Power conversion module
+    US20230006591A1                      *,2019-12-16,2023-01-05,Irp Nexus Group Ltd,Optimized brushless dc (bldc) motor drive system
+    Family To Family Citations,,,,
+
+abstract
+    A bidirectional power converter includes a first terminal, a second terminal, a main reactor, a plurality of sub-circuits and a controller. The sub-circuits each include an upper switching element, a lower switching element, two diodes, and a sub-reactor. The controller sequentially controls the sub-circuits such that: the lower switching element is turned on and turned off and then the upper switching element is turned on and turned off in each of the sub-circuits, while a current is flowing from the first terminal toward the second terminal; and the upper switching element is turned on and turned off and then, the lower switching element is turned on and turned off in each of the sub-circuits, while the current is flowing from the second terminal toward the first terminal.
+title
+    Bidirectional power converter, electric vehicle, and control method for bidirectional power converter
+similar_document
+26
+    Publication,Publication Date,Title
+    US7151364B2,2006-12-19,DC/DC converter and program
+    US9343986B2,2016-05-17,Power converter with current feedback loop
+    US20120256571A1,2012-10-11,Power supply device
+    US9160238B2,2015-10-13,Power converter with current feedback loop
+    US8339074B2,2012-12-25,Power converter control apparatus
+    US8493756B2,2013-07-23,Switching control method of transformer coupled booster for suppressing an increase in energizing current
+    US11239754B2,2022-02-01,Bidirectional power converter, electric vehicle, and control method for bidirectional power converter
+    CN109687696B,2021-06-08,Power supply system
+    US11658557B2,2023-05-23,Control device and control method
+    US20190273448A1,2019-09-05,Method for operating a current converter and current converter operating according to said method
+    US11349395B2,2022-05-31,Conversion apparatus, device, and control method
+    JP2010004728A,2010-01-07,Power conversion apparatus
+    JP2004201439A,2004-07-15,Voltage conversion system, residual charge consumption method, and computer-readable recording medium storing program for making computer consume residual charge
+    JP2019009848A,2019-01-17,Dc-dc converter, power supply system employing the same, and automobile employing the power supply system
+    JP7099277B2,2022-07-12,Electric car
+    JP6954239B2,2021-10-27,Power converter and motor system
+    US10797631B2,2020-10-06,Power output device
+    JP2012115018A,2012-06-14,Power controller
+    JP2013207836A,2013-10-07,On-vehicle charge system
+    US20220294345A1,2022-09-15,Dc-dc converter and vehicle
+    US20230070203A1,2023-03-09,Power supply unit
+    JP2022140260A,2022-09-26,fuel cell system
+    JP2022140259A,2022-09-26,fuel cell system
+    JP2022166804A,2022-11-02,Power reception device
+    JP2022182452A,2022-12-08,Voltage boosting control device and voltage boosting device
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    35
+classfication_items
+223
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H,0,2,M,3,/,0,2
+    H,0,2,M,3,/,0,4
+    H,0,2,M,3,/,1,0
+    H,0,2,M,3,/,1,4,5
+    H,0,2,M,3,/,1,5,5
+    H,0,2,M,3,/,1,5,6
+    H,0,2,M,3,/,1,5,8
+    H,0,2,M,3,/,1,5,8,4
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H,0,2,M,3,/,0,2
+    H,0,2,M,3,/,0,4
+    H,0,2,M,3,/,1,0
+    H,0,2,M,3,/,1,4,5
+    H,0,2,M,3,/,1,5,5
+    H,0,2,M,3,/,1,5,6
+    H,0,2,M,3,/,1,5,8
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,2,0
+    B,6,0,L,5,3,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,3,0
+    B,6,0,L,5,3,/,3,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    H
+    H,0,1
+    H,0,1,F
+    H,0,1,F,2,7,/,0,0
+    H,0,1,F,2,7,/,2,8
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,0,0,4,3
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H,0,2,M,3,/,0,2
+    H,0,2,M,3,/,0,4
+    H,0,2,M,3,/,1,0
+    H,0,2,M,3,/,1,4,5
+    H,0,2,M,3,/,1,5,5
+    H,0,2,M,3,/,1,5,6
+    H,0,2,M,3,/,1,5,8
+    H,0,2,M,3,/,1,5,8,8
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,6,6
+    H,0,2,M,7,/,6,8
+    H,0,2,M,7,/,7,2
+    H,0,2,M,7,/,7,9
+    H,0,2,M,7,/,7,9,7
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,7,/,0,0
+    H,0,2,P,2,7,/,0,4
+    H,0,2,P,2,7,/,0,6
+    H,0,2,P,2,7,/,0,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B,6,0,L,2,2,1,0,/,1,4
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,1
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,2
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,4,0,0,/,0,0
+    B,6,0,Y,2,4,0,0,/,6,1
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,0,0,4,8
+    H,0,2,M,1,/,0,0,5,1
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,0,0,6,4
+    H,0,2,M,2,0,0,1,/,0,0,5,1
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H,0,2,M,3,/,0,2
+    H,0,2,M,3,/,0,4
+    H,0,2,M,3,/,1,0
+    H,0,2,M,3,/,1,4,5
+    H,0,2,M,3,/,1,5,5
+    H,0,2,M,3,/,1,5,6
+    H,0,2,M,3,/,1,5,8
+    H,0,2,M,3,/,1,5,8,4
+    H,0,2,M,3,/,1,5,8,6
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,4,2
+    H,0,2,M,7,/,4,4
+    H,0,2,M,7,/,4,8
+    H,0,2,M,7,/,4,9,3
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,8,0
+    Y,0,2,T,1,0,/,9,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+
+application_events
+6
+    2019-10-31,Application filed by Toyota Motor Corp
+    2020-05-14,Publication of US20200153335A1
+    2022-02-01,Application granted
+    2022-02-01,Publication of US11239754B2
+    Status,Active
+    2040-04-16,Adjusted expiration
+
+active_area
+5
+    J,P
+    U,S
+    E,P
+    K,R
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2018213091A,2018-11-13,Control methods for bidirectional power converters, electric vehicles, and bidirectional power converters
+    JPJP2018-213091,2018-11-13,
+    JP2018-213091,2018-11-13,
+
+legal_event
+8
+    Date,Code,Title,Description
+    2019-10-31,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2021-06-15,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2021-09-15,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2021-11-02,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2021-12-17,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT RECEIVED
+    2021-12-20,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2022-01-12,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

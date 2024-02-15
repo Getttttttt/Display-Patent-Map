@@ -1,0 +1,215 @@
+ID
+    US9821662B2
+citation_exist
+    Patent Citations (22)
+citation_infor
+24
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5322352A                      *,1991-06-03,1994-06-21,Honda Giken Kogyo Kabushiki Kaisha,Electric vehicle regenerative and friction braking control system
+    JPH08140203A,1994-11-04,1996-05-31,Honda Motor Co Ltd,Battery charger for motor driven vehicle
+    KR19990050663A,1997-12-17,1999-07-05,정몽규,Regenerative braking method of electric vehicle
+    JPH11275708A,1998-03-19,1999-10-08,Toyota Motor Corp,Device for controlling braking energy of vehicle and its control method
+    JP2000217201A,1999-01-26,2000-08-04,Mitsubishi Motors Corp,Regenerative braking controller
+    JP2001320801A,2000-05-09,2001-11-16,Toyota Motor Corp,Vehicle, power supply controlling device, method of starting vehicle and method of using high-voltage power supply
+    JP2011234540A,2010-04-28,2011-11-17,Toyota Motor Corp,Regenerative braking control device
+    DE102010041997A1,2010-10-05,2012-04-05,Robert Bosch Gmbh,Method and device for operating a generator in a recuperation system of a motor vehicle
+    US20120139329A1                      *,2010-12-01,2012-06-07,Aptera Motors, Inc.,Regenerative braking system
+    JP2013099081A,2011-10-31,2013-05-20,Denso Corp,Fuel cell system
+    US8634939B2                      *,2011-09-13,2014-01-21,Ford Global Technologies, Llc,Method and system for vehicle speed control
+    DE102012021057A1,2012-10-22,2014-04-24,Creative Data AG,Method for controlling and/or regulating brake system of electric car during recuperation, involves continuously controlling brake and brake system, and readjusting portion of total brake delay so that portion of kinetic energy is maximized
+    US8712616B2                      *,2012-04-26,2014-04-29,Ford Global Technologies, Llc,Regenerative braking control to mitigate powertrain oscillation
+    US8744712B2                      *,2010-07-23,2014-06-03,Hitachi, Ltd.,Drive control device for electric vehicle, and electric vehicle
+    US20160264111A1                      *,2013-11-08,2016-09-15,Honda Motor Co., Ltd.,Braking force control system
+    Family To Family Citations,,,,
+    JP3417453B2                      *,1997-03-27,2003-06-16,三菱自動車工業株式会社,Electric vehicle braking control device
+    JP2007129827A,2005-11-04,2007-05-24,Nissan Motor Co Ltd,Intelligent brake assist system of hybrid vehicle
+    JP2007131093A                      *,2005-11-09,2007-05-31,Advics:Kk,Deceleration controller for vehicle
+    JP2007253715A                      *,2006-03-22,2007-10-04,Fujitsu Ten Ltd,Vehicle controller and vehicle control method
+    JP2008044554A                      *,2006-08-18,2008-02-28,Nissan Motor Co Ltd,Vehicular brake control device
+    CN103370220B,2011-02-04,2016-04-20,铃木株式会社,Vehicle console device
+    JP2014231881A,2013-05-29,2014-12-11,本田技研工業株式会社,Continuously variable transmission
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (14)
+              
+
+
+citedBy_infor
+16
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US9592810B2                      *,2013-02-19,2017-03-14,Mitsubishi Electric Corporation,Brake control device, and brake control method
+    JP2015143039A                      *,2014-01-31,2015-08-06,トヨタ自動車株式会社,vehicle
+    JP2018070083A                      *,2016-11-04,2018-05-10,Ntn株式会社,Electric brake device
+    CN109421546A                      *,2017-08-23,2019-03-05,郑州宇通客车股份有限公司,A kind of vehicle and its composite braking system
+    JP7003606B2                      *,2017-12-05,2022-01-20,トヨタ自動車株式会社,Hybrid vehicle and control device mounted on it
+    JP7103152B2                      *,2018-10-17,2022-07-20,トヨタ自動車株式会社,Vehicle brake control device
+    JP7180509B2,2019-04-03,2022-11-30,トヨタ自動車株式会社,fuel cell vehicle
+    JP7247727B2                      *,2019-04-16,2023-03-29,トヨタ自動車株式会社,FUEL CELL VEHICLE AND METHOD OF CONTROLLING FUEL CELL VEHICLE
+    KR20210014818A                      *,2019-07-30,2021-02-10,현대자동차주식회사,Cooling system for fuel cell electric vehicle
+    EP4019315A4                      *,2020-04-28,2022-11-23,Mitsubishi Jidosha Kogyo Kabushiki Kaisha,Vehicle braking device
+    CN111695202B                      *,2020-06-19,2022-04-12,太原理工大学,Fuel cell vehicle fuzzy control strategy optimization method based on approximate model
+    CN112297860B                      *,2020-10-27,2022-02-08,吉林大学,Method for distributing regenerative braking force of pure electric vehicle
+    CN112874317B                      *,2021-01-27,2022-07-12,奇瑞新能源汽车股份有限公司,Braking method and device of electric vehicle and electric vehicle
+    CN113323069B                      *,2021-06-04,2022-11-29,三一重机有限公司,Power system suitable for electric excavator and control method thereof
+
+abstract
+    A braking force (BF) control system includes: a first required BF calculator that calculates, based on a position of the brake pedal, a first required friction BF allocated to the friction brake and a first required regenerative BF allocated to regenerative control of the drive motor; a second required BF calculator that calculates, based on a position of the acceleration pedal, a second required friction BF allocated to the friction brake and a second required regenerative BF allocated to the regenerative control; a regenerative total BF calculation/execution portion that calculates a regenerative total BF based on the first and second required regenerative BFs and performs the regenerative control based on the regenerative total BF; and a friction total BF calculation/execution portion that calculates a friction total BF based on the first and second required friction BFs and controls the friction brake based on the friction total BF.
+title
+    Braking force control system, vehicle and method of controlling braking force
+similar_document
+26
+    Publication,Publication Date,Title
+    US9821662B2,2017-11-21,Braking force control system, vehicle and method of controlling braking force
+    US8255106B2,2012-08-28,Method for controlling the regenerative braking of a vehicle including at least one electric motor
+    JP6818481B2,2021-01-20,Braking control method for regenerative braking coordinated control system for vehicles
+    US8634987B2,2014-01-21,Control apparatus for electric vehicle
+    US9371061B2,2016-06-21,Regenerative brake apparatus of hybrid vehicle and method thereof
+    US10118493B2,2018-11-06,System and method for controlling regenerative braking force of a vehicle
+    KR101664580B1,2016-10-11,Method for determining amount of regenerative braking
+    US20100049414A1,2010-02-25,Control apparatus for electric vehicle
+    US10427685B2,2019-10-01,Vehicle capable of regenerative braking, and control method of a vehicle capable of regenerative braking
+    US10479211B2,2019-11-19,Regenerative braking apparatus for vehicle and method using the same
+    JP2012029461A,2012-02-09,Electric vehicle and drive control device of the same
+    JP2014050130A,2014-03-17,Electric vehicle
+    CN111376881B,2021-07-20,Braking method and device applied to adaptive cruise and vehicle
+    US20220063626A1,2022-03-03,Electric Vehicle Control Device, Control Method, and Control System
+    JP6120010B2,2017-04-26,vehicle
+    CN110816281A,2020-02-21,Control unit, device and method for recuperative brake control of a vehicle
+    CN105437983A,2016-03-30,Vehicle system and method for adapting lift pedal regeneration
+    JP2013106457A,2013-05-30,Output characteristic control method
+    KR102286732B1,2021-08-05,In vehicle braking system and vehicle braking method
+    JP2017019427A,2017-01-26,Electric vehicle
+    WO2022264738A1,2022-12-22,Vehicle control device
+    JP2016094095A,2016-05-26,Brake control apparatus
+    JP2022175229A,2022-11-25,Electric-vehicular control apparatus
+    JP6153875B2,2017-06-28,Electric vehicle braking control device
+    JP2022016826A,2022-01-25,Control device of moving body
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    13
+classfication_items
+76
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,0,2
+    B,6,0,T,7,/,0,4
+    B,6,0,T,7,/,0,4,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,2,0,/,0,0
+    B,6,0,T,2,2,2,0,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,4,0
+
+application_events
+7
+    2015-11-11,Application filed by Toyota Motor Corp
+    2015-12-11,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2016-05-19,Publication of US20160137068A1
+    2017-11-21,Application granted
+    2017-11-21,Publication of US9821662B2
+    Status,Active
+    2036-02-03,Adjusted expiration
+
+active_area
+5
+    J,P
+    C,A
+    K,R
+    D,E
+    U,S
+
+not_active_area
+1
+    C,N
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2014-231881,2014-11-14,
+    JP2014231881A,2014-11-14,Braking force control system, vehicle, and braking force control method
+
+legal_event
+4
+    Date,Code,Title,Description
+    2015-12-11,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:NADA, MITSUHIRO;UMAYAHARA, KENJI;NAKAGAMI, TAKUYA;SIGNING DATES FROM 20151123 TO 20151126;REEL/FRAME:037270/0104
+    2017-11-01,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2021-05-05,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

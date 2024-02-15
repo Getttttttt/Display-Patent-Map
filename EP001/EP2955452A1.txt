@@ -1,0 +1,213 @@
+ID
+    EP2955452A1
+citation_exist
+    Patent Citations (11)
+citation_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JPS61197932A                      *,1985-02-26,1986-09-02,Mitsubishi Electric Corp,Ventilation device
+    JPS61295443A                      *,1985-06-21,1986-12-26,Mitsubishi Electric Corp,Ventilating fan automatic operation device
+    JP3203747B2                      *,1992-03-16,2001-08-27,ダイキン工業株式会社,Heat exchange ventilator
+    JPH0979634A                      *,1995-09-20,1997-03-28,Matsushita Seiko Co Ltd,Heat-exchange apparatus for heat-exchange air
+    JP4656777B2                      *,2001-08-31,2011-03-23,三菱電機株式会社,Ventilation equipment
+    JP3744409B2                      *,2001-11-14,2006-02-08,ダイキン工業株式会社,Heat exchanger unit
+    JP2005042955A                      *,2003-07-24,2005-02-17,Max Co Ltd,Ventilating device and house structure with the same
+    JP5125137B2                      *,2007-02-15,2013-01-23,パナソニック株式会社,Ventilation equipment
+    GB2457713B                      *,2008-02-22,2012-08-08,Nuaire Ltd,Ventilation unit
+    JP5263111B2                      *,2009-10-05,2013-08-14,ダイキン工業株式会社,Ventilation equipment
+    JP5625640B2                      *,2010-09-06,2014-11-19,富士電機株式会社,Multi-unit fan drive device and failure processing method thereof
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (8)
+              
+
+
+citedBy_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN107084502A                      *,2017-05-22,2017-08-22,北京联合大学,House fresh air malleation safeguards system based on Internet of Things
+    Family To Family Citations,,,,
+    DE102014014107A1                      *,2014-09-30,2016-03-31,Gea Air Treatment Gmbh,Method for operating a ventilation system and ventilation system
+    CN104776544B                      *,2015-03-25,2017-04-26,武汉市发源发明推广有限公司,Natural ventilation purifying system
+    CN108291731A                      *,2015-12-07,2018-07-17,三菱电机株式会社,Air exchange system and controller
+    JP6447770B2                      *,2017-06-02,2019-01-09,ダイキン工業株式会社,Ventilation system
+    JP2021517233A                      *,2018-03-09,2021-07-15,レマ ヤピ ヴェ ミマーリック アノニム シルケティ,Smart ventilation system
+    JP7253682B2                      *,2018-09-12,2023-04-07,パナソニックＩｐマネジメント株式会社,Humidification unit
+    CN113983658B                      *,2021-10-18,2022-12-27,珠海格力电器股份有限公司,Main and standby exhaust fan switching system and method under indoor negative pressure environment
+
+abstract
+    To provide a ventilation device having superior reliability. An air conditioning system (1) ventilates an indoor space (SI) that is a target space. The air conditioning system (1) is equipped with a supply air fan (21), an exhaust air fan (22), and a controller (6). The supply air fan (21) takes inside the indoor space (SI) outside air (OA) that is air of an outdoor space (SO). The exhaust air fan (22) exhausts to the outdoor space (SO) room air (RA) that is air inside the indoor space (SI). The controller (6) controls the operation of the supply air fan (21) and the exhaust air fan (22). In a case where a first fan that is either one fan among the supply air fan (21) and the exhaust air fan (22) has abnormally stopped, the controller (6) continues the operation of a second fan that is the remaining fan excluding the abnormally stopped first fan from the supply air fan (21) and the exhaust air fan (22) in order to make negative pressure or positive pressure inside the indoor space (SI).
+title
+    Ventilation device
+similar_document
+26
+    Publication,Publication Date,Title
+    EP2955452B1,2017-03-15,Ventilation device
+    US11143431B2,2021-10-12,Supply and exhaust ventilation device
+    ES2733800T3,2019-12-03,Air conditioning system
+    EP2116786A1,2009-11-11,Air conditioning and ventilating device
+    JP6384057B2,2018-09-05,Air conditioning system
+    US10247429B2,2019-04-02,System and method for determining the position of a vent door of a packaged terminal air conditioner unit
+    ES2792599T3,2020-11-11,Motor control device
+    JP2015068607A,2015-04-13,Air conditioning system
+    JP4579810B2,2010-11-10,Air conditioning control system
+    WO2018056191A1,2018-03-29,Heat exchange-type ventilation device
+    CN110118415A,2019-08-13,Air conditioning system
+    JP6295227B2,2018-03-14,Turbine flow controller
+    JP2010145012A,2010-07-01,Heat exchange type ventilation device
+    JP6156245B2,2017-07-05,Ventilation device and ventilation air conditioning system
+    WO2017051524A1,2017-03-30,Heat exchanging ventilation device
+    JP2013002802A,2013-01-07,Cooling system and solvent recovering system using the same
+    KR101407435B1,2014-06-17,Out Air Bypass Apparatus of Air Conditioner
+    SE1151114A1,2013-05-24,System for controlling the indoor climate in a building
+    JP2016195477A,2016-11-17,Turbine type flow controller
+    JP2018132266A,2018-08-23,Heat pump device
+    JP6004177B2,2016-10-05,Hot water storage hot water supply system
+    JP3059926B2,2000-07-04,Air conditioner
+    WO2005073639A1,2005-08-11,Facility control device
+    JPH0783485A,1995-03-28,Air conditioning equipment
+    JP2001082785A,2001-03-30,Duct type ventilator
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    5
+classfication_nums
+    8
+classfication_items
+51
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,7,/,0,0
+    F,2,4,F,7,/,0,4
+    F,2,4,F,7,/,0,6
+    F,2,4,F,7,/,0,8
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,1,1,/,0,0
+    F,2,4,F,1,1,/,7,0
+    F,2,4,F,1,1,/,7,2
+    F,2,4,F,1,1,/,7,4
+    F,2,4,F,1,1,/,7,7
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,1,2,/,0,0
+    F,2,4,F,1,2,/,0,0,1
+    F,2,4,F,1,2,/,0,0,6
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,1,1,/,0,0
+    F,2,4,F,1,1,/,3,0
+    F,2,4,F,1,1,/,3,2
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,1,1,/,0,0
+    F,2,4,F,1,1,/,0,0,0,1
+    F,2,4,F,2,0,1,1,/,0,0,0,2
+    F,2,4,F,2,0,1,1,/,0,0,0,4
+    F
+    F,2,4
+    F,2,4,F
+    F,2,4,F,1,1,/,0,0
+    F,2,4,F,1,1,/,0,0,0,1
+    F,2,4,F,2,0,1,1,/,0,0,0,2
+    F,2,4,F,2,0,1,1,/,0,0,0,5
+    Y
+    Y,0,2
+    Y,0,2,B
+    Y,0,2,B,3,0,/,0,0
+    Y,0,2,B,3,0,/,5,6
+    Y
+    Y,0,2
+    Y,0,2,B
+    Y,0,2,B,3,0,/,0,0
+    Y,0,2,B,3,0,/,7,0
+
+application_events
+7
+    2014-01-29,Application filed by Daikin Industries Ltd
+    2015-12-16,Publication of EP2955452A1
+    2016-03-09,Publication of EP2955452A4
+    2017-03-15,Application granted
+    2017-03-15,Publication of EP2955452B1
+    Status,Active
+    2034-01-29,Anticipated expiration
+
+active_area
+3
+    J,P
+    E,P
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2013022378A,2013-02-07,Ventilation equipment
+    PCT/JP2014/051942,2014-01-29,Ventilation device
+
+legal_event
+47
+    Date,Code,Title,Description
+    2015-11-13,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2015-12-16,17P,Request for examination filed,Effective date: 20150904
+    2015-12-16,AK,Designated contracting states,Kind code of ref document: A1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2015-12-16,AX,Request for extension of the european patent,Extension  state: BA ME
+    2016-02-01,REG,Reference to a national code,Ref country code: DERef legal event code: R079Ref document number: 602014007690Country of ref document: DEFree format text: PREVIOUS MAIN CLASS: F24F0007007000Ipc: F24F0007080000
+    2016-03-09,A4,Supplementary search report drawn up and despatched,Effective date: 20160205
+    2016-03-09,RIC1,Information provided on ipc code assigned before grant,Ipc: F24F  12/00        20060101ALI20160201BHEPIpc: F24F  11/00        20060101ALI20160201BHEPIpc: F24F   7/08        20060101AFI20160201BHEP
+    2016-05-11,DAX,Request for extension of the european patent (deleted),
+    2016-11-02,GRAP,Despatch of communication of intention to grant a patent,Free format text: ORIGINAL CODE: EPIDOSNIGR1
+    2016-11-30,INTG,Intention to grant announced,Effective date: 20161103
+    2017-02-08,GRAS,Grant fee paid,Free format text: ORIGINAL CODE: EPIDOSNIGR3
+    2017-02-10,GRAA,(expected) grant,Free format text: ORIGINAL CODE: 0009210
+    2017-03-15,AK,Designated contracting states,Kind code of ref document: B1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2017-03-15,REG,Reference to a national code,Ref country code: CHRef legal event code: EPRef country code: GBRef legal event code: FG4D
+    2017-04-05,REG,Reference to a national code,Ref country code: IERef legal event code: FG4D
+    2017-04-15,REG,Reference to a national code,Ref country code: ATRef legal event code: REFRef document number: 875986Country of ref document: ATKind code of ref document: TEffective date: 20170415
+    2017-04-27,REG,Reference to a national code,Ref country code: DERef legal event code: R096Ref document number: 602014007690Country of ref document: DE
+    2017-07-19,REG,Reference to a national code,Ref country code: NLRef legal event code: MPEffective date: 20170315
+    2017-07-25,REG,Reference to a national code,Ref country code: LTRef legal event code: MG4D
+    2017-07-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: NOFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20170615Ref country code: FIFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20170315Ref country code: GRFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20170616Ref country code: HRFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20170315Ref country code: LTFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20170315
+    2017-08-15,REG,Reference to a national code,Ref country code: ATRef legal event code: MK05Ref document number: 875986Country of ref document: ATKind code of ref document: TEffective date: 20170315
+    2017-08-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: LVFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20170315Ref country code: SEFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20170315Ref country code: RSFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20170315Ref country code: BGFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20170615
+    2017-09-29,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: NLFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20170315
+    2017-10-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: ESFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20170315Ref country code: CZFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20170315Ref country code: ATFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20170315Ref country code: ROFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20170315Ref country code: SKFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20170315Ref country code: EEFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20170315
+    2017-11-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: ISFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20170715Ref country code: SMFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20170315Ref country code: PLFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20170315Ref country code: PTFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20170717
+    2017-12-18,REG,Reference to a national code,Ref country code: DERef legal event code: R097Ref document number: 602014007690Country of ref document: DE
+    2018-01-11,REG,Reference to a national code,Ref country code: FRRef legal event code: PLFPYear of fee payment: 5
+    2018-01-19,PLBE,No opposition filed within time limit,Free format text: ORIGINAL CODE: 0009261
+    2018-01-19,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: NO OPPOSITION FILED WITHIN TIME LIMIT
+    2018-01-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: DKFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20170315
+    2018-02-21,26N,No opposition filed,Effective date: 20171218
+    2018-02-28,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: SIFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20170315
+    2018-08-31,REG,Reference to a national code,Ref country code: CHRef legal event code: PL
+    2018-10-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: LUFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20180129
+    2018-10-31,REG,Reference to a national code,Ref country code: IERef legal event code: MM4A
+    2018-11-08,REG,Reference to a national code,Ref country code: BERef legal event code: MMEffective date: 20180131
+    2018-11-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: LIFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20180131Ref country code: CHFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20180131Ref country code: BEFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20180131
+    2019-01-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: IEFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20180129
+    2019-06-28,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: MCFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20170315
+    2020-01-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: MTFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20180129
+    2020-03-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: TRFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20170315
+    2020-06-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: MKFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20170315Ref country code: HUFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT; INVALID AB INITIOEffective date: 20140129Ref country code: CYFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20170315
+    2020-07-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: ALFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20170315
+    2023-01-31,PGFP,Annual fee paid to national office [announced via postgrant information from national office to epo],Ref country code: GBPayment date: 20221208Year of fee payment: 10Ref country code: FRPayment date: 20221208Year of fee payment: 10
+    2023-05-31,PGFP,Annual fee paid to national office [announced via postgrant information from national office to epo],Ref country code: ITPayment date: 20221213Year of fee payment: 10Ref country code: DEPayment date: 20221207Year of fee payment: 10
+    2023-07-05,P01,Opt-out of the competence of the unified patent court (upc) registered,Effective date: 20230525
+

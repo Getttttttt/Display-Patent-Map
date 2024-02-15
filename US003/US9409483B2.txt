@@ -1,0 +1,283 @@
+ID
+    US9409483B2
+citation_exist
+    Patent Citations (8)
+citation_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2004349110A,2003-05-22,2004-12-09,Toyota Motor Corp,Control device and control method of vehicular fuel cell power generation system
+    US20120062029A1                      *,2010-09-15,2012-03-15,Toyota Jidosha Kabushiki Kaisha,Discharge device for vehicle
+    Family To Family Citations,,,,
+    JPH088113B2                      *,1989-11-17,1996-01-29,三菱電機株式会社,Fuel cell generator
+    JP3767423B2                      *,2001-06-11,2006-04-19,トヨタ自動車株式会社,Vehicle fuel cell module and fuel cell vehicle
+    JP4404559B2                      *,2003-02-13,2010-01-27,株式会社荏原製作所,Fuel cell power generation system
+    JP4593311B2                      *,2005-02-24,2010-12-08,三菱電機株式会社,Fuel cell power generation system and method for stopping the same
+    DE102007050377A1                      *,2007-10-22,2009-04-23,Daimler Ag,Fuel cell system with at least one fuel cell
+    JP5333348B2                      *,2010-06-04,2013-11-06,トヨタ自動車株式会社,Vehicle power conversion device and vehicle including the same
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (10)
+              
+
+
+citedBy_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20180217245A1                      *,2017-01-30,2018-08-02,GM Global Technology Operations LLC,Detecting abrupt deceleration using doppler effect of signal change
+    DE102017211474A1                      *,2017-07-05,2019-01-10,Bayerische Motoren Werke Aktiengesellschaft,Method for relieving pressure from at least one pressure vessel and pressure vessel system
+    Family To Family Citations,,,,
+    JP6201869B2                      *,2014-04-02,2017-09-27,トヨタ自動車株式会社,Control device and control method for electric vehicle
+    JP2016012461A                      *,2014-06-27,2016-01-21,本田技研工業株式会社,Method for stopping fuel cell system
+    JP6064958B2                      *,2014-09-24,2017-01-25,トヨタ自動車株式会社,Fuel cell system for electric vehicle and control method thereof
+    SG11201805731YA                      *,2016-01-03,2018-08-30,Phinergy Ltd,System and method for protecting a battery during sudden load reduction
+    DE102017211610A1                      *,2017-07-07,2019-01-10,Audi Ag,Enable a fuel cell
+    JP2022111435A                      *,2021-01-20,2022-08-01,株式会社ジェイテクト,fuel cell system
+    DE102021201176A1                      *,2021-02-09,2022-08-11,Robert Bosch Gesellschaft mit beschränkter Haftung,Tank device for storing a gaseous medium for a vehicle and method for operating a tank device for storing a gaseous medium for a vehicle
+    CN115095430B                      *,2022-06-27,2023-10-20,潍柴动力股份有限公司,Control method and device for hydrogen fuel automobile, hydrogen fuel automobile and storage medium
+
+abstract
+    A fuel cell system mounted in a vehicle includes a fuel cell, a collision prediction device, a discharge device, and a controller. The fuel cell includes a gas channel to which a reactant gas is to be supplied to generate electricity. The collision prediction device is configured to predict probability of collision of the vehicle. The discharge device is configured to discharge the electricity from the fuel cell. The controller is configured to control the discharge device to discharge the electricity from the fuel cell in a case where the collision prediction device predicts that the probability of collision of the vehicle is higher than a predetermined probability.
+title
+    Fuel cell system and vehicle fuel cell system discharging method
+similar_document
+26
+    Publication,Publication Date,Title
+    US9409483B2,2016-08-09,Fuel cell system and vehicle fuel cell system discharging method
+    US7867662B2,2011-01-11,Contactor failure detecting apparatus for fuel cell system
+    EP2124280B1,2014-01-01,A fuel cell system, electrode catalyst degradation judgment method, and moving body
+    US8252470B2,2012-08-28,Fuel cell system
+    US9337502B2,2016-05-10,Fuel cell system and control method at starting in the fuel cell system
+    US9225028B2,2015-12-29,Fuel cell system
+    US9793558B2,2017-10-17,Fuel cell system
+    US20100248055A1,2010-09-30,Fuel cell system and method for limiting current thereof
+    EP2192647A1,2010-06-02,Fuel cell system
+    CN110140248B,2023-08-01,Method and control unit for regulating a fuel cell stack
+    KR20160058005A,2016-05-24,Fuel cell system and method of recovering cell voltage thereof
+    CN105591133A,2016-05-18,Fuel cell system, fuel cell vehicle, and control method for fuel cell system
+    JPWO2008047944A1,2010-02-25,Fuel cell system
+    US10826092B2,2020-11-03,Method for operating fuel cell vehicle
+    JP4505489B2,2010-07-21,Fuel cell system and starting method thereof
+    US11183699B2,2021-11-23,Fuel cell system and method of controlling fuel cell system
+    US10461349B2,2019-10-29,Method for controlling fuel cell system
+    US7682720B2,2010-03-23,Diagnostic method for detecting a coolant pump failure in a fuel cell system by temperature measurement
+    JP2014078412A,2014-05-01,Fuel battery system
+    JP2007305365A,2007-11-22,Contactor failure detection method and its device in fuel cell system
+    EP2924790A1,2015-09-30,Fuel cell system, drying state estimation method, and fuel cell system control method
+    JP2014060031A,2014-04-03,Fuel cell system
+    JP2007035493A,2007-02-08,Voltage regulation device for fuel cell
+    US11764375B2,2023-09-19,Fuel cell system, control device, and mobile body
+    US20200276903A1,2020-09-03,Power source system and power source system control method
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    35
+classfication_items
+163
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B,6,0,L,1,1,/,1,8,0,3
+    B,6,0,L,1,1,/,1,8,6,1
+    B,6,0,L,1,1,/,1,8,8,5
+    B,6,0,L,1,1,/,1,8,8,7
+    B,6,0,L,1,1,/,1,8,9,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,0,7
+    B,6,0,L,3,/,0,0,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,5,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,6,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,3,0
+    B,6,0,L,5,8,/,3,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,3,0
+    B,6,0,L,5,8,/,3,2
+    B,6,0,L,5,8,/,3,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,2,3
+    H,0,1,M,8,/,0,4,2,3,8
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,9,8
+    H,0,1,M,8,/,0,4,3,1,3
+    H,0,1,M,8,/,0,4,5,3,7
+    H,0,1,M,8,/,0,4,5,4,4
+    H,0,1,M,8,/,0,4,5,5,9
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,9,8
+    H,0,1,M,8,/,0,4,6,9,4
+    H,0,1,M,8,/,0,4,9,5,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,8,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,6
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,2,2,5,0,/,0,0
+    H,0,1,M,2,2,5,0,/,2,0
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,3,0
+    Y,0,2,E,6,0,/,5,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,4,4
+    Y,0,2,T,1,0,/,7,0,5
+    Y,0,2,T,9,0,/,3,2
+    Y,0,2,T,9,0,/,3,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,4,0
+
+application_events
+7
+    2013-10-09,Application filed by Honda Motor Co Ltd
+    2013-10-09,Assigned to HONDA MOTOR CO., LTD.
+    2014-04-17,Publication of US20140106251A1
+    2016-08-09,Application granted
+    2016-08-09,Publication of US9409483B2
+    Status,Expired - Fee Related
+    2034-05-27,Adjusted expiration
+
+active_area
+0
+
+not_active_area
+2
+    J,P
+    U,S
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2012-228861,2012-10-16,
+    JP2012228861A,2012-10-16,Fuel cell system
+
+legal_event
+7
+    Date,Code,Title,Description
+    2013-10-09,AS,Assignment,Owner name: HONDA MOTOR CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:OHTANI, TAKESHI;MIYAJIMA, KAZUYOSHI;SUZUKI, AKIHIRO;SIGNING DATES FROM 20130930 TO 20131003;REEL/FRAME:031368/0839
+    2016-07-20,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2020-03-30,FEPP,Fee payment procedure,Free format text: MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2020-09-14,LAPS,Lapse for failure to pay maintenance fees,Free format text: PATENT EXPIRED FOR FAILURE TO PAY MAINTENANCE FEES (ORIGINAL EVENT CODE: EXP.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2020-09-14,STCH,Information on status: patent discontinuation,Free format text: PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362
+    2020-10-06,FP,Lapsed due to failure to pay maintenance fee,Effective date: 20200809
+

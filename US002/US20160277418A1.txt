@@ -1,0 +1,625 @@
+ID
+    US20160277418A1
+citation_exist
+    Patent Citations (31)
+citation_infor
+33
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20070002766A1                      *,2005-07-04,2007-01-04,Samsung Electronics Co., Ltd.,Cooperative relay transmission method for wireless communication system
+    US20070016663A1                      *,2005-07-14,2007-01-18,Brian Weis,Approach for managing state information by a group of servers that services a group of clients
+    US20130013932A1                      *,2011-07-06,2013-01-10,Samsung Electronics Co. Ltd.,Security management system and method for location-based mobile device
+    US20130290696A1                      *,2012-04-30,2013-10-31,Alcatel-Lucent Usa Inc.,Secure communications for computing devices utilizing proximity services
+    US20140226821A1                      *,2013-02-08,2014-08-14,Harris Corporation,Electronic key management using pki to support group key establishment in the tactical environment
+    US20140248901A1                      *,2013-03-01,2014-09-04,Kerstin Johnsson,Network-level device proximity detection
+    US20140335906A1                      *,2011-12-20,2014-11-13,Lg Electronics Inc.,Network-initiated control method and apparatus for providing proximity service
+    US20160065362A1                      *,2013-04-05,2016-03-03,Interdigital Patent Holdings, Inc.,Securing peer-to-peer and group communications
+    US20160165411A1                      *,2013-08-04,2016-06-09,Lg Electronics Inc.,Method and apparatus for unifying proximity services groups in wireless communication system
+    Family To Family Citations,,,,
+    EP1310109A2                      *,2000-03-03,2003-05-14,QUALCOMM Incorporated,Method and apparatus for participating in group communication services in an existing communication system
+    JP4612817B2                      *,2004-08-20,2011-01-12,キヤノン株式会社,Group management apparatus, information processing method, computer program, and recording medium
+    JP4604142B2                      *,2005-01-28,2010-12-22,独立行政法人情報通信研究機構,COMMUNICATION SYSTEM USING NETWORK AND COMMUNICATION DEVICE AND PROGRAM USED FOR THE COMMUNICATION SYSTEM
+    US8027342B2                      *,2006-12-21,2011-09-27,Motorola Mobility, Inc.,Method and apparatus for establishing peer-to-peer communications
+    CN101374336B                      *,2007-08-23,2013-04-24,华为技术有限公司,System, apparatus and method for updating user equipment position
+    US8565137B2                      *,2007-09-24,2013-10-22,Qualcomm Incorporated,Tracking locations of multicast group members within a wireless communication system
+    CN101399660B                      *,2007-09-28,2010-11-10,华为技术有限公司,Method and device for negotiating group cipher
+    US8422680B2                      *,2008-02-13,2013-04-16,Motorola Solutions, Inc.,Method for validating encrypted communications via selection and comparison of source transmitter and destination receiver associated encryption keys
+    US8792646B2                      *,2008-03-25,2014-07-29,Qualcomm Incorporated,Systems and methods for group key distribution and management for wireless communications systems
+    US8270606B2                      *,2008-05-01,2012-09-18,International Business Machines Corporation,Open architecture based domain dependent real time multi-lingual communication service
+    CN101626370B                      *,2008-07-07,2012-06-20,华为技术有限公司,Method, system and equipment for distributing secret keys to nodes
+    US9301238B2                      *,2009-03-06,2016-03-29,Qualcomm Incorporated,Methods and apparatus for automated local network formation using alternate connected interfaces
+    WO2011123755A1                      *,2010-04-02,2011-10-06,Interdigital Patent Holdings, Inc.,Group procedures for machine type communications devices
+    US9432844B2                      *,2011-07-11,2016-08-30,Lg Electronics Inc.,Traffic encryption key management for machine to machine multicast group
+    CN103096308B                      *,2011-11-01,2016-01-20,华为技术有限公司,The method of group cipher key generating and relevant device
+    JP5893995B2,2012-04-16,2016-03-23,京セラ株式会社,Power supply system, control device, and power supply method
+    US9161382B2                      *,2013-03-28,2015-10-13,Lg Electronics Inc.,Method and apparatus for proximity-based service
+    US9210536B2                      *,2013-05-21,2015-12-08,Google Technology Holdings LLC,Method for establishing device-to-device communication
+    JP6838789B2                      *,2013-06-28,2021-03-03,日本電気株式会社,UE and its communication method
+    GB2524301A                      *,2014-03-19,2015-09-23,Nec Corp,Communication system
+    US10362510B2                      *,2015-03-12,2019-07-23,Lg Electronics Inc.,Method and terminal for controlling network traffic in wireless communication system
+    JP6610656B2                      *,2015-03-19,2019-11-27,日本電気株式会社,Apparatus and method for proximity service communication
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    In order for effectively managing security of ProSe (Proximity based Services) communication, a server forming a communication system monitors locations of a plurality of UEs that are grouped to conduct direct communication with each other. The server manages security of the direct communication based on the locations.
+title
+    Security management according to location change in proximity based services
+similar_document
+16
+    Publication,Publication Date,Title
+    US20200367116A1,2020-11-19,Apparatus, system and method for security management
+    US20200228327A1,2020-07-16,Apparatus, system and method for secure direct communication in proximity based services
+    ES2718906T3,2019-07-05,Roaming without discontinuities distributed over wireless networks
+    US20190357135A1,2019-11-21,Apparatus, system and method for dedicated core network
+    US20190253939A1,2019-08-15,Apparatus, system and method for dc (dual connectivity)
+    EP3058693B1,2020-03-18,Selection and use of a security agent for device-to-device (d2d) wireless communications
+    JP6159020B2,2017-07-05,Proximity service permission method, apparatus and system
+    US20220407846A1,2022-12-22,Devices and method for mtc group key management
+    KR20150084224A,2015-07-22,Security supporting method and system for service discovery and group communication in mobile telecommunication system environment
+    US9872226B2,2018-01-16,Wireless access system and fixed terminal control apparatus
+    US20210039497A1,2021-02-11,Security management according to location change in proximity based services
+    US20210378032A1,2021-12-02,Method for establishing a connection of a mobile terminal to a mobile radio communication network and radio access network component
+    EP2985950B1,2017-07-19,Recovery method and apparatus for safety controller
+    WO2014023163A1,2014-02-13,Warning information kill method and device
+    KR20120111339A,2012-10-10,Authentication system and authentication request scheduling method
+
+patent_application
+2
+    Application,Priority date,Filing date,Relation,Title
+    PCT/JP2014/004385,2013-10-28,2014-08-27,A-371-Of-International,Security management according to location change in proximity based services
+
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    US16/123,294,2013-10-28,2018-09-06,Security management according to location change in proximity based services
+    US17/081,245,2013-10-28,2020-10-27,Security management according to location change in proximity based services
+
+inventor_number
+    3
+classfication_nums
+    81
+classfication_items
+497
+    H
+    H,0,4
+    H,0,4,L
+    H,0,4,L,6,3,/,0,0
+    H,0,4,L,6,3,/,1,0
+    H,0,4,L,6,3,/,1,0,7
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,2,4
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,2,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,2,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,3,6
+    B,6,0,K,6,/,3,6,5
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,5,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,6,0
+    B,6,0,L,5,3,/,6,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,6,0
+    B,6,0,L,5,3,/,6,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,5,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,4
+    B,6,0,W,1,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,4,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,0,5,4
+    G
+    G,0,6
+    G,0,6,F
+    G,0,6,F,2,1,/,0,0
+    G,0,6,F,2,1,/,5,0
+    G,0,6,F,2,1,/,5,5
+    G,0,6,F,2,1,/,5,5,4
+    H
+    H,0,4
+    H,0,4,L
+    H,0,4,L,6,3,/,0,0
+    H,0,4,L,6,3,/,0,6
+    H
+    H,0,4
+    H,0,4,L
+    H,0,4,L,6,3,/,0,0
+    H,0,4,L,6,3,/,0,6
+    H,0,4,L,6,3,/,0,6,5
+    H
+    H,0,4
+    H,0,4,L
+    H,0,4,L,6,3,/,0,0
+    H,0,4,L,6,3,/,0,8
+    H
+    H,0,4
+    H,0,4,L
+    H,0,4,L,6,7,/,0,0
+    H,0,4,L,6,7,/,0,1
+    H,0,4,L,6,7,/,1,0
+    H,0,4,L,6,7,/,1,0,4
+    H
+    H,0,4
+    H,0,4,L
+    H,0,4,L,9,/,0,0
+    H,0,4,L,9,/,0,0,8
+    H
+    H,0,4
+    H,0,4,L
+    H,0,4,L,9,/,0,0
+    H,0,4,L,9,/,0,8
+    H,0,4,L,9,/,0,8,1,6
+    H,0,4,L,9,/,0,8,1,9
+    H,0,4,L,9,/,0,8,3
+    H,0,4,L,9,/,0,8,3,3
+    H
+    H,0,4
+    H,0,4,L
+    H,0,4,L,9,/,0,0
+    H,0,4,L,9,/,0,8
+    H,0,4,L,9,/,0,8,9,1
+    H
+    H,0,4
+    H,0,4,W
+    H,0,4,W,1,2,/,0,0
+    H,0,4,W,1,2,/,0,4
+    H
+    H,0,4
+    H,0,4,W
+    H,0,4,W,1,2,/,0,0
+    H,0,4,W,1,2,/,0,4
+    H,0,4,W,1,2,/,0,4,1
+    H
+    H,0,4
+    H,0,4,W
+    H,0,4,W,1,2,/,0,0
+    H,0,4,W,1,2,/,0,6
+    H
+    H,0,4
+    H,0,4,W
+    H,0,4,W,4,/,0,0
+    H,0,4,W,4,/,0,2
+    H,0,4,W,4,/,0,2,3
+    H
+    H,0,4
+    H,0,4,W
+    H,0,4,W,7,6,/,0,0
+    H,0,4,W,7,6,/,1,0
+    H,0,4,W,7,6,/,1,4
+    H
+    H,0,4
+    H,0,4,W
+    H,0,4,W,8,/,0,0
+    H,0,4,W,8,/,0,0,5
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,2,6
+    B,6,0,K,2,0,0,6,/,2,6,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,8
+    B,6,0,L,2,2,4,0,/,4,8,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,8,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,1,0
+    B,6,0,L,2,2,7,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,1,0
+    B,6,0,L,2,2,7,0,/,1,4
+    B,6,0,L,2,2,7,0,/,1,4,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,2,4
+    B,6,0,W,2,7,1,0,/,2,4,2
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,2
+    G
+    G,0,6
+    G,0,6,F
+    G,0,6,F,2,2,2,1,/,0,0
+    G,0,6,F,2,2,2,1,/,2,1
+    G,0,6,F,2,2,2,1,/,2,1,1,1
+    H
+    H,0,4
+    H,0,4,L
+    H,0,4,L,2,2,0,9,/,0,0
+    H,0,4,L,2,2,0,9,/,8,0
+    H
+    H,0,4
+    H,0,4,L
+    H,0,4,L,9,/,0,0
+    H,0,4,L,9,/,0,8
+    H
+    H,0,4
+    H,0,4,W
+    H,0,4,W,4,/,0,0
+    H,0,4,W,4,/,7,0
+    H
+    H,0,4
+    H,0,4,W
+    H,0,4,W,6,4,/,0,0
+    H
+    H,0,4
+    H,0,4,W
+    H,0,4,W,7,2,/,0,0
+    H,0,4,W,7,2,/,1,2
+    H,0,4,W,7,2,/,1,2,1
+    H
+    H,0,4
+    H,0,4,W
+    H,0,4,W,8,8,/,0,0
+    H,0,4,W,8,8,/,1,6
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+    Y,0,2,T,9,0,/,1,6,7
+    Y
+    Y,0,4
+    Y,0,4,S
+    Y,0,4,S,1,0,/,0,0
+    Y,0,4,S,1,0,/,1,2
+    Y,0,4,S,1,0,/,1,2,6
+    Y
+    Y,0,4
+    Y,0,4,S
+    Y,0,4,S,3,0,/,0,0
+    Y,0,4,S,3,0,/,1,0
+    Y,0,4,S,3,0,/,1,4
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,0,4
+    Y,1,0,S,9,0,3,/,9,0,5
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,0,4
+    Y,1,0,S,9,0,3,/,9,0,6
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,0,4
+    Y,1,0,S,9,0,3,/,9,0,7
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,0,4
+    Y,1,0,S,9,0,3,/,9,0,9
+    Y,1,0,S,9,0,3,/,9,1
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,3
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,5,1
+
+application_events
+6
+    2014-08-27,Application filed by NEC Corp
+    2016-05-31,Assigned to NEC CORPORATION
+    2016-09-22,Publication of US20160277418A1
+    2018-09-06,Priority to US16/123,294
+    2020-10-27,Priority to US17/081,245
+    Status,Abandoned
+
+active_area
+9
+    W,O
+    J,P
+    C,N
+    C,N
+    E,P
+    J,P
+    J,P
+    J,P
+    U,S
+
+not_active_area
+2
+    U,S
+    U,S
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2013-223326,2013-10-28,
+    JP2013223326,2013-10-28,
+    PCT/JP2014/004385,2014-08-27,Security management according to location change in proximity based services
+
+legal_event
+3
+    Date,Code,Title,Description
+    2016-05-31,AS,Assignment,Owner name: NEC CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:ZHANG, XIAOWEI;PRASAD, ANAND RAGHAWA;REEL/FRAME:038751/0260Effective date: 20160525
+    2018-09-19,STCB,Information on status: application discontinuation,Free format text: ABANDONED  --  FAILURE TO RESPOND TO AN OFFICE ACTION
+

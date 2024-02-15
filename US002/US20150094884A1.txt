@@ -1,0 +1,170 @@
+ID
+    US20150094884A1
+citation_exist
+    Patent Citations (8)
+citation_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5331261A                      *,1990-12-20,1994-07-19,General Electric Company,Regenerative braking protection for an electrically-propelled traction vehicle
+    US20080004760A1                      *,2005-01-25,2008-01-03,Mitsubishi Electyric Corporation,Electric Car Controller
+    Family To Family Citations,,,,
+    JP2528123B2                      *,1987-05-25,1996-08-28,株式会社日立製作所,Power regeneration device
+    JP2672911B2                      *,1991-08-29,1997-11-05,三菱電機株式会社,Blackout detection method for AC electric vehicles
+    JPH06197401A                      *,1992-12-24,1994-07-15,Hitachi Ltd,Power failure sensing system for electric rolling stock
+    JP3682600B2                      *,2000-12-21,2005-08-10,株式会社日立製作所,Electric railway power system control method and apparatus
+    JP4001784B2                      *,2002-06-20,2007-10-31,日本信号株式会社,Train control system
+    JP3958718B2                      *,2003-06-30,2007-08-15,三菱電機株式会社,Electric vehicle control device
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (8)
+              
+
+
+citedBy_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20140239879A1                      *,2013-02-22,2014-08-28,Electro-Motive Diesel, Inc.,Battery charging system
+    CN106864267A                      *,2017-03-10,2017-06-20,南昌工程学院,A kind of confession method for electrically for train
+    CN107590343A                      *,2017-09-19,2018-01-16,南京南瑞继保电气有限公司,A kind of track traffic full line analogue system and emulation mode
+    EP3248829A4                      *,2015-02-19,2018-08-08,Mitsubishi Electric Corporation,Station power supply, and method for calculating regeneration determination voltage value
+    US20210249982A1                      *,2020-02-10,2021-08-12,Intrasys Gmbh Innovative Transportsysteme,Power supply apparatus for a public entertainment apparatus having electrically driven passenger carriers
+    US20220227258A1                      *,2021-01-20,2022-07-21,Abb Schweiz Ag,Power line system with ripple generator for electric vehicles
+    Family To Family Citations,,,,
+    FR3031849B1                      *,2015-01-16,2017-02-17,Alstom Transp Tech,POWER SUPPLY CONVERTER AND / OR SUBSTATION FOR RECOVERING BRAKING ENERGY
+    CN111025242B                      *,2019-12-24,2020-10-27,中国航天科工集团八五一一研究所,Grating ruler positioning-based off-platform bait interference simulation device and method
+
+abstract
+    In a regenerative braking emergency stop system, a substation includes: a rectifier transformer configured to transform AC power received from outside; a rectifier configured to convert the transformed AC power into DC power; and a switch disposed on an electrical path between the rectifier and a power-feed rail and configured to be in a closed state or an opened state; a simulated ripple transmitter configured to transmit a simulated ripple, the simulated ripple being an AC signal having a predetermined frequency; a superimposing circuit connected to the power-feed rail in parallel with the rectifier and configured to superimpose the simulated ripple transmitted from the simulated ripple transmitter on DC power outputted from the rectifier; and a relay device configured to allow the simulated ripple transmitter to transmit the simulated ripple when the rectifier is receiving power from outside and the switch is in a closed state.
+title
+    Regenerative braking emergency stop system
+similar_document
+26
+    Publication,Publication Date,Title
+    US9308923B2,2016-04-12,Regenerative braking emergency stop system
+    US8836161B2,2014-09-16,Rolling stock system and control method thereof
+    JP5161816B2,2013-03-13,Railway vehicle system
+    JP5100690B2,2012-12-19,Railway vehicle system
+    US8944226B2,2015-02-03,Transferring electric energy to a vehicle, using a system which comprises consecutive segments for energy transfer
+    KR101237552B1,2013-02-26,Railway system installing power supply facility on railroads between stations
+    US8803356B2,2014-08-12,Controller for AC electric train
+    JP5606749B2,2014-10-15,AC electric car
+    EP3556604B1,2021-07-28,Station building power supply device
+    CN112238792A,2021-01-19,Operating a rail vehicle via a separate point in a vehicle external current supply device
+    Ferencz et al.,2020,Converter topologies for MVDC traction transformers
+    CN106488858B,2017-10-13,The power-supply device of AC electric vehicle
+    US9845013B2,2017-12-19,Controller of AC electric vehicle
+    CN113119807A,2021-07-16,Double-flow system vehicle
+    CN112238793A,2021-01-19,Phase detection during passage through a separate point in a rail vehicle current supply device
+    CN108349397B,2021-03-30,Power conversion device for railway vehicle
+    KR101410772B1,2014-06-23,Control circuit for high voltage of rail car
+    RU2746771C1,2021-04-20,Electric power supply system of railroad haul devices of railroad automation
+    JPH0739005A,1995-02-07,Power converter for electric car
+    CN110293846B,2020-12-11,Method and system for controlling train alternating current bus contactor and train
+    JP7076998B2,2022-05-30,Ground fault protection device
+    KR101855348B1,2018-05-09,Integrated power conversion apparatus for electric railway vehicle and electric railway vehicle including the same
+    JP2023044769A,2023-04-03,Direct current power supply system
+    CN115320396A,2022-11-11,Traction high-voltage control system and method for double-flow urban train
+    Ku et al.,2012,Train Power Converter Switching Surge Impact Studies
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    5
+classfication_nums
+    9
+classfication_items
+53
+    B
+    B,6,1
+    B,6,1,H
+    B,6,1,H,9,/,0,0
+    B,6,1,H,9,/,0,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,6,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,9,/,0,0
+    B,6,0,L,9,/,1,6
+    B,6,0,L,9,/,1,8
+    B,6,0,L,9,/,2,2
+    B
+    B,6,0
+    B,6,0,M
+    B,6,0,M,3,/,0,0
+    B,6,0,M,3,/,0,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,6,6
+    B,6,0,T,1,3,/,6,6,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,7,/,0,0
+    B,6,0,T,1,7,/,1,8
+    B,6,0,T,1,7,/,2,2
+    B,6,0,T,1,7,/,2,2,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,6
+
+application_events
+7
+    2011-10-31,Application filed by Kawasaki Jukogyo KK
+    2014-05-28,Assigned to KAWASAKI JUKOGYO KABUSHIKI KAISHA
+    2015-04-02,Publication of US20150094884A1
+    2016-04-12,Application granted
+    2016-04-12,Publication of US9308923B2
+    Status,Expired - Fee Related
+    2032-05-22,Adjusted expiration
+
+active_area
+1
+    W,O
+
+not_active_area
+1
+    U,S
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2011/006085,2011-10-31,Regenerative emergency brake stopping system
+
+legal_event
+7
+    Date,Code,Title,Description
+    2014-05-28,AS,Assignment,Owner name: KAWASAKI JUKOGYO KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:MATSUMURA, TAKAHIRO;OKAMURA, SHINGO;TONDA, CHIYOHARU;AND OTHERS;SIGNING DATES FROM 20140428 TO 20140430;REEL/FRAME:032973/0037
+    2016-03-23,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2019-12-02,FEPP,Fee payment procedure,Free format text: MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2020-05-18,LAPS,Lapse for failure to pay maintenance fees,Free format text: PATENT EXPIRED FOR FAILURE TO PAY MAINTENANCE FEES (ORIGINAL EVENT CODE: EXP.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2020-05-18,STCH,Information on status: patent discontinuation,Free format text: PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362
+    2020-06-09,FP,Lapsed due to failure to pay maintenance fee,Effective date: 20200412
+

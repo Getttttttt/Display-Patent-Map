@@ -1,0 +1,195 @@
+ID
+    US20220266806A1
+citation_exist
+    Patent Citations (8)
+citation_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    US9847741B2                      *,2015-08-28,2017-12-19,Dr. Johannes Heidenhain Gmbh,Circuit arrangement for an electromagnetic holding brake
+    US10001183B2                      *,2014-07-31,2018-06-19,Hitachi Automotive Systems, Ltd.,Brake apparatus
+    US20180215404A1                      *,2017-01-31,2018-08-02,Makita Corporation,Electric push cart
+    US10300895B2                      *,2014-12-27,2019-05-28,Hitachi Automotive Systems, Ltd.,Brake device
+    US10723227B2                      *,2015-08-11,2020-07-28,Byd Company Limited,Brake system and method for four-wheel drive electric vehicle and electric vehicle
+    US11021068B2                      *,2017-01-24,2021-06-01,Nissan Motor Co., Ltd.,Vehicle control device and control method
+    US20210221341A1                      *,2018-06-01,2021-07-22,Freni Brembo S.P.A.,Method for controlling a braking system of a vehicle and related system
+    US11433867B2                      *,2018-12-20,2022-09-06,Doosan Industrial Vehicle Co., Ltd.,Electric brake system for electric vehicle
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    A technique controls an electric brake of a vehicle. The technique involves continuously providing power to the electric brake of the vehicle to continuously disengage the electric brake and allow the vehicle to move. The technique further involves, while power is continuously provided to the electric brake and the vehicle is moving, sensing a fault condition. The technique further involves, in response to sensing the fault condition, providing electric pulses to the electric brake in place of continuously providing power to the electric brake, the electric pulses having varying pulse timing that controls braking of the vehicle. Accordingly, the vehicle is able to provide a more consistent braking response regardless of variations in certain factors such as brake calibration and/or current wear, the current weight in the vehicle, the current temperature, etc.
+title
+    Emergency vehicle braking using closed-loop pulsing
+similar_document
+26
+    Publication,Publication Date,Title
+    US11124074B2,2021-09-21,Handling a fault condition on a lithium-battery-powered utility vehicle
+    CN107097777B,2022-09-20,System and method for managing torque
+    KR100980079B1,2010-09-06,Hill hold for an electric vehicle
+    EP3342623B1,2020-11-25,Charging a lithium batery on a utility vehicle
+    EP2623380B1,2016-11-16,A method of controlling a brake system for a vehicle
+    CN105365580B,2017-11-17,A kind of electric automobile intelligent control method and system
+    US20180093572A1,2018-04-05,Regenerative braking control method and system
+    US20150232092A1,2015-08-20,Vehicle speed control system and method with external force compensation
+    US20140121871A1,2014-05-01,Method and system for controlling the charging of a hybrid vehicle
+    CN109017747B,2021-04-06,Front and rear axle torque distribution method and system of new energy four-wheel drive vehicle and related components
+    KR102574116B1,2023-09-05,Vehicle and method for controlling the vehicle
+    JP6018407B2,2016-11-02,Method for selecting vehicle driving type
+    US10427685B2,2019-10-01,Vehicle capable of regenerative braking, and control method of a vehicle capable of regenerative braking
+    CN108357481B,2019-11-22,Prevent electronic parking control method, the apparatus and system of caliper damage
+    CN103847737A,2014-06-11,Auto cruise downhill control method for vehicle
+    EP3725617B1,2022-01-05,Method and device for controlling hybrid vehicle
+    CN106414203A,2017-02-15,An arrangement and method for a cruise control brake in a vehicle
+    US20130184906A1,2013-07-18,Control System For A Vehicle On An Incline
+    EP2570317A1,2013-03-20,Method for operating an electro-mechanical brake system
+    CN114987483A,2022-09-02,Sliding feedback self-adaptive degradation control method and system for electric vehicle
+    US20210078581A1,2021-03-18,System and method for coordinating independent axles for continuous wheel slip control
+    JP2012186962A,2012-09-27,Device and method for controlling vehicle holding
+    CN109808502B,2022-02-08,Energy feedback quit control method suitable for pure electric vehicle
+    US20220266806A1,2022-08-25,Emergency vehicle braking using closed-loop pulsing
+    US20230256831A1,2023-08-17,Controlling regenerative braking to reduce skidding of a vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US17/183,779,2021-02-24,2021-02-24,Emergency vehicle braking using closed-loop pulsing
+
+inventor_number
+    3
+classfication_nums
+    15
+classfication_items
+92
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,8,8
+    B,6,0,T,8,/,9,2
+    B,6,0,T,8,/,9,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,7,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,7,4
+    B,6,0,T,1,3,/,7,4,1
+    B,6,0,T,1,3,/,7,4,3
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,7,/,0,0
+    B,6,0,T,1,7,/,1,8
+    B,6,0,T,1,7,/,2,2
+    B,6,0,T,1,7,/,2,2,1
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,5,0,/,0,0
+    B,6,0,T,2,2,5,0,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,4,0
+    B,6,0,T,2,2,7,0,/,4,0,2
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,2,1,2,1,/,0,0
+    F,1,6,D,2,1,2,1,/,1,4
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,2,1,2,1,/,0,0
+    F,1,6,D,2,1,2,1,/,1,8
+    F,1,6,D,2,1,2,1,/,2,0
+    F,1,6,D,2,1,2,1,/,2,2
+
+application_events
+6
+    2021-02-24,Application filed by Textron Innovations Inc
+    2021-02-24,Priority to US17/183,779
+    2021-03-24,Assigned to TEXTRON INC.
+    2022-03-30,Assigned to TEXTRON INNOVATIONS INC.
+    2022-08-25,Publication of US20220266806A1
+    Status,Pending
+
+active_area
+1
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US17/183,779,2021-02-24,Emergency vehicle braking using closed-loop pulsing
+
+legal_event
+7
+    Date,Code,Title,Description
+    2021-03-24,AS,Assignment,Owner name: TEXTRON INC., RHODE ISLANDFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:KING, RUSSELL WILLIAM;GROVE, KEVIN DOUGLAS;SIGNING DATES FROM 20210223 TO 20210224;REEL/FRAME:055697/0549
+    2021-08-22,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2022-03-30,AS,Assignment,Owner name: TEXTRON INNOVATIONS INC., RHODE ISLANDFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:TEXTRON INC.;REEL/FRAME:059442/0288Effective date: 20220102
+    2023-05-23,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2023-08-22,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2023-10-18,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+

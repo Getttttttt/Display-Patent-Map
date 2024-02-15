@@ -1,0 +1,134 @@
+ID
+    WO2022262202A1
+citation_exist
+    Patent Citations (23)
+citation_infor
+25
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2010167970A                      *,2009-01-23,2010-08-05,Toyota Motor Corp,ブレーキ制御装置
+    CN101801743A                      *,2007-07-05,2010-08-11,丰田自动车株式会社,行程传感器异常判定设备和判定方法及制动控制设备和方法
+    JP2012108029A                      *,2010-11-18,2012-06-07,Toyota Motor Corp,センサ異常判定装置
+    CN103052548A                      *,2010-08-04,2013-04-17,丰田自动车株式会社,行程传感器异常判定装置
+    CN105620459A                      *,2014-11-28,2016-06-01,上海汽车集团股份有限公司,电动汽车制动踏板诊断方法及装置
+    CN109080600A                      *,2018-07-19,2018-12-25,奇瑞汽车股份有限公司,制动踏板行程传感器的误差自学习方法及装置
+    CN113008574A                      *,2021-03-18,2021-06-22,中国第一汽车股份有限公司,混动汽车加速踏板位置行程输出校准方法及混动汽车
+    CN113246739A                      *,2021-06-17,2021-08-13,中国第一汽车股份有限公司,一种混合动力车辆及其制动控制方法
+    Family To Family Citations,,,,
+    JP2000249577A                      *,1999-03-01,2000-09-14,Toyota Motor Corp,状態量検出装置の異常検出装置
+    JP4180784B2                      *,2000-11-24,2008-11-12,三菱自動車工業株式会社,ブレーキ操作関連量センサの零点補正装置
+    US7580781B2                      *,2005-12-14,2009-08-25,Clark Equipment Company,Diagnostic system for a power machine
+    US7717823B2                      *,2006-11-27,2010-05-18,Zf Friedrichshafen Ag,Method and apparatus for changing shift scheduling modes of automated mechanical transmission
+    KR101328708B1                      *,2007-05-15,2013-11-11,현대자동차주식회사,차량용 브레이크 페달 유닛
+    JP5098877B2                      *,2008-07-31,2012-12-12,トヨタ自動車株式会社,センサ異常判定装置およびセンサ異常判定方法
+    CN102269060B                      *,2011-07-05,2013-09-18,昆山力久新能源汽车技术有限公司,汽车用电子油门信号的安全处理方法
+    KR101248035B1                      *,2011-08-25,2013-04-09,강성삼,오토차량의 안전제동장치
+    CN105620458B                      *,2014-11-28,2019-04-30,上海汽车集团股份有限公司,制动踏板位置信号诊断方法及装置
+    CN106427601B                      *,2015-08-11,2019-02-26,比亚迪股份有限公司,基于四轮驱动的电动汽车的制动系统及方法及电动汽车
+    CN105422290B                      *,2015-12-07,2018-10-16,潍柴动力股份有限公司,小油门故障识别及处理、发动机和油门信号处理方法
+    JP2017155686A                      *,2016-03-03,2017-09-07,マツダ株式会社,エンジンの制御装置
+    DE102016115275A1                      *,2016-08-17,2018-02-22,Knorr-Bremse Systeme für Schienenfahrzeuge GmbH,Bremsendiagnoseeinrichtung einer Bremseinrichtung eines Fahrzeugs und Diagnoseverfahren dafür
+    US10941704B2                      *,2019-04-03,2021-03-09,Ford Global Technologies, Llc,Systems and methods for controlling engine operation to support external electric loads
+    CN111038277B                      *,2019-11-04,2021-01-26,郑州意昂新能源汽车科技有限公司,一种纯电动车加速踏板开度的计算及处理方法
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    CN113246739A                      *,2021-06-17,2021-08-13,中国第一汽车股份有限公司,一种混合动力车辆及其制动控制方法
+    CN115257670B                      *,2022-08-30,2023-08-11,麦格纳动力总成(江西)有限公司,一种针对ipb制动系统的刹车压力控制方法及装置
+
+abstract
+    一种混合动力车辆及其制动控制方法。制动控制方法由车辆制动控制装置包括的控制模块（1）执行，车辆制动控制装置还包括第一位置传感器（21）和第二位置传感器（22）；第一位置传感器（21）设置为采集制动踏板（2）的第一行程位置信息，并输出第一行程位置电压参数Oupt1；第二位置传感器（22）设置为采集制动踏板（2）的第二行程位置信息，并输出第二行程位置电压参数Oupt2；控制模块（1）与第一位置传感器（21）和第二位置传感器（22）连接；制动控制方法包括：获取第一行程位置电压参数Oupt1和第二行程位置电压参数Oupt2；处理第一行程位置电压参数Oupt1和第二行程位置电压参数Oupt2，获得第一行程和第二行程；根据第一行程和第二行程，确定制动踏板（2）的位置。
+title
+    混合动力车辆及其制动控制方法
+similar_document
+26
+    Publication,Publication Date,Title
+    WO2022262202A1,2022-12-22,混合动力车辆及其制动控制方法
+    WO2022193719A1,2022-09-22,混动汽车加速踏板位置行程输出校准方法及混动汽车
+    CN100526624C,2009-08-12,辅助启动机动车的方法以及相应的装置
+    US20100100345A1,2010-04-22,System and method for identifying issues in current and voltage measurements
+    CN109927720B,2021-01-19,一种动态制动辅助控制方法、装置及系统
+    CN109591811A,2019-04-09,车辆制动方法、装置及存储介质
+    CN112757897A,2021-05-07,一种纯电动汽车的油门踏板自学习方法、系统及车辆
+    JP6122068B2,2017-04-26,車速検出装置の故障判定装置
+    CN110727994A,2020-01-24,参数解耦的电动汽车质量与坡度估计方法
+    CN108944440B,2020-09-01,一种加速踏板的控制方法、装置、车辆及计算设备
+    EP3995378A1,2022-05-11,Pedal fault diagnosis method and device
+    US20210124344A1,2021-04-29,Perception System Diagnosis Using Predicted Sensor Data And Perception Results
+    CN111016648B,2021-08-20,油门信号的调整方法和装置
+    US6879891B1,2005-04-12,Method and device for monitoring a computing element in a motor vehicle
+    CN110979348B,2021-08-24,一种工况法能耗测试的车速控制方法、装置及设备
+    US9008936B2,2015-04-14,Vehicle control apparatus
+    CN108839650B,2020-04-21,容错控制方法及装置
+    JP5359839B2,2013-12-04,内燃機関の制御装置
+    CN110949403B,2021-06-22,一种车用柴油机油门故障预诊断方法及系统
+    CN114858482A,2022-08-05,一种车身耐撞性的检测方法及装置
+    CN113602250A,2021-11-05,电动汽车的自动驻车方法、装置、车辆及存储介质
+    CN111636967A,2020-09-08,一种汽车油门信号采集处理算法
+    CN109466439B,2021-11-05,双变量误踩判断法及基于该方法的防止误踩的方法
+    CN113844453B,2023-07-25,加速踏板的开度值确定方法、装置、电子终端及存储介质
+    EP4186764A1,2023-05-31,Apparatus and method for computing torque of electric vehicle for exiting drift driving
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    5
+classfication_nums
+    3
+classfication_items
+18
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,0,2
+    B,6,0,T,7,/,0,4
+    B,6,0,T,7,/,0,4,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+
+application_events
+2
+    2021-11-25,Application filed by 中国第一汽车股份有限公司
+    2022-12-22,Publication of WO2022262202A1
+
+active_area
+1
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    CN202110671899.XA,2021-06-17,一种混合动力车辆及其制动控制方法
+    CN202110671899.X,2021-06-17,
+
+legal_event
+2
+    Date,Code,Title,Description
+    2023-02-01,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 21945779Country of ref document: EPKind code of ref document: A1
+

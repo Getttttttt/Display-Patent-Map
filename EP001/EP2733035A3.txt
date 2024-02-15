@@ -1,0 +1,186 @@
+ID
+    EP2733035A3
+citation_exist
+    Patent Citations (12)
+citation_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH09168202A                      *,1995-12-12,1997-06-24,Toyota Motor Corp,制動状態報知機能を有する電気車
+    DE19604134A1                      *,1996-02-06,1997-08-07,Bosch Gmbh Robert,Verfahren und Vorrichtung zur Steuerung der Bremsanlage von Kraftfahrzeugen mit elektrischem Antrieb
+    US6176556B1                      *,1998-09-02,2001-01-23,Chrysler Corporation,Braking system for accommodation of regenerative braking in an electric or hybrid electric vehicle
+    US20040251095A1                      *,2003-06-12,2004-12-16,Hydro-Quebec,Electric vehicle braking system
+    US20070112475A1                      *,2005-11-17,2007-05-17,Motility Systems, Inc.,Power management systems and devices
+    JP2008120157A                      *,2006-11-09,2008-05-29,Mitsubishi Heavy Ind Ltd,作業車両用制動装置および作業車両
+    DE102009009647A1                      *,2009-02-19,2010-08-26,Lucas Automotive Gmbh,Bremsaggregat für ein Landfahrzeug mit regenerativer Bremsfunktionalität
+    JP2010206976A                      *,2009-03-04,2010-09-16,Denso Corp,車載用報知装置
+    EP2314486A1                      *,2009-09-23,2011-04-27,Scania CV AB,Bremssystem, in dem abgeriebene Bremsen und regenerative Bremsen je nach Bremspedalbetätigung aktiviert werden
+    EP2343208A1                      *,2008-09-30,2011-07-13,Honda Motor Co., Ltd.,Vorrichtung zur fahrerunterrichtung über fahroperationen zur erhöhung der brennstoffeffizienz
+    US20110304198A1                      *,2010-06-11,2011-12-15,Cottrell V Daniel D,Method for controlling regenerative and hydraulic braking
+    JP2012505791A                      *,2008-10-21,2012-03-08,ルノー・トラックス,ハイブリッド自動車の運転者の能力を決定する方法及びシステム、並びにそのようなシステムを備えた車両
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (4)
+              
+
+
+citedBy_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    DE102015215532A1                      *,2015-08-14,2017-02-16,Robert Bosch Gmbh,Verfahren und Vorrichtung zum Betreiben eines Bremssystems eines Kraftfahrzeugs, Bremssystem
+    DE102016220385B4,2016-10-18,2021-10-28,Audi Ag,Verfahren zum Kontrollieren eines Bremspedals
+    DE102019206655A1                      *,2019-05-08,2020-11-12,Volkswagen Aktiengesellschaft,Verfahren und System zur Unterstützung eines Fahrers beim Betrieb eines Fahrzeuges
+    CN114683861A                      *,2020-12-31,2022-07-01,威马智慧出行科技(上海)股份有限公司,一种带有能量回收的车辆及其能量回收的控制方法、装置
+
+abstract
+    Die Erfindung betrifft eine Steuervorrichtung (10) für zumindest eine Bremssystemkomponente (18) eines rekuperativen Bremssystems mit einer Elektronikeinrichtung (12), welche dazu ausgelegt ist, eine erste Information (14) bezüglich eines aktuell maximal ausübbaren Motor-Bremsmoments (Bm) mindestens eines generatorisch betreibbaren Elektromotors und eine zweite Information (16) bezüglich angeforderten Soll-Bremsmoments (Bsoll) zu empfangen oder zu ermitteln, und die Bremssystemkomponente (18), mittels welcher eine der Betätigung des Bremspedals entgegenwirkende Gegenkraft (Fg) ausübbar ist, anzusteuern, wobei die Elektronikeinrichtung (12) zusätzlich dazu ausgelegt ist, unter Berücksichtigung der ersten Information (14) und der zweiten Information (16) die Bremssystemkomponente (18) so anzusteuern, dass eine haptische Rückmeldung an den das Bremspedal betätigenden Fahrer aufgrund einer Kraftstufe der von der angesteuerten Bremssystemkomponente (18) ausgeübten Gegenkraft (Fg) bei einem Überschreiten des aktuell maximal ausübbaren Motor-Bremsmoments (Bm) durch das Soll-Bremsmoment (Bsoll) ausgebbar ist. Die Erfindung betrifft auch eine weitere Steuervorrichtung und ein Verfahren zum Betreiben mindestens eines rekuperativen Bremssystems eines Fahrzeugs.
+title
+    Steuervorrichtung für zumindest eine Bremssystemkomponente eines rekuperativen Bremssystems, Steuervorrichtung für eine Informationsausgabeeinrichtung eines Fahrzeugs und Verfahren zum Betreiben mindestens eines rekuperativen Bremssystems eines Fahrzeugs
+similar_document
+26
+    Publication,Publication Date,Title
+    EP2733035A3,2014-10-22,Steuervorrichtung für zumindest eine Bremssystemkomponente eines rekuperativen Bremssystems, Steuervorrichtung für eine Informationsausgabeeinrichtung eines Fahrzeugs und Verfahren zum Betreiben mindestens eines rekuperativen Bremssystems eines Fahrzeugs
+    DE102014117778B4,2020-06-10,Trockenkupplung-Steuerungsverfahren für ein Fahrzeug
+    EP2423065A3,2017-12-27,Verfahren und System zur Steuerung einer elektrischen Maschine in einem Antriebsstrang eines Kraftfahrzeuges
+    DE102012210574A1,2013-05-16,System und Verfahren zum Steuern des Kriechmoments eines Fahrzeugs
+    DE102017204636B4,2023-01-26,Verfahren und Vorrichtung zum ruckfreien Anhalten eines Kraftfahrzeugs
+    DE102011077313A1,2012-12-13,Verfahren zum Betreiben einer Bremsanlage sowie Bremsanlage
+    EP1731755A3,2009-09-09,Verfahren und Vorrichtung zur Steuerung eines Verbrennungsmotors vor einem Anfahrvorgang
+    EP2184616A3,2011-11-09,Verfahren und Einrichtung für die Steuerung einer Strahlungsquelle
+    DE102013219620A1,2015-04-02,Verfahren zur Beeinflussung des Kriechmoments eines Kraftfahrzeugs während eines Stillstands des Kraftfahrzeugs
+    EP2769866A3,2018-04-18,Fahrerassistenzsystem für die Beschleunigung eines Fahrzeugs mittels eines Fahrpedals
+    EP2133249A3,2011-03-02,Elektrische Feststellbremse mit Einfallsperre und Verfahren zum Betreiben einer elektrischen Feststellbremse mit Einfallsperre
+    DE102019135184A1,2020-07-09,Verfahren und vorrichtung zur steuerung eines fahrzeugbetriebs auf einer steigung
+    DE112013007393T5,2016-05-25,Fahrzeug-Fahrvorrichtung und Fahrzeug-Fahrsteuerverfahren
+    DE102009029525A1,2011-03-24,Verfahren zur Betätigung eines Feststellbremssystems in einem Fahrzeug
+    EP2033865A3,2009-11-25,Verfahren zur dynamischen Momentenkoordination von Aggregaten eines Hybridantriebs eines Fahrzeugs und entsprechende Vorrichtung
+    DE102012210946A1,2013-01-03,System und Verfahren zum Aufrechterhalten eines Unterdrucks eines hydraulischen Bremsassistenten
+    EP2528228A3,2014-05-28,Verfahren und Vorrichtung zur Steuerung und/oder Regelung eines Elektromotors
+    EP3012144A3,2016-10-12,Verfahren zur steuerung einer einstellbaren rückstellkraft auf ein fahrpedal eines nutzfahrzeugs
+    DE102013221479A1,2015-04-23,Verfahren zum Steuern eines Kupplungsstarts nach einer Motor-Stopp-Segelphase eines Kraftfahrzeugs
+    WO2018121954A1,2018-07-05,Steuervorrichtung und verfahren zum betreiben eines elektromechanischen bremskraftverstärkers eines bremssystems eines fahrzeugs
+    EP2163435A3,2010-09-08,Verfahren und Vorrichtung zur Übertragung über einen Fahrzeugdatenbus einer Ansteuerungsentscheidung von einem Steuergerät zu einem Aktuatorik
+    DE102013021817A1,2015-06-25,Hybridfahrzeug
+    DE102008043264A1,2010-05-06,Verfahren zur Aufrechterhaltung eines fahrerunabhängigen Bremseingriffs nach einer Kollision
+    DE102014224677A1,2016-06-02,Verfahren und Steuereinheit zum Einleiten eines Segelmodus bei einem Kraftfahrzeug
+    EP2918468A3,2016-11-23,Verfahren zur Anpassung mindestens einer Sollgeschwindigkeit einer Fahrzeuggeschwindigkeitsregelung und Fahrerassistenzsystem
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    5
+classfication_nums
+    11
+classfication_items
+68
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,6,6
+    B,6,0,T,1,3,/,6,6,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,0,2
+    B,6,0,T,7,/,0,4
+    B,6,0,T,7,/,0,4,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,1,4
+    B,6,0,W,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,2,0,/,0,0
+    B,6,0,T,2,2,2,0,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,8,9
+
+application_events
+4
+    2013-09-24,Application filed by Robert Bosch GmbH
+    2014-05-21,Publication of EP2733035A2
+    2014-10-22,Publication of EP2733035A3
+    Status,Withdrawn
+
+active_area
+0
+
+not_active_area
+2
+    D,E
+    E,P
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    DE201210220770,2012-11-14,Steuervorrichtung für zumindest eine Bremssystemkomponente eines rekuperativen Bremssystems, Steuervorrichtung für eine Informationsausgabeeinrichtung eines Fahrzeugs und Verfahren zum Betreiben mindestens eines rekuperativen Bremssystems eines Fahrzeugs
+
+legal_event
+11
+    Date,Code,Title,Description
+    2014-05-20,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2014-05-21,17P,Request for examination filed,Effective date: 20130924
+    2014-05-21,AK,Designated contracting states,Kind code of ref document: A2Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2014-05-21,AX,Request for extension of the european patent,Extension  state: BA ME
+    2014-09-19,PUAL,Search report despatched,Free format text: ORIGINAL CODE: 0009013
+    2014-10-22,AK,Designated contracting states,Kind code of ref document: A3Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2014-10-22,AX,Request for extension of the european patent,Extension  state: BA ME
+    2014-10-22,RIC1,Information provided on ipc code assigned before grant,Ipc: B60T   1/10        20060101ALI20140915BHEPIpc: B60W  20/00        20060101AFI20140915BHEPIpc: B60T   8/40        20060101ALI20140915BHEPIpc: B60W  30/18        20120101ALI20140915BHEPIpc: B60T   7/04        20060101ALI20140915BHEPIpc: B60W  10/18        20120101ALI20140915BHEP
+    2015-09-18,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE APPLICATION IS DEEMED TO BE WITHDRAWN
+    2015-10-21,18D,Application deemed to be withdrawn,Effective date: 20150423
+

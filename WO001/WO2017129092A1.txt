@@ -1,0 +1,164 @@
+ID
+    WO2017129092A1
+citation_exist
+    Patent Citations (10)
+citation_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH0998509A                      *,1995-10-03,1997-04-08,Mitsubishi Motors Corp,電気自動車用回生制動制御装置
+    US20010024062A1                      *,2000-03-24,2001-09-27,Sumitomo (Sei) Brake Systems, Inc.,Control method for a coordinated regenerative brake system
+    CN101407179A                      *,2008-11-28,2009-04-15,清华大学,有防抱死制动功能的混合制动系统及控制方法
+    CN103661001A                      *,2013-12-10,2014-03-26,武汉新能车桥技术发展有限公司,双轮驱动系统差速控制方法及系统
+    Family To Family Citations,,,,
+    JP2001025110A                      *,1999-07-08,2001-01-26,Toshiba Corp,車両制御装置
+    JP4039146B2                      *,2001-09-27,2008-01-30,日産自動車株式会社,制動制御装置
+    CN101979259B                      *,2010-09-10,2013-04-10,奇瑞汽车股份有限公司,一种电动车能量回收系统的控制方法
+    CN102267459B                      *,2011-05-17,2013-07-10,清华大学,一种电机驱动车辆的驱动防滑调节控制方法
+    CN104108316B                      *,2014-04-12,2017-01-25,北京工业大学,一种纯电动汽车的电液联合制动控制方法
+    CN104385937A                      *,2014-10-16,2015-03-04,奇瑞汽车股份有限公司,一种纯电动汽车牵引力控制方法
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (8)
+              
+
+
+citedBy_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN113928130A                      *,2021-10-29,2022-01-14,东风越野车有限公司,电动汽车车轮控制方法及设备
+    CN114083995A                      *,2021-11-12,2022-02-25,东风越野车有限公司,一种轮毂电机汽车的转矩分配的方法、系统和介质
+    CN114291050A                      *,2021-12-28,2022-04-08,菲格智能科技有限公司,一种车辆控制方法、装置、可读存储介质和车辆
+    Family To Family Citations,,,,
+    JP6712580B2                      *,2017-09-25,2020-06-24,太陽誘電株式会社,モータ駆動制御装置及び電動アシスト車
+    CN108556844B                      *,2018-06-15,2020-06-30,北京新能源汽车股份有限公司,一种车辆的控制方法、装置、设备及车辆
+    CN112874316B                      *,2021-01-27,2023-03-21,奇瑞新能源汽车股份有限公司,电动汽车的稳定性控制方法、装置及车辆
+    CN112874501B                      *,2021-01-28,2022-07-22,奇瑞新能源汽车股份有限公司,电动汽车的稳定性控制方法、装置及车辆
+    CN113682147B                      *,2021-09-16,2023-06-16,航天重型工程装备有限公司,一种控制电液复合踏板的方法及装置
+
+abstract
+    一种电动汽车的辅助制动系统（100）及其控制方法及电动汽车，该系统（100）包括：速度检测装置（110）；制动踏板开度检测装置（120）；整车控制器（140）。整车控制器（140）用于在车速大于预定车速时，根据制动踏板开度的变化和变化时间确定踩下制动踏板的加速度，并在加速度大于预定加速度时，根据车速、车轮转速和预定车胎滑移率确定制动力矩，并根据制动力矩生成回馈制动信号；车轮电机制动装置（130），包括车轮制动电机（131），车轮电机制动装置（130）用于在接收到回馈制动信号时向车轮施加制动力，以对车辆进行回馈制动。该辅助制动系统（100）具有制动响应速度快、制动距离短的优点，从而可以保证车辆安全，另外，该辅助制动系统具有结构简单、成本低的优点。
+title
+    电动汽车的辅助制动系统及其控制方法及电动汽车
+similar_document
+26
+    Publication,Publication Date,Title
+    WO2017129092A1,2017-08-03,电动汽车的辅助制动系统及其控制方法及电动汽车
+    WO2017129091A1,2017-08-03,电动汽车的防碰撞系统及其控制方法及电动汽车
+    US20180093571A1,2018-04-05,Braking torque blending system and method
+    JP5302749B2,2013-10-02,電気自動車の制御装置
+    US9493075B2,2016-11-15,Regenerative braking control system and method
+    JP6818481B2,2021-01-20,車両用回生制動協調制御システムの制動制御方法
+    CN103764431B,2016-02-17,车辆的制动力控制装置
+    WO2015079910A1,2015-06-04,移動体の駆動制御装置
+    CN105383312A,2016-03-09,车辆的制动设备
+    US9174549B2,2015-11-03,Driving force control device for electric vehicle
+    JP2004026146A,2004-01-29,車両の制動方法及び装置
+    CN107697046A,2018-02-16,自动紧急制动方法及系统
+    US20220340018A1,2022-10-27,Control Apparatus for Vehicle, Control System for Vehicle, and Control Method for Vehicle
+    KR20150071568A,2015-06-26,자동 긴급 제동 방법 및 시스템
+    KR101894382B1,2018-09-04,차량용 제동력 제어 장치 및 방법
+    CN104816637A,2015-08-05,再生制动控制系统和方法
+    US10227012B2,2019-03-12,Brake control device of railcar
+    US20140163786A1,2014-06-12,System and method for improved abs performance during parallel regenerative braking
+    US10343684B2,2019-07-09,Systems and methods for smooth stopping of a vehicle
+    JP6291460B2,2018-03-14,電動車両
+    CN111907494B,2022-08-02,车辆的制动控制装置
+    JP6323681B2,2018-05-16,車両の制御装置
+    US11691520B2,2023-07-04,System for an electrically driven vehicle, vehicle having same and method for same
+    JP6124123B2,2017-05-10,回生協調ブレーキ制御システム
+    KR101714084B1,2017-03-22,인휠 구동시스템 및 에이비에스 제동방법
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    7
+classfication_nums
+    9
+classfication_items
+52
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+2
+    2017-01-23,Application filed by 比亚迪股份有限公司
+    2017-08-03,Publication of WO2017129092A1
+
+active_area
+2
+    C,N
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    CN201610053400.8,2016-01-27,
+    CN201610053400.8A,2016-01-27,电动汽车的辅助制动系统、控制方法及电动汽车
+
+legal_event
+4
+    Date,Code,Title,Description
+    2017-10-04,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 17743707Country of ref document: EPKind code of ref document: A1
+    2018-07-28,NENP,Non-entry into the national phase,Ref country code: DE
+    2019-02-20,122,Ep: pct application non-entry in european phase,Ref document number: 17743707Country of ref document: EPKind code of ref document: A1
+

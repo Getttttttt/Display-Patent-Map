@@ -1,0 +1,285 @@
+ID
+    JP2019170045A
+citation_exist
+    Patent Citations (23)
+citation_infor
+25
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2008219956A                      *,2007-02-28,2008-09-18,Mitsubishi Electric Corp,電動機駆動制御装置及び電動機
+    JP2013529055A                      *,2010-06-14,2013-07-11,イスパノ・シユイザ,電圧インバータおよびそのようなインバータの制御方法
+    JP2014171362A                      *,2013-03-05,2014-09-18,Nippon Soken Inc,電力変換装置
+    JP2016181948A                      *,2015-03-23,2016-10-13,株式会社日本自動車部品総合研究所,電力変換装置
+    JP2017169251A                      *,2016-03-14,2017-09-21,株式会社明電舎,オープン巻線誘導機の零相電流抑制制御装置
+    Family To Family Citations,,,,
+    JP2000125411A,1998-10-13,2000-04-28,Toyota Motor Corp,モータ駆動装置
+    JP4134439B2,1999-04-30,2008-08-20,トヨタ自動車株式会社,電力変換システム
+    JP4229542B2                      *,1999-09-13,2009-02-25,東芝エレベータ株式会社,交流電動機制御装置
+    US7202572B2,2002-07-30,2007-04-10,Daimlerchrysler Ag,Generator/motor system and method of operating said system
+    DE10234594B4,2002-07-30,2005-02-24,Daimlerchrysler Ag,Generator/Motor-System und Verfahren zum Betreiben dieses Generator/Motor-Systems
+    US7199535B2                      *,2005-01-26,2007-04-03,General Motors Corporation,Doubled-ended inverter drive system topology for a hybrid vehicle
+    FR2910197B1                      *,2006-12-13,2009-02-06,Messier Dowty Sa Sa,Alimentation a deux onduleurs en serie pour actionneur electromecanique polyphase
+    US8102142B2                      *,2007-07-30,2012-01-24,GM Global Technology Operations LLC,Double ended inverter system for a vehicle having two energy sources that exhibit different operating characteristics
+    JP5511700B2                      *,2011-01-24,2014-06-04,三菱電機株式会社,インバータ装置、ファン駆動装置、圧縮機駆動装置および空気調和機
+    JP5535285B2                      *,2012-08-24,2014-07-02,株式会社安川電機,交流電動機の巻線切換装置およびインバータ装置
+    JP5614661B2                      *,2012-10-09,2014-10-29,株式会社デンソー,回転電機制御装置、および、これを用いた電動パワーステアリング装置
+    WO2017150641A1                      *,2016-03-04,2017-09-08,日本電産株式会社,電力変換装置、モータ駆動ユニットおよび電動パワーステアリング装置
+    CN105811834B                      *,2016-04-26,2019-02-05,南京航空航天大学,开绕组永磁同步电机紧凑型驱动系统及其驱动方法
+    CN106357144B                      *,2016-09-12,2019-01-25,东南大学,一种双逆变器拓扑结构的开绕组电机驱动系统中逆变器故障诊断与容错控制方法
+    CN110495089B                      *,2017-03-31,2021-06-22,日本电产株式会社,电力转换装置、马达驱动单元以及电动助力转向装置
+    JP7136110B2                      *,2017-08-31,2022-09-13,日本電産株式会社,電力変換装置、モータ駆動ユニットおよび電動パワーステアリング装置
+    US11472472B2                      *,2017-09-13,2022-10-18,Nidec Corporation,Power conversion device, motor module, and electric power steering device
+    JP7088200B2                      *,2017-09-21,2022-06-21,日本電産株式会社,モータ制御方法、電力変換装置、モータモジュールおよび電動パワーステアリング装置
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (5)
+              
+
+
+citedBy_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    CN111355424B                      *,2020-04-16,2022-03-11,广东美的制冷设备有限公司,驱动控制电路、驱动控制方法、线路板及空调器
+    CN111355425A                      *,2020-04-16,2020-06-30,广东美的制冷设备有限公司,驱动控制电路、驱动方法、装置、压缩机和空调设备
+    CN111355420B                      *,2020-04-16,2022-03-29,广东美的制冷设备有限公司,电机驱动控制电路、驱动方法、线路板及空调器
+    CN111355418B                      *,2020-04-16,2022-05-31,美的集团武汉制冷设备有限公司,驱动控制电路、驱动控制方法、线路板及空调器
+    CN111355421B                      *,2020-04-16,2022-02-18,广东美的制冷设备有限公司,驱动控制电路、驱动控制方法、线路板及空调器
+
+abstract
+    【課題】適切な状態で３相オン状態とする。【解決手段】制御部２４は、モータ１０についての出力要求に応じたモータ電圧ベクトルを、第１インバータ１２の出力についての第１インバータ電圧ベクトルと、第２インバータ１４の出力についての第２インバータ電圧ベクトルに分配するとともに、３相オンの切り替え条件を満たすか否かを判定する。そして、３相オンの判定結果が満たすである場合に、一方のインバータにおける前記複数の上スイッチング素子または前記複数の下スイッチング素子のいずれかのすべてをオンし前記モータの各相コイルの一端を共通接続する３相オンに切り替え、他方のインバータの出力のみで前記モータを駆動する。ここで、３相オンの切り替え条件は、一方のインバータが故障していること、２つのインバータは故障しておらず一方のインバータの出力についてのインバータ電圧ベクトルが０近傍であること、を含む。【選択図】図１
+title
+    システム
+similar_document
+24
+    Publication,Publication Date,Title
+    JP2019170045A,2019-10-03,システム
+    US11239771B2,2022-02-01,Motor system
+    US20150097505A1,2015-04-09,Current source inverter device
+    CN110299884B,2022-11-01,马达系统
+    JP2020058176A,2020-04-09,モータ駆動システム
+    JP6994968B2,2022-01-14,Ｓｒモータ制御システム
+    JP4572610B2,2010-11-04,モータ駆動システムの制御装置
+    WO2019102539A1,2019-05-31,回転電機制御装置及び電動車両
+    JP6705438B2,2020-06-03,回転電機の制御装置
+    JP4559665B2,2010-10-13,電動機駆動制御装置
+    CN116470821A,2023-07-21,电机驱动装置及其控制方法
+    JP7187870B2,2022-12-13,モータシステム
+    JP7040197B2,2022-03-23,モータシステム
+    JP2005168140A,2005-06-23,モータ制御装置及びその制御方法
+    JP7196450B2,2022-12-27,モータシステム
+    JP6409966B2,2018-10-24,モータ制御装置とモータ制御方法
+    CN110299873B,2023-02-10,电机系统
+    WO2021131203A1,2021-07-01,回転電機制御装置
+    JP4869828B2,2012-02-08,インバータ装置およびモータの制御装置
+    JP2009131024A,2009-06-11,電力変換装置及びその制御方法
+    JP6492900B2,2019-04-03,モータ駆動装置とモータ駆動方法
+    JP2021197890A,2021-12-27,回転電機制御装置
+    JP2019134588A,2019-08-08,回転電機の制御装置
+
+patent_application
+    NoExist
+patent_priority_application
+4
+    Application,Priority date,Filing date,Title
+    JP2018055320A,2018-03-22,2018-03-22,システム
+    CN201910182363.4A,2018-03-22,2019-03-11,电动机系统
+    US16/360,463,2018-03-22,2019-03-21,Motor system
+
+inventor_number
+    15
+classfication_nums
+    24
+classfication_items
+152
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,4,2
+    H,0,2,M,7,/,4,4
+    H,0,2,M,7,/,4,8
+    H,0,2,M,7,/,5,3
+    H,0,2,M,7,/,5,3,7
+    H,0,2,M,7,/,5,3,8,7
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,7,/,0,0
+    H,0,2,P,2,7,/,0,4
+    H,0,2,P,2,7,/,0,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,2
+    B,6,0,L,1,5,/,0,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,4,2
+    H,0,2,M,7,/,4,4
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,4,2
+    H,0,2,M,7,/,4,4
+    H,0,2,M,7,/,4,8
+    H,0,2,M,7,/,5,3
+    H,0,2,M,7,/,5,3,7
+    H,0,2,M,7,/,5,3,8,7
+    H,0,2,M,7,/,5,3,8,7,1
+    H,0,2,M,7,/,5,3,8,7,5
+    H,0,2,M,7,/,5,3,8,7,6
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,1,1,/,0,0
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,1,/,0,0
+    H,0,2,P,2,1,/,2,2
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,5,/,0,0
+    H,0,2,P,2,5,/,1,6
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,5,/,0,0
+    H,0,2,P,2,5,/,1,6
+    H,0,2,P,2,5,/,1,8
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,6,/,0,0
+    H,0,2,P,6,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,9
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,3,2
+    H,0,2,M,1,/,3,2,5
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,6,/,0,0
+    H,0,2,P,6,/,0,4
+    H,0,2,P,2,0,0,6,/,0,4,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+6
+    2018-03-22,Application filed by Denso Corp, Toyota Motor Corp
+    2018-03-22,Priority to JP2018055320A
+    2019-03-11,Priority to CN201910182363.4A
+    2019-03-21,Priority to US16/360,463
+    2019-10-03,Publication of JP2019170045A
+    Status,Pending
+
+active_area
+3
+    J,P
+    C,N
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2018055320A,2018-03-22,システム
+
+legal_event
+8
+    Date,Code,Title,Description
+    2020-07-01,A711,Notification of change in applicant,Free format text: JAPANESE INTERMEDIATE CODE: A711Effective date: 20200701
+    2021-01-12,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20210112
+    2021-01-20,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20210120
+    2021-09-28,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20210928
+    2021-11-25,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20211125
+    2022-01-18,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20220118
+    2022-07-12,A02,Decision of refusal,Free format text: JAPANESE INTERMEDIATE CODE: A02Effective date: 20220712
+

@@ -1,0 +1,251 @@
+ID
+    US10177390B2
+citation_exist
+    Patent Citations (10)
+citation_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2001351667A,2000-06-08,2001-12-21,Toyota Motor Corp,Fuel supply system for fuel cell and vehicle
+    US20020094469A1                      *,2001-01-18,2002-07-18,Toyota Jidosha Kabushiki Kaisha,Onboard fuel cell system band method of discharging hydrogen-off gas
+    JP2003115317A,2001-10-03,2003-04-18,Honda Motor Co Ltd,Stopping method of power generation of fuel cell
+    JP2007278467A,2006-04-11,2007-10-25,Honda Motor Co Ltd,High pressure gas filling system
+    JP2009138384A,2007-12-05,2009-06-25,Toyota Motor Corp,Vehicle
+    JP2010177111A,2009-01-30,2010-08-12,Honda Motor Co Ltd,Fuel cell mobile body
+    JP2011033068A,2009-07-30,2011-02-17,Toyota Motor Corp,Gas filling system
+    WO2011042932A1                      *,2009-10-07,2011-04-14,トヨタ自動車株式会社,Fuel cell system and method for stopping fuel cell system
+    US20120251911A1,2011-04-01,2012-10-04,Honda Motor Co., Ltd.,Method for controlling fuel cell system
+    US20120308906A1                      *,2009-10-30,2012-12-06,Michelin Recherche Et Technique S.A.,Fuel Cell and Method for Stopping a Fuel Cell
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (8)
+              
+
+
+citedBy_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US10741859B2                      *,2012-04-02,2020-08-11,Hydrogenics Corporation,Fuel cell start up method
+    JP6187434B2                      *,2014-11-14,2017-08-30,トヨタ自動車株式会社,FUEL CELL SYSTEM, MOBILE BODY, AND CONTROL METHOD
+    JP6558118B2                      *,2015-07-23,2019-08-14,スズキ株式会社,Fuel supply device for fuel cell
+    JP6268499B2                      *,2015-10-21,2018-01-31,株式会社タツノ,Gas filling device
+    JP6772455B2                      *,2015-12-11,2020-10-21,日産自動車株式会社,Progress information notification method and fuel cell system
+    US11167732B1                      *,2020-12-17,2021-11-09,Air Products And Chemicals, Inc.,Hydrogen fueling station with integrated ammonia cracking unit
+    CN112918258A                      *,2021-02-26,2021-06-08,东风柳州汽车有限公司,Vehicle control method, vehicle controller and vehicle hydrogenation monitoring system
+    CN114161935A                      *,2021-12-27,2022-03-11,潍柴动力股份有限公司,Method and device for judging abnormality of electromagnetic valve
+
+abstract
+    In a method for controlling a fuel cell system, a shutoff valve is opened to supply a fuel gas from a storage container to a fuel cell after a fuel cell system shutdown instruction is sent to the fuel cell system so that the fuel cell generates and discharges electricity. The storage container is supplied to the fuel gas supplied from a fuel supply source provided outside the fuel cell system in response to a filling instruction to supply the fuel gas to the storage container. A data signal indicating a state of the storage container is transmitted to the fuel supply source. The shutoff valve is closed and the storage container is supplied to the fuel gas supplied from the fuel supply source if the filling instruction is output while opening the shutoff valve after the fuel cell system shutdown instruction is sent.
+title
+    Fuel cell system and method for controlling the same
+similar_document
+26
+    Publication,Publication Date,Title
+    US10177390B2,2019-01-08,Fuel cell system and method for controlling the same
+    US9774048B2,2017-09-26,Fuel cell vehicle and moving body
+    US10090539B2,2018-10-02,Fuel cell system
+    JP5591854B2,2014-09-17,Mobile body and fuel filling system thereof
+    US7939213B2,2011-05-10,Fuel cell system and electric vehicle including the fuel cell system
+    CN102217128B,2015-04-01,Method of shut-down and starting of a fuel cell
+    KR101811107B1,2017-12-20,Fuel cell system and method for discharging fluid in the system
+    JP5215583B2,2013-06-19,Fuel cell system
+    US9093679B2,2015-07-28,Method of shutting down fuel cell system
+    US8076036B2,2011-12-13,Fuel cell system, operation method thereof, and fuel cell vehicle
+    US9048472B2,2015-06-02,Fuel cell shut-down procedure including vaporization phase
+    JP4993293B2,2012-08-08,Fuel cell system and moving body
+    US11108063B2,2021-08-31,Fuel cell system
+    US8652699B2,2014-02-18,Fuel cell system
+    US10411280B2,2019-09-10,Fuel cell system and method of shutting down the same
+    US7943260B2,2011-05-17,System and method for recirculating unused fuel in fuel cell application
+    CN105336969A,2016-02-17,Fuel cell system and shutdown control method therefor
+    JP2014192047A,2014-10-06,Method for controlling fuel cell vehicle
+    JP2014192048A,2014-10-06,Method for controlling fuel cell vehicle
+    US11476477B2,2022-10-18,Fuel cell system, control method of fuel cell system, and storage medium
+    JP2009181809A,2009-08-13,Fuel cell system and its control method
+    US9643494B2,2017-05-09,Fuel cell system
+    JP2005129243A,2005-05-19,Fuel cell system and operation method of fuel cell
+    JP6186989B2,2017-08-30,Fuel cell system
+    US20220123335A1,2022-04-21,Fuel cell system
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    28
+classfication_items
+132
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,9,8
+    H,0,1,M,8,/,0,4,3
+    H,0,1,M,8,/,0,4,3,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B,6,0,L,1,1,/,1,8,0,5
+    B,6,0,L,1,1,/,1,8,8,3
+    B,6,0,L,1,1,/,1,8,8,7
+    B,6,0,L,1,1,/,1,8,9,2
+    B,6,0,L,1,1,/,1,8,9,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,5,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,7,0
+    B,6,0,L,5,0,/,7,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,3,0
+    B,6,0,L,5,8,/,3,2
+    B,6,0,L,5,8,/,3,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,2
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,0,8,2
+    H,0,1,M,8,/,0,4,2,0,1
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,2,3
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,2,2,3
+    H,0,1,M,8,/,0,4,2,2,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,8,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,6
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,3,0
+    Y,0,2,E,6,0,/,5,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,1,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+    Y,0,2,T,9,0,/,3,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,4,0
+
+application_events
+7
+    2014-03-25,Application filed by Honda Motor Co Ltd
+    2014-03-25,Assigned to HONDA MOTOR CO., LTD.
+    2014-10-02,Publication of US20140295306A1
+    2019-01-08,Application granted
+    2019-01-08,Publication of US10177390B2
+    Status,Active
+    2036-12-06,Adjusted expiration
+
+active_area
+2
+    J,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2013-067543,2013-03-27,
+    JP2013067543A,2013-03-27,Control method of fuel cell system
+
+legal_event
+4
+    Date,Code,Title,Description
+    2014-03-25,AS,Assignment,Owner name: HONDA MOTOR CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:KIKUCHI, GO;WAKE, CHIHIRO;MATSUMOTO, YUJI;REEL/FRAME:032513/0005Effective date: 20140313
+    2018-12-19,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2022-06-22,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

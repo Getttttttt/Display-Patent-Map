@@ -1,0 +1,328 @@
+ID
+    WO2014128925A1
+citation_exist
+    Patent Citations (14)
+citation_infor
+16
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH06253414A                      *,1993-02-24,1994-09-09,Nissan Motor Co Ltd,車両用動力制御装置
+    JPH08163714A                      *,1994-12-06,1996-06-21,Mitsubishi Motors Corp,電気自動車
+    JPH08295140A,1995-04-28,1996-11-12,Aqueous Res:Kk,ハイブリッド型車両
+    JP2010125900A                      *,2008-11-25,2010-06-10,Aisin Aw Co Ltd,ハイブリッド駆動装置
+    WO2013008625A1                      *,2011-07-11,2013-01-17,アイシン・エィ・ダブリュ株式会社,車両用駆動装置
+    Family To Family Citations,,,,
+    ATE427864T1                      *,2002-04-10,2009-04-15,Luk Lamellen & Kupplungsbau,Verfahren zum betrieb eines kraftfahrzeuges
+    JP4419625B2                      *,2004-03-19,2010-02-24,日産自動車株式会社,車両用制振制御装置および車両用制振制御方法
+    JP4135682B2                      *,2004-06-07,2008-08-20,日産自動車株式会社,車両の駆動力制御装置
+    JP4026630B2                      *,2004-08-03,2007-12-26,日産自動車株式会社,車両のモータトルク制御装置
+    EP1862364B1                      *,2006-05-29,2016-05-25,Nissan Motor Co., Ltd.,Vehicle Control
+    JP5018445B2                      *,2007-12-13,2012-09-05,トヨタ自動車株式会社,車両用動力伝達装置の制御装置
+    JP5035271B2                      *,2009-02-27,2012-09-26,日産自動車株式会社,電動車両の制振制御装置
+    US8465387B2                      *,2009-03-04,2013-06-18,GM Global Technology Operations LLC,Output-split electrically-variable transmission with two planetary gear sets and two motor/generators
+    JP5333343B2                      *,2010-05-13,2013-11-06,三菱自動車工業株式会社,左右輪駆動装置
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (7)
+              
+
+
+citedBy_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2016208777A                      *,2015-04-28,2016-12-08,トヨタ自動車株式会社,車両の制御装置
+    JP2017136956A                      *,2016-02-03,2017-08-10,トヨタ自動車株式会社,ハイブリッド自動車
+    US10023180B2,2016-02-23,2018-07-17,Toyota Jidosha Kabushiki Kaisha,Control device and control method for vehicle
+    Family To Family Citations,,,,
+    US10816046B2                      *,2016-08-15,2020-10-27,Cnh Industrial America Llc,Clutch control for shared power dissipation
+    US10293808B2                      *,2017-03-03,2019-05-21,Toyota Motor Engineering & Manufacturing North America, Inc.,Constant power control
+    DE102018208425A1                      *,2018-05-28,2019-11-28,Bayerische Motoren Werke Aktiengesellschaft,Antriebsstrang für ein Kraftfahrzeug, insbesondere für einen Kraftwagen, sowie Verfahren zum Betreiben eines solchen Antriebsstrangs
+    US20200039503A1                      *,2018-08-02,2020-02-06,GM Global Technology Operations LLC,Vehicle and method of coordinated lash management
+
+abstract
+    第一回転機と、第二回転機と、を備え、第一回転機あるいは第二回転機のいずれか一方の回転機を動力源とする第一走行モードから第一回転機および第二回転機を動力源とする第二走行モードへ移行するときに、第一回転機のトルク指令値Ｔｔ１と第二回転機のトルク指令値Ｔｔ２との合計トルクを車両に対する要求トルクＴｒよりも大きくする。第一走行モードの動力源であった回転機の第一走行モードから第二走行モードへ移行するときのトルク指令値は、移行開始前のトルク指令値よりも大きくされてもよい。
+title
+    車両用駆動装置
+similar_document
+25
+    Publication,Publication Date,Title
+    WO2014128925A1,2014-08-28,車両用駆動装置
+    JP5991374B2,2016-09-14,ハイブリッド車両の動力伝達装置及びハイブリッドシステム
+    WO2011121743A1,2011-10-06,ハイブリッド車両のエンジン始動制御装置
+    WO2013114595A1,2013-08-08,ハイブリッド車両用駆動装置
+    WO2014080528A1,2014-05-30,ハイブリッド車両用駆動装置
+    US9944279B2,2018-04-17,Control system for hybrid vehicle
+    JP6115572B2,2017-04-19,動力伝達装置
+    JP6468245B2,2019-02-13,ハイブリッド車両用駆動装置
+    JP5838884B2,2016-01-06,車両用変速装置
+    JP5950036B2,2016-07-13,ハイブリッド車両用駆動装置
+    JP5929641B2,2016-06-08,ハイブリッド車両用駆動装置
+    WO2014128926A1,2014-08-28,車両用駆動装置
+    JP7367710B2,2023-10-24,車両用駆動装置の制御装置
+    JP2015020725A,2015-02-02,ハイブリッド車両用駆動装置
+    JP2014113895A,2014-06-26,ハイブリッド車両用駆動装置
+    JP2013193556A,2013-09-30,ハイブリッド車両の制御装置
+    JP6040885B2,2016-12-07,ハイブリッド車両の動力伝達装置
+    JP2015024688A,2015-02-05,ハイブリッド車両の動力伝達装置
+    JP6052093B2,2016-12-27,ハイブリッド車両の動力伝達装置
+    JP6052092B2,2016-12-27,ハイブリッド車両用駆動装置
+    WO2014080529A1,2014-05-30,ハイブリッド車両用駆動装置
+    JP2016030528A,2016-03-07,車両制御装置
+    JP2017185941A,2017-10-12,ハイブリッド車両の駆動制御装置
+    JP2015231797A,2015-12-24,動力伝達装置
+
+patent_application
+    NoExist
+patent_priority_application
+8
+    Application,Priority date,Filing date,Title
+    CN201380072799.9A,2013-02-22,2013-02-22,车辆用驱动装置
+    PCT/JP2013/054552,2013-02-22,2013-02-22,車両用駆動装置
+    KR1020157021011A,2013-02-22,2013-02-22,차량용 구동 장치
+    EP13875389.2A,2013-02-22,2013-02-22,VEHICLE CONTROL DEVICE
+    JP2015501191A,2013-02-22,2013-02-22,車両用駆動装置
+    BR112015019825A,2013-02-22,2013-02-22,dispositivo de acionamento de veículo
+    US14/768,626,2013-02-22,2013-02-22,Vehicle drive device
+
+inventor_number
+    7
+classfication_nums
+    29
+classfication_items
+187
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,2,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,3,6
+    B,6,0,K,6,/,3,6,5
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,4
+    B,6,0,K,6,/,4,4,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,4
+    B,6,0,K,6,/,4,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,1,0
+    B,6,0,L,2,2,7,0,/,1,4
+    B,6,0,L,2,2,7,0,/,1,4,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,0,4
+    Y,1,0,S,9,0,3,/,9,0,6
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,0,4
+    Y,1,0,S,9,0,3,/,9,0,9
+    Y,1,0,S,9,0,3,/,9,1
+
+application_events
+9
+    2013-02-22,Application filed by トヨタ自動車株式会社
+    2013-02-22,Priority to CN201380072799.9A
+    2013-02-22,Priority to PCT/JP2013/054552
+    2013-02-22,Priority to KR1020157021011A
+    2013-02-22,Priority to EP13875389.2A
+    2013-02-22,Priority to JP2015501191A
+    2013-02-22,Priority to BR112015019825A
+    2013-02-22,Priority to US14/768,626
+    2014-08-28,Publication of WO2014128925A1
+
+active_area
+3
+    J,P
+    C,N
+    W,O
+
+not_active_area
+4
+    U,S
+    E,P
+    B,R
+    K,R
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2013/054552,2013-02-22,車両用駆動装置
+
+legal_event
+9
+    Date,Code,Title,Description
+    2014-10-15,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 13875389Country of ref document: EPKind code of ref document: A1
+    2015-05-08,ENP,Entry into the national phase,Ref document number: 2015501191Country of ref document: JPKind code of ref document: A
+    2015-08-03,ENP,Entry into the national phase,Ref document number: 20157021011Country of ref document: KRKind code of ref document: A
+    2015-08-18,REEP,Request for entry into the european phase,Ref document number: 2013875389Country of ref document: EP
+    2015-08-18,WWE,Wipo information: entry into national phase,Ref document number: 14768626Country of ref document: USRef document number: 2013875389Country of ref document: EP
+    2015-08-24,NENP,Non-entry into the national phase,Ref country code: DE
+    2015-09-01,REG,Reference to national code,Ref country code: BRRef legal event code: B01ARef document number: 112015019825Country of ref document: BR
+    2017-07-18,ENP,Entry into the national phase,Ref document number: 112015019825Country of ref document: BRKind code of ref document: A2Effective date: 20150818
+

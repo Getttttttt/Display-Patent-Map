@@ -1,0 +1,189 @@
+ID
+    US10421362B2
+citation_exist
+    Patent Citations (12)
+citation_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    US4270806A                      *,1979-08-09,1981-06-02,The United States Of America As Represented By The United States Department Of Energy,Combined hydraulic and regenerative braking system
+    US20050189894A1                      *,2004-03-01,2005-09-01,Nissan Motor Co., Ltd.,Regeneration control for hybrid vehicle
+    US20090260901A1                      *,2008-04-18,2009-10-22,Kanzaki Kokyukoki Mfg. Co., Ltd.,Electric ground working vehicle
+    US20120022735A1                      *,2010-07-23,2012-01-26,Naoyuki Tashiro,Drive control device for electric vehicle, and electric vehicle
+    US20130289809A1                      *,2012-04-26,2013-10-31,Ford Global Technologies, Llc,Regenerative braking control to mitigate powertrain oscillation
+    US20130317681A1                      *,2011-02-16,2013-11-28,International Truck Intellectual Property Company, Llc,Operator Interface for Vehicles
+    US20140081498A1                      *,2012-09-14,2014-03-20,Automotive Research & Testing Center,Self-learning Regenerative Braking Control Module, Controller, and Vehicle Using the Same
+    US20150019058A1                      *,2013-07-12,2015-01-15,Stephan P. Georgiev,Regenerative braking regulation in automotive vehicles
+    US20150066326A1                      *,2013-09-05,2015-03-05,Hitachi Automotive Systems, Ltd.,Brake System, Brake Apparatus, and Method for Controlling Brake System
+    US20150222209A1                      *,2014-01-31,2015-08-06,Ford Global Technologies, Llc,Method and system for controlling the regenerative braking of a vehicle
+    US9321355B1                      *,2015-06-30,2016-04-26,Proterra Inc.,Controlling electric vehicle operation based on inclination
+    US20170066437A1                      *,2014-03-20,2017-03-09,Nissan Motor Co., Ltd.,Hybrid vehicle control device
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (17)
+              
+
+
+citedBy_infor
+19
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20190217709A1                      *,2018-01-15,2019-07-18,Ford Global Technologies, Llc,Regenerative vehicle braking with wheel slip control and yaw stability control
+    EP4265466A1                      *,2022-04-15,2023-10-25,Suzuki Motor Corporation,Travel controlling device of electric vehicle
+    Family To Family Citations,,,,
+    US10406923B2                      *,2015-09-25,2019-09-10,Farada & Future Inc.,GPS assist in regenerative braking
+    US10328802B2                      *,2016-11-11,2019-06-25,Toyota Motor Engineering & Manufacturing North America, Inc.,Systems and methods for adaptive braking using brake wear data
+    US10308120B2                      *,2017-04-12,2019-06-04,Ford Global Technologies, Llc,Optimizing regenerative braking efficiency in a hybrid vehicle
+    US10696164B2,2017-05-18,2020-06-30,Ford Global Technologies, Llc,Optimizing regenerative braking efficiency in a hybrid vehicle
+    JP6879467B2                      *,2017-10-05,2021-06-02,トヨタ自動車株式会社,Vehicle braking force control device
+    US10981571B2                      *,2018-09-11,2021-04-20,Ford Global Technologies, Llc,Methods and system for operating a vehicle
+    US20200094683A1                      *,2018-09-21,2020-03-26,Accelerated Systems Inc.,Methods and apparatuses for controlling an electric vehicle
+    CN112334340A                      *,2018-10-03,2021-02-05,开利公司,Generator movement control
+    US20200180432A1                      *,2018-12-11,2020-06-11,Atieva, Inc.,Accelerator Pedal Providing Regenerative Brake Feedback
+    CN109878490A                      *,2019-02-26,2019-06-14,中国第一汽车股份有限公司,Super capacitor system for vehicle auxiliary braking
+    CN110126628B                      *,2019-04-30,2021-11-02,奇瑞汽车股份有限公司,Control method and control device for electric vehicle motor
+    US11390283B2                      *,2019-07-25,2022-07-19,Ford Global Technologies, Llc,System and method for controlling vehicle during coast
+    US11752881B2                      *,2021-01-20,2023-09-12,GM Global Technology Operations LLC,Intelligent vehicles and control logic for brake torque request estimation for cooperative brake system control
+    EP4261076A1                      *,2022-02-21,2023-10-18,Cummins, Inc.,Optimizing regenerative braking
+    CN114274931B                      *,2022-03-03,2022-06-17,万向钱潮股份有限公司,Pressure target decision method for multi-axis commercial vehicle brake-by-wire system
+
+abstract
+    A regenerative braking system separate from a friction braking system of a vehicle is disclosed. According to certain embodiments, the regenerative braking system may include at least one actuator and a controller. The controller may be configured to: determine whether an accelerator pedal is depressed; when the accelerator pedal is depressed, determine an amount of regenerative braking based on behavior of the accelerator pedal; when the accelerator pedal is not depressed, determine the amount of regenerative braking based on motion of the vehicle; and control the at least one actuator to generate the determined amount of regenerative braking.
+title
+    Regenerative braking control method and system
+similar_document
+26
+    Publication,Publication Date,Title
+    US10421362B2,2019-09-24,Regenerative braking control method and system
+    EP3375656B1,2023-02-22,Braking/driving force control method and braking/driving force control device
+    US20180093571A1,2018-04-05,Braking torque blending system and method
+    KR101964026B1,2019-03-29,A driving force control method and a driving force control apparatus
+    US10076962B2,2018-09-18,Braking control method and system for a vehicle
+    US20180154777A1,2018-06-07,Braking torque blending system and method for automatic emergency braking
+    US20130162009A1,2013-06-27,Electric vehicle regenerative braking system
+    US11180149B2,2021-11-23,Vehicle and method for controlling the same
+    CN109572438B,2021-10-22,Electric automobile and regenerative braking control method and device thereof
+    US10946761B2,2021-03-16,Battery management device, vehicle having the same, and method for controlling the vehicle
+    CN105946845B,2020-07-14,Regenerative braking guidance system
+    JP6501069B2,2019-04-17,Vehicle regenerative control system
+    JP2007282406A,2007-10-25,Braking force control system of vehicle
+    KR102563005B1,2023-08-04,Vehicle and control method for the same
+    KR20200068156A,2020-06-15,Vehicle and control method for the same
+    JP6443258B2,2018-12-26,Braking / driving force control device and braking / driving force control method
+    US9981554B2,2018-05-29,System and method for controlling braking of electric vehicle
+    EP4048566A1,2022-08-31,A method for operating a vehicle
+    KR102404823B1,2022-06-02,A control apparatus for torque vectoring of vehicle having in-wheel motor
+    KR102420654B1,2022-07-14,A control method for torque vectoring of vehicle having in-wheel motor
+    US10343684B2,2019-07-09,Systems and methods for smooth stopping of a vehicle
+    JP6058564B2,2017-01-11,Electric vehicle braking control device
+    JP4058538B2,2008-03-12,vehicle
+    CN114906137A,2022-08-16,Adaptive cruise control with user-defined lateral acceleration threshold
+    JP6788546B2,2020-11-25,Vehicle braking system
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US15/283,205,2016-09-30,2016-09-30,Regenerative braking control method and system
+
+inventor_number
+    4
+classfication_nums
+    8
+classfication_items
+48
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,1
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,2,4
+    B,6,0,T,8,/,2,4,1
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,2,4
+    B,6,0,T,8,/,2,4,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,2,4
+    B,6,0,T,8,/,2,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B,6,0,L,2,2,5,0,/,2,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+
+application_events
+7
+    2016-09-30,Priority to US15/283,205
+    2016-09-30,Application filed by Faraday and Future Inc
+    2018-04-05,Publication of US20180093572A1
+    2019-09-24,Publication of US10421362B2
+    2019-09-24,Application granted
+    Status,Active
+    2037-02-13,Adjusted expiration
+
+active_area
+1
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US15/283,205,2016-09-30,Regenerative braking control method and system
+
+legal_event
+16
+    Date,Code,Title,Description
+    2016-09-30,AS,Assignment,Owner name: FARADAY&FUTURE INC., CALIFORNIAFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:HALL, THOMAS JACKSON;HARRIES, BRIAN NEAL;KHAMLY, SOM;REEL/FRAME:039916/0256Effective date: 20160929
+    2017-12-28,AS,Assignment,Owner name: SEASON SMART LIMITED, VIRGIN ISLANDS, BRITISHFree format text: SECURITY INTEREST;ASSIGNOR:FARADAY&FUTURE INC.;REEL/FRAME:044969/0023Effective date: 20171201
+    2018-11-27,STPP,Information on status: patent application and granting procedure in general,Free format text: FINAL REJECTION MAILED
+    2019-01-14,AS,Assignment,Owner name: FARADAY&FUTURE INC., CALIFORNIAFree format text: RELEASE BY SECURED PARTY;ASSIGNOR:SEASON SMART LIMITED;REEL/FRAME:048069/0704Effective date: 20181231
+    2019-05-01,AS,Assignment,Owner name: BIRCH LAKE FUND MANAGEMENT, LP, ILLINOISFree format text: SECURITY INTEREST;ASSIGNORS:CITY OF SKY LIMITED;EAGLE PROP HOLDCO LLC;FARADAY FUTURE LLC;AND OTHERS;REEL/FRAME:050234/0069Effective date: 20190429
+    2019-05-13,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2019-08-16,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2019-09-04,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2020-03-05,AS,Assignment,Owner name: ROYOD LLC, AS SUCCESSOR AGENT, CALIFORNIAFree format text: ACKNOWLEDGEMENT OF SUCCESSOR COLLATERAL AGENT UNDER INTELLECTUAL PROPERTY SECURITY AGREEMENT;ASSIGNOR:BIRCH LAKE FUND MANAGEMENT, LP, AS RETIRING AGENT;REEL/FRAME:052102/0452Effective date: 20200227
+    2020-10-14,AS,Assignment,Owner name: BIRCH LAKE FUND MANAGEMENT, LP, ILLINOISFree format text: SECURITY INTEREST;ASSIGNOR:ROYOD LLC;REEL/FRAME:054076/0157Effective date: 20201009
+    2021-07-29,AS,Assignment,Owner name: ARES CAPITAL CORPORATION, AS SUCCESSOR AGENT, NEW YORKFree format text: ACKNOWLEDGEMENT OF SUCCESSOR COLLATERAL AGENT UNDER INTELLECTUAL PROPERTY SECURITY AGREEMENT;ASSIGNOR:BIRCH LAKE FUND MANAGEMENT, LP, AS RETIRING AGENT;REEL/FRAME:057019/0140Effective date: 20210721
+    2022-06-08,AS,Assignment,Owner name: FARADAY SPE, LLC, CALIFORNIAFree format text: RELEASE OF SECURITY INTEREST RECORDED AT REEL/FRAME 050234/0069;ASSIGNOR:ARES CAPITAL CORPORATION, AS SUCCESSOR COLLATERAL AGENT;REEL/FRAME:060314/0263Effective date: 20220607Owner name: SMART TECHNOLOGY HOLDINGS LTD., CALIFORNIAFree format text: RELEASE OF SECURITY INTEREST RECORDED AT REEL/FRAME 050234/0069;ASSIGNOR:ARES CAPITAL CORPORATION, AS SUCCESSOR COLLATERAL AGENT;REEL/FRAME:060314/0263Effective date: 20220607Owner name: SMART KING LTD., CALIFORNIAFree format text: RELEASE OF SECURITY INTEREST RECORDED AT REEL/FRAME 050234/0069;ASSIGNOR:ARES CAPITAL CORPORATION, AS SUCCESSOR COLLATERAL AGENT;REEL/FRAME:060314/0263Effective date: 20220607Owner name: ROBIN PROP HOLDCO LLC, CALIFORNIAFree format text: RELEASE OF SECURITY INTEREST RECORDED AT REEL/FRAME 050234/0069;ASSIGNOR:ARES CAPITAL CORPORATION, AS SUCCESSOR COLLATERAL AGENT;REEL/FRAME:060314/0263Effective date: 20220607Owner name: FF MANUFACTURING LLC, CALIFORNIAFree format text: RELEASE OF SECURITY INTEREST RECORDED AT REEL/FRAME 050234/0069;ASSIGNOR:ARES CAPITAL CORPORATION, AS SUCCESSOR COLLATERAL AGENT;REEL/FRAME:060314/0263Effective date: 20220607Owner name: FF INC., CALIFORNIAFree format text: RELEASE OF SECURITY INTEREST RECORDED AT REEL/FRAME 050234/0069;ASSIGNOR:ARES CAPITAL CORPORATION, AS SUCCESSOR COLLATERAL AGENT;REEL/FRAME:060314/0263Effective date: 20220607Owner name: FF HONG KONG HOLDING LIMITED, CALIFORNIAFree format text: RELEASE OF SECURITY INTEREST RECORDED AT REEL/FRAME 050234/0069;ASSIGNOR:ARES CAPITAL CORPORATION, AS SUCCESSOR COLLATERAL AGENT;REEL/FRAME:060314/0263Effective date: 20220607Owner name: FF EQUIPMENT LLC, CALIFORNIAFree format text: RELEASE OF SECURITY INTEREST RECORDED AT REEL/FRAME 050234/0069;ASSIGNOR:ARES CAPITAL CORPORATION, AS SUCCESSOR COLLATERAL AGENT;REEL/FRAME:060314/0263Effective date: 20220607Owner name: FARADAY FUTURE LLC, CALIFORNIAFree format text: RELEASE OF SECURITY INTEREST RECORDED AT REEL/FRAME 050234/0069;ASSIGNOR:ARES CAPITAL CORPORATION, AS SUCCESSOR COLLATERAL AGENT;REEL/FRAME:060314/0263Effective date: 20220607Owner name: FARADAY & FUTURE INC., CALIFORNIAFree format text: RELEASE OF SECURITY INTEREST RECORDED AT REEL/FRAME 050234/0069;ASSIGNOR:ARES CAPITAL CORPORATION, AS SUCCESSOR COLLATERAL AGENT;REEL/FRAME:060314/0263Effective date: 20220607Owner name: EAGLE PROP HOLDCO LLC, CALIFORNIAFree format text: RELEASE OF SECURITY INTEREST RECORDED AT REEL/FRAME 050234/0069;ASSIGNOR:ARES CAPITAL CORPORATION, AS SUCCESSOR COLLATERAL AGENT;REEL/FRAME:060314/0263Effective date: 20220607Owner name: CITY OF SKY LIMITED, CALIFORNIAFree format text: RELEASE OF SECURITY INTEREST RECORDED AT REEL/FRAME 050234/0069;ASSIGNOR:ARES CAPITAL CORPORATION, AS SUCCESSOR COLLATERAL AGENT;REEL/FRAME:060314/0263Effective date: 20220607
+    2022-08-15,AS,Assignment,Owner name: FF SIMPLICY VENTURES LLC, NEW YORKFree format text: SECURITY INTEREST;ASSIGNOR:FARADAY&FUTURE INC.;REEL/FRAME:061176/0756Effective date: 20220814
+    2023-04-05,FEPP,Fee payment procedure,Free format text: SURCHARGE FOR LATE PAYMENT, LARGE ENTITY (ORIGINAL EVENT CODE: M1554); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2023-04-05,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

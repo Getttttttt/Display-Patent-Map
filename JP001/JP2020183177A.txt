@@ -1,0 +1,279 @@
+ID
+    JP2020183177A
+citation_exist
+    Patent Citations (9)
+citation_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2007062448A                      *,2005-08-29,2007-03-15,Advics:Kk,車両用ブレーキ装置
+    JP2015085792A                      *,2013-10-30,2015-05-07,トヨタ自動車株式会社,車両の制動力制御方法
+    JP2015146657A                      *,2014-01-31,2015-08-13,日立オートモティブシステムズ株式会社,ブレーキ制御装置
+    Family To Family Citations,,,,
+    JP2000168534A                      *,1998-12-08,2000-06-20,Nisshinbo Ind Inc,制動力配分制御方法
+    JP2008230326A                      *,2007-03-19,2008-10-02,Hitachi Ltd,ブレーキ制御装置
+    CN102556056A                      *,2012-01-16,2012-07-11,河南科技大学,一种混合动力汽车的双模糊能量控制管理系统
+    CN103661334B                      *,2013-12-20,2015-11-11,北京万得嘉瑞汽车技术有限公司,一种汽车电子制动力分配的控制方法
+    JP6618073B2                      *,2015-09-18,2019-12-11,日立オートモティブシステムズ株式会社,制動制御装置
+    CN106740846B                      *,2016-12-02,2019-02-12,大连理工大学,一种双模式切换的电动汽车自适应巡航控制方法
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP7070453B2                      *,2019-02-01,2022-05-18,トヨタ自動車株式会社,車両用制動力制御装置
+
+abstract
+    【課題】回生制動力から摩擦制動力への不要なすり替えを減らすことにより回生制動を実施する機会を増大し燃費を向上することが可能な車両の制動制御装置を提供する。【解決手段】要求制動力が最大回生制動力以下である場合、要求制動力のすべてを回生制動力の目標値に割り当て、前輪加速度が第１閾値より大きい値から第１閾値以下に変化した第１時点において回生制動力の目標値を第１所定値だけ減少させ、第１時点から所定時間が経過する第２時点までに前輪加速度が第１閾値以上である第２閾値よりも大きくなった場合、回生制動力の目標値を要求制動力に一致するように増大させ、第２時点までに前輪加速度が第２閾値よりも大きくならなかった場合、回生制動力の目標値を所定時間が経過する毎に第２所定値ずつ減少させるとともに摩擦制動力の目標値が所定時間が経過する毎に第２所定値ずつ増大するように摩擦制動力の目標値を増加させる。【選択図】図１０
+title
+    車両の制動制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP4765487B2,2011-09-07,車両用ブレーキ装置
+    US8548707B2,2013-10-01,Braking system and method for braking a vehicle having a hybrid drive
+    US9707944B2,2017-07-18,Braking force control system
+    JP4375376B2,2009-12-02,制動力制御装置
+    JP6241616B2,2017-12-06,車両用制動力制御装置
+    JP5302749B2,2013-10-02,電気自動車の制御装置
+    JP3811372B2,2006-08-16,車輌の制動力制御装置
+    KR100534709B1,2005-12-07,전기자동차의 회생제동 제어 방법 및 장치
+    Ko et al.,2014,Co-operative control for regenerative braking and friction braking to increase energy recovery without wheel lock
+    JP4442642B2,2010-03-31,車両用制動制御装置
+    US7761214B2,2010-07-20,Vehicle deceleration control device
+    JP5120297B2,2013-01-16,電気自動車の回生制動制御装置
+    JP7059980B2,2022-04-26,車両の制動制御装置
+    CN108501728A,2018-09-07,用于车辆的后轮再生制动控制系统及其方法
+    JP6329105B2,2018-05-23,四輪駆動車両の駆動力制御装置
+    CN105555580A,2016-05-04,电动车辆或混合动力车辆中的再生制动的控制
+    JP4706376B2,2011-06-22,車両用ブレーキ制御装置
+    CN110877531A,2020-03-13,用于电动车的制动方法和制动系统
+    JP5971186B2,2016-08-17,車輪制御装置、車両
+    JP6291460B2,2018-03-14,電動車両
+    JP4793105B2,2011-10-12,車両用ブレーキ制御装置
+    JP2020075621A,2020-05-21,車両用制動力制御装置
+    JP2019098962A,2019-06-24,ブレーキ制御装置
+    JP2006352954A,2006-12-28,回生制動システム
+    JP2023108761A,2023-08-07,車両及び車両制御方法
+
+patent_application
+    NoExist
+patent_priority_application
+5
+    Application,Priority date,Filing date,Title
+    JP2019088089A,2019-05-08,2019-05-08,車両の制動制御装置
+    US16/868,051,2019-05-08,2020-05-06,Brake control apparatus for vehicle
+    DE102020112232.2A,2019-05-08,2020-05-06,Bremssteuervorrichtung für ein fahrzeug
+    CN202010377269.7A,2019-05-08,2020-05-07,车辆的制动控制装置
+
+inventor_number
+    5
+classfication_nums
+    26
+classfication_items
+160
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,6
+    B,6,0,T,8,/,1,7,6,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,0
+    B,6,0,L,3,/,1,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,0
+    B,6,0,L,3,/,1,0,6
+    B,6,0,L,3,/,1,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,0,2
+    B,6,0,T,7,/,0,4
+    B,6,0,T,7,/,0,4,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,0,1
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,1
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,2,0,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,5,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,0,2
+    B,6,0,W,4,0,/,0,6
+    B,6,0,W,4,0,/,0,6,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,1,0
+    B,6,0,W,4,0,/,1,0,5
+    F
+    F,1,6
+    F,1,6,D
+    F,1,6,D,6,1,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B,6,0,L,2,2,4,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,2,0,/,0,0
+    B,6,0,T,2,2,2,0,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,4,0,/,0,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,8,2
+
+application_events
+7
+    2019-05-08,Application filed by Toyota Motor Corp
+    2019-05-08,Priority to JP2019088089A
+    2020-11-12,Publication of JP2020183177A
+    2022-04-26,Application granted
+    2022-04-26,Publication of JP7059980B2
+    Status,Active
+    2039-05-08,Anticipated expiration
+
+active_area
+4
+    J,P
+    U,S
+    D,E
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2019088089A,2019-05-08,車両の制動制御装置
+
+legal_event
+7
+    Date,Code,Title,Description
+    2021-06-14,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20210614
+    2022-03-08,TRDD,Decision of grant or rejection written,
+    2022-03-15,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20220315
+    2022-03-17,A977,Report on retrieval,Free format text: JAPANESE INTERMEDIATE CODE: A971007Effective date: 20220317
+    2022-04-18,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20220328
+    2022-04-18,R151,Written notification of patent or utility model registration,Ref document number: 7059980Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R151
+

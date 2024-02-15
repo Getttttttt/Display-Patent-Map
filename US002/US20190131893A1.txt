@@ -1,0 +1,222 @@
+ID
+    US20190131893A1
+citation_exist
+    Patent Citations (22)
+citation_infor
+24
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20080197796A1                      *,2007-02-20,2008-08-21,Bon-Ho Bae,System and method for controlling electric drive systems
+    JP2013187983A                      *,2012-03-07,2013-09-19,Hitachi Automotive Systems Ltd,Rotary electric machine control device
+    JP2014069395A                      *,2012-09-28,2014-04-21,Brother Ind Ltd,Inkjet recording device
+    US20140118866A1                      *,2012-11-01,2014-05-01,Mitsubishi Electric Corporation,Electric power steering control device and electric power steering control method
+    US20170203670A1                      *,2014-07-23,2017-07-20,Nissan Motor Co., Ltd.,Motor control apparatus and motor control method
+    Family To Family Citations,,,,
+    US6184661B1                      *,1999-06-22,2001-02-06,C. E. Niehoff & Co.,Regulator with alternator output current and input drive power control
+    CN101286678A                      *,2007-04-10,2008-10-15,桂林吉星电子等平衡动力有限公司,Servo-system of nesting permanent magnetic synchronous motor and operating control method
+    CN101162849A                      *,2007-09-14,2008-04-16,东莞市翔龙能源科技有限公司,Environmental temperature regulate and control output electric voltage electricity generator for cars
+    DE102008034531A1                      *,2008-02-20,2009-08-27,Repower Systems Ag,Wind energy plant with doubly fed asynchronous generator and inverter control
+    JP4849421B2,2008-09-26,2012-01-11,三菱電機株式会社,Generator motor control device and vehicle system including the same
+    JP5024454B2                      *,2008-10-31,2012-09-12,トヨタ自動車株式会社,Electric vehicle power supply system and control method thereof
+    JP4651719B2,2009-01-30,2011-03-16,三菱電機株式会社,Power generation control device for rotating electrical machine for vehicle
+    JP5355530B2,2010-10-26,2013-11-27,三菱電機株式会社,Electric power steering device
+    JP2012100435A                      *,2010-11-02,2012-05-24,Toyota Motor Corp,Rotating electric machine control device
+    US9162730B2                      *,2010-12-22,2015-10-20,Microspace Corporation,Motor driving control apparatus
+    WO2012114902A1                      *,2011-02-25,2012-08-30,Ntn株式会社,Electric automobile
+    JP5708447B2                      *,2011-11-02,2015-04-30,トヨタ自動車株式会社,Drive device
+    JP5452654B2,2012-04-11,2014-03-26,三菱電機株式会社,Control device for vehicle alternator
+    KR20140073209A                      *,2012-12-06,2014-06-16,현대모비스 주식회사,Apparatus and Method Adjusting Derating Torque Output of Motor when Temperature Sensor of Motor has broken
+    CN103023117A                      *,2013-01-15,2013-04-03,广西电网公司电力科学研究院,Electric vehicle charging system with high power quality
+    DE102013208067B4                      *,2013-05-02,2022-01-13,Ge Energy Power Conversion Gmbh,Multi-phase electrical circuit
+    JP2016085381A,2014-10-27,2016-05-19,パナソニック インテレクチュアル プロパティ コーポレーション オブ アメリカＰａｎａｓｏｎｉｃ Ｉｎｔｅｌｌｅｃｔｕａｌ Ｐｒｏｐｅｒｔｙ Ｃｏｒｐｏｒａｔｉｏｎ ｏｆ Ａｍｅｒｉｃａ,Encryption method, encryption device and encryption system
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    US11135922B2                      *,2016-04-21,2021-10-05,Denso Corporation,Control apparatus for rotary electric machine
+    US20230349983A1                      *,2022-04-29,2023-11-02,Steering Solutions Ip Holding Corporation,Sinusoidal stimulus response for input power health diagnostic
+    Family To Family Citations,,,,
+    CN113179070B                      *,2021-04-28,2023-04-14,联合汽车电子有限公司,Dynamic protection system for power terminal of vehicle electric drive system
+
+abstract
+    A system includes a rotary electric machine, wiring, a battery that is connected to the rotary electric machine by the wiring harness, and an upper limit value setting section which sets an output upper limit value that is an upper limit of an output command of the rotary electric machine. A control apparatus which controls the rotary electric machine is provided with a temperature acquisition section which acquires the temperature of at least one of the battery and the wiring, an allowable output value calculation section which calculates an allowable output value that is an upper limit allowed for an output command of the rotary electric machine, based on the temperature that is acquired by the temperature acquisition section, and a transmitting section which transmits the allowable output value calculated by the allowable value calculation section to the upper limit value setting section.
+title
+    Control apparatus for rotary electric machine
+similar_document
+25
+    Publication,Publication Date,Title
+    US10351002B2,2019-07-16,Inverter control device and vehicle control device
+    US9994109B2,2018-06-12,Power supply system applied to electrically powered vehicle
+    CN109104083B,2020-08-11,Electric drive system enhancement using DC-DC converter
+    US10797364B2,2020-10-06,Power supply system of vehicle
+    US8736234B2,2014-05-27,Power converter control apparatus
+    EP2472702A1,2012-07-04,Power supply system for vehicle
+    US20130049460A1,2013-02-28,Method for preventing overvoltages in an electrical system of a motor vehicle
+    US10875418B2,2020-12-29,Charge control apparatus and system
+    US10637373B2,2020-04-28,Control apparatus for rotary electric machine
+    US11065962B2,2021-07-20,Inverter control device
+    US10224861B2,2019-03-05,Rotating electric machine for a motor vehicle
+    US9209731B2,2015-12-08,Output control device of electric generator
+    US11400917B2,2022-08-02,Power supply system for vehicle
+    US9124208B2,2015-09-01,Control apparatus for a power converter connected to a rotary machine which is operable as a drive motor of a vehicle
+    US8680819B2,2014-03-25,Field winding type rotary electric machine
+    JP6756277B2,2020-09-16,Rotating electric machine unit
+    US11135922B2,2021-10-05,Control apparatus for rotary electric machine
+    KR102231539B1,2021-03-23,Method for operating an energy supply unit for an on-board power system of a motorvehicle
+    JP6107502B2,2017-04-05,Secondary battery remaining capacity detector
+    CN103975520A,2014-08-06,Method for operating a separately excited electric machine in a motor vehicle
+    EP2871770B1,2019-11-20,Control device for vehicle ac generator
+    JP6203403B2,2017-09-27,Power generation control device for vehicle alternator
+    JP2020174471A,2020-10-22,Rotary electric machine unit and rotary electric machine system
+    JP2014045557A,2014-03-13,Motor-driven load driver
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    14
+classfication_items
+90
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,3,/,0,0
+    H,0,2,P,3,/,0,6
+    H,0,2,P,3,/,0,8
+    H,0,2,P,3,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,9,/,0,0
+    H,0,2,P,2,9,/,6,0
+    H,0,2,P,2,9,/,6,2
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,9,/,0,0
+    H,0,2,P,9,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,1,8
+    B,6,0,Y,2,3,0,0,/,1,8,0,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,2,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+
+application_events
+7
+    2017-04-20,Application filed by Denso Corp
+    2018-12-11,Assigned to DENSO CORPORATION
+    2019-05-02,Publication of US20190131893A1
+    2020-04-28,Application granted
+    2020-04-28,Publication of US10637373B2
+    Status,Active
+    2037-04-20,Anticipated expiration
+
+active_area
+5
+    J,P
+    W,O
+    D,E
+    C,N
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2016-085381,2016-04-21,
+    JP2016085381A,2016-04-21,Control device of rotating electric machine
+    PCT/JP2017/015936,2017-04-20,Control device for dynamoelectric machine
+
+legal_event
+9
+    Date,Code,Title,Description
+    2018-10-22,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2018-12-11,AS,Assignment,Owner name: DENSO CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:KAWAZU, SHINSUKE;KATO, AKIRA;SENDA, TAKASHI;REEL/FRAME:047748/0374Effective date: 20181018
+    2019-05-16,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2019-09-05,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2019-12-03,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2019-12-16,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2020-04-08,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2023-10-19,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

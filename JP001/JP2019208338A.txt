@@ -1,0 +1,266 @@
+ID
+    JP2019208338A
+citation_exist
+    Patent Citations (16)
+citation_infor
+18
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2000270404A                      *,1999-03-18,2000-09-29,Nissan Motor Co Ltd,回生電力制御装置
+    JP2009118697A                      *,2007-11-09,2009-05-28,Panasonic Corp,電池の充放電制御方法
+    WO2013046250A1                      *,2011-09-26,2013-04-04,トヨタ自動車株式会社,バッテリの処理装置、車両、バッテリの処理方法及びバッテリの処理プログラム
+    JP2013074706A                      *,2011-09-27,2013-04-22,Honda Motor Co Ltd,車両用制御装置
+    JP2013239279A                      *,2012-05-14,2013-11-28,Panasonic Corp,電池電源システム
+    JP2014231290A                      *,2013-05-29,2014-12-11,日産自動車株式会社,プラグインハイブリッド車両の制御装置
+    JP2017154604A                      *,2016-03-02,2017-09-07,株式会社オートネットワーク技術研究所,電源装置及び電源装置の制御方法
+    Family To Family Citations,,,,
+    US20120059543A1,2009-03-10,2012-03-08,Toyota Jidosha Kabushiki Kaisha,Engine control system
+    JP2013048523A,2011-08-29,2013-03-07,Toyota Industries Corp,車両用充電システム
+    KR101251529B1,2011-10-04,2013-04-05,현대자동차주식회사,전기자동차의 등판 주행 제어 시스템 및 방법
+    WO2013057831A1                      *,2011-10-21,2013-04-25,トヨタ自動車株式会社,車両の制御装置
+    CN103906651B                      *,2011-11-04,2016-04-20,丰田自动车株式会社,车辆和车辆的控制方法
+    US9676289B2                      *,2013-10-11,2017-06-13,Ford Global Technologies, Llc,System and method for adjusting battery pack state of charge thresholds
+    KR101655609B1                      *,2014-12-11,2016-09-07,현대자동차주식회사,하이브리드 자동차의 배터리 충전 상태 제어 장치 및 방법
+    JP2018079728A                      *,2016-11-14,2018-05-24,トヨタ自動車株式会社,ハイブリッド車両
+    JP2018083574A                      *,2016-11-25,2018-05-31,株式会社デンソー,車両の走行制御装置
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2019213319A                      *,2018-06-01,2019-12-12,トヨタ自動車株式会社,車両
+    Family To Family Citations,,,,
+    KR20210002908A                      *,2019-07-01,2021-01-11,현대자동차주식회사,차량용 배터리 관리 시스템 및 그의 배터리 관리 방법과 그를 포함하는 차량
+
+abstract
+    【課題】登坂路での車両のずり下がり状態を直ちに解消可能であり、かつ、蓄電装置の劣化を抑制可能な電動車両を提供する。【解決手段】ＥＣＵ１００は、蓄電装置１０のＳＯＣが所定の制御上限を超えないように蓄電装置１０の充電を制御する。ＥＣＵ１００は、登坂路においてＭＧ４０が登坂方向の走行トルクを発生しつつ電動車両１が降坂方向へ移動する場合（ずり下がり状態）には、ＳＯＣが制御上限を超える充電を許容する。さらに、ＥＣＵ１００は、ＳＯＣが制御上限を超えている場合に車両のシステム停止が要求されたとき、蓄電装置１０を放電させる放電処理を実行する。【選択図】図１
+title
+    電動車両
+similar_document
+26
+    Publication,Publication Date,Title
+    US8639413B2,2014-01-28,Vehicle power supply system and method for controlling the same
+    JP5732766B2,2015-06-10,車両の制御装置および制御方法
+    JP5310959B2,2013-10-09,車両の充電装置
+    US10661670B2,2020-05-26,Power supply system, transportation apparatus, and power transmission method
+    JP2013252015A,2013-12-12,車両用電源制御方法及び装置
+    JP7020144B2,2022-02-16,電動車両及び電動車両の制御方法
+    US10005449B2,2018-06-26,Motive power system, transportation apparatus, and electric power transmission method
+    US9868434B2,2018-01-16,Vehicle and control method for vehicle
+    JP7187822B2,2022-12-13,電動車両
+    US10457272B2,2019-10-29,Motive power system, transportation apparatus, and electric power transmission method
+    JP2015057009A,2015-03-23,車両
+    US10300904B2,2019-05-28,Motive power system, transportation apparatus, and power transmission method
+    JP2013252016A,2013-12-12,車両用電源制御方法及び装置
+    JP6131533B2,2017-05-24,車両用電源制御方法及び装置
+    JP5625715B2,2014-11-19,車両の制御装置および制御方法
+    JP6874652B2,2021-05-19,電池システム
+    JP5561114B2,2014-07-30,蓄電装置の制御装置およびそれを搭載する車両、ならびに蓄電装置の制御方法
+    JP2012223053A,2012-11-12,電動機駆動装置
+    JP2019087423A,2019-06-06,電池システム
+    EP4056403A1,2022-09-14,Charge/discharge control device with a disconnect capability for disconnecting a high-voltage battery from the motor if a vehicle speed threshold is exceeded
+    JP2022147323A,2022-10-06,充電制御装置
+    JP2015123749A,2015-07-06,ハイブリッド車両の制御装置
+    JP2023117094A,2023-08-23,充電制御方法及び車両
+    JP2021090329A,2021-06-10,車両用制御装置
+    JP2020089103A,2020-06-04,電動車両のトルク制御装置
+
+patent_application
+    NoExist
+patent_priority_application
+4
+    Application,Priority date,Filing date,Title
+    JP2018103719A,2018-05-30,2018-05-30,電動車両
+    US16/412,905,2018-05-30,2019-05-15,Control of the state of charge of an electrically powered vehicle when traveling on a hill
+    CN201910428306.XA,2018-05-30,2019-05-22,电动车辆
+
+inventor_number
+    5
+classfication_nums
+    22
+classfication_items
+135
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B,6,0,L,1,5,/,2,0,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,3,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B,6,0,L,2,2,4,0,/,6,4,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,1
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,2
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,1,8
+    B,6,0,Y,2,3,0,0,/,1,8,0,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,9,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+9
+    2018-05-30,Application filed by Toyota Motor Corp
+    2018-05-30,Priority to JP2018103719A
+    2019-05-15,Priority to US16/412,905
+    2019-05-22,Priority to CN201910428306.XA
+    2019-12-05,Publication of JP2019208338A
+    2022-12-13,Application granted
+    2022-12-13,Publication of JP7187822B2
+    Status,Active
+    2038-05-30,Anticipated expiration
+
+active_area
+3
+    J,P
+    U,S
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2018103719A,2018-05-30,電動車両
+
+legal_event
+11
+    Date,Code,Title,Description
+    2020-11-24,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20201124
+    2021-09-13,A977,Report on retrieval,Free format text: JAPANESE INTERMEDIATE CODE: A971007Effective date: 20210913
+    2021-10-05,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20211005
+    2021-11-30,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20211130
+    2022-05-10,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20220510
+    2022-07-06,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20220706
+    2022-10-26,TRDD,Decision of grant or rejection written,
+    2022-11-01,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20221101
+    2022-12-05,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20221114
+    2022-12-05,R151,Written notification of patent or utility model registration,Ref document number: 7187822Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R151
+

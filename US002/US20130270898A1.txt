@@ -1,0 +1,267 @@
+ID
+    US20130270898A1
+citation_exist
+    Patent Citations (16)
+citation_infor
+18
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20090212626A1                      *,2008-02-26,2009-08-27,Philip Kenneth Snyder,System and Method for Dual Energy Storage Management
+    US7724548B2                      *,2006-09-02,2010-05-25,Converteam Uk Ltd,Control methods for pulse width modulation (PWM)
+    US7956489B2                      *,2006-03-31,2011-06-07,Toyota Jidosha Kabushiki Kaisha,Power supply system and vehicle including the same
+    US8217533B2                      *,2007-05-19,2012-07-10,Converteam Technology Ltd,Control methods for the synchronization and phase shift of the pulse width modulation (PWM) strategy of power converters
+    US8787048B2                      *,2009-07-02,2014-07-22,Ge Energy Power Conversion Technology Limited,Control methods for the synchronisation of parallel-connected power converters operating in accordance with a pulse width modulation (PWM) strategy
+    Family To Family Citations,,,,
+    US4920532A,1988-12-07,1990-04-24,Chrysler Corporation,Electrical device command system, single wire bus and smart single controller arrangement therefor
+    US5210846B1,1989-05-15,1999-06-29,Dallas Semiconductor,One-wire bus architecture
+    US5619066A,1990-05-15,1997-04-08,Dallas Semiconductor Corporation,Memory for an electronic token
+    DE59009700D1,1990-12-08,1995-10-26,Itt Ind Gmbh Deutsche,Master-slave data transmission method with flexible single-wire bus.
+    US5701330A,1994-12-16,1997-12-23,Delco Electronics Corporation,Serial communication method and apparatus
+    US6275167B1,1998-06-08,2001-08-14,Visteon Global Technologies, Inc.,Method and system for communicating between remote-controlled modules in automotive vehicles
+    US7028105B2,2000-07-25,2006-04-11,Electronic Solutions, Inc.,Apparatus, method and signal set for monoline serial interface
+    US6754841B2,2001-04-27,2004-06-22,Archic Technology Corporation,One-wire approach and its circuit for clock-skew compensating
+    US7053667B1,2003-09-12,2006-05-30,Analog Devices, Inc.,Single wire digital interface
+    KR100817031B1,2006-08-25,2008-03-26,주식회사 케이이씨,Single wire Serial Interface Module
+    US7782240B2,2007-05-29,2010-08-24,Atmel Corporation,Device and method of supplying power to targets on single-wire interface
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (9)
+              
+
+
+citedBy_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20140152123A1                      *,2011-08-04,2014-06-05,Michael Bank,Single-wire electric transmission line
+    US20160144871A1                      *,2014-11-25,2016-05-26,Electro-Motive Diesel, Inc.,Inverter-Based Head End Power System
+    US20160185360A1                      *,2014-12-30,2016-06-30,Electro-Motive Diesel, Inc.,Head End Power Module Control System
+    US9932048B2,2016-02-16,2018-04-03,Progress Rail Locomotive Inc.,Controller for a locomotive
+    US20190077449A1                      *,2016-03-04,2019-03-14,Nidec Corporation,Power conversion device, motor drive unit, electric power steering device, and relay module
+    Family To Family Citations,,,,
+    US10205404B2                      *,2012-04-17,2019-02-12,General Electric Company,Power converter control system and method
+    WO2014179470A1                      *,2013-04-30,2014-11-06,Utilidata, Inc.,Metering optimal sampling
+    US10974607B2,2017-07-07,2021-04-13,Transportation Ip Holdings, Llc,Power system and associated system
+    US20190366953A1                      *,2018-05-29,2019-12-05,General Electric Company,Power generation system and associated method
+
+abstract
+    A power converter control system includes a first power converter, at least one additional power converter, a first control module, and an additional control module. The first power converter receives direct current and outputs alternating current as a first power output. The additional power converter receives direct current and outputs alternating current as an additional power output. The first control module controls timing of events of the first power converter. The additional control module is associated with the additional power converter and controls timing of events of the additional power converter. The first control module communicates first information regarding the timing of the first power converter to the additional control module. The additional control module is configured to adjust the timing of the additional power converter to correspond with the timing of the first power converter.
+title
+    Power converter control system and method
+similar_document
+26
+    Publication,Publication Date,Title
+    US9409482B2,2016-08-09,Power converter control system and method
+    US10205404B2,2019-02-12,Power converter control system and method
+    JP5801999B2,2015-10-28,Train trains equipped with railway on-board electrical equipment
+    JP5918788B2,2016-05-18,Railway vehicle drive system and train system equipped with the same
+    AU2005267432B2,2011-02-03,Energy storage system and method for hybrid propulsion
+    RU2587133C2,2016-06-10,System of rail vehicles
+    CN107042762B,2019-12-31,Vehicle-mounted hybrid energy storage system of railway vehicle and application thereof
+    JP4747204B2,2011-08-17,Railway system with power supply equipment on the railway line between stations
+    US8188692B2,2012-05-29,Propulsion system
+    CN106740151A,2017-05-31,The hybrid power system and EMU of rail vehicle
+    US20140379180A1,2014-12-25,Power sharing for a locomotive consist
+    US9308923B2,2016-04-12,Regenerative braking emergency stop system
+    JP5891989B2,2016-03-23,Drive system and railway vehicle equipped with the same
+    CN107248734B,2023-09-01,Closed-loop control system of modularized subway regenerative braking super capacitor energy storage device
+    AU2013231166B2,2016-11-24,Systems and methods for distributing power in a vehicle
+    US20220072968A1,2022-03-10,Systems, devices, and methods for rail-based and other electric vehicles with modular cascaded energy systems
+    CN108001466B,2022-03-29,Auxiliary alternating current power supply method for double-heading operation of railway vehicle
+    CN210062723U,2020-02-14,Uninterrupted power supply over-section control system for double-collector-shoe electric power train
+    JP2012178898A,2012-09-13,Drive system for railway vehicle, railway vehicle, and train organization including the railway vehicle
+    CN209938376U,2020-01-14,Electric power train passing subsection control system
+    CN111890945B,2022-03-08,Traction control system of medium-high speed maglev train
+    Mendonça et al.,2019,Adaptive converter for light rail traction systems
+    CN214380100U,2021-10-08,Vehicle-mounted power supply network for medium-high speed magnetic levitation vehicle
+    JP5394665B2,2014-01-22,Railway vehicle drive system
+    CN110015214B,2023-09-22,Double-power-receiving-boot electric train continuous power-off over-segmentation control system and method thereof
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    US13/598,679,2012-04-17,2012-08-30,Power converter control system and method
+    US15/231,408,2012-04-17,2016-08-08,Power converter control system and method
+
+inventor_number
+    4
+classfication_nums
+    23
+classfication_items
+138
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B,6,0,L,5,0,/,6,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,9,/,0,0
+    B,6,0,L,9,/,1,6
+    B,6,0,L,9,/,1,8
+    B,6,0,L,9,/,2,2
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,4,2
+    H,0,2,M,7,/,4,4
+    H,0,2,M,7,/,4,8
+    H,0,2,M,7,/,4,9,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,3,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,0,0,4,3
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+9
+    2012-08-30,Application filed by General Electric Co
+    2012-08-30,Priority to US13/598,679
+    2012-08-30,Assigned to GENERAL ELECTRIC COMPANY
+    2013-10-17,Publication of US20130270898A1
+    2016-08-08,Priority to US15/231,408
+    2016-08-09,Application granted
+    2016-08-09,Publication of US9409482B2
+    Status,Active
+    2035-06-01,Adjusted expiration
+
+active_area
+1
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    US201261625127P,2012-04-17,
+    US13/598,679,2012-08-30,Power converter control system and method
+
+legal_event
+4
+    Date,Code,Title,Description
+    2012-08-30,AS,Assignment,Owner name: GENERAL ELECTRIC COMPANY, NEW YORKFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:BACHMAIER, PAUL;KUMAR, AJITH KUTTANNAIR;JONES, KEVIN MICHAEL;REEL/FRAME:028873/0548Effective date: 20120827
+    2016-07-20,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2020-01-24,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

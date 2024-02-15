@@ -1,0 +1,293 @@
+ID
+    EP3128187A1
+citation_exist
+    Patent Citations (20)
+citation_infor
+22
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP2000136806A,1998-11-04,2000-05-16,Komatsu Ltd,Pressure oil energy recovery equipment and pressure oil energy recovery/regeneration equipment
+    JP2004239392A                      *,2003-02-07,2004-08-26,Tamura Electric Works Ltd,Hydraulic pressure unit
+    JP4517703B2                      *,2004-04-01,2010-08-04,コベルコ建機株式会社,Swivel work machine
+    JP4762022B2                      *,2006-03-27,2011-08-31,カヤバ工業株式会社,Energy converter
+    JP5078748B2,2008-05-23,2012-11-21,カヤバ工業株式会社,Control device for hybrid construction machine
+    US8798875B2                      *,2008-04-11,2014-08-05,Sumitomo Heavy Industries, Ltd.,Working machine
+    JP2010078035A                      *,2008-09-25,2010-04-08,Caterpillar Japan Ltd,Hydraulic cylinder control circuit of utility machine
+    JP5083202B2                      *,2008-12-26,2012-11-28,コベルコ建機株式会社,Swivel brake device for construction machinery
+    US8655558B2,2010-02-12,2014-02-18,Kayaba Industry Co., Ltd.,Control system for hybrid construction machine
+    JP5398614B2,2010-03-26,2014-01-29,カヤバ工業株式会社,Control device for hybrid construction machine
+    US20130013159A1                      *,2010-03-17,2013-01-10,Hidekazu Moriki,Actuator control device and working machine equipped with same
+    JP5323753B2                      *,2010-03-26,2013-10-23,カヤバ工業株式会社,Construction machine control equipment
+    JP5035463B2                      *,2010-09-17,2012-09-26,ダイキン工業株式会社,Hybrid hydraulic system
+    CN102971542B                      *,2011-02-03,2015-11-25,日立建机株式会社,The power regeneration device of Work machine
+    JP5647052B2                      *,2011-03-25,2014-12-24,日立建機株式会社,Hybrid construction machine
+    KR101928597B1                      *,2011-06-15,2018-12-12,히다찌 겐끼 가부시키가이샤,Power regeneration device for work machine
+    JP6106097B2                      *,2011-12-28,2017-03-29,日立建機株式会社,Power regeneration device for work machine and work machine
+    JP2013160251A,2012-02-01,2013-08-19,Hitachi Constr Mach Co Ltd,Power regeneration device for work machine
+    US9863124B2                      *,2013-05-24,2018-01-09,Hitachi Construction Machinery Co., Ltd.,Construction machinery
+    JP6005082B2                      *,2014-02-04,2016-10-12,日立建機株式会社,Construction machinery
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (6)
+              
+
+
+citedBy_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN109268344A                      *,2018-10-24,2019-01-25,武汉科技大学,A kind of governor valve Instantaneous Flow test device and its test method
+    Family To Family Citations,,,,
+    JP6190310B2                      *,2014-04-03,2017-08-30,日立建機株式会社,Hybrid work machine
+    CN105386485B                      *,2015-12-03,2017-09-15,山河智能装备股份有限公司,A kind of excavator hydraulic energy-saving control loop and control method
+    CN108087362B,2016-11-22,2021-04-16,丹佛斯动力系统有限责任两合公司,Open hydraulic fluid flow circuit apparatus and method of controlling a hydraulic circuit
+    JP7006350B2                      *,2018-02-15,2022-01-24,コベルコ建機株式会社,Swivel hydraulic work machine
+    CN111503076B                      *,2020-04-08,2022-10-11,三一重机有限公司,Oil return power generation system
+
+abstract
+    A controller 8 sets a target flow rate of a regenerative hydraulic motor 71 at zero or a low flow rate within an extent in which hydraulic pressure in a regeneration hydraulic line 16 does not become negative pressure when a detected pressure PS detected by a pressure sensor 18 is lower than a first set value P1 previously set by overload relief valves 10 and 12, sets the target flow rate of the regenerative hydraulic motor at a value corresponding to the detected pressure when the detected pressure is higher than or equal to the first set value, and controls the revolution speed of a generator/motor 72 in such a manner that a flow rate through the regenerative hydraulic motor equals the target flow rate. With such features, excellent operability equivalent to that in the conventional technology can be secured.
+title
+    Construction machine
+similar_document
+25
+    Publication,Publication Date,Title
+    EP3128187B1,2019-01-30,Construction machine
+    US9926951B2,2018-03-27,Energy regeneration system for construction machine
+    EP2524995B1,2019-09-18,Drive controller of operating machine
+    US8991184B2,2015-03-31,Hybrid construction machine
+    JP5687150B2,2015-03-18,Construction machinery
+    KR101273086B1,2013-06-10,Control device for hybrid construction machine
+    US10378185B2,2019-08-13,Work machine
+    JP6506146B2,2019-04-24,Hydraulic drive of work machine
+    US9394670B2,2016-07-19,Construction machine
+    US8826653B2,2014-09-09,Slewing type working machine
+    KR20110009079A,2011-01-27,Control apparatus of hybrid-construction machine
+    US9777463B2,2017-10-03,Construction machine
+    EP2915925B1,2018-10-17,Shovel
+    EP3591241A1,2020-01-08,Work machine
+    JP2014205977A,2014-10-30,Drive unit of working machine
+    US20150354603A1,2015-12-10,Hybrid construction machine
+    CN104350216B,2016-09-14,Swinging engineering machinery
+    JP6270704B2,2018-01-31,Hydraulic drive system for construction machinery
+    JP2009299719A,2009-12-24,Construction machine
+    KR102514523B1,2023-03-27,Hydraulic control apparatus and hydraulic control method for construction machine
+    JP2016080098A,2016-05-16,Driving system of hydraulic working machine
+    JP4800349B2,2011-10-26,Construction machinery
+    JP5731331B2,2015-06-10,Power regeneration device for work machines
+    JP5672995B2,2015-02-18,Hydraulic control equipment for construction machinery
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    7
+classfication_nums
+    17
+classfication_items
+124
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,0,8
+    E,0,2,F,9,/,1,0
+    E,0,2,F,9,/,1,2
+    E,0,2,F,9,/,1,2,1
+    E,0,2,F,9,/,1,2,3
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,0,5,8
+    E,0,2,F,9,/,2,0,9,1
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,1,7
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,2,1
+    E,0,2,F,9,/,2,2,2,5
+    E,0,2,F,9,/,2,2,2,8
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,7,8
+    E,0,2,F,9,/,2,2,8,5
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,7,8
+    E,0,2,F,9,/,2,2,8,9
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,7,8
+    E,0,2,F,9,/,2,2,9,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F,1,5,B,1,1,/,0,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,3,/,0,0
+    F,1,5,B,1,3,/,0,2
+    F,1,5,B,1,3,/,0,2,4
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,1,/,0,0
+    F,1,5,B,2,1,/,1,4
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,3,/,0,0
+    E,0,2,F,3,/,0,4
+    E,0,2,F,3,/,2,8
+    E,0,2,F,3,/,3,0
+    E,0,2,F,3,/,3,2
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,7,8
+    E,0,2,F,9,/,2,2,9,2
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,1,/,0,0
+    F,1,5,B,2,1,/,0,8
+    F,1,5,B,2,1,/,0,8,7
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,3
+    F,1,5,B,2,2,1,1,/,2,0,5,4,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,0,6
+    F,1,5,B,2,2,1,1,/,6,3,1,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,0,5
+    F,1,5,B,2,2,1,1,/,7,0,5,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,8,0
+    F,1,5,B,2,2,1,1,/,8,8
+
+application_events
+7
+    2014-04-03,Application filed by Hitachi Construction Machinery Co Ltd
+    2017-02-08,Publication of EP3128187A1
+    2017-11-15,Publication of EP3128187A4
+    2019-01-30,Application granted
+    2019-01-30,Publication of EP3128187B1
+    Status,Active
+    2034-04-03,Anticipated expiration
+
+active_area
+6
+    W,O
+    K,R
+    U,S
+    C,N
+    J,P
+    E,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2014/059886,2014-04-03,Construction machine
+
+legal_event
+46
+    Date,Code,Title,Description
+    2016-11-07,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE INTERNATIONAL PUBLICATION HAS BEEN MADE
+    2017-01-06,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2017-01-06,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+    2017-02-08,17P,Request for examination filed,Effective date: 20161103
+    2017-02-08,AK,Designated contracting states,Kind code of ref document: A1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2017-02-08,AX,Request for extension of the european patent,Extension  state: BA ME
+    2017-07-12,DAX,Request for extension of the european patent (deleted),
+    2017-11-15,A4,Supplementary search report drawn up and despatched,Effective date: 20171017
+    2017-11-15,RIC1,Information provided on ipc code assigned before grant,Ipc: F15B  21/14        20060101AFI20171011BHEPIpc: E02F   9/22        20060101ALI20171011BHEPIpc: E02F   9/20        20060101ALI20171011BHEPIpc: E02F   9/12        20060101ALI20171011BHEP
+    2018-07-25,RIC1,Information provided on ipc code assigned before grant,Ipc: E02F   9/22        20060101ALI20180615BHEPIpc: F15B  21/14        20060101AFI20180615BHEPIpc: E02F   9/20        20060101ALI20180615BHEPIpc: E02F   9/12        20060101ALI20180615BHEP
+    2018-07-31,GRAP,Despatch of communication of intention to grant a patent,Free format text: ORIGINAL CODE: EPIDOSNIGR1
+    2018-07-31,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: GRANT OF PATENT IS INTENDED
+    2018-08-29,INTG,Intention to grant announced,Effective date: 20180801
+    2018-12-14,GRAS,Grant fee paid,Free format text: ORIGINAL CODE: EPIDOSNIGR3
+    2018-12-30,GRAA,(expected) grant,Free format text: ORIGINAL CODE: 0009210
+    2018-12-30,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE PATENT HAS BEEN GRANTED
+    2019-01-30,AK,Designated contracting states,Kind code of ref document: B1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2019-01-30,REG,Reference to a national code,Ref country code: GBRef legal event code: FG4D
+    2019-01-31,REG,Reference to a national code,Ref country code: CHRef legal event code: EP
+    2019-02-15,REG,Reference to a national code,Ref country code: ATRef legal event code: REFRef document number: 1093507Country of ref document: ATKind code of ref document: TEffective date: 20190215
+    2019-02-20,REG,Reference to a national code,Ref country code: IERef legal event code: FG4D
+    2019-02-28,REG,Reference to a national code,Ref country code: DERef legal event code: R096Ref document number: 602014040617Country of ref document: DE
+    2019-06-10,REG,Reference to a national code,Ref country code: LTRef legal event code: MG4D
+    2019-06-12,REG,Reference to a national code,Ref country code: NLRef legal event code: MPEffective date: 20190130
+    2019-07-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: ESFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190130Ref country code: PTFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190530Ref country code: LTFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190130Ref country code: NOFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190430Ref country code: FIFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190130Ref country code: NLFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190130Ref country code: SEFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190130Ref country code: PLFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190130
+    2019-08-15,REG,Reference to a national code,Ref country code: ATRef legal event code: MK05Ref document number: 1093507Country of ref document: ATKind code of ref document: TEffective date: 20190130
+    2019-08-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: BGFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190430Ref country code: RSFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190130Ref country code: ISFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190530Ref country code: LVFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190130Ref country code: GRFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190501Ref country code: HRFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190130
+    2019-10-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: SKFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190130Ref country code: ITFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190130Ref country code: EEFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190130Ref country code: ROFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190130Ref country code: CZFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190130Ref country code: DKFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190130Ref country code: ALFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190130
+    2019-10-31,REG,Reference to a national code,Ref country code: DERef legal event code: R097Ref document number: 602014040617Country of ref document: DE
+    2019-11-29,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: SMFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190130
+    2019-11-29,REG,Reference to a national code,Ref country code: CHRef legal event code: PL
+    2019-12-06,PLBE,No opposition filed within time limit,Free format text: ORIGINAL CODE: 0009261
+    2019-12-06,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: NO OPPOSITION FILED WITHIN TIME LIMIT
+    2019-12-19,REG,Reference to a national code,Ref country code: BERef legal event code: MMEffective date: 20190430
+    2019-12-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: ATFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190130Ref country code: LUFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20190403Ref country code: MCFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190130
+    2020-01-08,26N,No opposition filed,Effective date: 20191031
+    2020-01-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: LIFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20190430Ref country code: CHFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20190430
+    2020-02-28,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: FRFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20190430Ref country code: SIFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190130Ref country code: BEFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20190430
+    2020-03-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: TRFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190130
+    2020-05-01,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: IEFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20190403
+    2021-05-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: CYFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190130
+    2021-07-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: HUFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT; INVALID AB INITIOEffective date: 20140403Ref country code: MTFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190130
+    2022-06-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: MKFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20190130
+    2023-05-31,PGFP,Annual fee paid to national office [announced via postgrant information from national office to epo],Ref country code: GBPayment date: 20230302Year of fee payment: 10
+    2023-07-31,PGFP,Annual fee paid to national office [announced via postgrant information from national office to epo],Ref country code: DEPayment date: 20230228Year of fee payment: 10
+

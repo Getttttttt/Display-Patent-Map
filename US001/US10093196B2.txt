@@ -1,0 +1,277 @@
+ID
+    US10093196B2
+citation_exist
+    Patent Citations (6)
+citation_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20150137752A1,2013-11-15,2015-05-21,Honda Motor Co., Ltd.,Vehicle-to-Grid Control
+    Family To Family Citations,,,,
+    KR20080003905A                      *,2005-05-05,2008-01-08,에이에프에스 트리니티 파워 코포레이션,Plug-in hybrid vehicle with fast energy storage
+    JP2011205824A                      *,2010-03-26,2011-10-13,Tokyo Electric Power Co Inc:The,Power storage system
+    JP5644650B2                      *,2011-04-18,2014-12-24,三菱電機株式会社,Charging / discharging system and charging / discharging device between electric vehicle and house
+    US9618953B2                      *,2011-08-30,2017-04-11,Hitachi, Ltd.,System stabilization system
+    JP2014239559A                      *,2011-09-28,2014-12-18,三洋電機株式会社,Power storage system
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (11)
+              
+
+
+citedBy_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    US10804732B2                      *,2019-01-16,2020-10-13,Black Energy Co., Ltd,Power supply device using electromagnetic power generation
+    Family To Family Citations,,,,
+    EP3311444B1                      *,2015-06-16,2021-07-28,Ricoh Company, Ltd.,Storage apparatus, control apparatus, and moving body
+    JP6348929B2                      *,2016-05-23,2018-06-27,本田技研工業株式会社,Power system, transport equipment, and power transmission method
+    US10479218B2                      *,2017-02-14,2019-11-19,Toyota Motor Engineering & Manufacturing North America, Inc.,Electric vehicle power system with shared converter
+    CN107696893B                      *,2017-09-25,2021-01-08,天津理工大学,Electric vehicle V2G charging and discharging method based on active disturbance rejection control technology
+    JP2019106771A                      *,2017-12-11,2019-06-27,パナソニックＩｐマネジメント株式会社,On-vehicle charge system
+    CN108899924B                      *,2018-09-05,2021-05-07,南京理工大学,Power distribution network scheduling method based on electric vehicle state
+    CN110649640B                      *,2019-09-12,2023-01-17,太原理工大学,Super capacitor energy storage control device for network side energy suppression
+    CN112319304B                      *,2020-10-21,2022-10-14,国网天津市电力公司,V2G double-layer charging and discharging control method for electric automobile
+    JP7320025B2                      *,2021-07-14,2023-08-02,プライムプラネットエナジー＆ソリューションズ株式会社,Power supply and demand management device and power supply and demand adjustment method
+    JP2023031437A                      *,2021-08-25,2023-03-09,トヨタ自動車株式会社,Power supply system
+
+abstract
+    An electric storage device includes a first electric capacitor, a second electric capacitor, a converter, and a processor. The converter converts electric power transmitted between an external power system external to the electric storage device and at least one of the first electric capacitor and second electric capacitor. The processor is configured to control the converter to operate in at least one of a first mode and a second mode, the first electric capacitor continuously discharging electric power to the external power system in the first mode, the second electric capacitor discharging electric power to the external power system and being charged by the external power system, intermittently, to stabilize frequencies in the external power system in the second mode.
+title
+    Electric storage device, equipment, and control method
+similar_document
+24
+    Publication,Publication Date,Title
+    US10093196B2,2018-10-09,Electric storage device, equipment, and control method
+    EP2562030B1,2021-12-22,Apparatus and method for charging an electric vehicle
+    US8829722B2,2014-09-09,Apparatus and method for rapidly charging an electric vehicle
+    JP5660102B2,2015-01-28,Vehicle power supply
+    US7733039B2,2010-06-08,Electric vehicle system for charging and supplying electrical power
+    US7847521B2,2010-12-07,Power supply system for vehicle
+    US8423209B2,2013-04-16,Vehicle having power storage devices and charging line for supplying electric power provided from outside vehicle
+    US9013143B2,2015-04-21,Method for charging a plug-in electric vehicle
+    US8148952B2,2012-04-03,Control strategy for HV battery equalization charge during driving operation in fuel cell hybrid vehicles
+    RU2480348C2,2013-04-27,Hybrid transport facility
+    US9013168B2,2015-04-21,System for transferring energy from an energy source and method of making same
+    US20170036555A1,2017-02-09,Transformerless, current-isolated onboard charger with solid-state switching controls
+    TW201736159A,2017-10-16,Hybrid power delivery with improved power control
+    JP2008312382A,2008-12-25,Power system, vehicle equipped with same, control method of power system, and computer-readable recording medium recording program for making computer perform control method
+    US10158246B2,2018-12-18,Energy storage device, transport apparatus, and control method
+    CN110797956B,2023-04-14,Power supply system for railway wagon
+    US10439544B2,2019-10-08,Drive system, transporter, and control method performed by drive system
+    US11791638B2,2023-10-17,Power supply system
+    US11784492B2,2023-10-10,Power supply system
+    CA2787418A1,2014-02-21,System and method for managing a multiphase motor in an electric automotive vehicle
+    JP2019170124A,2019-10-03,Charger
+    US20230060273A1,2023-03-02,Power supply system and energy management method
+    Bhargav et al.,2019,Modeling of PV based Bidirectional Battery Charger for Electric Vehicles
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    29
+classfication_items
+163
+    B,6,0,L,1,1,/,1,8,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,6,0
+    B,6,0,L,5,3,/,6,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,1,0
+    B,6,0,L,5,3,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,6,0
+    B,6,0,L,5,3,/,6,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,6,0
+    B,6,0,L,5,3,/,6,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,5,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,3,/,0,0
+    H,0,2,J,3,/,2,4
+    H,0,2,J,3,/,2,4,2
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,3,/,0,0
+    H,0,2,J,3,/,2,8
+    H,0,2,J,3,/,3,2
+    H,0,2,J,3,/,3,2,2
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,1,3
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,8,0
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,2,3,1,0,/,0,0
+    H,0,2,J,2,3,1,0,/,4,0
+    H,0,2,J,2,3,1,0,/,4,8
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,4,7
+    H,0,2,J,7,/,0,0,4,8
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,3,4
+    H,0,2,J,7,/,3,4,5
+    Y
+    Y,0,2
+    Y,0,2,B
+    Y,0,2,B,7,0,/,0,0
+    Y,0,2,B,7,0,/,3,0
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+    Y,0,2,T,9,0,/,1,6,7
+    Y
+    Y,0,4
+    Y,0,4,S
+    Y,0,4,S,1,0,/,0,0
+    Y,0,4,S,1,0,/,1,2
+    Y,0,4,S,1,0,/,1,2,6
+    Y
+    Y,0,4
+    Y,0,4,S
+    Y,0,4,S,2,0,/,0,0
+    Y,0,4,S,2,0,/,2,0
+    Y,0,4,S,2,0,/,2,2,1
+    Y
+    Y,0,4
+    Y,0,4,S
+    Y,0,4,S,2,0,/,0,0
+    Y,0,4,S,2,0,/,2,0
+    Y,0,4,S,2,0,/,2,4,2
+    Y
+    Y,0,4
+    Y,0,4,S
+    Y,0,4,S,3,0,/,0,0
+    Y,0,4,S,3,0,/,1,0
+    Y,0,4,S,3,0,/,1,2
+    Y
+    Y,0,4
+    Y,0,4,S
+    Y,0,4,S,3,0,/,0,0
+    Y,0,4,S,3,0,/,1,0
+    Y,0,4,S,3,0,/,1,4
+
+application_events
+7
+    2017-03-15,Application filed by Honda Motor Co Ltd
+    2017-04-13,Assigned to HONDA MOTOR CO., LTD.
+    2017-09-21,Publication of US20170267115A1
+    2018-10-09,Application granted
+    2018-10-09,Publication of US10093196B2
+    Status,Active
+    2037-04-12,Adjusted expiration
+
+active_area
+2
+    J,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2016050992A,2016-03-15,Power storage device, device and control method
+    JP2016-050992,2016-03-15,
+
+legal_event
+4
+    Date,Code,Title,Description
+    2017-04-13,AS,Assignment,Owner name: HONDA MOTOR CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:UNNO, RYOTA;TAKIZAWA, DAIJIRO;SIGNING DATES FROM 20170307 TO 20170327;REEL/FRAME:041988/0411
+    2018-09-19,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2022-03-23,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

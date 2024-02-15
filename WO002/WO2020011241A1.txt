@@ -1,0 +1,216 @@
+ID
+    WO2020011241A1
+citation_exist
+    Patent Citations (6)
+citation_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20020167221A1                      *,2001-05-09,2002-11-14,Kosik Richard C.,Temperature compensated lift-throttle regenerative braking
+    CN103180184A                      *,2010-10-25,2013-06-26,丰田自动车株式会社,Brake control device
+    CN103552557A                      *,2013-11-18,2014-02-05,扬州泰博汽车电子智能科技有限公司,Electro-hydraulic composite braking system with electric braking assistant force and brake-by-wire function
+    CN105102283A                      *,2013-04-09,2015-11-25,丰田自动车株式会社,Vehicle brake control device
+    US20170087993A1                      *,2015-09-25,2017-03-30,Faraday&Future Inc.,Gps assist in regenerative braking
+    CN107303819A                      *,2016-04-20,2017-10-31,奥迪股份公司,The regenerative braking of vehicle
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US11673474B2                      *,2019-12-31,2023-06-13,Textron Innovations Inc.,Controlling regenerative braking to reduce skidding of a vehicle
+    GB2594288B                      *,2020-04-21,2022-07-06,Jaguar Land Rover Ltd,Controlling energy management of a traction battery
+    IT202000015766A1                      *,2020-06-30,2021-12-30,Iveco France Sas,IMPROVED BRAKING SYSTEM FOR A SELF-GUIDED VEHICLE
+
+abstract
+    Downhill charge sustain battery protection strategy is disclosed. For one example, a vehicle is powered by an electric motor and battery. The vehicle includes a vehicle control unit (VCU) to control friction braking and regenerative braking for the vehicle. For one example, the VCU is configured to implement a method comprising detecting a condition to switch back and forth between regenerative braking and friction braking. For one example, the detected condition is a charge sustain event such as, for example, the vehicle being at a top of a hill or going down a hill in a lift condition (no pedals pressed) and the battery is fully charged at maximum state of charge (SOC) or voltage limit.
+title
+    Battery protection with downhill charge sustain
+similar_document
+26
+    Publication,Publication Date,Title
+    CN107097777B,2022-09-20,System and method for managing torque
+    US9156358B2,2015-10-13,Regenerative braking in the presence of an antilock braking system control event
+    WO2020011241A1,2020-01-16,Battery protection with downhill charge sustain
+    KR100980079B1,2010-09-06,Hill hold for an electric vehicle
+    US10421362B2,2019-09-24,Regenerative braking control method and system
+    US8947025B2,2015-02-03,Regeneration control device of electrically powered vehicle
+    JP4742969B2,2011-08-10,Electric motor control device and electric vehicle equipped with the same
+    KR102371248B1,2022-03-04,Method for controlling e-4wd hybrid vehicle
+    US20180093571A1,2018-04-05,Braking torque blending system and method
+    US20210155240A1,2021-05-27,Electric vehicle
+    JP6740813B2,2020-08-19,Electric car
+    JP5803594B2,2015-11-04,Output characteristic control method
+    US20160311425A1,2016-10-27,Control Apparatus for Vehicle and Control Method for Vehicle
+    CN106494389B,2019-11-26,The device and method that torque for controlling hybrid electric vehicle reduces
+    JP5724704B2,2015-05-27,Regenerative control device for electric vehicle
+    CA2609417A1,2008-09-02,Fully charged battery protection
+    US11673474B2,2023-06-13,Controlling regenerative braking to reduce skidding of a vehicle
+    JP6124123B2,2017-05-10,Regenerative brake control system
+    JP2012125051A,2012-06-28,Power supply control device of electric automobile
+    Bildstein et al.,2014,Regenerative braking system
+    JP2011223698A,2011-11-04,Electric vehicle control apparatus
+    US9308824B1,2016-04-12,Active brake retraction during regeneration
+    KR100534718B1,2005-12-07,Regeneration braking control method for 4 wheel hybrid electric vehicle
+    JP6047407B2,2016-12-21,Vehicle control system
+    CN113799614B,2023-04-21,Brake energy recovery control method and system for four-wheel independent drive electric vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    18
+classfication_items
+112
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B,6,0,L,1,5,/,2,0,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,4
+    B,6,0,W,1,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,4
+    B,6,0,W,3,0,/,1,8,4,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,1,8
+    B,6,0,W,2,5,1,0,/,1,8,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,6,/,0,0
+    B,6,0,W,2,5,5,6,/,4,5
+    B,6,0,W,2,5,5,6,/,5,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+2
+    2019-07-12,Application filed by Byton Limited
+    2020-01-16,Publication of WO2020011241A1
+
+active_area
+1
+    W,O
+
+not_active_area
+1
+    U,S
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    US16/035,379,2018-07-13,Battery protection with downhill charge sustain
+    US16/035,379,2018-07-13,
+
+legal_event
+5
+    Date,Code,Title,Description
+    2020-02-26,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 19833360Country of ref document: EPKind code of ref document: A1
+    2021-01-14,NENP,Non-entry into the national phase,Ref country code: DE
+    2021-08-04,32PN,Ep: public notification in the ep bulletin as address of the adressee cannot be established,Free format text: NOTING OF LOSS OF RIGHTS PURSUANT TO RULE 112(1) EPC (EPO FORM 1205 DATED 17.05.2021)
+    2021-12-22,122,Ep: pct application non-entry in european phase,Ref document number: 19833360Country of ref document: EPKind code of ref document: A1
+

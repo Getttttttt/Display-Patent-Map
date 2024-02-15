@@ -1,0 +1,226 @@
+ID
+    WO2014125741A1
+citation_exist
+    Patent Citations (12)
+citation_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2006074932A                      *,2004-09-03,2006-03-16,Nissan Motor Co Ltd,電動機制御装置
+    JP2010252591A                      *,2009-04-20,2010-11-04,Toyota Central R&D Labs Inc,電圧変換装置制御システム
+    WO2010140212A1                      *,2009-06-02,2010-12-09,トヨタ自動車株式会社,電圧変換装置の制御装置、それを搭載した車両および電圧変換装置の制御方法
+    JP2011120329A                      *,2009-12-01,2011-06-16,Honda Motor Co Ltd,Ｄｃ／ｄｃコンバータ装置
+    JP2011200000A                      *,2010-03-18,2011-10-06,Denso Corp,回転機の制御装置
+    JP2011223701A                      *,2010-04-07,2011-11-04,Toyota Motor Corp,コンバータの電圧推定装置および電圧推定方法
+    Family To Family Citations,,,,
+    US6700389B2                      *,2001-08-17,2004-03-02,Delphi Technologies, Inc.,Temperature compensation of an inductive sensor
+    EP1598930B1,2003-06-05,2019-09-18,Toyota Jidosha Kabushiki Kaisha,Motor drive device, vehicle using the same, and computer-readable recording medium containing a program for controlling a voltage converter
+    US8537055B2                      *,2007-02-27,2013-09-17,Kyocera Corporation,Portable electronic device and magnetic antenna circuit
+    WO2010137127A1                      *,2009-05-27,2010-12-02,トヨタ自動車株式会社,電圧変換装置の制御装置およびそれを搭載した車両、電圧変換装置の制御方法
+    JP5545261B2,2010-12-10,2014-07-09,トヨタ自動車株式会社,昇圧コンバータ制御装置
+    JP5991212B2,2013-01-25,2016-09-14,トヨタ自動車株式会社,電力変換装置
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (10)
+              
+
+
+citedBy_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US20150214871A1                      *,2014-01-28,2015-07-30,Moog Inc.,Method and System for Determining Motor Shaft Position
+    JP6323323B2                      *,2014-12-17,2018-05-16,トヨタ自動車株式会社,昇圧制御装置
+    JP2016163483A                      *,2015-03-04,2016-09-05,株式会社ホンダロック,モータ制御装置および反力出力装置
+    JP6528999B2                      *,2015-06-08,2019-06-12,富士電機株式会社,電源装置
+    JP6409027B2                      *,2016-07-07,2018-10-17,株式会社豊田中央研究所,電力変換装置
+    DE102017201131A1,2017-01-25,2018-07-26,Zf Friedrichshafen Ag,Ansteuerung einer elektrischen Maschine
+    JP6935739B2                      *,2017-12-15,2021-09-15,株式会社デンソー,昇圧システム
+    JP6947016B2                      *,2017-12-26,2021-10-13,株式会社デンソー,電動車両
+    JP6962267B2                      *,2018-04-27,2021-11-05,株式会社豊田自動織機,パルスパターン生成装置
+    JP7005471B2                      *,2018-11-09,2022-01-21,株式会社Soken,駆動システム
+
+abstract
+    電力変換装置は、高電位側端子と低電位側端子の間に直列に接続され、上下アームを構成する対のスイッチング素子と、前記対のスイッチング素子の間に一端が接続されるコイルと、前記高電位側端子及び前記低電位側端子の間の電圧と、前記コイルのインダクタンスとに基づいて、前記コイルを流れる電流値の時間変化率を算出し、前記算出した電流値の時間変化率に基づいて、前記対のスイッチング素子のうちの一方のみをオン／オフ駆動する片アーム駆動と、前記対のスイッチング素子の双方を逆相でオン／オフ駆動する両アーム駆動との間を切り換える制御装置とを備える。
+title
+    電力変換装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP5737309B2,2015-06-17,電力変換装置
+    US8816612B2,2014-08-26,Controller for multi-phase rotary device
+    US8963479B2,2015-02-24,Power conversion device for a rotary electric machine
+    US8339089B2,2012-12-25,Power converter
+    JP5831444B2,2015-12-09,回転機の制御装置
+    JP6045765B1,2016-12-14,電力変換装置およびこれを適用した車両駆動システム
+    KR101222287B1,2013-01-21,교류 전동기의 제어 장치 및 제어 방법
+    JPWO2006103869A1,2008-09-04,電流制御装置とその電流オフセット補正方法
+    JP6040787B2,2016-12-07,電力変換装置
+    WO2014091843A1,2014-06-19,コンバータ装置
+    JP2011223701A,2011-11-04,コンバータの電圧推定装置および電圧推定方法
+    JP6040800B2,2016-12-07,コンバータ装置
+    JP2011109884A,2011-06-02,コンバータの電流値を取得する装置および方法
+    JP6732063B1,2020-07-29,電力変換装置、発電電動機の制御装置、および、電動パワーステアリング装置
+    JP5991212B2,2016-09-14,電力変換装置
+    WO2021200389A1,2021-10-07,モータ制御装置、モータシステム及びモータ制御方法
+    JP5987777B2,2016-09-07,電力変換装置
+    WO2020105106A1,2020-05-28,交流回転電機の制御装置
+    JP2010252528A,2010-11-04,電気自動車
+    JP2010220306A,2010-09-30,モータの制御装置
+    JP7144903B1,2022-09-30,電力変換装置、発電電動機の制御装置、及び電動パワーステアリング装置
+    JP6775623B2,2020-10-28,電力変換装置、発電電動機の制御装置、および、電動パワーステアリング装置
+    WO2021200236A1,2021-10-07,モータ制御装置、モータシステム及びモータ制御方法
+    WO2021200209A1,2021-10-07,モータ制御装置、モータシステム及びモータ制御方法
+    JP2022132053A,2022-09-07,モータ駆動装置
+
+patent_application
+    NoExist
+patent_priority_application
+4
+    Application,Priority date,Filing date,Title
+    US14/760,083,2013-02-18,2013-12-24,Power conversion apparatus
+    DE112013006693.9T,2013-02-18,2013-12-24,Leistungsumwandlungsgerät
+    CN201380073083.0A,2013-02-18,2013-12-24,电力转换装置
+
+inventor_number
+    5
+classfication_nums
+    16
+classfication_items
+97
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,7,/,0,0
+    H,0,2,P,2,7,/,0,4
+    H,0,2,P,2,7,/,0,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,7,/,0,0
+    H,0,2,M,7,/,6,6
+    H,0,2,M,7,/,6,8
+    H,0,2,M,7,/,7,2
+    H,0,2,M,7,/,7,9
+    H,0,2,M,7,/,7,9,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,8,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+5
+    2013-12-24,Application filed by トヨタ自動車株式会社
+    2013-12-24,Priority to US14/760,083
+    2013-12-24,Priority to DE112013006693.9T
+    2013-12-24,Priority to CN201380073083.0A
+    2014-08-21,Publication of WO2014125741A1
+
+active_area
+5
+    J,P
+    D,E
+    U,S
+    C,N
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2013-029468,2013-02-18,
+    JP2013029468A,2013-02-18,電力変換装置
+
+legal_event
+6
+    Date,Code,Title,Description
+    2014-10-08,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 13874870Country of ref document: EPKind code of ref document: A1
+    2015-02-12,DPE1,Request for preliminary examination filed after expiration of 19th month from priority date (pct application filed from 20040101),
+    2015-07-09,WWE,Wipo information: entry into national phase,Ref document number: 14760083Country of ref document: US
+    2015-08-18,WWE,Wipo information: entry into national phase,Ref document number: 112013006693Country of ref document: DERef document number: 1120130066939Country of ref document: DE
+    2016-03-16,122,Ep: pct application non-entry in european phase,Ref document number: 13874870Country of ref document: EPKind code of ref document: A1
+

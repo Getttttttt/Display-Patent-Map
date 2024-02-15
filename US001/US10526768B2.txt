@@ -1,0 +1,477 @@
+ID
+    US10526768B2
+citation_exist
+    Patent Citations (12)
+citation_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2009127643A,2007-11-19,2009-06-11,Sumitomo (Shi) Construction Machinery Manufacturing Co Ltd,Boom drive circuit of construction machine
+    WO2014112566A1,2013-01-17,2014-07-24,日立建機株式会社,Device for recovering pressurized oil energy from work machine
+    JP2015520347A,2012-06-04,2015-07-16,キャタピラー インコーポレイテッドＣａｔｅｒｐｉｌｌａｒ Ｉｎｃｏｒｐｏｒａｔｅｄ,Electrohydraulic system for potential energy recovery and reuse
+    WO2016051579A1,2014-10-02,2016-04-07,日立建機株式会社,Work vehicle hydraulic drive system
+    Family To Family Citations,,,,
+    US4359931A                      *,1981-01-19,1982-11-23,The Warner & Swasey Company,Regenerative and anticavitation hydraulic system for an excavator
+    JPH09210018A                      *,1996-01-31,1997-08-12,Tokimec Inc,Fluid pressure circuit
+    JP5204150B2                      *,2010-05-21,2013-06-05,日立建機株式会社,Hybrid construction machine
+    JP5928065B2                      *,2012-03-27,2016-06-01,コベルコ建機株式会社,Control device and construction machine equipped with the same
+    CN103671365B                      *,2012-09-23,2015-12-02,山重建机有限公司,A kind of energy recovery and reuse device
+    JP2014178021A                      *,2013-03-15,2014-09-25,Hitachi Constr Mach Co Ltd,Hydraulic pressure control system of construction machine
+    JP6317656B2                      *,2014-10-02,2018-04-25,日立建機株式会社,Hydraulic drive system for work machines
+    CN105805097B                      *,2016-05-06,2017-07-21,华侨大学,Recycle and reuse system is lost in overflow valve overflow
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (5)
+              
+
+
+citedBy_exist
+    
+              Cited By (10)
+              
+
+
+citedBy_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20190186106A1                      *,2017-03-29,2019-06-20,Hitachi Construction Machinery Co., Ltd.,Work Machine
+    US10677268B2                      *,2017-02-20,2020-06-09,Hitachi Construction Machinery Co., Ltd.,Construction machine
+    US10920797B2                      *,2018-01-11,2021-02-16,Komatsu Ltd.,Hydraulic circuit
+    Family To Family Citations,,,,
+    KR20200008787A,2018-07-17,2020-01-29,울산대학교 산학협력단,Swing Energy Regeneration System using Secondary Control System
+    DE102018218165A1                      *,2018-10-24,2020-04-30,Robert Bosch Gmbh,Arrangement for a working hydraulics, method and working hydraulics
+    WO2021025170A1                      *,2019-08-08,2021-02-11,住友重機械工業株式会社,Excavator
+    CN110685973A                      *,2019-08-21,2020-01-14,福建省龙岩液压集团有限公司,Intelligent hydraulic oil cylinder oil leakage monitoring and preventing system
+    CN110529449B                      *,2019-09-24,2021-03-09,中国航空工业集团公司沈阳飞机设计研究所,High-reliability pressure relief device and method for hydraulic servo valve
+    JP2023052712A                      *,2020-03-09,2023-04-12,日立建機株式会社,work vehicle
+    SE545550C2                      *,2020-08-20,2023-10-17,Komatsu Forest Ab,Hydraulic log grapple with adaptive control and log handling vehicles including such
+
+abstract
+    The hydraulic energy regeneration system for the work machine, includes: a communication pressure boost passage that can boost a pressure of a discharge-side hydraulic fluid by communicating a discharge side and a suction side of the hydraulic cylinder with each other during an own weight fall of a driven body; a communication pressure boost valve that is disposed in the communication pressure boost passage and that can regulate one of or both of a pressure and a flow rate of the communication pressure boost passage; a reuse-side line and a reuse control valve or a regeneration-side line and a regeneration control valve that can regenerate a hydraulic fluid discharged from the hydraulic cylinder during the own weight fall of the driven body; and a controller. The controller is configured to reduce an opening degree of the communication pressure boost valve in response to an increase of the discharge-side pressure of the hydraulic cylinder right after the discharge-side pressure reaches a preset high load set pressure, and gradually reduces the opening degree of the communication pressure boost valve with passage of time.
+title
+    Hydraulic energy regeneration system for work machine
+similar_document
+16
+    Publication,Publication Date,Title
+    US10526768B2,2020-01-07,Hydraulic energy regeneration system for work machine
+    US10436229B2,2019-10-08,Hydraulic drive system for work machine
+    JP6205339B2,2017-09-27,Hydraulic drive
+    US9926950B2,2018-03-27,Hydraulic system for construction machinery
+    EP3203089B1,2022-04-13,Workmachine comprising a hydraulic drive system
+    US20180066416A1,2018-03-08,Hydraulic Drive System for Work Machine
+    US9026297B2,2015-05-05,Control system for hybrid construction machine
+    US10301793B2,2019-05-28,Hydraulic drive system for work machine
+    JP2010190261A,2010-09-02,Hydraulic control device for working machine, and working machine equipped with the same
+    JP2010078035A,2010-04-08,Hydraulic cylinder control circuit of utility machine
+    JP6814309B2,2021-01-13,Construction machinery
+    KR101747519B1,2017-06-14,Hybrid construction machine
+    KR101760589B1,2017-07-24,A variable control device of spool displacement for construction machinery and method thereof
+    KR102582557B1,2023-09-26,working machine
+    WO2021039805A1,2021-03-04,Construction machine
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    51
+classfication_items
+355
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,0,5,8
+    E,0,2,F,9,/,2,0,9,1
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,1,7
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,2,1
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,2,1
+    E,0,2,F,9,/,2,2,2,5
+    E,0,2,F,9,/,2,2,2,8
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,6,4
+    E,0,2,F,9,/,2,2,6,7
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,6,4
+    E,0,2,F,9,/,2,2,7,1
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,7,8
+    E,0,2,F,9,/,2,2,8,5
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,6
+    E,0,2,F,9,/,2,6,7
+    E,0,2,F,9,/,2,6,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,/,0,0
+    F,1,5,B,1,/,0,2
+    F,1,5,B,1,/,0,2,7
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F,1,5,B,1,1,/,0,2
+    F,1,5,B,1,1,/,0,2,4
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F,1,5,B,1,1,/,1,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,1,/,0,0
+    F,1,5,B,2,1,/,1,4
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,7,8
+    E,0,2,F,9,/,2,2,9,2
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,7,8
+    E,0,2,F,9,/,2,2,9,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,/,0,0
+    F,1,5,B,1,/,0,2
+    F,1,5,B,1,/,0,2,4
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,/,0,0
+    F,1,5,B,1,/,0,2
+    F,1,5,B,1,/,0,2,7
+    F,1,5,B,1,/,0,3,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,9,/,0,0
+    F,1,5,B,1,9,/,0,0,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,0,/,0,0
+    F,1,5,B,2,0,/,0,0,2
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,0,/,0,0
+    F,1,5,B,2,0,/,0,0,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F,1,5,B,1,1,/,0,2
+    F,1,5,B,1,1,/,0,2,4
+    F,1,5,B,2,0,1,1,/,0,2,4,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,3
+    F,1,5,B,2,2,1,1,/,2,0,5,4,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,1
+    F,1,5,B,2,2,1,1,/,2,1,2
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,3,0
+    F,1,5,B,2,2,1,1,/,3,0,5
+    F,1,5,B,2,2,1,1,/,3,0,5,6
+    F,1,5,B,2,2,1,1,/,3,0,5,6,5
+    F,1,5,B,2,2,1,1,/,3,0,5,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,3,0
+    F,1,5,B,2,2,1,1,/,3,1
+    F,1,5,B,2,2,1,1,/,3,1,4,4
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,3,0
+    F,1,5,B,2,2,1,1,/,3,1,5
+    F,1,5,B,2,2,1,1,/,3,1,5,2,3
+    F,1,5,B,2,2,1,1,/,3,1,5,3,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,3,0
+    F,1,5,B,2,2,1,1,/,3,2
+    F,1,5,B,2,2,1,1,/,3,2,7
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,4,0
+    F,1,5,B,2,2,1,1,/,4,0,5
+    F,1,5,B,2,2,1,1,/,4,0,5,1,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,4,0
+    F,1,5,B,2,2,1,1,/,4,1
+    F,1,5,B,2,2,1,1,/,4,1,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,4,0
+    F,1,5,B,2,2,1,1,/,4,1,5
+    F,1,5,B,2,2,1,1,/,4,1,5,2,7
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,4,0
+    F,1,5,B,2,2,1,1,/,4,2
+    F,1,5,B,2,2,1,1,/,4,2,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,4,0
+    F,1,5,B,2,2,1,1,/,4,2
+    F,1,5,B,2,2,1,1,/,4,2,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,5,0
+    F,1,5,B,2,2,1,1,/,5,1
+    F,1,5,B,2,2,1,1,/,5,1,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,5,0
+    F,1,5,B,2,2,1,1,/,5,2
+    F,1,5,B,2,2,1,1,/,5,2,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,1
+    F,1,5,B,2,2,1,1,/,6,1,1
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,0,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,0,6
+    F,1,5,B,2,2,1,1,/,6,3,0,9
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,0,6
+    F,1,5,B,2,2,1,1,/,6,3,1,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,0,6
+    F,1,5,B,2,2,1,1,/,6,3,1,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,3,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,6,5
+    F,1,5,B,2,2,1,1,/,6,6,5,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,6,5
+    F,1,5,B,2,2,1,1,/,6,6,5,4
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,0,5
+    F,1,5,B,2,2,1,1,/,7,0,5,1
+    F,1,5,B,2,2,1,1,/,7,0,5,3
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,1
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,6
+    F,1,5,B,2,2,1,1,/,7,6,1
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,8,0
+    F,1,5,B,2,2,1,1,/,8,6
+    F,1,5,B,2,2,1,1,/,8,6,2
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,8,0
+    F,1,5,B,2,2,1,1,/,8,7
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,8,0
+    F,1,5,B,2,2,1,1,/,8,7,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,8,0
+    F,1,5,B,2,2,1,1,/,8,8
+
+application_events
+7
+    2016-09-23,Application filed by Hitachi Construction Machinery Co Ltd
+    2018-02-27,Assigned to HITACHI CONSTRUCTION MACHINERY CO., LTD.
+    2019-02-28,Publication of US20190063039A1
+    2020-01-07,Application granted
+    2020-01-07,Publication of US10526768B2
+    Status,Active
+    2036-10-10,Adjusted expiration
+
+active_area
+6
+    E,P
+    U,S
+    J,P
+    K,R
+    W,O
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2016/077961,2016-09-23,Hydraulic energy recovery device for work machine
+
+legal_event
+10
+    Date,Code,Title,Description
+    2018-02-27,AS,Assignment,Owner name: HITACHI CONSTRUCTION MACHINERY CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:HIJIKATA, SEIJI;ISHIKAWA, KOUJI;IMURA, SHINYA;SIGNING DATES FROM 20180202 TO 20180206;REEL/FRAME:045055/0562
+    2018-02-27,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2019-02-25,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2019-05-10,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2019-08-22,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2019-09-23,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2019-12-03,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2019-12-18,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2023-06-21,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

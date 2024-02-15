@@ -1,0 +1,359 @@
+ID
+    US20200148210A1
+citation_exist
+    Patent Citations (12)
+citation_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US6542808B2                      *,1999-03-08,2003-04-01,Josef Mintz,Method and system for mapping traffic congestion
+    CN101784774A                      *,2007-01-31,2010-07-21,涡轮动力技术公司,The generation of focused airflow and management
+    US9604628B2                      *,2014-01-17,2017-03-28,Ford Global Technologies, Llc,Powertrain control of a hybrid vehicle in park or neutral
+    US9284920B2                      *,2014-06-19,2016-03-15,Ford Global Technologies, Llc,Systems and methods for stopping and starting an engine with dedicated EGR
+    US10569638B2                      *,2014-06-25,2020-02-25,Heinz Welschoff,All electric vehicle without plug-in requirement
+    WO2016094694A1                      *,2014-12-10,2016-06-16,Gogoro Inc.,Systems and methods of adaptive regenerative braking and collision avoidance for electrically powered vehicles
+    KR101777329B1                      *,2016-08-10,2017-09-11,엘지전자 주식회사,Regenerative braking control apparatus for vehicle
+    JP6536519B2                      *,2016-09-13,2019-07-03,トヨタ自動車株式会社,Vehicle control device
+    US10640104B2                      *,2018-01-30,2020-05-05,GM Global Technology Operations LLC,Anticipatory control for hybrid vehicle propulsion system
+    US10654488B2                      *,2018-03-07,2020-05-19,Toyota Motor Engineering & Manufacturing North America, Inc.,Acceleration booster
+    US10563605B2                      *,2018-03-13,2020-02-18,Ford Global Technologies, Llc,Systems and methods for reducing vehicle emissions
+    US11117566B2                      *,2018-05-08,2021-09-14,Ford Global Technologies, Llc,Methods and systems of a hybrid vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    US11091145B2                      *,2018-05-01,2021-08-17,Ford Global Technologies, Llc,Method and system for engine control
+    Family To Family Citations,,,,
+
+abstract
+    A host vehicle includes an internal combustion engine, a turbocharger in fluid communication with the internal combustion engine, a communication system configured to transmit and receive a traffic-related message, and a controller in communication with the turbocharger and the communication system. The controller is programmed to: receive the traffic-related message via the communication system; and command the internal combustion engine to increase a power output to spool up the turbocharger in response to receiving the traffic-related message. The controller is programmed to determine a number of relevant vehicles. The number of relevant vehicles is a number of vehicles that are in front of the host vehicle and behind a traffic light and affect a movement of the host vehicle toward the traffic light. The traffic-related message is a one of a vehicle message from another vehicle and/or a traffic-light message from the traffic light.
+title
+    Methods to enhance powertrain systems equipped with turbocharger or regenerative braking system
+similar_document
+26
+    Publication,Publication Date,Title
+    US9694711B2,2017-07-04,Controlling apparatus for vehicle
+    CN108058704B,2021-09-24,Predictive control of a powertrain system based on vehicle-to-vehicle communication
+    US10317908B2,2019-06-11,Peak efficiency recommendation and sharing
+    US10676088B2,2020-06-09,Powertrain control system and method of operating the same
+    US11498619B2,2022-11-15,Steering wheel angle bias correction for autonomous vehicles using angle control
+    US10246093B2,2019-04-02,Method for operating a motor vehicle
+    US11001247B2,2021-05-11,Method for suggesting activation of an exhaust brake
+    US11358585B2,2022-06-14,System and method for torque split arbitration
+    US10683002B2,2020-06-16,Efficient acceleration from surrounding vehicles
+    US11254313B2,2022-02-22,Travelling control apparatus
+    EP3680140A1,2020-07-15,System and method for providing a driver a recommendation for controlling vehicle propulsion
+    CN112423228A,2021-02-26,System and method for vehicle routing
+    CN111409636B,2023-03-14,System and method for controlling vehicle propulsion
+    CN111532264A,2020-08-14,Intelligent internet automobile cruising speed optimization method for variable-gradient and variable-speed-limit traffic scene
+    US11104340B2,2021-08-31,Methods to enhance powertrain systems equipped with turbocharger or regenerative braking system
+    US20220212542A1,2022-07-07,Regenerative braking control system for a hybrid or electric vehicle
+    US11052896B2,2021-07-06,Predictive grade optimization in cruise control
+    US11661082B2,2023-05-30,Forward modeling for behavior control of autonomous vehicles
+    US11097727B2,2021-08-24,Eco-cruise: torque management
+    CN111391813A,2020-07-10,Control device for hybrid vehicle
+    US20230242111A1,2023-08-03,System and method for controlling vehicle energy consumption using segmented route optimization
+    US20230061782A1,2023-03-02,System and method for controlling vehicle propulsion
+    US20230283986A1,2023-09-07,Systems and methods for providing guidance instructions to an operational charging unit
+    CN113246949A,2021-08-13,Automatic following distance in cruise control
+    KR20190073248A,2019-06-26,Method for controlling driving of environmentally friendly vehicle using front driving environment information
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US16/190,719,2018-11-14,2018-11-14,Methods to enhance powertrain systems equipped with turbocharger or regenerative braking system
+
+inventor_number
+    5
+classfication_nums
+    42
+classfication_items
+244
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,5,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,4
+    B,6,0,W,1,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B,6,0,W,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,0,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,8
+    F
+    F,0,2
+    F,0,2,B
+    F,0,2,B,3,7,/,0,0
+    F,0,2,B,3,7,/,0,4
+    F
+    F,0,2
+    F,0,2,B
+    F,0,2,B,3,7,/,0,0
+    F,0,2,B,3,7,/,1,2
+    F,0,2,B,3,7,/,1,4
+    F
+    F,0,2
+    F,0,2,B
+    F,0,2,B,3,7,/,0,0
+    F,0,2,B,3,7,/,1,2
+    F,0,2,B,3,7,/,2,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,2,0,5,0,/,0,0,6,2
+    B,6,0,W,2,0,5,0,/,0,0,7,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,4,2,0,/,0,0
+    B,6,0,W,2,4,2,0,/,4,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,3,0,/,0,0
+    B,6,0,W,2,5,3,0,/,1,0
+    B,6,0,W,2,5,5,0,/,2,2
+    B,6,0,W,2,5,5,0,/,4,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,4,/,0,0
+    B,6,0,W,2,5,5,4,/,8,0
+    B,6,0,W,2,5,5,4,/,8,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,5,/,0,0
+    B,6,0,W,2,5,5,5,/,6,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,6,/,0,0
+    B,6,0,W,2,5,5,6,/,4,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,6
+    B,6,0,W,2,7,1,0,/,0,6,3,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,6
+    B,6,0,W,2,7,1,0,/,0,6,7,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,2
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,1,8
+    B,6,0,Y,2,3,0,0,/,1,8,0,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,2,5
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,4,0,0,/,0,0
+    B,6,0,Y,2,4,0,0,/,4,3
+    B,6,0,Y,2,4,0,0,/,4,3,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,1,0
+    Y,0,2,T,1,0,/,1,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+7
+    2018-11-14,Application filed by GM Global Technology Operations LLC
+    2018-11-14,Priority to US16/190,719
+    2020-05-14,Publication of US20200148210A1
+    2021-08-31,Application granted
+    2021-08-31,Publication of US11104340B2
+    Status,Active
+    2040-01-17,Adjusted expiration
+
+active_area
+1
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US16/190,719,2018-11-14,Methods to enhance powertrain systems equipped with turbocharger or regenerative braking system
+
+legal_event
+6
+    Date,Code,Title,Description
+    2018-11-14,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2021-03-16,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2021-04-11,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2021-07-07,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2021-08-11,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

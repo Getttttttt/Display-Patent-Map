@@ -1,0 +1,278 @@
+ID
+    US9950630B2
+citation_exist
+    Patent Citations (18)
+citation_infor
+20
+    Publication number,Priority date,Publication date,Assignee,Title
+    US6198259B1                      *,1999-02-19,2001-03-06,Fuji Electric Co., Ltd.,Non-insulating DC—DC converter
+    US6351104B1                      *,1998-08-27,2002-02-26,Robert Bosch Gmbh,Multi-voltage vehicle electric system
+    US20030029654A1                      *,2001-08-10,2003-02-13,Honda Giken Kogyo Kabushiki Kaisha,Power supply apparatus and electric vehicle using the same
+    US20060097577A1                      *,2003-02-17,2006-05-11,Denso Corporation,Vehicle power supply system
+    JP3972906B2,2003-04-09,2007-09-05,株式会社デンソー,Vehicle power supply system
+    JP2008072880A,2006-09-15,2008-03-27,Toyota Motor Corp,Power supply system
+    US20080101096A1                      *,2006-10-31,2008-05-01,Tdk Corporation,Switching power supply unit
+    JP2010130877A,2008-12-01,2010-06-10,Hitachi Automotive Systems Ltd,Vehicle battery controller, vehicle battery system and method for controlling vehicle battery
+    US20110248687A1                      *,2010-04-09,2011-10-13,Mitsubishi Electric Corporation,Power supply system for motor vehicle
+    WO2011151940A1,2010-05-31,2011-12-08,三菱電機株式会社,Power conversion device
+    JP2012075280A,2010-09-29,2012-04-12,Panasonic Corp,Power supply device for vehicle
+    US20130038271A1                      *,2011-08-09,2013-02-14,Hyundai Motor Company,Control method of hybrid vehicle
+    US20130334879A1                      *,2012-06-15,2013-12-19,Omron Automotive Electronics Co., Ltd.,Vehicle power-supply control device
+    US20140346858A1                      *,2011-01-12,2014-11-27,Audi Ag,Method for operating an on-board power supply system of a motor vehicle
+    Family To Family Citations,,,,
+    JP2008289229A                      *,2007-05-15,2008-11-27,Toyota Motor Corp,Power controller
+    JP2009089536A                      *,2007-10-01,2009-04-23,Toyota Motor Corp,Power supply system
+    JP2011041425A                      *,2009-08-17,2011-02-24,Autonetworks Technologies Ltd,Power supply controller for vehicle
+    CN202727993U                      *,2012-07-25,2013-02-13,江苏万得电动车研究所有限公司,Low-voltage control system for electric automobile
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (21)
+              
+
+
+citedBy_infor
+23
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20180041054A1                      *,2016-08-05,2018-02-08,Gs Yuasa International Ltd.,Energy storage apparatus for engine start-up, method for controlling the same, and vehicle
+    US20190334375A1                      *,2018-04-27,2019-10-31,Yazaki Corporation,Power redundancy system
+    Family To Family Citations,,,,
+    JP2015209058A                      *,2014-04-25,2015-11-24,オムロンオートモーティブエレクトロニクス株式会社,Power supply device
+    JP2015217920A                      *,2014-05-21,2015-12-07,オムロンオートモーティブエレクトロニクス株式会社,Vehicle power supply device and vehicle regenerative system
+    JP2015217919A                      *,2014-05-21,2015-12-07,オムロンオートモーティブエレクトロニクス株式会社,Vehicle power supply device and vehicle regenerative system
+    US9778325B2                      *,2014-07-29,2017-10-03,Infineon Technologies Ag,Sensor with micro break compensation
+    JP6082420B2                      *,2015-03-31,2017-02-15,富士重工業株式会社,Vehicle power supply
+    JP6523747B2                      *,2015-03-31,2019-06-05,株式会社Ｓｕｂａｒｕ,Power supply for vehicles
+    DE102015220223A1                      *,2015-10-16,2017-04-20,Zf Friedrichshafen Ag,Limitation of the current gradient during load shedding
+    JP6488995B2                      *,2015-11-27,2019-03-27,株式会社デンソー,Control device for in-vehicle power supply system
+    JP6636840B2                      *,2016-03-29,2020-01-29,株式会社Ｓｕｂａｒｕ,Hybrid vehicle control device and hybrid vehicle system
+    DE102016006660B4                      *,2016-06-01,2021-07-29,Audi Ag,Method for operating a motor vehicle with an internal combustion engine and with two electrical on-board networks coupled via a DC voltage converter and a motor vehicle with a control device for carrying out the method
+    WO2018047288A1                      *,2016-09-09,2018-03-15,新電元工業株式会社,Vehicle power supply system and method for controlling vehicle power supply system
+    JP6665821B2                      *,2017-03-30,2020-03-13,オムロン株式会社,Bidirectional DC-DC converter
+    JP2019006263A                      *,2017-06-26,2019-01-17,株式会社Ｓｕｂａｒｕ,Vehicle control apparatus
+    DE102018206991B3                      *,2018-05-04,2019-10-02,Prüfrex engineering e motion gmbh & co. kg,Ignition device, internal combustion engine and method of operation thereof
+    JP6922847B2                      *,2018-05-24,2021-08-18,株式会社オートネットワーク技術研究所,In-vehicle power supply
+    JP6793156B2,2018-06-29,2020-12-02,株式会社Ｓｕｂａｒｕ,Vehicle power supply
+    JP7069075B2                      *,2019-03-26,2022-05-17,本田技研工業株式会社,Power system
+    TWI769477B                      *,2020-07-08,2022-07-01,三陽工業股份有限公司,Driving porwer generation system of multi-voltage energy storage device
+    JP2023019064A                      *,2021-07-28,2023-02-09,矢崎総業株式会社,On-vehicle power supply system
+
+abstract
+    While a current cutoff mechanism cuts off charging and discharging currents for a second electric storage device, a DC/DC converter is controlled so as to be in a state where electric power is supplied from a low-voltage side to a high-voltage side, applies voltage conversion to an input voltage of the low-voltage side so that an output voltage of the high-voltage side becomes a predetermined voltage, and after a predetermined state where the induction voltage of the AC power generator can be supplied to the low-voltage side is reached, control of the DC/DC converter is switched from the state where electric power is supplied from the low-voltage side to the high-voltage side to a state where electric power is supplied from the high-voltage side to the low-voltage side.
+title
+    Vehicle power source system
+similar_document
+26
+    Publication,Publication Date,Title
+    US9950630B2,2018-04-24,Vehicle power source system
+    JP4023171B2,2007-12-19,LOAD DRIVE DEVICE, CHARGE CONTROL METHOD FOR POWER STORAGE DEVICE IN LOAD DRIVE DEVICE, AND COMPUTER-READABLE RECORDING MEDIUM CONTAINING PROGRAM FOR CAUSING COMPUTER TO EXECUTE CHARGE CONTROL
+    JP5735782B2,2015-06-17,Hybrid vehicle charging apparatus and method
+    US9315112B2,2016-04-19,Power source apparatus for electrically powered vehicle and control method therefor
+    US7872362B2,2011-01-18,Vehicle-use power supply control apparatus
+    US8994208B2,2015-03-31,Backup power for overvoltage protection for electric vehicle
+    US9441600B2,2016-09-13,Motor vehicle electrical system and method for operating a motor vehicle electrical system
+    KR20070076544A,2007-07-24,Vehicle propulsion system
+    JP2006271136A,2006-10-05,Dc-dc converter device
+    US9868358B2,2018-01-16,Power conversion system suppressing reduction in conversion efficiency
+    US10124794B2,2018-11-13,Vehicle and control method therefor
+    JP6284496B2,2018-02-28,Voltage converter
+    JP4636313B2,2011-02-23,Vehicle control device
+    JP2015209058A,2015-11-24,Power supply device
+    JP2009254169A,2009-10-29,Power supply system
+    US11040634B2,2021-06-22,Power electronics apparatus and control method for an electric machine and for electrical energy stores
+    JP2014217182A,2014-11-17,Driving device and vehicle including the same
+    US9694696B2,2017-07-04,Power supply device of vehicle
+    US20100321968A1,2010-12-23,Load fault handling for switched reluctance or induction type machines
+    JP2009254206A,2009-10-29,Power source control system
+    JP4950162B2,2012-06-13,Vehicle power supply
+    JP6324631B2,2018-05-16,Railway vehicle control system
+    US11161420B2,2021-11-02,Vehicle power supply apparatus
+    JP2009134954A,2009-06-18,Fuel cell power supply device
+    Fernando et al.,2015,A rare-earth free shev powertrain and its control
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    6
+classfication_nums
+    30
+classfication_items
+133
+    B,6,0,L,1,1,/,1,8,0,9
+    B,6,0,L,1,1,/,0,0,5
+    B,6,0,L,1,1,/,0,8
+    B,6,0,L,1,1,/,1,4
+    B,6,0,L,1,1,/,1,8,6,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,5,0
+    B,6,0,L,5,3,/,5,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,5,0
+    B,6,0,L,5,3,/,5,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H,0,2,M,3,/,0,2
+    H,0,2,M,3,/,0,4
+    H,0,2,M,3,/,1,0
+    H,0,2,M,3,/,1,4,5
+    H,0,2,M,3,/,1,5,5
+    H,0,2,M,3,/,1,5,6
+    H,0,2,M,3,/,1,5,8
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H,0,2,M,3,/,0,2
+    H,0,2,M,3,/,0,4
+    H,0,2,M,3,/,1,0
+    H,0,2,M,3,/,1,4,5
+    H,0,2,M,3,/,1,5,5
+    H,0,2,M,3,/,1,5,6
+    H,0,2,M,3,/,1,5,8
+    H,0,2,M,3,/,1,5,8,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,0,5
+    Y,0,2,T,1,0,/,7,0,2,2
+    Y,0,2,T,1,0,/,7,0,6,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y,0,2,T,1,0,/,7,0,7,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,1,6
+    Y,0,2,T,1,0,/,7,2,4,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+
+application_events
+7
+    2013-05-22,Application filed by Mitsubishi Electric Corp
+    2015-06-29,Assigned to MITSUBISHI ELECTRIC CORPORATION
+    2015-12-10,Publication of US20150352968A1
+    2018-04-24,Application granted
+    2018-04-24,Publication of US9950630B2
+    Status,Expired - Fee Related
+    2034-06-25,Adjusted expiration
+
+active_area
+1
+    W,O
+
+not_active_area
+4
+    U,S
+    J,P
+    D,E
+    C,N
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2013/064258,2013-05-22,Vehicle power supply system
+
+legal_event
+7
+    Date,Code,Title,Description
+    2015-06-29,AS,Assignment,Owner name: MITSUBISHI ELECTRIC CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:DATE, TOSHIAKI;MURATA, YASUKAZU;WACHI, SATOSHI;AND OTHERS;SIGNING DATES FROM 20150527 TO 20150602;REEL/FRAME:035926/0133
+    2018-04-04,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2021-12-13,FEPP,Fee payment procedure,Free format text: MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2022-05-30,LAPS,Lapse for failure to pay maintenance fees,Free format text: PATENT EXPIRED FOR FAILURE TO PAY MAINTENANCE FEES (ORIGINAL EVENT CODE: EXP.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2022-05-30,STCH,Information on status: patent discontinuation,Free format text: PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362
+    2022-06-21,FP,Lapsed due to failure to pay maintenance fee,Effective date: 20220424
+

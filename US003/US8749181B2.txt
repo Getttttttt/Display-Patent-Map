@@ -1,0 +1,242 @@
+ID
+    US8749181B2
+citation_exist
+    Patent Citations (19)
+citation_infor
+21
+    Publication number,Priority date,Publication date,Assignee,Title
+    US3921741A                      *,1974-07-11,1975-11-25,Avco Corp,Bicycle with electric motor assist
+    US4095663A                      *,1976-10-21,1978-06-20,Lucas Industries Limited,Cycles
+    JPH09254861A,1996-03-26,1997-09-30,Yazaki Corp,Electric power-assisted bicycle
+    US5764009A                      *,1994-08-25,1998-06-09,Yamaha Hatsudoki Kabushiki Kaisha,Motor control device in electric motor-operated vehicle
+    US5799562A                      *,1996-03-13,1998-09-01,Weinberg; Morgan W.,Regenerative braking method and apparatus therefor
+    US6320336B1                      *,1998-10-12,2001-11-20,Sony Corporation,Bicycle with power assisting function
+    JP2002255080A,2001-02-28,2002-09-11,Honda Motor Co Ltd,Control device for power-assisted bicycle
+    JP3515156B2,1994-01-31,2004-04-05,三洋電機株式会社,Electric bicycle
+    US6874592B2                      *,2002-10-30,2005-04-05,Sanyo Electric Co., Ltd.,Electrically assisted bicycle
+    JP2006015887A,2004-07-02,2006-01-19,Sanyo Electric Co Ltd,Motor-assisted bicycle
+    US7040440B2                      *,2003-03-11,2006-05-09,Ntn Corporation,Electric assisted bicycle
+    JP3882993B2,2001-11-02,2007-02-21,本田技研工業株式会社,Regenerative control device for electric vehicle
+    US20070126284A1                      *,2005-12-07,2007-06-07,Swain David M,Hydraulic regenerative braking for a vehicle
+    JP4124411B2,2001-09-28,2008-07-23,本田技研工業株式会社,Electric assist bicycle regenerative control device
+    JP2010035376A,2008-07-31,2010-02-12,Panasonic Corp,Motor bicycle
+    Family To Family Citations,,,,
+    CN2467353Y                      *,2001-02-20,2001-12-26,陈树锦,Power energy-saving and electric power management apparatus for motor vehicle
+    JP2003284202A                      *,2002-03-25,2003-10-03,Toyota Motor Corp,Brake torque controller apparatus
+    DE202006013617U1                      *,2006-09-05,2006-11-16,Moser, Dieter,Generator/motor combination e.g. drive unit for e.g. electric powered bicycle, has generator with stator winding that produces electrical energy for hub motor, where output of motor is constant over extended speed range
+    TWI308537B                      *,2007-03-22,2009-04-11,Tsint,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (21)
+              
+
+
+citedBy_infor
+23
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    DE102012202432B4                      *,2012-02-17,2017-07-27,Lisa Dräxlmaier GmbH,Electric drive, vehicle with an electric drive and method for operating an electric drive
+    US8622181B2                      *,2012-03-01,2014-01-07,Tektro Technology Corporation,Brake operating device of electric bicycle with sensor
+    DE102012220011B4,2012-11-02,2022-11-17,Brake Force One Gmbh,Operating device and method for operating an electric bicycle
+    KR101339282B1,2013-02-22,2014-01-07,주식회사 허즈앤티,Surface roughness measurement system and method that filtering of the bicycle is driving situations
+    JP6454063B2                      *,2013-03-25,2019-01-16,ヤマハ発動機株式会社,Electric bicycle
+    JP6068286B2                      *,2013-07-30,2017-01-25,株式会社シマノ,Bicycle control device
+    DE102014207760A1                      *,2014-04-24,2015-10-29,Continental Teves Ag & Co. Ohg,Brake request recording on a bicycle with a donor box
+    US9246417B1                      *,2014-08-26,2016-01-26,Ford Global Technologies, Llc.,System and method for regenerative braking
+    US9771124B2                      *,2015-02-25,2017-09-26,Ford Global Technologies, Llc,Wheel rim-mounted regeneration coil-magnet system
+    CN105034819A                      *,2015-07-23,2015-11-11,陈伟群,Bicycle capable of generating electricity through braking adjustment
+    CN106476773A                      *,2015-08-31,2017-03-08,罗伯特·博世有限公司,A kind of electronic-controlled installation
+    JP6825901B2,2016-12-22,2021-02-03,株式会社シマノ,Bicycle display device
+    JP6941541B2                      *,2017-11-16,2021-09-29,株式会社シマノ,Control device for human-powered vehicles
+    JP6975654B2                      *,2018-01-30,2021-12-01,株式会社シマノ,Operating device and braking system
+    JP6768020B2                      *,2018-03-06,2020-10-14,太陽誘電株式会社,Motor drive control device and electrically power assisted vehicle
+    JP7186069B2                      *,2018-11-19,2022-12-08,株式会社シマノ,brake system
+    JP7277120B2,2018-12-03,2023-05-18,株式会社シマノ,Control device for man-powered vehicles
+    CN109910626B                      *,2019-03-29,2020-12-18,深圳猛犸电动科技有限公司,Braking energy recovery method and system of electric vehicle and terminal equipment
+    DE102020111419A1,2020-04-27,2021-10-28,Schaeffler Technologies AG & Co. KG,Electric vehicle with a braking device and method for braking the electric vehicle
+    ES2926101A1                      *,2021-04-12,2022-10-21,Ribas Jaime Navas,System to transfer the kinetic energy of the wheel axis to the central motor (Machine-translation by Google Translate, not legally binding)
+    DE102021211586A1,2021-10-14,2023-04-20,Robert Bosch Gesellschaft mit beschränkter Haftung,electric bike
+
+abstract
+    A bicycle regenerative brake control device is provided for controlling a motor, in relation to a brake mechanism that can be mounted on an electric bicycle in which human-powered driving is assisted by the motor. The bicycle regenerative brake control device basically includes a first control part, a second control part and a switch control part. The first control part controls the motor so as to generate a uniform first regenerative braking force. The second control part controls the motor so as to generate a gradually increasing second regenerative braking force upon determining the brake mechanism shifts from an initial state to a braking state. The switch control part switches to a control performed by the second control part in response to the brake mechanism shifting from the initial state to the braking state while control is being performed by the first control part.
+title
+    Bicycle regenerative brake control device
+similar_document
+19
+    Publication,Publication Date,Title
+    US8749181B2,2014-06-10,Bicycle regenerative brake control device
+    US8620551B2,2013-12-31,Bicycle regenerative brake control device
+    US8958935B2,2015-02-17,Bicycle drive apparatus
+    US10035560B2,2018-07-31,Bicycle control device, motor assist bicycle including bicycle control device, and method of controlling motor of motor assist bicycle
+    US11091226B2,2021-08-17,Bicycle controller and bicycle control system including bicycle controller
+    US8777804B2,2014-07-15,Bicycle control apparatus
+    US9573654B2,2017-02-21,Bicycle controller
+    JP6636732B2,2020-01-29,Bicycle control system
+    US20120316710A1,2012-12-13,Bicycle electrical component control system
+    EP2377713A1,2011-10-19,Electrically assisted bicycle
+    JP7343266B2,2023-09-12,Control device for human-powered vehicles
+    JP2010013027A,2010-01-21,Vehicle with assist force
+    US20210276660A1,2021-09-09,Control device for human-powered vehicle
+    JP7317583B2,2023-07-31,Control device for man-powered vehicles
+    WO2014050474A1,2014-04-03,Power-assisted bicycle
+    TW202340030A,2023-10-16,Control system for human-driven vehicles
+    JP2022013862A,2022-01-18,Control device and transmission system
+    JP2021062834A,2021-04-22,Control device for man-powered drive vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    18
+classfication_items
+105
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2011-06-08,Application filed by Shimano Inc
+    2011-06-08,Assigned to SHIMANO INC.
+    2011-12-15,Publication of US20110304288A1
+    2014-06-10,Application granted
+    2014-06-10,Publication of US8749181B2
+    Status,Active
+    2032-09-08,Adjusted expiration
+
+active_area
+5
+    J,P
+    T,W
+    E,P
+    U,S
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2010-134554,2010-06-11,
+    JP2010134554A,2010-06-11,Bicycle regenerative braking control device
+
+legal_event
+6
+    Date,Code,Title,Description
+    2011-06-08,AS,Assignment,Owner name: SHIMANO INC., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:SAIDA, TAKAO;REEL/FRAME:026408/0355Effective date: 20110607
+    2014-05-21,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2014-12-02,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2017-11-23,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551)Year of fee payment: 4
+    2021-11-24,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+

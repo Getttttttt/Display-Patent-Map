@@ -1,0 +1,230 @@
+ID
+    US8242737B2
+citation_exist
+    Patent Citations (15)
+citation_infor
+17
+    Publication number,Priority date,Publication date,Assignee,Title
+    US7479761B2                      *,2003-10-29,2009-01-20,Toyota Jidosha Kabushiki Kaisha,Secondary battery control apparatus and control method for predicting charging in regenerative braking
+    US7520353B2                      *,1998-09-14,2009-04-21,Paice Llc,Hybrid vehicle configuration
+    Family To Family Citations,,,,
+    JPH06319205A                      *,1993-04-30,1994-11-15,Aqueous Res:Kk,Hybrid vehicle
+    JP3178503B2                      *,1994-07-01,2001-06-18,株式会社デンソー,Hybrid vehicle control device
+    JPH11343890A,1998-06-03,1999-12-14,Honda Motor Co Ltd,Canister purge controller in hybrid vehicle
+    JP2004229408A                      *,2003-01-23,2004-08-12,Hitachi Unisia Automotive Ltd,Controller for hybrid vehicle
+    JP3841052B2                      *,2003-02-17,2006-11-01,日産自動車株式会社,Control device for hybrid vehicle
+    KR100634605B1                      *,2004-10-05,2006-10-16,현대자동차주식회사,Regenerative braking control method of 42v belt driven vehicle
+    JP2007001325A                      *,2005-06-21,2007-01-11,Hitachi Ltd,Electrically driving unit for vehicle
+    JP4412303B2                      *,2006-04-20,2010-02-10,トヨタ自動車株式会社,Vehicle warming device
+    JP4793237B2                      *,2006-11-28,2011-10-12,トヨタ自動車株式会社,Secondary battery charge / discharge control device and vehicle equipped with the same
+    JP2008195315A,2007-02-15,2008-08-28,Toyota Motor Corp,Charging control device of plug-in hybrid vehicle
+    JP5223232B2                      *,2007-04-26,2013-06-26,株式会社エクォス・リサーチ,Electric vehicle charge control system and electric vehicle charge control method
+    JP4640391B2                      *,2007-08-10,2011-03-02,トヨタ自動車株式会社,Power supply system and vehicle equipped with the same
+    JP2009148121A                      *,2007-12-17,2009-07-02,Denso Corp,Charging system for plug-in vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (21)
+              
+
+
+citedBy_infor
+23
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20130200845A1                      *,2012-02-03,2013-08-08,Suzuki Motor Corporation,Charging/discharging control apparatus
+    US10392018B1                      *,2018-09-27,2019-08-27,Ford Global Technologies, Llc,Vehicle and regenerative braking control system for a vehicle
+    Family To Family Citations,,,,
+    US8393551B2                      *,2008-07-18,2013-03-12,GM Global Technology Operations LLC,Coolant systems for electric and hybrid-electric vehicles
+    GB2486178A,2010-12-02,2012-06-13,Jaguar Cars,HEV control which dissipates excessive energy when regenerative braking occurs
+    JP5840425B2                      *,2011-08-31,2016-01-06,株式会社東芝,Electric railway vehicle charging system
+    DE102011118796A1,2011-11-17,2013-05-23,Daimler Ag,Device for controlling temperature of lithium ion battery in e.g. electric car, has temperature control unit electrically connected with generator during recuperation operation of generator based on temperature threshold value of battery
+    US9376031B2                      *,2011-12-22,2016-06-28,GM Global Technology Operations LLC,Rechargeable energy storage system (RESS) thermal conditioning based on RESS state of charge threshold
+    GB2504353B                      *,2012-07-27,2015-08-12,Gm Global Tech Operations Inc,Method of operating an automotive system
+    JP5506888B2                      *,2012-10-26,2014-05-28,三菱電機株式会社,Charge / discharge control device
+    ITCO20130027A1                      *,2013-06-26,2014-12-27,Oltre S R L,HYBRID PORT VEHICLE FOR GOODS TRANSPORT
+    CN103754118A                      *,2013-12-16,2014-04-30,刘铁奇,Power generation brake
+    US9823009B2                      *,2014-03-14,2017-11-21,Ford Global Technologies, Llc,Method and system for de-icing a heat exchanger
+    JP2015178310A                      *,2014-03-19,2015-10-08,トヨタ自動車株式会社,Control device for plug-in hybrid vehicle
+    JP6160645B2                      *,2015-03-27,2017-07-12,トヨタ自動車株式会社,Hybrid car
+    US9994120B2                      *,2015-09-29,2018-06-12,Ford Global Technologies, Llc,Electrified vehicle method and system for charging during a non-drive cycle
+    CN109311410B                      *,2016-05-31,2022-06-17,沃尔沃卡车集团,Method and system for thermal conditioning of battery packs
+    DE102016210066A1                      *,2016-06-08,2017-12-14,Audi Ag,Method for operating a motor vehicle and motor vehicle
+    CN107845838B                      *,2017-09-20,2020-08-21,捷开通讯(深圳)有限公司,Electronic equipment, battery charging and discharging method thereof and device with storage function
+    CN108437815B                      *,2018-02-09,2021-08-06,中国第一汽车股份有限公司,Control method for rapid warming of power battery
+    JP7111635B2                      *,2019-01-28,2022-08-02,本田技研工業株式会社,Heat distribution device for hybrid vehicle
+    CN114670712A                      *,2022-03-24,2022-06-28,东风汽车集团股份有限公司,Temperature control method, vehicle, and storage medium
+
+abstract
+    In a motor-driven vehicle using power stored in a secondary battery as a source of motive power in which part of vehicle braking is achieved by regenerative braking by generating electrical energy absorbed by charging the secondary battery, the state of charge of the secondary battery is adjusted during charging so that, when charging is completed, the state of charge of the battery will be such that it is still capable of receiving energy generated during regenerative braking. During charging, after the battery has been charged to a target charge level, and battery temperature has subsequently changed, a state where the battery is still capable of receiving energy generated during regenerative braking can be achieved by slightly discharging the battery depending on the temperature of the battery. Such slight discharge of the battery can be obtained by powering an electric heater (22) in an engine cooling water circuit or operating a generator (7) as a motor for motoring the vehicle engine (8).
+title
+    Motor-driven vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US8242737B2,2012-08-14,Motor-driven vehicle
+    JP6681002B2,2020-04-15,Power control device for hybrid vehicle
+    US9327609B2,2016-05-03,Controller for hybrid vehicle
+    JP5487861B2,2014-05-14,Battery warm-up control device
+    US20140210262A1,2014-07-31,Vehicle Drive Device
+    US9162671B2,2015-10-20,Hybrid vehicle control unit
+    US20090315518A1,2009-12-24,Power supply device and vehicle
+    US20110288708A1,2011-11-24,Battery unit heating apparatus
+    JP4508281B2,2010-07-21,Battery control apparatus and storage battery charge / discharge control method
+    US9403439B2,2016-08-02,Power generation control device
+    WO2008023245A2,2008-02-28,Battery control system and battery control method
+    JP6694156B2,2020-05-13,Control device for hybrid vehicle
+    JP5042816B2,2012-10-03,Internal combustion engine control device
+    KR101927180B1,2018-12-10,Method and apparatus for charging auxiliary battery of vehicle including driving motor
+    CN110945734A,2020-03-31,Power supply system and control method thereof
+    JP2014129054A,2014-07-10,Vehicle temperature elevating device
+    JPH05153703A,1993-06-18,Power distributor for series hybrid vehicle
+    CN114274944A,2022-04-05,Dual-motor vehicle control method and device
+    US20180022229A1,2018-01-25,System and method for heating electrified vehicle battery packs
+    JP2008104300A,2008-05-01,Dew condensation prevention device for detector detecting state of electricity storage system
+    JP2007182175A,2007-07-19,Cooling device
+    JP2007151346A,2007-06-14,Moving body
+    KR20200125811A,2020-11-05,A method and system for controlling charging of the energy from a solar roof
+    JP2013021812A,2013-01-31,Vehicle
+    JP2012101656A,2012-05-31,Hybrid vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    15
+classfication_items
+91
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,4
+    B,6,0,W,1,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+
+application_events
+7
+    2010-07-30,Application filed by Suzuki Motor Corp
+    2010-09-14,Assigned to SUZUKI MOTOR CORPORATION
+    2011-02-10,Publication of US20110031937A1
+    2012-08-14,Application granted
+    2012-08-14,Publication of US8242737B2
+    Status,Active
+    2031-04-26,Adjusted expiration
+
+active_area
+3
+    J,P
+    C,N
+    U,S
+
+not_active_area
+1
+    D,E
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2009-181452,2009-08-04,
+    JP2009181452A,2009-08-04,Electric vehicle
+
+legal_event
+6
+    Date,Code,Title,Description
+    2010-09-14,AS,Assignment,Owner name: SUZUKI MOTOR CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:BITO, SEIJI;REEL/FRAME:024985/0039Effective date: 20100821
+    2012-07-25,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2015-12-05,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2016-01-27,FPAY,Fee payment,Year of fee payment: 4
+    2020-01-30,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+

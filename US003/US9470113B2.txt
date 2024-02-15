@@ -1,0 +1,153 @@
+ID
+    US9470113B2
+citation_exist
+    Patent Citations (13)
+citation_infor
+15
+    Publication number,Priority date,Publication date,Assignee,Title
+    US4031404A                      *,1974-08-08,1977-06-21,Westinghouse Electric Corporation,Combined cycle electric power plant and a heat recovery steam generator having improved temperature control of the steam generated
+    US4222229A                      *,1978-10-18,1980-09-16,Westinghouse Electric Corp.,Multiple turbine electric power plant having a coordinated control system with improved flexibility
+    US4578944A                      *,1984-10-25,1986-04-01,Westinghouse Electric Corp.,Heat recovery steam generator outlet temperature control system for a combined cycle power plant
+    US4976100A                      *,1989-06-01,1990-12-11,Westinghouse Electric Corp.,System and method for heat recovery in a combined cycle power plant
+    US5237816A                      *,1983-05-23,1993-08-24,Solar Turbines Incorporated,Steam generator control systems
+    US6748733B2                      *,1998-09-15,2004-06-15,Robert F. Tamaro,System for waste heat augmentation in combined cycle plant through combustor gas diversion
+    US20110016876A1                      *,2009-07-21,2011-01-27,Alstom Technology Ltd,Method for the control of gas turbine engines
+    US20110023487A1                      *,2008-02-26,2011-02-03,Alstom Technology Ltd,Method for controlling a steam generator and control circuit for a steam generator
+    US8571689B2                      *,2006-10-31,2013-10-29,Rockwell Automation Technologies, Inc.,Model predictive control of fermentation in biofuel production
+    US20140260284A1                      *,2013-03-12,2014-09-18,General Electric Company,System and Method for Loading a Combined Cycle Power Plant
+    US8984892B2                      *,2009-03-31,2015-03-24,General Electric Company,Combined cycle power plant including a heat recovery steam generator
+    US9046882B2                      *,2010-06-30,2015-06-02,Rockwell Automation Technologies, Inc.,Nonlinear model predictive control of a batch reaction system
+    US9255492B2                      *,2011-12-14,2016-02-09,Rolls-Royce Plc,Gas turbine engine having a multi-variable closed loop controller for regulating tip clearance
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (4)
+              
+
+
+citedBy_exist
+    
+              Cited By (6)
+              
+
+
+citedBy_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20150369136A1                      *,2013-03-15,2015-12-24,United Technologies Corporation,Compact Aero-Thermo Model Real Time Linearization Based State Estimator
+    Family To Family Citations,,,,
+    DE102014205629B4                      *,2014-03-26,2023-08-03,Siemens Energy Global GmbH & Co. KG,Multivariable state control for a steam generator of a steam power plant
+    US10323547B2                      *,2016-02-23,2019-06-18,General Electric Company,Steam drum level control system, computer program product and related methods
+    US10954824B2,2016-12-19,2021-03-23,General Electric Company,Systems and methods for controlling drum levels using flow
+    US11181041B2                      *,2017-02-02,2021-11-23,General Electric Company,Heat recovery steam generator with electrical heater system and method
+    US11208920B2,2019-06-06,2021-12-28,General Electric Company,Control of power generation system with water level calibration for pressure vessel
+
+abstract
+    A method of controlling a heat recovery steam generator (HRSG) includes measuring a first regulated output of the HRSG and a second regulated output of the HRSG. The method includes comparing the first regulated output to a first setpoint defining a first target output to generate a first error signal and comparing the second regulated output to a second setpoint defining a second target output to generate a second error signal. The method also includes generating, by a controller implementing a multivariable control algorithm having as inputs the first error signal and the second error signal, control signals to control the HRSG to adjust values of the first regulated output and the second regulated output.
+title
+    Multivariable controls of heat recovery steam generation system
+similar_document
+23
+    Publication,Publication Date,Title
+    US9470113B2,2016-10-18,Multivariable controls of heat recovery steam generation system
+    US7931041B2,2011-04-26,System and method for controlling liquid level in a vessel
+    JP5916043B2,2016-05-11,Method and apparatus for controlling a moisture separator reheater
+    EP2902705B1,2022-03-30,Controlling boiler drum level
+    US20130133751A1,2013-05-30,Method and device for regulating the production of steam in a steam plant
+    CN103676651A,2014-03-26,Method for predicting and controlling steam temperatures of boilers on basis of state observation model
+    CN106933202B,2021-06-29,Feedforward control with intermittent re-initialization based on estimated state information
+    AU2017202965B2,2021-08-12,Intelligent management system for balance of plant
+    EP3263985B1,2021-10-20,System and method for drum level control with transient compensation
+    US9841185B2,2017-12-12,Steam temperature control using model-based temperature balancing
+    US10151213B2,2018-12-11,State observer for a steam generator of a thermal power plant
+    PL212103B1,2012-08-31,Method of effecting control in an input- and error-actuated control system and control device for actuating and stopping a processing component of an engineering process
+    US10240775B2,2019-03-26,Multi-objective steam temperature control
+    CN111664442B,2021-12-10,Desuperheating water control method, system and equipment based on heat value calculation and readable storage medium
+    US9568897B2,2017-02-14,Controller system for variable parameter and related program product
+    CN104712378A,2015-06-17,Main steam pressure closed loop energy-saving control method and system for thermal power generating unit
+    JP6475926B2,2019-02-27,Control gain optimization system for plant controller
+    Kocher et al.,2015,PID Based Temperature Control of a Plant Heat Exchanger System
+    Fadlullah et al.,2022,Design Hotwell Condensor Level Control System Using Feedback-Feedforward Control Strategy with Tunning Direct Synthesis
+    Chew et al.,2017,Three-element control system manipulation in steam generation for palm oil industry
+    KR20230097130A,2023-06-30,How to control the supply of feed water to the boiler
+    SWE,2014,MODEL FREE ADAPTIVE CONTROL IN INDUSTRIAL PROCESS APPLICATION TO MAIN STEAM TEMPERATURE SYSTEM OF THERMAL POWER PLANT
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US13/889,835,2013-05-08,2013-05-08,Multivariable controls of heat recovery steam generation system
+
+inventor_number
+    5
+classfication_nums
+    5
+classfication_items
+34
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,2,3,/,0,0
+    F,0,1,K,2,3,/,0,2
+    F,0,1,K,2,3,/,0,6
+    F,0,1,K,2,3,/,1,0
+    F
+    F,0,1
+    F,0,1,K
+    F,0,1,K,2,3,/,0,0
+    F,0,1,K,2,3,/,0,2
+    F,0,1,K,2,3,/,0,6
+    F,0,1,K,2,3,/,1,0
+    F,0,1,K,2,3,/,1,0,6
+    F,0,1,K,2,3,/,1,0,8
+    F
+    F,0,2
+    F,0,2,C
+    F,0,2,C,6,/,0,0
+    F,0,2,C,6,/,1,8
+    F
+    F,2,2
+    F,2,2,B
+    F,2,2,B,1,/,0,0
+    F,2,2,B,1,/,0,2
+    F,2,2,B,1,/,1,8
+    F,2,2,B,1,/,1,8,0,7
+    F,2,2,B,1,/,1,8,1,5
+    F
+    F,2,2
+    F,2,2,B
+    F,2,2,B,3,5,/,0,0
+    F,2,2,B,3,5,/,0,0,7
+
+application_events
+8
+    2013-05-08,Application filed by General Electric Co
+    2013-05-08,Priority to US13/889,835
+    2013-05-08,Assigned to GENERAL ELECTRIC COMPANY
+    2014-11-13,Publication of US20140331683A1
+    2016-10-18,Application granted
+    2016-10-18,Publication of US9470113B2
+    Status,Active
+    2035-06-26,Adjusted expiration
+
+active_area
+1
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US13/889,835,2013-05-08,Multivariable controls of heat recovery steam generation system
+
+legal_event
+4
+    Date,Code,Title,Description
+    2013-05-08,AS,Assignment,Owner name: GENERAL ELECTRIC COMPANY, NEW YORKFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:MAZZARO, MARIA CECILIA;ABROL, SIDHARTH;ESTRADA, KELVIN RAFAEL;AND OTHERS;SIGNING DATES FROM 20130412 TO 20130424;REEL/FRAME:030376/0625
+    2016-09-28,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2020-03-17,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

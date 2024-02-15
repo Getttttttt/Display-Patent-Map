@@ -1,0 +1,176 @@
+ID
+    US20110277554A1
+citation_exist
+    Patent Citations (20)
+citation_infor
+22
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5779442A                      *,1995-03-31,1998-07-14,General Electric Company,Removable inner turbine shell with bucket tip clearance control
+    US5832421A                      *,1996-12-13,1998-11-03,Siemens Corporate Research, Inc.,Method for blade temperature estimation in a steam turbine
+    US6775645B2                      *,2001-11-14,2004-08-10,Electric Power Research Institute, Inc.,Application of symbol sequence analysis and temporal irreversibility to monitoring and controlling boiler flames
+    US20040204900A1                      *,2003-03-27,2004-10-14,Namburi Adi Narayana,Method of on-line monitoring of radial clearances in steam turbines
+    US7043409B1                      *,1998-12-03,2006-05-09,Siemens Aktiengesellschaft,Method and device for designing a technical system
+    US7231323B2                      *,2001-12-21,2007-06-12,International Paper Company,Environmental monitoring and reporting system for EPA cluster rule 010094
+    US7260512B2                      *,2002-10-21,2007-08-21,Framatome Anp,Method for determining threshold value of a nuclear reactor operating parameter, corresponding system, computer programme and support
+    US7353140B2                      *,2001-11-14,2008-04-01,Electric Power Research Institute, Inc.,Methods for monitoring and controlling boiler flames
+    US20090043406A1                      *,2005-01-28,2009-02-12,Abb Research Ltd.,System and Method for Planning the Operation of, Monitoring Processes in, Simulating, and Optimizing a Combined Power Generation and Water Desalination Plant
+    US20110030866A1                      *,2009-06-24,2011-02-10,Fadel Georges M,Honeycomb structures for high shear flexure
+    US20110066258A1                      *,2009-09-11,2011-03-17,Siemens Corporation,System and Method for Energy Plant Optimization Using Mixed Integer-Linear Programming
+    US8065022B2                      *,2005-09-06,2011-11-22,General Electric Company,Methods and systems for neural network modeling of turbine components
+    Family To Family Citations,,,,
+    JPH03255892A,1990-03-07,1991-11-14,Hitachi Ltd,Heat transfer pipe supporting structure
+    JP3039332B2                      *,1995-08-09,2000-05-08,鹿島建設株式会社,Testing method of variable damping device for damping structure
+    JP2772275B2,1996-01-10,1998-07-02,三菱重工業株式会社,Working device in steam generator
+    JP4457663B2,2003-12-25,2010-04-28,日産自動車株式会社,Stiffness analysis method and program thereof
+    JP2006258588A                      *,2005-03-16,2006-09-28,Olympus Corp,Aquiring method of physical properties of impact analyzing material
+    JP4339808B2                      *,2005-03-31,2009-10-07,横浜ゴム株式会社,Structure design method
+    JP4788564B2,2006-10-19,2011-10-05,株式会社豊田中央研究所,Structure stiffness analysis system and program
+    JP5072388B2,2007-02-27,2012-11-14,三菱重工業株式会社,Steam generator tube support plate
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (8)
+              
+
+
+citedBy_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    EP3550457A4                      *,2017-01-20,2020-01-15,Mitsubishi Heavy Industries, Ltd.,Method for analyzing heat exchanger
+    CN113158516A                      *,2021-03-31,2021-07-23,中国飞机强度研究所,Method and device for constructing finite element model of clamp of cylindrical structural strength test piece
+    CN114735237A                      *,2022-06-14,2022-07-12,中国飞机强度研究所,Structure and method for applying out-of-plane static force in impact test surface of airplane structural component
+    Family To Family Citations,,,,
+    EP2827878A1                      *,2012-03-21,2015-01-28,Erytech Pharma,Medicament for the treatment of acute myeloid leukemia (aml)
+    JP6317602B2                      *,2014-03-11,2018-04-25,アサヒビール株式会社,Buckling load estimation method and program
+    JP6497588B2                      *,2015-08-31,2019-04-10,三菱重工業株式会社,Deformation stress characteristic acquisition method and seismic evaluation method of heat exchanger
+    KR101954824B1                      *,2018-07-31,2019-03-06,목포대학교산학협력단,Apparatus for ultimate strength test of scaffold joint bracket and method thereof
+    CN114582219B                      *,2022-02-23,2023-08-11,山东高速工程建设集团有限公司,Foundation pit adjacent building construction simulation device
+
+abstract
+    A reduction in cost and improvement in evaluation accuracy are achieved. Provided is an in-plane compressive strength evaluation device (10) that is provided with a memory unit (21) into which, when an in-plane compressive strength evaluation is actually performed using a test piece, an evaluation result related to the load and a displacement in the test piece is stored as first information; a first analysis unit (22) that obtains, by producing a structural model of a test piece and performing a simulation of the in-plane compressive strength evaluation, second information that is an evaluation result related to the load and a displacement of the structural model; an adjustment unit (23) that adjusts an elemental factor of the structural model that influences the in-plane compressive strength such that the second information approaches the first information; and a second analysis unit (24) that, in a state where the elemental factor used when the second information approaches the first information most closely is maintained, expands the structural model into the structural form of the actual tube support plate, and that performs the in-plane compressive strength evaluation using the expanded structural model.
+title
+    In-plane compressive strength evaluation device and method therefor
+similar_document
+26
+    Publication,Publication Date,Title
+    US8301402B2,2012-10-30,In-plane compressive strength evaluation device and method therefor
+    Mizokami et al.,2013,Development of structural design procedure of plate-fin heat exchanger for HTGR
+    JP6086752B2,2017-03-01,Seismic evaluation method for steam generator
+    Kim,2013,Structural analysis of CSB and LSS for APR1400 RVI CVAP
+    Lee et al.,2012,Creep-fatigue damage evaluation of sodium to air heat exchanger in sodium test loop facility
+    US10990712B2,2021-04-27,Contact force evaluation method
+    Wang et al.,2021,Simulation of dynamic characteristics of NHR200-II fuel assembly
+    Dolfen et al.,2022,A multi-stage approach of simulating turbulence-induced vibrations in a wire-wrapped tube bundle for fretting wear prediction
+    JP6803244B2,2020-12-23,Heat exchanger analysis method
+    JP2014063262A,2014-04-10,Stress distribution estimation method, and analysis method and analysis system using the same
+    Kim et al.,2009,Hydraulic and Structural Analysis Methodology of RVI CVAP in Shin-Kori 4
+    Kim et al.,2011,Mechanical design issues and resolutions of a dual cooled fuel for the OPR-1000
+    JP6497588B2,2019-04-10,Deformation stress characteristic acquisition method and seismic evaluation method of heat exchanger
+    Broc et al.,2015,Core mechanical dynamics experiment in the Phenix reactor
+    Schettino et al.,2020,Efficacy of beam-type finite elements in the evaluation of lateral stiffness of 16× 16 fuel assemblies by strengthening mechanisms
+    King et al.,2002,Flow induced vibration and fretting wear in PWR fuel
+    Shaw et al.,2020,Assessment of Compact Heat Exchanger Design Following Elastic Perfectly Plastic Methodology
+    Syed et al.,2018,Identification of constitutive parameters for high temperature deformation of pressure tube of Indian PHWR considering multi-axial state of stress
+    Aktaa et al.,2007,Deformation and damage of RAFM steels under thermo-mechanical loading: A challenge for constitutive equations
+    Schettino et al.,2013,Numerical analysis of the spacer grids' compression strength
+    Bonelli et al.,2015,Thermal-hydraulic and structural analysis of a helium-cooled first wall mock-up
+    Naweed et al.,2023,Methodology for determination of critical crack depth in a class-I component
+    Hirota et al.,2022,Seismic Test and Seismic Response Analysis of U-Shaped Tube Bundle With Triangular Arrays in Steam Generator
+    Koide et al.,2014,Modeling of Fuel Assemblies in a Boiling Water Reactor for Seismic Analysis
+    Sizarev et al.,2016,On the rational design of fuel assemblies for reactor facilities
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    7
+classfication_items
+43
+    G
+    G,0,1
+    G,0,1,N
+    G,0,1,N,3,/,0,0
+    G,0,1,N,3,/,0,8
+    F
+    F,2,2
+    F,2,2,B
+    F,2,2,B,1,/,0,0
+    F,2,2,B,1,/,0,2
+    F,2,2,B,1,/,1,6
+    F
+    F,2,2
+    F,2,2,B
+    F,2,2,B,3,7,/,0,0
+    F,2,2,B,3,7,/,0,2
+    F,2,2,B,3,7,/,1,0
+    F,2,2,B,3,7,/,2,0
+    F
+    F,2,2
+    F,2,2,B
+    F,2,2,B,3,7,/,0,0
+    F,2,2,B,3,7,/,0,2
+    F,2,2,B,3,7,/,1,0
+    F,2,2,B,3,7,/,2,0
+    F,2,2,B,3,7,/,2,0,5
+    F,2,2,B,3,7,/,2,0,6
+    G
+    G,2,1
+    G,2,1,D
+    G,2,1,D,1,/,0,0
+    G
+    G,0,1
+    G,0,1,N
+    G,0,1,N,2,2,0,3,/,0,0
+    G,0,1,N,2,2,0,3,/,0,2
+    G,0,1,N,2,2,0,3,/,0,2,0,2
+    G,0,1,N,2,2,0,3,/,0,2,1,2
+    G,0,1,N,2,2,0,3,/,0,2,1,8
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,3,0,/,0,0
+
+application_events
+7
+    2009-12-18,Application filed by Mitsubishi Heavy Industries Ltd
+    2011-08-02,Assigned to MITSUBISHI HEAVY INDUSTRIES, LTD.
+    2011-11-17,Publication of US20110277554A1
+    2012-10-30,Application granted
+    2012-10-30,Publication of US8301402B2
+    Status,Active
+    2029-12-18,Anticipated expiration
+
+active_area
+5
+    J,P
+    K,R
+    E,P
+    W,O
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2009-139463,2009-06-10,
+    JP2009139463A,2009-06-10,In-plane compressive strength evaluation apparatus and method
+    PCT/JP2009/071149,2009-12-18,Inplane compressive strength evaluation device and method
+
+legal_event
+6
+    Date,Code,Title,Description
+    2011-08-02,AS,Assignment,Owner name: MITSUBISHI HEAVY INDUSTRIES, LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:OGAWA, NAOKI;SHIMAMURA, KENGO;REEL/FRAME:026685/0453Effective date: 20110621
+    2012-10-10,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2012-12-05,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2016-04-13,FPAY,Fee payment,Year of fee payment: 4
+    2020-04-16,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+

@@ -1,0 +1,166 @@
+ID
+    JPWO2018189891A1
+citation_exist
+    Patent Citations (6)
+citation_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP2009234566A                      *,2008-03-03,2009-10-15,Nissan Motor Co Ltd,ハイブリッド車両のクラッチ制御装置及びクラッチ制御方法
+    JP5445867B2                      *,2011-01-20,2014-03-19,アイシン・エィ・ダブリュ株式会社,車両用駆動装置の制御装置
+    JP5699836B2                      *,2011-07-12,2015-04-15,株式会社デンソー,ハイブリッド車の制御装置
+    JP5935312B2                      *,2011-12-19,2016-06-15,アイシン精機株式会社,ハイブリッド車両用駆動装置のクラッチ制御装置
+    JP2015116832A                      *,2012-04-06,2015-06-25,日産自動車株式会社,ハイブリッド車両の制御装置
+    WO2014156774A1                      *,2013-03-27,2014-10-02,アイシン・エィ・ダブリュ株式会社,車両駆動装置の制御装置
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP7372773B2,2019-07-18,2023-11-01,ジヤトコ株式会社,パワートレインのトルク制御装置
+    CN112650078B                      *,2020-12-14,2022-12-09,广西玉柴机器股份有限公司,一种纯电及增程式电动汽车整车控制器硬件在环仿真系统
+
+abstract
+    コースト走行中の回生トルクの制限に伴う車両減速度の大幅な低減を防止することができ、ドライバの違和感を防止することができるハイブリッド車両の制御方法を提供すること。アクセル解放操作によるコースト走行時、エンジンクラッチ（CL1）を解放すると共に、モータジェネレータ（MG）にて発生させるコースト回生トルクを目標回生トルクにする。所定の回生制限条件が成立したとき、回生トルク上限値をモータジェネレータ（MG）で発生可能な回生トルク最大値よりも小さい値に制限する。そして、回生トルク上限値の制限開始から、この回生トルク上限値が目標回生トルクに一致するまでの間に、エンジンクラッチ（CL1）に締結指令を出力する構成とした。
+title
+    ハイブリッド車両の制御方法及びハイブリッド車両の制御装置
+similar_document
+23
+    Publication,Publication Date,Title
+    JP5521340B2,2014-06-11,ハイブリッド車両の制御装置
+    RU2657658C1,2018-06-14,Устройство управления демпфированием для гибридного транспортного средства
+    JP6760488B2,2020-09-23,車両の制御方法及び車両の制御装置
+    US9573584B2,2017-02-21,Hybrid vehicle control device
+    JPH11270376A,1999-10-05,ハイブリッド車両の駆動制御装置
+    JP5359386B2,2013-12-04,ハイブリッド車両の制御装置
+    US10160446B2,2018-12-25,Device and method for controlling motor output of a hybrid vehicle
+    JP2017177973A,2017-10-05,駆動制御機構および駆動制御装置
+    JP6683290B2,2020-04-15,ハイブリッド車両の制御方法
+    JP6702505B2,2020-06-03,電動車両の制御装置および電動車両の制御方法
+    JP2018177084A,2018-11-15,ハイブリッド車両の制御方法及びハイブリッド車両の制御装置
+    JP6777225B2,2020-11-04,ハイブリッド車両の制御方法及びハイブリッド車両の制御装置
+    JP5453847B2,2014-03-26,ハイブリッド車両の制御装置
+    JP5218161B2,2013-06-26,ハイブリッド車両の制御装置
+    JP2010179790A,2010-08-19,車両の制御装置
+    JP6409363B2,2018-10-24,ハイブリッド車両の制御装置
+    JP6717063B2,2020-07-01,ハイブリッド車両の制御方法と制御装置
+    WO2016051605A1,2016-04-07,ハイブリッド車両制御装置及びハイブリッド車両制御方法
+    JPWO2016147407A1,2018-01-11,ハイブリッド車両の制御装置
+    JP6741150B2,2020-08-19,電動車両の制御装置および電動車両の制御方法
+    WO2018096604A1,2018-05-31,ハイブリッド車両の制御方法と制御装置
+    JP6747583B2,2020-09-02,電動車両の制御方法及び電動車両の制御装置
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    16
+classfication_nums
+    11
+classfication_items
+60
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,4,0
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,5,9,/,0,0
+    F,1,6,H,5,9,/,1,4
+    F
+    F,1,6
+    F,1,6,H
+    F,1,6,H,6,1,/,0,0
+    F,1,6,H,6,1,/,0,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+6
+    2017-04-14,Application filed by Nissan Motor Co Ltd
+    2020-05-21,Publication of JPWO2018189891A1
+    2020-11-04,Application granted
+    2020-11-04,Publication of JP6777225B2
+    Status,Active
+    2037-04-14,Anticipated expiration
+
+active_area
+2
+    J,P
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2017/015338,2017-04-14,ハイブリッド車両の制御方法及びハイブリッド車両の制御装置
+
+legal_event
+8
+    Date,Code,Title,Description
+    2019-09-10,A529,Written submission of copy of amendment under section 34 (pct),Free format text: JAPANESE INTERMEDIATE CODE: A5211Effective date: 20190910
+    2019-09-10,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20190910
+    2020-06-30,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20200630
+    2020-08-31,TRDD,Decision of grant or rejection written,
+    2020-09-08,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20200908
+    2020-10-12,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20200921
+    2020-10-12,R151,Written notification of patent or utility model registration,Ref document number: 6777225Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R151
+

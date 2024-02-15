@@ -1,0 +1,287 @@
+ID
+    US9413281B2
+citation_exist
+    Patent Citations (19)
+citation_infor
+21
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5167002A                      *,1991-08-14,1992-11-24,Fridhandler Robert M,Electric motor driver control
+    US5514978A                      *,1995-03-20,1996-05-07,General Electric Company,Stator turn fault detector for AC motor
+    US5574387A                      *,1994-06-30,1996-11-12,Siemens Corporate Research, Inc.,Radial basis function neural network autoassociator and method for induction motor monitoring
+    US6006170A                      *,1996-06-28,1999-12-21,Siemens Corporate Research, Inc.,Method and system for ascertaining anomalies in electric motors
+    JP2001197797A                      *,1999-11-10,2001-07-19,Toyoda Mach Works Ltd,Motor controller
+    US6293845B1                      *,1999-09-04,2001-09-25,Mitsubishi Materials Corporation,System and method for end-point detection in a multi-head CMP tool using real-time monitoring of motor current
+    JP2003180094A                      *,2001-12-10,2003-06-27,Meidensha Corp,Method for estimating pole position of pm motor
+    JP2004159391A,2002-11-05,2004-06-03,Nissan Motor Co Ltd,Control device for three-phase ac motor
+    US20080079385A1,2006-09-28,2008-04-03,Sanyo Electric Co., Ltd.,Motor control device
+    US20090251087A1                      *,2007-03-07,2009-10-08,Kabushiki Kaisha Yaskawa Denki,Motor controller
+    JP2010057218A,2008-08-26,2010-03-11,Meidensha Corp,Pulsation suppression device of electric motor
+    US20130214713A1,2012-02-22,2013-08-22,Denso Corporation,Controller for ac motor
+    US20130214709A1,2012-02-22,2013-08-22,Denso Corporation,Ac motor control apparatus
+    US20130214712A1,2012-02-22,2013-08-22,Denso Corporation,Ac motor control apparatus
+    US20130278187A1,2012-04-22,2013-10-24,Denso Corporation,Ac motor control apparatus
+    US20140152205A1                      *,2012-12-03,2014-06-05,Denso Corporation,Control device of ac motor
+    Family To Family Citations,,,,
+    JPS61186871A                      *,1985-02-14,1986-08-20,Sumitomo Metal Ind Ltd,Diagnosing device for electric motor
+    JPH07170799A                      *,1993-12-10,1995-07-04,Hitachi Ltd,Method and apparatus for controlling a.c. motor and correcting method for motor current
+    US5880415A                      *,1997-12-22,1999-03-09,Otis Elevator Company,Automatic calibration of current regulator control compensation for an elevator motor drive with locked rotor
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (16)
+              
+
+
+citedBy_infor
+18
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20150025828A1                      *,2013-07-16,2015-01-22,Ford Global Technologies, Llc,Method of Current Sensor Related Torque Error Estimation for IPMSM Based E-Drive System
+    US11588429B2                      *,2020-10-29,2023-02-21,Insight Automation, Inc.,System and method for motor control through dynamic selective coil measurement
+    Family To Family Citations,,,,
+    JP5741966B2                      *,2012-12-03,2015-07-01,株式会社デンソー,AC motor control device
+    FR3015804B1                      *,2013-12-20,2016-01-29,Valeo Sys Controle Moteur Sas,DRIVE SYSTEM, INVERTER CONTROL METHOD, AND COMPUTER PROGRAM
+    JP6424772B2                      *,2015-08-07,2018-11-21,株式会社デンソー,Control device of AC rotating electric machine
+    FR3045171B1                      *,2015-12-15,2017-12-15,Sagem Defense Securite,METHOD FOR MONITORING AN ELECTROMECHANICAL ACTUATION SYSTEM
+    EP3208138B1                      *,2016-02-17,2022-10-12,ALSTOM Transport Technologies,Method for estimating a torque of an asynchronous electric machine, a torque controller and an electric vehicle
+    US10090788B2                      *,2016-03-03,2018-10-02,Robert Bosch Gmbh,Optimal torque ripple reduction through current shaping
+    CN106788062B                      *,2017-02-24,2023-08-18,上海晶丰明源半导体股份有限公司,Control device, system and method for brushless direct current motor
+    DE102018200995A1                      *,2018-01-23,2019-07-25,Robert Bosch Gmbh,A method of operating a steering system with a compensation device for reducing a torque ripple of a three-phase machine
+    WO2019146437A1                      *,2018-01-25,2019-08-01,株式会社豊田自動織機,Inverter device
+    US11290044B2                      *,2018-02-26,2022-03-29,Hitachi Astemo Ltd.,Motor control device
+    DE102018208580A1                      *,2018-05-30,2019-12-05,Robert Bosch Gmbh,Method for controlling a hydraulic brake system
+    KR102589033B1                      *,2018-07-17,2023-10-17,현대자동차주식회사,Apparatus and method for controlling inverter driving motor
+    JP7143778B2,2019-02-12,2022-09-29,トヨタ自動車株式会社,drive
+    KR102399873B1                      *,2020-05-15,2022-05-19,국민대학교산학협력단,Apparatus and method for measuring current of 3-phase pulse width modulation(PWM) inverter
+
+abstract
+    In an apparatus, a controller performs, as a calculation of d- and q-axis values of a current vector, a first task and a second task. The first task expands one of a measured first phase current and another phase current into Fourier series of the corresponding phase current as a function of an electric rotational angle of an AC motor. The first task extracts a first-order component from the Fourier series to obtain first and second Fourier coefficients of the first-order component. The second task calculates the d-axis value as a first sum of the first and second Fourier coefficients to which temporally-invariant constants of a first pair have been multiplied, and the q-axis value as a second sum of the first and second Fourier coefficients to which temporally-invariant constants of a second pair have been multiplied.
+title
+    Apparatus for controlling AC motor
+similar_document
+26
+    Publication,Publication Date,Title
+    US9413281B2,2016-08-09,Apparatus for controlling AC motor
+    US9903931B2,2018-02-27,Diagnostic device for voltage sensors
+    US8502493B2,2013-08-06,Control device and control method for alternating-current motor
+    US9154064B2,2015-10-06,Control device for AC motor
+    JP5633639B2,2014-12-03,Electric motor control device, electric vehicle including the same, and electric motor control method
+    JP5741966B2,2015-07-01,AC motor control device
+    US9331627B2,2016-05-03,Control apparatus for AC motor
+    US9093936B2,2015-07-28,Control apparatus for AC motor
+    US10778130B2,2020-09-15,Control apparatus for alternating-current rotary electric machine
+    US9172322B2,2015-10-27,Control apparatus for AC motor
+    US9077278B2,2015-07-07,AC motor control apparatus
+    US10804831B2,2020-10-13,Control apparatus for alternating-current rotary electric machine
+    US9318982B2,2016-04-19,Control apparatus for AC motor
+    US9007009B2,2015-04-14,Control apparatus for AC motor
+    US20140225540A1,2014-08-14,Control apparatus for ac motor
+    US9705445B2,2017-07-11,Apparatus for controlling alternating-current rotary electric machines
+    US9419554B2,2016-08-16,Control device of AC motor
+    JP6119585B2,2017-04-26,Electric motor drive
+    JP6838469B2,2021-03-03,Drive device
+    JP2016123168A,2016-07-07,Drive unit
+    JP6128017B2,2017-05-17,AC motor control device
+    JP6305603B1,2018-04-04,Control device for rotating electrical machine
+    JP6136998B2,2017-05-31,AC motor control device
+    US9431935B2,2016-08-30,Control device of AC motor
+    JP2013034347A,2013-02-14,Rotary electric machine control system
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    27
+classfication_items
+149
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,1,/,0,0
+    H,0,2,P,2,1,/,0,6
+    B,6,0,L,1,1,/,0,0,5
+    B,6,0,L,1,1,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,2
+    B,6,0,L,1,5,/,0,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,1,/,0,0
+    H,0,2,P,2,1,/,1,4
+    H,0,2,P,2,1,/,2,0
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,1,/,0,0
+    H,0,2,P,2,1,/,2,2
+    H,0,2,P,2,9,/,0,0,3,8
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,9,/,0,0
+    H,0,2,P,2,9,/,5,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,9
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2015-02-12,Application filed by Denso Corp
+    2015-03-06,Assigned to DENSO CORPORATION
+    2015-08-13,Publication of US20150229247A1
+    2016-08-09,Application granted
+    2016-08-09,Publication of US9413281B2
+    Status,Expired - Fee Related
+    2035-04-03,Adjusted expiration
+
+active_area
+1
+    J,P
+
+not_active_area
+1
+    U,S
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2014024504A,2014-02-12,AC motor control device
+    JP2014-024504,2014-02-12,
+
+legal_event
+8
+    Date,Code,Title,Description
+    2015-03-06,AS,Assignment,Owner name: DENSO CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:NAKAI, YASUHIRO;OOWADA, TAKAHUMI;REEL/FRAME:035098/0772Effective date: 20150224
+    2015-11-02,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2016-07-20,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2020-03-30,FEPP,Fee payment procedure,Free format text: MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2020-09-14,LAPS,Lapse for failure to pay maintenance fees,Free format text: PATENT EXPIRED FOR FAILURE TO PAY MAINTENANCE FEES (ORIGINAL EVENT CODE: EXP.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2020-09-14,STCH,Information on status: patent discontinuation,Free format text: PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362
+    2020-10-06,FP,Lapsed due to failure to pay maintenance fee,Effective date: 20200809
+

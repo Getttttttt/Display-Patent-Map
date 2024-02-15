@@ -1,0 +1,260 @@
+ID
+    US20160243943A1
+citation_exist
+    Patent Citations (10)
+citation_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JPH04150702A                      *,1990-10-12,1992-05-25,Hitachi Ltd,Controller for electric motor vehicle
+    JP3063368B2                      *,1992-03-27,2000-07-12,トヨタ自動車株式会社,Electric vehicle braking control device
+    JPH09328063A,1996-06-12,1997-12-22,Nec Home Electron Ltd,Anti-lock brake controller for vehicle
+    JP3515665B2                      *,1996-06-19,2004-04-05,株式会社ホンダエレシス,Anti-lock brake control device for vehicle
+    JP3972535B2,1999-09-28,2007-09-05,日産自動車株式会社,Automotive braking force control device
+    JP3614089B2                      *,2000-08-03,2005-01-26,マツダ株式会社,Hybrid vehicle travel control device
+    JP4188348B2                      *,2005-08-10,2008-11-26,株式会社日立製作所,ELECTRIC VEHICLE TRAVEL CONTROL DEVICE AND ELECTRIC TRAVEL CONTROL SYSTEM
+    CN200981546Y                      *,2006-11-08,2007-11-28,西安正昌电子有限责任公司,Braking force controlling system for hybrid power vehicle
+    JP5560480B2                      *,2009-09-09,2014-07-30,ダイムラー・アクチェンゲゼルシャフト,Electric vehicle wheel slip control device
+    CN102133891B                      *,2011-03-07,2013-05-22,清华大学,H-shaped pipeline layout energy-feedback type hydraulic anti-lock brake system for electric vehicles
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (17)
+              
+
+
+citedBy_infor
+19
+    Publication number,Priority date,Publication date,Assignee,Title
+    US10525947B2,2015-07-27,2020-01-07,Ntn Corporation,Friction brake system
+    US10661657B2,2015-11-02,2020-05-26,Ntn Corporation,Slip control device
+    US10889188B2,2016-02-12,2021-01-12,Ntn Corporation,Drive control device for vehicle with independently driven wheels
+    US20210155240A1                      *,2019-11-25,2021-05-27,Toyota Jidosha Kabushiki Kaisha,Electric vehicle
+    US11279333B2                      *,2017-03-03,2022-03-22,Ntn Corporation,Vehicle control device
+    US11607952B1                      *,2022-05-04,2023-03-21,Dimaag-Ai, Inc.,Methods and systems for controlling differential wheel speeds of multi- independent-wheel drive vehicles
+    Family To Family Citations,,,,
+    CN106696755B                      *,2016-12-19,2019-04-26,北京理工大学,A kind of vehicle torque distributor and method
+    CN108725254B                      *,2017-04-18,2021-11-16,湖南中车时代电动汽车股份有限公司,Method and system for controlling anti-skid driving and anti-lock braking of electric automobile
+    CN107487305A                      *,2017-06-28,2017-12-19,北汽福田汽车股份有限公司,ABS control systems and vehicle
+    CN107776559B                      *,2017-10-31,2020-01-14,北京理工大学珠海学院,Method for processing wheel speed signal of anti-lock braking system of automobile based on trend compensation
+    WO2019127506A1                      *,2017-12-29,2019-07-04,深圳配天智能技术研究院有限公司,Tire monitoring method, slip ratio calculation device, system, vehicle, storage device
+    CN109664774B                      *,2018-03-28,2020-08-28,北京理工大学,Drive anti-skid control method and system for distributed drive electric automobile
+    CN108583366A                      *,2018-03-31,2018-09-28,天津职业技术师范大学,A kind of control method of electric vehicle low jitter
+    CN109515206A                      *,2018-09-29,2019-03-26,厦门金龙汽车新能源科技有限公司,Anti-slip regulation control method, medium, entire car controller and the control device of electric vehicle
+    CN110789504B                      *,2019-10-18,2021-06-22,江苏大学,Nonlinear composite ABS control method based on electromagnetic braking hysteresis compensation
+    US11225232B2                      *,2019-12-30,2022-01-18,Chongqing Jinkang Powertrain New Energy Co., Ltd.,Fuzzy logic based traction control for electric vehicles
+    CN111619366B                      *,2020-05-28,2021-03-09,清华大学,Control system and control method based on motor rotation and wheel speed sensor
+
+abstract
+    The antilock brake control device is used in a vehicle including: a motor to drive a wheel; a wheel bearing to transmit a rotation of the motor to the wheel and to rotationally support the wheel; and a friction brake to urge a press member against a brake rotor provided in each wheel, to generate a frictional force to brake the wheel. The antilock brake control device includes slip ratio monitor to monitor a slip ratio of the wheel; and driving torque addition section to add a torque in a driving direction to a torque command value for the motor when the slip ratio monitored by the slip ratio monitor exceeds a target slip ratio. When the torque in the driving direction is added to the torque command value for the motor, the friction brake is not operated.
+title
+    Antilock brake control device
+similar_document
+26
+    Publication,Publication Date,Title
+    US20160243943A1,2016-08-25,Antilock brake control device
+    US10093308B2,2018-10-09,Electronic stability control system for vehicle
+    US10137784B2,2018-11-27,Control device for electric vehicle
+    US8573709B2,2013-11-05,Braking control apparatus for electric vehicle
+    JP6414044B2,2018-10-31,Vehicle driving force control device
+    US9205760B2,2015-12-08,Electric vehicle having independent traction motor units
+    US11148660B2,2021-10-19,Vehicle turning control apparatus
+    US20120245773A1,2012-09-27,Control system for electric vehicle
+    US20150284005A1,2015-10-08,Vehicle Control Device
+    US20190176812A1,2019-06-13,Vehicle turning control device
+    US10933875B2,2021-03-02,Vehicle turning control device
+    WO2012121197A1,2012-09-13,Electric vehicle
+    US10661657B2,2020-05-26,Slip control device
+    US10759282B2,2020-09-01,Vehicle turning control device
+    US20170080926A1,2017-03-23,Drive control device with traction control function for right-left independent drive vehicle
+    US10017075B2,2018-07-10,Device for controlling electric automobile
+    JP6502074B2,2019-04-17,Vehicle braking / driving force control device
+    KR20210014821A,2021-02-10,Wheel slip control method for vehicle
+    KR20120024170A,2012-03-14,Traction control system of in-wheel motor vehicle
+    US10889188B2,2021-01-12,Drive control device for vehicle with independently driven wheels
+    WO2018159559A1,2018-09-07,Vehicle control device
+    JP6585446B2,2019-10-02,Vehicle braking / driving force control device
+    WO2016125686A1,2016-08-11,Vehicle braking/driving torque control device
+    US11001246B2,2021-05-11,Electric brake device
+    JP6422752B2,2018-11-14,Vehicle braking force control device
+
+patent_application
+2
+    Application,Priority date,Filing date,Relation,Title
+    PCT/JP2014/079407,2013-11-18,2014-11-06,Continuation,Antilock brake control device
+
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    21
+classfication_items
+131
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,0
+    B,6,0,L,3,/,1,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,0
+    B,6,0,L,3,/,1,0,6
+    B,6,0,L,3,/,1,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,6
+    B,6,0,T,8,/,1,7,6,1
+    B,6,0,T,8,/,1,7,6,1,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,6
+    B,6,0,T,8,/,1,7,6,3
+    B,6,0,T,8,/,1,7,6,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,4,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,0,1,/,0,0
+    B,6,0,T,2,2,0,1,/,0,9
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+4
+    2016-05-03,Application filed by NTN Corp
+    2016-05-04,Assigned to NTN CORPORATION
+    2016-08-25,Publication of US20160243943A1
+    Status,Abandoned
+
+active_area
+3
+    J,P
+    W,O
+    C,N
+
+not_active_area
+2
+    E,P
+    U,S
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2013-237726,2013-11-18,
+    JP2013237726A,2013-11-18,Anti-loci brake controller
+    PCT/JP2014/079407,2014-11-06,Antilock brake control device
+
+legal_event
+3
+    Date,Code,Title,Description
+    2016-05-04,AS,Assignment,Owner name: NTN CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:SUGAI, TOMOHIRO;REEL/FRAME:038454/0341Effective date: 20160412
+    2017-03-21,STCB,Information on status: application discontinuation,Free format text: EXPRESSLY ABANDONED  --  DURING EXAMINATION
+

@@ -1,0 +1,185 @@
+ID
+    US20100256885A1
+citation_exist
+    Patent Citations (10)
+citation_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    US4720150A                      *,1985-07-27,1988-01-19,Fag Kugelfischer Georg Schafer (Kgaa),Brake-pressure control system
+    US5558409A                      *,1994-12-14,1996-09-24,General Motors Corporation,Electrohydraulic braking system
+    US6226586B1                      *,1997-03-06,2001-05-01,Kelsey-Hayes Company,Foundation brake control algorithm for electro-hydraulic brake system and brake-by-wire system
+    US6241323B1                      *,1996-04-19,2001-06-05,Robert Bosch Gmbh,Method and apparatus for controlling the brake system of a vehicle
+    US6456921B1                      *,2001-03-19,2002-09-24,Delphi Technologies, Inc.,Method and system of brake system control
+    US20070272457A1                      *,2006-05-18,2007-11-29,Shinya Kodama,Vehicle and control method of vehicle
+    US20070273204A1                      *,2006-05-11,2007-11-29,Shinya Kodama,Vehicle and control method of vehicle
+    US20080265664A1                      *,2007-04-26,2008-10-30,Bryan Todd Fulmer,Method for estimating master cylinder pressure during brake apply
+    US20090079258A1                      *,2007-09-26,2009-03-26,Ryuzo Tsuruhara,Brake hydraulic pressure control apparatus for motorcycle and brake hydraulic pressure control apparatus for vehicle
+    US20090096279A1                      *,2007-10-11,2009-04-16,Nissan Motor Co., Ltd.,Brake control apparatus and process
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (10)
+              
+
+
+citedBy_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20100286882A1                      *,2009-05-06,2010-11-11,Gm Global Technology Operations, Inc.,Methods and systems for controlling braking in vehicles
+    FR2984246A1                      *,2011-12-19,2013-06-21,Bosch Gmbh Robert,METHOD FOR MANAGING A VEHICLE DYNAMIC BRAKE SYSTEM AND CONTROL DEVICE FOR ITS IMPLEMENTATION
+    US8886432B2,2012-07-20,2014-11-11,GM Global Technology Operations LLC,Vehicle brake system and method of operating the same
+    US9193337B2                      *,2012-12-27,2015-11-24,Nissin Kogyo Co., Ltd.,Brake hydraulic pressure control system for vehicle
+    US20160114772A1                      *,2014-10-24,2016-04-28,GM Global Technology Operations LLC,Methods and systems for boosting trailer brake output
+    US20180154777A1                      *,2016-12-02,2018-06-07,Faraday&Future Inc.,Braking torque blending system and method for automatic emergency braking
+    US20210001829A1                      *,2019-07-02,2021-01-07,Hyundai Mobis Co., Ltd.,Method for controlling esc integrated braking system
+    CN112677772A                      *,2020-12-31,2021-04-20,华南理工大学,Automobile regenerative braking control system and method based on electronic hydraulic braking
+    CN113353049A                      *,2021-08-11,2021-09-07,上海拿森汽车电子有限公司,Electric control braking method and device and computer storage medium
+    Family To Family Citations,,,,
+    US11685358B2,2020-12-23,2023-06-27,Robert Bosch Gmbh,Classifying an actuation of an electric parking brake of a vehicle
+
+abstract
+    A method that compensates for fluid pressure variations in a vehicle brake system so that the fluid pressure, brake torque and/or brake force at the wheel more accurately reflects that requested by the driver. In an exemplary embodiment, the method determines the braking intent of the driver, determines a current stage of the braking event (e.g., an apply stage, release stage, etc.), uses the braking event stage and the driver braking intent to select a pressure compensation, and uses the pressure compensation to generate compensated brake command signals for operating the vehicle brake system. This method is well suited for use with brake-by-wire systems, such as an electrohydraulic braking (EHB) system.
+title
+    Method for operating a vehicle brake system
+similar_document
+26
+    Publication,Publication Date,Title
+    US9630601B2,2017-04-25,Method for operating a vehicle brake system
+    CN107082027B,2020-02-18,Vehicle brake system
+    US9527486B2,2016-12-27,Brake device
+    JP5954555B2,2016-07-20,Brake control device for vehicle
+    JP5580293B2,2014-08-27,BBW brake system
+    JP6063824B2,2017-01-18,Brake control device
+    US8914191B2,2014-12-16,Method and control circuit for controlling a braking system for motor vehicles
+    JP5066004B2,2012-11-07,Brake system
+    US9428168B2,2016-08-30,Brake device
+    JP5240237B2,2013-07-17,Brake device
+    JP5386042B2,2014-01-15,Brake device for vehicle and control method for vehicle brake device
+    CN106864442B,2020-05-29,Electronic hydraulic brake system
+    JP2013532604A,2013-08-19,Brake system for a vehicle and method of operating a brake system for a vehicle
+    WO2009096209A1,2009-08-06,Braking device
+    JP4581957B2,2010-11-17,Vehicle braking device and abnormality detection method for vehicle braking device
+    KR20140122671A,2014-10-20,Brake system for a vehicle and method for operating the brake system
+    JP6439170B2,2018-12-19,Brake device
+    JP4946985B2,2012-06-06,Brake control device
+    JP5566873B2,2014-08-06,Brake device for vehicle
+    JP6886011B2,2021-06-16,How to operate a hydraulic braking system, hydraulic braking system
+    JP4926867B2,2012-05-09,Brake device and brake device control method
+    JP5474132B2,2014-04-16,Brake system
+    JP4938575B2,2012-05-23,Brake device and brake device control method
+    JP2007118810A,2007-05-17,Brake device of vehicle
+    JP6451702B2,2019-01-16,Brake system for vehicles
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US12/418,907,2009-04-06,2009-04-06,Method for operating a vehicle brake system
+
+inventor_number
+    6
+classfication_nums
+    8
+classfication_items
+53
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,4
+    B,6,0,T,8,/,4,0
+    B,6,0,T,8,/,4,0,7,2
+    B,6,0,T,8,/,4,0,7,7
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,7,4
+    B,6,0,T,1,3,/,7,4,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,7,/,0,0
+    B,6,0,T,1,7,/,1,8
+    B,6,0,T,1,7,/,2,2
+    B,6,0,T,1,7,/,2,2,1
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,0,2
+    B,6,0,T,7,/,0,4
+    B,6,0,T,7,/,0,4,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,2,6
+    B,6,0,T,8,/,2,6,6
+    B,6,0,T,8,/,2,6,7
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,8,2
+
+application_events
+7
+    2009-04-06,Application filed by GM Global Technology Operations LLC
+    2009-04-06,Priority to US12/418,907
+    2010-10-07,Publication of US20100256885A1
+    2017-04-25,Publication of US9630601B2
+    2017-04-25,Application granted
+    Status,Expired - Fee Related
+    2033-02-09,Adjusted expiration
+
+active_area
+0
+
+not_active_area
+1
+    U,S
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US12/418,907,2009-04-06,Method for operating a vehicle brake system
+
+legal_event
+16
+    Date,Code,Title,Description
+    2009-04-07,AS,Assignment,Owner name: GM GLOBAL TECHNOLOGY OPERATIONS, INC., MICHIGANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:LOGAN, JON K.;MONSERE, PATRICK J.;RICHARDS, MARGARET C.;AND OTHERS;SIGNING DATES FROM 20090319 TO 20090403;REEL/FRAME:022516/0358
+    2009-08-27,AS,Assignment,Owner name: UNITED STATES DEPARTMENT OF THE TREASURY, DISTRICTFree format text: SECURITY AGREEMENT;ASSIGNOR:GM GLOBAL TECHNOLOGY OPERATIONS, INC.;REEL/FRAME:023201/0118Effective date: 20090710
+    2009-08-28,AS,Assignment,Owner name: UAW RETIREE MEDICAL BENEFITS TRUST, MICHIGANFree format text: SECURITY AGREEMENT;ASSIGNOR:GM GLOBAL TECHNOLOGY OPERATIONS, INC.;REEL/FRAME:023162/0048Effective date: 20090710
+    2010-11-04,AS,Assignment,Owner name: GM GLOBAL TECHNOLOGY OPERATIONS, INC., MICHIGANFree format text: RELEASE BY SECURED PARTY;ASSIGNOR:UNITED STATES DEPARTMENT OF THE TREASURY;REEL/FRAME:025246/0056Effective date: 20100420
+    2010-11-05,AS,Assignment,Owner name: GM GLOBAL TECHNOLOGY OPERATIONS, INC., MICHIGANFree format text: RELEASE BY SECURED PARTY;ASSIGNOR:UAW RETIREE MEDICAL BENEFITS TRUST;REEL/FRAME:025315/0091Effective date: 20101026
+    2010-11-08,AS,Assignment,Owner name: WILMINGTON TRUST COMPANY, DELAWAREFree format text: SECURITY AGREEMENT;ASSIGNOR:GM GLOBAL TECHNOLOGY OPERATIONS, INC.;REEL/FRAME:025324/0555Effective date: 20101027
+    2011-02-10,AS,Assignment,Owner name: GM GLOBAL TECHNOLOGY OPERATIONS LLC, MICHIGANFree format text: CHANGE OF NAME;ASSIGNOR:GM GLOBAL TECHNOLOGY OPERATIONS, INC.;REEL/FRAME:025781/0245Effective date: 20101202
+    2014-11-07,AS,Assignment,Owner name: GM GLOBAL TECHNOLOGY OPERATIONS LLC, MICHIGANFree format text: RELEASE BY SECURED PARTY;ASSIGNOR:WILMINGTON TRUST COMPANY;REEL/FRAME:034185/0789Effective date: 20141017
+    2016-12-03,FEPP,Fee payment procedure,Free format text: PAYER NUMBER DE-ASSIGNED (ORIGINAL EVENT CODE: RMPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2017-04-05,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2019-05-21,CC,Certificate of correction,
+    2020-12-14,FEPP,Fee payment procedure,Free format text: MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2021-05-31,LAPS,Lapse for failure to pay maintenance fees,Free format text: PATENT EXPIRED FOR FAILURE TO PAY MAINTENANCE FEES (ORIGINAL EVENT CODE: EXP.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2021-05-31,STCH,Information on status: patent discontinuation,Free format text: PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362
+    2021-06-22,FP,Lapsed due to failure to pay maintenance fee,Effective date: 20210425
+

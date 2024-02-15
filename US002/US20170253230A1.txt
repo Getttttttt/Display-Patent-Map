@@ -1,0 +1,339 @@
+ID
+    US20170253230A1
+citation_exist
+    Patent Citations (11)
+citation_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20040210356A1                      *,2000-12-27,2004-10-21,Transportation Techniques, Llc,Method and apparatus for selective operation of a hybrid electric vehicle in various driving modes
+    US20050252701A1                      *,2002-09-24,2005-11-17,Hiroshi Shimizu,Driver of electric automobile
+    US20080314661A1                      *,2007-06-20,2008-12-25,Ford Global Technologies, Llc,Negative driveline torque control incorporating transmission state selection for a hybrid vehicle
+    US20140343816A1                      *,2011-11-08,2014-11-20,Toyota Jidosha Kabushiki Kaisha,Vehicle braking/driving force control device
+    Family To Family Citations,,,,
+    JP4655408B2                      *,2001-05-14,2011-03-23,トヨタ自動車株式会社,Electric car
+    JP4691961B2                      *,2004-11-10,2011-06-01,トヨタ自動車株式会社,Fuel cell vehicle
+    JP2007055536A                      *,2005-08-26,2007-03-08,Toyota Motor Corp,Automobile and control method therefor
+    JP4839864B2                      *,2006-01-31,2011-12-21,トヨタ自動車株式会社,VEHICLE, ITS CONTROL METHOD, AND BRAKE DEVICE
+    JP2011219039A                      *,2010-04-13,2011-11-04,Toyota Motor Corp,Hybrid drive device for vehicle
+    JP2012236566A                      *,2011-05-13,2012-12-06,Hino Motors Ltd,Control device, hybrid vehicle, control method, and program
+    JP6194847B2,2014-05-12,2017-09-13,トヨタ自動車株式会社,vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (6)
+              
+
+
+citedBy_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20180086343A1                      *,2016-09-28,2018-03-29,Polaris Industries Inc.,Systems and methods for control of two independent powertrains in a vehicle
+    US10023173B2                      *,2013-04-02,2018-07-17,Panasonic Corporation,Electromotive drive system for engine-driven vehicle
+    US20190039598A1                      *,2017-08-01,2019-02-07,Toyota Jidosha Kabushiki Kaisha,Vehicle control device
+    Family To Family Citations,,,,
+    US9758455B2                      *,2014-04-02,2017-09-12,Daikin Industries, Ltd.,Method for producing fluorinated organic compound and fluorinating reagent
+    CN107696847B                      *,2017-09-30,2019-08-06,奇瑞汽车股份有限公司,A kind of hybrid power system and application
+    JP6897512B2                      *,2017-11-13,2021-06-30,トヨタ自動車株式会社,Hybrid vehicle driving force control device
+
+abstract
+    When a braking request is made while a SOC recovery switch is turned off, regeneration driving of a rear wheel motor is prohibited. In this case, a front wheel motor, the rear wheel motor, and an oil hydraulic brake device are controlled such that requested braking torque is exerted on a vehicle with regenerative driving of the front wheel motor and without regenerative driving of the rear wheel motor. When the braking request is made while the SOC recovery switch is turned on, the regeneration driving of the rear wheel motor is permitted. In this case, the front wheel motor, the rear wheel motor, and the oil hydraulic brake device are controlled such that the requested braking torque is exerted on the vehicle with regenerative driving of the front wheel motor and the rear wheel motor.
+title
+    Vehicle including traveling motor
+similar_document
+25
+    Publication,Publication Date,Title
+    US10611362B2,2020-04-07,Vehicle including traveling motor
+    US10369985B2,2019-08-06,Control apparatus for hybrid vehicle, hybrid vehicle, and control method for hybrid vehicle
+    US10246074B2,2019-04-02,Hybrid vehicle
+    EP3030441B1,2019-03-13,Control apparatus and control method for hybrid vehicle
+    EP2669129B1,2014-10-08,Vehicle, and vehicle control method
+    EP2669126B1,2015-07-22,Vehicle, and vehicle control method
+    US20140058605A1,2014-02-27,Hybrid vehicle
+    US10099694B2,2018-10-16,Motor vehicle
+    US10562520B2,2020-02-18,Control device for vehicle and control method for vehicle
+    US10173694B2,2019-01-08,Traveling control device for vehicle
+    KR100737003B1,2007-07-09,Method for determining optimal drive point in series and parallel hybrid car
+    WO2013018221A1,2013-02-07,Vehicle, and vehicle control method
+    CN108116390B,2021-04-23,Hybrid vehicle
+    JP6146292B2,2017-06-14,Hybrid car
+    JP2013193523A,2013-09-30,Hybrid vehicle
+    JP2016155440A,2016-09-01,Hybrid vehicle
+    JP2018007443A,2018-01-11,Vehicle
+    JP6133721B2,2017-05-24,Automobile
+    JP2015009726A,2015-01-19,Hybrid vehicle controller
+    JP2019107958A,2019-07-04,Hybrid vehicle
+    JP2018043706A,2018-03-22,Hybrid automobile
+    JP2017132280A,2017-08-03,Hybrid vehicle
+    JP2016107813A,2016-06-20,Hybrid vehicle
+    JP2012144192A,2012-08-02,Hybrid vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    37
+classfication_items
+217
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,/,0,0
+    B,6,0,K,1,/,0,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,2,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,4
+    B,6,0,K,6,/,4,4,5
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,5,0
+    B,6,0,K,6,/,5,2
+    B,6,0,L,1,1,/,1,4
+    B,6,0,L,1,1,/,1,8,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,4
+    B,6,0,W,1,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B,6,0,W,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,0,8,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,8
+    B,6,0,W,2,7,1,0,/,1,8,2
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,1,8
+    B,6,0,Y,2,3,0,0,/,1,8,0,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,2,5
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,8,9
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,9,1
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,4,0,0,/,0,0
+    B,6,0,Y,2,4,0,0,/,1,1
+    B,6,0,Y,2,4,0,0,/,1,1,2
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,4,0,0,/,0,0
+    B,6,0,Y,2,4,0,0,/,7,0
+    B,6,0,Y,2,4,0,0,/,7,3
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,8,0
+    Y,0,2,T,1,0,/,9,2
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,3
+
+application_events
+7
+    2017-02-28,Application filed by Toyota Motor Corp
+    2017-02-28,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2017-09-07,Publication of US20170253230A1
+    2020-04-07,Application granted
+    2020-04-07,Publication of US10611362B2
+    Status,Active
+    2037-02-28,Anticipated expiration
+
+active_area
+3
+    J,P
+    C,N
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2016040483A,2016-03-02,Automobile
+    JP2016-040483,2016-03-02,
+
+legal_event
+10
+    Date,Code,Title,Description
+    2017-02-28,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:YAMAMOTO, MASAYA;REEL/FRAME:041829/0598Effective date: 20161222
+    2019-02-21,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2019-06-18,STCV,Information on status: appeal procedure,Free format text: NOTICE OF APPEAL FILED
+    2019-09-04,STCV,Information on status: appeal procedure,Free format text: APPEAL BRIEF (OR SUPPLEMENTAL BRIEF) ENTERED AND FORWARDED TO EXAMINER
+    2020-01-06,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2020-02-24,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT RECEIVED
+    2020-03-18,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2020-05-19,CC,Certificate of correction,
+    2020-12-01,CC,Certificate of correction,
+

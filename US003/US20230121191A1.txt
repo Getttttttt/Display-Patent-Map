@@ -1,0 +1,197 @@
+ID
+    US20230121191A1
+citation_exist
+    Patent Citations (2)
+citation_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20170015163A1                      *,2014-02-28,2017-01-19,Westfalia-Automotive Gmbh,Trailer Coupling Having an Evaluation Device, Evaluation Device and Evaluation Method
+    US20220017161A1                      *,2018-11-29,2022-01-20,Electrans Technologies Ltd.,Anti-jackknifing control apparatus and method for active converter dolly
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    The vehicle control method can include: determining a vehicle state based on a set of vehicle state inputs; determining a command based on the vehicle state; and controlling the vehicle according to the command. The method can optionally include updating a vehicle model based on a control outcome. However, the method S100 can additionally or alternatively include any other suitable elements. The method can function to determine longitudinal vehicle control based on a set of vehicle state inputs (e.g., a limited set of inputs—such as without direct knowledge of a throttle input, etc.). Additionally or alternatively, the vehicle control method can function to infer driving intent based on vehicle state measurements and/or translate inferred driving intent into low-latency vehicle control. Additionally or alternatively, the system can function to autonomously augment longitudinal propulsion, autonomously augment vehicle braking, and/or facilitate autonomous (longitudinal) vehicle control.
+title
+    Vehicle system and longitudinal vehicle control method
+similar_document
+26
+    Publication,Publication Date,Title
+    US20220242273A1,2022-08-04,Method and apparatus for an active convertor dolly
+    US20220041069A1,2022-02-10,Fuel efficiency optimization apparatus and method for hybrid tractor trailer vehicles
+    EP2623380B1,2016-11-16,A method of controlling a brake system for a vehicle
+    US20220017161A1,2022-01-20,Anti-jackknifing control apparatus and method for active converter dolly
+    WO2023023157A1,2023-02-23,Vehicle system and longitudinal vehicle control method
+    JP2012218718A,2012-11-12,Vehicle control device
+    CN114643969A,2022-06-21,Method and system for controlling vehicle operation
+    US11807107B2,2023-11-07,Vehicle system and longitudinal vehicle control method
+    US11656153B1,2023-05-23,Simulator for vehicle drivetrain testing
+    US20230077259A1,2023-03-09,Virtual Validation and Verification Model Structure for Motion Control
+    US11753071B2,2023-09-12,Systems and methods for real-time monitoring of vehicle inertia parameter values using lateral dynamics
+    Trigui et al.,2016,Comparative estimation of electric vehicle rolling resistance coefficient in winter conditions
+    Hosking et al.,2018,Powertrain modeling and model predictive longitudinal dynamics control for hybrid electric vehicles
+    Park,2022,Sideslip Angle Control of Electronic-Four-Wheel Drive Vehicle Using Backstepping Controller
+    Németh et al.,2011,Model-based LQ control design of integrated vehicle tracking systems
+    US20230365209A1,2023-11-16,Systems and methods for intelligently implementing an autonomous electric-powered trailer during a towing operation
+    JP2019206312A,2019-12-05,Control device of towing vehicle
+    EP4257413A1,2023-10-11,Method for controlling an electric drive system of a trailer, data processing device, and electric drive system for a trailer
+    CN116457270A,2023-07-18,Predictive energy and motion management for multi-trailer heavy vehicles
+    CN116472505A,2023-07-21,Method for reducing high-speed deviation of multi-trailer heavy vehicle
+    Mihály et al.,2014,Reconfigurable control of an in-wheel electric vehicle based on LPV methods
+    Senapati et al.,2016,LabVIEW based automatic speed assistance system in uncertain road conditions
+    Valerián,2021,Advanced traction system development
+    KR20220105597A,2022-07-27,Dynamics-based articulation angle estimator for a vehicle combination
+    Zhu et al.,2016,Development of holistic corner control for electric vehicle using a new driver command interpreter
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US17/889,884,,2022-08-17,Vehicle system and longitudinal vehicle control method
+
+inventor_number
+    3
+classfication_nums
+    17
+classfication_items
+96
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,6,0,/,0,0
+    B,6,0,W,6,0,/,0,0,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B,6,0,L,2,2,4,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,3,0,0,/,0,0
+    B,6,0,W,2,3,0,0,/,1,4
+    B,6,0,W,2,3,0,0,/,1,4,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,2,/,0,0
+    B,6,0,W,2,5,5,2,/,1,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,8
+
+application_events
+9
+    2022-08-17,Application filed by Anamnesis Corp
+    2022-08-17,Priority to US17/889,884
+    2022-08-17,Priority claimed from US17/889,884
+    2022-09-19,Assigned to Anamnesis Corporation
+    2023-04-20,Publication of US20230121191A1
+    2023-11-07,Application granted
+    2023-11-07,Publication of US11807107B2
+    Status,Active
+    2042-08-17,Anticipated expiration
+
+active_area
+0
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    US202163233936P,2021-08-17,
+    US17/889,884,2022-08-17,Vehicle system and longitudinal vehicle control method
+
+legal_event
+8
+    Date,Code,Title,Description
+    2022-09-19,AS,Assignment,Owner name: ANAMNESIS CORPORATION, CALIFORNIAFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:RUST, IAN C.;PAN, SELINA;SIGNING DATES FROM 20220906 TO 20220916;REEL/FRAME:061135/0727
+    2023-05-05,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2023-08-07,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2023-08-21,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2023-09-28,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT RECEIVED
+    2023-10-02,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2023-10-18,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

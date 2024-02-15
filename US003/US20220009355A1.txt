@@ -1,0 +1,272 @@
+ID
+    US20220009355A1
+citation_exist
+    Patent Citations (6)
+citation_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20080183348A1                      *,2007-01-31,2008-07-31,Hitachi, Ltd.,Hybrid Cruising Control System
+    US20120179347A1                      *,2011-01-06,2012-07-12,Ford Global Technologies, Llc,Regenerative Braking Feedback Display And Method
+    US20180079304A1                      *,2005-11-17,2018-03-22,Invently Automotive Inc.,Braking power management
+    US20190071068A1                      *,2017-09-07,2019-03-07,Hyundai Motor Company,Vehicle and method for controlling the vehicle
+    US20190176827A1                      *,2017-12-08,2019-06-13,Hyundai Motor Company,System for controlling braking energy regeneration step variable and method thereof
+    US20190212161A1                      *,2017-02-22,2019-07-11,Robert D. Pedersen,Systems And Methods Using Artificial Intelligence For Routing Electric Vehicles
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20220097528A1                      *,2020-09-28,2022-03-31,Ford Global Technologies, Llc,Aggregating braking torque during one-pedal drive mode
+    CN114274783A                      *,2020-10-01,2022-04-05,通用汽车环球科技运作有限责任公司,Single pedal driving
+    Family To Family Citations,,,,
+
+abstract
+    The present disclosure to provides a vehicle capable of efficiently charging electric energy by determining a regenerative braking control improved for a driving situation in which the vehicle is driving, and a control method thereof.The vehicle includes: a power supply including a battery; a motor driven by receiving power from the battery; and a controller configured to determine a vehicle information including a charging state information of the battery, a temperature information of the battery, an input frequency of a braking command, and a driving history data, to determine a road information including a road condition information and a slope information of the road, to charge the battery by determining a regenerative braking level of the motor based on the vehicle information or the road information.
+title
+    Vehicle and control method thereof
+similar_document
+26
+    Publication,Publication Date,Title
+    US20220009355A1,2022-01-13,Vehicle and control method thereof
+    US10787165B2,2020-09-29,Hybrid vehicle and method of changing operation mode for the same
+    US6694232B2,2004-02-17,Control device for hybrid vehicle
+    JP5010378B2,2012-08-29,Control device for hybrid vehicle
+    JP5366377B2,2013-12-11,Regenerative braking control device for hybrid vehicle
+    US20190176827A1,2019-06-13,System for controlling braking energy regeneration step variable and method thereof
+    US20070284158A1,2007-12-13,Method and system for controlling charge and discharge amounts of a main battery for a hybrid car
+    US9744965B2,2017-08-29,Engine operation control system and method of eco-friendly vehicle
+    US11225245B2,2022-01-18,Vehicle and method for controlling the same
+    JPH11164402A,1999-06-18,Controller and controlling method for hybrid vehicle
+    CN110549859A,2019-12-10,vehicle control system, control method of vehicle control system, and brake device
+    US11648850B2,2023-05-16,Plug-in hybrid electric vehicle and charging control method therefor
+    JP2015009804A,2015-01-19,Method for controlling driving mode of hybrid vehicle
+    WO2021249556A1,2021-12-16,Method and apparatus for controlling interference torque, controller, device, program, and medium
+    JP5403106B2,2014-01-29,Regenerative braking control device for hybrid vehicle
+    US20180162226A1,2018-06-14,System and method for determining regenerative braking mode of ldc
+    US9610937B2,2017-04-04,Apparatus and method for controlling torque reduction of hybrid electric vehicle
+    JP4453643B2,2010-04-21,Driving force source switching control device for hybrid vehicle
+    CN113924238B,2022-08-30,Electric device control method and electric device
+    CN110884361A,2020-03-17,Speed limiting method of new energy automobile driving motor and motor driver thereof
+    KR102253673B1,2021-05-21,Hybrid vehicle drive mode control device and method
+    US11631281B2,2023-04-18,Vehicle and control method thereof
+    US20230322123A1,2023-10-12,Vehicle and control method of vehicle
+    KR20180067262A,2018-06-20,Apparatus and method for controlling driving of hybrid vehicle
+    KR20220017050A,2022-02-11,Apparatus for generation of electricity control on vehicle and method thereof
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    28
+classfication_items
+168
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,3,5,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,6,0
+    B,6,0,L,5,3,/,6,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,6,0
+    B,6,0,L,5,3,/,6,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,7,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,4
+    B,6,0,W,1,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,0,2
+    B,6,0,W,4,0,/,0,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,2,3,7,0,/,0,0
+    B,6,0,K,2,3,7,0,/,1,5
+    B,6,0,K,2,3,7,0,/,1,5,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B,6,0,L,2,2,4,0,/,6,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,1,4
+    B,6,0,W,2,0,5,0,/,1,4,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,2,/,0,0
+    B,6,0,W,2,5,5,2,/,1,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,6,/,0,0
+    B,6,0,W,2,5,5,6,/,4,5
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,1
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,1,8
+    B,6,0,Y,2,3,0,0,/,1,8,0,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,2,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+    Y,0,2,T,9,0,/,1,6,7
+    Y
+    Y,0,4
+    Y,0,4,S
+    Y,0,4,S,3,0,/,0,0
+    Y,0,4,S,3,0,/,1,0
+    Y,0,4,S,3,0,/,1,2
+
+application_events
+4
+    2020-11-16,Application filed by Hyundai Motor Co, Kia Motors Corp
+    2020-11-30,Assigned to KIA MOTORS CORPORATION, HYUNDAI MOTOR COMPANY
+    2022-01-13,Publication of US20220009355A1
+    Status,Pending
+
+active_area
+2
+    K,R
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    KR10-2020-0083649,2020-07-07,
+    KR1020200083649A,2020-07-07,Vehicle and control method for the same
+
+legal_event
+4
+    Date,Code,Title,Description
+    2020-11-30,AS,Assignment,Owner name: KIA MOTORS CORPORATION, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:KIM, BYUNG GIL;REEL/FRAME:054496/0901Effective date: 20201023Owner name: HYUNDAI MOTOR COMPANY, KOREA, REPUBLIC OFFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:KIM, BYUNG GIL;REEL/FRAME:054496/0901Effective date: 20201023
+    2021-08-21,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2023-08-14,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+

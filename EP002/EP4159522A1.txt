@@ -1,0 +1,161 @@
+ID
+    EP4159522A1
+citation_exist
+    Patent Citations (16)
+citation_infor
+18
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    KR20080037342A                      *,2006-10-26,2008-04-30,현대자동차주식회사,Method for control regenerative braking of electric vehicle
+    CN102485528B                      *,2010-12-03,2014-08-13,比亚迪股份有限公司,Wheel motor slip processing control system and slip processing method of wheel motor
+    EP2760714B1                      *,2011-09-28,2019-03-20,Continental Teves AG & Co. OHG,Slip-controlled braking system for electrically driven motor vehicles
+    DE102013204191A1                      *,2013-03-12,2014-09-18,Robert Bosch Gmbh,Device and method for operating a motor vehicle
+    CN104417557B                      *,2013-09-09,2017-07-04,比亚迪股份有限公司,A kind of vehicle slides feedback control system and its control method
+    CN104828044A                      *,2014-07-03,2015-08-12,北汽福田汽车股份有限公司,Braking control method and braking control system of vehicle
+    CN104590037B                      *,2014-12-16,2017-03-22,北京新能源汽车股份有限公司,Energy feedback control method for full electric vehicle
+    JP6776502B2                      *,2016-09-23,2020-10-28,日立オートモティブシステムズ株式会社,Electric vehicle controls, control methods and control systems
+    CN106627171B                      *,2017-01-12,2019-06-04,重庆长安新能源汽车科技有限公司,A kind of the torque recycling and control method and control system of pure electric vehicle
+    CN108859763A                      *,2017-05-09,2018-11-23,郑州宇通客车股份有限公司,A kind of control method and device preventing new-energy automobile sliding, braking shake
+    US10730393B2                      *,2017-10-13,2020-08-04,Ford Global Technologies, Llc,Regenerative hybrid vehicle braking system and methods
+    CN108569168B                      *,2017-11-08,2021-07-23,蔚来(安徽)控股有限公司,Electric vehicle driving system control method and system
+    CN109305044A                      *,2018-08-28,2019-02-05,北京长城华冠汽车科技股份有限公司,A kind of the electric braking torque distribution method and device of vehicle
+    CN111731105B                      *,2019-03-25,2021-09-14,长城汽车股份有限公司,Vehicle anti-lock energy recovery control method and device
+    CN110667396B                      *,2019-10-12,2023-07-14,江铃汽车股份有限公司,Energy recovery torque calibration method for rear-drive electric automobile
+    CN112895911B                      *,2020-11-10,2022-08-30,长城汽车股份有限公司,Method and device for controlling torque of wet and slippery road surface and terminal equipment
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    CN112895911B                      *,2020-11-10,2022-08-30,长城汽车股份有限公司,Method and device for controlling torque of wet and slippery road surface and terminal equipment
+
+abstract
+    A method and an apparatus for torque control on a slippery road surface and a terminal device are provided. The method includes: presetting a torque-lower-limit-value, a first numerical value is a torque value recycled by the vehicle which is moving on the slippery road surface and performs an energy recovery normally during a coasting process, the second numerical value is a torque value that prevents a vehicle wheel from being locked on the slippery road surface, the second numerical value is greater than the first numerical value, and the torque-lower-limit-value is set to the first numerical value by default; setting, when an anti-lock braking system of the vehicle is activated, the torque-lower-limit-value as the second numerical value to reduce an absolute value of a reverse torque exerted on the vehicle wheel due to the energy recovery, and the vehicle wheel enters an anti-lock state; maintaining the anti-lock state of the vehicle wheel for a preset first time period; comparing the currently requested torque value with a preset third numerical value after the first time period is passed; and resetting the torque-lower-limit-value to the first numerical value to enable the vehicle wheel to exit the anti-lock state, if the currently requested torque value is greater than the third numerical value. By applying the method, it can be guaranteed that the vehicle moves on the slippery road surface smoothly, a driving experience is improved, and the safety of the vehicle is guaranteed accordingly.
+title
+    Torque control method and apparatus for slippery road surface, and terminal device
+similar_document
+26
+    Publication,Publication Date,Title
+    US10793010B2,2020-10-06,Control method and control system for motor-driven vehicle
+    CN110126628B,2021-11-02,Control method and control device for electric vehicle motor
+    US11465624B2,2022-10-11,Method of cooperatively controlling regenerative braking step by step for rear-wheel-drive environmentally-friendly vehicle
+    EP4159522A1,2023-04-05,Torque control method and apparatus for slippery road surface, and terminal device
+    KR102273477B1,2021-07-05,Creep rate control method, apparatus, vehicle and computer readable medium
+    US20160104327A1,2016-04-14,Road emergency activation
+    CN112918447B,2022-06-03,Control method and system for optimizing brake pedal stroke and storage medium
+    CN113858963A,2021-12-31,Braking method, system, medium and vehicle-mounted terminal based on electric vehicle
+    CN105667504B,2020-10-09,Autonomous vehicle turning maneuver
+    CN114248805B,2023-07-11,Intelligent driving control weight distribution method and system for relieving man-machine conflict
+    CN109421678B,2020-08-25,Braking method, device, braking system and storage medium for automobile
+    CN105313705A,2016-02-10,Method and apparatus for controlling drive motor
+    CN112519737B,2021-11-02,Control method and device for electric braking strength of vehicle, vehicle and storage medium
+    CN113619560A,2021-11-09,Method and device for controlling output torque of automobile, electronic equipment and medium
+    CN109910636B,2020-12-04,Control method and device of electric vehicle and electric vehicle
+    CN110171404B,2020-09-11,Driving safety distance control method, system, equipment and storage medium
+    CN114475604B,2023-08-22,Vehicle anti-skid method, apparatus, device, storage medium, and program product
+    CN115139815A,2022-10-04,Torque distribution method, device, equipment and storage medium
+    EP3971451A1,2022-03-23,Gear determination method and system, and vehicle
+    CN114475276A,2022-05-13,Control method and system for torque of driving motor
+    CN115123195A,2022-09-30,Front-wheel-drive vehicle torque control method and device and vehicle
+    US10407051B2,2019-09-10,Apparatus and method for controlling driving of hybrid vehicle
+    CN113002619A,2021-06-22,Apparatus and method for controlling steering of rear wheels
+    CN114228680B,2022-10-28,EHB automatic parking control method and device, ECU and storage medium
+    CN111731261B,2021-09-07,Torque control method and device
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    6
+classfication_nums
+    7
+classfication_items
+46
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,0
+    B,6,0,L,3,/,1,0,6
+    B,6,0,L,3,/,1,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B,6,0,L,2,2,4,0,/,6,4,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+3
+    2021-09-30,Application filed by Great Wall Motor Co Ltd
+    2023-04-05,Publication of EP4159522A1
+    Status,Pending
+
+active_area
+3
+    C,N
+    E,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    CN202011249262.3A,2020-11-10,Method and device for controlling torque of wet and slippery road surface and terminal equipment
+    PCT/CN2021/122179,2021-09-30,Torque control method and apparatus for slippery road surface, and terminal device
+
+legal_event
+6
+    Date,Code,Title,Description
+    2022-05-21,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE INTERNATIONAL PUBLICATION HAS BEEN MADE
+    2023-03-03,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2023-03-03,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+    2023-04-05,17P,Request for examination filed,Effective date: 20221229
+    2023-04-05,AK,Designated contracting states,Kind code of ref document: A1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+

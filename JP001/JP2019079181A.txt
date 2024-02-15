@@ -1,0 +1,213 @@
+ID
+    JP2019079181A
+citation_exist
+    Patent Citations (25)
+citation_infor
+27
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20170282821A1                      *,2016-04-01,2017-10-05,Uber Technologies, Inc.,Transport facilitation system for configuring a service vehicle for a user
+    JP2018077068A                      *,2016-11-07,2018-05-17,住友電気工業株式会社,車載装置、コンピュータプログラム及び運転管理方法
+    JP2020035457A                      *,2016-04-01,2020-03-05,ウーバー テクノロジーズ，インコーポレイテッド,業務用車両をユーザー用に構成する輸送促進システム
+    Family To Family Citations,,,,
+    JP4082188B2                      *,2002-11-20,2008-04-30,日本電気株式会社,交通車両利用案内システム、交通車両利用案内方法及び交通車両利用案内プログラム
+    JP4353283B2                      *,2007-06-18,2009-10-28,トヨタ自動車株式会社,車両の空調制御装置
+    CN101546177B                      *,2008-03-27,2012-10-10,Tcl集团股份有限公司,空调器的人感关机方法
+    CN102346481A                      *,2010-07-28,2012-02-08,何仁城,一种车辆的自动驾驶系统
+    CN102063691A                      *,2011-01-07,2011-05-18,北京东方车云信息技术有限公司,一种智能调度车辆的方法与系统
+    US9631933B1,2014-05-23,2017-04-25,Google Inc.,Specifying unavailable locations for autonomous vehicles
+    US9377315B2                      *,2014-10-22,2016-06-28,Myine Electronics, Inc.,System and method to provide valet instructions for a self-driving vehicle
+    US9783024B2                      *,2015-03-09,2017-10-10,Bergstrom Inc.,System and method for remotely managing climate control systems of a fleet of vehicles
+    KR20160112537A                      *,2015-03-19,2016-09-28,현대자동차주식회사,차량, 및 차량의 제어방법
+    CN104913458A                      *,2015-06-24,2015-09-16,广东美的暖通设备有限公司,空调的控制方法
+    US9557741B1                      *,2015-08-24,2017-01-31,Ford Global Technologies, Llc,System and method for autonomous valet parking using plenoptic cameras
+    US10137777B2                      *,2015-11-03,2018-11-27,GM Global Technology Operations LLC,Systems and methods for vehicle system control based on physiological traits
+    US20170213308A1                      *,2016-01-26,2017-07-27,GM Global Technology Operations LLC,Arbitration of passenger pickup and drop-off and vehicle routing in an autonomous vehicle based transportation system
+    CN105577837B                      *,2016-02-23,2017-06-23,东莞市博派电子科技有限公司,一种不影响汽车原车功能的手机掌控产品
+    US9994175B2                      *,2016-03-04,2018-06-12,Honda Motor Co., Ltd.,System for preconditioning a vehicle and method thereof
+    CN107160965A                      *,2016-03-07,2017-09-15,厦门歌乐电子企业有限公司,车载空调控制器、车载空调控制方法及车载空调系统
+    US10012990B2                      *,2016-04-01,2018-07-03,Uber Technologies, Inc.,Optimizing timing for configuring an autonomous vehicle
+    US9682609B1                      *,2016-06-07,2017-06-20,Ford Global Technologies, Llc,Autonomous vehicle dynamic climate control
+    US10051451B1                      *,2016-08-03,2018-08-14,West Corporation,Location determination of a mobile device based on various parameters
+    US10607192B2                      *,2016-08-25,2020-03-31,Ford Global Technologies, Llc,Methods and apparatus for autonomous vehicle scheduling
+    US10131300B2                      *,2016-09-01,2018-11-20,Denso International America, Inc.,Wireless HVAC and infotainment system control for autonomous vehicles
+    CN107139677A                      *,2017-04-26,2017-09-08,珠海格力电器股份有限公司,控制车辆空调的方法和装置
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (7)
+              
+
+
+citedBy_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    WO2021054053A1                      *,2019-09-18,2021-03-25,株式会社かもめや,情報提供装置、情報提供方法、情報提供システム及びプログラム
+    CN113276620A                      *,2021-04-19,2021-08-20,曲衍喜,一种车辆用大数据监测系统及方法
+    JP7274939B2,2019-05-29,2023-05-17,日産自動車株式会社,サービス車両の待機好適エリア判定システム、待機好適エリア判定装置及び待機好適エリア判定方法
+    Family To Family Citations,,,,
+    US11541720B2                      *,2017-12-12,2023-01-03,Ford Global Technologies, Llc,Autonomous vehicle climate optimization
+    JP2019162919A                      *,2018-03-19,2019-09-26,本田技研工業株式会社,制御装置、制御方法及びプログラム
+    CN111123929A                      *,2019-12-23,2020-05-08,天行智控(成都)科技有限公司,一种轨道运输分区调度系统
+    EP3868584B1                      *,2020-02-24,2023-09-13,Ningbo Geely Automobile Research & Development Co. Ltd.,Vehicle compartment air replacement
+
+abstract
+    【課題】送迎リクエストの待機中の電力の消費量を抑え、且つ、送迎リクエストに応じたピックアップの際の車両の室内温度がユーザにとって不快な温度となるのを抑える。【解決手段】ユーザからの送迎リクエストを受信したら（ステップＳ２００）、管理センタは、送迎リクエストに沿う空き車両を抽出し、送迎車両に選定する（ステップＳ２０１）。送迎車両の選定後、管理センタは、空調ＯＮ指示を送迎車両に送信する（ステップＳ２０２）。ドロップオフ完了情報を送迎車両から受信したら（ステップＳ２０５）、管理センタは、待機エリアを選定し（ステップＳ２０６）、空調ＯＦＦ指示を送迎車両に送信する（ステップＳ２０７）。【選択図】図３
+title
+    送迎システム
+similar_document
+26
+    Publication,Publication Date,Title
+    JP6825537B2,2021-02-03,送迎システム
+    JP6897495B2,2021-06-30,配車システム及び配車方法
+    US20190266691A1,2019-08-29,Operator management device, operator management system, and operator management method
+    US9522669B2,2016-12-20,Method for optimizing the power usage of a vehicle
+    US20190011926A1,2019-01-10,Autonomous car, traveling controller, traveling control method, and storage medium storing control program
+    CN110228380A,2019-09-13,智能充电网络
+    WO2014033944A1,2014-03-06,電気自動車の充電支援システムおよび充電支援方法
+    WO2019178197A1,2019-09-19,Managing a fleet of vehicles
+    CN105705370A,2016-06-22,基于电能储存装置热简况调节电动车系统
+    KR20190034341A,2019-04-01,경로 탐색 장치, 배터리 정보 관리 장치 및 프로그램
+    CN109947091A,2019-06-28,可移动体、调度系统、服务器和调度可移动体的方法
+    WO2016121333A1,2016-08-04,車両用電池の充電情報報知システム、充電情報報知プログラム、及び充電情報報知方法
+    JP6806032B2,2020-12-23,荷物集配システム
+    US11368028B2,2022-06-21,Facilitating charging of acceptor nodes by mobile charging systems
+    US20200300648A1,2020-09-24,Generating a Current Operating Strategy Proposal for a Vehicle
+    US20190263271A1,2019-08-29,Execution of charge session swap based on charging priority
+    US20190061545A1,2019-02-28,Systems and methods for electric vehicle charging with automated trip planning integration
+    CN112119435B,2022-08-19,车辆分配设备、车辆分配方法、计算机程序和计算机可读存储介质
+    CN114340924A,2022-04-12,电池管理装置、电池管理方法及电池管理程序
+    KR20120102464A,2012-09-18,전기자동차 충전 예약 시스템
+    JP2020166760A,2020-10-08,スケジュール管理システム、移動体、プログラム及び方法
+    JP6428185B2,2018-11-28,共用車両管理装置及び共用車両管理方法
+    US20230011007A1,2023-01-12,Information processing device and information processing method
+    US11708067B2,2023-07-25,Management controller for automated valet parking service, service providing method, and service utilizing vehicle
+    JP2019081470A,2019-05-30,空調制御システム
+
+patent_application
+    NoExist
+patent_priority_application
+4
+    Application,Priority date,Filing date,Title
+    JP2017204428A,2017-10-23,2017-10-23,送迎システム
+    US16/113,488,2017-10-23,2018-08-27,Transportation system
+    CN201811044129.7A,2017-10-23,2018-09-07,运输系统
+
+inventor_number
+    8
+classfication_nums
+    12
+classfication_items
+70
+    G
+    G,0,6
+    G,0,6,Q
+    G,0,6,Q,1,0,/,0,0
+    G,0,6,Q,1,0,/,0,6
+    G,0,6,Q,1,0,/,0,6,3
+    G,0,6,Q,1,0,/,0,6,3,1
+    B
+    B,6,0
+    B,6,0,H
+    B,6,0,H,1,/,0,0
+    B,6,0,H,1,/,0,0,6,4,2
+    B,6,0,H,1,/,0,0,9,6,4
+    B
+    B,6,0
+    B,6,0,H
+    B,6,0,H,1,/,0,0
+    B,6,0,H,1,/,0,0,3,5,7
+    B
+    B,6,0
+    B,6,0,H
+    B,6,0,H,1,/,0,0
+    B,6,0,H,1,/,0,0,6,4,2
+    B,6,0,H,1,/,0,0,7,3,5
+    B
+    B,6,0
+    B,6,0,H
+    B,6,0,H,1,/,0,0
+    B,6,0,H,1,/,0,0,6,4,2
+    B,6,0,H,1,/,0,0,7,3,5
+    B,6,0,H,1,/,0,0,7,6,4
+    B,6,0,H,1,/,0,0,7,7,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    G
+    G,0,5
+    G,0,5,D
+    G,0,5,D,1,/,0,0
+    G,0,5,D,1,/,0,0,1,1
+    G,0,5,D,1,/,0,0,2,7
+    G
+    G,0,5
+    G,0,5,D
+    G,0,5,D,1,/,0,0
+    G,0,5,D,1,/,0,0,8,8
+    G
+    G,0,6
+    G,0,6,Q
+    G,0,6,Q,1,0,/,0,0
+    G,0,6,Q,1,0,/,0,2
+    G
+    G,0,6
+    G,0,6,Q
+    G,0,6,Q,3,0,/,0,0
+    G,0,6,Q,3,0,/,0,2
+    G,0,6,Q,3,0,/,0,2,8,3
+    G
+    G,0,6
+    G,0,6,Q
+    G,0,6,Q,5,0,/,0,0
+    G,0,6,Q,5,0,/,3,0
+    G
+    G,0,8
+    G,0,8,G
+    G,0,8,G,1,/,0,0
+    G,0,8,G,1,/,2,0
+    G,0,8,G,1,/,2,0,2
+
+application_events
+9
+    2017-10-23,Application filed by Toyota Motor Corp
+    2017-10-23,Priority to JP2017204428A
+    2018-08-27,Priority to US16/113,488
+    2018-09-07,Priority to CN201811044129.7A
+    2019-05-23,Publication of JP2019079181A
+    2021-02-03,Application granted
+    2021-02-03,Publication of JP6825537B2
+    Status,Active
+    2037-10-23,Anticipated expiration
+
+active_area
+3
+    J,P
+    U,S
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2017204428A,2017-10-23,送迎システム
+
+legal_event
+9
+    Date,Code,Title,Description
+    2020-01-23,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20200123
+    2020-10-13,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20201013
+    2020-10-15,A977,Report on retrieval,Free format text: JAPANESE INTERMEDIATE CODE: A971007Effective date: 20201014
+    2020-12-01,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20201201
+    2020-12-08,TRDD,Decision of grant or rejection written,
+    2020-12-15,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20201215
+    2021-01-18,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20201228
+    2021-01-18,R151,Written notification of patent or utility model registration,Ref document number: 6825537Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R151
+

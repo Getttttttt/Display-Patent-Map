@@ -1,0 +1,244 @@
+ID
+    US20140277861A1
+citation_exist
+    Patent Citations (13)
+citation_infor
+15
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5467945A                      *,1993-04-08,1995-11-21,Central Japan Railway Company,Apparatus for improved block control of train operation
+    US20110316333A1                      *,2009-02-12,2011-12-29,Bombardier Transportation Gmbh,Arrangement for operating consumers in a rail vehicle with electrical energy, selectively from an energy supply network or from a motor-generator combination
+    US8146513B2                      *,2008-09-11,2012-04-03,Ibaiondo Madariaga Harkaitz,Device and control procedure for recovery of kinetic energy in railway systems
+    US20130147441A1                      *,2011-12-12,2013-06-13,Eun-Kyu Lee,Automatic Tuning Method for Energy Storage System of Railway Vehicle
+    US20130166232A1                      *,2011-12-26,2013-06-27,Eun Kyu Lee,Power Quality Monitoring Apparatus for Railway Power System
+    US20140012454A1                      *,2012-07-09,2014-01-09,General Electric Company,Method and system for timetable optimization utilizing energy consumption factors
+    US8674541B2                      *,2011-08-16,2014-03-18,Advanced Rail Energy Storage, Llc,Rail based potential energy storage for utility grid ancillary services
+    Family To Family Citations,,,,
+    US20060005738A1,2001-03-27,2006-01-12,Kumar Ajith K,Railroad vehicle with energy regeneration
+    US7430967B2,2001-03-27,2008-10-07,General Electric Company,Multimode hybrid energy railway vehicle system and method
+    US8538611B2,2003-01-06,2013-09-17,General Electric Company,Multi-level railway operations optimization system and method
+    JP4184879B2,2003-07-03,2008-11-19,株式会社日立製作所,Railway vehicle drive system
+    CA2576871A1,2004-08-09,2006-02-23,Railpower Technologies Corp.,Regenerative braking methods for a hybrid locomotive
+    US7715958B2,2007-04-25,2010-05-11,General Electric Company,Hybrid energy power management system and method
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (3)
+              
+
+
+citedBy_exist
+    
+              Cited By (7)
+              
+
+
+citedBy_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20150251565A1                      *,2013-08-14,2015-09-10,Siemens S.A.S.,Method for minimizing the electricity consumption required for a public transport network and associated algorithmic platform
+    US20160129926A1                      *,2013-07-19,2016-05-12,Kabushiki Kaisha Toshiba,Running curve creation device, running curve creation method and running curve control program
+    US20170057378A1                      *,2015-08-25,2017-03-02,Beijing Jiaotong University,Train control method for maximizing utilization of regenerative energy
+    CN109219018A                      *,2018-09-06,2019-01-15,天津七二通信广播股份有限公司,A kind of configurable railway Heibei provincial opera shunting operation sheet display methods
+    US11208125B2                      *,2016-08-08,2021-12-28,Transportation Ip Holdings, Llc,Vehicle control system
+    US20220227258A1                      *,2021-01-20,2022-07-21,Abb Schweiz Ag,Power line system with ripple generator for electric vehicles
+    CN115600791A                      *,2022-09-07,2023-01-13,华北电力大学（Cn）,Wind energy and solar energy complementarity assessment method and system
+    Family To Family Citations,,,,
+
+abstract
+    A system and method optimizes energy consumption in a railway system including a set of trains, a set of energy storage devices, and a set of substations connected to a grid by first optimizing control parameters controlling at least part of the energy consumption of the railway system to produce optimized control parameters. The optimized control parameters minimize, over multiple time steps, a combination of total power provided by the grid to satisfy a power demand of the railway system, a state-of-charge of each energy storage device, power supplied to charge the energy storage device and power supplied by the energy storage device. The optimizing is subject to constraints on operations of the railway system over multiple time steps. The constraints include a complementarity constraint. A command is generated to control the energy consumption of the railway system based on the optimized control parameters.
+title
+    System and Method for Optimizing Energy Consumption in Railway Systems with Energy Storage Devices
+similar_document
+26
+    Publication,Publication Date,Title
+    US8983690B2,2015-03-17,System and method for optimizing energy consumption in railway systems with energy storage devices
+    US8831801B1,2014-09-09,System and method for optimizing energy consumption in railway systems
+    Pereira et al.,1992,Composite generation/transmission reliability evaluation
+    Heydarian-Forushani et al.,2015,Robust scheduling of variable wind generation by coordination of bulk energy storages and demand response
+    Haupt et al.,2020,The influence of electric vehicle charging strategies on the sizing of electrical energy storage systems in charging hub microgrids
+    De La Torre et al.,2014,Optimal sizing of energy storage for regenerative braking in electric railway systems
+    Rosewater et al.,2018,Battery energy storage state-of-charge forecasting: Models, optimization, and accuracy
+    US9108652B2,2015-08-18,Method and system for timetable optimization utilizing energy consumption factors
+    US10202133B2,2019-02-12,Method and system for timetable optimization utilizing energy consumption factors
+    Nikoobakht et al.,2019,Electric vehicle mobility and optimal grid reconfiguration as flexibility tools in wind integrated power systems
+    Pertl et al.,2018,An equivalent time-variant storage model to harness EV flexibility: Forecast and aggregation
+    Estandia et al.,2021,On the interaction between autonomous mobility on demand systems and power distribution networks—an optimal power flow approach
+    Zhang et al.,2014,Development of an optimal operation approach in the MPC framework for heavy-haul trains
+    CN107392462A,2017-11-24,A kind of grid-connected dispatching method of electric automobile for considering sort feature
+    Abrahamsson et al.,2010,Fast estimation of relations between aggregated train power system data and traffic performance
+    CN109002625B,2021-02-26,Robust optimization-based method for designing connection public transport network
+    Safdarian et al.,2019,Distributed optimization-based hourly coordination for V2G and G2V
+    Finardi et al.,2020,Stochastic hydro-thermal unit commitment via multi-level scenario trees and bundle regularization
+    Gupta et al.,2020,Optimal scheduling of electric vehicle in stochastic AC SCUC problem for large‐scale wind power penetration
+    Akbari et al.,2022,Optimal clustering-based operation of smart railway stations considering uncertainties of renewable energy sources and regenerative braking energies
+    Alfaverh et al.,2023,Optimal vehicle-to-grid control for supplementary frequency regulation using deep reinforcement learning
+    CN113962446A,2022-01-21,Micro-grid group cooperative scheduling method and device, electronic equipment and storage medium
+    Mirmoradi et al.,2016,Market clearing with probabilistic spinning reserve considering wind uncertainty and electric vehicles
+    Wei et al.,2014,Optimal control of plug-in hybrid electric vehicles with market impact and risk attitude
+    Li et al.,1990,Stochastic optimization of interconnected multireservoir power systems
+
+patent_application
+2
+    Application,Priority date,Filing date,Relation,Title
+    US13/803,857,2013-03-14,2013-03-14,Continuation-In-Part,System and method for optimizing energy consumption in railway systems
+
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US14/188,767,2013-03-14,2014-02-25,System and method for optimizing energy consumption in railway systems with energy storage devices
+
+inventor_number
+    7
+classfication_nums
+    20
+classfication_items
+112
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,9,/,0,0
+    B,6,0,L,9,/,0,2
+    B,6,0,L,9,/,0,4
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,2,7,/,0,0
+    B,6,1,L,2,7,/,1,0
+    B,6,1,L,2,7,/,1,6
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,3,/,0,0
+    B,6,1,L,3,/,0,0,6
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,3,/,0,0
+    B,6,1,L,3,/,0,0,8
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,9,9,/,0,0
+    G
+    G,0,6
+    G,0,6,F
+    G,0,6,F,1,7,/,0,0
+    G,0,6,F,1,7,/,1,0
+    G,0,6,F,1,7,/,1,1
+    G
+    G,0,6
+    G,0,6,Q
+    G,0,6,Q,1,0,/,0,0
+    G,0,6,Q,1,0,/,0,6
+    G
+    G,0,6
+    G,0,6,Q
+    G,0,6,Q,5,0,/,0,0
+    G,0,6,Q,5,0,/,0,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,8,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+9
+    2013-03-14,Priority claimed from US13/803,857
+    2014-02-25,Application filed by Mitsubishi Electric Corp, Mitsubishi Electric Research Laboratories Inc
+    2014-02-25,Priority to US14/188,767
+    2014-09-18,Publication of US20140277861A1
+    2015-02-11,Assigned to MITSUBISHI ELECTRIC CORPORATION
+    2015-03-17,Application granted
+    2015-03-17,Publication of US8983690B2
+    Status,Expired - Fee Related
+    2033-03-14,Anticipated expiration
+
+active_area
+0
+
+not_active_area
+1
+    U,S
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    US13/803,857,2013-03-14,System and method for optimizing energy consumption in railway systems
+    US14/188,767,2014-02-25,System and method for optimizing energy consumption in railway systems with energy storage devices
+
+legal_event
+8
+    Date,Code,Title,Description
+    2015-02-11,AS,Assignment,Owner name: MITSUBISHI ELECTRIC CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:WADA, TOSHIHIRO;UEDA, KENJI;TAKAHASHI, SATORU;REEL/FRAME:034937/0064Effective date: 20140227
+    2015-02-25,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2018-09-06,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+    2022-11-07,FEPP,Fee payment procedure,Free format text: MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2023-04-24,LAPS,Lapse for failure to pay maintenance fees,Free format text: PATENT EXPIRED FOR FAILURE TO PAY MAINTENANCE FEES (ORIGINAL EVENT CODE: EXP.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2023-04-24,STCH,Information on status: patent discontinuation,Free format text: PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362
+    2023-05-16,FP,Lapsed due to failure to pay maintenance fee,Effective date: 20230317
+

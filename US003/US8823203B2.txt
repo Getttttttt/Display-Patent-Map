@@ -1,0 +1,209 @@
+ID
+    US8823203B2
+citation_exist
+    Patent Citations (19)
+citation_infor
+21
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPS5897943A,1981-12-04,1983-06-10,Mitsubishi Electric Corp,Transmitting circuit
+    US4502454A,1981-07-03,1985-03-05,Nissan Motor Company, Limited,Ignition system for an internal combustion engine
+    JPS6051420A,1983-08-30,1985-03-22,株式会社日立製作所,Load distributing method of power system
+    JPS61186766A,1985-02-13,1986-08-20,三洋電機株式会社,Absorption refrigerator
+    JPH0614464A,1992-06-24,1994-01-21,Toshiba Corp,Economic load distributing equipment for generator
+    JPH11324746A,1998-05-14,1999-11-26,Toyota Motor Corp,Catalytic activation promoting system for internal-combustion engine
+    JP2001241736A,2000-02-28,2001-09-07,Mitsubishi Electric Corp,Air conditioner
+    JP2002036903A,2000-07-24,2002-02-06,Toyota Motor Corp,Control device for vehicle energy accumulation device
+    JP2005257097A,2004-03-09,2005-09-22,Toshiba Corp,Start/stop plan formulation system for heat source device
+    US20060122737A1,2004-12-08,2006-06-08,Denso Corporation,Power control apparatus and method for electrical system of vehicle
+    JP2007100687A,2004-12-07,2007-04-19,Denso Corp,Thermal power generation device, power source control device, and power management method thereof
+    US20080011005A1,2006-07-12,2008-01-17,Denso Corporation,Air-conditioning system for vehicle
+    JP2010023633A,2008-07-18,2010-02-04,Denso Corp,Vehicle temperature raising device
+    Family To Family Citations,,,,
+    JPH0444849Y2,1985-05-14,1992-10-22,,
+    JP3704788B2,1996-03-25,2005-10-12,マツダ株式会社,Air conditioner for vehicles
+    JP3414318B2,1999-04-28,2003-06-09,トヨタ自動車株式会社,Combustion control device for internal combustion engine
+    US7826939B2,2006-09-01,2010-11-02,Azure Dynamics, Inc.,Method, apparatus, signals, and medium for managing power in a hybrid vehicle
+    EP2444638B1,2009-06-18,2017-04-12,Toyota Jidosha Kabushiki Kaisha,Control device for vehicle
+    DE102009042745A1,2009-09-25,2011-03-31,Att Automotivethermotech Gmbh,Method for operating cooling and heating circulation system of motor vehicle, involves supercharging and intercooling internal combustion engine by coolants, and supplying coolant from cooling pump to heat exchanger
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (2)
+              
+
+
+citedBy_exist
+    
+              Cited By (21)
+              
+
+
+citedBy_infor
+23
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP5131358B2,2011-01-06,2013-01-30,株式会社デンソー,Vehicle heat source control device
+    US8567191B2                      *,2011-03-25,2013-10-29,General Electric Company,Methods and systems for controlling transient engine response
+    US20140136087A1                      *,2011-06-21,2014-05-15,Toyota Jidosha Kabushiki Kaisha,Vehicle control apparatus
+    JP5783080B2,2012-02-13,2015-09-24,株式会社デンソー,Control device for hybrid vehicle
+    JP5998506B2,2012-02-13,2016-09-28,株式会社デンソー,Control device for hybrid vehicle
+    JP5545309B2                      *,2012-03-06,2014-07-09,株式会社デンソー,Energy management system
+    EP2669172A1                      *,2012-06-01,2013-12-04,ABB Technology AG,Method and system for predicting the performance of a ship
+    US9869232B2                      *,2012-06-27,2018-01-16,Ford Global Technologies, Llc,Variable-speed pump control for engine coolant system with variable restriction
+    CN104684758B                      *,2012-10-08,2018-03-23,冷王公司,System and method for providing power for transport refrigeration system
+    US9518497B2,2013-07-24,2016-12-13,Cummins, Inc.,System and method for determining the net output torque from a waste heat recovery system
+    US10131205B2,2013-08-26,2018-11-20,Ford Global Technologies, Llc,Climate control system
+    US10183550B2,2013-08-26,2019-01-22,Ford Global Technologies, Llc,Method and system for heating a vehicle
+    US9358856B2                      *,2013-10-03,2016-06-07,Ford Global Technologies, Llc,System off configuration for climate control system
+    US10190812B2,2014-02-20,2019-01-29,Ford Global Technologies, Llc,Method and system for reducing the possibility of vehicle heat exchanger freezing
+    JP6213306B2,2014-02-28,2017-10-18,株式会社デンソー,Vehicle control device
+    US9823009B2,2014-03-14,2017-11-21,Ford Global Technologies, Llc,Method and system for de-icing a heat exchanger
+    JP6414471B2                      *,2015-01-13,2018-10-31,株式会社デンソー,Vehicle air conditioning control device
+    US10556484B2,2015-10-28,2020-02-11,Ford Global Technologies, Llc,Vehicle climate control valve and operating method
+    US10287923B2                      *,2015-12-18,2019-05-14,Cummins, Inc.,Flow and pressure estimators in a waste heat recovery system
+    US11077734B2                      *,2016-04-25,2021-08-03,Denso Corporation,Vehicle control system with idling stop control
+    JP7114920B2                      *,2018-02-07,2022-08-09,トヨタ自動車株式会社,HEAT ENERGY CONTROL SYSTEM, HEAT DISTRIBUTOR, HEAT ENERGY CONTROL METHOD OF VEHICLE
+
+abstract
+    A waste heat controller controls waste heat quantity of an engine according to a required heat quantity along with a heat-utilize requirement. When the heat-utilize requirement is generated, a fuel-increase-rate indicating a fuel increase quantity is computed. A reference fuel-increase-rate is established to be compared with the fuel-increase-rate. Based on this comparison result, it is determined whether the waste heat increase control will be executed.
+title
+    Controller for engine
+similar_document
+19
+    Publication,Publication Date,Title
+    US8823203B2,2014-09-02,Controller for engine
+    JP5131358B2,2013-01-30,Vehicle heat source control device
+    JP5998506B2,2016-09-28,Control device for hybrid vehicle
+    JP5783080B2,2015-09-24,Control device for hybrid vehicle
+    US8052066B2,2011-11-08,Heating control system for vehicle
+    EP2205458B1,2011-05-11,Hybrid system control apparatus and hybrid system control method
+    US9421846B2,2016-08-23,Vehicle control system
+    US10675946B2,2020-06-09,Vehicle air-conditioning control device
+    US9175631B2,2015-11-03,Vehicle control system
+    JP5071504B2,2012-11-14,Vehicle heat source control device
+    JP5104615B2,2012-12-19,Vehicle temperature riser
+    JP5982850B2,2016-08-31,Control device for hybrid vehicle
+    US20180258874A1,2018-09-13,Vehicle control device
+    JP6414087B2,2018-10-31,Vehicle air conditioner
+    US10913327B2,2021-02-09,Air conditioner for vehicle
+    JP5110112B2,2012-12-26,Vehicle power supply control device
+    CN217917518U,2022-11-29,Hybrid electric vehicle thermal management control system and hybrid electric vehicle
+    JP6032192B2,2016-11-24,Control device for hybrid vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    14
+classfication_items
+70
+    F
+    F,0,2
+    F,0,2,D
+    F,0,2,D,4,1,/,0,0
+    F,0,2,D,4,1,/,3,0
+    F,0,2,D,4,1,/,3,8
+    F,0,2,D,4,1,/,4,0
+    B
+    B,6,0
+    B,6,0,H
+    B,6,0,H,1,/,0,0
+    B,6,0,H,1,/,0,0,0,0,7
+    B
+    B,6,0
+    B,6,0,H
+    B,6,0,H,1,/,0,0
+    B,6,0,H,1,/,0,0,4,2,1
+    B,6,0,H,1,/,0,0,4,2,8
+    B,6,0,H,1,/,0,0,4,3,8
+    B
+    B,6,0
+    B,6,0,H
+    B,6,0,H,1,/,0,0
+    B,6,0,H,1,/,0,0,6,4,2
+    B,6,0,H,1,/,0,0,7,3,5
+    F
+    F,0,2
+    F,0,2,G
+    F,0,2,G,5,/,0,0
+    F
+    F,0,2
+    F,0,2,D
+    F,0,2,D,2,2,0,0,/,0,0
+    F,0,2,D,2,2,0,0,/,0,2
+    F,0,2,D,2,2,0,0,/,0,2,1
+    F
+    F,0,2
+    F,0,2,D
+    F,0,2,D,2,2,0,0,/,0,0
+    F,0,2,D,2,2,0,0,/,0,2
+    F,0,2,D,2,2,0,0,/,0,4
+    F,0,2,D,2,2,0,0,/,0,4,1,4
+    F
+    F,0,2
+    F,0,2,D
+    F,0,2,D,4,1,/,0,0
+    F,0,2,D,4,1,/,0,2
+    F,0,2,D,4,1,/,0,4
+    F,0,2,D,4,1,/,0,8
+    F,0,2,D,4,1,/,0,8,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,1,0
+    Y,0,2,T,1,0,/,1,2
+    Y,0,2,T,1,0,/,1,6,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,1,0
+    Y,0,2,T,1,0,/,4,0
+    Y,0,2,T,1,0,/,4,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,8,0
+    Y,0,2,T,1,0,/,8,8
+
+application_events
+6
+    2010-11-10,Application filed by Denso Corp
+    2011-05-12,Publication of US20110109157A1
+    2014-09-02,Application granted
+    2014-09-02,Publication of US8823203B2
+    Status,Active
+    2033-07-03,Adjusted expiration
+
+active_area
+2
+    U,S
+    D,E
+
+not_active_area
+0
+
+patent_application_claiming_priority
+7
+    Application,Filing date,Title
+    JP2009-259012,2009-11-12,
+    JP2009259012A,2009-11-12,Engine waste heat control device
+    JP2010072923A,2010-03-26,Vehicle power supply control device
+    JP2010-72922,2010-03-26,
+    JP2010072922A,2010-03-26,Vehicle heat source control device
+    JP2010-72923,2010-03-26,
+
+legal_event
+6
+    Date,Code,Title,Description
+    2010-11-10,AS,Assignment,Owner name: DENSO CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:TANI, KEISUKE;REEL/FRAME:025342/0984Effective date: 20101104
+    2013-11-01,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2014-08-13,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2018-02-21,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551)Year of fee payment: 4
+    2022-02-24,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+

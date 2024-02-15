@@ -1,0 +1,212 @@
+ID
+    WO2016119948A1
+citation_exist
+    Patent Citations (4)
+citation_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    US4335337A                      *,1978-07-21,1982-06-15,Hitachi, Ltd.,Control system for electric motor vehicle
+    DE19809712A1                      *,1997-03-07,1998-09-10,Fuji Electric Co Ltd,Drehzahlvariable Antriebseinrichtung für Asynchronmaschinen
+    DE112011103765T5                      *,2010-11-15,2013-09-26,Hitachi Construction Machinery Co., Ltd.,Elektrisch angetriebenes Fahrzeug
+    Family To Family Citations,,,,
+    DE10025104B4                      *,2000-05-20,2009-09-10,Daimlerchrysler Rail Systems Gmbh,Traktionsregelung für ein Schienenfahrzeug
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (5)
+              
+
+
+citedBy_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    EP3346604A1                      *,2017-01-06,2018-07-11,Grzegorz Skarpetowski,Verfahren zum betrieb einer elektrischen asynchronmaschine
+    Family To Family Citations,,,,
+    CN111182953A                      *,2017-08-02,2020-05-19,锂莱克解决方案公司,用于锂提取的离子交换系统
+    JP2020025407A                      *,2018-08-08,2020-02-13,コニカミノルタ株式会社,モーター駆動装置
+    DE102019132246A1                      *,2019-11-28,2021-06-02,Schaeffler Technologies AG & Co. KG,Antriebsvorrichtung mit koaxialem oder achsparallelem 2-Gang-Getriebe
+    CN113085552B                      *,2019-12-23,2022-07-19,蜂巢传动系统(江苏)有限公司保定研发分公司,车辆电机的母线电压控制方法、系统
+
+abstract
+    Die Erfindung betrifft ein Verfahren zur gemeinsamen Regelung von Asynchronmaschinen (2; 3) eines Kraftfahrzeugs (1) mit einer ersten Asynchronmaschine (2) und einer zweiten Asynchronmaschine (3) zum Antreiben des Kraftfahrzeugs (1); einem Inverter (4), der dazu ausgebildet ist, die erste Asynchronmaschine (2) und die zweite Asynchronmaschine (3) mit einer gemeinsamen Statorspannung (5) bei einer gemeinsamen Statorfrequenz (6) zu versorgen. Das Verfahren umfasst die Schritte des Erfassens eines vorgegebenen Sollantriebsmoments (11) des Kraftfahrzeugs (1) für eine momentane Fahrsituation des Kraftfahrzeugs (1); des Erfassens einer ersten Drehzahl (7a) der ersten Asynchronmaschine (2) und einer zweiten Drehzahl (7b) der zweiten Asynchronmaschine (3); des Ermittelns einer gemeinsamen Betriebsstrategie der ersten Asynchronmaschine (2) und der zweiten Asynchronmaschine (3) gemäß dem vorgegebenen Solldrehmoment (11) unter Berücksichtigung der erfassten Drehzahlen (7a; 7b); und des Regelns der Statorspannung (5) und der Statorfrequenz (6) zur Einstellung der Antriebsmomente (9a; 9b) der Asynchronmaschinen (2; 3) gemäß der Betriebsstrategie.
+title
+    Steuervorrichtung und verfahren zur gemeinsamen regelung von asynchronmaschinen eines kraftfahrzeugs
+similar_document
+26
+    Publication,Publication Date,Title
+    DE102016123071B4,2019-12-19,Antriebskraftsteuersystem für ein Fahrzeug
+    DE102016123691B4,2022-08-18,Steuersystem für eine Antriebseinheit
+    DE19517567B4,2007-02-08,Antriebssteuersystem und Verfahren zum Steuern eines Akkumulatorenfahrzeugs
+    EP2694320B1,2019-05-15,Verfahren zum betreiben eines fahrzeugs
+    WO2016119948A1,2016-08-04,Steuervorrichtung und verfahren zur gemeinsamen regelung von asynchronmaschinen eines kraftfahrzeugs
+    EP2550171B1,2017-08-30,Fahrzeug mit zumindest zwei einzelradantriebseinheiten
+    DE19810656A1,1999-09-16,Verfahren und Vorrichtung zum statischen oder dynamischen Ermitteln von Sollwerten für Bremskräfte oder Bremsmomente
+    DE10341676A1,2004-03-25,Regelverfahren und System zum Bremsen und zur Steuerbarkeit eines Fahrzeuges mit Nutzbremsung
+    EP2560835A1,2013-02-27,Antriebsvorrichtung für ein allradgetriebenes fahrzeug und verfahren zur verteilung des antriebsmoments auf einen vorderachsantrieb und einen hinterachsantrieb
+    DE102013100211A1,2013-08-22,Elektronisches Stabilitätskontrollsystem für ein Fahrzeug mit Elektroantrieb
+    WO2011076534A1,2011-06-30,Verfahren und vorrichtung zur verteilung eines antriebsmomentes auf die räder einer elektrisch angetriebenen achse eines kraftfahrzeuges
+    DE102018103483B4,2023-05-11,Antriebskraftregelungssystem
+    DE102019127034A1,2020-04-09,Schätzung der fahrzeuggeschwindigkeit bei fahrzeugen mit allradantrieb
+    WO2015135627A1,2015-09-17,Verfahren zur ansteuerung von e-motoren bei seriellen hybridfahrzeugen oder vollelektrischen fahrzeugen mit mindestens zwei separat angetriebenen achsen
+    EP3544849A1,2019-10-02,Allradsystem für ein elektrisches kraftfahrzeug und verfahren zum betreiben eines allradsystems eines solchen fahrzeugs
+    DE102019120749A1,2020-02-06,Antriebssystem und Verfahren für Fahrzeug, das mehrere Elektromotoren nutzt
+    WO2018028854A1,2018-02-15,Verfahren und vorrichtung zum betreiben eines kraftfahrzeugs, kraftfahrzeug
+    DE112014006541T5,2016-12-15,Fahrzeugtraktions-Steuervorrichtung
+    DE102018110129A1,2018-11-22,Antriebskraftsteuerungssystem
+    EP3110651B1,2022-11-09,Steuereinrichtung und verfahren zur antriebsschlupfregelung für ein elektrisches antriebssystem
+    EP3074258A1,2016-10-05,Vorrichtungen und verfahren zum verteilen einer gesamtsollmoment-vorgabe
+    DE102007022849A1,2008-11-20,Fahrerunterstützungssystem mit mehreren elektrischen Maschinen
+    EP3793871B1,2023-01-25,System für ein elektrisch angetriebenes fahrzeug sowie fahrzeug damit
+    DE102013113658B4,2022-04-14,Verfahren zum Betreiben eines Triebstranges
+    DE102010036685B4,2023-10-05,Verfahren zum Ansteuern einer Bremsvorrichtung eines Hybridfahrzeugs und Bremsvorrichtung zum Bremsen des Hybridfahrzeugs
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US15/545,363,2015-01-26,2015-11-27,Control device and method for jointly controlling asynchronous machines of a motor vehicle
+
+inventor_number
+    3
+classfication_nums
+    18
+classfication_items
+103
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,5,/,0,0
+    H,0,2,P,5,/,7,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,0
+    B,6,0,L,3,/,1,0,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,1,0
+    B,6,0,L,2,2,2,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,2,/,0,0
+    B,6,0,W,2,5,5,2,/,4,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,5,/,0,0
+    B,6,0,W,2,5,5,5,/,2,0
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,2,0,7,/,0,0
+    H,0,2,P,2,2,0,7,/,0,1
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,3
+
+application_events
+3
+    2015-11-27,Application filed by Robert Bosch Gmbh
+    2015-11-27,Priority to US15/545,363
+    2016-08-04,Publication of WO2016119948A1
+
+active_area
+3
+    D,E
+    U,S
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    DE102015201256.5,2015-01-26,
+    DE102015201256.5A,2015-01-26,Steuervorrichtung und Verfahren zur gemeinsamen Regelung von Asynchronmaschinen eines Kraftfahrzeugs
+
+legal_event
+5
+    Date,Code,Title,Description
+    2016-09-14,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 15801431Country of ref document: EPKind code of ref document: A1
+    2017-07-21,WWE,Wipo information: entry into national phase,Ref document number: 15545363Country of ref document: US
+    2017-07-27,NENP,Non-entry into the national phase,Ref country code: DE
+    2018-02-21,122,Ep: pct application non-entry in european phase,Ref document number: 15801431Country of ref document: EPKind code of ref document: A1
+

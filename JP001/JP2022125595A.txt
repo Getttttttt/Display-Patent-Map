@@ -1,0 +1,212 @@
+ID
+    JP2022125595A
+citation_exist
+    Patent Citations (16)
+citation_infor
+18
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP3410022B2                      *,1998-05-20,2003-05-26,本田技研工業株式会社,ハイブリッド車両の制御装置
+    JP4134706B2                      *,2002-12-10,2008-08-20,日産自動車株式会社,車両用制動装置
+    GB0229097D0                      *,2002-12-13,2003-01-15,Bombardier Transp Gmbh,Braking system and braking control method
+    JP2006224768A,2005-02-16,2006-08-31,Toyota Motor Corp,バッテリの飽和に備えた回生制動制御を含む車輌用制動装置
+    JP5262692B2                      *,2008-12-25,2013-08-14,日産自動車株式会社,車両のブレーキ操作の評価装置、車両のブレーキ操作の評価方法、ブレーキ制御装置及びバッテリ制御装置
+    JP5774336B2,2011-03-18,2015-09-09,ニチユ三菱フォークリフト株式会社,車両および車両の制御装置ならびに車両の制御方法
+    IN2014DN06871A                      *,2012-02-26,2015-05-22,Toyota Motor Co Ltd,
+    JP2017028914A                      *,2015-07-24,2017-02-02,トヨタ自動車株式会社,車両制御装置
+    JP6730020B2                      *,2015-11-25,2020-07-29,三菱重工エンジニアリング株式会社,ブレーキ制御装置、ブレーキ制御方法、列車、及びプログラム
+    US10076962B2                      *,2016-07-14,2018-09-18,Faraday & Future Inc.,Braking control method and system for a vehicle
+    JP6400648B2                      *,2016-09-29,2018-10-03,ダイムラー・アクチェンゲゼルシャフトＤａｉｍｌｅｒ ＡＧ,電気自動車の回生制御装置
+    JP6508178B2                      *,2016-12-02,2019-05-08,トヨタ自動車株式会社,車両用ブレーキシステム
+    JP6693400B2                      *,2016-12-06,2020-05-13,株式会社デンソー,車両用制御システム
+    CN108995538A                      *,2018-08-09,2018-12-14,金龙联合汽车工业（苏州）有限公司,一种电动汽车的无人驾驶系统
+    JP7283889B2                      *,2018-11-28,2023-05-30,株式会社Subaru,車両制御装置
+    CN111674265B                      *,2020-05-21,2023-05-23,中国汽车技术研究中心有限公司,一种电动自动驾驶汽车制动能量监控装置及方法
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    CN115416631A                      *,2022-09-19,2022-12-02,江苏鑫贝通科技有限公司,一种电动叉车再生制动力分配系统
+
+abstract
+    【課題】回生制動を用いる自動運転で降坂中の産業車両において回生制動の中断が生じることを、ブレーキペダル操作に基づくことなく抑制することができる産業車両の制動制御装置を提供する。【解決手段】産業車両の制動制御装置は、回生制動力を生じる走行モータと機械制動力を生じる機械ブレーキとを制動部として備え、回生制動力でバッテリが充電される。産業車両の制動制御装置は、産業車両の車速情報を取得する車速情報取得部と、走行モータの回生電流を取得する回生電流取得部と、車速情報に基づいて、降坂中の産業車両の車速を目標車速とするための回生制動力を含む必要制動力にて自動運転を実行する自動運転制御部と、取得された回生電流が、最大回生電流よりも小さい第１電流値以下となるように、必要制動力のうちの機械制動力の配分を調整する制動力制御部と、を備える。【選択図】図４
+title
+    産業車両の制動制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    CN105263777A,2016-01-20,车辆牵引力控制
+    US20180154777A1,2018-06-07,Braking torque blending system and method for automatic emergency braking
+    CN104755339A,2015-07-01,用于控制车辆速度的系统和方法
+    CN105683018A,2016-06-15,车辆速度控制的改进
+    JP6533231B2,2019-06-19,車両速度制御システムおよび車両速度制御方法
+    CN104583031A,2015-04-29,具有外力补偿的车辆速度控制系统和方法
+    CN114454866A,2022-05-10,用于重型车辆的基于车轮滑移的车辆运动管理
+    EP2589510B1,2020-04-08,Driving-force control apparatus for electric vehicle
+    CN104661888A,2015-05-27,车辆速度控制系统以及方法
+    CN105683016A,2016-06-15,车辆速度控制系统
+    CN104718113A,2015-06-17,采用扭矩平衡的车辆速度控制系统和方法
+    US20180215381A1,2018-08-02,Automatic speed control of a vehicle traversing a water obstacle
+    CN104684776A,2015-06-03,车辆速度控制系统
+    JP2007168502A,2007-07-05,ハイブリッド車両の車間制御装置
+    EP3892508A1,2021-10-13,System for smart coupling between a road implement and a tractor vehicle, system and method for managing the actuation of auxiliary traction on road implements
+    CN110235072A,2019-09-13,控制车辆的运动
+    EP4046853A1,2022-08-24,Braking control device of industrial vehicle
+    CA3085611A1,2021-01-05,A method for autonomously controlling a vehicle
+    CN114286760A,2022-04-05,具有升降桥的机动车辆及其运行方法
+    JP2022107317A,2022-07-21,車両制御装置
+    CN104105630A,2014-10-15,减速因子推定装置
+    WO2022075005A1,2022-04-14,産業車両の制動制御装置
+    US20230079946A1,2023-03-16,Lift device and method of controlling on a grade
+    JP2022125603A,2022-08-29,産業車両の制動制御装置
+    CN115867456A,2023-03-28,用于控制车辆装置的转向的方法
+
+patent_application
+    NoExist
+patent_priority_application
+8
+    Application,Priority date,Filing date,Title
+    JP2021023269A,2021-02-17,2021-02-17,産業車両の制動制御装置
+    CA3146143A,2021-02-17,2022-01-19,Braking control device of industrial vehicle
+    EP22154733.4A,2021-02-17,2022-02-02,Braking control device of industrial vehicle
+    AU2022200822A,2021-02-17,2022-02-08,Braking control device of industrial vehicle
+    TW111104661A,2021-02-17,2022-02-09,產業車輛之制動控制裝置
+    US17/671,094,2021-02-17,2022-02-14,Braking control device of industrial vehicle
+    CN202210151182.7A,2021-02-17,2022-02-15,工业车辆的制动控制装置
+
+inventor_number
+    6
+classfication_nums
+    15
+classfication_items
+88
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,0,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,1
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,9,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,4,0
+    B,6,0,L,2,2,0,0,/,4,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,3,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,5,0,/,0,0
+    B,6,0,T,2,2,5,0,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,2,4
+    B,6,0,W,2,7,1,0,/,2,4,2
+    B,6,0,W,2,7,1,0,/,2,4,8
+
+application_events
+4
+    2021-02-17,Application filed by Toyota Industries Corp
+    2021-02-17,Priority to JP2021023269A
+    2022-08-29,Publication of JP2022125595A
+    Status,Pending
+
+active_area
+7
+    J,P
+    C,A
+    E,P
+    A,U
+    T,W
+    U,S
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2021023269A,2021-02-17,産業車両の制動制御装置
+
+legal_event
+2
+    Date,Code,Title,Description
+    2023-05-16,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20230516
+

@@ -1,0 +1,199 @@
+ID
+    US10501061B2
+citation_exist
+    Patent Citations (14)
+citation_infor
+16
+    Publication number,Priority date,Publication date,Assignee,Title
+    US6017102A,1996-11-18,2000-01-25,Toyota Jidosha Kabushiki Kaisha,Automatic-braking control system for a motor vehicle
+    US6378957B1,1998-04-30,2002-04-30,Scania Cv Aktiebolag,Arrangement for controlling vehicle braking
+    KR20030016663A,2001-08-21,2003-03-03,현대자동차주식회사,brake system for an automotive vehicle
+    DE102004009417A1,2004-02-24,2005-09-08,Continental Teves Ag & Co. Ohg,Vehicle inclination angle determination method in which the vehicle's height is measured in two positions, the separation between the positions is determined and the results combined to determine the longitudinal inclination
+    DE102006031231A1,2006-07-06,2008-01-10,Bayerische Motoren Werke Ag,Motor vehicle brake control, with an electronic control unit, applies a brake force according to detected tire impact forces
+    US20090273231A1,2006-07-25,2009-11-05,Josef Knechtges,Method and control device for stopping a motor vehicle without jolting
+    GB2492748A,2011-07-04,2013-01-16,Land Rover Uk Ltd,Vehicle control system that evaluates driving condition indicators
+    DE102011112422A1,2011-09-03,2013-03-07,Volkswagen Aktiengesellschaft,Method for a vehicle safety system and corresponding device
+    WO2014027071A1,2012-08-16,2014-02-20,Jaguar Land Rover Limited,Vehicle speed control system and method with external force compensation
+    US9139172B2                      *,2007-02-28,2015-09-22,Lucas Automotive Gmbh,Method and device for speed regulation when travelling on an incline
+    US20160185350A1                      *,2013-08-07,2016-06-30,Jaguar Land Rover Limited,Vehicle speed control system and method
+    Family To Family Citations,,,,
+    US6528959B2                      *,2000-07-19,2003-03-04,Honda Giken Kogyo Kabushiki Kaisha,Driving force control system for front-and-rear wheel drive vehicles
+    EP1355209A1                      *,2002-04-18,2003-10-22,Ford Global Technologies, LLC,Vehicle control system
+    DE102005041070A1                      *,2005-08-30,2007-03-08,Lucas Automotive Gmbh,System for controlling the downhill of a motor vehicle
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (5)
+              
+
+
+citedBy_exist
+    
+              Cited By (11)
+              
+
+
+citedBy_infor
+13
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    DE102016208077B4                      *,2016-05-11,2022-06-02,Ford Global Technologies, Llc,Method for operating a motor vehicle with a brake hold assistant
+    GB201618139D0,2016-10-27,2016-12-14,Jaguar Land Rover Ltd,Control system for a vehicle and method
+    JP7047347B2                      *,2017-11-29,2022-04-05,株式会社アドヴィックス,Vehicle braking control device
+    JP6984353B2                      *,2017-11-29,2021-12-17,株式会社アドヴィックス,Vehicle braking control device
+    GB2571304B                      *,2018-02-23,2021-02-24,Jaguar Land Rover Ltd,A control system and method for controlling a torque generator
+    CN110027379A                      *,2019-04-22,2019-07-19,爱驰汽车有限公司,Active suspension self-adapting regulation method, system, equipment and storage medium
+    KR20210092348A                      *,2020-01-15,2021-07-26,현대자동차주식회사,System and method for sensing brake judder in the vehicle
+    US20210237699A1                      *,2020-02-05,2021-08-05,Ford Global Technologies, Llc,Alternating braking method for smooth stopping from adaptive cruise control
+    KR20210156885A                      *,2020-06-17,2021-12-28,현대자동차주식회사,Control system when Brake-By-wire device
+    US11192536B1                      *,2020-07-21,2021-12-07,Honda Motor Co., Ltd.,Brake torque distribution system using all-wheel-drive mode of powertrain, vehicle including same, and method
+    CN114312702A                      *,2022-01-06,2022-04-12,奇瑞新能源汽车股份有限公司,Braking method and device for electric vehicle, electric vehicle and storage medium
+
+abstract
+    A method of controlling the braking of a vehicle descending a slope. The method includes receiving one or more electrical signals each indicative of a value of a respective vehicle-related parameter. The method further includes detecting that the vehicle is descending a slope based on the value(s) of one or more of the vehicle-related parameters. The method still further includes automatically modifying an amount of brake torque being applied to at least certain of the wheels of the vehicle in response to the detection of the vehicle descending a slope by increasing the amount of brake torque being applied to one or more trailing wheels of the vehicle, and decreasing the amount of brake torque being applied to one or more leading wheels of the vehicle.
+title
+    Controlling the braking of a vehicle descending a slope
+similar_document
+8
+    Publication,Publication Date,Title
+    US10501061B2,2019-12-10,Controlling the braking of a vehicle descending a slope
+    AU2015309173B2,2018-11-22,Controlling the deceleration of a vehicle
+    US10518771B2,2019-12-31,System and method for controlling vehicle speed
+    US10507809B2,2019-12-17,Controlling the operation of a vehicle brake system
+    EP2885174B1,2019-05-01,Vehicle speed control system and method with external force compensation
+    AU2015306392B2,2019-02-21,Automatic speed control of a vehicle traversing a water obstacle
+    US10421442B2,2019-09-24,Managing vehicle deceleration
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    14
+classfication_items
+82
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,5,5
+    B,6,0,T,8,/,1,7,5,5,1
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,2,4
+    B,6,0,T,8,/,2,4,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,1,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,1
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,6
+    B,6,0,T,8,/,1,7,6,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,2,6
+    B,6,0,T,8,/,2,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,7,2
+    B,6,0,T,8,/,7,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,0,1,/,0,0
+    B,6,0,T,2,2,0,1,/,0,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,0,1,/,0,0
+    B,6,0,T,2,2,0,1,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,1,0,/,0,0
+    B,6,0,T,2,2,1,0,/,1,0
+    B,6,0,T,2,2,1,0,/,1,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,1,0,/,0,0
+    B,6,0,T,2,2,1,0,/,1,0
+    B,6,0,T,2,2,1,0,/,1,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,3,0,/,0,0
+    B,6,0,T,2,2,3,0,/,0,4
+
+application_events
+7
+    2015-10-21,Application filed by Jaguar Land Rover Ltd
+    2017-08-17,Publication of US20170232944A1
+    2018-01-25,Assigned to JAGUAR LAND ROVER LIMITED
+    2019-12-10,Application granted
+    2019-12-10,Publication of US10501061B2
+    Status,Active
+    2035-12-17,Adjusted expiration
+
+active_area
+6
+    G,B
+    C,N
+    U,S
+    A,U
+    W,O
+    E,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    GB1419333.8,2014-10-30,
+    GB1419333.8A,2014-10-30,Controlling the braking of a vehicle descending a slope
+    PCT/EP2015/074313,2015-10-21,Controlling the braking of a vehicle descending a slope
+
+legal_event
+8
+    Date,Code,Title,Description
+    2018-01-25,AS,Assignment,Owner name: JAGUAR LAND ROVER LIMITED, UNITED KINGDOMFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:OWEN, SIMON;RICHARDS, KARL;SIGNING DATES FROM 20170523 TO 20170530;REEL/FRAME:044725/0569
+    2019-02-10,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2019-04-30,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2019-08-01,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2019-08-16,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2019-11-20,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2023-05-24,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

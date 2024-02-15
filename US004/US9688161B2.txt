@@ -1,0 +1,244 @@
+ID
+    US9688161B2
+citation_exist
+    Patent Citations (17)
+citation_infor
+19
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPS63259141A,1987-04-17,1988-10-26,Honda Motor Co Ltd,Driving force control device for vehicle
+    US4860847A,1987-04-17,1989-08-29,Honda Giken Kogyo Kabushiki Kaisha,Vehicle traction control device
+    JPH02299402A,1989-05-12,1990-12-11,Nippon Yusoki Co Ltd,Acceleration slip detection method and acceleration control method in electric vehicle
+    JPH08182119A,1994-12-22,1996-07-12,Toyota Motor Corp,Control method of traveling motor for electric vehicle
+    EP1541406A1,2002-09-20,2005-06-15,Toyota Jidosha Kabushiki Kaisha,Slip control device for vehicle, vehicle mounted with the device, and the method of controlling vehicle slip
+    US20050150702A1,2003-12-25,2005-07-14,Norikazu Matsuzaki,Four-wheel drive system
+    JP2006050863A,2004-08-09,2006-02-16,Nissan Motor Co Ltd,Controller of motor for vehicle
+    US20070038340A1,2005-08-10,2007-02-15,Hitachi, Ltd.,Running controller and electric running control system for electric vehicle
+    CN101765531A,2007-07-27,2010-06-30,丰田自动车株式会社,Driving force controller of vehicle
+    JP2011105072A,2009-11-13,2011-06-02,Honda Motor Co Ltd,Control device of inverted-pendulum type vehicle
+    JP2012121447A,2010-12-08,2012-06-28,Toyota Motor Corp,Drive system for vehicle
+    JP2012186927A,2011-03-07,2012-09-27,Ntn Corp,Electric vehicle
+    WO2012144058A1,2011-04-21,2012-10-26,パイオニア株式会社,Torque distribution device, torque distribution method, torque distribution value generation method and program
+    WO2013077409A1,2011-11-24,2013-05-30,Ntn株式会社,Electric vehicle control device
+    JP2013106390A,2011-11-11,2013-05-30,Ntn Corp,Electric vehicle
+    US9126583B2                      *,2011-08-09,2015-09-08,Nissan Motor Co., Ltd.,Control device for hybrid vehicle
+    US20160075256A1,2013-06-03,2016-03-17,Ntn Corporation,Slip control device for electric vehicle
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (5)
+              
+
+
+citedBy_exist
+    
+              Cited By (12)
+              
+
+
+citedBy_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN108386324A                      *,2018-04-25,2018-08-10,浙江运达风电股份有限公司,A kind of wind-driven generator torque limiter health monitor method and device
+    Family To Family Citations,,,,
+    FR3037875B1                      *,2015-06-26,2017-07-07,Ifp Energies Now,METHOD FOR DETERMINING A DANGEROSITY INDICATOR OF THE DRIVING OF A VEHICLE
+    KR101944485B1                      *,2016-08-24,2019-02-01,주식회사 브이씨텍,Speed control apparatus for low speed electric vehicle
+    JP2018061306A                      *,2016-10-03,2018-04-12,Ntn株式会社,Drive source control device
+    EP3562702A1,2016-12-30,2019-11-06,Elaphe Propulsion Technologies Ltd.,Arrangement for determining maximum allowable torque
+    JP2018144576A                      *,2017-03-03,2018-09-20,Ntn株式会社,Vehicle control device
+    DE102017216020A1                      *,2017-09-12,2019-03-14,Audi Ag,Method and device for determining a wheel slip information of an electrically driven wheel of a motor vehicle
+    GB2570869A                      *,2018-01-31,2019-08-14,Jaguar Land Rover Ltd,Torque control module
+    CN110901413B                      *,2019-12-10,2023-04-07,合肥阳光电动力科技有限公司,Automobile torque control method and device
+    CN111746300B                      *,2020-06-19,2021-11-12,智新控制系统有限公司,Anti-skid control method for driving centralized driving electric automobile and storage medium
+    CN113536486B                      *,2021-07-27,2023-05-12,重庆大学,Bearing slip state evaluation method
+    WO2023077024A1                      *,2021-10-28,2023-05-04,Atieva, Inc.,Motor-acceleration based spin up control
+
+abstract
+    A slip control device for an electric vehicle which accurately determines slippage occurrence with only a rotation angle sensor for motor rotation control and perform rapid control to eliminate the slippage, is provided. A threshold calculation module (21) calculates a normal angular acceleration of a motor depending on a manipulation amount of an accelerator to obtain a threshold, and an angular acceleration calculator (22) differentiates a detection value from a rotation angle sensor (3 a) twice to calculate an angular acceleration. A slip determination (23) determines whether a drive wheel (7) has slipped, and a torque limitation (25) limits a torque when a slippage has occurred. The determination (23) determines the angular acceleration and a threshold. The determination (23) counts a number of consecutive times it is determined that the threshold is exceeded, and determines that a slippage has occurred, if the number of consecutive times has reached a set value. The limitation (25) limits a torque developed by a motor unit for a drive wheel laterally opposite to the drive wheel determined as having slipped.
+title
+    Slip control device for electric vehicle
+similar_document
+22
+    Publication,Publication Date,Title
+    US9688161B2,2017-06-27,Slip control device for electric vehicle
+    US9475396B2,2016-10-25,Slip control device for electric vehicle
+    US10093308B2,2018-10-09,Electronic stability control system for vehicle
+    WO2015141520A1,2015-09-24,Slip control device of electric automobile
+    US10099559B2,2018-10-16,Vehicle control device of four-wheel independent drive vehicle for when one wheel is lost
+    CN107074115B,2020-03-10,Wheel stability control based on torque of electric motor
+    US20150266487A1,2015-09-24,Centroid estimation device and centroid estimation method
+    US9555721B2,2017-01-31,Slip control device for electric vehicle
+    WO2012011437A1,2012-01-26,Abnormal torque evaluation apparatus for electrically driven vehicle
+    JP2016111834A,2016-06-20,Braking/driving force control device of vehicle
+    JP2014093844A,2014-05-19,Electric-vehicle control device
+    JP5527081B2,2014-06-18,Driving force estimation device for electric vehicle
+    US20140365058A1,2014-12-11,Drive control apparatus for vehicle
+    WO2015141519A1,2015-09-24,Slip control device of electric automobile
+    KR20210018652A,2021-02-18,Wheel slip control method for vehicle
+    JP7169461B2,2022-11-10,Control device
+    JP6422752B2,2018-11-14,Vehicle braking force control device
+    JP2011234510A,2011-11-17,Vehicle control device
+    KR20230037177A,2023-03-16,Wheel slip control method for vehicle
+    JP2016127713A,2016-07-11,Vehicle control device at one wheel failure in four-wheel independent drive vehicle
+    JP2014212583A,2014-11-13,Drive force controller for right/left wheel independent drive vehicle
+
+patent_application
+2
+    Application,Priority date,Filing date,Relation,Title
+    PCT/JP2014/067789,2013-07-08,2014-07-03,Continuation,Slip control device for electric vehicle
+
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    20
+classfication_items
+109
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,2,8,/,0,0
+    B,6,0,K,2,8,/,1,0
+    B,6,0,K,2,8,/,1,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,7,/,0,0
+    B,6,0,K,7,/,0,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,7,/,0,0
+    B,6,0,K,2,0,0,7,/,0,0,3,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,7,/,0,0
+    B,6,0,K,2,0,0,7,/,0,0,9,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,1,0
+    B,6,0,L,2,2,2,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,1,0
+    B,6,0,L,2,2,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,8
+    B,6,0,W,2,5,1,0,/,0,8,1
+    B,6,0,W,2,5,1,0,/,0,8,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,7,5
+
+application_events
+7
+    2015-12-22,Application filed by NTN Corp
+    2016-01-04,Assigned to NTN CORPORATION
+    2016-04-21,Publication of US20160107540A1
+    2017-06-27,Application granted
+    2017-06-27,Publication of US9688161B2
+    Status,Active
+    2034-07-09,Adjusted expiration
+
+active_area
+3
+    E,P
+    W,O
+    U,S
+
+not_active_area
+2
+    J,P
+    C,N
+
+patent_application_claiming_priority
+6
+    Application,Filing date,Title
+    JP2013-142303,2013-07-08,
+    JP2013142303,2013-07-08,
+    JP2014057453A,2014-03-20,Electric vehicle slip control device
+    JP2014-057453,2014-03-20,
+    PCT/JP2014/067789,2014-07-03,Slip control device for electric vehicle
+
+legal_event
+4
+    Date,Code,Title,Description
+    2016-01-04,AS,Assignment,Owner name: NTN CORPORATION, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:ZHANG, YINGJIE;OKADA, KOICHI;UCHIYAMA, NAOYUKI;SIGNING DATES FROM 20151129 TO 20151202;REEL/FRAME:037402/0025
+    2017-06-07,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2020-12-09,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

@@ -1,0 +1,237 @@
+ID
+    US20200021209A1
+citation_exist
+    Patent Citations (10)
+citation_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20070262735A1                      *,2006-05-10,2007-11-15,Honeywell International Inc.,System and method for regenerative energy control when multiple motors share a common power supply
+    US20080281480A1                      *,2007-05-09,2008-11-13,Denso Corporation,Control apparatus for electric vehicles
+    Family To Family Citations,,,,
+    US3583248A,1969-04-23,1971-06-08,Abex Ind Canada Ltd,Actuator with no-back mechanism
+    US5668421A,1995-04-06,1997-09-16,E. B. Eddy Forest Products Ltd.,Pressurized air-gap guided active linear motor suspension system
+    JP3761289B2,1996-09-26,2006-03-29,日本特殊陶業株式会社,Dielectric material, manufacturing method thereof, circuit board using the same, and multilayer circuit board
+    US7237748B2,2003-12-15,2007-07-03,Delos Aerospace, Llc,Landing gear method and apparatus for braking and maneuvering
+    US8335600B2                      *,2007-12-14,2012-12-18,The Boeing Company,Regenerative integrated actuation system and associated method
+    US20120013176A1,2010-07-13,2012-01-19,Hamilton Sundstrand Corporation,Enhanced EDU Energy Redistribution
+    US9190942B2,2010-07-22,2015-11-17,Parker-Hannifin Corporation,Near synchronous controlled induction motor drive actuation system
+    FR2990248B1,2012-05-04,2015-09-25,Aircelle Sa,CONTROL SYSTEM FOR THRUST INVERTER
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    US11427067B2                      *,2018-03-20,2022-08-30,Mazda Motor Corporation,Vehicle drive device
+    Family To Family Citations,,,,
+
+abstract
+    A system and method of managing power for an electric motor drive system is provided, where at least two electric motor drives are connected to a common power bus, each of the electric motor drives connected to at least one electric motor. A voltage of the common power bus is monitored, and upon the voltage of the common power bus exceeding a prescribed threshold voltage it is determined which of the at least two electric motor drives is operating in a mode other than a regeneration mode. The electric motor drive operating in a mode other than a regeneration mode is commanded to drive the connected motor into a load to dissipate the regenerated energy.
+title
+    Electric motor regenerated energy management method
+similar_document
+26
+    Publication,Publication Date,Title
+    US7378808B2,2008-05-27,Electric drive system having DC bus voltage control
+    CN103443637B,2016-08-10,DC bus voltage controls
+    US9018878B2,2015-04-28,Derating vehicle electric drive motor and generator components
+    US8886432B2,2014-11-11,Vehicle brake system and method of operating the same
+    US8629634B2,2014-01-14,Apparatus and method for optimizing current use during control of multiple motors
+    JP2010529920A5,2011-05-19,
+    BRPI1004866A2,2013-03-12,Method for managing the braking of an aircraft, and Braking system for an aircraft
+    CN104823370A,2015-08-05,Motor, control device and motor drive device
+    US5381279A,1995-01-10,Disk drive system with adjustable spindle and actuator power to improve seek and access performance
+    BR102018017325A2,2019-05-07,METHOD FOR BRAKING AN ENGINE IN AN AIRCRAFT HIGH SUSTAINING SYSTEM AND AN AIRCRAFT HIGH SUSTAINING SYSTEM
+    CN104210382B,2016-01-27,The method of vehicle and control motor
+    EP2858866B1,2019-04-24,Braking control system
+    US10862408B2,2020-12-08,Electric motor regenerated energy management method
+    US20180065488A1,2018-03-08,Apparatus and method for failsafe in electric corner module system
+    CN110466363A,2019-11-19,Motor control method, device, equipment and the computer readable storage medium of vehicle
+    US6828746B2,2004-12-07,Method and system using traction inverter for locked axle detection
+    BR112021012313A2,2021-08-31,VEHICLE AND BRAKING METHOD AND EQUIPMENT FOR THE SAME
+    JP7089868B2,2022-06-23,Electric motor device and electric brake device
+    US9688264B2,2017-06-27,Regenerative differential powertrain with vibration absorption and isolation
+    CN109476297B,2021-07-16,Electric brake device and electric brake system
+    CN105270393A,2016-01-27,Torque error detection and torque estimation system
+    US20120062155A1,2012-03-15,Retarding Grid Cooling System and Control
+    CN105946590A,2016-09-21,Apparatus and method for braking all-wheel independent drive inductive brushless electric vehicle
+    JP2017124785A,2017-07-20,Hybrid vehicle control device and brake control method for hybrid vehicle
+    DE102010052041A1,2012-05-24,Detecting the power distribution in a multi-drive machine
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US16/364,550,2018-07-12,2019-03-26,Electric motor regenerated energy management method
+
+inventor_number
+    2
+classfication_nums
+    20
+classfication_items
+119
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,3,/,0,0
+    H,0,2,P,3,/,0,6
+    H,0,2,P,3,/,0,8
+    H,0,2,P,3,/,1,4
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,7,/,0,0
+    B,6,0,K,1,7,/,3,4
+    B,6,0,K,1,7,/,3,5,4
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,7,/,0,0
+    B,6,0,K,1,7,/,3,4
+    B,6,0,K,1,7,/,3,5,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,7,/,0,0
+    B,6,0,K,7,/,0,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,0,2
+    B,6,0,L,7,/,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,2
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,5,/,0,0
+    H,0,2,P,5,/,6,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,7,/,0,0
+    B,6,0,K,2,0,0,7,/,0,0,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,2
+    B,6,0,L,2,2,4,0,/,5,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,1,8
+    B,6,0,Y,2,3,0,0,/,1,8,0,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,2,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+9
+    2019-03-26,Application filed by Parker Hannifin Corp
+    2019-03-26,Priority to US16/364,550
+    2019-09-06,Assigned to PARKER-HANNIFIN CORPORATION
+    2020-01-16,Publication of US20200021209A1
+    2020-12-08,Application granted
+    2020-12-08,Publication of US10862408B2
+    2021-06-01,Assigned to PARKER INTANGIBLES LLC
+    Status,Active
+    2039-05-24,Adjusted expiration
+
+active_area
+1
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    US201862696929P,2018-07-12,
+    US201862743574P,2018-10-10,
+    US16/364,550,2019-03-26,Electric motor regenerated energy management method
+
+legal_event
+7
+    Date,Code,Title,Description
+    2019-03-26,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2019-09-06,AS,Assignment,Owner name: PARKER-HANNIFIN CORPORATION, OHIOFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:POLCUCH, ERIC;REEL/FRAME:050295/0889Effective date: 20190325
+    2020-07-22,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2020-10-26,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2020-11-18,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2021-06-01,AS,Assignment,Owner name: PARKER INTANGIBLES LLC, OHIOFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:PARKER-HANNIFIN CORPORATION;REEL/FRAME:056440/0597Effective date: 20210524
+

@@ -1,0 +1,205 @@
+ID
+    WO2012111083A1
+citation_exist
+    Patent Citations (8)
+citation_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH1118214A                      *,1997-06-20,1999-01-22,Hiroshi Shimizu,電気自動車の制御装置
+    JP2002101693A                      *,2000-09-25,2002-04-05,Aisin Seiki Co Ltd,電動モータの制御装置
+    JP2009106130A                      *,2007-10-25,2009-05-14,Honda Motor Co Ltd,電動車両、および電動車両の回生制御方法
+    Family To Family Citations,,,,
+    JP3407057B2                      *,1996-12-05,2003-05-19,三菱ふそうトラック・バス株式会社,電気自動車の回生ブレーキ制御装置
+    JP3985766B2                      *,2003-10-15,2007-10-03,日産自動車株式会社,車両の駆動力制御装置
+    JP4127310B2                      *,2006-12-27,2008-07-30,トヨタ自動車株式会社,車両の制御装置、制御方法、その方法を実現するプログラムおよびそのプログラムを記録した記録媒体
+    JP4979639B2                      *,2008-06-11,2012-07-18,本田技研工業株式会社,電動車両、および電動車両の制御方法
+    CN101722950B                      *,2008-10-10,2015-04-01,通用汽车环球科技运作公司,用于控制动力系统的方法
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (7)
+              
+
+
+citedBy_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2014072974A                      *,2012-09-28,2014-04-21,Mazda Motor Corp,車両用制御装置
+    CN105083027A                      *,2014-05-12,2015-11-25,现代自动车株式会社,用于控制混合动力电动车的再生制动的方法和装置
+    WO2016103486A1                      *,2014-12-26,2016-06-30,株式会社安川電機,ブレーキ制御システム、ブレーキ制御方法、モータ、車両
+    EP3074255A4                      *,2013-11-28,2017-11-08,Scania CV AB,Method for braking a vehicle with a hybrid powertrain by controlled use of an electric machine
+    JP2018011430A                      *,2016-07-13,2018-01-18,トヨタ自動車株式会社,自動車
+    WO2022024770A1                      *,2020-07-31,2022-02-03,三菱自動車工業株式会社,車両の走行制御装置
+    Family To Family Citations,,,,
+    JP6394111B2                      *,2014-06-25,2018-09-26,トヨタ自動車株式会社,車両制御装置
+
+abstract
+    制御手段（１７）は、アクセル操作量と車速とに基づいて基本目標駆動力を算出する基本目標駆動力算出手段（１７Ａ）と、ブレーキ操作量に基づいて回生制動力を算出する回生制動力算出手段（１７Ｂ）と、基本目標駆動力を第１の変化率（α）で制限する駆動力制限手段（１７Ｃ）と、回生制動力を第２の変化率（β）で制限する回生制動力制限手段（１７Ｄ）と、駆動力制限手段（１７Ｃ）により制限された基本目標駆動力と回生制動力制限手段（１７Ｄ）により制限された回生制動力とを加算してモータ（４、５）から発生させる目標駆動力とする目標駆動力算出手段（１７Ｆ）とを備えている。　これにより、運転者の制動要求・駆動要求に応じた応答性を確保しつつ、制動力・駆動力の急変によるショック等の発生を防止できる。
+title
+    車両用制御装置
+similar_document
+26
+    Publication,Publication Date,Title
+    JP5672565B2,2015-02-18,車両用制御装置
+    JP4197013B2,2008-12-17,ハイブリッド車両の制御装置
+    US9242640B2,2016-01-26,Hybrid vehicle control device
+    JP5709093B2,2015-04-30,ハイブリッド車両のエンジン始動制御装置
+    JP4826657B2,2011-11-30,車両の制御装置
+    JP5668946B2,2015-02-12,車両用制御装置
+    JP5610090B1,2014-10-22,ハイブリッド車両の制御装置
+    WO2014087483A1,2014-06-12,ハイブリッド車両の制御装置
+    JP2011097666A,2011-05-12,自動車およびその制御方法
+    JP2018033290A,2018-03-01,電気自動車
+    JP3887967B2,2007-02-28,ハイブリッド車両およびその制御方法
+    JP5709092B2,2015-04-30,ハイブリッド車両のエンジン始動制御装置
+    JP2015160462A,2015-09-07,ハイブリッド自動車の変速制御方法
+    WO2012104963A1,2012-08-09,ハイブリッド車両
+    US20140179488A1,2014-06-26,Control apparatus and control method for hybrid vehicle
+    WO2022024753A1,2022-02-03,電動車両の駆動制御装置
+    KR20120059262A,2012-06-08,하이브리드 자동차의 운전점 제어장치 및 방법
+    JP3894049B2,2007-03-14,ハイブリッド車両とその制御装置
+    JP6493016B2,2019-04-03,ハイブリッド車両の制御装置
+    JP6071954B2,2017-02-01,ハイブリッド車両の制御装置
+    JP2021115968A,2021-08-10,ハイブリッド車両の制御装置
+    JP2020103002A,2020-07-02,車両の制振制御装置
+    JP2023137317A,2023-09-29,電動車両の動力配分装置
+    JP2012250626A,2012-12-20,ハイブリッド車両の制御装置
+    JP2012240654A,2012-12-10,ハイブリッド車両のエンジン制御装置
+
+patent_application
+    NoExist
+patent_priority_application
+4
+    Application,Priority date,Filing date,Title
+    PCT/JP2011/053099,2011-02-15,2011-02-15,車両用制御装置
+    CN201180070102.5A,2011-02-15,2011-02-15,车辆用控制装置
+    JP2012557691A,2011-02-15,2011-02-15,車両用制御装置
+
+inventor_number
+    7
+classfication_nums
+    14
+classfication_items
+86
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,4
+    B,6,0,K,6,/,4,4,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,2,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+5
+    2011-02-15,Application filed by スズキ株式会社
+    2011-02-15,Priority to PCT/JP2011/053099
+    2011-02-15,Priority to CN201180070102.5A
+    2011-02-15,Priority to JP2012557691A
+    2012-08-23,Publication of WO2012111083A1
+
+active_area
+2
+    W,O
+    J,P
+
+not_active_area
+1
+    C,N
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2011/053099,2011-02-15,車両用制御装置
+
+legal_event
+6
+    Date,Code,Title,Description
+    2011-02-15,WWE,Wipo information: entry into national phase,Ref document number: 201180070102.5Country of ref document: CN
+    2012-10-10,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 11858700Country of ref document: EPKind code of ref document: A1
+    2013-08-16,NENP,Non-entry into the national phase,Ref country code: DE
+    2013-10-01,ENP,Entry into the national phase,Ref document number: 2012557691Country of ref document: JPKind code of ref document: A
+    2014-03-12,122,Ep: pct application non-entry in european phase,Ref document number: 11858700Country of ref document: EPKind code of ref document: A1
+

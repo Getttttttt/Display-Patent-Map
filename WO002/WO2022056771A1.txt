@@ -1,0 +1,121 @@
+ID
+    WO2022056771A1
+citation_exist
+    Patent Citations (7)
+citation_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20140176321A1                      *,2012-12-20,2014-06-26,Automotive Research & Testing Center,Intuitive eco-driving assistance method and system
+    CN108058615A                      *,2016-11-09,2018-05-22,华为技术有限公司,车辆制动能量的回收方法和装置
+    CN108819726A                      *,2018-05-04,2018-11-16,合肥工业大学,基于制动效能一致性的制动能量回收控制方法及系统
+    CN108909459A                      *,2018-07-27,2018-11-30,爱驰汽车有限公司,电动汽车的能量回收方法、系统以及电动汽车
+    CN109895775A                      *,2017-12-08,2019-06-18,现代自动车株式会社,用于可变控制制动能量再生级别的系统及其方法
+    CN110696632A                      *,2019-10-08,2020-01-17,浙江吉利汽车研究院有限公司,一种汽车制动回馈方法、装置及车辆
+    CN111645684A                      *,2020-04-29,2020-09-11,北汽福田汽车股份有限公司,车辆制动能量回收方法、装置、存储介质及车辆
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN116101071A                      *,2022-12-28,2023-05-12,小米汽车科技有限公司,车辆制动方法、装置、车辆及介质
+    Family To Family Citations,,,,
+
+abstract
+    一种滑行能量回收方法、装置、电子设备及存储介质。当车辆处于滑行状态时，获取车辆的周围环境信息和当前车速；周围环境信息包括交通灯信息、障碍物信息和道路信息中的至少一种（S201）；从获取的车速与加速度对应关系确定当前车速对应的第一加速度（S203）；根据交通灯信息和/或障碍物信息和/或道路信息，以及当前车速确定第二加速度集合；第二加速度集合中第二加速度和第一加速度均小于等于零（S205）；从第一加速度和第二加速度集合中确定目标加速度（S207）；基于目标加速度确定电机回收扭矩值（S209）；根据电机回收扭矩值控制电机发电，并将电机产生的电能储存在车辆的电池中（S211）。如此，可以提升能量使用效率；同时，可以提高车辆的智能化水平，可以降低驾驶疲劳。
+title
+    一种滑行能量回收方法、装置、电子设备及存储介质
+similar_document
+26
+    Publication,Publication Date,Title
+    US20210262808A1,2021-08-26,Obstacle avoidance method and apparatus
+    CN111123952B,2021-12-31,一种轨迹规划方法及装置
+    EP3835908B1,2023-10-25,Automatic driving method, training method and related apparatuses
+    CN108058615B,2022-02-25,车辆制动能量的回收方法和装置
+    CN109204314B,2021-11-23,推进高效的自主驾驶策略
+    WO2021102955A1,2021-06-03,车辆的路径规划方法以及车辆的路径规划装置
+    CN113165665A,2021-07-23,使用人工智能的驾驶员行为学习和驾驶教练策略
+    CN112230642B,2022-01-11,道路可行驶区域推理方法及装置
+    CN110532846B,2022-09-16,自动换道方法、装置及存储介质
+    CN112429016B,2022-04-29,一种自动驾驶控制方法及装置
+    KR102563005B1,2023-08-04,차량 및 그 제어 방법
+    WO2021196879A1,2021-10-07,车辆驾驶行为的识别方法以及识别装置
+    EP4099118A1,2022-12-07,Vehicle control method and apparatus
+    CN113525373B,2023-04-28,一种车辆的变道控制系统、控制方法以及变道控制装置
+    WO2022022384A1,2022-02-03,车辆运动状态识别方法及装置
+    WO2022056771A1,2022-03-24,一种滑行能量回收方法、装置、电子设备及存储介质
+    CN113492830A,2021-10-12,一种车辆泊车路径规划方法及相关设备
+    US20230249660A1,2023-08-10,Electronic Mechanical Braking Method and Electronic Mechanical Braking Apparatus
+    US11745747B2,2023-09-05,System and method of adaptive distribution of autonomous driving computations
+    EP4159564A1,2023-04-05,Method and device for planning vehicle longitudinal motion parameters
+    CN113552869B,2023-07-07,优化决策规控的方法、控制车辆行驶的方法和相关装置
+    CN112810603B,2022-08-26,定位方法和相关产品
+    WO2021159397A1,2021-08-19,车辆可行驶区域的检测方法以及检测装置
+    CN113879127A,2022-01-04,滑行能量回收控制方法、控制装置、控制系统及车辆
+    EP4194299A1,2023-06-14,Method and apparatus for planning lane-changing trajectory
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    PCT/CN2020/115831,2020-09-17,2020-09-17,一种滑行能量回收方法、装置、电子设备及存储介质
+    CN202080102629.0A,2020-09-17,2020-09-17,一种滑行能量回收方法、装置、电子设备及存储介质
+
+inventor_number
+    6
+classfication_nums
+    3
+classfication_items
+16
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+4
+    2020-09-17,Application filed by 浙江吉利控股集团有限公司, 吉利汽车研究院（宁波）有限公司
+    2020-09-17,Priority to PCT/CN2020/115831
+    2020-09-17,Priority to CN202080102629.0A
+    2022-03-24,Publication of WO2022056771A1
+
+active_area
+1
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/CN2020/115831,2020-09-17,一种滑行能量回收方法、装置、电子设备及存储介质
+
+legal_event
+3
+    Date,Code,Title,Description
+    2022-05-04,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 20953629Country of ref document: EPKind code of ref document: A1
+    2023-04-18,NENP,Non-entry into the national phase,Ref country code: DE
+

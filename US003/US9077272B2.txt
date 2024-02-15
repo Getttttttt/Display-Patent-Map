@@ -1,0 +1,258 @@
+ID
+    US9077272B2
+citation_exist
+    Patent Citations (14)
+citation_infor
+16
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2002359935A,2001-05-31,2002-12-13,Komatsu Ltd,Charging/discharging control device for power storing part of hybrid work machine
+    US6666022B1                      *,1999-06-28,2003-12-23,Kobelco Construction Machinery Co., Ltd.,Drive device of working machine
+    US20040098983A1                      *,2002-11-21,2004-05-27,Komatsu Ltd.,Device arrangement structure for hybrid construction equipment
+    CN1668835A,2002-09-26,2005-09-14,日立建机株式会社,Prime mover controller for construction machine
+    WO2006004080A1,2004-07-05,2006-01-12,Komatsu Ltd.,Rotation control device, rotation control method, and construction machine
+    JP2009235707A,2008-03-26,2009-10-15,Sumitomo Heavy Ind Ltd,Hybrid construction machine
+    JP2010041828A,2008-08-05,2010-02-18,Sumitomo Heavy Ind Ltd,Battery charging/discharging control method
+    JP2010173599A,2009-02-02,2010-08-12,Sumitomo Heavy Ind Ltd,Control method for hybrid type operation machinery, and control method for servo control system
+    US20110227512A1                      *,2010-03-17,2011-09-22,Kobelco Construction Machinery Co., Ltd,Slewing control device and working machine incorporated with the same
+    Family To Family Citations,,,,
+    JP4039355B2                      *,2003-10-29,2008-01-30,トヨタ自動車株式会社,Secondary battery control device and control method
+    JP4517703B2                      *,2004-04-01,2010-08-04,コベルコ建機株式会社,Swivel work machine
+    JP4609567B2                      *,2008-10-29,2011-01-12,コベルコ建機株式会社,Hybrid work machine
+    JPWO2010100748A1                      *,2009-03-06,2012-09-06,トヨタ自動車株式会社,Control device and control method for hybrid vehicle
+    KR101360698B1                      *,2009-06-09,2014-02-07,스미도모쥬기가이고교 가부시키가이샤,Hybrid excavator and controlling method therefor
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (15)
+              
+
+
+citedBy_infor
+17
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20150090506A1                      *,2012-03-26,2015-04-02,Kobelco Construction Machinery Co., Ltd.,Power transmission device and hybrid construction machine provided therewith
+    Family To Family Citations,,,,
+    JP5590074B2                      *,2012-06-26,2014-09-17,コベルコ建機株式会社,Swivel work machine
+    JP6051857B2                      *,2012-12-28,2016-12-27,コベルコ建機株式会社,Construction machinery
+    JP6324661B2                      *,2013-03-29,2018-05-16,住友重機械工業株式会社,Excavator
+    JP6175886B2                      *,2013-05-10,2017-08-09,コベルコ建機株式会社,Hybrid construction machine
+    JP6318496B2                      *,2013-08-07,2018-05-09,コベルコ建機株式会社,Swivel motor speed control device for hybrid construction machinery
+    JP6197527B2                      *,2013-09-24,2017-09-20,コベルコ建機株式会社,Hybrid construction machinery
+    KR101739710B1                      *,2013-09-26,2017-05-25,두산인프라코어 주식회사,Apparatus and method for controlling swing motor using swing brake
+    JP6301160B2                      *,2014-02-28,2018-03-28,住友建機株式会社,Excavator
+    CN105939913B                      *,2014-03-06,2019-09-17,住友建机株式会社,Excavator
+    JP6362898B2                      *,2014-03-28,2018-07-25,住友重機械工業株式会社,Excavator
+    JP6466409B2                      *,2014-03-31,2019-02-06,住友建機株式会社,Excavator
+    CN113799623A,2015-05-28,2021-12-17,久益环球朗维尤运营有限公司,System, method and apparatus for storing energy in mining machinery
+    JP6396867B2                      *,2015-08-25,2018-09-26,日立建機株式会社,Hybrid construction machinery
+    AU2020253749A1                      *,2019-04-05,2021-11-18,Oshkosh Corporation,Battery management systems and methods
+
+abstract
+    A slewing-type working machine includes: an electric storage device capable of being charged with regenerative electric power for regenerating slewing energy of an upper slewing body while functioning as an electric power source for an electric slewing motor; an electric storage device and electric storage device controller detecting whether the electric storage device is under a normal condition with sufficient capacity to regenerate the slewing energy or under an abnormal condition without sufficient capacity; and a controller controlling a velocity of the electric slewing motor based on a result of detection by the electric storage device and electric storage device controller, wherein the controller performs a velocity limiting control for limiting a maximum velocity of the electric slewing motor when the electric storage device is under the abnormal condition.
+title
+    Slewing-type working machine
+similar_document
+23
+    Publication,Publication Date,Title
+    US9077272B2,2015-07-07,Slewing-type working machine
+    US7669413B2,2010-03-02,Hybrid construction machine
+    US8468816B2,2013-06-25,Hybrid working machine
+    US8421415B2,2013-04-16,Hybrid working machine having battery protecting function
+    KR102205871B1,2021-01-21,Power storage device controllers and transmission systems, and construction machinery
+    EP3208387B1,2020-12-09,Hybrid construction machinery
+    US9010088B2,2015-04-21,Working machine
+    US10538236B2,2020-01-21,Control apparatus for hybrid construction machine
+    KR101714948B1,2017-03-09,Construction machine
+    KR102215397B1,2021-02-10,Hybrid construction machine
+    JP6019956B2,2016-11-02,Power control device for hybrid construction machinery
+    US10100493B2,2018-10-16,Shovel
+    US20130151087A1,2013-06-13,Hybrid construction machine
+    JP2010041828A,2010-02-18,Battery charging/discharging control method
+    EP2770120B1,2020-12-02,Shovel and method of controlling shovel
+    CN105008625A,2015-10-28,Hybrid work machine
+    JP2009256988A,2009-11-05,Electrically-driven operating machine
+    KR101703484B1,2017-02-06,Power control device and hybrid construction machine provided with same
+    EP3309304B1,2021-04-28,Control device and control method for construction machine
+    JP2012233312A,2012-11-29,Hybrid work machine
+    JP5398647B2,2014-01-29,Hybrid construction machine
+    JP6578216B2,2019-09-18,Hybrid construction machine
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    26
+classfication_items
+125
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,7,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,2,0
+    B,6,0,L,1,1,/,1,4
+    B,6,0,L,1,1,/,1,8,6,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,0,8
+    E,0,2,F,9,/,1,0
+    E,0,2,F,9,/,1,2
+    E,0,2,F,9,/,1,2,1
+    E,0,2,F,9,/,1,2,8
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,0,5,8
+    E,0,2,F,9,/,2,0,9,1
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,0,5,8
+    E,0,2,F,9,/,2,0,9,5
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,6
+    E,0,2,F,9,/,2,6,7
+    E,0,2,F,9,/,2,6,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,4,0
+    B,6,0,L,2,2,0,0,/,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,8,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,0,5
+    Y,0,2,T,1,0,/,7,0,4,4
+    Y,0,2,T,1,0,/,7,0,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y,0,2,T,1,0,/,7,0,7,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,8,0
+    Y,0,2,T,1,0,/,9,2
+
+application_events
+7
+    2011-12-28,Application filed by Kobelco Construction Machinery Co Ltd
+    2013-08-05,Assigned to KOBELCO CONSTRUCTION MACHINERY CO., LTD.
+    2013-11-21,Publication of US20130307443A1
+    2015-07-07,Application granted
+    2015-07-07,Publication of US9077272B2
+    Status,Active
+    2032-06-02,Adjusted expiration
+
+active_area
+5
+    J,P
+    C,N
+    E,P
+    W,O
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2011020759A,2011-02-02,Swivel work machine
+    JP2011-020759,2011-02-02,
+    PCT/JP2011/007338,2011-12-28,Rotation-type working machine
+
+legal_event
+6
+    Date,Code,Title,Description
+    2013-08-05,AS,Assignment,Owner name: KOBELCO CONSTRUCTION MACHINERY CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:HIROZAWA, MITSUNORI;REEL/FRAME:030940/0093Effective date: 20130710
+    2015-06-17,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2015-12-04,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2018-12-28,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+    2022-12-21,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+

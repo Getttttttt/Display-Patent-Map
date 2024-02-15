@@ -1,0 +1,189 @@
+ID
+    JP2010098888A
+citation_exist
+    Patent Citations (2)
+citation_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH0799706A                      *,1993-09-28,1995-04-11,Nippondenso Co Ltd,電気自動車用補機バッテリ充電システム
+    JP2008074195A                      *,2006-09-20,2008-04-03,Toyota Motor Corp,ハイブリッド車両の電源制御装置および電源制御方法
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (10)
+              
+
+
+citedBy_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2012061917A                      *,2010-09-15,2012-03-29,Toyota Motor Corp,車両の電源制御装置
+    JP2013085454A                      *,2011-10-05,2013-05-09,Bombardier Transportation Gmbh,誘導モータで駆動される軌道走行車両の制動方法及び制動装置
+    US8994214B2,2011-08-09,2015-03-31,Bae Systems Controls Inc.,Hybrid electric generator set
+    JP2015139328A                      *,2014-01-23,2015-07-30,株式会社デンソー,車両用制御装置
+    JP2017192170A                      *,2016-04-11,2017-10-19,トヨタ自動車株式会社,車両
+    JP2019180207A                      *,2018-03-30,2019-10-17,本田技研工業株式会社,車両電源システム
+    JP2019180206A                      *,2018-03-30,2019-10-17,本田技研工業株式会社,車両電源システム
+    WO2021014961A1                      *,2019-07-25,2021-01-28,日立建機株式会社,電動車両
+    JP2021142810A                      *,2020-03-11,2021-09-24,本田技研工業株式会社,車両用電源装置
+    JP2021142824A                      *,2020-03-11,2021-09-24,本田技研工業株式会社,車両用電源装置
+    Family To Family Citations,,,,
+
+abstract
+    【課題】負荷状態に応じて損失を適切に抑制することを可能にする電源システムおよびその制御方法を提供する。【解決手段】ハイブリッド車両１００は、主負荷装置（インバータ２０，２２およびモータジェネレータＭＧ１，ＭＧ２）と、副負荷装置である補機装置１６とを備える。電源システムは、主蓄電装置（Ｂ１）と、主蓄電装置と主負荷装置との間で電力を伝達するための電力線（ＰＬ１，ＰＬ３）と、主蓄電装置と並列に電力線に接続されて、電力線の電圧を、補機装置１６を動作させるための電圧に変換して出力するコンバータ１４と、コンバータ１４の出力側に補機装置１６と並列に接続される副蓄電装置（Ｂ３）と、ＥＣＵ３０とを備える。ＥＣＵ３０は、要求パワーＰＲに応じてコンバータ１４を制御することにより、コンバータ１４の出力電圧（ＶＢ３）を変化させる。【選択図】図１
+title
+    電源システムおよびその制御方法
+similar_document
+26
+    Publication,Publication Date,Title
+    JP5315915B2,2013-10-16,電源システムおよびその制御方法
+    JP4179351B2,2008-11-12,電源システムおよびそれを備えた車両、電源システムの制御方法、ならびに電源システムの制御をコンピュータに実行させるためのプログラムを記録したコンピュータ読取可能な記録媒体
+    JP4305553B2,2009-07-29,電動車両
+    JP4367391B2,2009-11-18,充電制御装置および電動車両
+    JP5152408B2,2013-02-27,ハイブリッド車両およびその制御方法
+    WO2007142165A1,2007-12-13,車両駆動システムおよびそれを備える車両
+    JP5320988B2,2013-10-23,電源システムおよびその電力収支制御方法
+    JP2008005625A,2008-01-10,電圧変換装置およびそれを備えた車両
+    JP2007129799A,2007-05-24,モータ駆動装置およびそれを備えるハイブリッド車駆動装置
+    JP2011166990A,2011-08-25,電源システム
+    JP6019840B2,2016-11-02,電源装置の制御装置およびそれを搭載する車両
+    US9333863B2,2016-05-10,Vehicle, and control method and control device for vehicle
+    JP5326905B2,2013-10-30,電源システムおよびそれを備える電動車両、ならびに電源システムの制御方法
+    JP2018196277A,2018-12-06,自動車
+    JP2009038958A,2009-02-19,車両の制御装置および制御方法
+    JP2009261201A,2009-11-05,電源システムおよびそれを備えた車両
+    JP2009296847A,2009-12-17,車両の電源装置およびその制御方法
+    JP2010074885A,2010-04-02,電源システムおよびその制御方法
+    JP2010115050A,2010-05-20,車両の電源システム
+    JP5438328B2,2014-03-12,車両のモータ制御システム
+    JP4702333B2,2011-06-15,電源システムおよびそれを備えた電動車両
+    JP2014155298A,2014-08-25,電源システムおよびそれを搭載した車両
+    JP2013169140A,2013-08-29,電源システムおよびそれを備える電動車両、ならびに電源システムの制御方法
+    JP2010115056A,2010-05-20,電源システムおよび車両
+    JP2008022640A,2008-01-31,車両駆動装置、車両駆動装置の制御方法、車両駆動装置の制御方法をコンピュータに実行させるためのプログラム、およびそのプログラムを記録したコンピュータ読み取り可能な記録媒体
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    JP2008268920A,2008-10-17,2008-10-17,電源システムおよびその制御方法
+
+inventor_number
+    4
+classfication_nums
+    11
+classfication_items
+66
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,1,0
+    B,6,0,L,2,2,2,0,/,1,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2008-10-17,Application filed by Toyota Motor Corp
+    2008-10-17,Priority to JP2008268920A
+    2010-04-30,Publication of JP2010098888A
+    2013-10-16,Application granted
+    2013-10-16,Publication of JP5315915B2
+    Status,Active
+    2028-10-17,Anticipated expiration
+
+active_area
+1
+    J,P
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2008268920A,2008-10-17,電源システムおよびその制御方法
+
+legal_event
+15
+    Date,Code,Title,Description
+    2011-10-12,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20111011
+    2013-01-17,A977,Report on retrieval,Free format text: JAPANESE INTERMEDIATE CODE: A971007Effective date: 20130117
+    2013-01-30,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20130129
+    2013-03-16,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20130315
+    2013-06-07,TRDD,Decision of grant or rejection written,
+    2013-06-12,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20130611
+    2013-07-18,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20130624
+    2013-07-19,R151,Written notification of patent or utility model registration,Ref document number: 5315915Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R151
+    2020-04-07,S111,Request for change of ownership or part of ownership,Free format text: JAPANESE INTERMEDIATE CODE: R313113
+    2020-04-17,R350,Written notification of registration of transfer,Free format text: JAPANESE INTERMEDIATE CODE: R350
+    2020-07-09,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2021-07-15,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2022-07-15,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+    2023-07-13,R250,Receipt of annual fees,Free format text: JAPANESE INTERMEDIATE CODE: R250
+

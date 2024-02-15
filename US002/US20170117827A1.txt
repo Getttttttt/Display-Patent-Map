@@ -1,0 +1,209 @@
+ID
+    US20170117827A1
+citation_exist
+    Patent Citations (9)
+citation_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20170144650A1                      *,2015-11-19,2017-05-25,Toyota Jidosha Kabushiki Kaisha,Control device for hybrid vehicle
+    Family To Family Citations,,,,
+    JP2000078870A                      *,1998-08-31,2000-03-14,Murata Mach Ltd,Motor driving system
+    JP3671946B2                      *,2002-08-26,2005-07-13,日産自動車株式会社,Drive control device for motor four-wheel drive vehicle
+    CN1292937C                      *,2004-06-15,2007-01-03,浙江大学,Integrated electric power driving system of light traffic tool
+    JP4222337B2,2005-04-04,2009-02-12,トヨタ自動車株式会社,Power supply system having a plurality of power supplies and vehicle having the same
+    JP5286596B2                      *,2009-06-02,2013-09-11,本田技研工業株式会社,Control device for load drive system
+    BRPI1010762A2                      *,2009-06-10,2016-03-22,Honda Motor Co Ltd,"transformer control device"
+    JP4998591B2                      *,2010-05-24,2012-08-15,トヨタ自動車株式会社,Electric vehicle
+    JP2013193523A                      *,2012-03-16,2013-09-30,Toyota Motor Corp,Hybrid vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (10)
+              
+
+
+citedBy_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    EP3461678A1                      *,2017-10-02,2019-04-03,Toyota Jidosha Kabushiki Kaisha,Control of distribution of power between first and second propulsion motor for an electric vehicle
+    US10981462B2                      *,2018-05-25,2021-04-20,Honda Motor Co., Ltd.,Power supply system for vehicle
+    US11007883B2                      *,2018-03-30,2021-05-18,Honda Motor Co., Ltd.,Vehicle power supply system
+    US11135927B2                      *,2019-07-03,2021-10-05,Hyundai Motor Company,Four wheel drive vehicle
+    Family To Family Citations,,,,
+    US10137799B2                      *,2015-12-18,2018-11-27,Ford Global Technologies, Llc,System and method for controlling multiple electric drives
+    JP6730668B2                      *,2016-03-30,2020-07-29,三菱自動車工業株式会社,Vehicle drive device
+    JP6730667B2                      *,2016-03-30,2020-07-29,三菱自動車工業株式会社,Vehicle drive device
+    JP6646260B2                      *,2016-03-30,2020-02-14,三菱自動車工業株式会社,Vehicle drive system
+    DE102017210739A1                      *,2017-06-27,2018-12-27,Bayerische Motoren Werke Aktiengesellschaft,Drive train and method for operating a drive train
+    CN110435436A                      *,2019-08-20,2019-11-12,孙道斌,A kind of electric vehicle energy recycling continuation of the journey device based on bi-motor
+
+abstract
+    A drive control system includes a battery, a direct current/direct current converter, a first motor, a second motor, and a controller. The battery is a direct-current power supply. The direct current/direct current converter is connected to the battery. The first motor is connected to the direct current/direct current converter, and drives one of a front wheel and a rear wheel. The second motor is connected to the battery, and drives the other one of the front wheel and the rear wheel, which is different from the wheel that the first motor drives. The controller controls step-up operation of the direct current/direct current converter, and executes intermittent step-up control. When a required driving force of a vehicle changes during a stop of the direct current/direct current converter through the intermittent step-up control, the second motor outputs an amount of change in the required driving force.
+title
+    Drive control system for vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US9998039B2,2018-06-12,Drive control system for vehicle
+    KR101628148B1,2016-06-08,Regenerative brake apparatus of hybrid vehicle and method thereof
+    KR101085506B1,2011-11-23,Controller of hybrid vehicle and hybrid vehicle
+    JP6681002B2,2020-04-15,Power control device for hybrid vehicle
+    US9376103B2,2016-06-28,Traveling mode switching controller of hybrid electric vehicle
+    US9493150B2,2016-11-15,Control device for hybrid vehicle, and hybrid vehicle incorporating control device
+    JP5310959B2,2013-10-09,Vehicle charging device
+    US9242640B2,2016-01-26,Hybrid vehicle control device
+    US10661782B2,2020-05-26,Operation control system for hybrid vehicle
+    US20150019097A1,2015-01-15,Control system for vehicle
+    US8253356B2,2012-08-28,Vehicle control system
+    US9252630B2,2016-02-02,Battery charge control apparatus
+    JPWO2013018221A1,2015-03-05,Vehicle and vehicle control method
+    US9061682B2,2015-06-23,Hybrid vehicle and control method thereof
+    US20150291161A1,2015-10-15,Cruise control apparatus
+    JP2012045996A,2012-03-08,Power generation control device of hybrid vehicle
+    WO2015063556A1,2015-05-07,Power system of hybrid vehicle
+    US20130076128A1,2013-03-28,Active Switching Frequency Modulation
+    US9878701B2,2018-01-30,Hybrid vehicle
+    JP2007223560A,2007-09-06,Charging controller for hybrid car
+    JP2016019402A,2016-02-01,Vehicular drive control system
+    JP2019080398A,2019-05-23,Drive device
+    JP5709722B2,2015-04-30,Vehicle power supply
+    JP2016137833A,2016-08-04,Vehicle driving system and vehicle driving method
+    JP2012250657A,2012-12-20,Vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    14
+classfication_items
+88
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,5,/,0,0
+    H,0,2,P,5,/,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,4,5
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,/,0,0
+    B,6,0,K,1,/,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,0,8
+    H,0,2,M,1,/,0,8,8
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H,0,2,M,3,/,0,2
+    H,0,2,M,3,/,0,4
+    H,0,2,M,3,/,1,0
+    H,0,2,M,3,/,1,4,5
+    H,0,2,M,3,/,1,5,5
+    H,0,2,M,3,/,1,5,6
+    H,0,2,M,3,/,1,5,8
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,7,/,0,0
+    H,0,2,P,2,7,/,0,4
+    H,0,2,P,2,7,/,0,6
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,3,/,0,0
+    H,0,2,P,3,/,0,6
+    H,0,2,P,3,/,1,8
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,0,0,0,3
+    H,0,2,M,1,/,0,0,3,2
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,1,/,0,0
+    H,0,2,M,1,/,0,0,4,8
+    H,0,2,M,1,/,0,0,5,4
+    H,0,2,M,2,0,0,1,/,0,0,5,4
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H,0,2,M,3,/,0,2
+    H,0,2,M,3,/,0,4
+    H,0,2,M,3,/,1,0
+    H,0,2,M,3,/,1,4,5
+    H,0,2,M,3,/,1,5,5
+    H,0,2,M,3,/,1,5,6
+    H,0,2,M,3,/,1,5,8
+    H,0,2,M,3,/,1,5,8,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2015-04-27,Application filed by Toyota Motor Corp
+    2016-10-27,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2017-04-27,Publication of US20170117827A1
+    2018-06-12,Application granted
+    2018-06-12,Publication of US9998039B2
+    Status,Active
+    2035-04-27,Anticipated expiration
+
+active_area
+4
+    J,P
+    W,O
+    C,N
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2014-093907,2014-04-30,
+    JP2014093907,2014-04-30,
+    PCT/IB2015/000573,2015-04-27,Drive control system for vehicle
+
+legal_event
+4
+    Date,Code,Title,Description
+    2016-10-27,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:ONO, TOSHIKAZU;REEL/FRAME:040503/0550Effective date: 20160905
+    2018-05-23,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2021-11-24,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

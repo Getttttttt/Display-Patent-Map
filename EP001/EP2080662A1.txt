@@ -1,0 +1,213 @@
+ID
+    EP2080662A1
+citation_exist
+    Patent Citations (10)
+citation_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5710699A                      *,1996-05-28,1998-01-20,General Electric Company,Power electronic interface circuits for batteries and ultracapacitors in electric vehicles and battery storage systems
+    EP0825059A2                      *,1996-08-22,1998-02-25,Toyota Jidosha Kabushiki Kaisha,Controller for driving a permanent magnet type synchronous motor
+    US20040100149A1                      *,2002-11-22,2004-05-27,Jih-Sheng Lai,Topologies for multiple energy sources
+    JP2004357388A,2003-05-28,2004-12-16,Denso Corp,Polyphase multiplex control system
+    US20060012340A1,2004-06-03,2006-01-19,Hibiki Saeki,Method of determining voltage condition of fuel cell vehicle
+    US20060152085A1                      *,2004-10-20,2006-07-13,Fred Flett,Power system method and apparatus
+    WO2007066676A1                      *,2005-12-07,2007-06-14,Toyota Jidosha Kabushiki Kaisha,Multi-phase converter, hybrid fuel cell system, and power supply control method
+    Family To Family Citations,,,,
+    US6043634A                      *,1998-12-22,2000-03-28,Intel Corporation,Interleaved switching regulator
+    KR100595447B1                      *,2004-03-26,2006-07-03,삼성전자주식회사,Dc-dc converter and method of controlling the same
+    JP4665569B2                      *,2004-11-30,2011-04-06,トヨタ自動車株式会社,VOLTAGE CONVERTER AND COMPUTER-READABLE RECORDING MEDIUM RECORDING PROGRAM FOR CAUSING COMPUTER TO EXECUTE VOLTAGE CONVERSION IN VOLTAGE CONVERTER
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2014051018A                      *,2012-09-07,2014-03-20,Japan Steel Works Ltd:The,Dc voltage supply circuit of electric servo drive injection molding machine
+    Family To Family Citations,,,,
+
+abstract
+    Provided is a DC/DC converter apparatus comprising a plurality of switching devices and suitable for directly coupling two electric power devices. In direct couple control that directly couples a fuel cell (22) and motor (26) with a battery (24) without executing voltage-decreasing chopper control or voltage-increasing chopper control, rotation switching is performed, i.e. the converter controller (54) outputs drive signals (UH, VH, WH) of 100% duty ratio to each of upper arm devices (81u, 81v, 81w) in rotation. Thus, heat generation is prevented from concentrating on a particular upper arm device (81), compared to the case where the drive signals (UH, VH, WH) are continuously output to all upper arm devices (UH, VH, WH).
+title
+    Fuel cell vehicle and DC/DC converter apparatus
+similar_document
+21
+    Publication,Publication Date,Title
+    US7969039B2,2011-06-28,Method of controlling fuel cell vehicle and method of controlling DC/DC converter apparatus
+    US8222866B2,2012-07-17,Electrically-powered vehicle
+    US9236736B2,2016-01-12,Power supply system and method for controlling the same
+    US7728562B2,2010-06-01,Voltage link control of a DC-AC boost converter system
+    US9493092B2,2016-11-15,Electric automobile
+    US7362597B2,2008-04-22,AC voltage generating apparatus and motive power outputting apparatus
+    EP2202872B1,2013-01-16,Power supply device and vehicle including the same, control method for power supply device, and computer-readable  recording medium having program for causing computer to execute that control method recorded thereon
+    US9203314B2,2015-12-01,Converter controlling apparatus and multiphase converter
+    JP4611368B2,2011-01-12,DC / DC converter device, vehicle, fuel cell system, and driving method of DC / DC converter device
+    US8222763B2,2012-07-17,Method of controlling DC/DC converter apparatus
+    EP2073364B1,2013-07-24,Method of driving DC/DC converter and DC/DC converter
+    JP4769258B2,2011-09-07,VEHICLE POWER SYSTEM CONTROL METHOD AND VEHICLE POWER SYSTEM
+    CN108482102B,2022-11-04,Hybrid power driving system
+    EP2080662B1,2013-02-27,Fuel cell vehicle and DC/DC converter apparatus
+    JP5474681B2,2014-04-16,Electric car
+    JP6495412B1,2019-04-03,Power system
+    JP4704417B2,2011-06-15,Vehicle equipped with a DC / DC converter device
+    JP4829915B2,2011-12-07,DC / DC converter device, fuel cell vehicle, and control method of DC / DC converter device
+    JP2009159803A,2009-07-16,Dc/dc converter, dc/dc converter apparatus, vehicle, fuel cell system, and method of driving dc/dc converters
+    WO2010140227A1,2010-12-09,Converter control device
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    7
+classfication_nums
+    15
+classfication_items
+85
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,3,0
+    B,6,0,L,5,8,/,3,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,4,0
+
+application_events
+8
+    2008-01-16,Priority claimed from JP2008007182A
+    2008-03-25,Priority claimed from JP2008077259A
+    2009-01-14,Application filed by Honda Motor Co Ltd
+    2009-07-22,Publication of EP2080662A1
+    2013-02-27,Application granted
+    2013-02-27,Publication of EP2080662B1
+    Status,Expired - Fee Related
+    2029-01-14,Anticipated expiration
+
+active_area
+0
+
+not_active_area
+1
+    E,P
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2008007182A,2008-01-16,DC / DC converter device
+    JP2008077259A,2008-03-25,DC / DC converter device
+
+legal_event
+27
+    Date,Code,Title,Description
+    2009-06-19,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2009-07-22,17P,Request for examination filed,Effective date: 20090114
+    2009-07-22,AK,Designated contracting states,Kind code of ref document: A1Designated state(s): AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO SE SI SK TR
+    2009-07-22,AX,Request for extension of the european patent,Extension  state: AL BA RS
+    2009-09-30,17Q,First examination report despatched,Effective date: 20090901
+    2010-03-31,AKX,Designation fees paid,Designated state(s): DE GB
+    2012-09-17,GRAP,Despatch of communication of intention to grant a patent,Free format text: ORIGINAL CODE: EPIDOSNIGR1
+    2012-12-14,GRAS,Grant fee paid,Free format text: ORIGINAL CODE: EPIDOSNIGR3
+    2013-01-25,GRAA,(expected) grant,Free format text: ORIGINAL CODE: 0009210
+    2013-02-27,AK,Designated contracting states,Kind code of ref document: B1Designated state(s): DE GB
+    2013-02-27,REG,Reference to a national code,Ref country code: GBRef legal event code: FG4D
+    2013-04-25,REG,Reference to a national code,Ref country code: DERef legal event code: R096Ref document number: 602009013561Country of ref document: DEEffective date: 20130425
+    2014-01-03,PLBE,No opposition filed within time limit,Free format text: ORIGINAL CODE: 0009261
+    2014-01-03,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: NO OPPOSITION FILED WITHIN TIME LIMIT
+    2014-02-05,26N,No opposition filed,Effective date: 20131128
+    2014-03-13,REG,Reference to a national code,Ref country code: DERef legal event code: R097Ref document number: 602009013561Country of ref document: DEEffective date: 20131128
+    2014-11-20,REG,Reference to a national code,Ref country code: DERef legal event code: R084Ref document number: 602009013561Country of ref document: DE
+    2014-12-10,REG,Reference to a national code,Ref country code: GBRef legal event code: 746Effective date: 20141114
+    2014-12-31,REG,Reference to a national code,Ref country code: DERef legal event code: R084Ref document number: 602009013561Country of ref document: DEEffective date: 20141120
+    2015-05-29,PGFP,Annual fee paid to national office [announced via postgrant information from national office to epo],Ref country code: GBPayment date: 20150114Year of fee payment: 7
+    2016-09-28,GBPC,Gb: european patent ceased through non-payment of renewal fee,Effective date: 20160114
+    2016-10-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: GBFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20160114
+    2019-01-17,REG,Reference to a national code,Ref country code: DERef legal event code: R079Ref document number: 602009013561Country of ref document: DEFree format text: PREVIOUS MAIN CLASS: B60L0011180000Ipc: B60L0050500000
+    2019-04-30,PGFP,Annual fee paid to national office [announced via postgrant information from national office to epo],Ref country code: DEPayment date: 20190102Year of fee payment: 11
+    2020-08-01,REG,Reference to a national code,Ref country code: DERef legal event code: R119Ref document number: 602009013561Country of ref document: DE
+    2020-10-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: DEFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20200801
+

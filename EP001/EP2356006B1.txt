@@ -1,0 +1,371 @@
+ID
+    EP2356006B1
+citation_exist
+    Patent Citations (16)
+citation_infor
+18
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JPH0773906A                      *,1993-09-06,1995-03-17,Kojima Press Co Ltd,Charging device for electric automobile
+    JP4229545B2                      *,1999-10-25,2009-02-25,ヤマハ発動機株式会社,Electric vehicle and comprehensive diagnosis apparatus for the electric vehicle
+    US6487477B1                      *,2001-05-09,2002-11-26,Ford Global Technologies, Inc.,Strategy to use an on-board navigation system for electric and hybrid electric vehicle energy management
+    JP4172222B2                      *,2002-08-08,2008-10-29,日産自動車株式会社,Control device for electric vehicle
+    JP4252909B2                      *,2004-02-13,2009-04-08,株式会社日立製作所,Vehicle diagnostic system
+    US7665559B2                      *,2005-06-10,2010-02-23,De La Torre-Bueno Jose,Inputs for optimizing performance in hybrid vehicles
+    JP2007049771A                      *,2005-08-05,2007-02-22,Nissan Motor Co Ltd,Vehicle battery cooling apparatus
+    JP2007055436A,2005-08-24,2007-03-08,Toyota Motor Corp,Traveling mode setting device
+    JP4356682B2                      *,2005-10-21,2009-11-04,トヨタ自動車株式会社,Vehicle control device
+    JP4424315B2                      *,2006-02-10,2010-03-03,トヨタ自動車株式会社,Hybrid vehicle driving operation evaluation system
+    DE112007000515T5                      *,2006-03-06,2009-01-15,GM Global Technology Operations, Inc., Detroit,Method and apparatus for controlling a hybrid vehicle powertrain
+    JP4179330B2                      *,2006-03-31,2008-11-12,トヨタ自動車株式会社,Battery information display device for hybrid vehicle
+    JP5054338B2                      *,2006-07-20,2012-10-24,本田技研工業株式会社,VEHICLE POWER SUPPLY CONTROL DEVICE AND ITS CONTROL METHOD
+    JP5228322B2                      *,2006-08-30,2013-07-03,トヨタ自動車株式会社,Power storage device deterioration evaluation system, vehicle, power storage device deterioration evaluation method, and computer-readable recording medium storing a program for causing a computer to execute the deterioration evaluation method
+    JP4802945B2                      *,2006-08-31,2011-10-26,トヨタ自動車株式会社,Secondary battery control system and hybrid vehicle equipped with the same
+    US7865298B2,2007-05-03,2011-01-04,Ford Motor Company,System and method for providing route information to a driver of a vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (19)
+              
+
+
+citedBy_infor
+21
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    US8820444B2                      *,2010-04-16,2014-09-02,Tuan Nguyen,Electric vehicle having exchangeable battery modules and method of resupply therefor
+    US20110302078A1,2010-06-02,2011-12-08,Bryan Marc Failing,Managing an energy transfer between a vehicle and an energy transfer system
+    US20130317690A1                      *,2010-11-10,2013-11-28,Nissan Motor Co., Ltd.,Diagnosis apparatus for vehicle battery
+    CN102393733B                      *,2011-10-28,2014-04-23,北京清佰华通科技有限公司,Failure diagnosis method, fault diagnosis instrument and system thereof, new energy automobile
+    JP5737208B2                      *,2012-02-17,2015-06-17,トヨタ自動車株式会社,Information reporting system
+    US8751085B2                      *,2012-08-03,2014-06-10,Chrysler Group Llc,Method and system for battery charging and thermal management control in electrified vehicles
+    FR2995859B1                      *,2012-09-24,2016-01-08,Renault Sas,DRIVING THE TRACTION MODE OF A HYBRID VEHICLE
+    JP6322979B2                      *,2012-12-28,2018-05-16,株式会社リコー,Charging device and charging system
+    US9858731B2                      *,2013-03-15,2018-01-02,Bosch Automotive Service Solutions Inc.,Graphical user interface with vehicle scanned function
+    JP6107509B2                      *,2013-07-25,2017-04-05,株式会社デンソー,Charge / discharge management system
+    JP2015110383A                      *,2013-12-06,2015-06-18,トヨタ自動車株式会社,Hybrid vehicle
+    US20150226134A1                      *,2014-02-11,2015-08-13,Pao Shan AN,Apparatus for increasing vehicle drive power output
+    US9956887B2                      *,2014-06-16,2018-05-01,Ford Global Technologies, Llc,Batter capacity degradation indication
+    CN105259892B                      *,2015-09-30,2017-10-17,浙江金开电子科技有限公司,A kind of electric car microcomputer bus control system and diagnostic method
+    GB2544502B                      *,2015-11-18,2018-08-29,Jaguar Land Rover Ltd,Controller and control method for activating temperature control of a device of a vehicle
+    US20170203666A1                      *,2016-01-19,2017-07-20,Ford Global Technologies, Llc,Battery charging system and servicing method
+    US20210248844A1                      *,2018-08-14,2021-08-12,Cps Technology Holdings Llc,Advanced battery health diagnostic
+    JP7207007B2                      *,2019-02-26,2023-01-18,トヨタ自動車株式会社,vehicle controller
+    CN112793463B                      *,2020-12-29,2022-10-04,联合汽车电子有限公司,On-vehicle battery diagnosis method and on-vehicle battery diagnosis device
+
+abstract
+    A vehicle battery diagnosis system diagnoses the state of use of a battery of a vehicle, and includes: an information accumulation portion that accumulates diagnostic information that includes a use condition regarding the battery; a control plan presentation portion that presents a plurality of control plans about the vehicle for increasing the service life of the battery on the basis of the diagnostic information; and an information changing portion that changes control information regarding the control of the vehicle which is retained in a vehicle-mounted ECU of the vehicle so that the control information corresponds to a control plan selected from the plurality of control plans.
+title
+    Vehicle battery diagnosis system, and vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    EP2356006B1,2013-11-20,Vehicle battery diagnosis system, and vehicle
+    Karden et al.,2007,Energy storage devices for future hybrid electric vehicles
+    JP5545373B2,2014-07-09,Vehicle battery diagnostic device
+    EP2353019B1,2013-03-27,Vehicle battery diagnosis system
+    JP4893703B2,2012-03-07,Storage device deterioration display system and storage device deterioration display method
+    US9378595B2,2016-06-28,Instantaneous status to target gauge for vehicle application
+    KR20120065413A,2012-06-20,Method of providing assistance for a hybrid vehicle based on user input
+    CN106064565A,2016-11-02,The method that constant mileage is provided in electric vehicle
+    CN110816319A,2020-02-21,Vehicle information processing system and method
+    EP3640077A1,2020-04-22,Vehicle, deterioration evaluation device for secondary battery, and deterioration evaluation method for secondary battery
+    CN207473401U,2018-06-08,Controller failure code display device, electric vehicle instrument and electric vehicle
+    CN102695627B,2014-10-22,Electrically driven vehicle
+    JP2021091316A,2021-06-17,Hybrid vehicle control device
+    JP2021040367A,2021-03-11,vehicle
+    KR20210027157A,2021-03-10,Display system, vehicle, and method of display of status of secondary battery
+    EP4180828A1,2023-05-17,Deterioration diagnosis apparatus of battery and deterioration diagnosis method of battery
+    JP2021038943A,2021-03-11,Display system, vehicle equipped therewith, and state display method of secondary battery
+    US20230132434A1,2023-05-04,Deterioration diagnosis apparatus of assembled battery and deterioration diagnosis method of assembled battery
+    JP7380440B2,2023-11-15,Vehicle diagnostic systems and vehicles
+    CN105270183A,2016-01-27,Control device and control method for secondary battery
+    JP2021197832A,2021-12-27,Diagnosis device
+    US20220126722A1,2022-04-28,Device and Method for Providing Information for Hybrid Electric Vehicle
+    CN116512986A,2023-08-01,Power battery matching method for vehicle
+    JP2022041407A,2022-03-11,Diagnosis system for vehicular power transmission device
+    JP2021040370A,2021-03-11,Display device
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    30
+classfication_items
+189
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,4
+    B,6,0,K,6,/,4,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B,6,0,L,5,8,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,3,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,1,4
+    B,6,0,W,2,0,5,0,/,1,4,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,4
+    G
+    G,0,7
+    G,0,7,C
+    G,0,7,C,5,/,0,0
+    G,0,7,C,5,/,0,8
+    G,0,7,C,5,/,0,8,4,1
+    G,0,7,C,5,/,0,8,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+6
+    2009-10-22,Application filed by Toyota Motor Corp
+    2011-08-17,Publication of EP2356006A2
+    2013-11-20,Application granted
+    2013-11-20,Publication of EP2356006B1
+    Status,Active
+    2029-10-22,Anticipated expiration
+
+active_area
+5
+    J,P
+    C,N
+    U,S
+    E,P
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2008290972A,2008-11-13,Vehicle battery diagnosis system and vehicle
+    PCT/IB2009/007181,2009-10-22,Vehicle battery diagnosis system, and vehicle
+
+legal_event
+50
+    Date,Code,Title,Description
+    2011-07-15,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2011-08-17,17P,Request for examination filed,Effective date: 20110614
+    2011-08-17,AK,Designated contracting states,Kind code of ref document: A2Designated state(s): AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO SE SI SK SM TR
+    2012-02-22,DAX,Request for extension of the european patent (deleted),
+    2013-02-20,17Q,First examination report despatched,Effective date: 20130124
+    2013-02-20,RAP1,Party data changed (applicant data changed or rights of an application transferred),Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2013-05-21,GRAP,Despatch of communication of intention to grant a patent,Free format text: ORIGINAL CODE: EPIDOSNIGR1
+    2013-06-19,INTG,Intention to grant announced,Effective date: 20130522
+    2013-09-27,GRAS,Grant fee paid,Free format text: ORIGINAL CODE: EPIDOSNIGR3
+    2013-10-18,GRAA,(expected) grant,Free format text: ORIGINAL CODE: 0009210
+    2013-10-30,RIN1,Information on inventor provided before grant (corrected),Inventor name: UCHIDA, MASATOSHI
+    2013-11-20,AK,Designated contracting states,Kind code of ref document: B1Designated state(s): AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO SE SI SK SM TR
+    2013-11-20,REG,Reference to a national code,Ref country code: GBRef legal event code: FG4D
+    2013-11-29,REG,Reference to a national code,Ref country code: CHRef legal event code: EP
+    2013-12-15,REG,Reference to a national code,Ref country code: ATRef legal event code: REFRef document number: 641401Country of ref document: ATKind code of ref document: TEffective date: 20131215
+    2013-12-18,REG,Reference to a national code,Ref country code: IERef legal event code: FG4D
+    2014-01-16,REG,Reference to a national code,Ref country code: DERef legal event code: R096Ref document number: 602009020268Country of ref document: DEEffective date: 20140116
+    2014-03-12,REG,Reference to a national code,Ref country code: NLRef legal event code: VDEPEffective date: 20131120
+    2014-03-19,RIN2,Information on inventor provided after grant (corrected),Inventor name: UCHIDA, MASATOSHI
+    2014-03-26,RIN2,Information on inventor provided after grant (corrected),Inventor name: UCHIDA, MASATOSHI
+    2014-04-15,REG,Reference to a national code,Ref country code: ATRef legal event code: MK05Ref document number: 641401Country of ref document: ATKind code of ref document: TEffective date: 20131120
+    2014-04-17,REG,Reference to a national code,Ref country code: DERef legal event code: R084Ref document number: 602009020268Country of ref document: DEEffective date: 20140304
+    2014-04-25,REG,Reference to a national code,Ref country code: LTRef legal event code: MG4D
+    2014-04-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: HRFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131120Ref country code: FIFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131120Ref country code: NOFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20140220Ref country code: NLFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131120Ref country code: ISFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20140320Ref country code: LTFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131120Ref country code: SEFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131120
+    2014-05-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: LVFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131120Ref country code: ATFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131120Ref country code: ESFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131120Ref country code: BEFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131120
+    2014-06-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: PTFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20140320
+    2014-07-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: EEFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131120
+    2014-08-21,REG,Reference to a national code,Ref country code: DERef legal event code: R097Ref document number: 602009020268Country of ref document: DE
+    2014-08-29,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: PLFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131120Ref country code: CZFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131120Ref country code: ROFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131120Ref country code: SKFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131120
+    2014-09-26,PLBE,No opposition filed within time limit,Free format text: ORIGINAL CODE: 0009261
+    2014-09-26,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: NO OPPOSITION FILED WITHIN TIME LIMIT
+    2014-09-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: DKFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131120
+    2014-10-29,26N,No opposition filed,Effective date: 20140821
+    2014-12-04,REG,Reference to a national code,Ref country code: DERef legal event code: R097Ref document number: 602009020268Country of ref document: DEEffective date: 20140821
+    2015-02-27,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: SIFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131120
+    2015-05-29,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: MCFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131120Ref country code: LUFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20141022
+    2015-05-29,REG,Reference to a national code,Ref country code: CHRef legal event code: PL
+    2015-06-24,GBPC,Gb: european patent ceased through non-payment of renewal fee,Effective date: 20141022
+    2015-07-29,REG,Reference to a national code,Ref country code: IERef legal event code: MM4A
+    2015-07-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: LIFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20141031Ref country code: CHFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20141031Ref country code: GBFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20141022
+    2015-07-31,REG,Reference to a national code,Ref country code: FRRef legal event code: STEffective date: 20150630
+    2015-08-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: FRFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20141031Ref country code: ITFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131120
+    2015-10-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: IEFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20141022
+    2016-04-29,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: SMFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131120
+    2016-06-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: BGFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131120Ref country code: GRFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20140221Ref country code: CYFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131120
+    2016-07-29,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: TRFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131120Ref country code: MTFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131120Ref country code: HUFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT; INVALID AB INITIOEffective date: 20091022
+    2018-06-29,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: MKFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131120
+    2023-01-31,PGFP,Annual fee paid to national office [announced via postgrant information from national office to epo],Ref country code: DEPayment date: 20220831Year of fee payment: 14
+    2023-06-14,P01,Opt-out of the competence of the unified patent court (upc) registered,Effective date: 20230427
+

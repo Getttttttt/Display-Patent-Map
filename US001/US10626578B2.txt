@@ -1,0 +1,473 @@
+ID
+    US10626578B2
+citation_exist
+    Patent Citations (25)
+citation_infor
+27
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH0681375A,1992-09-07,1994-03-22,Hitachi Constr Mach Co Ltd,Hydraulic driving device for construction machine
+    US5442912A                      *,1992-12-04,1995-08-22,Hitachi Construction Machinery Co., Ltd.,Hydraulic recovery device
+    JPH08128065A,1994-10-28,1996-05-21,Yutani Heavy Ind Ltd,Hydraulic circuit of hydraulic shovel
+    US5835874A,1994-04-28,1998-11-10,Hitachi Construction Machinery Co., Ltd.,Region limiting excavation control system for construction machine
+    JPH1121941A,1997-07-01,1999-01-26,Yutani Heavy Ind Ltd,Hydraulic controller for hydraulic backhoe
+    JPH11101202A,1997-09-27,1999-04-13,Yutani Heavy Ind Ltd,Control device and control method of hydraulic shovel
+    US5918527A                      *,1996-04-26,1999-07-06,Hitachi Construction Machinery Co., Ltd.,Locus control system for construction machines
+    US5960378A                      *,1995-08-14,1999-09-28,Hitachi Construction Machinery Co., Ltd.,Excavation area setting system for area limiting excavation control in construction machines
+    US6076029A                      *,1997-02-13,2000-06-13,Hitachi Construction Machinery Co., Ltd.,Slope excavation controller of hydraulic shovel, target slope setting device and slope excavation forming method
+    JP3594680B2,1995-02-13,2004-12-02,日立建機株式会社,Hydraulic regenerator of hydraulic machine
+    WO2015194601A1,2014-06-20,2015-12-23,住友重機械工業株式会社,Shovel and method for controlling same
+    US9725874B2                      *,2014-03-31,2017-08-08,Hitachi Construction Machinery Co., Ltd.,Area limiting excavation control system for construction machines
+    US10280948B2                      *,2014-04-04,2019-05-07,Volvo Construction Equipment Ab,Hydraulic system and method for controlling an implement of a working machine
+    Family To Family Citations,,,,
+    JPS594680A,1982-06-30,1984-01-11,Nippon Steel Corp,Preparation of charging coal
+    JP3091667B2                      *,1995-06-09,2000-09-25,日立建機株式会社,Excavation control device for construction machinery
+    JP3609164B2                      *,1995-08-14,2005-01-12,日立建機株式会社,Excavation area setting device for area limited excavation control of construction machinery
+    JP3735427B2                      *,1996-12-26,2006-01-18,日立建機株式会社,Automatic driving excavator
+    JP4773883B2                      *,2006-05-26,2011-09-14,住友建機株式会社,Control device for work machine
+    US8683793B2                      *,2007-05-18,2014-04-01,Volvo Construction Equipment Ab,Method for recuperating potential energy during a lowering operation of a load
+    JP5135288B2                      *,2009-05-29,2013-02-06,日立建機株式会社,Hydraulic drive unit for construction machinery
+    WO2012127912A1,2011-03-24,2012-09-27,株式会社小松製作所,Work machine control system, construction machinery and work machine control method
+    CN202519716U                      *,2011-12-31,2012-11-07,中外合资沃得重工（中国）有限公司,Excavator scarper pan hydraulic system with confluence accelerating function
+    DE112015000035B4                      *,2014-06-04,2019-01-10,Komatsu Ltd.,Construction machine control system, construction machine and construction machine control method
+    JP6106129B2                      *,2014-06-13,2017-03-29,日立建機株式会社,Excavation control equipment for construction machinery
+    DE112014000127B4                      *,2014-09-10,2022-11-17,Komatsu Ltd.,construction vehicle
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (2)
+              
+
+
+citedBy_exist
+    
+              Cited By (14)
+              
+
+
+citedBy_infor
+16
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP6732539B2                      *,2016-05-26,2020-07-29,日立建機株式会社,Work machine
+    JP6552996B2                      *,2016-06-07,2019-07-31,日立建機株式会社,Work machine
+    JP6889806B2                      *,2018-04-17,2021-06-18,日立建機株式会社,Work machine
+    JP6956688B2                      *,2018-06-28,2021-11-02,日立建機株式会社,Work machine
+    JP7086764B2,2018-07-12,2022-06-20,日立建機株式会社,Work machine
+    JP7146530B2,2018-08-31,2022-10-04,コベルコ建機株式会社,construction machinery
+    JP7123735B2,2018-10-23,2022-08-23,ヤンマーパワーテクノロジー株式会社,Construction machinery and control systems for construction machinery
+    CN109235534A                      *,2018-11-20,2019-01-18,长安大学,A kind of hydraulic crawler excavator multipath hydraulic system
+    JP7146701B2                      *,2019-06-27,2022-10-04,日立建機株式会社,excavator
+    JP7342456B2,2019-06-28,2023-09-12,コベルコ建機株式会社,hydraulic control device
+    JP7182579B2                      *,2020-03-27,2022-12-02,日立建機株式会社,working machine
+    JP7242602B2                      *,2020-03-30,2023-03-20,日立建機株式会社,working machine
+    JP7269436B2,2020-03-30,2023-05-08,日立建機株式会社,working machine
+    JP7232964B2,2020-04-02,2023-03-03,日立建機株式会社,working machine
+
+abstract
+    A work machine has a controller which has an area limiting control section correcting the pilot pressures of pilot lines, a regeneration control section adjusting the flow rate of the hydraulic fluid caused to flow from a tank side line of an arm cylinder into a pump side line thereof between zero and a predetermined upper limit value, and a regeneration control switching section that issues an order to the regeneration control section to set the predetermined upper limit value to a first set value when the function of the area limiting control section is invalid and that issues an order to the regeneration control section to set the predetermined upper limit value to a second set value that is smaller than the first set value when the function of the area limiting control section is effective.
+title
+    Work machine
+similar_document
+20
+    Publication,Publication Date,Title
+    US10626578B2,2020-04-21,Work machine
+    JP6235917B2,2017-11-22,Hydraulic drive system
+    US10563378B2,2020-02-18,Hydraulic system for work machines
+    KR20140034214A,2014-03-19,Hydraulic drive device for working machine
+    US10801524B2,2020-10-13,Hydraulic work machine
+    JP6807290B2,2021-01-06,Work machine
+    JP6545609B2,2019-07-17,Control device of hydraulic construction machine
+    CN111989441B,2022-06-17,Hydraulic shovel drive system
+    US11118327B2,2021-09-14,Work machine
+    KR20180103993A,2018-09-19,Working machine
+    JP5122906B2,2013-01-16,Load-sensing hydraulic control system for construction machinery
+    US11718977B2,2023-08-08,Work machine
+    US20230167622A1,2023-06-01,Work Machine
+    US20230349132A1,2023-11-02,Construction Machine
+    JP6511415B2,2019-05-15,Work machine
+    KR20210013201A,2021-02-03,Working machine
+    KR20190025719A,2019-03-11,Construction Machinery
+    US11371206B2,2022-06-28,Hydraulic excavator drive system
+    JP2021139121A,2021-09-16,Wheel loader
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    6
+classfication_nums
+    46
+classfication_items
+331
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,7,8
+    E,0,2,F,9,/,2,2,9,6
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,0,3
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,3,/,0,0
+    E,0,2,F,3,/,0,4
+    E,0,2,F,3,/,2,8
+    E,0,2,F,3,/,3,0
+    E,0,2,F,3,/,3,2
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,3,/,0,0
+    E,0,2,F,3,/,0,4
+    E,0,2,F,3,/,2,8
+    E,0,2,F,3,/,3,6
+    E,0,2,F,3,/,4,2
+    E,0,2,F,3,/,4,2,5
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,3,/,0,0
+    E,0,2,F,3,/,0,4
+    E,0,2,F,3,/,2,8
+    E,0,2,F,3,/,3,6
+    E,0,2,F,3,/,4,2
+    E,0,2,F,3,/,4,3
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,3,/,0,0
+    E,0,2,F,3,/,0,4
+    E,0,2,F,3,/,2,8
+    E,0,2,F,3,/,3,6
+    E,0,2,F,3,/,4,2
+    E,0,2,F,3,/,4,3
+    E,0,2,F,3,/,4,3,5
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,1,7
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,2,1
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,2,1
+    E,0,2,F,9,/,2,2,2,5
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,6,4
+    E,0,2,F,9,/,2,2,6,7
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,6,4
+    E,0,2,F,9,/,2,2,7,1
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,7,8
+    E,0,2,F,9,/,2,2,8,2
+    E
+    E,0,2
+    E,0,2,F
+    E,0,2,F,9,/,0,0
+    E,0,2,F,9,/,2,0
+    E,0,2,F,9,/,2,2
+    E,0,2,F,9,/,2,2,7,8
+    E,0,2,F,9,/,2,2,8,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F,1,5,B,1,1,/,0,2
+    F,1,5,B,1,1,/,0,2,4
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F,1,5,B,1,1,/,0,2
+    F,1,5,B,1,1,/,0,4
+    F,1,5,B,1,1,/,0,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F,1,5,B,1,1,/,0,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,1,1,/,0,0
+    F,1,5,B,1,1,/,1,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,1,/,0,0
+    F,1,5,B,2,1,/,1,4
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,1,/,0,0
+    F,1,5,B,2,1,/,0,8
+    F,1,5,B,2,1,/,0,8,7
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,2,0
+    F,1,5,B,2,2,1,1,/,2,0,5
+    F,1,5,B,2,2,1,1,/,2,0,5,3
+    F,1,5,B,2,2,1,1,/,2,0,5,4,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,3,0
+    F,1,5,B,2,2,1,1,/,3,0,5
+    F,1,5,B,2,2,1,1,/,3,0,5,6
+    F,1,5,B,2,2,1,1,/,3,0,5,6,5
+    F,1,5,B,2,2,1,1,/,3,0,5,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,3,0
+    F,1,5,B,2,2,1,1,/,3,1
+    F,1,5,B,2,2,1,1,/,3,1,0,5
+    F,1,5,B,2,2,1,1,/,3,1,1,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,3,0
+    F,1,5,B,2,2,1,1,/,3,2
+    F,1,5,B,2,2,1,1,/,3,2,7
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,3,0
+    F,1,5,B,2,2,1,1,/,3,2
+    F,1,5,B,2,2,1,1,/,3,2,9
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,3,0
+    F,1,5,B,2,2,1,1,/,3,5,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,3,0
+    F,1,5,B,2,2,1,1,/,3,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,4,0
+    F,1,5,B,2,2,1,1,/,4,0,5
+    F,1,5,B,2,2,1,1,/,4,0,5,1,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,4,0
+    F,1,5,B,2,2,1,1,/,4,1
+    F,1,5,B,2,2,1,1,/,4,1,1
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,4,0
+    F,1,5,B,2,2,1,1,/,4,1,5
+    F,1,5,B,2,2,1,1,/,4,1,5,5,4
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,4,0
+    F,1,5,B,2,2,1,1,/,4,2
+    F,1,5,B,2,2,1,1,/,4,2,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,4,0
+    F,1,5,B,2,2,1,1,/,4,2
+    F,1,5,B,2,2,1,1,/,4,2,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,5,0
+    F,1,5,B,2,2,1,1,/,5,2
+    F,1,5,B,2,2,1,1,/,5,2,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,5,0
+    F,1,5,B,2,2,1,1,/,5,7,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,0,6
+    F,1,5,B,2,2,1,1,/,6,3,0,9
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,0,6
+    F,1,5,B,2,2,1,1,/,6,3,1,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3
+    F,1,5,B,2,2,1,1,/,6,3,0,3
+    F,1,5,B,2,2,1,1,/,6,3,3,6
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,3,5
+    F,1,5,B,2,2,1,1,/,6,3,5,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,6,5
+    F,1,5,B,2,2,1,1,/,6,6,5,4
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,6,5
+    F,1,5,B,2,2,1,1,/,6,6,5,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,6,0
+    F,1,5,B,2,2,1,1,/,6,7
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,0,5
+    F,1,5,B,2,2,1,1,/,7,0,5,1
+    F,1,5,B,2,2,1,1,/,7,0,5,3
+    F,1,5,B,2,2,1,1,/,7,0,5,4
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,1
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,1
+    F,1,5,B,2,2,1,1,/,7,1,3,5
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,7,0
+    F,1,5,B,2,2,1,1,/,7,8
+    F
+    F,1,5
+    F,1,5,B
+    F,1,5,B,2,2,1,1,/,0,0
+    F,1,5,B,2,2,1,1,/,8,0
+    F,1,5,B,2,2,1,1,/,8,5
+
+application_events
+7
+    2017-02-28,Application filed by Hitachi Construction Machinery Co Ltd
+    2018-08-30,Assigned to HITACHI CONSTRUCTION MACHINERY CO., LTD.
+    2019-04-11,Publication of US20190106861A1
+    2020-04-21,Application granted
+    2020-04-21,Publication of US10626578B2
+    Status,Active
+    2037-05-01,Adjusted expiration
+
+active_area
+6
+    J,P
+    U,S
+    K,R
+    E,P
+    C,N
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2016-134408,2016-07-06,
+    JP2016134408A,2016-07-06,Work machine
+    PCT/JP2017/007996,2017-02-28,Work machine
+
+legal_event
+7
+    Date,Code,Title,Description
+    2018-08-30,AS,Assignment,Owner name: HITACHI CONSTRUCTION MACHINERY CO., LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:IZUMI, SHIHO;NARIKAWA, RYUU;MEGURIYA, SHUUICHI;AND OTHERS;SIGNING DATES FROM 20180725 TO 20180726;REEL/FRAME:046748/0851
+    2018-08-30,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2019-06-11,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2019-12-27,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2020-04-01,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2023-10-04,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

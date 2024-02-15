@@ -1,0 +1,271 @@
+ID
+    US8547040B2
+citation_exist
+    Patent Citations (20)
+citation_infor
+22
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20030169001A1,2001-09-10,2003-09-11,Hiroshi Murakami,Vehicle driving apparatus
+    JP2003259509A,2002-02-28,2003-09-12,Aisin Aw Co Ltd,Motor vehicle drive controller, and motor vehicle drive control method, and its program
+    US20040106494A1                      *,2000-04-11,2004-06-03,Ford Global Technologies, Llc,Hybrid electric vehicle with variable displacement engine
+    JP2005218250A,2004-01-30,2005-08-11,Mitsubishi Motors Corp,Torque controller
+    JP2005218251A,2004-01-30,2005-08-11,Mitsubishi Motors Corp,Torque controller
+    US7019472B2,2002-10-09,2006-03-28,Aisin Aw Co., Ltd.,Vehicle controller that stably supplies power to a battery and method thereof
+    JP2007165211A,2005-12-16,2007-06-28,Hitachi Vehicle Energy Ltd,Secondary battery management device
+    US20070187161A1                      *,2006-02-15,2007-08-16,Tatsuo Kiuchi,Control system for a hybrid electric vehicle
+    US20080105477A1                      *,2005-01-31,2008-05-08,Tetsuya Abe,Hybrid Vehicle And Control Method Of Hybrid Vehicle
+    CN101214797A,2007-12-29,2008-07-09,奇瑞汽车有限公司,Mixed power automobile battery charging and discharging current limitation protecting method
+    US20080228334A1                      *,2007-03-14,2008-09-18,Toshiya Hashimoto,Hybrid vehicle and control method thereof
+    JP4200956B2,2004-09-09,2008-12-24,トヨタ自動車株式会社,Battery control device for hybrid vehicle, battery control method for hybrid vehicle, and hybrid vehicle
+    US7734406B1                      *,2006-07-10,2010-06-08,The United States Of America As Represented By The Secretary Of The Air Force,Integrated control of brake and steer by wire system using optimal control allocation methods
+    US7765964B2                      *,2006-05-25,2010-08-03,Toyota Jidosha Kabushiki Kaisha,Variable valve operating device, control method of variable valve operating device, and vehicle equipped with variable valve operating device
+    US7906863B2                      *,2004-07-12,2011-03-15,Toyota Jidosha Kabshiki Kaisha,Power output apparatus, vehicle equipped with power output apparatus, and control method of power output apparatus
+    US7960928B2                      *,2008-10-15,2011-06-14,Tesla Motors, Inc.,Flux controlled motor management
+    US7990085B2                      *,2007-06-05,2011-08-02,Hitachi, Ltd.,Generator control unit
+    US8022674B2                      *,2007-07-10,2011-09-20,Toyota Motor Engineering & Manufacturing North America, Inc.,State of charge control method and systems for vehicles
+    Family To Family Citations,,,,
+    JPH0452080B2,1985-03-29,1992-08-20,Sanken Electric Co Ltd,
+    JP4199331B2                      *,1998-06-22,2008-12-17,トヨタ自動車株式会社,Vehicle power limiting device with a capacitor
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (14)
+              
+
+
+citedBy_infor
+16
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20140091579A1                      *,2012-09-28,2014-04-03,Kobelco Construction Machinery Co., Ltd.,Construction machine
+    US20180056804A1                      *,2016-08-31,2018-03-01,Mitsubishi Jidosha Kogyo Kabushiki Kaisha,Charge control apparatus and method for electric vehicle
+    Family To Family Citations,,,,
+    JP5774336B2                      *,2011-03-18,2015-09-09,ニチユ三菱フォークリフト株式会社,Vehicle, vehicle control apparatus, and vehicle control method
+    DE102011119207A1                      *,2011-11-23,2013-05-23,Audi Ag,Method for controlling the operation of an arrangement of at least two electric machines and motor vehicle
+    US10569638B2                      *,2014-06-25,2020-02-25,Heinz Welschoff,All electric vehicle without plug-in requirement
+    US20150375612A1                      *,2014-06-25,2015-12-31,Heinz Welschoff,All electric vehicle without plug-in requirement
+    JP2017055551A                      *,2015-09-09,2017-03-16,日立オートモティブシステムズ株式会社,Power storage battery control device
+    GB2551822B                      *,2016-06-30,2018-08-22,Sevcon Ltd,Methods and apparatus for controlling an electric motor
+    JP2018008544A                      *,2016-07-11,2018-01-18,三菱自動車工業株式会社,Hybrid vehicle
+    CN107487224A                      *,2016-07-20,2017-12-19,宝沃汽车（中国）有限公司,A kind of control method of finished and system
+    CN112140901B                      *,2019-06-28,2022-06-14,北京车和家信息技术有限公司,Torque control method and device
+    AT524009A1                      *,2020-10-15,2022-01-15,Avl List Gmbh,Control of the output variables of an electric actuator
+    CN112829605B                      *,2021-02-19,2022-10-04,恒大新能源汽车投资控股集团有限公司,Vehicle torque control method and device and computer readable storage medium
+    CN113547916B                      *,2021-08-24,2022-03-22,李浩然,Constant-pressure mode control method for range-extended electric automobile
+
+abstract
+    A control apparatus of an electric vehicle, which is operable to be driven by supplying electric power from a battery to an electric motor to drive the electric motor and operable to perform regeneration charge, includes: a request torque calculating unit calculating a request torque of the electric motor; a motor control unit controlling the electric motor based on the request torque; and a torque suppression unit performing a feed forward control for setting the request torque based on a rotational angular speed of the electric motor so that an integrated value of a torque and a rotational angular speed of the electric motor at time when the electric motor is driven or the regeneration charge is performed is identical to an integrated value of the torque and the rotational angular speed stored at a point of time when the battery voltage or the battery current reaches the limit level.
+title
+    Control apparatus of electric vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US8547040B2,2013-10-01,Control apparatus of electric vehicle
+    JP5510116B2,2014-06-04,Hybrid vehicle regenerative control device
+    JP6270009B2,2018-01-31,Vehicle power control device
+    JP5146502B2,2013-02-20,Secondary battery charge / discharge controller
+    JP6070934B2,2017-02-01,Hybrid vehicle travel mode switching control device
+    WO2012039167A1,2012-03-29,Power generation control device for electric vehicle
+    US10093305B2,2018-10-09,Travel driving apparatus of vehicle
+    US20160141673A1,2016-05-19,Fuel cell system, fuel cell vehicle, and control method for fuel cell system
+    JP5225779B2,2013-07-03,Charge / discharge control method
+    WO2008072762A1,2008-06-19,Power supply system, vehicle using the same, and its control method
+    US8768550B2,2014-07-01,Electric vehicle
+    CN110315976B,2022-08-16,Vehicle power supply system
+    US8952657B2,2015-02-10,Battery protector
+    US10406935B2,2019-09-10,Travel driving apparatus of vehicle
+    JP2013151247A,2013-08-08,Control device of hybrid vehicle
+    JP6186315B2,2017-08-23,Power system
+    CN111216564B,2022-05-24,Vehicle torque control method and device
+    JP7096046B2,2022-07-05,Vehicle power system
+    JP5419745B2,2014-02-19,Series hybrid vehicle control system
+    US7084589B1,2006-08-01,Vehicle and method for controlling power to wheels in a vehicle
+    JP2011239629A,2011-11-24,Control device for electric vehicle
+    JP6156619B2,2017-07-05,Hybrid vehicle operation control device
+    JP5267882B2,2013-08-21,Power generation control device
+    JP2016144366A,2016-08-08,Electric vehicle
+    JP6270010B2,2018-01-31,Vehicle power control device
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    21
+classfication_items
+130
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,5,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B,6,0,L,5,8,/,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,2,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+8
+    2011-04-26,Application filed by Mitsubishi Motors Corp
+    2011-07-11,Assigned to MITSUBISHI JIDOSHA KOGYO KABUSHIKI KAISHA
+    2011-10-27,Publication of US20110260659A1
+    2013-10-01,Application granted
+    2013-10-01,Publication of US8547040B2
+    2021-03-01,Assigned to MITSUBISHI JIDOSHA KOGYO KABUSHIKI KAISHA
+    Status,Active
+    2032-01-21,Adjusted expiration
+
+active_area
+3
+    J,P
+    U,S
+    C,N
+
+not_active_area
+1
+    E,P
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JPP2010-102077,2010-04-27,
+    JP2010102077A,2010-04-27,Control device for electric vehicle
+
+legal_event
+7
+    Date,Code,Title,Description
+    2011-07-11,AS,Assignment,Owner name: MITSUBISHI JIDOSHA KOGYO KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:KAMACHI, MAKOTO;REEL/FRAME:026573/0431Effective date: 20110709
+    2013-09-11,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2013-12-02,FEPP,Fee payment procedure,Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2017-03-16,FPAY,Fee payment,Year of fee payment: 4
+    2021-03-01,AS,Assignment,Owner name: MITSUBISHI JIDOSHA KOGYO KABUSHIKI KAISHA, JAPANFree format text: CHANGE OF ADDRESS;ASSIGNOR:MITSUBISHI JIDOSHA KOGYO KABUSHIKI KAISHA;REEL/FRAME:055472/0944Effective date: 20190104
+    2021-03-17,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 8
+

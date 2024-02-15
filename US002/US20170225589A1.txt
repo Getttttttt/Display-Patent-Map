@@ -1,0 +1,265 @@
+ID
+    US20170225589A1
+citation_exist
+    Patent Citations (4)
+citation_infor
+6
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20110246009A1                      *,2010-04-02,2011-10-06,Aisin Aw Co., Ltd.,Control device
+    US20150217622A1                      *,2012-08-28,2015-08-06,Denso Corporation,Thermal management system for vehicle
+    US20160114745A1                      *,2011-11-16,2016-04-28,Autoconnect Holdings Llc,On board vehicle remote control module
+    US20180099677A1                      *,2015-04-14,2018-04-12,Ntn Corporation,Vehicle orientation control device
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (3)
+              
+
+
+citedBy_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN108189689A                      *,2017-12-29,2018-06-22,智车优行科技（北京）有限公司,The cell managing device and method of integrated security unit
+    CN110606075A                      *,2019-08-28,2019-12-24,中国第一汽车股份有限公司,Torque distribution control method and system of distributed four-wheel-drive electric vehicle and vehicle
+    EP3995951A1                      *,2020-11-10,2022-05-11,Toyota Jidosha Kabushiki Kaisha,Information processing device, information processing method, non-transitory storage medium, and vehicle
+    Family To Family Citations,,,,
+
+abstract
+    A software-defined powertrain transmits commands to at least 4 distributed polyphase motor controllers. A single vehicle control unit transforms operator control indicia into a plurality of individual commands, and securely transmits said commands to each one of a plurality of independent motor controllers mechanically coupled to a single wheel by a polyphase electric motor. The motor controllers are DC to variable AC electrical converters which each receives phase and magnitude requirements. A mixed criticality operating system provides an encrypted application-programming interface to operate functions such as torque vectoring, cooling, braking, and battery management. The OS provides an isolated trust zone to each of a plurality of cores for authentication and validation.
+title
+    Software-defined vehicular powertrain and method of operation
+similar_document
+26
+    Publication,Publication Date,Title
+    US20160375793A1,2016-12-29,Software-defined vehicular powertrain and method of operation
+    US20170225589A1,2017-08-10,Software-defined vehicular powertrain and method of operation
+    CN111818189B,2020-12-25,Vehicle road cooperative control system, method and medium
+    CN104773160A,2015-07-15,Power split hybrid electric vehicle motor torque control using state estimation
+    WO2017077936A1,2017-05-11,Slip control device
+    CN108621862B,2020-11-17,Electric drive control system, electric vehicle and electric drive control method
+    CN103660996A,2014-03-26,Vehicle electric machine control strategy
+    US10882527B2,2021-01-05,Torque modulation to linearize tire slip characteristics
+    Berzi et al.,2019,Real time models of automotive mechatronics systems: Verifications on “toy models”
+    CN103684133A,2014-03-26,Electric motor position signal synchronized operation
+    WO2017044757A1,2017-03-16,Automotive vehicle actuator control system
+    JP2010022123A,2010-01-28,Drive control device for electric vehicle
+    US10532734B2,2020-01-14,Hybrid vehicle and method of controlling motor of the same
+    JP6237385B2,2017-11-29,Vehicle control device
+    US20220158574A1,2022-05-19,System and method for generating heating ac current
+    JP2017099139A,2017-06-01,Motor control system
+    JP6129364B1,2017-05-17,Hybrid vehicle control apparatus and braking control method for hybrid vehicle
+    KR102603210B1,2023-11-17,Battery management system, control system and electric vehicle having battery management system
+    McAslan et al.,2020,On the development of optimal hardware and software architectures for propulsion domain control
+    US11804962B2,2023-10-31,System and method for establishing an in-vehicle cryptographic manager
+    KR102544489B1,2023-06-20,Battery management system, control system and electric vehicle having battery management system
+    JP6520105B2,2019-05-29,Motor control system
+    CN106464170A,2017-02-22,Four quadrant voltage limiter for rotor flux oriented machine control
+    JP6259312B2,2018-01-10,Boost converter control device and boost converter control method
+    US11338796B1,2022-05-24,Apparatus and methodology for wheel stability monitoring system
+
+patent_application
+2
+    Application,Priority date,Filing date,Relation,Title
+    US14/809,246,2015-06-29,2015-07-26,Continuation-In-Part,Software-defined vehicular powertrain and method of operation
+
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US15/499,883,2015-06-29,2017-04-27,Software-defined vehicular powertrain and method of operation
+
+inventor_number
+    3
+classfication_nums
+    27
+classfication_items
+155
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,2
+    B,6,0,L,1,5,/,0,2,5
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,/,0,0
+    B,6,0,K,1,/,0,2
+    B,6,0,L,1,1,/,1,8,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,2
+    B,6,0,L,1,5,/,0,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B,6,0,L,5,8,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    G
+    G,0,6
+    G,0,6,F
+    G,0,6,F,1,3,/,0,0
+    G,0,6,F,1,3,/,3,8
+    G,0,6,F,1,3,/,4,0
+    G,0,6,F,1,3,/,4,0,6,3
+    G,0,6,F,1,3,/,4,0,6,8
+    G
+    G,0,6
+    G,0,6,F
+    G,0,6,F,1,3,/,0,0
+    G,0,6,F,1,3,/,3,8
+    G,0,6,F,1,3,/,4,2
+    G,0,6,F,1,3,/,4,2,8,2
+    G
+    G,0,6
+    G,0,6,F
+    G,0,6,F,2,1,/,0,0
+    G,0,6,F,2,1,/,6,0
+    G,0,6,F,2,1,/,6,0,2
+    G
+    G,0,6
+    G,0,6,F
+    G,0,6,F,2,1,/,0,0
+    G,0,6,F,2,1,/,6,0
+    G,0,6,F,2,1,/,6,0,6
+    H
+    H,0,4
+    H,0,4,L
+    H,0,4,L,6,3,/,0,0
+    H,0,4,L,6,3,/,0,4
+    H,0,4,L,6,3,/,0,4,2,8
+    H
+    H,0,4
+    H,0,4,W
+    H,0,4,W,4,/,0,0
+    H,0,4,W,4,/,3,0
+    H,0,4,W,4,/,4,0
+    H,0,4,W,4,/,4,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B,6,0,L,2,2,1,0,/,4,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,9
+    G
+    G,0,6
+    G,0,6,F
+    G,0,6,F,2,2,1,3,/,0,0
+    G,0,6,F,2,2,1,3,/,0,0,4,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+5
+    2015-07-26,Priority claimed from US14/809,246
+    2017-04-27,Application filed by Individual
+    2017-04-27,Priority to US15/499,883
+    2017-08-10,Publication of US20170225589A1
+    Status,Abandoned
+
+active_area
+0
+
+not_active_area
+1
+    U,S
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    US201562185796P,2015-06-29,
+    US14/809,246,2015-07-26,Software-defined vehicular powertrain and method of operation
+    US15/499,883,2017-04-27,Software-defined vehicular powertrain and method of operation
+
+legal_event
+4
+    Date,Code,Title,Description
+    2017-06-14,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2019-06-25,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2020-01-02,STCB,Information on status: application discontinuation,Free format text: ABANDONED  --  FAILURE TO RESPOND TO AN OFFICE ACTION
+

@@ -1,0 +1,260 @@
+ID
+    US11472296B2
+citation_exist
+    Patent Citations (33)
+citation_infor
+35
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20010016276A1                      *,2000-02-18,2001-08-23,Nissan Motor Co., Ltd.,Fuel cell system and method
+    JP2003308866A                      *,2002-04-16,2003-10-31,Nissan Motor Co Ltd,Gas leakage detecting method and device for fuel cell system
+    JP2004119052A                      *,2002-09-24,2004-04-15,Toyota Motor Corp,Fuel cell system
+    US20040101734A1                      *,2002-11-26,2004-05-27,Denso Corporation,Fuel cell system with improved startability
+    JP2004152598A                      *,2002-10-30,2004-05-27,Nissan Motor Co Ltd,Control device for fuel cell vehicle
+    US20040159480A1                      *,2003-02-14,2004-08-19,Toyota Jidosha Kabushiki Kaisha,Drive unit and vehicle equipped therewith
+    JP2006020468A                      *,2004-07-05,2006-01-19,Nissan Motor Co Ltd,Control unit for fuel cell vehicle
+    JP2006034036A                      *,2004-07-20,2006-02-02,Nissan Motor Co Ltd,Control unit of fuel cell vehicle
+    JP2006034034A                      *,2004-07-20,2006-02-02,Nissan Motor Co Ltd,Fuel cell vehicle control unit
+    JP2007066680A                      *,2005-08-31,2007-03-15,Honda Motor Co Ltd,Fuel cell system
+    US20090142633A1                      *,2005-12-19,2009-06-04,Toyota Jidosha Kabushiki Kaisha,Fuel Cell System and Mobile Article
+    JP2009301970A                      *,2008-06-17,2009-12-24,Toyota Motor Corp,Fuel cell mounted vehicle
+    US20110049969A1                      *,2009-09-01,2011-03-03,Mando Corporation,Hydraulic control method of regenerative braking system for vehicle
+    US20110076584A1                      *,2008-06-10,2011-03-31,Toyota Jidosha Kabushiki Kaisha,Fuel cell system
+    US20120056470A1                      *,2010-09-03,2012-03-08,Hyundai Motor Company,Braking control method for electric vehicle
+    CN102700544A                      *,2012-06-11,2012-10-03,北京工业大学,Device for utilizing braking energy of fuel cell vehicle to purge residual water on fuel cell
+    US20130218435A1                      *,2010-10-25,2013-08-22,Toyota Jidosha Kabushiki Kaisha,Brake control apparatus
+    JP2013233051A,2012-05-01,2013-11-14,Toyota Motor Corp,Regeneration control device for fuel cell vehicle
+    JP2015164092A                      *,2012-05-29,2015-09-10,日産自動車株式会社,fuel cell system
+    US20160036080A1                      *,2014-07-30,2016-02-04,Hyundai Motor Company,System for fuel cell vehicle
+    US20160137068A1                      *,2014-11-14,2016-05-19,Toyota Jidosha Kabushiki Kaisha,Braking force control system, vehicle and method of controlling braking force
+    US20160141655A1                      *,2014-11-14,2016-05-19,Toyota Jidosha Kabushiki Kaisha,Method of discharging water from fuel cell and fuel cell system
+    US20160137077A1                      *,2014-11-13,2016-05-19,Hyundai Motor Company,System and method for notifying necessity of hydrogen charging using result of monitoring location of hydrogen station
+    US20160141905A1                      *,2014-11-15,2016-05-19,Toyota Jidosha Kabushiki Kaisha,Power supply system and voltage control method for fuel cell
+    JP2017157270A,2016-02-29,2017-09-07,トヨタ自動車株式会社,Fuel battery system
+    US20170309935A1                      *,2016-04-20,2017-10-26,Hyundai Motor Company,Power distribution method and system for fuel cell vehicle
+    US20180126862A1                      *,2016-11-08,2018-05-10,Hyundai Motor Company,Regenerative braking apparatus for vehicle and method using the same
+    US20200317061A1                      *,2019-04-03,2020-10-08,Toyota Jidosha Kabushiki Kaisha,Fuel cell vehicle
+    Family To Family Citations,,,,
+    US8534197B2                      *,2009-02-02,2013-09-17,Supersonic Tubevehicle Llc,Supersonic hydrogen tube vehicle
+    CN102407782A                      *,2010-09-23,2012-04-11,韩财元,Dynamic metal fuel cell type electric automobile
+    JP5673261B2,2011-03-18,2015-02-18,株式会社デンソー,Fuel cell system
+    CN102522582B                      *,2011-12-28,2014-06-18,新源动力股份有限公司,Shutdown purging system and purging method for vehicle-mounted fuel cell power generation system
+    JP6507755B2,2015-03-19,2019-05-08,株式会社アドヴィックス,Vehicle braking system
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (2)
+              
+
+
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP7180509B2,2019-04-03,2022-11-30,トヨタ自動車株式会社,fuel cell vehicle
+    CN112356678B                      *,2020-11-10,2022-04-19,长城汽车股份有限公司,Method and device for acquiring coasting torque, storage medium and computer program
+
+abstract
+    A fuel cell vehicle includes a fuel cell, a gas supply unit, a friction brake system, a drive motor, an electric storage device, and a control unit configured to execute control of obtaining requested braking force with use of friction braking force and regenerative braking force and control of performing a scavenging process. When the fuel cell vehicle is in braking with the friction braking force and the regenerative braking force, the control unit is configured to determine whether or not a scavenging preparation condition is satisfied with use of the amount of stagnant water stagnating in the fuel cell, execute a responsiveness enhancement process when the scavenging preparation condition is executed, and execute a scavenging process when the responsiveness enhancement process is completed, and the amount of the stagnant water reaches a reference value.
+title
+    Fuel cell vehicle and control method of fuel cell vehicle
+similar_document
+25
+    Publication,Publication Date,Title
+    JP5920525B2,2016-05-18,FUEL CELL SYSTEM AND CONTROL METHOD FOR FUEL CELL SYSTEM
+    KR101000703B1,2010-12-10,Idle stop and start control method of fuel cell hybrid vehicle
+    JP3719229B2,2005-11-24,Power supply
+    US8600599B2,2013-12-03,Fuel cell vehicle
+    KR101249428B1,2013-04-03,Fuel cell system and method of controlling the same
+    JP5335047B2,2013-11-06,Fuel cell system
+    US9643517B2,2017-05-09,Method of controlling fuel cell vehicle
+    KR100952967B1,2010-04-15,Voltage control system and vehicle comprising voltage control system
+    EP1207578A2,2002-05-22,Fuel cell power supply unit
+    KR101033900B1,2011-05-11,Power transmission device and method for fuel cell-super capacitor hybrid vehicle
+    JP2002118981A,2002-04-19,Dc power supply having fuel cell
+    US11472296B2,2022-10-18,Fuel cell vehicle and control method of fuel cell vehicle
+    JP5818014B2,2015-11-18,Fuel cell system
+    EP1256992A2,2002-11-13,Fuel cell power supply device
+    KR100974761B1,2010-08-06,Method for controlling fuel cell output of fuel cell hybrid vehicle
+    US11479125B2,2022-10-25,Fuel cell vehicle
+    JP2020174506A,2020-10-22,Fuel cell vehicle
+    JP2004253152A,2004-09-09,Power supply system and its control method
+    US11440434B2,2022-09-13,Hybrid vehicle and method for controlling hybrid vehicle
+    JP7127600B2,2022-08-30,FUEL CELL VEHICLE AND METHOD OF CONTROLLING FUEL CELL VEHICLE
+    JP2020178402A,2020-10-29,Fuel cell vehicle
+    JP2020178401A,2020-10-29,Fuel cell vehicle
+    JP2020170628A,2020-10-15,Fuel cell system
+    JP2020174028A,2020-10-22,Fuel cell vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    19
+classfication_items
+117
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,7,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,7,0
+    B,6,0,L,5,0,/,7,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,7,/,0,0
+    B,6,0,T,1,7,/,0,0,2
+    B,6,0,T,1,7,/,0,0,4
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,6,/,0,0
+    H,0,1,M,1,6,/,0,0,3
+    H,0,1,M,1,6,/,0,0,6
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,0,8,2
+    H,0,1,M,8,/,0,4,0,8,9
+    H,0,1,M,8,/,0,4,1,1,9
+    H,0,1,M,8,/,0,4,1,5,6
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,0,8,2
+    H,0,1,M,8,/,0,4,0,8,9
+    H,0,1,M,8,/,0,4,1,1,9
+    H,0,1,M,8,/,0,4,1,5,6
+    H,0,1,M,8,/,0,4,1,7,9
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,8,/,0,0
+    H,0,1,M,8,/,0,4
+    H,0,1,M,8,/,0,4,0,8,2
+    H,0,1,M,8,/,0,4,2,0,1
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,2,2,2,0,/,0,0
+    H,0,1,M,2,2,2,0,/,2,0
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,2,2,5,0,/,0,0
+    H,0,1,M,2,2,5,0,/,2,0
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,3,0
+    Y,0,2,E,6,0,/,5,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,4,0
+
+application_events
+7
+    2020-04-09,Application filed by Toyota Motor Corp
+    2020-04-09,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2020-10-22,Publication of US20200331353A1
+    2022-10-18,Application granted
+    2022-10-18,Publication of US11472296B2
+    Status,Active
+    2040-09-21,Adjusted expiration
+
+active_area
+3
+    J,P
+    C,N
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2019077540A,2019-04-16,FUEL CELL VEHICLE AND METHOD OF CONTROLLING FUEL CELL VEHICLE
+    JP2019-077540,2019-04-16,
+    JPJP2019-077540,2019-04-16,
+
+legal_event
+10
+    Date,Code,Title,Description
+    2020-04-09,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:NANBA, RYOUICHI;REEL/FRAME:052360/0047Effective date: 20200131
+    2020-04-09,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2020-06-26,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2022-01-11,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2022-04-12,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2022-06-09,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2022-08-12,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2022-09-13,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2022-09-28,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

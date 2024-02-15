@@ -1,0 +1,215 @@
+ID
+    JP2012075209A
+citation_exist
+    Patent Citations (6)
+citation_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH07131999A                      *,1993-10-29,1995-05-19,Honda Motor Co Ltd,エンジン駆動発電機
+    JP2002235575A                      *,2001-02-06,2002-08-23,Meidensha Corp,シリーズハイブリッド電気自動車用発電機の制御方式
+    JP2007195334A                      *,2006-01-19,2007-08-02,Hitachi Ltd,鉄道車両の駆動装置
+    JP2008054408A                      *,2006-08-24,2008-03-06,Hitachi Ltd,鉄道車両の駆動装置
+    Family To Family Citations,,,,
+    US20020157881A1                      *,2000-11-13,2002-10-31,Daniel Bakholdin,Turbine power unit for hybrid electric vehicle applications
+    JP3927518B2,2003-06-06,2007-06-13,川崎重工業株式会社,発電装置
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (5)
+              
+
+
+citedBy_infor
+7
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN103516272A                      *,2012-06-28,2014-01-15,通用电气公司,电磁制动系统和方法
+    CN103660973A                      *,2012-08-31,2014-03-26,马自达汽车株式会社,车辆用电源装置及其控制方法
+    US9601918B2,2012-06-28,2017-03-21,General Electric Company,Systems and methods for controlling acceleration of a power generator
+    Family To Family Citations,,,,
+    US11260758B2                      *,2015-12-09,2022-03-01,Kawasaki Jukogyo Kabushiki Kaisha,Railcar control device, train set, and method of controlling traction motor
+    KR101871778B1                      *,2018-02-06,2018-06-27,주식회사 이노비,병렬 디젤엔진발전기 시스템 및 그 제어방법
+
+abstract
+    【課題】エンジン制御系と発電制御系の間で電気的な制御情報のやり取りをすることなく、エンジン発電機の動作、あるいは発電電力を制御する鉄道車両の発電システムを提供する。【解決手段】エンジンの出力を制御するエンジン制御装置は、エンジンに取り付けられた回転検出器の情報を基に、速度演算部で算出したエンジン回転速度信号を認識し、エンジン回転速度信号に応じてエンジン出力を制御する。また、発電機の発電電力を制御する発電機制御装置は、発電機に備えられた回転検出器の情報を基に速度演算部で算出した発電機回転速度信号を認識し、発電機回転速度信号に応じて発電電力を制御する。このため、エンジンと発電機制御間で情報をやり取りすることなくエンジン発電制御を実現できる。【選択図】  図１
+title
+    鉄道車両の発電システム
+similar_document
+25
+    Publication,Publication Date,Title
+    JP5197939B2,2013-05-15,鉄道車両の駆動装置
+    JP3232823B2,2001-11-26,電気自動車の回生制動制御方法
+    US7317295B2,2008-01-08,Electric motor driving system, electric four-wheel drive vehicle, and hybrid vehicle
+    JP4845515B2,2011-12-28,鉄道車両の駆動装置
+    JP5259324B2,2013-08-07,鉄道車両の駆動システム
+    JP2011036008A,2011-02-17,モータの制御装置及びそれを備えたモータシステム
+    JP5604245B2,2014-10-08,鉄道車両の発電システム
+    CN103158566A,2013-06-19,一种交流电传动系统
+    JPWO2008081509A1,2010-04-30,電気駆動車両の駆動制御装置
+    EP2879902B1,2021-05-19,Optimized control of the operation of one or more traction systems of a train for entering and exiting from a coasting condition
+    JP5036918B2,2012-09-26,電力変換装置
+    JP5911513B2,2016-04-27,ハイブリッド車両の発電機制御装置
+    JP4588437B2,2010-12-01,鉄道車両の駆動装置
+    JP5674963B2,2015-02-25,ハイブリッド車両の発電機制御装置
+    JP3972322B2,2007-09-05,電気車の制御装置
+    JPH11252993A,1999-09-17,駆動装置
+    JP6147380B2,2017-06-14,ハイブリッド車両の発電機制御装置
+    JP5772754B2,2015-09-02,電動車両の駆動装置
+    JP6841627B2,2021-03-10,補助電源装置
+    WO2022059106A1,2022-03-24,電力変換装置および駆動制御装置
+    JP5325478B2,2013-10-23,鉄道車両駆動システム
+    JP2017143654A,2017-08-17,電気自動車
+    Shardlow et al.,2006,DC motor control
+    KR20170086966A,2017-07-27,Isg 시스템 및 그 제어 방법
+
+patent_application
+    NoExist
+patent_priority_application
+5
+    Application,Priority date,Filing date,Title
+    JP2010216323A,2010-09-28,2010-09-28,鉄道車両の発電システム
+    KR1020110084515A,2010-09-28,2011-08-24,철도 차량의 발전 시스템
+    CN201110245220.7A,2010-09-28,2011-08-25,铁道车辆的发电系统
+    EP11181284.8A,2010-09-28,2011-09-14,Generation system for rail cars
+
+inventor_number
+    6
+classfication_nums
+    14
+classfication_items
+86
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,9,/,0,0
+    H,0,2,P,9,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,2
+    B,6,0,L,1,5,/,0,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,5,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,9,/,0,0
+    H,0,2,P,9,/,4,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,4
+    B,6,0,L,2,2,4,0,/,4,4,3
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+
+application_events
+8
+    2010-09-28,Application filed by Hitachi Ltd
+    2010-09-28,Priority to JP2010216323A
+    2012-04-12,Publication of JP2012075209A
+    2012-06-28,Publication of JP2012075209A5
+    2014-10-08,Application granted
+    2014-10-08,Publication of JP5604245B2
+    Status,Active
+    2030-09-28,Anticipated expiration
+
+active_area
+2
+    J,P
+    K,R
+
+not_active_area
+2
+    C,N
+    E,P
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2010216323A,2010-09-28,鉄道車両の発電システム
+
+legal_event
+16
+    Date,Code,Title,Description
+    2012-05-15,A521,Written amendment,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20120514
+    2012-05-15,A621,Written request for application examination,Free format text: JAPANESE INTERMEDIATE CODE: A621Effective date: 20120514
+    2012-05-19,RD04,Notification of resignation of power of attorney,Free format text: JAPANESE INTERMEDIATE CODE: A7424Effective date: 20120518
+    2012-11-07,A977,Report on retrieval,Free format text: JAPANESE INTERMEDIATE CODE: A971007Effective date: 20121107
+    2012-11-21,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20121120
+    2013-01-19,A521,Written amendment,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20130118
+    2013-03-27,A02,Decision of refusal,Free format text: JAPANESE INTERMEDIATE CODE: A02Effective date: 20130326
+    2013-06-26,A521,Written amendment,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20130625
+    2013-07-03,A911,Transfer to examiner for re-examination before appeal (zenchi),Free format text: JAPANESE INTERMEDIATE CODE: A911Effective date: 20130702
+    2013-07-31,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20130730
+    2013-09-27,A521,Written amendment,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20130926
+    2013-11-05,A912,Re-examination (zenchi) completed and case transferred to appeal board,Free format text: JAPANESE INTERMEDIATE CODE: A912Effective date: 20131101
+    2014-04-26,A521,Written amendment,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20140425
+    2014-08-28,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20140825
+    2014-08-29,R151,Written notification of patent or utility model registration,Ref document number: 5604245Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R151
+

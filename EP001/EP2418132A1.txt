@@ -1,0 +1,240 @@
+ID
+    EP2418132A1
+citation_exist
+    Patent Citations (14)
+citation_infor
+16
+    Publication number,Priority date,Publication date,Assignee,Title
+    JPH06153316A                      *,1992-11-13,1994-05-31,Honda Motor Co Ltd,Brake system for motor vehicle
+    US5857755A                      *,1994-03-17,1999-01-12,Aoki; Yasushi,Combined hydraulic and regenerative brake system in an electric vehicle
+    JP2000225932A                      *,1999-02-04,2000-08-15,Toyota Motor Corp,Brake control device of electric vehicle
+    DE102004027256A1                      *,2003-06-05,2005-01-05,Continental Teves Ag & Co. Ohg,Motor vehicle brake system has electric regenerative brake, especially generator, hydraulic friction brakes driven by hydraulic system with brake arrangement, low-pressure brake fluid storage devices
+    JP2005329740A                      *,2004-05-18,2005-12-02,Toyota Motor Corp,Vehicular braking system
+    JP2008110633A                      *,2006-10-30,2008-05-15,Honda Motor Co Ltd,Braking device
+    Family To Family Citations,,,,
+    JP3565353B2                      *,1994-07-13,2004-09-15,株式会社ボッシュオートモーティブシステム,Regenerative brake interlocking friction brake system
+    JP3939482B2                      *,2000-01-21,2007-07-04,住友電工ブレーキシステムズ株式会社,Braking torque control device
+    JP4370775B2,2002-12-17,2009-11-25,日産自動車株式会社,Combined brake coordination controller
+    US20050269875A1,2004-06-08,2005-12-08,Kazuya Maki,Vehicle brake device
+    JP4296991B2,2004-06-08,2009-07-15,株式会社アドヴィックス,Brake device for vehicle
+    JP4449781B2                      *,2005-02-25,2010-04-14,トヨタ自動車株式会社,Braking control device
+    JP2006312384A                      *,2005-05-09,2006-11-16,Honda Motor Co Ltd,Regenerative braking and friction braking device for vehicle
+    US8366210B2                      *,2006-04-03,2013-02-05,Advics Co., Ltd.,Braking apparatus for vehicle
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (12)
+              
+
+
+citedBy_infor
+14
+    Publication number,Priority date,Publication date,Assignee,Title
+    WO2016146277A1                      *,2015-03-18,2016-09-22,Robert Bosch Gmbh,Method for operating a recuperative brake system of a vehicle and control device for a recuperative brake system of a vehicle
+    Family To Family Citations,,,,
+    GB2483477B                      *,2010-09-09,2013-07-24,Lightning Car Company Ltd,Braking
+    JP5797542B2                      *,2011-12-20,2015-10-21,日立オートモティブシステムズ株式会社,Brake device
+    JP6024333B2                      *,2012-09-21,2016-11-16,日産自動車株式会社,Brake control device for vehicle
+    FR3002508B1                      *,2013-02-25,2016-07-29,Commissariat Energie Atomique,BRAKING SYSTEM OF A VEHICLE
+    JP5979101B2                      *,2013-08-26,2016-08-24,トヨタ自動車株式会社,vehicle
+    JP2015074369A                      *,2013-10-10,2015-04-20,日産自動車株式会社,Longitudinal acceleration control device
+    JP6595417B2                      *,2016-08-10,2019-10-23,株式会社アドヴィックス,Braking device for vehicle
+    KR102347687B1                      *,2017-02-20,2022-01-05,현대자동차주식회사,Method for controlling brake system to prevent braking inconvenience in automatic driving
+    CN107310557B                      *,2017-07-05,2019-08-02,重庆大学,A kind of method of hybrid vehicle braking mode switching coordinated control
+    CN112848907B                      *,2019-11-12,2022-09-30,广州汽车集团股份有限公司,Vehicle brake control method and device
+    JP2023119255A                      *,2022-02-16,2023-08-28,株式会社アドヴィックス,Braking control device
+
+abstract
+    At a time (t3) when a vehicle speed is decreased below a switching-start vehicle speed and the switching from regenerative braking to fluid pressure braking is performed, even if a slave cylinder is caused to be operated by driving an electric motor at the same time of starting the reduction of regenerative braking force, the increase of fluid pressure braking force is delayed by an ineffective stroke in the slave cylinder. Accordingly, a temporary drop of total braking force of the regenerative braking force and fluid pressure braking force is generated. However, at a time (t2) when a vehicle speed is decreased below a switching-preparation-start vehicle speed, the electric motor is, beforehand, caused to drive slightly to cancel out the ineffective stroke in the slave cylinder. This can prevent a temporary drop of the total braking force of the regenerative braking force and fluid pressure braking force at the time of the switching, and can thereby prevent deterioration of brake feeling.
+title
+    Brake device for vehicle
+similar_document
+24
+    Publication,Publication Date,Title
+    EP2418132B1,2013-12-11,Brake device for vehicle
+    EP2428416B1,2017-05-17,Vehicle braking device
+    JP5351256B2,2013-11-27,Brake device for automobile, operation method thereof and hydraulic device
+    KR102187995B1,2020-12-07,Brake control device
+    JP5514805B2,2014-06-04,Brake control device
+    US9586486B2,2017-03-07,Control unit for a recuperative brake system of a vehicle and method for braking a vehicle
+    KR102480768B1,2022-12-23,Method for operating regenerative brake system of vehicle, and control device for regenerative brake system of vehicle
+    KR101956405B1,2019-06-19,Control device for a brake system of a vehicle, brake system for a vehicle, and method for operating a brake system of a vehicle
+    JP5863954B2,2016-02-17,CONTROL DEVICE FOR VEHICLE BRAKE SYSTEM AND METHOD FOR OPERATING VEHICLE BRAKE SYSTEM
+    CN103180188B,2016-08-17,For running method and the control equipment of the brakes being furnished with electric driver and/or rotor machine
+    JP5961513B2,2016-08-02,Vehicle control device and brake control device
+    US20130082514A1,2013-04-04,Brake control device
+    US10005442B2,2018-06-26,Brake control device
+    JP2014051285A,2014-03-20,Brake device of automobile, hydraulic device therefor, and operation method of brake device
+    KR20110101154A,2011-09-15,Brake system for a motor vehicle and method for controlling said brake system
+    EP3038869A1,2016-07-06,Vehicle
+    AU2014313900A1,2016-03-17,Vehicle
+    JP5566873B2,2014-08-06,Brake device for vehicle
+    JP2015030426A,2015-02-16,Braking device for vehicle
+    KR102487781B1,2023-01-12,Regenerative braking system for a vehicle and method for operating the regenerative braking system in a vehicle
+    JP2010215069A,2010-09-30,Bbw type brake device
+    JP2015006831A,2015-01-15,Vehicle brake device
+    JP5113535B2,2013-01-09,Brake device
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    10
+classfication_items
+67
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,3,2
+    B,6,0,T,8,/,3,4
+    B,6,0,T,8,/,4,0
+    B,6,0,T,8,/,4,0,7,2
+    B,6,0,T,8,/,4,0,8,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,5
+    B,6,0,T,1,3,/,5,8,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,6,6
+    B,6,0,T,1,3,/,6,6,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,6,6
+    B,6,0,T,1,3,/,6,8
+    B,6,0,T,1,3,/,6,8,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+
+application_events
+7
+    2010-03-17,Application filed by Honda Motor Co Ltd
+    2012-02-15,Publication of EP2418132A1
+    2012-10-10,Publication of EP2418132A4
+    2013-12-11,Application granted
+    2013-12-11,Publication of EP2418132B1
+    Status,Not-in-force
+    2030-03-17,Anticipated expiration
+
+active_area
+3
+    C,N
+    W,O
+    J,P
+
+not_active_area
+2
+    E,P
+    U,S
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2009093575,2009-04-08,
+    PCT/JP2010/054569,2010-03-17,Brake device for vehicle
+
+legal_event
+49
+    Date,Code,Title,Description
+    2012-01-13,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2012-02-15,17P,Request for examination filed,Effective date: 20111028
+    2012-02-15,AK,Designated contracting states,Kind code of ref document: A1Designated state(s): AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO SE SI SK SM TR
+    2012-07-18,DAX,Request for extension of the european patent (deleted),
+    2012-10-10,A4,Supplementary search report drawn up and despatched,Effective date: 20120906
+    2012-10-10,RIC1,Information provided on ipc code assigned before grant,Ipc: B60T   8/00        20060101AFI20120831BHEPIpc: B60L   7/24        20060101ALI20120831BHEPIpc: B60T   8/17        20060101ALI20120831BHEPIpc: B60L   7/10        20060101ALI20120831BHEP
+    2012-10-17,17Q,First examination report despatched,Effective date: 20120918
+    2013-07-01,GRAP,Despatch of communication of intention to grant a patent,Free format text: ORIGINAL CODE: EPIDOSNIGR1
+    2013-07-31,INTG,Intention to grant announced,Effective date: 20130702
+    2013-11-01,GRAS,Grant fee paid,Free format text: ORIGINAL CODE: EPIDOSNIGR3
+    2013-11-08,GRAA,(expected) grant,Free format text: ORIGINAL CODE: 0009210
+    2013-12-11,AK,Designated contracting states,Kind code of ref document: B1Designated state(s): AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO SE SI SK SM TR
+    2013-12-11,REG,Reference to a national code,Ref country code: GBRef legal event code: FG4D
+    2013-12-13,REG,Reference to a national code,Ref country code: CHRef legal event code: EP
+    2014-01-15,REG,Reference to a national code,Ref country code: ATRef legal event code: REFRef document number: 644362Country of ref document: ATKind code of ref document: TEffective date: 20140115
+    2014-01-29,REG,Reference to a national code,Ref country code: IERef legal event code: FG4D
+    2014-02-06,REG,Reference to a national code,Ref country code: DERef legal event code: R096Ref document number: 602010012381Country of ref document: DEEffective date: 20140206
+    2014-04-02,REG,Reference to a national code,Ref country code: NLRef legal event code: VDEPEffective date: 20131211
+    2014-04-15,REG,Reference to a national code,Ref country code: ATRef legal event code: MK05Ref document number: 644362Country of ref document: ATKind code of ref document: TEffective date: 20131211
+    2014-04-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: LTFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131211Ref country code: SEFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131211Ref country code: HRFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131211Ref country code: NLFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131211Ref country code: FIFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131211Ref country code: NOFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20140311
+    2014-05-26,REG,Reference to a national code,Ref country code: LTRef legal event code: MG4D
+    2014-05-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: CYFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131211Ref country code: LVFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131211Ref country code: ATFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131211
+    2014-07-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: ISFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20140411Ref country code: BEFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131211Ref country code: EEFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131211
+    2014-08-29,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: ROFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131211Ref country code: PTFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20140411Ref country code: SKFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131211Ref country code: PLFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131211Ref country code: CZFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131211Ref country code: ESFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131211
+    2014-08-29,PGFP,Annual fee paid to national office [announced via postgrant information from national office to epo],Ref country code: GBPayment date: 20140319Year of fee payment: 5
+    2014-09-12,REG,Reference to a national code,Ref country code: DERef legal event code: R097Ref document number: 602010012381Country of ref document: DE
+    2014-10-17,PLBE,No opposition filed within time limit,Free format text: ORIGINAL CODE: 0009261
+    2014-10-17,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: NO OPPOSITION FILED WITHIN TIME LIMIT
+    2014-10-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: DKFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131211Ref country code: LUFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20140317
+    2014-10-31,REG,Reference to a national code,Ref country code: CHRef legal event code: PL
+    2014-11-19,26N,No opposition filed,Effective date: 20140912
+    2014-11-20,REG,Reference to a national code,Ref country code: DERef legal event code: R084Ref document number: 602010012381Country of ref document: DE
+    2014-12-24,REG,Reference to a national code,Ref country code: DERef legal event code: R097Ref document number: 602010012381Country of ref document: DEEffective date: 20140912
+    2014-12-26,REG,Reference to a national code,Ref country code: FRRef legal event code: STEffective date: 20141128
+    2014-12-31,REG,Reference to a national code,Ref country code: DERef legal event code: R084Ref document number: 602010012381Country of ref document: DEEffective date: 20141120Ref country code: IERef legal event code: MM4A
+    2015-01-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: IEFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20140317Ref country code: CHFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20140331Ref country code: FRFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20140331Ref country code: LIFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20140331
+    2015-02-27,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: SIFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131211
+    2015-11-25,GBPC,Gb: european patent ceased through non-payment of renewal fee,Effective date: 20150317
+    2016-01-29,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: GBFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20150317
+    2016-02-29,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: MTFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131211
+    2016-04-29,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: SMFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131211
+    2016-04-29,PGFP,Annual fee paid to national office [announced via postgrant information from national office to epo],Ref country code: DEPayment date: 20160308Year of fee payment: 7
+    2016-05-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: MCFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131211
+    2016-06-30,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: GRFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20140312Ref country code: BGFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131211Ref country code: ITFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131211
+    2016-07-29,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: HUFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT; INVALID AB INITIOEffective date: 20100317Ref country code: TRFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131211
+    2017-10-03,REG,Reference to a national code,Ref country code: DERef legal event code: R119Ref document number: 602010012381Country of ref document: DE
+    2018-01-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: DEFree format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEESEffective date: 20171003
+    2018-06-29,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: MKFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20131211
+

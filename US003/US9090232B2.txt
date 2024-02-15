@@ -1,0 +1,222 @@
+ID
+    US9090232B2
+citation_exist
+    Patent Citations (9)
+citation_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2005341701A,2004-05-26,2005-12-08,Toyota Motor Corp,Temperature detector and control device of in-wheel motor
+    JP2007124832A,2005-10-28,2007-05-17,Toyota Motor Corp,Drive force controller of electric vehicle
+    JP2009247205A,2009-06-05,2009-10-22,Nissan Motor Co Ltd,Driving-force controller for wheel independent driving type electric vehicle
+    Family To Family Citations,,,,
+    JPH07106007B2                      *,1985-01-21,1995-11-13,株式会社日立製作所,Adhesion control device for railway vehicles
+    JP4428162B2                      *,2004-07-20,2010-03-10,トヨタ自動車株式会社,Brake control device
+    JP4697602B2                      *,2006-02-07,2011-06-08,株式会社デンソー,Electric vehicle control device
+    JP2008167640A                      *,2006-12-08,2008-07-17,Bridgestone Corp,Vehicle control device and driving system for electric vehicle
+    JP5218193B2                      *,2009-03-24,2013-06-26,株式会社デンソー,Navigation device, electric motor drive motor control system, and drive motor control method
+    JP2011114947A                      *,2009-11-26,2011-06-09,Toyota Motor Corp,Cooling apparatus for drive unit of right and left independent drive type vehicle
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (16)
+              
+
+
+citedBy_infor
+18
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20160001756A1                      *,2013-02-19,2016-01-07,Mitsubishi Electric Corporation,Brake control device, and brake control method
+    Family To Family Citations,,,,
+    JP5862636B2                      *,2013-10-16,2016-02-16,トヨタ自動車株式会社,Braking / driving force control device for vehicle
+    JP6355927B2                      *,2014-01-24,2018-07-11,Ntn株式会社,Drive control device for motor-equipped automobiles
+    WO2016092587A1                      *,2014-12-08,2016-06-16,日産自動車株式会社,Braking/drive power control device and braking/drive power control method
+    KR20160071850A                      *,2014-12-12,2016-06-22,현대자동차주식회사,Method for controlling braking force in regenerative brake cooperation system
+    CN104777825B                      *,2014-12-29,2017-08-11,吉林大学,The inspection stand of wheel hub motor system method for controlling torque and method for controlling torque
+    JP6329105B2                      *,2015-05-13,2018-05-23,トヨタ自動車株式会社,Driving force control device for four-wheel drive vehicle
+    JP2017001636A,2015-06-16,2017-01-05,ローベルト ボッシュ ゲゼルシャフト ミット ベシュレンクテル ハフツング,Vehicle body behavior control device and vehicle body behavior control method
+    GB201515813D0,2015-09-07,2015-10-21,Jaguar Land Rover Ltd,Controller for a braking system
+    CN105109477B                      *,2015-09-09,2017-06-06,北京理工大学,A kind of torque distribution method of wheel-hub motor driven vehicle
+    JP2017144949A                      *,2016-02-19,2017-08-24,本田技研工業株式会社,Brake device for electric car
+    JP6380429B2                      *,2016-03-02,2018-08-29,トヨタ自動車株式会社,Automobile
+    US10369888B2                      *,2016-03-09,2019-08-06,Ford Global Technologies, Llc,Control system for regenerative braking in a hybrid vehicle
+    CN106080605B                      *,2016-08-23,2019-04-12,南京越博动力系统股份有限公司,A kind of wheel torque distribution method based on forerunner's hub motor
+    JP6718427B2                      *,2017-12-01,2020-07-08,株式会社Ｓｕｂａｒｕ,Vehicle control device and vehicle control method
+    KR102591992B1                      *,2018-09-11,2023-10-23,현대자동차주식회사,Vehicle and method for controlling thereof
+
+abstract
+    An ECU calculates the thermal margins of the in-wheel motors, on the basis of the thermal capacities of the in-wheel motors, the allowable limit temperatures, and the motor temperatures. Next, the ECU distributes the total requested torque between the requested torques for each wheel using the percentages of the thermal margins. The ECU controls the operation of an inverter such that the in-wheel motors generate the requested torques for the wheels. Thus, the four in-wheel motors generate uniform amounts of heat.
+title
+    Vehicle braking/driving force control device
+similar_document
+26
+    Publication,Publication Date,Title
+    US9090232B2,2015-07-28,Vehicle braking/driving force control device
+    US11021068B2,2021-06-01,Vehicle control device and control method
+    KR101986472B1,2019-06-05,A driving force control method and a driving force control apparatus
+    US8924055B2,2014-12-30,Vehicle control apparatus
+    EP3718839B1,2021-08-04,Braking force controller and vehicle
+    EP3347228B1,2022-06-15,Electric vehicle with and method, controller and computer programm for a braking system
+    US10065627B2,2018-09-04,Electric vehicle power management driver control system
+    US20150019058A1,2015-01-15,Regenerative braking regulation in automotive vehicles
+    US11021153B2,2021-06-01,Control apparatus of electric vehicle
+    KR101339231B1,2014-01-06,Torque control system for fulltime 4 wheel drive green car and method thereof
+    WO2013085000A1,2013-06-13,Electric vehicle control device
+    US20050103549A1,2005-05-19,Vehicle driving force control apparatus
+    JP2017118735A,2017-06-29,Vehicle drive force control device
+    JP2007252153A,2007-09-27,Automobile controller and automobile
+    JP6443258B2,2018-12-26,Braking / driving force control device and braking / driving force control method
+    JP6458324B2,2019-01-30,Braking control device for vehicle
+    Mutoh et al.,2005,Control methods suitable for electric vehicles with independently driven front and rear wheel structures
+    JP2005053317A,2005-03-03,Controller of hybrid automobile
+    JP4165344B2,2008-10-15,Vehicle control device
+    CN109715430B,2022-05-10,Vehicle brake device
+    JP2006296131A,2006-10-26,Drive controller for vehicle
+    JP2013252023A,2013-12-12,Electric vehicle
+    JP2013165547A,2013-08-22,Vehicle control device
+    JP2017216834A,2017-12-07,Regenerative braking force control device
+    JP2019103320A,2019-06-24,Vehicle control device and vehicle control method
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    5
+classfication_nums
+    17
+classfication_items
+92
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,0,2
+    B,6,0,L,7,/,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,5,5
+    B,6,0,T,8,/,1,7,5,5,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,4
+    B,6,0,W,3,0,/,1,8,4,3
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,7,/,0,0
+    B,6,0,K,7,/,0,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,3,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,4,0,/,0,0
+    B,6,0,T,2,2,4,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,7,5
+
+application_events
+7
+    2011-11-08,Application filed by Toyota Motor Corp
+    2014-04-25,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2014-11-20,Publication of US20140343816A1
+    2015-07-28,Application granted
+    2015-07-28,Publication of US9090232B2
+    Status,Expired - Fee Related
+    2031-11-08,Anticipated expiration
+
+active_area
+1
+    W,O
+
+not_active_area
+4
+    J,P
+    U,S
+    C,N
+    E,P
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2011/075703,2011-11-08,Vehicle braking/driving force control device
+
+legal_event
+8
+    Date,Code,Title,Description
+    2014-04-25,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:ONODA, YUICHI;TAKAKUWA, KEI;FUKUDOME, HIDEKI;AND OTHERS;SIGNING DATES FROM 20140403 TO 20140407;REEL/FRAME:032758/0133
+    2015-07-08,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2019-01-17,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+    2023-03-20,FEPP,Fee payment procedure,Free format text: MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2023-09-04,LAPS,Lapse for failure to pay maintenance fees,Free format text: PATENT EXPIRED FOR FAILURE TO PAY MAINTENANCE FEES (ORIGINAL EVENT CODE: EXP.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2023-09-04,STCH,Information on status: patent discontinuation,Free format text: PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362
+    2023-09-26,FP,Lapsed due to failure to pay maintenance fee,Effective date: 20230728
+

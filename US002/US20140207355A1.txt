@@ -1,0 +1,273 @@
+ID
+    US20140207355A1
+citation_exist
+    Patent Citations (23)
+citation_infor
+25
+    Publication number,Priority date,Publication date,Assignee,Title
+    US5433512A                      *,1992-11-13,1995-07-18,Honda Giken Kogyo Kabushiki Kaisha,Braking system for electric vehicle
+    US6122588A                      *,1999-10-19,2000-09-19,Ford Global Technologies, Inc.,Vehicle speed control with continuously variable braking torque
+    US6346064B1                      *,1999-08-06,2002-02-12,Honda Giken Kogyo Kabushiki Kaisha,Driving force control unit for vehicles
+    US20070018499A1                      *,2005-07-25,2007-01-25,Koichi Kokubo,Brake control apparatus for vehicle
+    US7565954B2                      *,2005-12-15,2009-07-28,Hitachi, Ltd.,Brake control apparatus for vehicle
+    US20130060409A1                      *,2010-05-17,2013-03-07,Honda Motor Co., Ltd.,Control device and control method for electric vehicle
+    Family To Family Citations,,,,
+    JPS514998B1,1969-09-10,1976-02-16,,
+    JPH05270387A                      *,1992-03-27,1993-10-19,Toyota Motor Corp,Brake control device for electric automobile
+    FR2705286B1                      *,1993-05-18,1995-09-08,Smh Management Services Ag,Vehicle comprising an electrical and mechanical braking system.
+    JPH0898313A,1994-09-21,1996-04-12,Aisin Seiki Co Ltd,Braking device of motor car
+    US6122585A                      *,1996-08-20,2000-09-19,Kabushiki Kaisha Toyota Chuo Kenkyusho,Anti-lock braking system based on an estimated gradient of friction torque, method of determining a starting point for anti-lock brake control, and wheel-behavior-quantity servo control means equipped with limit determination means
+    JPH10297462A,1997-04-28,1998-11-10,Toyota Motor Corp,Braking force controller
+    JP3449219B2,1998-05-12,2003-09-22,日産自動車株式会社,Braking force control device
+    JP3972535B2                      *,1999-09-28,2007-09-05,日産自動車株式会社,Automotive braking force control device
+    JP3740007B2                      *,2000-09-28,2006-01-25,トヨタ自動車株式会社,Control device for vehicle brake
+    JP4370775B2,2002-12-17,2009-11-25,日産自動車株式会社,Combined brake coordination controller
+    JP3966256B2                      *,2003-08-25,2007-08-29,トヨタ自動車株式会社,Control device for electric power steering device
+    JP4428063B2,2004-01-21,2010-03-10,トヨタ自動車株式会社,Vehicle driving force control device and vehicle driving force control method
+    JP2006025485A                      *,2004-07-06,2006-01-26,Nissan Motor Co Ltd,Brake drive force controller for vehicle
+    JP4882717B2                      *,2006-12-13,2012-02-22,トヨタ自動車株式会社,Braking / driving force control device
+    JP2009273275A,2008-05-08,2009-11-19,Toyota Motor Corp,Controller for vehicle
+    DE102010003076A1,2009-08-05,2011-08-18,Continental Automotive GmbH, 30165,Method for controlling a wheel brake slip and wheel brake slip control system for a vehicle with an electric drive
+    JP5104998B2,2010-08-30,2012-12-19,トヨタ自動車株式会社,Vehicle braking force control device
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (14)
+              
+
+
+citedBy_infor
+16
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20140343770A1                      *,2013-05-14,2014-11-20,Ford Global Technologies, Llc,Powertrain for electric vehicles
+    US20150274018A1                      *,2014-03-25,2015-10-01,Ford Global Technologies, Llc,Regenerative braking control system and method
+    US9156358B2                      *,2013-10-15,2015-10-13,Ford Global Technologies, Llc,Regenerative braking in the presence of an antilock braking system control event
+    US10589738B1                      *,2017-09-15,2020-03-17,Zoox, Inc.,Electronic braking systems and methods
+    CN111086394A                      *,2018-10-08,2020-05-01,奥迪股份公司,Braking system, motor vehicle and braking control method for an at least temporarily electrically driven vehicle
+    US11208085B2                      *,2018-02-09,2021-12-28,Mando Corporation,Automotive braking control system, apparatus, and method considering weather condition
+    US11518389B2                      *,2020-01-22,2022-12-06,Hyundai Motor Company,Method of controlling braking when steering in-wheel motor vehicle
+    IT202100023978A1                      *,2021-09-17,2023-03-17,Brembo Spa,Wheel slip control method and system with mixing of dissipative braking torque and regenerative braking torque in a B-b-W technology braking system of a vehicle
+    Family To Family Citations,,,,
+    JP6029572B2                      *,2013-12-17,2016-11-24,本田技研工業株式会社,Vehicle slip determination device
+    JP6569462B2                      *,2015-10-19,2019-09-04,トヨタ自動車株式会社,Vehicle control device
+    WO2018073017A1                      *,2016-10-19,2018-04-26,Robert Bosch Gmbh,Lateral dynamic control for regenerative and friction brake blending
+    JP7135929B2                      *,2019-02-20,2022-09-13,トヨタ自動車株式会社,Braking force controller
+    CN111186312B                      *,2020-01-22,2021-02-19,成都得佑轨道交通科技有限公司,Traction and braking system and method for railway vehicle
+    DE102022203749A1                      *,2022-04-13,2023-10-19,Robert Bosch Gesellschaft mit beschränkter Haftung,Control device for an electric drive system, braking system and method for controlling an electric drive system
+
+abstract
+    An electronic control unit of a braking force control apparatus for a vehicle activates, as a first state, in-wheel motors in a regeneration state, thereby generating motor braking torques, and causes friction brake mechanisms to generate friction braking forces. Moreover, the unit activates, as a second state, the motors in a power running state, thereby generating motor driving torques, and causes the mechanisms to generate friction braking forces. Then, when the state is caused to transition between the first state and the second state, the unit changes magnitudes of the braking torques or the driving torques generated by the motors to one of increase and decrease, and changes magnitudes of the friction braking forces generated by the mechanisms to one of increase and decrease.
+title
+    Braking force control apparatus for vehicle
+similar_document
+26
+    Publication,Publication Date,Title
+    US9283936B2,2016-03-15,Braking force control apparatus for vehicle
+    US8954249B2,2015-02-10,Braking force control apparatus for vehicle
+    US10046643B2,2018-08-14,Braking force control apparatus for a vehicle
+    JP6236672B2,2017-11-29,Control device for electric vehicle
+    JP5302749B2,2013-10-02,Electric vehicle control device
+    US10336195B2,2019-07-02,Vehicle control apparatus and vehicle control method
+    EP2560851B1,2015-03-18,Vehicle brake control system
+    JP6361916B2,2018-07-25,Vehicle control apparatus and vehicle control method
+    US20150100205A1,2015-04-09,Vehicle braking/driving force control apparatus
+    EP2542454B1,2016-05-25,Brake equipment of vehicle with driver seat whose direction is changeable
+    WO2015016326A1,2015-02-05,Vehicle control device
+    JP6164045B2,2017-07-19,Vehicle braking force control method
+    WO2015016325A1,2015-02-05,Vehicle control device
+    US20150274033A1,2015-10-01,Wheel control device, vehicle, and wheel control method
+    CN102652085B,2015-11-25,Reduce steering torque during brake operation
+    JP5506632B2,2014-05-28,Brake device for vehicle
+    JP6225563B2,2017-11-08,Vehicle control device
+    JP2015030314A,2015-02-16,Vehicle control device
+    US20230025963A1,2023-01-26,Braking control device
+    JP2004001625A,2004-01-08,Brake control system
+    CN114291053A,2022-04-08,Wheel slip control method for vehicle
+    CN114789721A,2022-07-26,Control system for vehicle
+    CN115817525A,2023-03-21,Vehicle motion control device
+    JP2021054371A,2021-04-08,Brake control device
+    JP2013180600A,2013-09-12,Device and method for brake control of vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    22
+classfication_items
+135
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,5,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,2,8,/,0,0
+    B,6,0,K,2,8,/,1,0
+    B,6,0,K,2,8,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,0
+    B,6,0,L,3,/,1,0,6
+    B,6,0,L,3,/,1,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,1,/,0,0
+    B,6,0,T,1,1,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,3,/,0,0
+    B,6,0,T,1,3,/,1,0
+    B,6,0,T,1,3,/,5,8
+    B,6,0,T,1,3,/,5,8,5
+    B,6,0,T,1,3,/,5,8,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,6
+    B,6,0,T,8,/,1,7,6,1
+    B,6,0,T,8,/,1,7,6,1,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,0,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,2,0,/,0,0
+    B,6,0,L,2,2,2,0,/,4,0
+    B,6,0,L,2,2,2,0,/,4,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,2,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2011-08-29,Application filed by Toyota Motor Corp
+    2014-02-28,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2014-07-24,Publication of US20140207355A1
+    2016-03-15,Application granted
+    2016-03-15,Publication of US9283936B2
+    Status,Active
+    2031-11-14,Adjusted expiration
+
+active_area
+4
+    U,S
+    D,E
+    W,O
+    J,P
+
+not_active_area
+1
+    C,N
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    PCT/JP2011/069450,2011-08-29,Braking force control apparatus for vehicle
+
+legal_event
+4
+    Date,Code,Title,Description
+    2014-02-28,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:AKAHO, DAISUKE;NAKATSU, MASATOSHI;SIGNING DATES FROM 20140207 TO 20140214;REEL/FRAME:032320/0916
+    2016-02-24,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2019-08-30,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

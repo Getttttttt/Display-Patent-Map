@@ -1,0 +1,251 @@
+ID
+    US9950639B2
+citation_exist
+    Patent Citations (13)
+citation_infor
+15
+    Publication number,Priority date,Publication date,Assignee,Title
+    EP0953471A2,1998-04-29,1999-11-03,Lockheed Martin Corporation,Drive-line damping control for an electric vehicle
+    JP3244184B2,1991-10-22,2002-01-07,東洋電機製造株式会社,Torsion control system by state space method.
+    US20040134267A1                      *,2002-04-12,2004-07-15,Mathew Boesch,Diagnostic system and method for an electric motor using torque estimates
+    JP2010051160A,2008-08-25,2010-03-04,Yokohama National Univ,Slip ratio estimator and method thereof, and slip ratio controller and method thereof
+    US20100141193A1                      *,2008-12-04,2010-06-10,Paola Rotondo,Torsional mode damping apparatus
+    US20130035838A1                      *,2010-04-19,2013-02-07,Audi Ag,Device for operating a drive unit of a motor vehicle
+    Family To Family Citations,,,,
+    FR2825485B1                      *,2001-05-29,2005-02-18,Alstom,METHOD AND DEVICE FOR CONTROLLING THE ANGULAR SPEED OF A LITTLE-DAMPED ELECTROMECHANICAL CHAIN
+    SE519792C2                      *,2001-08-17,2003-04-08,Volvo Lastvagnar Ab,Method for estimating the mass of a vehicle which is carried on a road with a varying slope and method for estimating the slope of the road on which a vehicle is driven
+    US7369002B2                      *,2005-07-28,2008-05-06,Zarlink Semiconductor, Inc.,Phase locked loop fast lock method
+    KR101004182B1                      *,2006-08-29,2010-12-24,미쓰비시덴키 가부시키가이샤,Ac motor vector control apparatus
+    ES2672505T3                      *,2007-12-03,2018-06-14,Nira Dynamics Ab,Estimation of the load of a vehicle
+    DE102009001331A1                      *,2009-03-04,2010-09-09,Robert Bosch Gmbh,Method and device for angular sensorless position detection of the rotor shaft of a permanent magnet synchronous machine based on current signals and voltage signals
+    US20120083950A1                      *,2010-09-30,2012-04-05,GM Global Technology Operations LLC,Enhanced stability control for an electric powertrain
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (5)
+              
+
+
+citedBy_exist
+    
+              Cited By (8)
+              
+
+
+citedBy_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    US11255749B2                      *,2016-11-28,2022-02-22,Avl List Gmbh,Method and device for controlling a test stand arrangement
+    Family To Family Citations,,,,
+    JP6578584B2                      *,2015-08-25,2019-09-25,日立オートモティブシステムズ株式会社,Control device for electric vehicle
+    CN105383326B                      *,2015-12-01,2018-02-06,苏州海格新能源汽车电控系统科技有限公司,A kind of moment of torsion filtering control method for entire car controller
+    EP3683471A1,2019-01-15,2020-07-22,ABB Schweiz AG,Damping torsional oscillations in a drive system
+    DE102019205326A1                      *,2019-04-12,2020-10-15,Robert Bosch Gmbh,Method for synchronizing signals
+    US11697424B2                      *,2020-02-14,2023-07-11,Hamilton Sundstrand Corporation,Health diagnosis of hybrid powerplant
+    US20220219548A1                      *,2021-01-11,2022-07-14,GM Global Technology Operations LLC,Linear time varying model predictive torque control
+    WO2022183410A1                      *,2021-03-03,2022-09-09,浙江吉利控股集团有限公司,Vehicle control method and system, and vehicle
+
+abstract
+    In one aspect, a system for torsional damping of electric traction drives comprises dual Kalman filters to correct for oscillations based on measured traction motor speed and commanded traction motor torque. A first Kalman filter can perform a state space estimate of the shaft torque providing negative feedback to the final torque command in order to eliminate resonant components from the commanded torque and quickly damp external disturbances. A second Kalman filter provides a state space estimation of the load torque or, equivalently, load acceleration. This second Kalman filter can ignore commanded torque and can provide a damping feedback when the wheel speed deviates from the vehicle speed.
+title
+    Dual kalman filter for torsional damping of electric traction drives
+similar_document
+26
+    Publication,Publication Date,Title
+    US9950639B2,2018-04-24,Dual kalman filter for torsional damping of electric traction drives
+    EP2451686B1,2013-05-01,Method and controller for controlling output torque of a propulsion unit.
+    JP3508742B2,2004-03-22,Vehicle vibration suppression control device using electric motor
+    US11105701B2,2021-08-31,Dynamometer control device
+    US6264292B1,2001-07-24,Wheel condition estimating apparatus
+    EP2840707A1,2015-02-25,Vehicle vibration-suppression control device and vehicle vibration-suppression control method
+    US11760199B2,2023-09-19,Traction control system
+    CN107428260A,2017-12-01,The driving-force control apparatus of electric vehicle
+    JP2013243847A,2013-12-05,Traction control device and traction control method
+    EP2621752B1,2019-07-10,Motor controlling apparatus
+    JP5098736B2,2012-12-12,Vehicle speed control device
+    CN104977949A,2015-10-14,Method for controlling the rotational speed of a motor
+    US9651452B2,2017-05-16,Method and device for controlling a powertrain test stand
+    JP2014508677A,2014-04-10,Detection of conduction mechanism vibration
+    CN112297873B,2023-05-12,Electric vehicle system and control method for controlling electric vehicle
+    JP2020043700A,2020-03-19,Control device and control method for inverter for electric vehicle
+    JP2014512472A,2014-05-22,Damping vibration of conduction mechanism
+    Reichhartinger et al.,2016,Robust cascaded automatic cruise control of electric vehicles
+    JP2005354774A,2005-12-22,Drive force control device
+    JPH1191539A,1999-04-06,Friction state arithmetic unit and braking force control device
+    Ghotikar,2008,Estimation of vehicle mass and road grade
+    JP5923880B2,2016-05-25,Damping control device and damping control method
+    JP2012017986A,2012-01-26,Vehicle weight calculation device
+    JP2005170194A,2005-06-30,Driving force control device
+    CN111572631A,2020-08-25,Steering dither control
+
+patent_application
+    NoExist
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US14/888,260,2014-02-28,2015-02-26,Dual kalman filter for torsional damping of electric traction drives
+
+inventor_number
+    5
+classfication_nums
+    24
+classfication_items
+116
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,1,/,1,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B,6,0,L,5,0,/,6,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,4,0
+    B,6,0,L,2,2,6,0,/,4,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,7,0,/,0,0
+    B,6,0,L,2,2,7,0,/,1,0
+    B,6,0,L,2,2,7,0,/,1,4
+    B,6,0,L,2,2,7,0,/,1,4,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y,0,2,T,1,0,/,6,2,1,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y,0,2,T,1,0,/,6,4,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y,0,2,T,1,0,/,7,0,7,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,4,1
+    Y,0,2,T,1,0,/,7,2,7,5
+
+application_events
+9
+    2015-02-26,Application filed by BAE Systems Controls Inc
+    2015-02-26,Priority to US14/888,260
+    2015-11-11,Assigned to BAE SYSTEMS INFORMATION AND ELECTRONIC SYSTEMS INTEGRATION INC.
+    2015-11-13,Assigned to BAE SYSTEMS CONTROLS INC.
+    2016-03-03,Publication of US20160059735A1
+    2018-04-24,Application granted
+    2018-04-24,Publication of US9950639B2
+    Status,Active
+    2035-04-11,Adjusted expiration
+
+active_area
+8
+    E,S
+    W,O
+    B,R
+    E,P
+    M,X
+    C,N
+    U,S
+    C,A
+
+not_active_area
+0
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    US201461946556P,2014-02-28,
+    US14/888,260,2015-02-26,Dual kalman filter for torsional damping of electric traction drives
+    PCT/US2015/017684,2015-02-26,Dual kalman filter for torsional damping of electric traction drives
+
+legal_event
+5
+    Date,Code,Title,Description
+    2015-11-11,AS,Assignment,Owner name: BAE SYSTEMS INFORMATION AND ELECTRONIC SYSTEMS INTFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:VOVOS, ROBERT J.;DUPUY, JAMES A.;LYONS, ARTHUR P.;SIGNING DATES FROM 20151103 TO 20151109;REEL/FRAME:037014/0899
+    2015-11-13,AS,Assignment,Owner name: BAE SYSTEMS CONTROLS INC., NEW YORKFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:VOVOS, ROBERT J.;DUPUY, JAMES A.;LYONS, ARTHUR P.;SIGNING DATES FROM 20151103 TO 20151109;REEL/FRAME:037033/0231
+    2018-04-04,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2021-10-25,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

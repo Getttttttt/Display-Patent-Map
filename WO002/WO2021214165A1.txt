@@ -1,0 +1,315 @@
+ID
+    WO2021214165A1
+citation_exist
+    Patent Citations (8)
+citation_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20130289811A1                      *,2012-04-30,2013-10-31,GM Global Technology Operations LLC,System and methods for torque control in an electronic all wheel drive vehicle
+    EP2774802A1                      *,2011-11-04,2014-09-10,Toyota Jidosha Kabushiki Kaisha,Vehicle and vehicle control method
+    WO2016026868A2                      *,2014-08-18,2016-02-25,Jaguar Land Rover Limited,Hybrid electric vehicle controller and method
+    US20190039596A1                      *,2017-08-04,2019-02-07,Toyota Motor Engineering & Manufacturing North America, Inc.,Navigation-enhanced battery state of charge maintenance
+    US20200017097A1                      *,2018-07-13,2020-01-16,Byton North America Corporation,Battery protection with downhill charge sustain
+    Family To Family Citations,,,,
+    GB2516495B                      *,2013-07-25,2017-03-15,Jaguar Land Rover Ltd,Vehicle control system and method
+    KR102444661B1                      *,2017-11-01,2022-09-19,현대자동차주식회사,Hybrid vehicle and method of changing operation mode for the same
+    US10597023B2                      *,2018-06-18,2020-03-24,GM Global Technology Operations LLC,Automatic prioritization of powertrain operations on surfaces having a low coefficient of friction
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    Aspects of the present invention relate to a control system (208) and method for controlling energy management of a traction battery (200) of a hybrid electric vehicle (10), the traction battery (200) configured to power at least one traction motor (212) coupled to an electric-only axle (213) of the vehicle (10) to provide all-wheel drive, the control system (208) comprising one or more electronic controllers (300), the one or more electronic controllers (300) configured to: determine a change of terrain mode and/or type for the vehicle and/or determine an increase in loading of the vehicle (10); select an energy management control strategy for the traction battery (200) of the vehicle (10) in dependence on the determined change in terrain mode and/or type and/or the determined increase in loading of the vehicle (10), wherein the traction battery (200) is configured to supply power to the at least one traction motor (212) to provide torque to the electric-only axle (213) of the vehicle (10) to enable the vehicle (10) to operate in an all-wheel drive mode, wherein selecting an energy management control strategy of the vehicle (10) comprises at least one of: selecting or adjusting a charge sustain set point (30) for the traction battery (200); and changing energy generation to recharge the traction battery (200).
+title
+    Controlling energy management of a traction battery of a hybrid electric vehicle
+similar_document
+17
+    Publication,Publication Date,Title
+    EP2701958B1,2019-02-13,Hybrid electric vehicle and method of control thereof
+    US10343547B2,2019-07-09,Vehicle control system and method
+    US9545914B2,2017-01-17,Hybrid electric vehicle controller and method of controlling a hybrid electric vehicle
+    CN103978974A,2014-08-13,System and method for implementing dynamic work mode and control strategy used by hybrid car
+    US20180194341A1,2018-07-12,Hybrid electric vehicle controller and method
+    US20230166715A1,2023-06-01,Torque distribution strategies for hybrid vehicles
+    US20230166746A1,2023-06-01,Controlling an electric machine to support diagnostic testing
+    US20190161074A1,2019-05-30,Method of controlling a hybrid vehicle
+    US20230166711A1,2023-06-01,Controlling energy management of a traction battery of a hybrid electric vehicle
+    US20230166716A1,2023-06-01,Compensation method for shortfall of engine torque
+    US20230159016A1,2023-05-25,Maintaining multi-axle drive capability in a hybrid vehicle
+    US20230166714A1,2023-06-01,Control system for torque source inertia compensation, method, vehicle and computer program
+    US20230166717A1,2023-06-01,Trigger conditions for hybrid vehicle operating mode changes
+    GB2608054A,2022-12-21,Controlling an electric machine to support diagnostic testing
+    GB2608306A,2022-12-28,Controlling an electric machine to support diagnostic testing
+    JP2016175497A,2016-10-06,Hybrid vehicle and control method therefor
+
+patent_application
+    NoExist
+patent_priority_application
+3
+    Application,Priority date,Filing date,Title
+    US17/920,744,2020-04-21,2021-04-21,Controlling energy management of a traction battery of a hybrid electric vehicle
+    EP21721056.6A,2020-04-21,2021-04-21,Controlling energy management of a traction battery of a hybrid electric vehicle
+
+inventor_number
+    6
+classfication_nums
+    35
+classfication_items
+222
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,7,/,0,0
+    B,6,0,K,1,7,/,3,4
+    B,6,0,K,1,7,/,3,5,4
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,7,/,0,0
+    B,6,0,K,1,7,/,3,4
+    B,6,0,K,1,7,/,3,5,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,3,8
+    B,6,0,K,6,/,3,8,7
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B,6,0,K,6,/,4,8,5
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,5,0
+    B,6,0,K,6,/,5,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,5,0
+    B,6,0,K,6,/,5,4
+    B,6,0,K,6,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B,6,0,L,1,5,/,2,0,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,4
+    B,6,0,W,1,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,0,2
+    B,6,0,W,4,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,1,2
+    B,6,0,W,4,0,/,1,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,0,8,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B,6,0,L,2,2,4,0,/,6,4,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,4
+    B,6,0,L,2,2,4,0,/,6,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,5,0,/,0,0
+    B,6,0,L,2,2,5,0,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,4
+    B,6,0,W,2,5,1,0,/,2,4,2
+    B,6,0,W,2,5,1,0,/,2,4,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,2,/,0,0
+    B,6,0,W,2,5,5,2,/,3,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,2,4
+    B,6,0,W,2,7,1,0,/,2,4,2
+    B,6,0,W,2,7,1,0,/,2,4,4
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,2,2,2,0,/,0,0
+    H,0,1,M,2,2,2,0,/,2,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+4
+    2021-04-21,Application filed by Jaguar Land Rover Limited
+    2021-04-21,Priority to US17/920,744
+    2021-04-21,Priority to EP21721056.6A
+    2021-10-28,Publication of WO2021214165A1
+
+active_area
+3
+    G,B
+    E,P
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    GB2005812.9A,2020-04-21,Controlling energy management of a traction battery
+    GB2005812.9,2020-04-21,
+
+legal_event
+4
+    Date,Code,Title,Description
+    2021-12-08,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 21721056Country of ref document: EPKind code of ref document: A1
+    2022-11-22,NENP,Non-entry into the national phase,Ref country code: DE
+    2022-11-25,ENP,Entry into the national phase,Ref document number: 2021721056Country of ref document: EPEffective date: 20221121
+

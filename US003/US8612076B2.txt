@@ -1,0 +1,189 @@
+ID
+    US8612076B2
+citation_exist
+    Patent Citations (14)
+citation_infor
+16
+    Publication number,Priority date,Publication date,Assignee,Title
+    EP0361708A2,1988-09-30,1990-04-04,Ford Motor Company Limited,Adaptive controller for regenerative and friction braking system
+    US5294191A                      *,1991-08-02,1994-03-15,Brembo S.P.A.,Braking system for electrically driven vehicles
+    US5378053A,1993-12-07,1995-01-03,Alliedsignal Inc.,Maximized regenerative braking vehicle braking controller
+    US5476310A                      *,1993-05-14,1995-12-19,Hitachi, Ltd.,Braking apparatus for electric vehicle
+    US5549371A                      *,1994-02-09,1996-08-27,Nippondenso Co., Ltd.,Braking force controller and control method for electric car
+    US5632534A                      *,1993-10-07,1997-05-27,Lucas Industries Public Limited Company,Electric vehicle having a hydraulic brake system
+    US6122587A                      *,1997-12-25,2000-09-19,Nissan Motor Co., Ltd.,Vehicle drive system controller and control method
+    US6488344B2                      *,2001-05-03,2002-12-03,Ford Motor Company,Distribution of torque when driven wheels slip during regenerative braking
+    US6709075B1                      *,2000-08-07,2004-03-23,Ford Global Technologies, Llc,System and method for braking an electric drive vehicle on a low Mu surface
+    US20050127750A1,2002-02-05,2005-06-16,Jochen Fuhrer,Co-ordination method for a regenerative and anti-skid braking system
+    US20070046099A1                      *,2005-08-29,2007-03-01,Masahiro Matsuura,Vehicle brake system
+    US7198336B2                      *,2000-09-28,2007-04-03,Toyota Jidosha Kabushiki Kaisha,Vehicular brake control apparatus and control method of vehicular brake apparatus
+    US7281770B1,2000-08-08,2007-10-16,Ford Global Technologies, Llc,System and method for regenerative and antiskid braking within an electric vehicle
+    US20080100132A1,2006-10-26,2008-05-01,Gab Bae Jeon,Method for control regenerative braking of electric vehicle
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (22)
+              
+
+
+citedBy_infor
+24
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20140277867A1                      *,2013-03-12,2014-09-18,Ford Global Technologies, Llc,Vehicle Mass Detection System
+    US20150175152A1                      *,2007-07-12,2015-06-25,Odyne Systems, Llc,Hybrid vehicle drive system and method and idle reduction system and method
+    US9643593B2,2007-07-12,2017-05-09,Power Technology Holdings Llc,Hybrid vehicle drive system and method for fuel reduction during idle
+    US9751518B2,2007-07-12,2017-09-05,Power Technology Holdings, Llc,Hybrid vehicle drive system and method and idle reduction system and method
+    US10071647B2,2007-07-12,2018-09-11,Power Technology Holdings Llc,System for and method of fuel optimization in a hybrid vehicle
+    US10137784B2                      *,2013-09-26,2018-11-27,Hitachi Automotive Systems, Ltd.,Control device for electric vehicle
+    US10427520B2,2013-11-18,2019-10-01,Power Technology Holdings Llc,Hybrid vehicle drive system and method using split shaft power take off
+    US10792993B2,2007-07-12,2020-10-06,Power Technology Holdings Llc,Vehicle drive system and method and idle reduction system and method
+    US11225240B2,2011-12-02,2022-01-18,Power Technology Holdings, Llc,Hybrid vehicle drive system and method for fuel reduction during idle
+    Family To Family Citations,,,,
+    DE102010042052A1                      *,2010-10-06,2012-04-12,Robert Bosch Gmbh,Electrical generator operating method for motor car, involves electrical energizing of electrical generator, disrupting electrical recuperation and electrically de-activating electrical generator if vehicle system of vehicle is activated
+    DE102011054290A1,2011-10-07,2013-04-11,Dr. Ing. H.C. F. Porsche Aktiengesellschaft,Method and device for controlling a braking system for a motor vehicle with a braking device
+    US8712616B2                      *,2012-04-26,2014-04-29,Ford Global Technologies, Llc,Regenerative braking control to mitigate powertrain oscillation
+    US9878621B2                      *,2012-12-08,2018-01-30,Ford Global Technologies, Llc,System and method for improved ABS performance during parallel regenerative braking
+    JP5884245B2                      *,2013-06-19,2016-03-15,オートリブ日信ブレーキシステムジャパン株式会社,Brake hydraulic pressure control device for vehicles
+    DE102014003992B4,2014-03-14,2016-01-07,Flanders' Drive,System and method for driving and braking torque control in electric vehicles with independent wheel drive
+    CN104108316B                      *,2014-04-12,2017-01-25,北京工业大学,Electrohydraulic-combined brake control method of battery electric vehicle
+    GB2557333B                      *,2016-12-07,2022-04-13,Bentley Motors Ltd,Braking system
+    DE102017204000A1,2017-03-10,2018-09-13,Zf Friedrichshafen Ag,Method for anti-lock control of a vehicle and vehicle
+    JP2021087235A                      *,2019-11-25,2021-06-03,トヨタ自動車株式会社,Braking apparatus for electric vehicle
+    CN111572355A                      *,2020-04-29,2020-08-25,汉腾新能源汽车科技有限公司,Braking control method for matching ABS system with energy recovery
+    CN111547031B                      *,2020-05-19,2022-04-22,中车青岛四方机车车辆股份有限公司,Wheel locking fault judgment method and system
+    CN111823873B                      *,2020-07-11,2022-06-07,的卢技术有限公司,Anti-lock braking control method for parallel energy recovery electric automobile
+
+abstract
+    The invention provides a method and a system for enabling antilock braking in a vehicle which is propelled at least by an electric motor. The method includes detecting tendency of locking of the at least one wheel by comparing actual rate of change of speed of the at least one of the motor, wheels, transmission, shaft and ground speed with expected rate of change of speed of at least one wheel, wherein the vehicle is being decelerated. Based on the tendency of locking at least regenerative braking is modulated to prevent locking of at least one wheel of the vehicle.
+title
+    Antilock braking for vehicles
+similar_document
+26
+    Publication,Publication Date,Title
+    US8612076B2,2013-12-17,Antilock braking for vehicles
+    US8548707B2,2013-10-01,Braking system and method for braking a vehicle having a hybrid drive
+    KR101404087B1,2014-06-05,Control method of regenerative brake system for vehicle
+    EP3050765B1,2020-11-11,Control device for electric vehicle
+    US20170166203A1,2017-06-15,Electronic stability control system for vehicle
+    US8886375B2,2014-11-11,Control apparatus for electric vehicle
+    JP6818481B2,2021-01-20,Braking control method for regenerative braking coordinated control system for vehicles
+    US20100198475A1,2010-08-05,Method for operating a vehicle brake system and vehicle brake system
+    US9914441B2,2018-03-13,Braking distance control device
+    EP3127738A1,2017-02-08,Vehicle control device and vehicle control method
+    CN108025651A,2018-05-11,Electric vehicle with the braking system and method for braking system, controller and computer program
+    CN104960512A,2015-10-07,Regenerative braking control system and method
+    CN106926709B,2021-08-31,Braking energy recovery device and method and light electric vehicle
+    US8494702B2,2013-07-23,Method and driveline stability control system for a vehicle
+    CN106608251A,2017-05-03,Braking control method and system for eco-friendly vehicle
+    CN107791885A,2018-03-13,The fail safe devices and methods therefor of ECM systems
+    JP2018043656A,2018-03-22,Vehicle brake force control device
+    JP2019017182A,2019-01-31,Regenerative control device of electric vehicle
+    JP5831258B2,2015-12-09,Braking / driving force control device for vehicle
+    CN105555580A,2016-05-04,Control of regenerative braking in an electric or hybrid vehicle
+    JP2016179703A,2016-10-13,Vehicular brake control device
+    KR101500348B1,2015-03-09,Method for brake controlling of hybrid vehicle
+    JP2013183502A,2013-09-12,Brake control device of rear wheel electric drive vehicle
+    CN112109687B,2021-07-06,Composite brake control system
+    KR101714084B1,2017-03-22,In Wheel Motor System and ABS Operation Method thereof
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    6
+classfication_nums
+    7
+classfication_items
+44
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,6
+    B,6,0,T,8,/,1,7,6,1
+    B,6,0,T,8,/,1,7,6,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,0
+    B,6,0,L,3,/,1,0,6
+    B,6,0,L,3,/,1,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,1,/,0,0
+    B,6,0,T,1,/,0,2
+    B,6,0,T,1,/,1,0
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,0,2
+
+application_events
+7
+    2009-10-14,Application filed by Mahindra Reva Electric Vehicles Pvt Ltd
+    2011-04-12,Assigned to MAHINDRA REVA ELECTRIC VEHICLES PVT. LTD.
+    2011-08-11,Publication of US20110196560A1
+    2013-12-17,Application granted
+    2013-12-17,Publication of US8612076B2
+    Status,Expired - Fee Related
+    2030-04-23,Adjusted expiration
+
+active_area
+1
+    W,O
+
+not_active_area
+3
+    U,S
+    C,N
+    D,E
+
+patent_application_claiming_priority
+6
+    Application,Filing date,Title
+    IN2648/CHE/2008,2008-10-31,
+    IN2648CH2008,2008-10-31,
+    INPCT/IN2009/000579,2009-10-15,
+    PCT/IN2009/000579,2009-10-15,Antilock braking for vehicles
+    WOPCT/IN2009/000579,2009-10-15,
+
+legal_event
+9
+    Date,Code,Title,Description
+    2011-04-12,AS,Assignment,Owner name: MAHINDRA REVA ELECTRIC VEHICLES PVT. LTD., INDIAFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:MAINI, CHETAN KUMAR;RAMARAJU, PRAKASH;MUNIRANGIAH, SURESH VEERABETAPPA;AND OTHERS;REEL/FRAME:026116/0320Effective date: 20110411
+    2013-11-26,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2014-02-25,CC,Certificate of correction,
+    2017-06-19,FPAY,Fee payment,Year of fee payment: 4
+    2021-08-09,FEPP,Fee payment procedure,Free format text: MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY
+    2022-01-24,LAPS,Lapse for failure to pay maintenance fees,Free format text: PATENT EXPIRED FOR FAILURE TO PAY MAINTENANCE FEES (ORIGINAL EVENT CODE: EXP.); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY
+    2022-01-24,STCH,Information on status: patent discontinuation,Free format text: PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362
+    2022-02-15,FP,Lapsed due to failure to pay maintenance fee,Effective date: 20211217
+

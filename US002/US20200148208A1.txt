@@ -1,0 +1,444 @@
+ID
+    US20200148208A1
+citation_exist
+    Patent Citations (17)
+citation_infor
+19
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JPH09277847A                      *,1996-04-11,1997-10-28,Toyota Motor Corp,Engine brake control device for hybrid vehicle
+    JP2857666B2                      *,1996-06-12,1999-02-17,本田技研工業株式会社,Control device for hybrid vehicle
+    JP3409669B2                      *,1997-03-07,2003-05-26,日産自動車株式会社,Transmission control device for continuously variable transmission
+    JP4258548B2                      *,2006-12-19,2009-04-30,トヨタ自動車株式会社,Vehicle and control method thereof
+    WO2010010283A2                      *,2008-07-22,2010-01-28,Renault S.A.S.,Motor vehicle regenerative braking method
+    KR101114383B1                      *,2009-11-19,2012-02-14,기아자동차주식회사,Method for controlling of hybrid electric vehicle
+    US8438943B2                      *,2010-12-08,2013-05-14,Honda Motor Co., Ltd.,Driver select paddle shift device and modes of operation
+    GB201201221D0                      *,2012-01-25,2012-03-07,Jaguar Cars,Hybrid electric vehicle and method of control thereof
+    WO2013140545A1                      *,2012-03-21,2013-09-26,トヨタ自動車株式会社,Drive control device for hybrid vehicle
+    US9007199B2                      *,2013-01-29,2015-04-14,Honda Motor Co., Ltd.,Drive mode selector
+    KR102030187B1                      *,2013-06-27,2019-10-08,현대자동차주식회사,Control apparatus and method for regenerative braking of eco-friendly vehicle
+    JP6177666B2                      *,2013-11-12,2017-08-09,日立オートモティブシステムズ株式会社,Drive control device for moving body
+    KR101724802B1                      *,2014-11-03,2017-04-07,현대자동차주식회사,Braking control method for eco-friendly vehicle
+    JP6183335B2                      *,2014-11-12,2017-08-23,トヨタ自動車株式会社,vehicle
+    JP6649600B2                      *,2015-08-03,2020-02-19,三菱自動車工業株式会社,Regenerative control device for electric vehicles
+    KR101704266B1                      *,2015-10-02,2017-02-07,현대자동차주식회사,Method for controlling battery soc of hybrid vehicle
+    WO2018185849A1                      *,2017-04-04,2018-10-11,日産自動車株式会社,Control method for hybrid vehicles
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (8)
+              
+
+
+citedBy_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20190299768A1                      *,2018-03-29,2019-10-03,Hyundai Mobis Co., Ltd.,Braking apparatus and braking control method for vehicle
+    US20210129811A1                      *,2019-10-31,2021-05-06,Robert Bosch Gmbh,Vehicle Braking Control Method and System, Vehicle and Computer-Readable Storage Medium
+    US20210362715A1                      *,2020-05-22,2021-11-25,Hyundai Motor Company,Sudden acceleration prevention method and vehicle using the same
+    US11285928B2                      *,2016-11-17,2022-03-29,Guangzhou Automobile Group Co., Ltd.,Electrical parking brake system compatible with autohold function, starting method and vehicle
+    CN114261280A                      *,2020-09-16,2022-04-01,广汽埃安新能源汽车有限公司,Accelerator pedal self-adaption method, vehicle-mounted controller, automobile and storage medium
+    US20220105925A1                      *,2020-10-01,2022-04-07,GM Global Technology Operations LLC,One pedal driving
+    US11325585B2                      *,2018-11-23,2022-05-10,Hyundai Motor Company,Clutch control method for hybrid vehicle with dual clutch transmission
+    Family To Family Citations,,,,
+    KR20210048617A                      *,2019-10-23,2021-05-04,현대자동차주식회사,System and method for controlling regenerative braking of awd hybrid vehicle
+
+abstract
+    A vehicle includes a motor; a transmission; a battery; a mode input device for receiving a driving mode; a control information input device for receiving regenerative braking control information or gearshift level control information; and a controller configured to control at least one of braking torque of the motor and gearshift level of the transmission to control an amount of regenerative braking during regenerative braking by recognizing a signal received from the control information input device as a signal corresponding to the regenerative braking control information when the driving mode input to the mode input device is a first mode, and control the transmission to control the gearshift level of the transmission by recognizing a signal received from the control information input device as a signal corresponding to the gearshift level control information when the driving mode input to the mode input device is a second mode.
+title
+    Vehicle and method for controlling the same
+similar_document
+25
+    Publication,Publication Date,Title
+    US11180149B2,2021-11-23,Vehicle and method for controlling the same
+    US10737687B2,2020-08-11,Vehicle and method for controlling the same
+    CN105682963B,2018-05-15,Vehicular battery preliminary filling electrical feature
+    US8062175B2,2011-11-22,Method and apparatus for optimizing braking control during a threshold braking event
+    US10946761B2,2021-03-16,Battery management device, vehicle having the same, and method for controlling the vehicle
+    US7659698B2,2010-02-09,System and method for controlling a state of charge of an energy storage system
+    KR102542523B1,2023-06-12,Brake system and controlling method thereof
+    US9884619B2,2018-02-06,Selective electric mode for electric vehicle
+    CN102371907A,2012-03-14,Drive control device for electric vehicle, and electric vehicle
+    JP6683949B2,2020-04-22,Vehicle drive device
+    WO2013084682A1,2013-06-13,Control device for motor vehicle and method for controlling same
+    US9242577B2,2016-01-26,Vehicle including regeneration level selector for motor
+    US11634036B2,2023-04-25,Vehicle having motor and method of controlling the same to prevent collision thereof
+    CN106476793A,2017-03-08,For controlling the apparatus and method of the drive pattern of hybrid electric vehicle
+    JP2020023280A,2020-02-13,Control device of hybrid vehicle
+    CN101678756A,2010-03-24,Control system for a hybrid propulsion unit for recharging a battery
+    US20210188254A1,2021-06-24,Electric vehicle and control method for electric vehicle
+    JP2009184647A,2009-08-20,Driving control device for parallel-hybrid vehicle
+    JP2012062027A,2012-03-29,Vehicle control system
+    WO2012137297A1,2012-10-11,Vehicle and vehicle control method
+    JP2003250202A,2003-09-05,Device for control of regeneration of vehicle, and automobile
+    JP6614052B2,2019-12-04,Automobile
+    WO2012137301A1,2012-10-11,Vehicle and method for controlling same
+    JP6091466B2,2017-03-08,Electric vehicle charging control device
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    4
+classfication_nums
+    54
+classfication_items
+318
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,/,0,0
+    B,6,0,K,1,/,0,4
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,2,6,/,0,0
+    B,6,0,K,2,6,/,0,2
+    B,6,0,K,2,6,/,0,2,1
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,3,8
+    B,6,0,K,6,/,3,8,7
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,4
+    B,6,0,K,6,/,4,4,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,5,0
+    B,6,0,K,6,/,5,4
+    B,6,0,K,6,/,5,4,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,7,/,0,0
+    B,6,0,T,7,/,0,2
+    B,6,0,T,7,/,0,4
+    B,6,0,T,7,/,0,4,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,0
+    B,6,0,W,1,0,/,1,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,8,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B,6,0,W,1,0,/,1,9,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,4
+    B,6,0,W,1,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,3,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,9
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,4,0,/,0,0
+    B,6,0,W,4,0,/,1,0
+    B,6,0,W,4,0,/,1,0,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,0,8,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,8
+    B,6,0,W,5,0,/,1,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,3,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,2,0,/,0,0
+    B,6,0,T,2,2,2,0,/,0,4
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B,6,0,W,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,8
+    B,6,0,W,2,5,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,1,0
+    B,6,0,W,2,5,1,0,/,1,0,0,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,1,8
+    B,6,0,W,2,5,1,0,/,1,8,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,0,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,0
+    B,6,0,W,2,7,1,0,/,1,0,0,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,8
+    B,6,0,W,2,7,1,0,/,1,8,6
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,1
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,2
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,1,8
+    B,6,0,Y,2,3,0,0,/,1,8,0,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,2,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+6
+    2019-05-24,Application filed by Hyundai Motor Co, Kia Motors Corp
+    2020-05-14,Publication of US20200148208A1
+    2021-11-23,Application granted
+    2021-11-23,Publication of US11180149B2
+    Status,Active
+    2040-04-16,Adjusted expiration
+
+active_area
+3
+    K,R
+    U,S
+    C,N
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    KR10-2018-0137029,2018-11-09,
+    KR1020180137029A,2018-11-09,Vehicle and method for controlling the vehicle
+
+legal_event
+7
+    Date,Code,Title,Description
+    2019-05-24,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2021-06-15,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2021-09-16,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2021-09-29,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2021-10-22,STPP,Information on status: patent application and granting procedure in general,Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+    2021-11-03,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

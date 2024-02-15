@@ -1,0 +1,179 @@
+ID
+    WO2013044357A1
+citation_exist
+    Patent Citations (3)
+citation_infor
+5
+    Publication number,Priority date,Publication date,Assignee,Title
+    WO2011056999A2                      *,2009-11-05,2011-05-12,Ise Corporation,Expandable energy storage control system architecture
+    US20110166732A1                      *,2010-01-06,2011-07-07,Ford Global Technologies, Llc,Distance based battery charge depletion control for phev energy management
+    WO2011090511A2                      *,2010-01-25,2011-07-28,Maxwell Technologies, Inc.,Energy storage systems and methods
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (9)
+              
+
+
+citedBy_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN103419675A                      *,2013-09-05,2013-12-04,安徽江淮汽车股份有限公司,Range-extended electric vehicle operation method
+    WO2016053786A1                      *,2014-10-01,2016-04-07,Ballard Power Systems Inc.,Multi-mode hybrid control for range-extended plug-in vehicles
+    CN105799694A                      *,2014-12-31,2016-07-27,比亚迪股份有限公司,Method and system for controlling vehicle and vehicle
+    GB2553602A                      *,2016-09-12,2018-03-14,Mahindra Reva Electric Vehicles Ltd,Systems and methods for managing the range of vehicles with limited on-board energy
+    EP3505411A4                      *,2016-10-11,2019-10-09,Zhejiang Geely New Energy Commercial Vehicles Co., Ltd.,Power source for electric vehicle and power source selection method
+    WO2021115398A1                      *,2019-12-13,2021-06-17,上海万纬商务咨询有限公司,Extended-range electric vehicle power system
+    US11077768B2,2015-07-30,2021-08-03,Ford Global Technologies, Llc,Personalized range protection strategy for electrified vehicles
+    CN113370844A                      *,2021-07-22,2021-09-10,重庆长安新能源汽车科技有限公司,Range extender start-stop control system and method for range extender electric vehicle
+    WO2023081268A1                      *,2021-11-03,2023-05-11,Zero Motorcycles, Inc.,Charging system, vehicle including a charging system, and charging method
+    Family To Family Citations,,,,
+
+abstract
+    In an aspect, an electric vehicle is provided that includes an electric traction motor, a battery pack and a range extender system. The vehicle is capable of operating according to more than one control strategy for controlling the state of charge of the battery pack.
+title
+    Control strategies for state of charge of battery pack for electric vehicle with range extender
+similar_document
+26
+    Publication,Publication Date,Title
+    US10384667B2,2019-08-20,Systems and methods for implementing dynamic operating modes and control policies for hybrid electric vehicles
+    CN105905100B,2020-07-14,Battery state of charge target based on predicted regenerative energy
+    WO2013044357A1,2013-04-04,Control strategies for state of charge of battery pack for electric vehicle with range extender
+    CN105905102B,2020-04-17,Engine off threshold based on battery state of charge for predicted operation
+    CN105905107B,2020-04-07,Battery state of charge targeting based on vehicle inclination
+    CN108313049B,2021-06-08,System and method for implementing dynamic operating modes and control strategies for hybrid vehicles
+    US20140114514A1,2014-04-24,Delayed electric-only operation of a hybrid vehicle
+    CN103332122B,2015-09-16,Vehicular system
+    WO2013051104A1,2013-04-11,Electrical charging control apparatus and electrical charging method
+    JPH11243603A,1999-09-07,Hybrid electric vehicle driving main electric motor arranged between battery and an auxiliary power source in accordance with charged state of battery
+    US9327589B2,2016-05-03,Hybrid powertrain with three-mode depletion strategy and method of operating a hybrid powertrain
+    CN103328292B,2015-08-26,Vehicle and control method for vehicle
+    CN107985302B,2020-06-05,Vehicle with a steering wheel
+    JP5130249B2,2013-01-30,Charge control device for hybrid vehicle
+    CN105473407A,2016-04-06,Hybrid electric vehicle controller and method
+    US20070295543A1,2007-12-27,Method for Regulating the State of Charge of an Energy Accumulator in a Vehicle Having a Hybrid Drive Unit
+    JP6122958B2,2017-04-26,Power generation control device and power generation control method
+    JP5729475B2,2015-06-03,Vehicle and vehicle control method
+    US20090321166A1,2009-12-31,Method for operating a hybrid drive for a vehicle
+    EP2815945A1,2014-12-24,Vehicle and vehicle control method
+    CN106004859B,2020-11-06,Vehicle performance preload enabler
+    JP5648508B2,2015-01-07,Secondary battery charger
+    JP6365067B2,2018-08-01,Control device for electric four-wheel drive vehicle
+    JP2006144589A,2006-06-08,Engine control device for hybrid vehicle
+    US11390283B2,2022-07-19,System and method for controlling vehicle during coast
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    5
+classfication_nums
+    12
+classfication_items
+74
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,5,0
+    B,6,0,L,5,0,/,6,0
+    B,6,0,L,5,0,/,6,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,7
+    H,0,2,J,7,/,0,0,7,1,2
+    H,0,2,J,7,/,0,0,7,1,4
+    H,0,2,J,7,/,0,0,7,1,6
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,2
+    H,0,2,J,7,/,0,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,6,0,/,0,0
+    B,6,0,L,2,2,6,0,/,2,0
+    B,6,0,L,2,2,6,0,/,2,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+
+application_events
+2
+    2012-09-26,Application filed by Magna E-Car Systems Of America, Inc.
+    2013-04-04,Publication of WO2013044357A1
+
+active_area
+1
+    W,O
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    US201161539139P,2011-09-26,
+    US61/539,139,2011-09-26,
+
+legal_event
+4
+    Date,Code,Title,Description
+    2013-05-22,121,Ep: the epo has been informed by wipo that ep was designated in this application,Ref document number: 12837101Country of ref document: EPKind code of ref document: A1
+    2014-03-26,NENP,Non-entry into the national phase,Ref country code: DE
+    2014-10-22,122,Ep: pct application non-entry in european phase,Ref document number: 12837101Country of ref document: EPKind code of ref document: A1
+

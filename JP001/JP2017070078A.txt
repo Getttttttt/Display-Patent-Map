@@ -1,0 +1,291 @@
+ID
+    JP2017070078A
+citation_exist
+    Patent Citations (16)
+citation_infor
+18
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2002187435A                      *,2000-12-20,2002-07-02,Honda Motor Co Ltd,ハイブリッド車両の冷却装置
+    JP2005012890A                      *,2003-06-18,2005-01-13,Toyota Motor Corp,駆動システムおよびそれを搭載した自動車
+    JP2014143817A                      *,2013-01-23,2014-08-07,Toyota Motor Corp,車両の電源システム
+    JP2014196078A                      *,2013-03-29,2014-10-16,トヨタ自動車株式会社,電動車両の冷却システム
+    JP2014212698A                      *,2014-08-18,2014-11-13,トヨタ自動車株式会社,電源制御装置
+    JP2014241665A                      *,2013-06-11,2014-12-25,株式会社豊田中央研究所,電動車両の電源システム
+    Family To Family Citations,,,,
+    DE4029901A1                      *,1990-09-21,1992-03-26,Licentia Gmbh,Hochenergiebatterie
+    US6422027B1                      *,2001-05-03,2002-07-23,Ford Global Tech., Inc.,System and method for cooling a battery pack
+    US7353900B2                      *,2004-09-21,2008-04-08,Nissan Motor Co., Ltd.,Battery cooling system
+    JP4389972B2                      *,2007-06-20,2009-12-24,トヨタ自動車株式会社,蓄電装置及び車両
+    JP4591896B2,2007-11-27,2010-12-01,本田技研工業株式会社,燃料電池電源システムが搭載された車両
+    US20110262794A1                      *,2010-04-21,2011-10-27,Jihyoung Yoon,Battery pack and cooling system for a battery pack
+    US20140338376A1                      *,2011-12-29,2014-11-20,Magna E-Car System of America, Inc.,Thermal management system for vehicle having traction motor
+    US20140012447A1                      *,2012-07-03,2014-01-09,Magna E-Car Systems Of America, Inc.,Thermal management of vehicle battery pack during charging
+    US20140062228A1                      *,2012-09-04,2014-03-06,Neil Carpenter,Thermal management of electric motor in the event of failure of primary cooling system for powertrain on electric vehicle
+    JP5725064B2,2012-09-21,2015-05-27,トヨタ自動車株式会社,電動車両
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (7)
+              
+
+
+citedBy_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2019154203A                      *,2018-03-06,2019-09-12,トヨタ自動車株式会社,電動車両の充電制御装置
+    JP2019170092A                      *,2018-03-23,2019-10-03,いすゞ自動車株式会社,車両用電力システム
+    JP2019180111A                      *,2018-03-30,2019-10-17,本田技研工業株式会社,車両の電源システム
+    Family To Family Citations,,,,
+    JP6348929B2                      *,2016-05-23,2018-06-27,本田技研工業株式会社,動力システム及び輸送機器、並びに、電力伝送方法
+    CN108081994B                      *,2017-12-22,2019-07-16,珠海广通汽车有限公司,供电管理方法及系统
+    CN110549912A                      *,2018-03-29,2019-12-10,比亚迪股份有限公司,车辆电池温度调节方法、系统和车辆
+    US20220325930A1                      *,2021-04-07,2022-10-13,Rheem Manufacturing Company,Battery-integrated heat pump systems and methods of managing battery temperatures
+
+abstract
+    【課題】発熱量の異なる複数の蓄電器を備えたシステムの冷却にとって最適な駆動装置を提供すること。【解決手段】駆動装置は、第１蓄電器と、第１蓄電器に比べて、充放電による発熱量が小さい第２蓄電器と、第１蓄電器及び第２蓄電器の少なくとも一方から得られる電力によって駆動して電動車両の動力を出力する駆動部と、電動車両の内部を流れる冷媒によって第１蓄電器及び第２蓄電器の温度を制御する制御部とを備える。第１蓄電器及び第２蓄電器は、冷媒によって第１蓄電器、第２蓄電器の順に冷却されるよう電動車両の内部に配置されている。【選択図】図３
+title
+    駆動装置、輸送機器、電装装置及び制御方法
+similar_document
+26
+    Publication,Publication Date,Title
+    JP6329930B2,2018-05-23,駆動装置、輸送機器及び制御方法
+    JP4337848B2,2009-09-30,電源システムおよびそれを備える車両、ならびに温度管理方法
+    JP6527785B2,2019-06-05,駆動装置及び輸送機器
+    JP6653197B2,2020-02-26,蓄電装置、機器及び制御方法
+    JP2008154302A,2008-07-03,電源システムおよびそれを備える車両、ならびにその制御方法
+    US20170012445A1,2017-01-12,Power supply system
+    JP2013037859A,2013-02-21,蓄電池装置
+    JP6343599B2,2018-06-13,駆動装置
+    US9914368B1,2018-03-13,Thermal management system for a hybrid vehicle
+    JP6412847B2,2018-10-24,蓄電装置及び制御方法
+    JP6220904B2,2017-10-25,蓄電装置
+    CN110678357A,2020-01-10,用于提供不同类型电压的具有分别与转换模块相关联的单体蓄电池组的电池
+    US20170113560A1,2017-04-27,Energy storage device, transport apparatus, and control method
+    US10158246B2,2018-12-18,Energy storage device, transport apparatus, and control method
+    JP6713283B2,2020-06-24,蓄電装置、輸送機器及び制御方法
+    JP2008118761A,2008-05-22,電気車両のハイブリッド蓄電装置及び電気車両
+    JP6194344B2,2017-09-06,駆動装置及び輸送機器
+    Baba et al.,2015,Battery heating system for electric vehicles
+    JP6364396B2,2018-07-25,蓄電装置、輸送機器及び制御方法
+    JP2017041972A,2017-02-23,駆動装置、輸送機器及び蓄電器制御方法
+    Serpi et al.,2019,A Multi-Stage Energy Management System for Multi-Source Hybrid Electric Vehicles
+    JP6335860B2,2018-05-30,駆動装置及びその制御方法、並びに、輸送機器
+    JP2017073916A,2017-04-13,駆動装置、輸送機器及び制御方法
+    CN110936848A,2020-03-31,对可变电压转换器的基于温度的控制
+    JP6492001B2,2019-03-27,駆動装置、輸送機器及び制御方法
+
+patent_application
+    NoExist
+patent_priority_application
+4
+    Application,Priority date,Filing date,Title
+    JP2015192204A,2015-09-29,2015-09-29,駆動装置、輸送機器及び制御方法
+    CN201610752980.XA,2015-09-29,2016-08-29,驱动装置、输送设备及控制方法
+    US15/264,604,2015-09-29,2016-09-14,Drive system, transporter, electrical device, and control method for drive system
+
+inventor_number
+    8
+classfication_nums
+    26
+classfication_items
+155
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,6,/,0,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,/,0,0
+    B,6,0,K,1,/,0,4
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,1,/,0,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,1,0
+    B,6,0,L,5,3,/,1,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,1,0
+    B,6,0,L,5,3,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B,6,0,L,5,8,/,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,2,4
+    B,6,0,L,5,8,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,6,0
+    H,0,1,M,1,0,/,6,1
+    H,0,1,M,1,0,/,6,1,3
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,6,0
+    H,0,1,M,1,0,/,6,2
+    H,0,1,M,1,0,/,6,2,5
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,6,0
+    H,0,1,M,1,0,/,6,3
+    H,0,1,M,1,0,/,6,3,3
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,6,0
+    H,0,1,M,1,0,/,6,5
+    H,0,1,M,1,0,/,6,5,6
+    H,0,1,M,1,0,/,6,5,6,1
+    H,0,1,M,1,0,/,6,5,6,3
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,1,0,/,0,0
+    H,0,1,M,1,0,/,6,0
+    H,0,1,M,1,0,/,6,5
+    H,0,1,M,1,0,/,6,5,6
+    H,0,1,M,1,0,/,6,5,6,7
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,1,/,0,0
+    B,6,0,K,1,1,/,0,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,/,0,0
+    B,6,0,K,2,0,0,1,/,0,0,1
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,/,0,0
+    B,6,0,K,2,0,0,1,/,0,0,3
+    B,6,0,K,2,0,0,1,/,0,0,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,5,4
+    B,6,0,L,2,2,4,0,/,5,4,5
+    H
+    H,0,1
+    H,0,1,M
+    H,0,1,M,2,2,2,0,/,0,0
+    H,0,1,M,2,2,2,0,/,2,0
+    Y
+    Y,0,2
+    Y,0,2,E
+    Y,0,2,E,6,0,/,0,0
+    Y,0,2,E,6,0,/,1,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+
+application_events
+9
+    2015-09-29,Application filed by Honda Motor Co Ltd
+    2015-09-29,Priority to JP2015192204A
+    2016-08-29,Priority to CN201610752980.XA
+    2016-09-14,Priority to US15/264,604
+    2017-04-06,Publication of JP2017070078A
+    2018-05-23,Application granted
+    2018-05-23,Publication of JP6329930B2
+    Status,Active
+    2035-09-29,Anticipated expiration
+
+active_area
+3
+    J,P
+    C,N
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    JP2015192204A,2015-09-29,駆動装置、輸送機器及び制御方法
+
+legal_event
+11
+    Date,Code,Title,Description
+    2017-01-20,RD02,Notification of acceptance of power of attorney,Free format text: JAPANESE INTERMEDIATE CODE: A7422Effective date: 20170120
+    2017-06-06,A131,Notification of reasons for refusal,Free format text: JAPANESE INTERMEDIATE CODE: A131Effective date: 20170606
+    2017-08-03,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20170803
+    2017-11-29,A02,Decision of refusal,Free format text: JAPANESE INTERMEDIATE CODE: A02Effective date: 20171129
+    2018-02-21,A521,Request for written amendment filed,Free format text: JAPANESE INTERMEDIATE CODE: A523Effective date: 20180221
+    2018-03-01,A911,Transfer to examiner for re-examination before appeal (zenchi),Free format text: JAPANESE INTERMEDIATE CODE: A911Effective date: 20180228
+    2018-03-20,TRDD,Decision of grant or rejection written,
+    2018-03-27,A01,Written decision to grant a patent or to grant a registration (utility model),Free format text: JAPANESE INTERMEDIATE CODE: A01Effective date: 20180327
+    2018-04-26,A61,First payment of annual fees (during grant procedure),Free format text: JAPANESE INTERMEDIATE CODE: A61Effective date: 20180423
+    2018-04-27,R150,Certificate of patent or registration of utility model,Ref document number: 6329930Country of ref document: JPFree format text: JAPANESE INTERMEDIATE CODE: R150
+

@@ -1,0 +1,264 @@
+ID
+    US8744659B2
+citation_exist
+    Patent Citations (10)
+citation_infor
+12
+    Publication number,Priority date,Publication date,Assignee,Title
+    JP2004251452A,2004-02-20,2004-09-09,Nissan Motor Co Ltd,Controller for hybrid vehicle
+    US20060064225A1                      *,2004-08-30,2006-03-23,Toyota Jidosha Kabushiki Kaisha,Vehicle deceleration control apparatus
+    US20090125170A1                      *,2007-04-25,2009-05-14,Joseph Forrest Noffsinger,System and method for optimizing a braking schedule of a powered system traveling along a route
+    JP2010508187A,2006-08-30,2010-03-18,ローベルト  ボツシユ  ゲゼルシヤフト  ミツト  ベシユレンクテル  ハフツング,Driving method of hybrid drive mechanism
+    US20100308646A1                      *,2008-02-18,2010-12-09,Toyota Jidosha Kabushiki Kaisha,Vehicle braking apparatus
+    Family To Family Citations,,,,
+    JP2005151633A                      *,2003-11-12,2005-06-09,Honda Motor Co Ltd,Hybrid vehicle
+    JP4348557B2,2006-02-22,2009-10-21,三菱ふそうトラック・バス株式会社,Control device for hybrid electric vehicle
+    KR100819978B1                      *,2006-08-01,2008-04-07,현대자동차주식회사,Brake system for hybrid and electric vehicle and control method thereof
+    JP4442642B2                      *,2007-06-06,2010-03-31,トヨタ自動車株式会社,Brake control device for vehicle
+    CN101112869B                      *,2007-09-14,2010-06-16,奇瑞汽车股份有限公司,Automobile energy source regenerative braking system and the control method thereof
+
+non_patent_citation_exist
+    
+              Non-Patent Citations (1)
+              
+
+
+citedBy_exist
+    
+              Cited By (24)
+              
+
+
+citedBy_infor
+26
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20130218392A1                      *,2010-10-27,2013-08-22,Nissan Motor Co., Ltd.,Control device for hybrid vehicle
+    US10128780B2,2014-01-31,2018-11-13,Ford Global Technologies, Llc,Method and system for controlling the regenerative braking of a vehicle
+    US20190092424A1                      *,2017-09-25,2019-03-28,Taiyo Yuden Co., Ltd.,Motor driving control apparatus and method and motor-assisted vehicle
+    US11760168B2,2018-10-03,2023-09-19,Carrier Corporation,Anti-lock tire system
+    Family To Family Citations,,,,
+    JP5573461B2                      *,2010-07-27,2014-08-20,トヨタ自動車株式会社,Vehicle control system
+    AU2011318931A1                      *,2010-10-21,2013-02-14,Hino Motors, Ltd.,Engine start control device, hybrid vehicle and engine start method, and program
+    JP5073875B2                      *,2010-10-22,2012-11-14,日野自動車株式会社,Vehicle, control method, and program
+    AU2011356934B2                      *,2011-01-25,2016-01-07,Hino Motors, Ltd.,Control device, hybrid vehicle, control method, and program
+    WO2014069527A1                      *,2012-11-01,2014-05-08,日産自動車株式会社,Hybrid vehicle regenerative brake control device
+    US20160039292A1                      *,2013-04-09,2016-02-11,Toyota Jidosha Kabushiki Kaisha,Brake control device for vehicle
+    GB2517471B,2013-08-21,2016-07-20,Jaguar Land Rover Ltd,Dynamic deceleration control for hybrid vehicle
+    US9827980B2                      *,2013-11-11,2017-11-28,Ford Global Technologies, Llc,Load-based vehicle operating control
+    US9358969B2                      *,2013-11-11,2016-06-07,Ford Global Technologies, Llc,Load-based vehicle operating control
+    DE102014201054A1                      *,2014-01-22,2015-07-23,Robert Bosch Gmbh,Method and device for operating a battery, in particular a lithium ion battery, in a consumer
+    KR101684542B1                      *,2015-06-26,2016-12-08,현대자동차 주식회사,System and method for engine stop control of hybrid vehicle
+    JP6551020B2                      *,2015-08-03,2019-07-31,いすゞ自動車株式会社,Hybrid vehicle and control method thereof
+    US10166855B2                      *,2015-09-12,2019-01-01,GM Global Technology Operations LLC,Vehicle, system, and method of calculating an engine torque request value
+    JP6326403B2                      *,2015-12-25,2018-05-16,本田技研工業株式会社,Hybrid vehicle
+    JP2017136982A                      *,2016-02-04,2017-08-10,スズキ株式会社,Hybrid vehicle
+    US10369888B2                      *,2016-03-09,2019-08-06,Ford Global Technologies, Llc,Control system for regenerative braking in a hybrid vehicle
+    JP6596480B2                      *,2017-11-29,2019-10-23,本田技研工業株式会社,Control device for hybrid vehicle
+    KR102440700B1                      *,2017-12-22,2022-09-05,현대자동차주식회사,Braking control system and method for eco-friendly vehicle
+    JP7238576B2,2019-04-24,2023-03-14,スズキ株式会社,Hybrid vehicle engine start control device
+    US11390283B2                      *,2019-07-25,2022-07-19,Ford Global Technologies, Llc,System and method for controlling vehicle during coast
+
+abstract
+    A regeneration control device of a hybrid vehicle comprises a comparison unit for, when a regenerative torque generated in the electric motor is used as a braking force during deceleration of the vehicle using only the electric motor, comparing a preset target deceleration with an actual deceleration; and a control unit for, in a case where the result of comparison of the comparison unit indicates that a state in which the actual deceleration is equal to or lower than the target deceleration occurs in a predetermined pattern though the electric motor is generating the maximum regenerative torque, causing the vehicle to travel using both an engine and the electric motor in a cooperative manner during the next deceleration after the current deceleration has been finished, such that the engine braking and the regeneration torque are both used as a braking force.
+title
+    Regeneration control device, hybrid vehicle, regeneration control method, and computer program
+similar_document
+21
+    Publication,Publication Date,Title
+    US8744659B2,2014-06-03,Regeneration control device, hybrid vehicle, regeneration control method, and computer program
+    US9139196B2,2015-09-22,Regenerative control device, hybrid vehicle, regenerative control method, and computer program
+    US9045137B2,2015-06-02,Start control method, start control device, hybrid vehicle, and computer program
+    JP5001475B1,2012-08-15,Regenerative control device, hybrid vehicle, regenerative control method, and program
+    CN103068650B,2015-09-30,Vehicle and control method thereof
+    JP6374431B2,2018-08-15,Drive control mechanism and drive control device
+    CN103153741A,2013-06-12,Running mode switch control device, hybrid automobile, running mode switch control method, and program
+    US8694190B2,2014-04-08,Regeneration control device, hybrid vehicle, regeneration control method, and computer program
+    WO2012053594A1,2012-04-26,Vehicle, control method, and program
+    US9085297B2,2015-07-21,Output restriction control device, hybrid vehicle, output restriction control method, and computer program
+    CN103140400A,2013-06-05,Vehicle, control method, and program
+    CN106515736B,2021-09-21,System and method for controlling hybrid electric vehicle torque intervention during a shift
+    WO2012101878A1,2012-08-02,Control device, hybrid vehicle, control method, and program
+    CN103140401A,2013-06-05,Driving mode control device, hybrid vehicle, driving mode control method, and program
+    US8989934B2,2015-03-24,Regeneration control device, hybrid vehicle, regeneration control method, and computer program
+    JP6492908B2,2019-04-03,Control device for hybrid vehicle
+    JP5816154B2,2015-11-18,Control device for hybrid electric vehicle
+    JP6554030B2,2019-07-31,Control device for hybrid vehicle
+    JP5678570B2,2015-03-04,Vehicle driving force control device
+    JP2013220663A,2013-10-28,Control device of hybrid vehicle, hybrid vehicle, control method for hybrid vehicle, and program
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    21
+classfication_items
+125
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,0,/,0,0
+    B,6,0,L,5,0,/,1,0
+    B,6,0,L,5,0,/,1,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    F
+    F,0,2
+    F,0,2,D
+    F,0,2,D,2,9,/,0,0
+    F,0,2,D,2,9,/,0,2
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,6,0
+    B,6,0,T,2,2,7,0,/,6,1,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,2,0,5,0,/,0,0,6,2
+    B,6,0,W,2,0,5,0,/,0,0,7,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,0,8
+    B,6,0,W,2,5,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,6,/,0,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,6,/,0,0
+    B,6,0,W,2,5,5,6,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,1,0
+    B,6,0,W,2,7,2,0,/,1,0,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+    Y,1,0,S,9,0,3,/,9,3
+
+application_events
+7
+    2011-10-20,Application filed by Hino Motors Ltd
+    2013-01-29,Assigned to HINO MOTORS, LTD.
+    2013-05-23,Publication of US20130131901A1
+    2014-06-03,Application granted
+    2014-06-03,Publication of US8744659B2
+    Status,Expired - Fee Related
+    2031-10-20,Anticipated expiration
+
+active_area
+1
+    W,O
+
+not_active_area
+5
+    J,P
+    C,N
+    E,P
+    A,U
+    U,S
+
+patent_application_claiming_priority
+4
+    Application,Filing date,Title
+    JP2011-005287,2011-01-13,
+    JP2011005287A,2011-01-13,Regenerative control device, hybrid vehicle, regenerative control method, and program
+    PCT/JP2011/074181,2011-10-20,Regeneration control device, hybrid automobile, regeneration control method, and program
+
+legal_event
+8
+    Date,Code,Title,Description
+    2013-01-29,AS,Assignment,Owner name: HINO MOTORS, LTD., JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:YAMAGATA, KEITA;SAWAYAMA, AKIRA;REEL/FRAME:029715/0234Effective date: 20130128
+    2014-05-14,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2017-11-22,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551)Year of fee payment: 4
+    2022-01-24,FEPP,Fee payment procedure,Free format text: MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2022-07-11,LAPS,Lapse for failure to pay maintenance fees,Free format text: PATENT EXPIRED FOR FAILURE TO PAY MAINTENANCE FEES (ORIGINAL EVENT CODE: EXP.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2022-07-11,STCH,Information on status: patent discontinuation,Free format text: PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362
+    2022-08-02,FP,Lapsed due to failure to pay maintenance fee,Effective date: 20220603
+

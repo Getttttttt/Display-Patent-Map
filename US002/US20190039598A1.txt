@@ -1,0 +1,239 @@
+ID
+    US20190039598A1
+citation_exist
+    Patent Citations (8)
+citation_infor
+10
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20090025372A1                      *,2006-02-01,2009-01-29,Takao Onodera,Method for Controlling Exhaust Gas Purification System and Exhaust Gas Purification System
+    US20100151988A1                      *,2005-06-22,2010-06-17,Toyota Jidosha Kabushiki Kaisha,Controller of drive device for vehicle
+    US8197385B2                      *,2007-07-23,2012-06-12,Toyota Jidosha Kabushiki Kaisha,Control device for vehicular power transmitting device
+    US20170253230A1                      *,2016-03-02,2017-09-07,Toyota Jidosha Kabushiki Kaisha,Vehicle including traveling motor
+    US20190111790A1                      *,2017-10-13,2019-04-18,Ford Global Technologies, Llc,Regenerative hybrid vehicle braking system and methods
+    Family To Family Citations,,,,
+    JP2001001787A                      *,1999-04-19,2001-01-09,Toyota Motor Corp,Controller of vehicle
+    JP2008132806A                      *,2006-11-27,2008-06-12,Toyota Motor Corp,Vehicle control device, control method, program for implementing the control method on computer, and recording medium recording the program
+    JP4258548B2                      *,2006-12-19,2009-04-30,トヨタ自動車株式会社,Vehicle and control method thereof
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (2)
+              
+
+
+citedBy_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20190270477A1                      *,2018-03-05,2019-09-05,Honda Motor Co., Ltd.,Power system
+    US20220134863A1                      *,2019-03-05,2022-05-05,Zf Friedrichshafen Ag,Hybrid Transmission Assembly for a Motor Vehicle Powertrain, and Method for Operating a Hybrid Powertrain
+    Family To Family Citations,,,,
+
+abstract
+    A control device is provided for a vehicle which includes an electric motor that executes regeneration during deceleration of the vehicle and which performs manned running with at least one occupant in the vehicle and also unmanned running without any occupant in the vehicle. The control device is configured to cause the electric motor to execute the regeneration within a regeneration allowable range, such that the regeneration allowable range for the unmanned running of the vehicle is larger than the regeneration allowable range for the manned running of the vehicle. The regeneration allowable range is defined by, for example, an allowable maximum regenerative torque that is variable depending on a running speed of the vehicle upon the regeneration by the electric motor.
+title
+    Vehicle control device
+similar_document
+26
+    Publication,Publication Date,Title
+    US10604022B2,2020-03-31,Vehicle control apparatus
+    US8052569B2,2011-11-08,Controller of power transmission
+    JP5092540B2,2012-12-05,Control device for vehicle power transmission device
+    US8066616B2,2011-11-29,Control apparatus for vehicular automatic transmission
+    JP4998164B2,2012-08-15,Control device for vehicle power transmission device
+    JP4997949B2,2012-08-15,Control device for vehicle drive device
+    US8287429B2,2012-10-16,Shifting control apparatus for vehicular power transmitting system
+    US10882530B2,2021-01-05,Vehicle allocation system
+    US20060289212A1,2006-12-28,Hybrid vehicle control operation
+    JP5055990B2,2012-10-24,Control device for vehicle drive device
+    US20090236159A1,2009-09-24,Hybrid vehicle drive device control device
+    US20040256165A1,2004-12-23,Mode transfer control apparatus and method for hybrid vehicle
+    JP4858310B2,2012-01-18,Control device for vehicle power transmission device
+    US8556773B2,2013-10-15,Control apparatus for vehicular drive system
+    JP2009023614A,2009-02-05,Controller for power transmission device for vehicle
+    US10793139B2,2020-10-06,Vehicle control apparatus
+    US10730477B2,2020-08-04,Vehicle control system, and control method of vehicle control system
+    JP4483879B2,2010-06-16,Control device for vehicle drive device
+    US20090124454A1,2009-05-14,Controller of vehicle automatic transmission
+    US20190039598A1,2019-02-07,Vehicle control device
+    EP3733471B1,2021-09-15,Control apparatus for vehicle
+    US9878705B2,2018-01-30,Hybrid vehicle
+    US20220379737A1,2022-12-01,Electric drivetrain and method for operation of said drivetrain
+    JP2018065489A,2018-04-26,Vehicular control apparatus
+    JP2009041599A,2009-02-26,Control device for vehicular power transmission device
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    2
+classfication_nums
+    21
+classfication_items
+131
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,2,2
+    B,6,0,K,6,/,3,6
+    B,6,0,K,6,/,3,6,5
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,6,/,0,0
+    B,6,0,K,6,/,2,0
+    B,6,0,K,6,/,4,2
+    B,6,0,K,6,/,4,4
+    B,6,0,K,6,/,4,4,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,3
+    B,6,0,W,2,0,/,1,4
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,0,/,0,0
+    B,6,0,W,2,0,/,1,0
+    B,6,0,W,2,0,/,1,5
+    B,6,0,W,2,0,/,1,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,0,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,0,0,9
+    B,6,0,W,3,0,/,1,8,1,0,9
+    B,6,0,W,3,0,/,1,8,1,2,7
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,1,8
+    B,6,0,W,3,0,/,1,8,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,5,0,/,0,0
+    B,6,0,W,5,0,/,0,0,9,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,6,0,/,0,0
+    B,6,0,W,6,0,/,0,0,1
+    B,6,0,W,6,0,/,0,0,2,5
+    G
+    G,0,5
+    G,0,5,D
+    G,0,5,D,1,/,0,0
+    G,0,5,D,1,/,0,2
+    G,0,5,D,1,/,0,2,1
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,2,0,0,/,0,0
+    B,6,0,Y,2,2,0,0,/,9,0
+    B,6,0,Y,2,2,0,0,/,9,2
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,1,8
+    B,6,0,Y,2,3,0,0,/,1,8,0,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,0,8
+    B,6,0,Y,2,3,0,0,/,1,8,1,2,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,1,0
+    Y,1,0,S
+    Y,1,0,S,9,0,3,/,0,0
+    Y,1,0,S,9,0,3,/,9,0,2
+    Y,1,0,S,9,0,3,/,9,0,3
+
+application_events
+4
+    2018-05-23,Application filed by Toyota Motor Corp
+    2018-05-23,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2019-02-07,Publication of US20190039598A1
+    Status,Abandoned
+
+active_area
+1
+    J,P
+
+not_active_area
+2
+    U,S
+    C,N
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2017149457A,2017-08-01,Vehicular control apparatus
+    JP2017-149457,2017-08-01,
+
+legal_event
+5
+    Date,Code,Title,Description
+    2018-05-23,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:KUMAZAKI, KENTA;REEL/FRAME:045882/0001Effective date: 20180426
+    2018-06-28,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2020-06-23,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2020-12-29,STCB,Information on status: application discontinuation,Free format text: ABANDONED  --  FAILURE TO RESPOND TO AN OFFICE ACTION
+

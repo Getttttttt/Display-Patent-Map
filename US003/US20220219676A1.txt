@@ -1,0 +1,344 @@
+ID
+    US20220219676A1
+citation_exist
+    Patent Citations (6)
+citation_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20200148255A1                      *,2018-11-13,2020-05-14,Rivian Ip Holdings, Llc,Systems and methods for providing a vehicle with a front dig mode
+    US20210031785A1                      *,2019-07-30,2021-02-04,Hyundai Motor Company,System and method for controlling wheel slip of vehicle
+    US20210197820A1                      *,2019-12-31,2021-07-01,Rivian Ip Holdings, Llc,Systems and Methods for Providing a Vehicle with a Torque Vectored K-Turn Mode
+    US20210252976A1                      *,2020-02-19,2021-08-19,Dana Automotive Systems Group, Llc,Dig mode system and method for a vehicle
+    US20210253162A1                      *,2020-02-18,2021-08-19,Eric R. Thompson,Vehicle dig lock system
+    US20220118979A1                      *,2020-10-16,2022-04-21,Ford Global Technologies, Llc,Methods and apparatus to perform a tank turn
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (1)
+              
+
+
+citedBy_infor
+3
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20220073054A1                      *,2020-09-09,2022-03-10,Ford Global Technologies, Llc,System and Method for Reducing Vehicle Turning Radius
+    Family To Family Citations,,,,
+
+abstract
+    A vehicle control system for reducing turn radius of a vehicle may include a controller and a torque control module operably coupled to the controller and to front wheels of a front axle of the vehicle and rear wheels of a rear axle of the vehicle. The controller may also be operably coupled to components and/or sensors of the vehicle to receive information including vehicle wheel speed and steering wheel angle. The torque control module may be operable, responsive to control by the controller, to apply a negative torque to an inside rear wheel during a turn and apply a positive torque to the front axle during the turn to compensate for the negative torque applied to the inside rear wheel to reduce the turn radius based on the steering wheel angle and the vehicle speed.
+title
+    System and Method For Vehicle Turning Radius Reduction
+similar_document
+26
+    Publication,Publication Date,Title
+    CN108216240B,2022-05-31,Method and apparatus for controlling front and rear wheel torque distribution for four-wheel drive vehicle
+    US9643606B2,2017-05-09,Vehicle control in traffic conditions
+    CN104755304B,2017-08-25,For the method and system for the PWTN for running automobile
+    JP5763217B2,2015-08-12,Automobile, method for controlling auto
+    US7198335B2,2007-04-03,Method and system for controlling regenerative braking of a four wheel drive electric vehicle
+    US11753073B2,2023-09-12,Systems and methods for providing a vehicle with a front dig mode
+    CN109572438B,2021-10-22,Electric automobile and regenerative braking control method and device thereof
+    CN109017747B,2021-04-06,Front and rear axle torque distribution method and system of new energy four-wheel drive vehicle and related components
+    US10689028B2,2020-06-23,Control apparatus and method of motor-driven power steering system
+    US11590977B2,2023-02-28,Systems and methods for providing a vehicle with a torque vectored K-turn mode
+    US20230278543A1,2023-09-07,System and Method for Reducing Vehicle Turning Radius
+    EP2556990A2,2013-02-13,A wheel drive architecture for electric vehicles
+    US8768592B2,2014-07-01,Reducing the steering torque during braking maneuvers
+    US9199664B2,2015-12-01,Steering apparatus for HEV and method of controlling the same
+    US20220219676A1,2022-07-14,System and Method For Vehicle Turning Radius Reduction
+    CN113895235A,2022-01-07,Control method and device for four-wheel drive vehicle, new energy automobile and storage medium
+    EP2591939A1,2013-05-15,Device for controlling torque distribution to left and right wheels on a vehicle
+    US10752288B2,2020-08-25,Lateral motion control for cornering and regenerative braking energy capture
+    US10144407B2,2018-12-04,System and method for controlling configuration of vehicle power steering based on driveline operation
+    KR100598805B1,2006-07-10,Method and system for controlling regenerative braking of four wheel drive electric vehicle
+    CN113562072B,2022-07-08,Steering control method and device for electric automobile
+    US20220324452A1,2022-10-13,System and Method for Situationally Optimized Turning Assistance
+    CN113085994A,2021-07-09,Double-function electric vehicle
+    US20220396248A1,2022-12-15,System and Method for Providing a Brake Fade Indication
+    US20230241981A1,2023-08-03,Method of controlling a vehicle having a one-pedal driving system
+
+patent_application
+    NoExist
+patent_priority_application
+4
+    Application,Priority date,Filing date,Title
+    US17/145,737,2021-01-11,2021-01-11,System and Method For Vehicle Turning Radius Reduction
+    CN202210018544.5A,2021-01-11,2022-01-07,System and method for vehicle turning radius reduction
+    DE102022100383.3A,2021-01-11,2022-01-10,SYSTEM AND METHOD FOR REDUCING A VEHICLE TURNING RADIUS
+
+inventor_number
+    6
+classfication_nums
+    40
+classfication_items
+231
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,0
+    B,6,0,L,3,/,1,0,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,/,0,0
+    B,6,0,K,1,/,0,2
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,7,/,0,0
+    B,6,0,K,1,7,/,3,4
+    B,6,0,K,1,7,/,3,5,4
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,7,/,0,0
+    B,6,0,K,1,7,/,3,4
+    B,6,0,K,1,7,/,3,5,6
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,7,/,0,0
+    B,6,0,K,7,/,0,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,0
+    B,6,0,L,3,/,1,0,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,1,0
+    B,6,0,L,3,/,1,0,6
+    B,6,0,L,3,/,1,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,2,4
+    B,6,0,L,7,/,2,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,8,/,0,0
+    B,6,0,T,8,/,1,7
+    B,6,0,T,8,/,1,7,5,5
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,0,4
+    B,6,0,W,1,0,/,0,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,1,0,/,0,0
+    B,6,0,W,1,0,/,2,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,3,0,/,0,0
+    B,6,0,W,3,0,/,0,2
+    B,6,0,W,3,0,/,0,4,5
+    B
+    B,6,2
+    B,6,2,D
+    B,6,2,D,1,5,/,0,0
+    B,6,2,D,1,5,/,0,2
+    B,6,2,D,1,5,/,0,2,7
+    B,6,2,D,1,5,/,0,2,8,5
+    B
+    B,6,2
+    B,6,2,D
+    B,6,2,D,6,/,0,0
+    B
+    B,6,2
+    B,6,2,D
+    B,6,2,D,7,/,0,0
+    B,6,2,D,7,/,0,6
+    B,6,2,D,7,/,1,4
+    B,6,2,D,7,/,1,5
+    B,6,2,D,7,/,1,5,0,9
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,1,/,0,0
+    B,6,0,K,2,0,0,1,/,0,0,1
+    B
+    B,6,0
+    B,6,0,K
+    B,6,0,K,2,3,/,0,0
+    B,6,0,K,2,3,/,0,8
+    B,6,0,K,2,0,2,3,/,0,8,5
+    B,6,0,K,2,0,2,3,/,0,8,5,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,1,4
+    B,6,0,L,2,2,4,0,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,1,0
+    B,6,0,L,2,2,4,0,/,2,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,6
+    B,6,0,L,2,2,4,0,/,4,6,5
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,0,1,/,0,0
+    B,6,0,T,2,2,0,1,/,1,6
+    B
+    B,6,0
+    B,6,0,T
+    B,6,0,T,2,2,7,0,/,0,0
+    B,6,0,T,2,2,7,0,/,3,0
+    B,6,0,T,2,2,7,0,/,3,0,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,1,0,/,0,0
+    B,6,0,W,2,5,1,0,/,2,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,2,6
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,2,0,/,0,0
+    B,6,0,W,2,5,2,0,/,2,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,4,0,/,0,0
+    B,6,0,W,2,5,4,0,/,1,2
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,5,5,2,/,0,0
+    B,6,0,W,2,5,5,2,/,4,0
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,0,8
+    B,6,0,W,2,7,1,0,/,0,8,3
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,1,0,/,0,0
+    B,6,0,W,2,7,1,0,/,1,8
+    B
+    B,6,0
+    B,6,0,W
+    B,6,0,W,2,7,2,0,/,0,0
+    B,6,0,W,2,7,2,0,/,4,0
+    B,6,0,W,2,7,2,0,/,4,0,6
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,0,2
+    B,6,0,Y,2,3,0,0,/,0,4,5
+    B,6,0,Y,2,3,0,0,/,0,4,5,3
+    B
+    B,6,0
+    B,6,0,Y
+    B,6,0,Y,2,3,0,0,/,0,0
+    B,6,0,Y,2,3,0,0,/,8,0
+    B,6,0,Y,2,3,0,0,/,8,2
+
+application_events
+7
+    2021-01-11,Application filed by Ford Global Technologies LLC
+    2021-01-11,Priority to US17/145,737
+    2021-05-11,Assigned to FORD GLOBAL TECHNOLOGIES, LLC
+    2022-01-07,Priority to CN202210018544.5A
+    2022-01-10,Priority to DE102022100383.3A
+    2022-07-14,Publication of US20220219676A1
+    Status,Pending
+
+active_area
+3
+    U,S
+    C,N
+    D,E
+
+not_active_area
+0
+
+patent_application_claiming_priority
+2
+    Application,Filing date,Title
+    US17/145,737,2021-01-11,System and Method For Vehicle Turning Radius Reduction
+
+legal_event
+6
+    Date,Code,Title,Description
+    2021-05-11,AS,Assignment,Owner name: FORD GLOBAL TECHNOLOGIES, LLC, MICHIGANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:CAO, BANG;FEROZ, ZUBAIR;DIXIT, SHUBHAM;AND OTHERS;SIGNING DATES FROM 20210105 TO 20210108;REEL/FRAME:056195/0979
+    2021-08-21,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2023-03-27,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2023-07-06,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2023-09-25,STPP,Information on status: patent application and granting procedure in general,Free format text: FINAL REJECTION MAILED
+

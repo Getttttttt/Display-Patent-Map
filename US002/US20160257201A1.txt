@@ -1,0 +1,195 @@
+ID
+    US20160257201A1
+citation_exist
+    Patent Citations (9)
+citation_infor
+11
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20050276020A1                      *,2004-05-27,2005-12-15,Ahmad Raed H,System and method for a cooling system
+    US20080157540A1                      *,2006-12-29,2008-07-03,Cummins Power Generation Ip, Inc.,Electric power generation system with multiple inverters
+    US20090288577A1                      *,2008-05-23,2009-11-26,General Electric Company,Method and system for wind-harnessed battery charging in a locomotive
+    US20110304199A1                      *,2010-06-09,2011-12-15,Rozman Gregory I,Hybrid electric power architecture for a vehicle
+    US20160194009A1                      *,2016-03-15,2016-07-07,Electro-Motive Diesel, Inc.,Integrated traction system for locomotives
+    Family To Family Citations,,,,
+    US5373219A                      *,1992-03-31,1994-12-13,General Electric Company,Control system for an electrically propelled traction vehicle
+    US6787933B2                      *,2001-01-10,2004-09-07,Capstone Turbine Corporation,Power generation system having transient ride-through/load-leveling capabilities
+    US20120062155A1                      *,2010-09-14,2012-03-15,Caterpillar, Inc.,Retarding Grid Cooling System and Control
+    US8960812B2                      *,2010-11-30,2015-02-24,Caterpillar Inc.,Electrical retarding deration
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (6)
+              
+
+
+citedBy_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    US11469694B2                      *,2019-10-07,2022-10-11,Transportation Ip Holdings, Llc,Power delivery system and method
+    Family To Family Citations,,,,
+    US10371171B2                      *,2014-09-22,2019-08-06,Regal Beloit America, Inc.,System and methods for reducing noise in an air moving system
+    US20170015201A1                      *,2015-07-15,2017-01-19,Caterpillar Inc.,System and method for monitoring operation of retarding grid associated with traction motor of machine
+    US20200223459A1                      *,2019-01-14,2020-07-16,Transportation Ip Holdings, Llc,Cooling system for a vehicle
+    US10801766B2,2019-01-30,2020-10-13,Regal Beloit America, Inc.,Drive circuit for a variable speed fan motor
+    US11486294B2,2020-09-04,2022-11-01,Transportation Ip Holdings, Llc,Control system and method for a fan
+
+abstract
+    A system includes a grid coupled to an electrical bus; an electrical power modulation device coupled to the electrical bus that can output modified electrical power received from the electrical bus; a blower motor coupled to the electrical power modulation device that can receive the modified electrical power output and can provide a stream of air to affect a temperature of the grid, and a controller. A speed of the blower motor may be based at least in part on an amount of the modified electrical power. The controller can receive an operating parameter, and is responsive to that parameter by causing the electrical power modulation device to vary the amount of the modified electrical power. A blower motor speed may be controlled based at least in part on the operating parameter.
+title
+    Blower system and method
+similar_document
+19
+    Publication,Publication Date,Title
+    US8890464B2,2014-11-18,Variable-speed-drive system for a grid blower
+    US9738159B2,2017-08-22,Blower system and method
+    US8025115B2,2011-09-27,Hybrid vehicle power control systems and methods
+    US7886669B2,2011-02-15,Method and system for wind-harnessed battery charging in a locomotive
+    US7309929B2,2007-12-18,Locomotive engine start method
+    US9379542B2,2016-06-28,System for multiple inverter-driven loads
+    US8104556B2,2012-01-31,Drive-control apparatus for electric drive vehicle
+    JP5771204B2,2015-08-26,Thermal management system, vehicle and related method
+    AU2020201001B2,2021-08-12,Blower system and method
+    AU2012348038B2,2016-10-27,Method and apparatus to eliminate fuel use for electric drive machines during trolley operation
+    US20120230843A1,2012-09-13,Cooling system for an electric drive machine and method
+    US7034480B2,2006-04-25,Method for eliminating fuel use during dynamic braking
+    AU2013221903B2,2017-03-02,Method and system for motor thermal protection
+    JP2005117819A,2005-04-28,Power conversion device for electric vehicle
+    EP1475263A2,2004-11-10,A controller for a power train
+    JP5875995B2,2016-03-02,Driving device for railway vehicles
+    EA038457B1,2021-08-31,System and method for controlling electrically driven accessories
+    US20020180401A1,2002-12-05,Method and system for cooling a vehicle by controlling the engine speed of a vehicle
+
+patent_application
+2
+    Application,Priority date,Filing date,Relation,Title
+    US14/526,210,2008-06-03,2014-10-28,Division,Blower system and method
+
+patent_priority_application
+2
+    Application,Priority date,Filing date,Title
+    US15/156,779,2008-06-03,2016-05-17,Blower system and method
+
+inventor_number
+    6
+classfication_nums
+    14
+classfication_items
+78
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,0,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,/,0,0
+    B,6,0,L,1,/,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,0,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B
+    B,6,1
+    B,6,1,C
+    B,6,1,C,5,/,0,0
+    B,6,1,C,5,/,0,2
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,3,/,0,0
+    H,0,2,P,3,/,0,6
+    H,0,2,P,3,/,0,8
+    H,0,2,P,3,/,1,2
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,6,/,0,0
+    H,0,2,P,6,/,0,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,4,0
+    B,6,0,L,2,2,4,0,/,4,2
+    B,6,0,L,2,2,4,0,/,4,2,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,4,0,/,0,0
+    B,6,0,L,2,2,4,0,/,6,0
+    B,6,0,L,2,2,4,0,/,6,6
+    B,6,0,L,2,2,4,0,/,6,6,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,3,0,/,0,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,6
+
+application_events
+9
+    2008-06-03,Priority claimed from US12/132,479
+    2016-05-17,Application filed by General Electric Co
+    2016-05-17,Priority to US15/156,779
+    2016-09-08,Publication of US20160257201A1
+    2017-08-22,Application granted
+    2017-08-22,Publication of US9738159B2
+    2018-12-06,Assigned to GE GLOBAL SOURCING LLC
+    Status,Active
+    2028-06-03,Anticipated expiration
+
+active_area
+2
+    U,S
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+5
+    Application,Filing date,Title
+    US12/132,479,2008-06-03,Variable-speed-drive system for a grid blower
+    US13/450,256,2012-04-18,Variable-speed-drive system for a grid blower
+    US14/526,210,2014-10-28,Blower system and method
+    US15/156,779,2016-05-17,Blower system and method
+
+legal_event
+4
+    Date,Code,Title,Description
+    2017-08-02,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+    2018-12-06,AS,Assignment,Owner name: GE GLOBAL SOURCING LLC, CONNECTICUTFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:GENERAL ELECTRIC COMPANY;REEL/FRAME:048891/0130Effective date: 20181101
+    2021-02-16,MAFP,Maintenance fee payment,Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITYYear of fee payment: 4
+

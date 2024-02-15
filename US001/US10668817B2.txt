@@ -1,0 +1,312 @@
+ID
+    US10668817B2
+citation_exist
+    Patent Citations (17)
+citation_infor
+19
+    Publication number,Priority date,Publication date,Assignee,Title
+    US20090171554A1                      *,2006-04-24,2009-07-02,Toyota Jidosha Kabushiki Kaisha,Internal Combustion Engine Stop Controller and Stop Control Method
+    US20100019734A1                      *,2005-09-01,2010-01-28,Toyota Jidosha Kabushiki Kaisha,Charge Control Device and Electrically Driven Vehicle
+    US20100070133A1                      *,2007-03-06,2010-03-18,Toyota Jidosha Kabuchiki Kaisha,Input/output control device for secondary battery and vehicle
+    US20100141213A1                      *,2007-06-06,2010-06-10,Kabushiki Kaisha Toyota Jidoshokki,Power supply apparatus for vehicle
+    JP2010233384A,2009-03-27,2010-10-14,Toyota Motor Corp,Power supply device
+    US20110082611A1                      *,2008-06-27,2011-04-07,Toyota Jidosha Kabushiki Kaisha,Control apparatus and control method for hybrid vehicle
+    JP2016100936A,2014-11-19,2016-05-30,トヨタ自動車株式会社,vehicle
+    JP2016111886A,2014-12-10,2016-06-20,トヨタ自動車株式会社,Power supply system of vehicle
+    US20170155350A1                      *,2015-11-30,2017-06-01,Toyota Jidosha Kabushiki Kaisha,Power supply device
+    US20170158189A1                      *,2014-07-14,2017-06-08,Honda Motor Co., Ltd.,Power system
+    US20170225571A1                      *,2016-02-10,2017-08-10,Toyota Jidosha Kabushiki Kaisha,Power supply device
+    US20180232030A1                      *,2017-02-14,2018-08-16,Delta Electronics, Inc.,Power distribution apparatus and method of operating the same
+    Family To Family Citations,,,,
+    WO2012140746A1                      *,2011-04-13,2012-10-18,トヨタ自動車株式会社,Power supply device for electric vehicle and method for controlling same
+    JP2014011897A                      *,2012-06-29,2014-01-20,Honda Motor Co Ltd,Electric power conversion system in electric vehicle
+    US9963043B2                      *,2013-12-27,2018-05-08,Sanyo Electric Co., Ltd.,Control system and vehicle power supply
+    JP2015198501A                      *,2014-04-01,2015-11-09,トヨタ自動車株式会社,Vehicular control apparatus
+    JP2016026949A                      *,2014-06-25,2016-02-18,トヨタ自動車株式会社,Vehicle control unit
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (13)
+              
+
+
+citedBy_infor
+15
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    DE102019109282A1                      *,2018-04-10,2019-10-10,Denso Corporation,ELECTRONIC CONTROL DEVICE
+    US11290015B2                      *,2019-12-10,2022-03-29,xMEMS Labs, Inc.,Driving circuit with energy recycle capability
+    US11133784B2,2019-12-10,2021-09-28,xMEMS Labs, Inc.,Method of driving circuit with energy recycle capability
+    US11558016B2,2020-03-12,2023-01-17,Qorvo Us, Inc.,Fast-switching average power tracking power management integrated circuit
+    US11736076B2,2020-06-10,2023-08-22,Qorvo Us, Inc.,Average power tracking power management circuit
+    US11579646B2,2020-06-11,2023-02-14,Qorvo Us, Inc.,Power management circuit for fast average power tracking voltage switching
+    US11336182B2,2020-07-19,2022-05-17,xMEMS Labs, Inc.,Driving circuit with energy recycle capability
+    US11349468B2,2020-07-24,2022-05-31,Qorvo Us, Inc.,Target voltage circuit for fast voltage switching
+    US11539290B2,2020-07-30,2022-12-27,Qorvo Us, Inc.,Power management circuit operable with low battery
+    US11619957B2                      *,2020-08-18,2023-04-04,Qorvo Us, Inc.,Power management circuit operable to reduce energy loss
+    US11482970B2,2020-09-03,2022-10-25,Qorvo Us, Inc.,Power management circuit operable to adjust voltage within a defined interval(s)
+    JP2022083137A                      *,2020-11-24,2022-06-03,株式会社エフ・シー・シー,Electric vehicle
+    US11699950B2,2020-12-17,2023-07-11,Qorvo Us, Inc.,Fast-switching power management circuit operable to prolong battery life
+
+abstract
+    A driving device includes a motor; a power storage device; a first boost converter configured to exchange power by voltage conversion between a power storage device side and a motor side; a second boost converter connected to the first boost converter in parallel and configured to exchange power by voltage conversion between the power storage device side and the motor side; and an electronic control unit configured to control the first boost converter and the second boost converter. The electronic control unit controls the first boost converter and the second boost converter such that the loss of each of the first boost converter and the second boost converter is not minimized during an excessive power input in which power to be input to the power storage device from the motor side is greater than an input limit of the power storage device.
+title
+    Driving device
+similar_document
+24
+    Publication,Publication Date,Title
+    US10668817B2,2020-06-02,Driving device
+    US10958091B2,2021-03-23,Power supply device
+    US10737681B2,2020-08-11,Drive unit, vehicle, and control method for drive unit
+    JP5716694B2,2015-05-13,Electric vehicle
+    US10040356B2,2018-08-07,Power supply device
+    US9873339B2,2018-01-23,Vehicle, power source system, and control method of power source system
+    US9755561B2,2017-09-05,Power supply device
+    US9876460B2,2018-01-23,Automobile equipped with drive motor
+    JP2008228403A,2008-09-25,Power supply device for vehicle
+    US10744897B2,2020-08-18,Power-supply apparatus
+    US10483841B2,2019-11-19,Motor vehicle
+    JP2017011940A,2017-01-12,Control method of fuel-cell automobile, and fuel-cell automobile
+    US10046657B2,2018-08-14,Driving device
+    CN103097170B,2015-05-20,Load driving device, vehicle equipped with load driving device, and method of controlling load driving device
+    JP2008278561A,2008-11-13,Electric apparatus and control method thereof
+    US10814862B2,2020-10-27,Hybrid vehicle
+    US11070156B2,2021-07-20,Power system
+    US11312247B2,2022-04-26,Power supply device
+    JP2019075886A,2019-05-16,Boost converter
+    US10778100B2,2020-09-15,Power supply device
+    US10784782B2,2020-09-22,Drive device
+    JP6939399B2,2021-09-22,Boost converter device
+    JP2017196929A,2017-11-02,Hybrid vehicle
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    3
+classfication_nums
+    34
+classfication_items
+180
+    B,6,0,L,1,1,/,1,8,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,0,0,7
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,4,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,3,/,0,0
+    B,6,0,L,3,/,0,0,2,3
+    B,6,0,L,3,/,0,0,4,6
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,3,/,0,0
+    B,6,0,L,5,3,/,2,0
+    B,6,0,L,5,3,/,2,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,2
+    B,6,0,L,5,8,/,1,5
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,4
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,2,9
+    H,0,2,J,7,/,0,0,3,0,2
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,4,7
+    H,0,2,J,7,/,0,0,4,8
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,1,4
+    H,0,2,J,7,/,1,4,6,1
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,1,4
+    H,0,2,J,7,/,1,6
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,1,4
+    H,0,2,J,7,/,1,6
+    H,0,2,J,7,/,1,6,6
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,7,/,0,0
+    H,0,2,P,2,7,/,0,4
+    H,0,2,P,2,7,/,0,6
+    H,0,2,P,2,7,/,0,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B,6,0,L,2,2,1,0,/,1,4
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H,0,2,M,3,/,0,2
+    H,0,2,M,3,/,0,4
+    H,0,2,M,3,/,1,0
+    H,0,2,M,3,/,1,4,5
+    H,0,2,M,3,/,1,5,5
+    H,0,2,M,3,/,1,5,6
+    H,0,2,M,3,/,1,5,8
+    H,0,2,M,3,/,1,5,8,4
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,2,0,1,/,0,0
+    H,0,2,P,2,2,0,1,/,0,7
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,2,7,/,0,0
+    H,0,2,P,2,7,/,0,4
+    H,0,2,P,2,7,/,0,6
+    H
+    H,0,2
+    H,0,2,P
+    H,0,2,P,3,/,0,0
+    H,0,2,P,3,/,0,6
+    H,0,2,P,3,/,1,8
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+    Y,0,2,T,1,0,/,7,0,0,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0,7,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+    Y,0,2,T,1,0,/,7,2,2,5
+    Y,0,2,T,1,0,/,7,2,4,1
+    Y,0,2,T,1,0,/,7,2,7,5
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,8,0
+    Y,0,2,T,1,0,/,9,2
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,2
+    Y,0,2,T,9,0,/,1,2,7
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,9,0,/,0,0
+    Y,0,2,T,9,0,/,1,0
+    Y,0,2,T,9,0,/,1,4
+
+application_events
+7
+    2018-03-06,Application filed by Toyota Motor Corp
+    2018-03-06,Assigned to TOYOTA JIDOSHA KABUSHIKI KAISHA
+    2018-09-13,Publication of US20180257496A1
+    2020-06-02,Application granted
+    2020-06-02,Publication of US10668817B2
+    Status,Active
+    2038-07-19,Adjusted expiration
+
+active_area
+3
+    J,P
+    C,N
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2017-046261,2017-03-10,
+    JP2017046261A,2017-03-10,Drive
+
+legal_event
+8
+    Date,Code,Title,Description
+    2018-03-06,AS,Assignment,Owner name: TOYOTA JIDOSHA KABUSHIKI KAISHA, JAPANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:ANDOH, TAKAHIRO;TAGAWA, YOHSUKE;SIGNING DATES FROM 20180108 TO 20180130;REEL/FRAME:045505/0340
+    2018-03-06,FEPP,Fee payment procedure,Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+    2018-05-19,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2019-09-16,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2019-12-18,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2020-02-10,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+    2020-05-13,STCF,Information on status: patent grant,Free format text: PATENTED CASE
+

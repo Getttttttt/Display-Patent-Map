@@ -1,0 +1,196 @@
+ID
+    EP3424768B1
+citation_exist
+    Patent Citations (7)
+citation_infor
+9
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    JP4421428B2                      *,2004-08-31,2010-02-24,株式会社東芝,Vehicle fixed position stop automatic control device
+    JP2006292625A                      *,2005-04-13,2006-10-26,Toyota Motor Corp,Vehicle speed calculation system
+    JP2010098821A                      *,2008-10-15,2010-04-30,Toshiba Corp,Train control device with deceleration ratio estimator
+    JP5395398B2                      *,2008-10-16,2014-01-22,株式会社東芝,Train control device
+    US8924120B2                      *,2009-06-06,2014-12-30,Ford Global Technologies, Llc,Regenerative brake control system and method
+    JP5944229B2                      *,2012-05-30,2016-07-05,株式会社東芝,Train control device
+    JP6357372B2                      *,2014-07-10,2018-07-11,株式会社日立製作所,Automatic train driving device and automatic train driving method
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    
+              Cited By (6)
+              
+
+
+citedBy_infor
+8
+    Publication number,Priority date,Publication date,Assignee,Title
+    Family To Family Citations,,,,
+    CN109343588A                      *,2018-08-31,2019-02-15,惠州市德赛西威汽车电子股份有限公司,The dynamic assessment method and acceleration control method of vehicle acceleration characteristics
+    JP7078756B2                      *,2019-01-11,2022-05-31,株式会社日立製作所,Train control system and train control method
+    CN113120033A                      *,2019-12-31,2021-07-16,比亚迪股份有限公司,Train parking control method and vehicle-mounted controller
+    CN113442970B                      *,2020-03-27,2022-08-09,比亚迪股份有限公司,Train jump control method and device and train
+    CN112141063B                      *,2020-09-21,2021-07-27,通号城市轨道交通技术有限公司,Train braking method and device, electronic equipment and storage medium
+    CZ309568B6                      *,2021-01-14,2023-04-19,ŠKODA ELECTRIC a.s,A method of regulating and limiting the speed and acceleration control of electric ground vehicles
+
+abstract
+    
+title
+    Train control device
+similar_document
+23
+    Publication,Publication Date,Title
+    EP3424768B1,2023-04-26,Train control device
+    EP3482995B1,2023-10-11,Train control device, method, and program
+    US10308264B2,2019-06-04,System for controlling speed of railway vehicles by considering braking characteristic
+    CN111422223B,2020-09-08,Automatic speed control method and device for high-speed railway train
+    CN102414072B,2015-04-01,Method for operating rail vehicle
+    US4235402A,1980-11-25,Train vehicle speed control apparatus
+    CN107856703B,2020-07-24,Automatic recovery method for positioning of unmanned train
+    US9718485B2,2017-08-01,Apparatus for warning of exceeding speed limit in railway vehicles
+    CN101875361A,2010-11-03,Method and device for regulating train speed
+    CN104973093B,2021-02-05,Method for calculating the position range of a railway vehicle on a railway track and associated device
+    JP2010098821A,2010-04-30,Train control device with deceleration ratio estimator
+    CN114007921B,2023-08-18,Method and device for dynamically optimizing the braking distance of a vehicle, in particular a rail vehicle
+    GB2474934A,2011-05-04,Automatic train braking system
+    JP7321957B2,2023-08-07,BRAKE FORCE CONTROL SYSTEM AND BRAKE FORCE CONTROL METHOD
+    CN111114594B,2022-02-08,Rail train auxiliary driving control method and device and train
+    CN113548090B,2021-12-28,Method and device for adjusting accurate parking control parameters of train automatic driving
+    JP2019193426A,2019-10-31,Train control device and train control method
+    JP2006074876A,2006-03-16,Home position stoppage automatic controller for vehicle
+    AU2013205670B2,2018-03-08,Method and system for securing a movement of a rail vehicle, onboard controller in a rail vehicle and a rail vehicle
+    WO2020035128A1,2020-02-20,Vehicle mounted systems and methods for downhill driving at a safe distance to a target vehicle
+    TWI796026B,2023-03-11,Train control device and control method
+    KR102442154B1,2022-09-07,Train controller and its method to minimize the headway of urban railroad
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    8
+classfication_nums
+    10
+classfication_items
+55
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,1,5,/,0,0
+    B,6,1,L,1,5,/,0,0,7,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,2,0
+    B,6,0,L,1,5,/,2,0,0,9
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,1,5,/,0,0
+    B,6,0,L,1,5,/,4,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,8
+    B
+    B,6,1
+    B,6,1,H
+    B,6,1,H,1,1,/,0,0
+    B,6,1,H,1,1,/,1,4
+    B
+    B,6,1
+    B,6,1,L
+    B,6,1,L,2,5,/,0,0
+    B,6,1,L,2,5,/,0,2
+    B,6,1,L,2,5,/,0,2,1
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,0,0,/,0,0
+    B,6,0,L,2,2,0,0,/,2,6
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,6,4
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,2
+
+application_events
+7
+    2016-12-27,Application filed by Toshiba Corp, Toshiba Infrastructure Systems and Solutions Corp
+    2019-01-09,Publication of EP3424768A1
+    2019-11-27,Publication of EP3424768A4
+    2023-04-26,Application granted
+    2023-04-26,Publication of EP3424768B1
+    Status,Active
+    2036-12-27,Anticipated expiration
+
+active_area
+6
+    J,P
+    K,R
+    C,N
+    W,O
+    E,P
+    T,W
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    JP2016041195A,2016-03-03,Train control device
+    PCT/JP2016/088933,2016-12-27,Train control device
+
+legal_event
+32
+    Date,Code,Title,Description
+    2017-09-08,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE INTERNATIONAL PUBLICATION HAS BEEN MADE
+    2018-12-07,PUAI,Public reference made under article 153(3) epc to a published international application that has entered the european phase,Free format text: ORIGINAL CODE: 0009012
+    2018-12-07,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+    2019-01-09,17P,Request for examination filed,Effective date: 20180830
+    2019-01-09,AK,Designated contracting states,Kind code of ref document: A1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2019-01-09,AX,Request for extension of the european patent,Extension  state: BA ME
+    2019-04-10,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+    2019-06-12,DAV,Request for validation of the european patent (deleted),
+    2019-06-12,DAX,Request for extension of the european patent (deleted),
+    2019-11-27,A4,Supplementary search report drawn up and despatched,Effective date: 20191024
+    2019-11-27,RIC1,Information provided on ipc code assigned before grant,Ipc: B60L  15/40        20060101ALI20191018BHEPIpc: B60L  15/20        20060101ALI20191018BHEPIpc: B60L   7/18        20060101AFI20191018BHEP
+    2021-04-23,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: EXAMINATION IS IN PROGRESS
+    2021-05-26,17Q,First examination report despatched,Effective date: 20210428
+    2021-08-27,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: EXAMINATION IS IN PROGRESS
+    2022-11-20,GRAP,Despatch of communication of intention to grant a patent,Free format text: ORIGINAL CODE: EPIDOSNIGR1
+    2022-11-20,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: GRANT OF PATENT IS INTENDED
+    2022-12-21,INTG,Intention to grant announced,Effective date: 20221121
+    2023-03-14,GRAS,Grant fee paid,Free format text: ORIGINAL CODE: EPIDOSNIGR3
+    2023-03-24,GRAA,(expected) grant,Free format text: ORIGINAL CODE: 0009210
+    2023-03-24,STAA,Information on the status of an ep patent application or granted ep patent,Free format text: STATUS: THE PATENT HAS BEEN GRANTED
+    2023-04-26,AK,Designated contracting states,Kind code of ref document: B1Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+    2023-04-26,REG,Reference to a national code,Ref country code: GBRef legal event code: FG4D
+    2023-04-28,REG,Reference to a national code,Ref country code: CHRef legal event code: EP
+    2023-05-11,REG,Reference to a national code,Ref country code: DERef legal event code: R096Ref document number: 602016079107Country of ref document: DE
+    2023-05-15,REG,Reference to a national code,Ref country code: ATRef legal event code: REFRef document number: 1562591Country of ref document: ATKind code of ref document: TEffective date: 20230515
+    2023-05-24,REG,Reference to a national code,Ref country code: IERef legal event code: FG4D
+    2023-08-25,REG,Reference to a national code,Ref country code: LTRef legal event code: MG9D
+    2023-08-30,REG,Reference to a national code,Ref country code: NLRef legal event code: MPEffective date: 20230426
+    2023-09-15,REG,Reference to a national code,Ref country code: ATRef legal event code: MK05Ref document number: 1562591Country of ref document: ATKind code of ref document: TEffective date: 20230426
+    2023-09-29,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: NLFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20230426
+    2023-10-31,PG25,Lapsed in a contracting state [announced via postgrant information from national office to epo],Ref country code: SEFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20230426Ref country code: PTFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20230828Ref country code: NOFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20230726Ref country code: ESFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20230426Ref country code: ATFree format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMITEffective date: 20230426
+

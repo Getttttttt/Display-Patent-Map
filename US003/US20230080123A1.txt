@@ -1,0 +1,159 @@
+ID
+    US20230080123A1
+citation_exist
+    Patent Citations (2)
+citation_infor
+4
+    Publication number,Priority date,Publication date,Assignee,Title
+    CN212381120U                      *,2020-08-03,2021-01-19,锦浪科技股份有限公司,Efficient bidirectional four-pipe BUCK-BOOST converter
+    US20220416660A1                      *,2021-06-25,2022-12-29,Ge Energy Power Conversion Technology Limited,Self Reconfigurable, Adaptable Power Electronics Building Block (A PEBB)
+    Family To Family Citations,,,,
+
+non_patent_citation_exist
+    NoNonPatentCitation
+non_patent_citation_infor
+    NoNonPatentCitation
+citedBy_exist
+    NocitedBy
+citedBy_infor
+    NocitedBy
+abstract
+    A power control system includes a battery system and a DC-DC converter with first, second, third, and fourth power switches. A second terminal of the first power switch is connected to a first terminal of the second power switch. A second terminal of the third power switch is connected to a first terminal of the fourth power switch. A first inductor includes a first terminal connected to the second terminal of the first power switch and the first terminal of the second power switch and a second terminal connected to the second terminal of the third power switch and the first terminal of the fourth power switch. A first bypass switch is connected in parallel to the first power switch. A second bypass switch is connected in parallel to the third power switch.
+title
+    Efficient bypass switches for dc/dc converter
+similar_document
+26
+    Publication,Publication Date,Title
+    CN107465345B,2021-02-26,System and method for DC/DC converter
+    JP5842278B2,2016-01-13,Current reversing DC / DC boost converter
+    US10644596B2,2020-05-05,Self-balanced non-isolated hybrid modular DC-DC converter based on low duty cycle operation and sequential capacitors charging/discharging for medium voltage DC grids
+    US20090027933A1,2009-01-29,Voltage link control of a dc-ac boost converter system
+    CN108306488B,2021-10-26,Variable voltage converter for obtaining lower minimum step-up ratio
+    US20120069604A1,2012-03-22,Compact power converter with high efficiency in operation
+    US10574144B1,2020-02-25,System and method for a magnetically coupled inductor boost and multiphase buck converter with split duty cycle
+    US8058744B2,2011-11-15,Electrical system and automotive drive system having an on-demand boost converter, and related operating methods
+    JP5446054B2,2014-03-19,Power system
+    Stillwell et al.,2018,Design of a 1 kV bidirectional DC-DC converter with 650 V GaN transistors
+    CN111049383A,2020-04-21,Boost circuit of direct-hanging high-voltage power supply and soft start method
+    US9838002B2,2017-12-05,IGBT gate drive during turnoff to reduce switching loss
+    US20230080123A1,2023-03-16,Efficient bypass switches for dc/dc converter
+    JP2021175260A,2021-11-01,Dc/dc conversion device
+    US10870362B2,2020-12-22,Method for charging an electrical energy storage unit and voltage converter
+    US20230084872A1,2023-03-16,Ultra high gain bidirectional dc to dc converter
+    Lei et al.,2009,Application of current-fed quasi-Z-Source Inverter for traction drive of hybrid electric vehicles
+    US20230150378A1,2023-05-18,Multi-function dc-dc converter for battery electric vehicles
+    CN212012472U,2020-11-24,Bus capacitance balancing device and electric automobile charging power supply
+    JP5310184B2,2013-10-09,Bidirectional buck-boost chopper circuit
+    CN211557149U,2020-09-22,Boost circuit of direct-hanging high-voltage power supply
+    WO2021246242A1,2021-12-09,Dc/dc conversion device
+    US20220416560A1,2022-12-29,System for charging vehicle battery using motor driving system
+    Lin et al.,2021,Wide voltage range DC/DC converter for railway auxiliary power units
+    KR20230013551A,2023-01-26,System of charging battery for vehicle using motor driving system
+
+patent_application
+    NoExist
+patent_priority_application
+    NoExist
+inventor_number
+    6
+classfication_nums
+    10
+classfication_items
+62
+    H
+    H,0,2
+    H,0,2,M
+    H,0,2,M,3,/,0,0
+    H,0,2,M,3,/,0,2
+    H,0,2,M,3,/,0,4
+    H,0,2,M,3,/,1,0
+    H,0,2,M,3,/,1,4,5
+    H,0,2,M,3,/,1,5,5
+    H,0,2,M,3,/,1,5,6
+    H,0,2,M,3,/,1,5,8
+    H,0,2,M,3,/,1,5,8,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,5,8,/,0,0
+    B,6,0,L,5,8,/,1,0
+    B,6,0,L,5,8,/,1,8
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,7,/,0,0
+    B,6,0,L,7,/,1,0
+    B,6,0,L,7,/,1,6
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,1,3
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,7,/,0,0
+    H,0,2,J,7,/,0,0,6,3
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B,6,0,L,2,2,1,0,/,1,2
+    B
+    B,6,0
+    B,6,0,L
+    B,6,0,L,2,2,1,0,/,0,0
+    B,6,0,L,2,2,1,0,/,1,0
+    B,6,0,L,2,2,1,0,/,1,4
+    H
+    H,0,2
+    H,0,2,J
+    H,0,2,J,2,2,0,7,/,0,0
+    H,0,2,J,2,2,0,7,/,2,0
+    Y
+    Y,0,2
+    Y,0,2,T
+    Y,0,2,T,1,0,/,0,0
+    Y,0,2,T,1,0,/,6,0
+    Y,0,2,T,1,0,/,7,0
+
+application_events
+4
+    2021-12-13,Application filed by GM Global Technology Operations LLC
+    2021-12-13,Assigned to GM Global Technology Operations LLC
+    2023-03-16,Publication of US20230080123A1
+    Status,Pending
+
+active_area
+3
+    C,N
+    D,E
+    U,S
+
+not_active_area
+0
+
+patent_application_claiming_priority
+3
+    Application,Filing date,Title
+    CN202111076058.0,2021-09-14,
+    CN202111076058.0A,2021-09-14,High efficiency bypass switch for DC/DC converter
+
+legal_event
+9
+    Date,Code,Title,Description
+    2021-12-13,AS,Assignment,Owner name: GM GLOBAL TECHNOLOGY OPERATIONS LLC, MICHIGANFree format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:ZOU, YUSHENG;HAO, LEI;DUAN, CHENGWU;AND OTHERS;SIGNING DATES FROM 20210812 TO 20210909;REEL/FRAME:058374/0454
+    2022-01-18,STPP,Information on status: patent application and granting procedure in general,Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+    2023-05-09,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2023-07-18,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2023-08-25,STPP,Information on status: patent application and granting procedure in general,Free format text: NON FINAL ACTION MAILED
+    2023-09-13,STPP,Information on status: patent application and granting procedure in general,Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+    2023-09-22,STPP,Information on status: patent application and granting procedure in general,Free format text: AWAITING TC RESP., ISSUE FEE NOT PAID
+    2023-10-14,STPP,Information on status: patent application and granting procedure in general,Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+
